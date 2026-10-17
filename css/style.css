@@ -1149,6 +1149,64 @@ body.blur-translation .lyric-line:hover .lyric-text {
   color: inherit;
 }
 
+.study-tabs {
+  border-top: 1px solid var(--border);
+}
+
+.study-tab-bar {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 10px 16px 0;
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  background: var(--paper-1);
+  border-bottom: 1px solid var(--border);
+}
+
+.study-tab {
+  height: 34px;
+  padding: 0 14px;
+  border: 1px solid var(--border);
+  border-bottom: none;
+  border-radius: 10px 10px 0 0;
+  background: var(--paper-2, var(--paper-3));
+  color: var(--ink-3);
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: color 0.15s ease, background-color 0.15s ease;
+}
+
+.study-tab.active {
+  background: var(--paper-3);
+  color: var(--ink-1);
+  border-color: var(--border);
+  position: relative;
+  top: 1px;
+}
+
+.tab-count {
+  font-size: 11px;
+  font-weight: 700;
+  opacity: 0.7;
+  margin-left: 2px;
+}
+
+.study-collapse {
+  margin-left: auto;
+  width: 30px;
+  height: 30px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: transparent;
+  color: var(--ink-2);
+  font-size: 12px;
+  cursor: pointer;
+  line-height: 1;
+}
+
 .vocab-translation {
   margin: 4px 0 0;
   font-size: 13px;

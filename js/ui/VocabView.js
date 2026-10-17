@@ -1,15 +1,24 @@
 /**
- * 本课生词面板：加载并展示每课词汇（音标 + 中英释义 + 读音）
+ * 学习标签面板：生词 + 语法练习，可切换、可折叠
  * @module ui/VocabView
  */
 
 import { escapeHtml } from '../utils/escape.js';
 
+const TABS_STORAGE_KEY = 'NCE_STUDY_TAB_STATE';
+
 export class VocabView {
   /**
    * @param {Object} options
    * @param {HTMLElement} options.container 生词面板容器
-   * @param {string} options.baseUrl 词汇数据基础路径，如 "vocab"
+   * @param {HTMLElement} [options.grammarPanel] 语法面板容器
+   * @param {HTMLElement} [options.tabsWrap] 标签整体容器
+   * @param {HTMLElement} [options.tabVocab] 生词标签按钮
+   * @param {HTMLElement} [options.tabGrammar] 语法标签按钮
+   * @param {HTMLElement} [options.collapseBtn] 折叠按钮
+   * @param {HTMLElement} [options.vocabCount] 生词数量角标
+   * @param {HTMLElement} [options.grammarCount] 语法数量角标
+   * @param {string} [options.baseUrl] 词汇数据基础路径
    */
   constructor(options = {}) {
     this.container = options.container;
@@ -18,18 +27,46 @@ export class VocabView {
     this.loadedUnit = null;
     this.grammarCache = new Map();
     this.grammarPanel = options.grammarPanel || null;
+    this.tabsWrap = options.tabsWrap || null;
+    this.tabVocab = options.tabVocab || null;
+    this.tabGrammar = options.tabGrammar || null;
+    this.collapseBtn = options.collapseBtn || null;
+    this.vocabCountEl = options.vocabCount || null;
+    this.grammarCountEl = options.grammarCount || null;
+    this.activeTab = 'vocab';
+    this.collapsed = false;
+    this.hasVocab = false;
+    this.hasGrammar = false;
     this.ttsAvailable = typeof window !== 'undefined' && 'speechSynthesis' in window;
+    this.#restoreTabState();
     this.#bind();
   }
 
+  #restoreTabState() {
+    try {
+      const saved = localStorage.getItem(TABS_STORAGE_KEY);
+      if (saved) {
+        const state = JSON.parse(saved);
+        if (state.collapsed) this.collapsed = true;
+      }
+    } catch { /* ignore */ }
+  }
+
+  #saveTabState() {
+    try {
+      localStorage.setItem(TABS_STORAGE_KEY, JSON.stringify({ collapsed: this.collapsed }));
+    } catch { /* ignore */ }
+  }
+
   #bind() {
-    if (!this.container) return;
-    this.container.addEventListener('click', (event) => {
-      const btn = event.target.closest('.vocab-speak-btn');
-      if (!btn) return;
-      const word = btn.closest('.vocab-item')?.dataset.word;
-      if (word) this.speak(word);
-    });
+    if (this.container) {
+      this.container.addEventListener('click', (event) => {
+        const btn = event.target.closest('.vocab-speak-btn');
+        if (!btn) return;
+        const word = btn.closest('.vocab-item')?.dataset.word;
+        if (word) this.speak(word);
+      });
+    }
     // 练习题"显示答案"按钮
     this.grammarPanel?.addEventListener('click', (event) => {
       const btn = event.target.closest('.ex-answer-btn');
@@ -39,6 +76,58 @@ export class VocabView {
       answer.hidden = !answer.hidden;
       btn.textContent = answer.hidden ? '显示答案' : '隐藏答案';
     });
+    // 标签切换
+    this.tabVocab?.addEventListener('click', () => this.#setActiveTab('vocab'));
+    this.tabGrammar?.addEventListener('click', () => this.#setActiveTab('grammar'));
+    this.collapseBtn?.addEventListener('click', () => {
+      this.collapsed = !this.collapsed;
+      this.#saveTabState();
+      this.#applyTabState();
+    });
+  }
+
+  #setActiveTab(tab) {
+    this.activeTab = tab;
+    this.collapsed = false;
+    this.#applyTabState();
+  }
+
+  #applyTabState() {
+    const vocabAvailable = this.hasVocab;
+    const grammarAvailable = this.hasGrammar;
+    this.tabsWrap && (this.tabsWrap.hidden = !(vocabAvailable || grammarAvailable));
+    this.tabVocab && (this.tabVocab.hidden = !vocabAvailable);
+    this.tabGrammar && (this.tabGrammar.hidden = !grammarAvailable);
+
+    // 若当前标签无数据，自动跳到另一个
+    if (this.activeTab === 'vocab' && !vocabAvailable) this.activeTab = 'grammar';
+    if (this.activeTab === 'grammar' && !grammarAvailable) this.activeTab = 'vocab';
+
+    if (this.tabVocab) {
+      this.tabVocab.classList.toggle('active', this.activeTab === 'vocab' && !this.collapsed);
+      this.tabVocab.setAttribute('aria-selected', String(this.activeTab === 'vocab'));
+    }
+    if (this.tabGrammar) {
+      this.tabGrammar.classList.toggle('active', this.activeTab === 'grammar' && !this.collapsed);
+      this.tabGrammar.setAttribute('aria-selected', String(this.activeTab === 'grammar'));
+    }
+    if (this.collapseBtn) {
+      this.collapseBtn.textContent = this.collapsed ? '▸' : '▾';
+    }
+    if (this.container) {
+      this.container.hidden = this.collapsed || this.activeTab !== 'vocab' || !this.hasVocab;
+    }
+    if (this.grammarPanel) {
+      this.grammarPanel.hidden = this.collapsed || this.activeTab !== 'grammar' || !this.hasGrammar;
+    }
+  }
+
+  /** 课程切换：重置到生词标签 */
+  #resetTabOnUnitChange() {
+    if (!this.hasVocab && this.hasGrammar) this.activeTab = 'grammar';
+    else this.activeTab = 'vocab';
+    if (this.container) this.container.scrollTop = 0;
+    if (this.grammarPanel) this.grammarPanel.scrollTop = 0;
   }
 
   /**
@@ -80,12 +169,15 @@ export class VocabView {
         this.cache.set(url, entries);
       } catch (error) {
         if (error?.name === 'AbortError') return;
-        this.#setEmpty(); // 该课暂无词汇数据
+        this.hasVocab = false;
+        if (this.vocabCountEl) this.vocabCountEl.textContent = '';
+        this.#applyTabState(); // 该课暂无词汇数据
         return;
       }
     }
 
     if (this.loadedUnit !== unitId) return;
+    this.#resetTabOnUnitChange();
     this.render(entries);
 
     // 语法讲解数据（独立目录 grammar/）
@@ -117,8 +209,16 @@ export class VocabView {
   renderGrammar(data) {
     const panel = this.grammarPanel;
     if (!panel) return;
-    if (!data) {
-      panel.hidden = true;
+
+    const exCount = data?.exercises?.length || 0;
+    const gCount = (data?.grammar?.length || 0) + (data?.sentences?.length || 0) + (data?.expand?.length || 0) + exCount;
+    this.hasGrammar = gCount > 0;
+    if (this.grammarCountEl) {
+      this.grammarCountEl.textContent = gCount ? ` ${gCount}` : '';
+    }
+    this.#applyTabState();
+
+    if (!data || !this.hasGrammar) {
       panel.innerHTML = '';
       return;
     }
@@ -155,12 +255,10 @@ export class VocabView {
     ].filter(Boolean).join('');
 
     if (!html) {
-      panel.hidden = true;
       panel.innerHTML = '';
       return;
     }
     panel.innerHTML = html;
-    panel.hidden = false;
   }
 
   /**
@@ -169,8 +267,14 @@ export class VocabView {
   render(entries) {
     if (!this.container) return;
 
-    if (!Array.isArray(entries) || !entries.length) {
-      this.#setEmpty();
+    this.hasVocab = Array.isArray(entries) && entries.length > 0;
+    if (this.vocabCountEl) {
+      this.vocabCountEl.textContent = this.hasVocab ? ` ${entries.length}` : '';
+    }
+    this.#applyTabState();
+
+    if (!this.hasVocab) {
+      this.container.innerHTML = '';
       return;
     }
 
@@ -203,12 +307,5 @@ export class VocabView {
     this.container.innerHTML = `
       <h3 class="vocab-title">📖 本课生词（${entries.length}）</h3>
       <ul class="vocab-list">${rows}</ul>`;
-    this.container.hidden = false;
-  }
-
-  #setEmpty() {
-    if (!this.container) return;
-    this.container.hidden = true;
-    this.container.innerHTML = '';
   }
 }

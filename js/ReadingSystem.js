@@ -89,6 +89,12 @@ export class ReadingSystem {
     this.vocabView = new VocabView({
       container: qs('#vocabPanel'),
       grammarPanel: qs('#grammarPanel'),
+      tabsWrap: qs('#studyTabs'),
+      tabVocab: qs('#tabVocab'),
+      tabGrammar: qs('#tabGrammar'),
+      collapseBtn: qs('#tabsCollapse'),
+      vocabCount: qs('#vocabCount'),
+      grammarCount: qs('#grammarCount'),
     });
 
     this.speedBtn = qs('#speedBtn');

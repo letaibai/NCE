@@ -217,8 +217,19 @@
           <div id="lyricsDisplay" class="lyrics-display">
             <p class="placeholder">加载中…</p>
           </div>
-          <div id="vocabPanel" class="vocab-panel" hidden></div>
-          <div id="grammarPanel" class="grammar-panel" hidden></div>
+          <div id="studyTabs" class="study-tabs" hidden>
+            <div class="study-tab-bar" role="tablist">
+              <button id="tabVocab" class="study-tab active" type="button" role="tab" aria-selected="true">
+                📖 生词<span id="vocabCount" class="tab-count"></span>
+              </button>
+              <button id="tabGrammar" class="study-tab" type="button" role="tab" aria-selected="false">
+                📘 语法与练习<span id="grammarCount" class="tab-count"></span>
+              </button>
+              <button id="tabsCollapse" class="study-collapse" type="button" aria-label="折叠/展开">▾</button>
+            </div>
+            <div id="vocabPanel" class="vocab-panel" hidden></div>
+            <div id="grammarPanel" class="grammar-panel" hidden></div>
+          </div>
           <div class="like-and-support">
           </div>
         </section>
