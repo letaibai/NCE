@@ -46,7 +46,7 @@ export class BookService {
   }
 
   /**
-   * @param {{key?: string, path?: string, bookPath?: string}} book
+   * @param {{key?: string, path?: string, bookPath?: string, lrcPath?: string}} book
    * @param {AbortSignal} [signal]
    * @returns {Promise<{units: Array, coverUrl: string, bookName: string, bookLevel: string}>}
    */
@@ -58,6 +58,7 @@ export class BookService {
       throw new Error(`HTTP ${response.status}`);
     }
     const data = await response.json();
+    const lrcPath = (book.lrcPath || '').trim().replace(/\/$/, '');
     const units = (Array.isArray(data.units) ? data.units : [])
       .filter((unit) => unit?.filename)
       .map((unit, index) => ({
@@ -65,7 +66,7 @@ export class BookService {
         id: index + 1,
         title: unit.title || `Unit ${index + 1}`,
         audio: `${bookPath}/${unit.filename}.mp3`,
-        lrc: `${bookPath}/${unit.filename}.lrc`,
+        lrc: `${lrcPath || bookPath}/${unit.filename}.lrc`,
       }));
 
     return {
