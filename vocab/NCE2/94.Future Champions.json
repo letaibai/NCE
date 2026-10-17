@@ -3,19 +3,19 @@
   "word": "children",
   "phonetic": "'tʃildrәn",
   "translation": "pl. 孩子, 孩子们",
-  "definition": "n a young person of either sex\\nn a human offspring (son or daughter) of any age\\nn an immature childish person\\nn a member of a clan or tribe"
+  "definition": "n a young person of either sex\nn a human offspring (son or daughter) of any age\nn an immature childish person\nn a member of a clan or tribe"
  },
  {
   "word": "pool",
   "phonetic": "pu:l",
-  "translation": "n. 池, 水塘, 石油层, 联营\\nvt. 合伙经营, 共享, 采掘, 汇聚成\\nvi. 汇合成塘, 淤积, 联营",
-  "definition": "n. an excavation that is (usually) filled with water\\nn. an organization of people or resources that can be shared\\nn. any communal combination of funds\\nn. a small body of standing water (rainwater) or other liquid"
+  "translation": "n. 池, 水塘, 石油层, 联营\nvt. 合伙经营, 共享, 采掘, 汇聚成\nvi. 汇合成塘, 淤积, 联营",
+  "definition": "n. an excavation that is (usually) filled with water\nn. an organization of people or resources that can be shared\nn. any communal combination of funds\nn. a small body of standing water (rainwater) or other liquid"
  },
  {
   "word": "before",
   "phonetic": "bi'fɒ:",
-  "translation": "prep. 在...之前\\nconj. 在...之前\\nadv. 在前",
-  "definition": "r earlier in time; previously\\nr at or in the front"
+  "translation": "prep. 在...之前\nconj. 在...之前\nadv. 在前",
+  "definition": "r earlier in time; previously\nr at or in the front"
  },
  {
   "word": "swimming",
@@ -26,20 +26,20 @@
  {
   "word": "water",
   "phonetic": "'wɒ:tә",
-  "translation": "n. 水, 雨水, 海水, 水位, 水面, 流水\\nvt. 给...浇水, 供以水, 注入水, 使湿\\nvi. 流泪, 流口水, 加水\\na. 水的, 水上的, 水生的, 含水的",
-  "definition": "n. binary compound that occurs at room temperature as a clear colorless odorless tasteless liquid; freezes into ice below 0 degrees centigrade and boils above 100 degrees centigrade; widely used as a solvent\\nn. once thought to be one of four elements composing the universe (Empedocles)\\nn. a liquid necessary for the life of most animals and plants\\nv. supply with water, as with channels or ditches or streams"
+  "translation": "n. 水, 雨水, 海水, 水位, 水面, 流水\nvt. 给...浇水, 供以水, 注入水, 使湿\nvi. 流泪, 流口水, 加水\na. 水的, 水上的, 水生的, 含水的",
+  "definition": "n. binary compound that occurs at room temperature as a clear colorless odorless tasteless liquid; freezes into ice below 0 degrees centigrade and boils above 100 degrees centigrade; widely used as a solvent\nn. once thought to be one of four elements composing the universe (Empedocles)\nn. a liquid necessary for the life of most animals and plants\nv. supply with water, as with channels or ditches or streams"
  },
  {
   "word": "become",
   "phonetic": "bi'kʌm",
-  "translation": "vi. 变成, 变得\\nvt. 适合",
-  "definition": "v. enter or assume a certain state or condition\\nv. undergo a change or development\\nv. come into existence\\nv. enhance the appearance of"
+  "translation": "vi. 变成, 变得\nvt. 适合",
+  "definition": "v. enter or assume a certain state or condition\nv. undergo a change or development\nv. come into existence\nv. enhance the appearance of"
  },
  {
   "word": "breath",
   "phonetic": "breθ",
-  "translation": "n. 呼吸, 气息, 瞬间\\n[医] 呼气, 呵气, 口气, 呼吸",
-  "definition": "n. the process of taking in and expelling air during breathing\\nn. the air that is inhaled and exhaled in respiration\\nn. a short respite\\nn. a slight movement of the air"
+  "translation": "n. 呼吸, 气息, 瞬间\n[医] 呼气, 呵气, 口气, 呼吸",
+  "definition": "n. the process of taking in and expelling air during breathing\nn. the air that is inhaled and exhaled in respiration\nn. a short respite\nn. a slight movement of the air"
  },
  {
   "word": "compete",
@@ -50,20 +50,20 @@
  {
   "word": "even",
   "phonetic": "'i:vәn",
-  "translation": "a. 平坦的, 相等的, 连贯的, 均等的, 公平的, 偶数的, 平均的, 平衡的, 恰好的\\nvt. 使平坦, 使相等\\nvi. 变平, 成为相等\\nadv. 甚至, 实际上, 完全, 十分\\nn. 偶数, 偶校验\\n[计] 偶数, 偶校验",
-  "definition": "v. become even or more even\\nv. make even or more even\\na. divisible by two\\ns. equal in degree or extent or amount; or equally matched or balanced"
+  "translation": "a. 平坦的, 相等的, 连贯的, 均等的, 公平的, 偶数的, 平均的, 平衡的, 恰好的\nvt. 使平坦, 使相等\nvi. 变平, 成为相等\nadv. 甚至, 实际上, 完全, 十分\nn. 偶数, 偶校验\n[计] 偶数, 偶校验",
+  "definition": "v. become even or more even\nv. make even or more even\na. divisible by two\ns. equal in degree or extent or amount; or equally matched or balanced"
  },
  {
   "word": "floor",
   "phonetic": "flɒ:",
-  "translation": "n. 地板, 楼层, 底部, 底价\\nvt. 铺地板, 打倒\\nn. 地面, 地板, 基底\\n[计] 基底",
-  "definition": "n. the inside lower horizontal surface (as of a room, hallway, tent, or other structure)\\nn. a structure consisting of a room or set of rooms at a single position along a vertical scale\\nn. a lower limit\\nn. the ground on which people and animals move about"
+  "translation": "n. 地板, 楼层, 底部, 底价\nvt. 铺地板, 打倒\nn. 地面, 地板, 基底\n[计] 基底",
+  "definition": "n. the inside lower horizontal surface (as of a room, hallway, tent, or other structure)\nn. a structure consisting of a room or set of rooms at a single position along a vertical scale\nn. a lower limit\nn. the ground on which people and animals move about"
  },
  {
   "word": "race",
   "phonetic": "reis",
-  "translation": "n. 种族, 人种, 赛跑, 比赛, 急流, 人类, 同道, 姜根\\nvi. 赛跑, 竞赛, 疾走\\nvt. 与...赛跑, 使疾走, 使猛转\\n[计] 竞争; 追赶; 欧州高级通信研究开发计划",
-  "definition": "n. any competition\\nn. a contest of speed\\nn. people who are believed to belong to the same genetic stock\\nv. compete in a race"
+  "translation": "n. 种族, 人种, 赛跑, 比赛, 急流, 人类, 同道, 姜根\nvi. 赛跑, 竞赛, 疾走\nvt. 与...赛跑, 使疾走, 使猛转\n[计] 竞争; 追赶; 欧州高级通信研究开发计划",
+  "definition": "n. any competition\nn. a contest of speed\nn. people who are believed to belong to the same genetic stock\nv. compete in a race"
  },
  {
   "word": "tricycles",
@@ -75,25 +75,25 @@
   "word": "accustomed",
   "phonetic": "ә'kʌstәmd",
   "translation": "a. 惯常的, 习惯了的",
-  "definition": "a. (often followed by `to') in the habit of or adapted to\\ns. commonly used or practiced; usual"
+  "definition": "a. (often followed by `to') in the habit of or adapted to\ns. commonly used or practiced; usual"
  },
  {
   "word": "against",
   "phonetic": "ә'geinst",
   "translation": "prep. 反对, 对着, 倚靠",
-  "definition": "prep. Abreast; opposite to; facing; towards; as, against the\\n   mouth of a river; -- in this sense often preceded by over.\\nprep. From an opposite direction so as to strike or come in\\n   contact with; in contact with; upon; as, hail beats against the roof.\\nprep. In opposition to, whether the opposition is of\\n   sentiment or of action; on the other side; counter to; in contrariety\\n   to; hence, adverse to; as, against reason; against law; to run a race\\n   against time.\\nprep. By of before the time that; in preparation for; so as\\n   to be ready for the time when."
+  "definition": "prep. Abreast; opposite to; facing; towards; as, against the\n   mouth of a river; -- in this sense often preceded by over.\nprep. From an opposite direction so as to strike or come in\n   contact with; in contact with; upon; as, hail beats against the roof.\nprep. In opposition to, whether the opposition is of\n   sentiment or of action; on the other side; counter to; in contrariety\n   to; hence, adverse to; as, against reason; against law; to run a race\n   against time.\nprep. By of before the time that; in preparation for; so as\n   to be ready for the time when."
  },
  {
   "word": "age",
   "phonetic": "eidʒ",
-  "translation": "n. 年龄, 老年, 成年, 寿命, 时代, 时期\\nv. 变老, 成熟",
-  "definition": "n. how long something has existed\\nn. a time of life (usually defined in years) at which some particular qualification or power arises\\nv. begin to seem older; get older\\nv. make older"
+  "translation": "n. 年龄, 老年, 成年, 寿命, 时代, 时期\nv. 变老, 成熟",
+  "definition": "n. how long something has existed\nn. a time of life (usually defined in years) at which some particular qualification or power arises\nv. begin to seem older; get older\nv. make older"
  },
  {
   "word": "air",
   "phonetic": "єә",
-  "translation": "n. 空气, 旋律, 态度\\nvt. 晾, 使通风, 夸耀",
-  "definition": "n. a mixture of gases (especially oxygen) required for breathing; the stuff that the wind consists of\\nn. the region above the ground\\nn. a distinctive but intangible quality surrounding a person or thing\\nn. once thought to be one of four elements composing the universe (Empedocles)"
+  "translation": "n. 空气, 旋律, 态度\nvt. 晾, 使通风, 夸耀",
+  "definition": "n. a mixture of gases (especially oxygen) required for breathing; the stuff that the wind consists of\nn. the region above the ground\nn. a distinctive but intangible quality surrounding a person or thing\nn. once thought to be one of four elements composing the universe (Empedocles)"
  },
  {
   "word": "among",
@@ -109,110 +109,110 @@
  {
   "word": "appear",
   "phonetic": "ә'piә",
-  "translation": "vi. 出现, 显得, 来到\\n[法] 出庭, 到案, 出现",
-  "definition": "v. come into sight or view\\nv. be issued or published\\nv. seem to be true, probable, or apparent\\nv. come into being or existence, or appear on the scene"
+  "translation": "vi. 出现, 显得, 来到\n[法] 出庭, 到案, 出现",
+  "definition": "v. come into sight or view\nv. be issued or published\nv. seem to be true, probable, or apparent\nv. come into being or existence, or appear on the scene"
  },
  {
   "word": "babies",
   "phonetic": "",
   "translation": "n. 婴儿（baby的复数）",
-  "definition": "n a very young child (birth to 1 year) who has not yet begun to walk or talk\\nn the youngest member of a group (not necessarily young)\\nn an immature childish person\\nn an unborn child; a human fetus\\nn (slang) sometimes used as a term of address for attractive young women\\nn a very young mammal\\nn a project of personal concern to someone\\nv treat with excessive indulgence"
+  "definition": "n a very young child (birth to 1 year) who has not yet begun to walk or talk\nn the youngest member of a group (not necessarily young)\nn an immature childish person\nn an unborn child; a human fetus\nn (slang) sometimes used as a term of address for attractive young women\nn a very young mammal\nn a project of personal concern to someone\nv treat with excessive indulgence"
  },
  {
   "word": "cannot",
   "phonetic": "'kænɒt",
   "translation": "aux. 无法, 不能",
-  "definition": " Am, is, or are, not able; -- written either as one word or\\n   two."
+  "definition": " Am, is, or are, not able; -- written either as one word or\n   two."
  },
  {
   "word": "champions",
   "phonetic": "",
   "translation": "n. 夺标；盟主；冠军（champion的复数形式）",
-  "definition": "n someone who has won first place in a competition\\nn someone who fights for a cause\\nn a person who backs a politician or a team etc.\\nn someone who is dazzlingly skilled in any field\\nv protect or fight for as a champion"
+  "definition": "n someone who has won first place in a competition\nn someone who fights for a cause\nn a person who backs a politician or a team etc.\nn someone who is dazzlingly skilled in any field\nv protect or fight for as a champion"
  },
  {
   "word": "coming",
   "phonetic": "'kʌmiŋ",
-  "translation": "n. 来临\\na. 就要来的, 接着的",
-  "definition": "n the act of drawing spatially closer to something\\nn arrival that has been awaited (especially of something momentous)\\nn the temporal property of becoming nearer in time\\nn the moment of most intense pleasure in sexual intercourse\\nv move toward, travel toward something or somebody or approach something or somebody\\nv reach a destination; arrive by movement or progress\\nv come to pass; arrive, as in due course\\nv reach or enter a state, relation, condition, use, or position\\nv to be the product or result\\nv be found or available; The furniture comes unassembled\"\\nv come forth\\nv be a native of\\nv extend or reach\\nv exist or occur in a certain point in a series\\nv cover a certain distance\\nv come under, be classified or included\\nv happen as a result\\nv add up in number or quantity\\nv develop into\\nv be received\\nv come to one's mind; suggest itself\\nv come from; be connected by a relationship of blood, for example\\nv proceed or get along\\nv experience orgasm\\nv have a certain priority\\ns of the relatively near future"
+  "translation": "n. 来临\na. 就要来的, 接着的",
+  "definition": "n the act of drawing spatially closer to something\nn arrival that has been awaited (especially of something momentous)\nn the temporal property of becoming nearer in time\nn the moment of most intense pleasure in sexual intercourse\nv move toward, travel toward something or somebody or approach something or somebody\nv reach a destination; arrive by movement or progress\nv come to pass; arrive, as in due course\nv reach or enter a state, relation, condition, use, or position\nv to be the product or result\nv be found or available; The furniture comes unassembled\"\nv come forth\nv be a native of\nv extend or reach\nv exist or occur in a certain point in a series\nv cover a certain distance\nv come under, be classified or included\nv happen as a result\nv add up in number or quantity\nv develop into\nv be received\nv come to one's mind; suggest itself\nv come from; be connected by a relationship of blood, for example\nv proceed or get along\nv experience orgasm\nv have a certain priority\ns of the relatively near future"
  },
  {
   "word": "cover",
   "phonetic": "'kʌvә",
-  "translation": "n. 盖子, 封面, 藉口\\nvt. 覆盖, 掩饰, 保护, 掩护, 包括\\nvi. 覆盖",
-  "definition": "n. the act of concealing the existence of something by obstructing the view of it\\nn. fire that makes it difficult for the enemy to fire on your own individuals or formations\\nn. a recording of a song that was first recorded or made popular by somebody else\\nn. a false identity and background (especially one created for an undercover agent)"
+  "translation": "n. 盖子, 封面, 藉口\nvt. 覆盖, 掩饰, 保护, 掩护, 包括\nvi. 覆盖",
+  "definition": "n. the act of concealing the existence of something by obstructing the view of it\nn. fire that makes it difficult for the enemy to fire on your own individuals or formations\nn. a recording of a song that was first recorded or made popular by somebody else\nn. a false identity and background (especially one created for an undercover agent)"
  },
  {
   "word": "drag",
   "phonetic": "dræg",
-  "translation": "n. 拖, 拖累\\nv. 拖累, 拖拉, 沉重缓慢地走, 拖动\\n[计] 拖动",
-  "definition": "n. the phenomenon of resistance to motion through a fluid\\nn. something that slows or delays progress\\nn. something tedious and boring\\nn. clothing that is conventionally worn by the opposite sex (especially women's clothing when worn by a man)"
+  "translation": "n. 拖, 拖累\nv. 拖累, 拖拉, 沉重缓慢地走, 拖动\n[计] 拖动",
+  "definition": "n. the phenomenon of resistance to motion through a fluid\nn. something that slows or delays progress\nn. something tedious and boring\nn. clothing that is conventionally worn by the opposite sex (especially women's clothing when worn by a man)"
  },
  {
   "word": "early",
   "phonetic": "'ә:li",
-  "translation": "a. 早的, 早熟的\\nadv. 很早, 初",
-  "definition": "a. at or near the beginning of a period of time or course of events or before the usual or expected time\\na. being or occurring at an early stage of development\\ns. belonging to the distant past\\ns. very young"
+  "translation": "a. 早的, 早熟的\nadv. 很早, 初",
+  "definition": "a. at or near the beginning of a period of time or course of events or before the usual or expected time\na. being or occurring at an early stage of development\ns. belonging to the distant past\ns. very young"
  },
  {
   "word": "encourage",
   "phonetic": "in'kʌridʒ",
-  "translation": "vt. 鼓励, 支持, 激励\\n[法] 怂恿, 煽动, 助长",
-  "definition": "v. inspire with confidence; give hope or courage to\\nv. spur on"
+  "translation": "vt. 鼓励, 支持, 激励\n[法] 怂恿, 煽动, 助长",
+  "definition": "v. inspire with confidence; give hope or courage to\nv. spur on"
  },
  {
   "word": "end",
   "phonetic": "end",
-  "translation": "n. 结束, 终点, 目标, 末端, 梢, 死亡, 残余\\nv. 结束, 终结, 终止\\n[计] 端; 结束",
-  "definition": "n. either extremity of something that has length\\nn. the point in time at which something ends\\nn. the concluding parts of an event or occurrence\\nn. a final part or section"
+  "translation": "n. 结束, 终点, 目标, 末端, 梢, 死亡, 残余\nv. 结束, 终结, 终止\n[计] 端; 结束",
+  "definition": "n. either extremity of something that has length\nn. the point in time at which something ends\nn. the concluding parts of an event or occurrence\nn. a final part or section"
  },
  {
   "word": "enter",
   "phonetic": "'entә",
-  "translation": "vt. 进入, 参加, 开始, 输入, 回车\\nvi. 进去, 参加\\n[计] 输入, 回车",
-  "definition": "v. to come or go into\\nv. become a participant; be involved in\\nv. come on stage"
+  "translation": "vt. 进入, 参加, 开始, 输入, 回车\nvi. 进去, 参加\n[计] 输入, 回车",
+  "definition": "v. to come or go into\nv. become a participant; be involved in\nv. come on stage"
  },
  {
   "word": "ever",
   "phonetic": "'evә",
   "translation": "adv. 曾经, 究竟, 永远",
-  "definition": "r. at any time\\nr. (intensifier for adjectives) very"
+  "definition": "r. at any time\nr. (intensifier for adjectives) very"
  },
  {
   "word": "experiments",
   "phonetic": "iksˈperimənts",
   "translation": "n. 实验( experiment的名词复数 ); 试验; 尝试; 实践",
-  "definition": "n the act of conducting a controlled test or investigation\\nn the testing of an idea\\nn a venture at something new or different\\nv to conduct a test or investigation\\nv try something new, as in order to gain experience"
+  "definition": "n the act of conducting a controlled test or investigation\nn the testing of an idea\nn a venture at something new or different\nv to conduct a test or investigation\nv try something new, as in order to gain experience"
  },
  {
   "word": "expert",
   "phonetic": "'ekspә:t",
-  "translation": "n. 专家, 行家\\na. 老练的, 内行的, 专门的\\n[计] 高级",
+  "translation": "n. 专家, 行家\na. 老练的, 内行的, 专门的\n[计] 高级",
   "definition": "n. a person with special knowledge or ability who performs skillfully"
  },
  {
   "word": "feet",
   "phonetic": "fi:t",
-  "translation": "pl. 脚\\nn. 尺",
-  "definition": "n the part of the leg of a human being below the ankle joint\\nn a linear unit of length equal to 12 inches or a third of a yard\\nn the lower part of anything\\nn the pedal extremity of vertebrates other than human beings\\nn lowest support of a structure\\nn any of various organs of locomotion or attachment in invertebrates\\nn travel by walking\\nn a member of a surveillance team who works on foot or rides as a passenger\\nn an army unit consisting of soldiers who fight on foot\\nn (prosody) a group of 2 or 3 syllables forming the basic unit of poetic rhythm\\nn a support resembling a pedal extremity"
+  "translation": "pl. 脚\nn. 尺",
+  "definition": "n the part of the leg of a human being below the ankle joint\nn a linear unit of length equal to 12 inches or a third of a yard\nn the lower part of anything\nn the pedal extremity of vertebrates other than human beings\nn lowest support of a structure\nn any of various organs of locomotion or attachment in invertebrates\nn travel by walking\nn a member of a surveillance team who works on foot or rides as a passenger\nn an army unit consisting of soldiers who fight on foot\nn (prosody) a group of 2 or 3 syllables forming the basic unit of poetic rhythm\nn a support resembling a pedal extremity"
  },
  {
   "word": "five",
   "phonetic": "faiv",
   "translation": "num. 五, 五个",
-  "definition": "n. the cardinal number that is the sum of four and one\\ns. being one more than four"
+  "definition": "n. the cardinal number that is the sum of four and one\ns. being one more than four"
  },
  {
   "word": "future",
   "phonetic": "'fju:tʃә",
-  "translation": "n. 未来, 将来\\na. 将来的, 未来的",
-  "definition": "n. the time yet to come\\nn. a verb tense that expresses actions or states in the future\\nn. bulk commodities bought or sold at an agreed price for delivery at a specified future date\\na. yet to be or coming"
+  "translation": "n. 未来, 将来\na. 将来的, 未来的",
+  "definition": "n. the time yet to come\nn. a verb tense that expresses actions or states in the future\nn. bulk commodities bought or sold at an agreed price for delivery at a specified future date\na. yet to be or coming"
  },
  {
   "word": "game",
   "phonetic": "geim",
-  "translation": "n. 比赛, 玩耍, 比分, 得胜, 比赛规则, 策略, 游戏, 野味\\nvi. 赌博\\na. 勇敢的, 有胆量的, 关于野味的, 跛的\\n[计] 博弈; 对策",
-  "definition": "n. a contest with rules to determine a winner\\nn. a single play of a sport or other contest\\nn. an amusement or pastime\\nn. animal hunted for food or sport"
+  "translation": "n. 比赛, 玩耍, 比分, 得胜, 比赛规则, 策略, 游戏, 野味\nvi. 赌博\na. 勇敢的, 有胆量的, 关于野味的, 跛的\n[计] 博弈; 对策",
+  "definition": "n. a contest with rules to determine a winner\nn. a single play of a sport or other contest\nn. an amusement or pastime\nn. animal hunted for food or sport"
  },
  {
   "word": "gasping",
@@ -223,38 +223,38 @@
  {
   "word": "holding",
   "phonetic": "'hәuldiŋ",
-  "translation": "n. 把持, 支持, 保持\\n[法] 租借地, 占有物, 拥有的财产",
-  "definition": "n the act of retaining something\\nn something owned; any tangible or intangible possession that is owned by someone; \\nv keep in a certain state, position, or activity; e.g., \"keep clean\"\\nv have or hold in one's hands or grip\\nv organize or be responsible for\\nv have or possess, either in a concrete or an abstract sense\\nv keep in mind or convey as a conviction or view\\nv maintain (a theory, thoughts, or feelings)\\nv to close within bounds, limit or hold back from movement\\nv secure and keep for possible future use or application\\nv have rightfully; of rights, titles, and offices\\nv be the physical support of; carry the weight of\\nv contain or hold; have within\\nv have room for; hold without crowding\\nv remain in a certain state, position, or condition\\nv support or hold in a certain manner\\nv be valid, applicable, or true\\nv assert or affirm\\nv have as a major characteristic\\nv be capable of holding or containing\\nv arrange for and reserve (something for someone else) in advance\\nv protect against a challenge or attack\\nv bind by an obligation; cause to be indebted\\nv hold the attention of\\nv remain committed to\\nv resist or confront with resistance\\nv be pertinent or relevant or applicable\\nv stop dealing with\\nv lessen the intensity of; temper; hold in restraint; hold or keep within limits\\nv keep from departing\\nv take and maintain control over, often by violent means\\nv cause to stop\\nv cover as for protection against noise or smell\\nv drink alcohol without showing ill effects\\nv aim, point, or direct\\nv declare to be\\nv be in accord; be in agreement\\nv keep from exhaling or expelling"
+  "translation": "n. 把持, 支持, 保持\n[法] 租借地, 占有物, 拥有的财产",
+  "definition": "n the act of retaining something\nn something owned; any tangible or intangible possession that is owned by someone; \nv keep in a certain state, position, or activity; e.g., \"keep clean\"\nv have or hold in one's hands or grip\nv organize or be responsible for\nv have or possess, either in a concrete or an abstract sense\nv keep in mind or convey as a conviction or view\nv maintain (a theory, thoughts, or feelings)\nv to close within bounds, limit or hold back from movement\nv secure and keep for possible future use or application\nv have rightfully; of rights, titles, and offices\nv be the physical support of; carry the weight of\nv contain or hold; have within\nv have room for; hold without crowding\nv remain in a certain state, position, or condition\nv support or hold in a certain manner\nv be valid, applicable, or true\nv assert or affirm\nv have as a major characteristic\nv be capable of holding or containing\nv arrange for and reserve (something for someone else) in advance\nv protect against a challenge or attack\nv bind by an obligation; cause to be indebted\nv hold the attention of\nv remain committed to\nv resist or confront with resistance\nv be pertinent or relevant or applicable\nv stop dealing with\nv lessen the intensity of; temper; hold in restraint; hold or keep within limits\nv keep from departing\nv take and maintain control over, often by violent means\nv cause to stop\nv cover as for protection against noise or smell\nv drink alcohol without showing ill effects\nv aim, point, or direct\nv declare to be\nv be in accord; be in agreement\nv keep from exhaling or expelling"
  },
  {
   "word": "instructed",
   "phonetic": "",
   "translation": "a. 受教育的, 得到指示的, 被委派的",
-  "definition": "v impart skills or knowledge to\\nv give instructions or directions for some task\\nv make aware of"
+  "definition": "v impart skills or knowledge to\nv give instructions or directions for some task\nv make aware of"
  },
  {
   "word": "kind",
   "phonetic": "kaind",
-  "translation": "n. 种类, 性质, 方式\\na. 亲切的, 仁慈的, 和蔼的",
-  "definition": "n. a category of things distinguished by some common characteristic or quality\\na. having or showing a tender and considerate and helpful nature; used especially of persons and their behavior\\ns. agreeable, conducive to comfort\\ns. tolerant and forgiving under provocation"
+  "translation": "n. 种类, 性质, 方式\na. 亲切的, 仁慈的, 和蔼的",
+  "definition": "n. a category of things distinguished by some common characteristic or quality\na. having or showing a tender and considerate and helpful nature; used especially of persons and their behavior\ns. agreeable, conducive to comfort\ns. tolerant and forgiving under provocation"
  },
  {
   "word": "length",
   "phonetic": "leŋθ",
-  "translation": "n. 长度, 长, 期间, 一段\\n[计] 记录长度; 块长; 字长",
-  "definition": "n. the linear extent in space from one end to the other; the longest dimension of something that is fixed in place\\nn. the property of being the extent of something from beginning to end\\nn. a section of something that is long and narrow"
+  "translation": "n. 长度, 长, 期间, 一段\n[计] 记录长度; 块长; 字长",
+  "definition": "n. the linear extent in space from one end to the other; the longest dimension of something that is fixed in place\nn. the property of being the extent of something from beginning to end\nn. a section of something that is long and narrow"
  },
  {
   "word": "lined",
   "phonetic": "laind",
   "translation": "a. 有内衬的；具线纹的",
-  "definition": "s. bordered by a line of things\\ns. (used especially of skin) marked by lines or seams\\na. having a lining or a liner; often used in combination"
+  "definition": "s. bordered by a line of things\ns. (used especially of skin) marked by lines or seams\na. having a lining or a liner; often used in combination"
  },
  {
   "word": "long",
   "phonetic": "lɒŋ",
-  "translation": "a. 长的, 长久的, 冗长的, 做多头的\\nvi. 渴望, 热望, 极想\\nadv. 长久, 始终\\nn. 长时间, 长信号, 长整型\\n[计] 长, 长整型",
-  "definition": "a. primarily temporal sense; being or indicating a relatively great or greater than average duration or passage of time or a duration as specified\\na. primarily spatial sense; of relatively great or greater than average spatial extension or extension as specified\\ns. of relatively great height\\na. holding securities or commodities in expectation of a rise in prices"
+  "translation": "a. 长的, 长久的, 冗长的, 做多头的\nvi. 渴望, 热望, 极想\nadv. 长久, 始终\nn. 长时间, 长信号, 长整型\n[计] 长, 长整型",
+  "definition": "a. primarily temporal sense; being or indicating a relatively great or greater than average duration or passage of time or a duration as specified\na. primarily spatial sense; of relatively great or greater than average spatial extension or extension as specified\ns. of relatively great height\na. holding securities or commodities in expectation of a rise in prices"
  },
  {
   "word": "los",
@@ -265,26 +265,26 @@
  {
   "word": "many",
   "phonetic": "'meni",
-  "translation": "n. 多数, 多数人\\na. 许多的\\npron. 许多",
+  "translation": "n. 多数, 多数人\na. 许多的\npron. 许多",
   "definition": "a. a quantifier that can be used with count nouns and is often preceded by `as' or `too' or `so' or `that'; amounting to a large but indefinite number"
  },
  {
   "word": "meanwhile",
   "phonetic": "'mi:nhwail",
-  "translation": "n. 其时, 其间\\nadv. 同时, 于此时",
-  "definition": "r. at the same time but in another place\\nr. during the intervening time"
+  "translation": "n. 其时, 其间\nadv. 同时, 于此时",
+  "definition": "r. at the same time but in another place\nr. during the intervening time"
  },
  {
   "word": "months",
   "phonetic": "",
   "translation": "月份（month的复数）",
-  "definition": "n one of the twelve divisions of the calendar year\\nn a time unit of approximately 30 days"
+  "definition": "n one of the twelve divisions of the calendar year\nn a time unit of approximately 30 days"
  },
  {
   "word": "old",
   "phonetic": "әuld",
-  "translation": "n. 以前, 往昔\\na. 老的, 旧的, 古老的, 年长的, 老练的",
-  "definition": "n. past times (especially in the phrase `in days of old')\\na. (used especially of persons) having lived for a relatively long time or attained a specific age\\na. of long duration; not new\\ns. (used for emphasis) very familiar"
+  "translation": "n. 以前, 往昔\na. 老的, 旧的, 古老的, 年长的, 老练的",
+  "definition": "n. past times (especially in the phrase `in days of old')\na. (used especially of persons) having lived for a relatively long time or attained a specific age\na. of long duration; not new\ns. (used for emphasis) very familiar"
  },
  {
   "word": "olympic",
@@ -295,26 +295,26 @@
  {
   "word": "pedal",
   "phonetic": "'pedl",
-  "translation": "n. 踏板, 脚蹬子\\na. 脚的, 脚踏的\\nvt. 用脚踏动\\nvi. 踩踏板, 骑车",
-  "definition": "n. a lever that is operated with the foot\\nv. operate the pedals on a keyboard instrument\\na. of or relating to the feet"
+  "translation": "n. 踏板, 脚蹬子\na. 脚的, 脚踏的\nvt. 用脚踏动\nvi. 踩踏板, 骑车",
+  "definition": "n. a lever that is operated with the foot\nv. operate the pedals on a keyboard instrument\na. of or relating to the feet"
  },
  {
   "word": "pick",
   "phonetic": "pik",
-  "translation": "n. 精选, 选择, 掘, 精华, 牙签, 鹤嘴锄\\nv. 摘, 掘, 凿, 挖, 挑选\\n[计] 拾取",
-  "definition": "n. a small thin device (of metal or plastic or ivory) used to pluck a stringed instrument\\nn. a thin sharp implement used for removing unwanted material\\nn. a heavy iron tool with a wooden handle and a curved head that is pointed on both ends\\nn. a basketball maneuver; obstructing an opponent with one's body"
+  "translation": "n. 精选, 选择, 掘, 精华, 牙签, 鹤嘴锄\nv. 摘, 掘, 凿, 挖, 挑选\n[计] 拾取",
+  "definition": "n. a small thin device (of metal or plastic or ivory) used to pluck a stringed instrument\nn. a thin sharp implement used for removing unwanted material\nn. a heavy iron tool with a wooden handle and a curved head that is pointed on both ends\nn. a basketball maneuver; obstructing an opponent with one's body"
  },
  {
   "word": "popular",
   "phonetic": "'pɒpjulә",
-  "translation": "a. 通俗的, 流行的, 受欢迎的, 大众的, 人民的, 普及的\\n[经] 大众的, 通俗的, 普及的",
-  "definition": "a. regarded with great favor, approval, or affection especially by the general public\\ns. carried on by or for the people (or citizens) at large\\ns. (of music or art) new and of general appeal (especially among young people)"
+  "translation": "a. 通俗的, 流行的, 受欢迎的, 大众的, 人民的, 普及的\n[经] 大众的, 通俗的, 普及的",
+  "definition": "a. regarded with great favor, approval, or affection especially by the general public\ns. carried on by or for the people (or citizens) at large\ns. (of music or art) new and of general appeal (especially among young people)"
  },
  {
   "word": "prefer",
   "phonetic": "pri'fә:",
-  "translation": "vt. 宁可, 较喜欢, 提出\\n[法] 给予优先权, 优先偿还, 提出",
-  "definition": "v. like better; value more highly\\nv. promote over another\\nv. give preference to one creditor over another"
+  "translation": "vt. 宁可, 较喜欢, 提出\n[法] 给予优先权, 优先偿还, 提出",
+  "definition": "v. like better; value more highly\nv. promote over another\nv. give preference to one creditor over another"
  },
  {
   "word": "proved",
@@ -325,56 +325,56 @@
  {
   "word": "push",
   "phonetic": "puʃ",
-  "translation": "n. 推, 推动, 奋斗, 攻击, 进取心\\nvt. 推, 推动, 使伸出, 推行, 逼迫, 增加\\nvi. 推, 推进, 增加, 努力争取",
-  "definition": "n. the act of applying force in order to move something away\\nn. the force used in pushing\\nn. an effort to advance\\nv. move with force, \"He pushed the table into a corner\""
+  "translation": "n. 推, 推动, 奋斗, 攻击, 进取心\nvt. 推, 推动, 使伸出, 推行, 逼迫, 增加\nvi. 推, 推进, 增加, 努力争取",
+  "definition": "n. the act of applying force in order to move something away\nn. the force used in pushing\nn. an effort to advance\nv. move with force, \"He pushed the table into a corner\""
  },
  {
   "word": "reach",
   "phonetic": "ri:tʃ",
-  "translation": "n. 伸出, 延伸, 区域, 范围, 流域, 岬\\nvt. 到达, 达到, 伸出, 延伸, 影响\\nvi. 达到, 延伸, 伸出手, 传到",
-  "definition": "n. the act of physically reaching or thrusting out\\nv. reach a destination, either real or abstract\\nv. reach a point in time, or a certain state or level\\nv. move forward or upward in order to touch; also in a metaphorical sense"
+  "translation": "n. 伸出, 延伸, 区域, 范围, 流域, 岬\nvt. 到达, 达到, 伸出, 延伸, 影响\nvi. 达到, 延伸, 伸出手, 传到",
+  "definition": "n. the act of physically reaching or thrusting out\nv. reach a destination, either real or abstract\nv. reach a point in time, or a certain state or level\nv. move forward or upward in order to touch; also in a metaphorical sense"
  },
  {
   "word": "reluctant",
   "phonetic": "ri'lʌktәnt",
-  "translation": "a. 不情愿的, 勉强的\\n[法] 不愿的, 勉强的, 难以处理的",
-  "definition": "s. disinclined to become involved\\ns. not eager"
+  "translation": "a. 不情愿的, 勉强的\n[法] 不愿的, 勉强的, 难以处理的",
+  "definition": "s. disinclined to become involved\ns. not eager"
  },
  {
   "word": "seven",
   "phonetic": "'sevn",
   "translation": "num. 七, 七个",
-  "definition": "n. the cardinal number that is the sum of six and one\\ns. being one more than six"
+  "definition": "n. the cardinal number that is the sum of six and one\ns. being one more than six"
  },
  {
   "word": "special",
   "phonetic": "'speʃәl",
-  "translation": "n. 专辑, 专车, 号外, 特别的东西, 负有特别任务的人员\\na. 特别的, 专门的, 特殊的, 额外的, 附加的, 特别亲密的",
-  "definition": "n. a special offering (usually temporary and at a reduced price) that is featured in advertising\\nn. a dish or meal given prominence in e.g. a restaurant\\nn. a television production that features a particular person or work or topic\\ns. for a special service or occasion"
+  "translation": "n. 专辑, 专车, 号外, 特别的东西, 负有特别任务的人员\na. 特别的, 专门的, 特殊的, 额外的, 附加的, 特别亲密的",
+  "definition": "n. a special offering (usually temporary and at a reduced price) that is featured in advertising\nn. a dish or meal given prominence in e.g. a restaurant\nn. a television production that features a particular person or work or topic\ns. for a special service or occasion"
  },
  {
   "word": "swim",
   "phonetic": "swim",
-  "translation": "n. 游泳, 漂浮, 潮流, 眩晕\\nvi. 游泳, 游, 漂浮, 浸, 覆盖, 充溢, 大量拥有, 旋转, 眩晕\\nvt. 游过, 使浮起",
-  "definition": "v. travel through water\\nv. be dizzy or giddy\\nv. be covered with or submerged in a liquid\\nv. move as if gliding through water"
+  "translation": "n. 游泳, 漂浮, 潮流, 眩晕\nvi. 游泳, 游, 漂浮, 浸, 覆盖, 充溢, 大量拥有, 旋转, 眩晕\nvt. 游过, 使浮起",
+  "definition": "v. travel through water\nv. be dizzy or giddy\nv. be covered with or submerged in a liquid\nv. move as if gliding through water"
  },
  {
   "word": "swimmers",
   "phonetic": "s'wɪməz",
   "translation": "n. 游泳者( swimmer的复数形式 )",
-  "definition": "n. a trained athlete who participates in swimming meets\\nn. a person who travels through the water by swimming"
+  "definition": "n. a trained athlete who participates in swimming meets\nn. a person who travels through the water by swimming"
  },
  {
   "word": "tell",
   "phonetic": "tel",
-  "translation": "vt. 告诉, 说, 吩咐, 断定, 知道\\nvi. 讲述, 泄密, 告发, 表明",
-  "definition": "n. a Swiss patriot who lived in the early 14th century and who was renowned for his skill as an archer; according to legend an Austrian governor compelled him to shoot an apple from his son's head with his crossbow (which he did successfully without mishap)\\nv. let something be known\\nv. narrate or give a detailed account of\\nv. discern or comprehend"
+  "translation": "vt. 告诉, 说, 吩咐, 断定, 知道\nvi. 讲述, 泄密, 告发, 表明",
+  "definition": "n. a Swiss patriot who lived in the early 14th century and who was renowned for his skill as an archer; according to legend an Austrian governor compelled him to shoot an apple from his son's head with his crossbow (which he did successfully without mishap)\nv. let something be known\nv. narrate or give a detailed account of\nv. discern or comprehend"
  },
  {
   "word": "time",
   "phonetic": "taim",
-  "translation": "n. 时间, 时侯, 时机, 时期, 期限, 次数, 节拍, 暂停, 规定时间\\nvt. 测定...的时间, 记录...的时间, 计时, 定时\\na. 时间的, 记时的, 定时的, 定期的, 分期的\\n[计] DOS内部命令:用于显示或设定系统的时间",
-  "definition": "n. an instance or single occasion for some event\\nn. a period of time considered as a resource under your control and sufficient to accomplish something\\nn. an indefinite period (usually marked by specific attributes or activities)\\nn. a suitable moment"
+  "translation": "n. 时间, 时侯, 时机, 时期, 期限, 次数, 节拍, 暂停, 规定时间\nvt. 测定...的时间, 记录...的时间, 计时, 定时\na. 时间的, 记时的, 定时的, 定期的, 分期的\n[计] DOS内部命令:用于显示或设定系统的时间",
+  "definition": "n. an instance or single occasion for some event\nn. a period of time considered as a resource under your control and sufficient to accomplish something\nn. an indefinite period (usually marked by specific attributes or activities)\nn. a suitable moment"
  },
  {
   "word": "tricycle",
@@ -386,54 +386,54 @@
   "word": "two",
   "phonetic": "tu:",
   "translation": "num. 二, 二个",
-  "definition": "n. the cardinal number that is the sum of one and one or a numeral representing this number\\ns. being one more than one"
+  "definition": "n. the cardinal number that is the sum of one and one or a numeral representing this number\ns. being one more than one"
  },
  {
   "word": "underwater",
   "phonetic": "'ʌndә'wɒ:tә",
-  "translation": "a. 在水中的\\nadv. 在水下",
-  "definition": "s beneath the surface of the water\\ns growing or remaining under water"
+  "translation": "a. 在水中的\nadv. 在水下",
+  "definition": "s beneath the surface of the water\ns growing or remaining under water"
  },
  {
   "word": "walk",
   "phonetic": "wɒ:k",
-  "translation": "n. 走, 散步, 步行, 行走的路程, 竞走, 散步场所\\nvi. 走路, 步行, 处世\\nvt. 走过, 遛, 使走, 护送...走",
-  "definition": "n. the act of traveling by foot\\nn. manner of walking\\nn. the act of walking somewhere\\nn. a path set aside for walking"
+  "translation": "n. 走, 散步, 步行, 行走的路程, 竞走, 散步场所\nvi. 走路, 步行, 处世\nvt. 走过, 遛, 使走, 护送...走",
+  "definition": "n. the act of traveling by foot\nn. manner of walking\nn. the act of walking somewhere\nn. a path set aside for walking"
  },
  {
   "word": "weights",
   "phonetic": "",
   "translation": "n. 重量；砝码（weight的复数）",
-  "definition": "n the vertical force exerted by a mass as a result of gravity\\nn sports equipment used in calisthenic exercises and weightlifting; it is not attached to anything and is raised and lowered by use of the hands and arms\\nn the relative importance granted to something\\nn an artifact that is heavy\\nn an oppressive feeling of heavy force\\nn a system of units used to express the weight of something\\nn a unit used to measure weight\\nn (statistics) a coefficient assigned to elements of a frequency distribution in order to represent their relative importance\\nv weight down with a load\\nv present with a bias"
+  "definition": "n the vertical force exerted by a mass as a result of gravity\nn sports equipment used in calisthenic exercises and weightlifting; it is not attached to anything and is raised and lowered by use of the hands and arms\nn the relative importance granted to something\nn an artifact that is heavy\nn an oppressive feeling of heavy force\nn a system of units used to express the weight of something\nn a unit used to measure weight\nn (statistics) a coefficient assigned to elements of a frequency distribution in order to represent their relative importance\nv weight down with a load\nv present with a bias"
  },
  {
   "word": "whether",
   "phonetic": "'hweðә",
-  "translation": "conj. 是否, 不论\\npron. 两个中的哪一个",
-  "definition": "pron. Which (of two); which one (of two); -- used\\n   interrogatively and relatively.\\nconj. In case; if; -- used to introduce the first or two or\\n   more alternative clauses, the other or others being connected by or, or\\n   by or whether. When the second of two alternatives is the simple\\n   negative of the first it is sometimes only indicated by the particle\\n   not or no after the correlative, and sometimes it is omitted entirely\\n   as being distinctly implied in the whether of the first."
+  "translation": "conj. 是否, 不论\npron. 两个中的哪一个",
+  "definition": "pron. Which (of two); which one (of two); -- used\n   interrogatively and relatively.\nconj. In case; if; -- used to introduce the first or two or\n   more alternative clauses, the other or others being connected by or, or\n   by or whether. When the second of two alternatives is the simple\n   negative of the first it is sometimes only indicated by the particle\n   not or no after the correlative, and sometimes it is omitted entirely\n   as being distinctly implied in the whether of the first."
  },
  {
   "word": "whole",
   "phonetic": "hәul",
-  "translation": "n. 全部, 全体, 整体, 完全之体系\\na. 所有的, 完整的, 完全的, 纯粹的",
-  "definition": "n. all of something including all its component elements or parts\\nn. an assemblage of parts that is regarded as a single entity\\na. including all components without exception; being one unit or constituting the full amount or extent or duration; complete\\na. (of siblings) having the same parents"
+  "translation": "n. 全部, 全体, 整体, 完全之体系\na. 所有的, 完整的, 完全的, 纯粹的",
+  "definition": "n. all of something including all its component elements or parts\nn. an assemblage of parts that is regarded as a single entity\na. including all components without exception; being one unit or constituting the full amount or extent or duration; complete\na. (of siblings) having the same parents"
  },
  {
   "word": "without",
   "phonetic": "wi'ðaut",
-  "translation": "prep. 没有, 不, 在...之外\\nadv. 在外面, 户外\\nn. 外面, 外部",
-  "definition": "prep. On or at the outside of; out of; not within; as,\\n   without doors.\\nprep. Out of the limits of; out of reach of; beyond.\\nprep. Not with; otherwise than with; in absence of,\\n   separation from, or destitution of; not with use or employment of;\\n   independently of; exclusively of; with omission; as, without labor;\\n   without damage.\\nconj. Unless; except; -- introducing a clause.\\nadv. On or art the outside; not on the inside; not within;\\n   outwardly; externally.\\nadv. Outside of the house; out of doors."
+  "translation": "prep. 没有, 不, 在...之外\nadv. 在外面, 户外\nn. 外面, 外部",
+  "definition": "prep. On or at the outside of; out of; not within; as,\n   without doors.\nprep. Out of the limits of; out of reach of; beyond.\nprep. Not with; otherwise than with; in absence of,\n   separation from, or destitution of; not with use or employment of;\n   independently of; exclusively of; with omission; as, without labor;\n   without damage.\nconj. Unless; except; -- introducing a clause.\nadv. On or art the outside; not on the inside; not within;\n   outwardly; externally.\nadv. Outside of the house; out of doors."
  },
  {
   "word": "yards",
   "phonetic": "",
   "translation": "n. 码数（yard复数形式）",
-  "definition": "n a unit of length equal to 3 feet; defined as 91.44 centimeters; originally taken to be the average length of a stride\\nn the enclosed land around a house or other building\\nn a tract of land enclosed for particular activities (sometimes paved and usually associated with buildings)\\nn the cardinal number that is the product of 10 and 100\\nn a unit of volume (as for sand or gravel)\\nn a tract of land where logs are accumulated\\nn an area having a network of railway tracks and sidings for storage and maintenance of cars and engines\\nn a long horizontal spar tapered at the end and used to support and spread a square sail or lateen\\nn an enclosure for animals (as chicken or livestock)"
+  "definition": "n a unit of length equal to 3 feet; defined as 91.44 centimeters; originally taken to be the average length of a stride\nn the enclosed land around a house or other building\nn a tract of land enclosed for particular activities (sometimes paved and usually associated with buildings)\nn the cardinal number that is the product of 10 and 100\nn a unit of volume (as for sand or gravel)\nn a tract of land where logs are accumulated\nn an area having a network of railway tracks and sidings for storage and maintenance of cars and engines\nn a long horizontal spar tapered at the end and used to support and spread a square sail or lateen\nn an enclosure for animals (as chicken or livestock)"
  },
  {
   "word": "young",
   "phonetic": "jʌŋ",
-  "translation": "a. 年轻的, 无经验的, 朝气蓬勃的\\nn. 青年们, 幼小动物, 崽",
-  "definition": "n. any immature animal\\nn. United States film and television actress (1913-2000)\\nn. United States civil rights leader (1921-1971)\\nn. British physicist and Egyptologist; he revived the wave theory of light and proposed a three-component theory of color vision; he also played an important role in deciphering the hieroglyphics on the Rosetta Stone (1773-1829)"
+  "translation": "a. 年轻的, 无经验的, 朝气蓬勃的\nn. 青年们, 幼小动物, 崽",
+  "definition": "n. any immature animal\nn. United States film and television actress (1913-2000)\nn. United States civil rights leader (1921-1971)\nn. British physicist and Egyptologist; he revived the wave theory of light and proposed a three-component theory of color vision; he also played an important role in deciphering the hieroglyphics on the Rosetta Stone (1773-1829)"
  }
 ]

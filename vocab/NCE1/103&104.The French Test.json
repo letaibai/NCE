@@ -2,20 +2,20 @@
  {
   "word": "answer",
   "phonetic": "'ɑ:nsә",
-  "translation": "n. 答案, 回答, 回报, 答辩\\nvt. 回答, 反驳, 适应, 响应, 符合\\nvi. 回答, 答应, 负责, 符合, 成功\\n[计] 用户问题及答案新闻组",
-  "definition": "n. a statement (either spoken or written) that is made to reply to a question or request or criticism or accusation\\nn. the speech act of replying to a question\\nn. the principal pleading by the defendant in response to plaintiff's complaint; in criminal law it consists of the defendant's plea of `guilty' or `not guilty' (or nolo contendere); in civil law it must contain denials of all allegations in the plaintiff's complaint that the defendant hopes to controvert and it can contain affirmative defenses or counterclaims\\nn. a nonverbal reaction"
+  "translation": "n. 答案, 回答, 回报, 答辩\nvt. 回答, 反驳, 适应, 响应, 符合\nvi. 回答, 答应, 负责, 符合, 成功\n[计] 用户问题及答案新闻组",
+  "definition": "n. a statement (either spoken or written) that is made to reply to a question or request or criticism or accusation\nn. the speech act of replying to a question\nn. the principal pleading by the defendant in response to plaintiff's complaint; in criminal law it consists of the defendant's plea of `guilty' or `not guilty' (or nolo contendere); in civil law it must contain denials of all allegations in the plaintiff's complaint that the defendant hopes to controvert and it can contain affirmative defenses or counterclaims\nn. a nonverbal reaction"
  },
  {
   "word": "easy",
   "phonetic": "'i:zi",
-  "translation": "a. 容易的, 缓缓的, 舒适的, 从容的, 宽容的, 流畅的, 随便的, 自在的, 疲软的\\nadv. 容易地, 慢慢地",
-  "definition": "a. posing no difficulty; requiring little effort\\ns. not hurried or forced\\na. free from worry or anxiety\\ns. affording pleasure"
+  "translation": "a. 容易的, 缓缓的, 舒适的, 从容的, 宽容的, 流畅的, 随便的, 自在的, 疲软的\nadv. 容易地, 慢慢地",
+  "definition": "a. posing no difficulty; requiring little effort\ns. not hurried or forced\na. free from worry or anxiety\ns. affording pleasure"
  },
  {
   "word": "french",
   "phonetic": "frentʃ",
-  "translation": "n. 法国人, 法文, 法式\\na. 法国的, 法国人的, 法语的",
-  "definition": "n. the Romance language spoken in France and in countries colonized by France\\nn. the people of France\\nn. United States sculptor who created the seated marble figure of Abraham Lincoln in the Lincoln Memorial in Washington D.C. (1850-1931)"
+  "translation": "n. 法国人, 法文, 法式\na. 法国的, 法国人的, 法语的",
+  "definition": "n. the Romance language spoken in France and in countries colonized by France\nn. the people of France\nn. United States sculptor who created the seated marble figure of Abraham Lincoln in the Lincoln Memorial in Washington D.C. (1850-1931)"
  },
  {
   "word": "didn't",
@@ -25,8 +25,8 @@
  {
   "word": "english",
   "phonetic": "'iŋgliʃ",
-  "translation": "n. 英语\\na. 英文的, 英国人的",
-  "definition": "n. an Indo-European language belonging to the West Germanic branch; the official language of Britain and the United States and most of the commonwealth countries\\nn. the people of England\\nn. the discipline that studies the English language and literature"
+  "translation": "n. 英语\na. 英文的, 英国人的",
+  "definition": "n. an Indo-European language belonging to the West Germanic branch; the official language of Britain and the United States and most of the commonwealth countries\nn. the people of England\nn. the discipline that studies the English language and literature"
  },
  {
   "word": "exam",
@@ -37,26 +37,26 @@
  {
   "word": "failed",
   "phonetic": "",
-  "translation": "a. 已失败的\\n[计] 失败的",
-  "definition": "v fail to do something; leave something undone\\nv be unsuccessful\\nv disappoint, prove undependable to; abandon, forsake\\nv stop operating or functioning\\nv be unable\\nv judge unacceptable\\nv fail to get a passing grade\\nv fall short in what is expected\\nv become bankrupt or insolvent; fail financially and close\\nv prove insufficient\\nv get worse"
+  "translation": "a. 已失败的\n[计] 失败的",
+  "definition": "v fail to do something; leave something undone\nv be unsuccessful\nv disappoint, prove undependable to; abandon, forsake\nv stop operating or functioning\nv be unable\nv judge unacceptable\nv fail to get a passing grade\nv fall short in what is expected\nv become bankrupt or insolvent; fail financially and close\nv prove insufficient\nv get worse"
  },
  {
   "word": "paper",
   "phonetic": "'peipә",
-  "translation": "n. 纸, 文件, 文章, 报纸, 证券, 证件\\nvt. 用纸糊, 贴壁纸于, 用纸包装\\nvi. 贴壁纸\\na. 纸做的, 纸上的",
-  "definition": "n. a material made of cellulose pulp derived mainly from wood or rags or certain grasses\\nn. a medium for written communication\\nn. a scholarly article describing the results of observations or stating hypotheses\\nv. cover with paper"
+  "translation": "n. 纸, 文件, 文章, 报纸, 证券, 证件\nvt. 用纸糊, 贴壁纸于, 用纸包装\nvi. 贴壁纸\na. 纸做的, 纸上的",
+  "definition": "n. a material made of cellulose pulp derived mainly from wood or rags or certain grasses\nn. a medium for written communication\nn. a scholarly article describing the results of observations or stating hypotheses\nv. cover with paper"
  },
  {
   "word": "questions",
   "phonetic": "",
   "translation": "n. 问题（question的复数）",
-  "definition": "n an instance of questioning\\nn the subject matter at issue\\nn a sentence of inquiry that asks for a reply\\nn uncertainty about the truth or factuality or existence of something\\nn a formal proposal for action made to a deliberative assembly for discussion and vote\\nn an informal reference to a marriage proposal\\nv challenge the accuracy, probity, or propriety of\\nv pose a series of questions to\\nv pose a question\\nv conduct an interview in television, newspaper, and radio reporting\\nv place in doubt or express doubtful speculation"
+  "definition": "n an instance of questioning\nn the subject matter at issue\nn a sentence of inquiry that asks for a reply\nn uncertainty about the truth or factuality or existence of something\nn a formal proposal for action made to a deliberative assembly for discussion and vote\nn an informal reference to a marriage proposal\nv challenge the accuracy, probity, or propriety of\nv pose a series of questions to\nv pose a question\nv conduct an interview in television, newspaper, and radio reporting\nv place in doubt or express doubtful speculation"
  },
  {
   "word": "think",
   "phonetic": "θiŋk",
-  "translation": "vt. 想, 考虑, 想起, 想像, 打算, 认为\\nvi. 思考, 料想\\nn. 想法\\na. 思想的",
-  "definition": "n. an instance of deliberate thinking\\nv. judge or regard; look upon; judge\\nv. expect, believe, or suppose\\nv. use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments"
+  "translation": "vt. 想, 考虑, 想起, 想像, 打算, 认为\nvi. 思考, 料想\nn. 想法\na. 思想的",
+  "definition": "n. an instance of deliberate thinking\nv. judge or regard; look upon; judge\nv. expect, believe, or suppose\nv. use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments"
  },
  {
   "word": "aren't",
@@ -72,20 +72,20 @@
  {
   "word": "bad",
   "phonetic": "bæd",
-  "translation": "a. 坏的\\nn. 坏\\nadv. 坏地",
-  "definition": "n. that which is below standard or expectations as of ethics or decency\\na. having undesirable or negative qualities\\ns. very intense\\ns. feeling physical discomfort or pain (`tough' is occasionally used colloquially for `bad')"
+  "translation": "a. 坏的\nn. 坏\nadv. 坏地",
+  "definition": "n. that which is below standard or expectations as of ethics or decency\na. having undesirable or negative qualities\ns. very intense\ns. feeling physical discomfort or pain (`tough' is occasionally used colloquially for `bad')"
  },
  {
   "word": "badly",
   "phonetic": "'bædli",
   "translation": "adv. 严重地, 恶劣地, 极度地",
-  "definition": "r. to a severe or serious degree\\nr. evilly or wickedly\\nr. in a disobedient or naughty way\\nr. with great intensity (`bad' is a nonstandard variant for `badly')"
+  "definition": "r. to a severe or serious degree\nr. evilly or wickedly\nr. in a disobedient or naughty way\nr. with great intensity (`bad' is a nonstandard variant for `badly')"
  },
  {
   "word": "cheer",
   "phonetic": "tʃiә",
-  "translation": "n. 愉快, 振奋, 欢呼\\nvi. 欢呼, 喝彩, 快活起来\\nvt. 使振奋, 欢呼",
-  "definition": "n. a cry or shout of approval\\nv. give encouragement to\\nv. show approval or good wishes by shouting\\nv. cause (somebody) to feel happier or more cheerful"
+  "translation": "n. 愉快, 振奋, 欢呼\nvi. 欢呼, 喝彩, 快活起来\nvt. 使振奋, 欢呼",
+  "definition": "n. a cry or shout of approval\nv. give encouragement to\nv. show approval or good wishes by shouting\nv. cause (somebody) to feel happier or more cheerful"
  },
  {
   "word": "couldn't",
@@ -101,8 +101,8 @@
  {
   "word": "enough",
   "phonetic": "i'nʌf",
-  "translation": "n. 充足, 够, 很多\\na. 充足的, 足够\\nadv. 足够\\ninterj. 够了",
-  "definition": "n. an adequate quantity; a quantity that is large enough to achieve a purpose\\nr. as much as necessary; (`plenty' is nonstandard) \"I've had plenty, thanks\""
+  "translation": "n. 充足, 够, 很多\na. 充足的, 足够\nadv. 足够\ninterj. 够了",
+  "definition": "n. an adequate quantity; a quantity that is large enough to achieve a purpose\nr. as much as necessary; (`plenty' is nonstandard) \"I've had plenty, thanks\""
  },
  {
   "word": "gary",
@@ -113,20 +113,20 @@
  {
   "word": "got",
   "phonetic": "gɒt",
-  "translation": "get的过去式和过去分词\\n[化] 谷草转氨酶; 谷氨酸草酰乙酸转氨酶",
-  "definition": "v come into the possession of something concrete or abstract\\nv enter or assume a certain state or condition\\nv cause to move; cause to be in a certain position or condition\\nv receive a specified treatment (abstract)\\nv reach a destination; arrive by movement or progress\\nv go or come after and bring or take back\\nv go through (mental or physical states or experiences)\\nv take vengeance on or get even\\nv achieve a point or goal\\nv cause to do; cause to act in a specified manner\\nv succeed in catching or seizing, especially after a chase\\nv come to have or undergo a change of (physical features and attributes)\\nv be stricken by an illness, fall victim to an illness\\nv communicate with a place or person; establish communication with, as if by telephone\\nv give certain properties to something\\nv move into a desired direction of discourse\\nv grasp with the mind or develop an understanding of\\nv attract and fix\\nv reach with a blow or hit in a particular spot\\nv reach by calculation\\nv acquire as a result of some effort or action\\nv purchase\\nv perceive by hearing\\nv suffer from the receipt of\\nv receive as a retribution or punishment\\nv leave immediately; used usually in the imperative form\\nv reach and board\\nv irritate\\nv evoke an emotional response\\nv apprehend and reproduce accurately\\nv earn or achieve a base by being walked by the pitcher\\nv overcome or destroy\\nv be a mystery or bewildering to\\nv take the first step or steps in carrying out an action\\nv undergo (as of injuries and illnesses)\\nv make children"
+  "translation": "get的过去式和过去分词\n[化] 谷草转氨酶; 谷氨酸草酰乙酸转氨酶",
+  "definition": "v come into the possession of something concrete or abstract\nv enter or assume a certain state or condition\nv cause to move; cause to be in a certain position or condition\nv receive a specified treatment (abstract)\nv reach a destination; arrive by movement or progress\nv go or come after and bring or take back\nv go through (mental or physical states or experiences)\nv take vengeance on or get even\nv achieve a point or goal\nv cause to do; cause to act in a specified manner\nv succeed in catching or seizing, especially after a chase\nv come to have or undergo a change of (physical features and attributes)\nv be stricken by an illness, fall victim to an illness\nv communicate with a place or person; establish communication with, as if by telephone\nv give certain properties to something\nv move into a desired direction of discourse\nv grasp with the mind or develop an understanding of\nv attract and fix\nv reach with a blow or hit in a particular spot\nv reach by calculation\nv acquire as a result of some effort or action\nv purchase\nv perceive by hearing\nv suffer from the receipt of\nv receive as a retribution or punishment\nv leave immediately; used usually in the imperative form\nv reach and board\nv irritate\nv evoke an emotional response\nv apprehend and reproduce accurately\nv earn or achieve a base by being walked by the pitcher\nv overcome or destroy\nv be a mystery or bewildering to\nv take the first step or steps in carrying out an action\nv undergo (as of injuries and illnesses)\nv make children"
  },
  {
   "word": "guy",
   "phonetic": "gai",
-  "translation": "n. 家伙, 支索\\nvt. 用支索撑住, 取笑, 嘲弄\\nvi. 逃跑",
-  "definition": "n. an informal term for a youth or man\\nn. an effigy of Guy Fawkes that is burned on a bonfire on Guy Fawkes Day\\nn. a cable, wire, or rope that is used to brace something (especially a tent)\\nv. steady or support with a guy wire or cable"
+  "translation": "n. 家伙, 支索\nvt. 用支索撑住, 取笑, 嘲弄\nvi. 逃跑",
+  "definition": "n. an informal term for a youth or man\nn. an effigy of Guy Fawkes that is burned on a bonfire on Guy Fawkes Day\nn. a cable, wire, or rope that is used to brace something (especially a tent)\nv. steady or support with a guy wire or cable"
  },
  {
   "word": "hate",
   "phonetic": "heit",
-  "translation": "n. 憎恨, 恨, 厌恶\\nvt. 憎恨, 憎恶\\nvi. 仇恨",
-  "definition": "n. the emotion of intense dislike; a feeling of dislike so strong that it demands action\\nv. dislike intensely; feel antipathy or aversion towards"
+  "translation": "n. 憎恨, 恨, 厌恶\nvt. 憎恨, 憎恶\nvi. 仇恨",
+  "definition": "n. the emotion of intense dislike; a feeling of dislike so strong that it demands action\nv. dislike intensely; feel antipathy or aversion towards"
  },
  {
   "word": "haven't",
@@ -136,14 +136,14 @@
  {
   "word": "hope",
   "phonetic": "hәup",
-  "translation": "n. 希望, 信心, 期待\\nv. 希望, 期望, 信赖",
-  "definition": "n. a specific instance of feeling hopeful\\nn. the general feeling that some desire will be fulfilled\\nn. someone (or something) on which expectations are centered\\nn. United States comedian (born in England) who appeared in films with Bing Crosby (1903-2003)"
+  "translation": "n. 希望, 信心, 期待\nv. 希望, 期望, 信赖",
+  "definition": "n. a specific instance of feeling hopeful\nn. the general feeling that some desire will be fulfilled\nn. someone (or something) on which expectations are centered\nn. United States comedian (born in England) who appeared in films with Bing Crosby (1903-2003)"
  },
  {
   "word": "hours",
   "phonetic": "",
   "translation": "n. 小时（hour的复数形式）",
-  "definition": "n. a period of time assigned for work\\nn. an indefinite period of time"
+  "definition": "n. a period of time assigned for work\nn. an indefinite period of time"
  },
  {
   "word": "i'm",
@@ -160,26 +160,26 @@
  {
   "word": "last",
   "phonetic": "lɑ:st",
-  "translation": "a. 最后的, 末尾的, 最近的\\nvi. 持续, 支持, 维持\\nvt. 使维持, 够...用\\nadv. 最后, 后来\\nn. 最后, 末尾, 鞋楦头",
-  "definition": "n. the last or lowest in an ordering or series\\nn. a person's dying act; the final thing a person can do\\nn. a unit of weight equal to 4,000 pounds\\nn. a unit of capacity for grain equal to 80 bushels"
+  "translation": "a. 最后的, 末尾的, 最近的\nvi. 持续, 支持, 维持\nvt. 使维持, 够...用\nadv. 最后, 后来\nn. 最后, 末尾, 鞋楦头",
+  "definition": "n. the last or lowest in an ordering or series\nn. a person's dying act; the final thing a person can do\nn. a unit of weight equal to 4,000 pounds\nn. a unit of capacity for grain equal to 80 bushels"
  },
  {
   "word": "lesson",
   "phonetic": "'lesn",
   "translation": "n. 课, 课业, 教训",
-  "definition": "n. a unit of instruction\\nn. a task assigned for individual study"
+  "definition": "n. a unit of instruction\nn. a task assigned for individual study"
  },
  {
   "word": "listen",
   "phonetic": "'lisn",
-  "translation": "vi. 听, 倾听, 听从\\nn. 听, 倾听",
-  "definition": "v. hear with intention\\nv. listen and pay attention"
+  "translation": "vi. 听, 倾听, 听从\nn. 听, 倾听",
+  "definition": "v. hear with intention\nv. listen and pay attention"
  },
  {
   "word": "long",
   "phonetic": "lɒŋ",
-  "translation": "a. 长的, 长久的, 冗长的, 做多头的\\nvi. 渴望, 热望, 极想\\nadv. 长久, 始终\\nn. 长时间, 长信号, 长整型\\n[计] 长, 长整型",
-  "definition": "a. primarily temporal sense; being or indicating a relatively great or greater than average duration or passage of time or a duration as specified\\na. primarily spatial sense; of relatively great or greater than average spatial extension or extension as specified\\ns. of relatively great height\\na. holding securities or commodities in expectation of a rise in prices"
+  "translation": "a. 长的, 长久的, 冗长的, 做多头的\nvi. 渴望, 热望, 极想\nadv. 长久, 始终\nn. 长时间, 长信号, 长整型\n[计] 长, 长整型",
+  "definition": "a. primarily temporal sense; being or indicating a relatively great or greater than average duration or passage of time or a duration as specified\na. primarily spatial sense; of relatively great or greater than average spatial extension or extension as specified\ns. of relatively great height\na. holding securities or commodities in expectation of a rise in prices"
  },
  {
   "word": "looked",
@@ -190,37 +190,37 @@
  {
   "word": "low",
   "phonetic": "lәu",
-  "translation": "n. 低点, 低价, 低, 牛叫声\\na. 低的, 消沉的, 低等的, 浅的, 卑贱的\\nadv. 低下地, 谦卑地, 低\\nvi. 牛叫",
-  "definition": "n. an air mass of lower pressure; often brings precipitation\\nn. British political cartoonist (born in New Zealand) who created the character Colonel Blimp (1891-1963)\\nn. a low level or position or degree\\na. less than normal in degree or intensity or amount"
+  "translation": "n. 低点, 低价, 低, 牛叫声\na. 低的, 消沉的, 低等的, 浅的, 卑贱的\nadv. 低下地, 谦卑地, 低\nvi. 牛叫",
+  "definition": "n. an air mass of lower pressure; often brings precipitation\nn. British political cartoonist (born in New Zealand) who created the character Colonel Blimp (1891-1963)\nn. a low level or position or degree\na. less than normal in degree or intensity or amount"
  },
  {
   "word": "mark",
   "phonetic": "mɑ:k",
-  "translation": "n. 标志, 分数, 马克, 痕迹, 斑点, 靶子, 刻度, 记号, 符号, 戳记, 标准, 起跑线\\nvt. 做标记于, 留意, 打分数, 表明, 标志, 记录\\nvi. 作记号, 记得分\\n[计] 标志; 标记; 传号",
-  "definition": "n. a number or letter indicating quality (especially of a student's performance)\\nn. a visible indication made on a surface\\nn. the impression created by doing something unusual or extraordinary that people notice and remember\\nn. a symbol of disgrace or infamy"
+  "translation": "n. 标志, 分数, 马克, 痕迹, 斑点, 靶子, 刻度, 记号, 符号, 戳记, 标准, 起跑线\nvt. 做标记于, 留意, 打分数, 表明, 标志, 记录\nvi. 作记号, 记得分\n[计] 标志; 标记; 传号",
+  "definition": "n. a number or letter indicating quality (especially of a student's performance)\nn. a visible indication made on a surface\nn. the impression created by doing something unusual or extraordinary that people notice and remember\nn. a symbol of disgrace or infamy"
  },
  {
   "word": "mathematics",
   "phonetic": ".mæθә'mætiks",
-  "translation": "n. 数学\\n[机] 数学",
+  "translation": "n. 数学\n[机] 数学",
   "definition": "n. a science (or group of related sciences) dealing with the logic of quantity and shape and arrangement"
  },
  {
   "word": "maths",
   "phonetic": "mæθs",
   "translation": "n. 数学",
-  "definition": "n a science (or group of related sciences) dealing with the logic of quantity and shape and arrangement\\nn a science (or group of related sciences) dealing with the logic of quantity and shape and arrangement"
+  "definition": "n a science (or group of related sciences) dealing with the logic of quantity and shape and arrangement\nn a science (or group of related sciences) dealing with the logic of quantity and shape and arrangement"
  },
  {
   "word": "name",
   "phonetic": "neim",
-  "translation": "n. 名字, 名称, 姓名, 名义, 名誉, 文件名\\nvt. 命名, 称呼, 任命, 提名, 列举\\na. 姓名的, 据以取名的\\n[计] 名称, 文件名, 姓名",
-  "definition": "n. a language unit by which a person or thing is known\\nn. a person's reputation\\nn. family based on male descent\\nn. a well-known or notable person"
+  "translation": "n. 名字, 名称, 姓名, 名义, 名誉, 文件名\nvt. 命名, 称呼, 任命, 提名, 列举\na. 姓名的, 据以取名的\n[计] 名称, 文件名, 姓名",
+  "definition": "n. a language unit by which a person or thing is known\nn. a person's reputation\nn. family based on male descent\nn. a well-known or notable person"
  },
  {
   "word": "next",
   "phonetic": "'nekst",
-  "translation": "n. 下一个\\na. 下一个的, 其次的, 贴近的\\nadv. 然后, 下次, 次于\\n[计] 近邻干扰",
+  "translation": "n. 下一个\na. 下一个的, 其次的, 贴近的\nadv. 然后, 下次, 次于\n[计] 近邻干扰",
   "definition": "r. at the time or occasion immediately following"
  },
  {
@@ -232,14 +232,14 @@
  {
   "word": "papers",
   "phonetic": "",
-  "translation": "n. 文件, 官方文件\\n[法] 票证, 证券, 纸币",
-  "definition": "n writing that provides information (especially information of an official nature)\\nn a material made of cellulose pulp derived mainly from wood or rags or certain grasses\\nn an essay (especially one written as an assignment)\\nn a daily or weekly publication on folded sheets; contains news and articles and advertisements\\nn a medium for written communication\\nn a scholarly article describing the results of observations or stating hypotheses\\nn a business firm that publishes newspapers\\nn the physical object that is the product of a newspaper publisher\\nv cover with paper\\nv cover with wallpaper"
+  "translation": "n. 文件, 官方文件\n[法] 票证, 证券, 纸币",
+  "definition": "n writing that provides information (especially information of an official nature)\nn a material made of cellulose pulp derived mainly from wood or rags or certain grasses\nn an essay (especially one written as an assignment)\nn a daily or weekly publication on folded sheets; contains news and articles and advertisements\nn a medium for written communication\nn a scholarly article describing the results of observations or stating hypotheses\nn a business firm that publishes newspapers\nn the physical object that is the product of a newspaper publisher\nv cover with paper\nv cover with wallpaper"
  },
  {
   "word": "passed",
   "phonetic": "pɑ:st",
   "translation": "a. 已被传递的；已经通过的；已经过去的",
-  "definition": "v go across or through\\nv move past\\nv make laws, bills, etc. or bring into effect by legislation\\nv pass by\\nv place into the hands or custody of\\nv stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point\\nv travel past\\nv come to pass\\nv go unchallenged; be approved\\nv pass time in a specific way\\nv pass over, across, or through\\nv transmit information\\nv disappear gradually\\nv go successfully through a test or a selection process\\nv be superior or better than some standard\\nv accept or judge as acceptable\\nv allow to go without comment or censure\\nv transfer to another; of rights or property\\nv pass into a specified state or condition\\nv throw (a ball) to another player\\nv be inherited by\\nv cause to pass\\nv grant authorization or clearance for\\nv pass from physical life and lose all bodily attributes and functions necessary to sustain life\\nv eliminate from the body"
+  "definition": "v go across or through\nv move past\nv make laws, bills, etc. or bring into effect by legislation\nv pass by\nv place into the hands or custody of\nv stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point\nv travel past\nv come to pass\nv go unchallenged; be approved\nv pass time in a specific way\nv pass over, across, or through\nv transmit information\nv disappear gradually\nv go successfully through a test or a selection process\nv be superior or better than some standard\nv accept or judge as acceptable\nv allow to go without comment or censure\nv transfer to another; of rights or property\nv pass into a specified state or condition\nv throw (a ball) to another player\nv be inherited by\nv cause to pass\nv grant authorization or clearance for\nv pass from physical life and lose all bodily attributes and functions necessary to sustain life\nv eliminate from the body"
  },
  {
   "word": "perhaps",
@@ -250,14 +250,14 @@
  {
   "word": "question",
   "phonetic": "'kwestʃәn",
-  "translation": "n. 问题, 询问\\nv. 询问, 审问, 怀疑\\n[计] 询问",
-  "definition": "n. an instance of questioning\\nn. the subject matter at issue\\nn. a sentence of inquiry that asks for a reply\\nn. an informal reference to a marriage proposal"
+  "translation": "n. 问题, 询问\nv. 询问, 审问, 怀疑\n[计] 询问",
+  "definition": "n. an instance of questioning\nn. the subject matter at issue\nn. a sentence of inquiry that asks for a reply\nn. an informal reference to a marriage proposal"
  },
  {
   "word": "rest",
   "phonetic": "rest",
-  "translation": "n. 休息, 睡眠, 安息, 稍息, 静止, 支架, 休息处, 其余者, 剩余部分\\nvi. 休息, 睡, 长眠, 安心, 静止, 停止, 安置, 依赖\\nvt. 使休息, 使支撑, 把...寄托于",
-  "definition": "n. freedom from activity (work or strain or responsibility)\\nn. a state of inaction\\nn. euphemisms for death (based on an analogy between lying in a bed and in a tomb)\\nn. a support on which things can be put"
+  "translation": "n. 休息, 睡眠, 安息, 稍息, 静止, 支架, 休息处, 其余者, 剩余部分\nvi. 休息, 睡, 长眠, 安心, 静止, 停止, 安置, 依赖\nvt. 使休息, 使支撑, 把...寄托于",
+  "definition": "n. freedom from activity (work or strain or responsibility)\nn. a state of inaction\nn. euphemisms for death (based on an analogy between lying in a bed and in a tomb)\nn. a support on which things can be put"
  },
  {
   "word": "richard",
@@ -267,50 +267,50 @@
  {
   "word": "sat",
   "phonetic": "sæt",
-  "translation": "n. 饱和度\\nsit的过去式和过去分词\\n[计] 饱和度",
-  "definition": "n the seventh and last day of the week; observed as the Sabbath by Jews and some Christians\\nv be seated\\nv be around, often idly or without specific purpose\\nv take a seat\\nv be in session\\nv assume a posture as for artistic purposes\\nv sit and travel on the back of animal, usually while controlling its motions\\nv be located or situated somewhere\\nv work or act as a baby-sitter; I have too much homework to do\"\\nv show to a seat; assign a seat for\\nv serve in a specific professional capacity"
+  "translation": "n. 饱和度\nsit的过去式和过去分词\n[计] 饱和度",
+  "definition": "n the seventh and last day of the week; observed as the Sabbath by Jews and some Christians\nv be seated\nv be around, often idly or without specific purpose\nv take a seat\nv be in session\nv assume a posture as for artistic purposes\nv sit and travel on the back of animal, usually while controlling its motions\nv be located or situated somewhere\nv work or act as a baby-sitter; I have too much homework to do\"\nv show to a seat; assign a seat for\nv serve in a specific professional capacity"
  },
  {
   "word": "sixteen",
   "phonetic": "'siks'ti:n",
   "translation": "num. 十六, 十六个",
-  "definition": "n. the cardinal number that is the sum of fifteen and one\\ns. being one more than fifteen"
+  "definition": "n. the cardinal number that is the sum of fifteen and one\ns. being one more than fifteen"
  },
  {
   "word": "sure",
   "phonetic": "ʃuә",
-  "translation": "a. 确信, 必然的, 必定的\\nadv. 当然, 确实地, 无疑地",
-  "definition": "s. physically secure or dependable\\ns. (of persons) worthy of trust or confidence\\ns. infallible or unfailing\\ns. certain not to fail"
+  "translation": "a. 确信, 必然的, 必定的\nadv. 当然, 确实地, 无疑地",
+  "definition": "s. physically secure or dependable\ns. (of persons) worthy of trust or confidence\ns. infallible or unfailing\ns. certain not to fail"
  },
  {
   "word": "tape",
   "phonetic": "teip",
-  "translation": "n. 带子, 录音带, 磁带, 窄带, 卷尺\\nvt. 以带子绑起, 测量, 录音\\n[计] 带",
-  "definition": "n. a long thin piece of cloth or paper as used for binding or fastening\\nn. a recording made on magnetic tape\\nn. the finishing line for a foot race\\nn. measuring instrument consisting of a narrow strip (cloth or metal) marked in inches or centimeters and used for measuring lengths"
+  "translation": "n. 带子, 录音带, 磁带, 窄带, 卷尺\nvt. 以带子绑起, 测量, 录音\n[计] 带",
+  "definition": "n. a long thin piece of cloth or paper as used for binding or fastening\nn. a recording made on magnetic tape\nn. the finishing line for a foot race\nn. measuring instrument consisting of a narrow strip (cloth or metal) marked in inches or centimeters and used for measuring lengths"
  },
  {
   "word": "test",
   "phonetic": "test",
-  "translation": "n. 测试, 试验, 化验, 检验, 考验, 甲壳\\nvt. 测试, 试验, 化验\\nvi. 接受测验, 进行测试",
-  "definition": "n. any standardized procedure for measuring sensitivity or memory or intelligence or aptitude or personality etc\\nn. the act of undergoing testing\\nn. the act of testing something\\nn. a hard outer covering as of some amoebas and sea urchins"
+  "translation": "n. 测试, 试验, 化验, 检验, 考验, 甲壳\nvt. 测试, 试验, 化验\nvi. 接受测验, 进行测试",
+  "definition": "n. any standardized procedure for measuring sensitivity or memory or intelligence or aptitude or personality etc\nn. the act of undergoing testing\nn. the act of testing something\nn. a hard outer covering as of some amoebas and sea urchins"
  },
  {
   "word": "tests",
   "phonetic": "",
   "translation": "n. 测验（test的复数）",
-  "definition": "n trying something to find out about it\\nn any standardized procedure for measuring sensitivity or memory or intelligence or aptitude or personality etc\\nn a set of questions or exercises evaluating skill or knowledge\\nn the act of undergoing testing\\nn the act of testing something\\nn a hard outer covering as of some amoebas and sea urchins\\nv put to the test, as for its quality, or give experimental use to\\nv test or examine for the presence of disease or infection\\nv examine someone's knowledge of something\\nv show a certain characteristic when tested\\nv achieve a certain score or rating on a test\\nv determine the presence or properties of (a substance)\\nv undergo a test"
+  "definition": "n trying something to find out about it\nn any standardized procedure for measuring sensitivity or memory or intelligence or aptitude or personality etc\nn a set of questions or exercises evaluating skill or knowledge\nn the act of undergoing testing\nn the act of testing something\nn a hard outer covering as of some amoebas and sea urchins\nv put to the test, as for its quality, or give experimental use to\nv test or examine for the presence of disease or infection\nv examine someone's knowledge of something\nv show a certain characteristic when tested\nv achieve a certain score or rating on a test\nv determine the presence or properties of (a substance)\nv undergo a test"
  },
  {
   "word": "three",
   "phonetic": "θri:",
   "translation": "num. 三, 三个",
-  "definition": "n. the cardinal number that is the sum of one and one and one\\ns. being one more than two"
+  "definition": "n. the cardinal number that is the sum of one and one and one\ns. being one more than two"
  },
  {
   "word": "top",
   "phonetic": "tɒp",
-  "translation": "n. 顶部, 顶端, 极点, 上面, 上部, 顶篷, 最高地位, 首位, 陀螺\\na. 最高的, 顶上的, 头等的\\nvt. 盖, 加以顶, 高达, 超越\\nvi. 结束, 达到顶点, 高出\\n[计] TOP协议",
-  "definition": "n. the upper part of anything\\nn. the highest or uppermost side of anything\\nn. the first half of an inning; while the visiting team is at bat\\nn. the greatest possible intensity"
+  "translation": "n. 顶部, 顶端, 极点, 上面, 上部, 顶篷, 最高地位, 首位, 陀螺\na. 最高的, 顶上的, 头等的\nvt. 盖, 加以顶, 高达, 超越\nvi. 结束, 达到顶点, 高出\n[计] TOP协议",
+  "definition": "n. the upper part of anything\nn. the highest or uppermost side of anything\nn. the first half of an inning; while the visiting team is at bat\nn. the greatest possible intensity"
  },
  {
   "word": "weren't",
@@ -320,19 +320,19 @@
  {
   "word": "word",
   "phonetic": "wә:d",
-  "translation": "n. 话, 消息, 词, 诺言, 命令\\nvt. 用言辞表达\\n[计] 字",
-  "definition": "n. a unit of language that native speakers can identify\\nn. a brief statement\\nn. a verbal command for action\\nn. a word is a string of bits stored in computer memory"
+  "translation": "n. 话, 消息, 词, 诺言, 命令\nvt. 用言辞表达\n[计] 字",
+  "definition": "n. a unit of language that native speakers can identify\nn. a brief statement\nn. a verbal command for action\nn. a word is a string of bits stored in computer memory"
  },
  {
   "word": "write",
   "phonetic": "rait",
-  "translation": "vt. 书写, 著述, 写, 写满, 写信给\\nvi. 写, 写字, 写信, 写作, 作曲\\n[计] 书写器",
-  "definition": "v. produce a literary work\\nv. communicate or express by writing\\nv. communicate (with) in writing\\nv. communicate by letter"
+  "translation": "vt. 书写, 著述, 写, 写满, 写信给\nvi. 写, 写字, 写信, 写作, 作曲\n[计] 书写器",
+  "definition": "v. produce a literary work\nv. communicate or express by writing\nv. communicate (with) in writing\nv. communicate by letter"
  },
  {
   "word": "wrote",
   "phonetic": "rәut",
   "translation": "write的过去式",
-  "definition": "v produce a literary work\\nv communicate or express by writing\\nv have (one's written work) issued for publication\\nv communicate (with) in writing\\nv communicate by letter\\nv write music\\nv mark or trace on a surface\\nv record data on a computer\\nv write or name the letters that comprise the conventionally accepted form of (a word or part of a word)\\nv create code, write a computer program"
+  "definition": "v produce a literary work\nv communicate or express by writing\nv have (one's written work) issued for publication\nv communicate (with) in writing\nv communicate by letter\nv write music\nv mark or trace on a surface\nv record data on a computer\nv write or name the letters that comprise the conventionally accepted form of (a word or part of a word)\nv create code, write a computer program"
  }
 ]

@@ -8,55 +8,55 @@
  {
   "word": "excuse",
   "phonetic": "ik'skju:z",
-  "translation": "vt. 原谅, 申辩, 做为...的托辞\\nn. 致歉, 理由, 饶恕, 借口",
-  "definition": "n. a defense of some offensive behavior or some failure to keep a promise etc.\\nn. a note explaining an absence\\nv. accept an excuse for\\nv. grant exemption or release to"
+  "translation": "vt. 原谅, 申辩, 做为...的托辞\nn. 致歉, 理由, 饶恕, 借口",
+  "definition": "n. a defense of some offensive behavior or some failure to keep a promise etc.\nn. a note explaining an absence\nv. accept an excuse for\nv. grant exemption or release to"
  },
  {
   "word": "answer",
   "phonetic": "'ɑ:nsә",
-  "translation": "n. 答案, 回答, 回报, 答辩\\nvt. 回答, 反驳, 适应, 响应, 符合\\nvi. 回答, 答应, 负责, 符合, 成功\\n[计] 用户问题及答案新闻组",
-  "definition": "n. a statement (either spoken or written) that is made to reply to a question or request or criticism or accusation\\nn. the speech act of replying to a question\\nn. the principal pleading by the defendant in response to plaintiff's complaint; in criminal law it consists of the defendant's plea of `guilty' or `not guilty' (or nolo contendere); in civil law it must contain denials of all allegations in the plaintiff's complaint that the defendant hopes to controvert and it can contain affirmative defenses or counterclaims\\nn. a nonverbal reaction"
+  "translation": "n. 答案, 回答, 回报, 答辩\nvt. 回答, 反驳, 适应, 响应, 符合\nvi. 回答, 答应, 负责, 符合, 成功\n[计] 用户问题及答案新闻组",
+  "definition": "n. a statement (either spoken or written) that is made to reply to a question or request or criticism or accusation\nn. the speech act of replying to a question\nn. the principal pleading by the defendant in response to plaintiff's complaint; in criminal law it consists of the defendant's plea of `guilty' or `not guilty' (or nolo contendere); in civil law it must contain denials of all allegations in the plaintiff's complaint that the defendant hopes to controvert and it can contain affirmative defenses or counterclaims\nn. a nonverbal reaction"
  },
  {
   "word": "lesson",
   "phonetic": "'lesn",
   "translation": "n. 课, 课业, 教训",
-  "definition": "n. a unit of instruction\\nn. a task assigned for individual study"
+  "definition": "n. a unit of instruction\nn. a task assigned for individual study"
  },
  {
   "word": "listen",
   "phonetic": "'lisn",
-  "translation": "vi. 听, 倾听, 听从\\nn. 听, 倾听",
-  "definition": "v. hear with intention\\nv. listen and pay attention"
+  "translation": "vi. 听, 倾听, 听从\nn. 听, 倾听",
+  "definition": "v. hear with intention\nv. listen and pay attention"
  },
  {
   "word": "much",
   "phonetic": "mʌtʃ",
-  "translation": "n. 大量, 许多, 重要的事\\na. 很多的, 重要的\\nadv. 多, 甚, 几乎",
-  "definition": "n. a great amount or extent\\na. (quantifier used with mass nouns) great in quantity or degree or extent\\nr. to a great degree or extent\\nr. very"
+  "translation": "n. 大量, 许多, 重要的事\na. 很多的, 重要的\nadv. 多, 甚, 几乎",
+  "definition": "n. a great amount or extent\na. (quantifier used with mass nouns) great in quantity or degree or extent\nr. to a great degree or extent\nr. very"
  },
  {
   "word": "pardon",
   "phonetic": "'pɑ:dn",
-  "translation": "n. 原谅, 赦免\\nvt. 宽恕, 原谅",
-  "definition": "n. a warrant granting release from punishment for an offense\\nv. grant a pardon to"
+  "translation": "n. 原谅, 赦免\nvt. 宽恕, 原谅",
+  "definition": "n. a warrant granting release from punishment for an offense\nv. grant a pardon to"
  },
  {
   "word": "question",
   "phonetic": "'kwestʃәn",
-  "translation": "n. 问题, 询问\\nv. 询问, 审问, 怀疑\\n[计] 询问",
-  "definition": "n. an instance of questioning\\nn. the subject matter at issue\\nn. a sentence of inquiry that asks for a reply\\nn. an informal reference to a marriage proposal"
+  "translation": "n. 问题, 询问\nv. 询问, 审问, 怀疑\n[计] 询问",
+  "definition": "n. an instance of questioning\nn. the subject matter at issue\nn. a sentence of inquiry that asks for a reply\nn. an informal reference to a marriage proposal"
  },
  {
   "word": "tape",
   "phonetic": "teip",
-  "translation": "n. 带子, 录音带, 磁带, 窄带, 卷尺\\nvt. 以带子绑起, 测量, 录音\\n[计] 带",
-  "definition": "n. a long thin piece of cloth or paper as used for binding or fastening\\nn. a recording made on magnetic tape\\nn. the finishing line for a foot race\\nn. measuring instrument consisting of a narrow strip (cloth or metal) marked in inches or centimeters and used for measuring lengths"
+  "translation": "n. 带子, 录音带, 磁带, 窄带, 卷尺\nvt. 以带子绑起, 测量, 录音\n[计] 带",
+  "definition": "n. a long thin piece of cloth or paper as used for binding or fastening\nn. a recording made on magnetic tape\nn. the finishing line for a foot race\nn. measuring instrument consisting of a narrow strip (cloth or metal) marked in inches or centimeters and used for measuring lengths"
  },
  {
   "word": "thank",
   "phonetic": "θæŋk",
-  "translation": "n. 谢意, 感谢\\nvt. 谢谢, 感谢",
+  "translation": "n. 谢意, 感谢\nvt. 谢谢, 感谢",
   "definition": "v. express gratitude or show appreciation to"
  },
  {

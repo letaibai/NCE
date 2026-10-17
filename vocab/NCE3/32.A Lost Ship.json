@@ -2,50 +2,50 @@
  {
   "word": "ship",
   "phonetic": "ʃip",
-  "translation": "n. 船, 舰\\nvt. 以船运送, 装船, 运送\\nvi. 上船, 乘船",
-  "definition": "n. a vessel that carries passengers or freight\\nv. hire for work on a ship\\nv. travel by ship\\nv. place on board a ship"
+  "translation": "n. 船, 舰\nvt. 以船运送, 装船, 运送\nvi. 上船, 乘船",
+  "definition": "n. a vessel that carries passengers or freight\nv. hire for work on a ship\nv. travel by ship\nv. place on board a ship"
  },
  {
   "word": "captain",
   "phonetic": "'kæptin",
-  "translation": "n. 船长, 指挥官, 海军上校, 首领\\nvt. 率领, 指挥",
-  "definition": "n. an officer holding a rank below a major but above a lieutenant\\nn. the naval officer in command of a military ship\\nn. a policeman in charge of a precinct\\nn. the leader of a group of people"
+  "translation": "n. 船长, 指挥官, 海军上校, 首领\nvt. 率领, 指挥",
+  "definition": "n. an officer holding a rank below a major but above a lieutenant\nn. the naval officer in command of a military ship\nn. a policeman in charge of a precinct\nn. the leader of a group of people"
  },
  {
   "word": "chest",
   "phonetic": "tʃest",
-  "translation": "n. 胸, 胸部, 衣柜, 箱子\\n[医] 胸, 胸廓",
+  "translation": "n. 胸, 胸部, 衣柜, 箱子\n[医] 胸, 胸廓",
   "definition": "n. box with a lid; used for storage; usually large and sturdy"
  },
  {
   "word": "found",
   "phonetic": "faund",
-  "translation": "vt. 建立, 创立, 铸造\\nfind的过去式和过去分词",
-  "definition": "n. food and lodging provided in addition to money\\na. come upon unexpectedly or after searching"
+  "translation": "vt. 建立, 创立, 铸造\nfind的过去式和过去分词",
+  "definition": "n. food and lodging provided in addition to money\na. come upon unexpectedly or after searching"
  },
  {
   "word": "find",
   "phonetic": "faind",
-  "translation": "vt. 发现, 感到, 找到, 认为, 得到\\nvi. 裁决\\nn. 发现\\n[计] 查找; DOS外部命令:在指定的文件或从键盘输入的文本行中\\n寻找指定的字符串, 将符合条件的行或行数输出到标准输出设备上",
-  "definition": "v. come upon, as if by accident; meet with\\nv. come upon after searching; find the location of something that was missed or lost\\nv. come to believe on the basis of emotion, intuitions, or indefinite grounds\\nv. obtain through effort or management"
+  "translation": "vt. 发现, 感到, 找到, 认为, 得到\nvi. 裁决\nn. 发现\n[计] 查找; DOS外部命令:在指定的文件或从键盘输入的文本行中\n寻找指定的字符串, 将符合条件的行或行数输出到标准输出设备上",
+  "definition": "v. come upon, as if by accident; meet with\nv. come upon after searching; find the location of something that was missed or lost\nv. come to believe on the basis of emotion, intuitions, or indefinite grounds\nv. obtain through effort or management"
  },
  {
   "word": "lost",
   "phonetic": "lɒst",
-  "translation": "a. 失去的, 遗失的, 迷惑的\\nlose的过去式和过去分词",
-  "definition": "a. no longer in your possession or control; unable to be found or recovered\\na. spiritually or physically doomed or destroyed\\na. not gained or won\\ns. incapable of being recovered or regained"
+  "translation": "a. 失去的, 遗失的, 迷惑的\nlose的过去式和过去分词",
+  "definition": "a. no longer in your possession or control; unable to be found or recovered\na. spiritually or physically doomed or destroyed\na. not gained or won\ns. incapable of being recovered or regained"
  },
  {
   "word": "another",
   "phonetic": "ә'nʌðә",
-  "translation": "a. 另外的, 再一的, 不同的\\npron. 又一个, 另一个, 类似的另一个",
+  "translation": "a. 另外的, 再一的, 不同的\npron. 又一个, 另一个, 类似的另一个",
   "definition": "s. any of various alternatives; some other"
  },
  {
   "word": "belongings",
   "phonetic": "bi'lɒŋiŋz",
-  "translation": "n. 财产, 所有物, 相关事物\\n[经] 财产, 所有物, 附属物",
-  "definition": "n something owned; any tangible or intangible possession that is owned by someone; \\nn happiness felt in a secure relationship\\nv be owned by; be in the possession of\\nv be suitable or acceptable\\nv be in the right place or situation\\nv be rightly classified in a class or category\\nv be a member, adherent, inhabitant, etc. (of a group, organization, or place)\\nv be a part or adjunct"
+  "translation": "n. 财产, 所有物, 相关事物\n[经] 财产, 所有物, 附属物",
+  "definition": "n something owned; any tangible or intangible possession that is owned by someone; \nn happiness felt in a secure relationship\nv be owned by; be in the possession of\nv be suitable or acceptable\nv be in the right place or situation\nv be rightly classified in a class or category\nv be a member, adherent, inhabitant, etc. (of a group, organization, or place)\nv be a part or adjunct"
  },
  {
   "word": "contained",
@@ -56,20 +56,20 @@
  {
   "word": "crew",
   "phonetic": "kru:",
-  "translation": "n. 全体人员, 一群人, 全体队员\\ncrow的过去式",
-  "definition": "n. the men and women who man a vehicle (ship, aircraft, etc.)\\nn. the team of men manning a racing shell\\nv. serve as a crew member on"
+  "translation": "n. 全体人员, 一群人, 全体队员\ncrow的过去式",
+  "definition": "n. the men and women who man a vehicle (ship, aircraft, etc.)\nn. the team of men manning a racing shell\nv. serve as a crew member on"
  },
  {
   "word": "home",
   "phonetic": "hәum",
-  "translation": "n. 家, 避难所, 故乡\\na. 家庭的, 国内的, 打中目标的\\nadv. 在家, 在本国, 打中目标地\\n[计] 返回始位",
-  "definition": "n. where you live at a particular time\\nn. the country or state or city where you live\\nn. place where something began and flourished\\nn. an environment offering affection and security"
+  "translation": "n. 家, 避难所, 故乡\na. 家庭的, 国内的, 打中目标的\nadv. 在家, 在本国, 打中目标地\n[计] 返回始位",
+  "definition": "n. where you live at a particular time\nn. the country or state or city where you live\nn. place where something began and flourished\nn. an environment offering affection and security"
  },
  {
   "word": "items",
   "phonetic": "",
   "translation": "n. 项目；名目；所有物品（item的复数形式）",
-  "definition": "n a distinct part that can be specified separately in a group of things that could be enumerated on a list\\nn a small part that can be considered separately from the whole\\nn a whole individual unit; especially when included in a list or collection\\nn an isolated fact that is considered separately from the whole\\nn an individual instance of a type of symbol"
+  "definition": "n a distinct part that can be specified separately in a group of things that could be enumerated on a list\nn a small part that can be considered separately from the whole\nn a whole individual unit; especially when included in a list or collection\nn an isolated fact that is considered separately from the whole\nn an individual instance of a type of symbol"
  },
  {
   "word": "karen",
@@ -81,25 +81,25 @@
   "word": "later",
   "phonetic": "'leitә",
   "translation": "adv. 以后, 随后",
-  "definition": "s. coming at a subsequent time or stage\\nr. comparative of the adverb `late'"
+  "definition": "s. coming at a subsequent time or stage\nr. comparative of the adverb `late'"
  },
  {
   "word": "letter",
   "phonetic": "'letә",
-  "translation": "n. 信, 字母, 证书, 字面意义, 铅字, 学问, 出租人\\nvt. 写字母于, 在...上刻字母, 用字母标明\\nvi. 写印刷体字\\n[计] 字母",
-  "definition": "n. a written message addressed to a person or organization\\nn. the conventional characters of the alphabet used to represent speech\\nn. owner who lets another person use something (housing usually) for hire\\nn. a strictly literal interpretation (as distinct from the intention)"
+  "translation": "n. 信, 字母, 证书, 字面意义, 铅字, 学问, 出租人\nvt. 写字母于, 在...上刻字母, 用字母标明\nvi. 写印刷体字\n[计] 字母",
+  "definition": "n. a written message addressed to a person or organization\nn. the conventional characters of the alphabet used to represent speech\nn. owner who lets another person use something (housing usually) for hire\nn. a strictly literal interpretation (as distinct from the intention)"
  },
  {
   "word": "message",
   "phonetic": "'mesidʒ",
-  "translation": "n. 消息, 通讯, 讯息, 教训, 预言, 广告词\\nvt. 通知\\nvi. 通报, 报告, 报信\\n[计] 报文; 消息; 信息",
-  "definition": "n. a communication (usually brief) that is written or spoken or signaled\\nn. what a communication that is about something is about\\nv. send a message to\\nv. send as a message"
+  "translation": "n. 消息, 通讯, 讯息, 教训, 预言, 广告词\nvt. 通知\nvi. 通报, 报告, 报信\n[计] 报文; 消息; 信息",
+  "definition": "n. a communication (usually brief) that is written or spoken or signaled\nn. what a communication that is about something is about\nv. send a message to\nv. send as a message"
  },
  {
   "word": "possible",
   "phonetic": "'pɒsәbl",
-  "translation": "a. 可能的, 潜在的, 合适的\\nn. 可能性, 可能的事物",
-  "definition": "n. something that can be done\\nn. an applicant who might be suitable\\na. capable of happening or existing"
+  "translation": "a. 可能的, 潜在的, 合适的\nn. 可能性, 可能的事物",
+  "definition": "n. something that can be done\nn. an applicant who might be suitable\na. capable of happening or existing"
  },
  {
   "word": "proved",
@@ -110,8 +110,8 @@
  {
   "word": "raised",
   "phonetic": "reizd",
-  "translation": "a. 凸起的, 浮雕的, 发酵的\\n[医] 隆起的",
-  "definition": "a. located or moved above the surround or above the normal position\\ns. increased in amount or degree"
+  "translation": "a. 凸起的, 浮雕的, 发酵的\n[医] 隆起的",
+  "definition": "a. located or moved above the surround or above the normal position\ns. increased in amount or degree"
  },
  {
   "word": "received",
@@ -122,38 +122,38 @@
  {
   "word": "salvage",
   "phonetic": "'sælvidʒ",
-  "translation": "n. 海上救助, 抢救, 打捞, 抢救出来的财物\\nvt. 海上救助, 抢救, 打捞, 营救\\n[计] 文件恢复程序",
-  "definition": "n. property or goods saved from damage or destruction\\nn. the act of saving goods or property that were in danger of damage or destruction\\nn. the act of rescuing a ship or its crew or its cargo from a shipwreck or a fire\\nv. save from ruin, destruction, or harm"
+  "translation": "n. 海上救助, 抢救, 打捞, 抢救出来的财物\nvt. 海上救助, 抢救, 打捞, 营救\n[计] 文件恢复程序",
+  "definition": "n. property or goods saved from damage or destruction\nn. the act of saving goods or property that were in danger of damage or destruction\nn. the act of rescuing a ship or its crew or its cargo from a shipwreck or a fire\nv. save from ruin, destruction, or harm"
  },
  {
   "word": "sea",
   "phonetic": "si:",
-  "translation": "n. 海, 海洋, 海浪, 大量\\n[法] 海, 海洋",
-  "definition": "n. a division of an ocean or a large body of salt water partially enclosed by land\\nn. turbulent water with swells of considerable size"
+  "translation": "n. 海, 海洋, 海浪, 大量\n[法] 海, 海洋",
+  "definition": "n. a division of an ocean or a large body of salt water partially enclosed by land\nn. turbulent water with swells of considerable size"
  },
  {
   "word": "seaman",
   "phonetic": "'si:mәn",
-  "translation": "n. 船员, 海员, 水兵\\n[法] 海员, 水手, 精通海事者",
+  "translation": "n. 船员, 海员, 水兵\n[法] 海员, 水手, 精通海事者",
   "definition": "n. muckraking United States journalist who exposed bad conditions in mental institutions (1867-1922)"
  },
  {
   "word": "together",
   "phonetic": "tә'geðә",
   "translation": "adv. 一起, 共同, 彼此",
-  "definition": "s. mentally and emotionally stable\\nr. in contact with each other or in proximity\\nr. assembled in one place\\nr. in each other's company"
+  "definition": "s. mentally and emotionally stable\nr. in contact with each other or in proximity\nr. assembled in one place\nr. in each other's company"
  },
  {
   "word": "able",
   "phonetic": "'eibl",
   "translation": "a. 能干的, 能够的",
-  "definition": "a. (usually followed by `to') having the necessary means or skill or know-how or authority to do something\\ns. have the skills and qualifications to do things well\\ns. having inherent physical or mental ability or capacity\\ns. having a strong healthy body"
+  "definition": "a. (usually followed by `to') having the necessary means or skill or know-how or authority to do something\ns. have the skills and qualifications to do things well\ns. having inherent physical or mental ability or capacity\ns. having a strong healthy body"
  },
  {
   "word": "after",
   "phonetic": "'ɑ:ftә",
-  "translation": "prep. 在...之后, 由于\\nconj. 在...之后\\nadv. 后来",
-  "definition": "s. located farther aft\\nr. behind or in the rear"
+  "translation": "prep. 在...之后, 由于\nconj. 在...之后\nadv. 后来",
+  "definition": "s. located farther aft\nr. behind or in the rear"
  },
  {
   "word": "alan",
@@ -164,7 +164,7 @@
  {
   "word": "attempt",
   "phonetic": "ә'tempt",
-  "translation": "n. 尝试, 企图\\nvt. 尝试, 企图",
+  "translation": "n. 尝试, 企图\nvt. 尝试, 企图",
   "definition": "n. earnest and conscientious activity intended to do or accomplish something"
  },
  {
@@ -175,62 +175,62 @@
  {
   "word": "bed",
   "phonetic": "bed",
-  "translation": "n. 床, 睡眠处, 河床, 底座, 路基, 一层\\nvt. 提供宿处, 栽种, 安装\\nvi. 睡, 形成坚实的一层",
-  "definition": "n. a piece of furniture that provides a place to sleep\\nn. a plot of ground in which plants are growing\\nn. a depression forming the ground under a body of water\\nn. (geology) a stratum of rock (especially sedimentary rock)"
+  "translation": "n. 床, 睡眠处, 河床, 底座, 路基, 一层\nvt. 提供宿处, 栽种, 安装\nvi. 睡, 形成坚实的一层",
+  "definition": "n. a piece of furniture that provides a place to sleep\nn. a plot of ground in which plants are growing\nn. a depression forming the ground under a body of water\nn. (geology) a stratum of rock (especially sedimentary rock)"
  },
  {
   "word": "before",
   "phonetic": "bi'fɒ:",
-  "translation": "prep. 在...之前\\nconj. 在...之前\\nadv. 在前",
-  "definition": "r earlier in time; previously\\nr at or in the front"
+  "translation": "prep. 在...之前\nconj. 在...之前\nadv. 在前",
+  "definition": "r earlier in time; previously\nr at or in the front"
  },
  {
   "word": "board",
   "phonetic": "bɒ:d",
-  "translation": "n. 木板, 甲板, 膳食, 会议桌\\nvt. 乘船, 供膳食, 用板覆盖\\nvi. 搭伙\\n[计] 板",
-  "definition": "n. a committee having supervisory powers\\nn. a stout length of sawn timber; made in a wide variety of sizes and used for many purposes\\nn. a flat piece of material designed for a special purpose\\nn. food or meals in general"
+  "translation": "n. 木板, 甲板, 膳食, 会议桌\nvt. 乘船, 供膳食, 用板覆盖\nvi. 搭伙\n[计] 板",
+  "definition": "n. a committee having supervisory powers\nn. a stout length of sawn timber; made in a wide variety of sizes and used for many purposes\nn. a flat piece of material designed for a special purpose\nn. food or meals in general"
  },
  {
   "word": "book",
   "phonetic": "buk",
-  "translation": "n. 书, 书籍, 帐簿, 名册, 工作簿\\nv. 登记, 预订\\n[计] 工作簿",
-  "definition": "n. a written work or composition that has been published (printed on pages bound together)\\nn. physical objects consisting of a number of pages bound together\\nn. a collection of playing cards satisfying the rules of a card game\\nn. a collection of rules or prescribed standards on the basis of which decisions are made"
+  "translation": "n. 书, 书籍, 帐簿, 名册, 工作簿\nv. 登记, 预订\n[计] 工作簿",
+  "definition": "n. a written work or composition that has been published (printed on pages bound together)\nn. physical objects consisting of a number of pages bound together\nn. a collection of playing cards satisfying the rules of a card game\nn. a collection of rules or prescribed standards on the basis of which decisions are made"
  },
  {
   "word": "books",
   "phonetic": "",
   "translation": "n. 书评；书籍（book的复数）",
-  "definition": "n a written work or composition that has been published (printed on pages bound together)\\nn physical objects consisting of a number of pages bound together\\nn a compilation of the known facts regarding something or someone\\nn a written version of a play or other dramatic composition; used in preparing for a performance\\nn a record in which commercial accounts are recorded\\nn a collection of playing cards satisfying the rules of a card game\\nn a collection of rules or prescribed standards on the basis of which decisions are made\\nn the sacred writings of Islam revealed by God to the prophet Muhammad during his life at Mecca and Medina\\nn the sacred writings of the Christian religions\\nn a major division of a long written composition\\nn a number of sheets (ticket or stamps etc.) bound together on one edge\\nv engage for a performance\\nv arrange for and reserve (something for someone else) in advance\\nv record a charge in a police register\\nv register in a hotel booker"
+  "definition": "n a written work or composition that has been published (printed on pages bound together)\nn physical objects consisting of a number of pages bound together\nn a compilation of the known facts regarding something or someone\nn a written version of a play or other dramatic composition; used in preparing for a performance\nn a record in which commercial accounts are recorded\nn a collection of playing cards satisfying the rules of a card game\nn a collection of rules or prescribed standards on the basis of which decisions are made\nn the sacred writings of Islam revealed by God to the prophet Muhammad during his life at Mecca and Medina\nn the sacred writings of the Christian religions\nn a major division of a long written composition\nn a number of sheets (ticket or stamps etc.) bound together on one edge\nv engage for a performance\nv arrange for and reserve (something for someone else) in advance\nv record a charge in a police register\nv register in a hotel booker"
  },
  {
   "word": "bottom",
   "phonetic": "'bɒtәm",
-  "translation": "n. 底部\\na. 底部的\\nvt. 给...装底, 查明真相\\nvi. 到达底部, 建立基础",
-  "definition": "n. the lower side of anything\\nn. the lowest part of anything\\nn. the second half of an inning; while the home team is at bat\\nn. a cargo ship"
+  "translation": "n. 底部\na. 底部的\nvt. 给...装底, 查明真相\nvi. 到达底部, 建立基础",
+  "definition": "n. the lower side of anything\nn. the lowest part of anything\nn. the second half of an inning; while the home team is at bat\nn. a cargo ship"
  },
  {
   "word": "brought",
   "phonetic": "brɒ:t",
   "translation": "bring的过去式和过去分词",
-  "definition": "v take something or somebody with oneself somewhere\\nv cause to come into a particular state or condition\\nv cause to happen or to occur as a consequence\\nv go or come after and bring or take back\\nv bring into a different state\\nv be accompanied by\\nv advance or set forth in court\\nv bestow a quality on\\nv be sold for a certain price\\nv attract the attention of\\nv induce or persuade"
+  "definition": "v take something or somebody with oneself somewhere\nv cause to come into a particular state or condition\nv cause to happen or to occur as a consequence\nv go or come after and bring or take back\nv bring into a different state\nv be accompanied by\nv advance or set forth in court\nv bestow a quality on\nv be sold for a certain price\nv attract the attention of\nv induce or persuade"
  },
  {
   "word": "bullion",
   "phonetic": "'buljәn",
-  "translation": "n. 金银, 金银块, 纯金\\n[经] 金银锭",
-  "definition": "n. a mass of precious metal\\nn. gold or silver in bars or ingots"
+  "translation": "n. 金银, 金银块, 纯金\n[经] 金银锭",
+  "definition": "n. a mass of precious metal\nn. gold or silver in bars or ingots"
  },
  {
   "word": "cargo",
   "phonetic": "'kɑ:gәu",
-  "translation": "n. 货物\\n[经] 货柜",
+  "translation": "n. 货物\n[经] 货柜",
   "definition": "n. goods carried by a large vehicle"
  },
  {
   "word": "carrying",
   "phonetic": "'kæriiŋ",
   "translation": "[法] 运载",
-  "definition": "v move while supporting, either in a vehicle or in one's hands or on one's body\\nv have with oneself; have on one's person\\nv transmit or serve as the medium for transmission\\nv serve as a means for expressing something\\nv bear or be able to bear the weight, pressure,or responsibility of\\nv support or hold in a certain manner\\nv contain or hold; have within\\nv extend to a certain degree\\nv continue or extend\\nv be necessarily associated with or result in or involve\\nv win in an election\\nv include, as on a list\\nv behave in a certain manner\\nv have on hand\\nv include as the content; broadcast or publicize\\nv propel, \"Carry the ball\"\\nv pass on a communication\\nv have as an inherent or characteristic feature or have as a consequence\\nv be conveyed over a certain distance\\nv keep up with financial support\\nv have or possess something abstract\\nv be equipped with (a mast or sail)\\nv win approval or support for\\nv compensate for a weaker partner or member by one's own performance\\nv take further or advance\\nv have on the surface or on the skin\\nv capture after a fight\\nv transfer (entries) from one account book to another\\nv transfer (a number, cipher, or remainder) to the next column or unit's place before or after, in addition or multiplication\\nv pursue a line of scent or be a bearer\\nv bear (a crop)\\nv propel or give impetus to\\nv drink alcohol without showing ill effects\\nv be able to feed\\nv have a certain range\\nv cover a certain distance or advance beyond\\nv secure the passage or adoption (of bills and motions)\\nv be successful in\\nv sing or play against other voices or parts\\nv be pregnant with"
+  "definition": "v move while supporting, either in a vehicle or in one's hands or on one's body\nv have with oneself; have on one's person\nv transmit or serve as the medium for transmission\nv serve as a means for expressing something\nv bear or be able to bear the weight, pressure,or responsibility of\nv support or hold in a certain manner\nv contain or hold; have within\nv extend to a certain degree\nv continue or extend\nv be necessarily associated with or result in or involve\nv win in an election\nv include, as on a list\nv behave in a certain manner\nv have on hand\nv include as the content; broadcast or publicize\nv propel, \"Carry the ball\"\nv pass on a communication\nv have as an inherent or characteristic feature or have as a consequence\nv be conveyed over a certain distance\nv keep up with financial support\nv have or possess something abstract\nv be equipped with (a mast or sail)\nv win approval or support for\nv compensate for a weaker partner or member by one's own performance\nv take further or advance\nv have on the surface or on the skin\nv capture after a fight\nv transfer (entries) from one account book to another\nv transfer (a number, cipher, or remainder) to the next column or unit's place before or after, in addition or multiplication\nv pursue a line of scent or be a bearer\nv bear (a crop)\nv propel or give impetus to\nv drink alcohol without showing ill effects\nv be able to feed\nv have a certain range\nv cover a certain distance or advance beyond\nv secure the passage or adoption (of bills and motions)\nv be successful in\nv sing or play against other voices or parts\nv be pregnant with"
  },
  {
   "word": "clothing",
@@ -241,134 +241,134 @@
  {
   "word": "come",
   "phonetic": "kʌm",
-  "translation": "vi. 过来, 来, 到达, 出现, 开始\\ninterj. 喂",
-  "definition": "v. move toward, travel toward something or somebody or approach something or somebody\\nv. come to pass; arrive, as in due course\\nv. reach or enter a state, relation, condition, use, or position\\nv. to be the product or result"
+  "translation": "vi. 过来, 来, 到达, 出现, 开始\ninterj. 喂",
+  "definition": "v. move toward, travel toward something or somebody or approach something or somebody\nv. come to pass; arrive, as in due course\nv. reach or enter a state, relation, condition, use, or position\nv. to be the product or result"
  },
  {
   "word": "complete",
   "phonetic": "kәm'pli:t",
-  "translation": "a. 完全的, 十足的, 完成的\\nvt. 完成, 完工, 使圆满",
-  "definition": "v. come or bring to a finish or an end; others finished in over 4 hours\"\\nv. bring to a whole, with all the necessary parts or elements\\nv. complete a pass\\nv. write all the required information onto a form"
+  "translation": "a. 完全的, 十足的, 完成的\nvt. 完成, 完工, 使圆满",
+  "definition": "v. come or bring to a finish or an end; others finished in over 4 hours\"\nv. bring to a whole, with all the necessary parts or elements\nv. complete a pass\nv. write all the required information onto a form"
  },
  {
   "word": "confirmed",
   "phonetic": "kәn'fә:md",
-  "translation": "a. 被证实的, 根深蒂固的, 坚定的\\n[经] 保兑的, 业经证实的",
-  "definition": "s. of persons; not subject to change\\na. having been established or made firm or received the rite of confirmation"
+  "translation": "a. 被证实的, 根深蒂固的, 坚定的\n[经] 保兑的, 业经证实的",
+  "definition": "s. of persons; not subject to change\na. having been established or made firm or received the rite of confirmation"
  },
  {
   "word": "contents",
   "phonetic": "'kɒntents",
-  "translation": "n. 目录\\n[计] 目录",
+  "translation": "n. 目录\n[计] 目录",
   "definition": "n. a list of divisions (chapters or articles) and the pages on which they start"
  },
  {
   "word": "convoy",
   "phonetic": "'kɒnvɒi. kәn'vɒi",
-  "translation": "n. 护送, 护卫\\nvt. 护航, 护送",
-  "definition": "n. a procession of land vehicles traveling together\\nn. a collection of merchant ships with an escort of warships\\nn. the act of escorting while in transit\\nv. escort in transit"
+  "translation": "n. 护送, 护卫\nvt. 护航, 护送",
+  "definition": "n. a procession of land vehicles traveling together\nn. a collection of merchant ships with an escort of warships\nn. the act of escorting while in transit\nv. escort in transit"
  },
  {
   "word": "cruiser",
   "phonetic": "'kru:zә",
   "translation": "n. 巡洋舰, 巡航飞机, 警察巡逻车",
-  "definition": "n. a car in which policemen cruise the streets; equipped with radiotelephonic communications to headquarters\\nn. a large fast warship; smaller than a battleship and larger than a destroyer"
+  "definition": "n. a car in which policemen cruise the streets; equipped with radiotelephonic communications to headquarters\nn. a large fast warship; smaller than a battleship and larger than a destroyer"
  },
  {
   "word": "decided",
   "phonetic": "di'saidid",
   "translation": "a. 确定的, 坚决的",
-  "definition": "v reach, make, or come to a decision about something\\nv bring to an end; settle conclusively\\nv cause to decide\\nv influence or determine\\ns recognizable; marked"
+  "definition": "v reach, make, or come to a decision about something\nv bring to an end; settle conclusively\nv cause to decide\nv influence or determine\ns recognizable; marked"
  },
  {
   "word": "defence",
   "phonetic": "di'fens",
-  "translation": "n. 防卫, 防卫设备\\n[经] (诉讼程序中的)辩护",
-  "definition": "n (psychiatry) an unconscious process that tries to reduce the anxiety associated with instinctive desires\\nn (sports) the team that is trying to prevent the other team from scoring\\nn the defendant and his legal advisors collectively\\nn an organization of defenders that provides resistance against attack\\nn the speech act of answering an attack on your assertions\\nn the justification for some act or belief\\nn a structure used to defend against attack\\nn a defendant's answer or plea denying the truth of the charges against him\\nn (military) military action or resources protecting a country against potential enemies\\nn protection from harm\\nn the act of defending someone or something against attack or injury"
+  "translation": "n. 防卫, 防卫设备\n[经] (诉讼程序中的)辩护",
+  "definition": "n (psychiatry) an unconscious process that tries to reduce the anxiety associated with instinctive desires\nn (sports) the team that is trying to prevent the other team from scoring\nn the defendant and his legal advisors collectively\nn an organization of defenders that provides resistance against attack\nn the speech act of answering an attack on your assertions\nn the justification for some act or belief\nn a structure used to defend against attack\nn a defendant's answer or plea denying the truth of the charges against him\nn (military) military action or resources protecting a country against potential enemies\nn protection from harm\nn the act of defending someone or something against attack or injury"
  },
  {
   "word": "despite",
   "phonetic": "di'spait",
-  "translation": "n. 轻视, 憎恨\\nprep. 虽然, 尽管",
+  "translation": "n. 轻视, 憎恨\nprep. 虽然, 尽管",
   "definition": "n. contemptuous disregard"
  },
  {
   "word": "enemy",
   "phonetic": "'enimi",
-  "translation": "n. 敌人, 仇敌, 敌军\\na. 敌人的",
-  "definition": "n. an opposing military force\\nn. an armed adversary (especially a member of an opposing military force)\\nn. any hostile group of people"
+  "translation": "n. 敌人, 仇敌, 敌军\na. 敌人的",
+  "definition": "n. an opposing military force\nn. an armed adversary (especially a member of an opposing military force)\nn. any hostile group of people"
  },
  {
   "word": "excitement",
   "phonetic": "ik'saitmәnt",
-  "translation": "n. 刺激, 兴奋\\n[医] 兴奋, 激动",
+  "translation": "n. 刺激, 兴奋\n[医] 兴奋, 激动",
   "definition": "n. the state of being emotionally aroused and worked up"
  },
  {
   "word": "fact",
   "phonetic": "fækt",
   "translation": "n. 事实, 真实性, 真相, 细节, 论据",
-  "definition": "n. a piece of information about circumstances that exist or events that have occurred\\nn. a statement or assertion of verified information about something that is the case or has happened\\nn. an event known to have happened or something known to have existed\\nn. a concept whose truth can be proved"
+  "definition": "n. a piece of information about circumstances that exist or events that have occurred\nn. a statement or assertion of verified information about something that is the case or has happened\nn. an event known to have happened or something known to have existed\nn. a concept whose truth can be proved"
  },
  {
   "word": "failure",
   "phonetic": "'feiljә",
-  "translation": "n. 失败, 失败者, 不足, 缺乏, 破产\\n[计] 故障; 失效",
-  "definition": "n. an act that fails\\nn. an event that does not accomplish its intended purpose\\nn. lack of success\\nn. a person with a record of failing; someone who loses consistently"
+  "translation": "n. 失败, 失败者, 不足, 缺乏, 破产\n[计] 故障; 失效",
+  "definition": "n. an act that fails\nn. an event that does not accomplish its intended purpose\nn. lack of success\nn. a person with a record of failing; someone who loses consistently"
  },
  {
   "word": "fielding",
   "phonetic": "'fi:ldiŋ",
   "translation": "n. 守备",
-  "definition": "n. (baseball) handling the ball while playing in the field\\nn. English novelist and dramatist (1707-1754)"
+  "definition": "n. (baseball) handling the ball while playing in the field\nn. English novelist and dramatist (1707-1754)"
  },
  {
   "word": "first",
   "phonetic": "fә:st",
-  "translation": "adv. 首先, 第一, 优先\\na. 第一的\\nnum. 第一\\nn. 开始, 第一",
-  "definition": "n. the first or highest in an ordering or series\\nn. the first element in a countable series\\nn. an honours degree of the highest class\\na. preceding all others in time or space or degree"
+  "translation": "adv. 首先, 第一, 优先\na. 第一的\nnum. 第一\nn. 开始, 第一",
+  "definition": "n. the first or highest in an ordering or series\nn. the first element in a countable series\nn. an honours degree of the highest class\na. preceding all others in time or space or degree"
  },
  {
   "word": "give",
   "phonetic": "giv",
-  "translation": "n. 弹性, 适应性\\nvt. 给, 授予, 供给, 产生, 发表, 付出, 献出, 让出\\nvi. 捐赠, 支持不住, 让步",
-  "definition": "n. the elasticity of something that can be stretched and returns to its original length\\nv. cause to have, in the abstract sense or physical sense\\nv. transfer possession of something concrete or abstract to somebody\\nv. convey or reveal information"
+  "translation": "n. 弹性, 适应性\nvt. 给, 授予, 供给, 产生, 发表, 付出, 献出, 让出\nvi. 捐赠, 支持不住, 让步",
+  "definition": "n. the elasticity of something that can be stretched and returns to its original length\nv. cause to have, in the abstract sense or physical sense\nv. transfer possession of something concrete or abstract to somebody\nv. convey or reveal information"
  },
  {
   "word": "gold",
   "phonetic": "gәuld",
-  "translation": "n. 黄金, 钱财, 金块, 金色, 宝贵\\na. 金的, 似金的, 金色的, 金制的",
-  "definition": "n. coins made of gold\\nn. a soft yellow malleable ductile (trivalent and univalent) metallic element; occurs mainly as nuggets in rocks and alluvial deposits; does not react with most chemicals but is attacked by chlorine and aqua regia\\nn. great wealth\\nn. something likened to the metal in brightness or preciousness or superiority etc."
+  "translation": "n. 黄金, 钱财, 金块, 金色, 宝贵\na. 金的, 似金的, 金色的, 金制的",
+  "definition": "n. coins made of gold\nn. a soft yellow malleable ductile (trivalent and univalent) metallic element; occurs mainly as nuggets in rocks and alluvial deposits; does not react with most chemicals but is attacked by chlorine and aqua regia\nn. great wealth\nn. something likened to the metal in brightness or preciousness or superiority etc."
  },
  {
   "word": "great",
   "phonetic": "greit",
-  "translation": "a. 大的, 非常的, 主要的, 重大的, 崇高的, 伟大的\\nadv. 顺利地, 得意地\\nn. 全部, 大人物, 大师",
-  "definition": "n. a person who has achieved distinction and honor in some field\\ns. relatively large in size or number or extent; larger than others of its kind\\ns. of major significance or importance\\ns. remarkable or out of the ordinary in degree or magnitude or effect"
+  "translation": "a. 大的, 非常的, 主要的, 重大的, 崇高的, 伟大的\nadv. 顺利地, 得意地\nn. 全部, 大人物, 大师",
+  "definition": "n. a person who has achieved distinction and honor in some field\ns. relatively large in size or number or extent; larger than others of its kind\ns. of major significance or importance\ns. remarkable or out of the ordinary in degree or magnitude or effect"
  },
  {
   "word": "gun",
   "phonetic": "gʌn",
-  "translation": "n. 枪\\n[医] 枪",
-  "definition": "n. a weapon that discharges a missile at high velocity (especially from a metal tube or barrel)\\nn. the discharge of a firearm as signal or as a salute in military ceremonies\\nv. shoot with a gun"
+  "translation": "n. 枪\n[医] 枪",
+  "definition": "n. a weapon that discharges a missile at high velocity (especially from a metal tube or barrel)\nn. the discharge of a firearm as signal or as a salute in military ceremonies\nv. shoot with a gun"
  },
  {
   "word": "heavy",
   "phonetic": "'hevi",
-  "translation": "a. 重的, 巨大的, 沉重的, 笨重的, 过度的\\nadv. 沉重地\\nn. 重物, 严肃角色",
-  "definition": "n. an actor who plays villainous roles\\nn. a serious (or tragic) role in a play\\na. of comparatively great physical weight or density\\na. unusually great in degree or quantity or number"
+  "translation": "a. 重的, 巨大的, 沉重的, 笨重的, 过度的\nadv. 沉重地\nn. 重物, 严肃角色",
+  "definition": "n. an actor who plays villainous roles\nn. a serious (or tragic) role in a play\na. of comparatively great physical weight or density\na. unusually great in degree or quantity or number"
  },
  {
   "word": "impression",
   "phonetic": "im'preʃәn",
-  "translation": "n. 印象, 意念, 盖印, 印记, 印数, 底色, 效果\\n[医] 压迹, 印模, 印象, 影响",
-  "definition": "n. a vague idea in which some confidence is placed\\nn. an outward appearance\\nn. all the copies of a work printed at one time\\nn. (dentistry) an imprint of the teeth and gums in wax or plaster"
+  "translation": "n. 印象, 意念, 盖印, 印记, 印数, 底色, 效果\n[医] 压迹, 印模, 印象, 影响",
+  "definition": "n. a vague idea in which some confidence is placed\nn. an outward appearance\nn. all the copies of a work printed at one time\nn. (dentistry) an imprint of the teeth and gums in wax or plaster"
  },
  {
   "word": "information",
   "phonetic": ".infә'meiʃәn",
-  "translation": "n. 消息, 知识, 通知, 情报, 信息, 问讯处, 起诉\\n[计] 信息",
-  "definition": "n. a message received and understood\\nn. knowledge acquired through study or experience or instruction\\nn. formal accusation of a crime\\nn. (communication theory) a numerical measure of the uncertainty of an outcome"
+  "translation": "n. 消息, 知识, 通知, 情报, 信息, 问讯处, 起诉\n[计] 信息",
+  "definition": "n. a message received and understood\nn. knowledge acquired through study or experience or instruction\nn. formal accusation of a crime\nn. (communication theory) a numerical measure of the uncertainty of an outcome"
  },
  {
   "word": "instructing",
@@ -379,92 +379,92 @@
  {
   "word": "interest",
   "phonetic": "'intrist",
-  "translation": "n. 兴趣, 嗜好, 利息, 利益, 爱好, 趣味, 势力\\nvt. 使感兴趣, 与...有关系",
-  "definition": "n. a sense of concern with and curiosity about someone or something\\nn. the power of attracting or holding one's attention (because it is unusual or exciting etc.)\\nn. a fixed charge for borrowing money; usually a percentage of the amount borrowed\\nn. (law) a right or legal share of something; a financial involvement with something"
+  "translation": "n. 兴趣, 嗜好, 利息, 利益, 爱好, 趣味, 势力\nvt. 使感兴趣, 与...有关系",
+  "definition": "n. a sense of concern with and curiosity about someone or something\nn. the power of attracting or holding one's attention (because it is unusual or exciting etc.)\nn. a fixed charge for borrowing money; usually a percentage of the amount borrowed\nn. (law) a right or legal share of something; a financial involvement with something"
  },
  {
   "word": "knew",
   "phonetic": "nju:",
   "translation": "know的过去式",
-  "definition": "v be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about\\nv know how to do or perform something\\nv be aware of the truth of something; have a belief or faith in something; regard as true beyond any doubt\\nv be familiar or acquainted with a person or an object\\nv have firsthand knowledge of states, situations, emotions, or sensations\\nv accept (someone) to be what is claimed or accept his power and authority\\nv have fixed in the mind\\nv have sexual intercourse with\\nv know the nature or character of\\nv be able to distinguish, recognize as being different\\nv perceive as familiar"
+  "definition": "v be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about\nv know how to do or perform something\nv be aware of the truth of something; have a belief or faith in something; regard as true beyond any doubt\nv be familiar or acquainted with a person or an object\nv have firsthand knowledge of states, situations, emotions, or sensations\nv accept (someone) to be what is claimed or accept his power and authority\nv have fixed in the mind\nv have sexual intercourse with\nv know the nature or character of\nv be able to distinguish, recognize as being different\nv perceive as familiar"
  },
  {
   "word": "learnt",
   "phonetic": "lә:nt",
   "translation": "learn的过去式和过去分词",
-  "definition": "v gain knowledge or skills\\nv get to know or become aware of, usually accidentally\\nv commit to memory; learn by heart\\nv be a student of a certain subject\\nv impart skills or knowledge to\\nv find out, learn, or determine with certainty, usually by making an inquiry or other effort"
+  "definition": "v gain knowledge or skills\nv get to know or become aware of, usually accidentally\nv commit to memory; learn by heart\nv be a student of a certain subject\nv impart skills or knowledge to\nv find out, learn, or determine with certainty, usually by making an inquiry or other effort"
  },
  {
   "word": "lesson",
   "phonetic": "'lesn",
   "translation": "n. 课, 课业, 教训",
-  "definition": "n. a unit of instruction\\nn. a task assigned for individual study"
+  "definition": "n. a unit of instruction\nn. a task assigned for individual study"
  },
  {
   "word": "letters",
   "phonetic": "",
   "translation": "n. 字母；书信；读者投书栏（letter的复数）",
-  "definition": "n. the literary culture\\nn. scholarly attainment"
+  "definition": "n. the literary culture\nn. scholarly attainment"
  },
  {
   "word": "light",
   "phonetic": "lait",
-  "translation": "n. 光, 光亮, 灯, 日光, 发光体, 光源, 杰出人物, 火花, 眼光\\na. 轻的, 少量的, 轻微的, 轻快的, 轻浮的, 明亮的, 淡色的, 容易的\\nvt. 点燃, 照亮\\nvi. 点着, 变亮, 突降, 偶然碰到\\nadv. 轻地",
-  "definition": "n. (physics) electromagnetic radiation that can produce a visual sensation\\nn. any device serving as a source of illumination\\nn. a particular perspective or aspect of a situation\\nn. an illuminated area"
+  "translation": "n. 光, 光亮, 灯, 日光, 发光体, 光源, 杰出人物, 火花, 眼光\na. 轻的, 少量的, 轻微的, 轻快的, 轻浮的, 明亮的, 淡色的, 容易的\nvt. 点燃, 照亮\nvi. 点着, 变亮, 突降, 偶然碰到\nadv. 轻地",
+  "definition": "n. (physics) electromagnetic radiation that can produce a visual sensation\nn. any device serving as a source of illumination\nn. a particular perspective or aspect of a situation\nn. an illuminated area"
  },
  {
   "word": "log",
   "phonetic": "lɒg",
-  "translation": "n. 记录, 圆木, 日志, 计程仪\\nvt. 伐木, 切, 航行\\nvi. 伐木\\n[计] 日志",
-  "definition": "n. a segment of the trunk of a tree when stripped of branches\\nn. a written record of messages sent or received\\nn. a written record of events on a voyage (of a ship or plane)\\nn. measuring instrument that consists of a float that trails from a ship by a knotted line in order to measure the ship's speed through the water"
+  "translation": "n. 记录, 圆木, 日志, 计程仪\nvt. 伐木, 切, 航行\nvi. 伐木\n[计] 日志",
+  "definition": "n. a segment of the trunk of a tree when stripped of branches\nn. a written record of messages sent or received\nn. a written record of events on a voyage (of a ship or plane)\nn. measuring instrument that consists of a float that trails from a ship by a knotted line in order to measure the ship's speed through the water"
  },
  {
   "word": "looking",
   "phonetic": "'lukiŋ",
   "translation": "a. 有…相貌的；有…样子的",
-  "definition": "n. the act of searching visually\\ns. appearing to be as specified; usually used as combining forms"
+  "definition": "n. the act of searching visually\ns. appearing to be as specified; usually used as combining forms"
  },
  {
   "word": "made",
   "phonetic": "meid",
-  "translation": "a. 人工制成的, 成功的, 创造的\\nmake的过去式和过去分词",
-  "definition": "s. produced by a manufacturing process; rope and nails\"\\na. (of a bed) having the sheets and blankets set in order\\ns. successful or assured of success"
+  "translation": "a. 人工制成的, 成功的, 创造的\nmake的过去式和过去分词",
+  "definition": "s. produced by a manufacturing process; rope and nails\"\na. (of a bed) having the sheets and blankets set in order\ns. successful or assured of success"
  },
  {
   "word": "mainland",
   "phonetic": "'meinlәnd",
-  "translation": "n. 大陆, 本土\\n[法] 大陆",
+  "translation": "n. 大陆, 本土\n[法] 大陆",
   "definition": "n. the main land mass of a country or continent; as distinguished from an island or peninsula"
  },
  {
   "word": "many",
   "phonetic": "'meni",
-  "translation": "n. 多数, 多数人\\na. 许多的\\npron. 许多",
+  "translation": "n. 多数, 多数人\na. 许多的\npron. 许多",
   "definition": "a. a quantifier that can be used with count nouns and is often preceded by `as' or `too' or `so' or `that'; amounting to a large but indefinite number"
  },
  {
   "word": "march",
   "phonetic": "mɑ:tʃ",
-  "translation": "n. 三月, 进行, 行军, 步伐, 长途跋涉, 进行曲, 边界\\nvi. 进军, 前进, 交界\\nvt. 使行军, 使行进",
-  "definition": "n. the month following February and preceding April\\nn. the act of marching; walking with regular steps (especially in a procession of some kind)\\nn. a steady advance\\nn. a procession of people walking together"
+  "translation": "n. 三月, 进行, 行军, 步伐, 长途跋涉, 进行曲, 边界\nvi. 进军, 前进, 交界\nvt. 使行军, 使行进",
+  "definition": "n. the month following February and preceding April\nn. the act of marching; walking with regular steps (especially in a procession of some kind)\nn. a steady advance\nn. a procession of people walking together"
  },
  {
   "word": "men",
   "phonetic": "men",
   "translation": "pl. man的复数",
-  "definition": "n the force of workers available\\nn an adult person who is male (as opposed to a woman)\\nn someone who serves in the armed forces; a member of a military force\\nn the generic use of the word to refer to any human being\\nn any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage\\nn a male subordinate\\nn an adult male person who has a manly character (virile and courageous competent)\\nn a manservant who acts as a personal attendant to his employer\\nn a male person who plays a significant role (husband or lover or boyfriend) in the life of a particular woman\\nn one of the British Isles in the Irish Sea\\nn game equipment consisting of an object used in playing certain board games\\nn all of the living human inhabitants of the earth"
+  "definition": "n the force of workers available\nn an adult person who is male (as opposed to a woman)\nn someone who serves in the armed forces; a member of a military force\nn the generic use of the word to refer to any human being\nn any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage\nn a male subordinate\nn an adult male person who has a manly character (virile and courageous competent)\nn a manservant who acts as a personal attendant to his employer\nn a male person who plays a significant role (husband or lover or boyfriend) in the life of a particular woman\nn one of the British Isles in the Irish Sea\nn game equipment consisting of an object used in playing certain board games\nn all of the living human inhabitants of the earth"
  },
  {
   "word": "ministry",
   "phonetic": "'ministri",
-  "translation": "n. 部, 内阁, 服务\\n[经] 部",
-  "definition": "n. religious ministers collectively (especially Presbyterian)\\nn. building where the business of a government department is transacted\\nn. a government department under the direction of a minister\\nn. the work of a minister of religion"
+  "translation": "n. 部, 内阁, 服务\n[经] 部",
+  "definition": "n. religious ministers collectively (especially Presbyterian)\nn. building where the business of a government department is transacted\nn. a government department under the direction of a minister\nn. the work of a minister of religion"
  },
  {
   "word": "much",
   "phonetic": "mʌtʃ",
-  "translation": "n. 大量, 许多, 重要的事\\na. 很多的, 重要的\\nadv. 多, 甚, 几乎",
-  "definition": "n. a great amount or extent\\na. (quantifier used with mass nouns) great in quantity or degree or extent\\nr. to a great degree or extent\\nr. very"
+  "translation": "n. 大量, 许多, 重要的事\na. 很多的, 重要的\nadv. 多, 甚, 几乎",
+  "definition": "n. a great amount or extent\na. (quantifier used with mass nouns) great in quantity or degree or extent\nr. to a great degree or extent\nr. very"
  },
  {
   "word": "museum",
@@ -475,55 +475,55 @@
  {
   "word": "name",
   "phonetic": "neim",
-  "translation": "n. 名字, 名称, 姓名, 名义, 名誉, 文件名\\nvt. 命名, 称呼, 任命, 提名, 列举\\na. 姓名的, 据以取名的\\n[计] 名称, 文件名, 姓名",
-  "definition": "n. a language unit by which a person or thing is known\\nn. a person's reputation\\nn. family based on male descent\\nn. a well-known or notable person"
+  "translation": "n. 名字, 名称, 姓名, 名义, 名誉, 文件名\nvt. 命名, 称呼, 任命, 提名, 列举\na. 姓名的, 据以取名的\n[计] 名称, 文件名, 姓名",
+  "definition": "n. a language unit by which a person or thing is known\nn. a person's reputation\nn. family based on male descent\nn. a well-known or notable person"
  },
  {
   "word": "naval",
   "phonetic": "'neivl",
-  "translation": "a. 海军的, 军舰的, 有舰队的\\n[法] 海军的, 军舰的, 船的",
+  "translation": "a. 海军的, 军舰的, 有舰队的\n[法] 海军的, 军舰的, 船的",
   "definition": "a. connected with or belonging to or used in a navy"
  },
  {
   "word": "nets",
   "phonetic": "",
   "translation": "n. 网（net的复数）",
-  "definition": "n a computer network consisting of a worldwide network of computer networks that use the TCP/IP network protocols to facilitate data transmission and exchange\\nn a trap made of netting to catch fish or birds or insects\\nn the excess of revenues over outlays in a given period of time (including depreciation and other non-cash expenses)\\nn a goal lined with netting (as in soccer or hockey)\\nn game equipment consisting of a strip of netting dividing the playing area in tennis or badminton\\nn an open fabric of string or rope or wire woven together at regular intervals\\nv make as a net profit\\nv yield as a net profit\\nv construct or form a web, as if by weaving\\nv catch with a net"
+  "definition": "n a computer network consisting of a worldwide network of computer networks that use the TCP/IP network protocols to facilitate data transmission and exchange\nn a trap made of netting to catch fish or birds or insects\nn the excess of revenues over outlays in a given period of time (including depreciation and other non-cash expenses)\nn a goal lined with netting (as in soccer or hockey)\nn game equipment consisting of a strip of netting dividing the playing area in tennis or badminton\nn an open fabric of string or rope or wire woven together at regular intervals\nv make as a net profit\nv yield as a net profit\nv construct or form a web, as if by weaving\nv catch with a net"
  },
  {
   "word": "nothing",
   "phonetic": "'nʌθiŋ",
-  "translation": "n. 无, 不关紧要之事, 零\\nadv. 毫不, 决不\\ninterj. 什么也没有, 无",
-  "definition": "n. a quantity of no importance\\nr. in no respect; to no degree"
+  "translation": "n. 无, 不关紧要之事, 零\nadv. 毫不, 决不\ninterj. 什么也没有, 无",
+  "definition": "n. a quantity of no importance\nr. in no respect; to no degree"
  },
  {
   "word": "numerous",
   "phonetic": "'nju:mәrәs",
-  "translation": "a. 很多的, 数目众多的, 多数的\\n[机] 多数的, 甚多的",
+  "translation": "a. 很多的, 数目众多的, 多数的\n[机] 多数的, 甚多的",
   "definition": "s. amounting to a large indefinite number"
  },
  {
   "word": "officer",
   "phonetic": "'ɒfisә",
-  "translation": "n. 军官, 主管, 官员, 公务员\\nvt. 指挥",
-  "definition": "n. a person authorized to serve in a position of authority on a vessel\\nv. direct or command as an officer"
+  "translation": "n. 军官, 主管, 官员, 公务员\nvt. 指挥",
+  "definition": "n. a person authorized to serve in a position of authority on a vessel\nv. direct or command as an officer"
  },
  {
   "word": "official",
   "phonetic": "ә'fiʃәl",
-  "translation": "n. 官员, 公务员, 职员\\na. 公务的, 官方的, 正式的",
-  "definition": "n. a worker who holds or is invested with an office\\nn. someone who administers the rules of a game or sport\\na. having official authority or sanction\\na. of or relating to an office"
+  "translation": "n. 官员, 公务员, 职员\na. 公务的, 官方的, 正式的",
+  "definition": "n. a worker who holds or is invested with an office\nn. someone who administers the rules of a game or sport\na. having official authority or sanction\na. of or relating to an office"
  },
  {
   "word": "operation",
   "phonetic": ".ɒpә'reiʃәn",
-  "translation": "n. 操作, 动作, 手术, 运算, 作用, 业务\\n[计] 运算",
-  "definition": "n. the state of being in effect or being operative\\nn. a business especially one run on a large scale\\nn. a planned activity involving many people performing various actions\\nn. (computer science) data processing in which the result is completely specified by a rule (especially the processing that results from a single instruction)"
+  "translation": "n. 操作, 动作, 手术, 运算, 作用, 业务\n[计] 运算",
+  "definition": "n. the state of being in effect or being operative\nn. a business especially one run on a large scale\nn. a planned activity involving many people performing various actions\nn. (computer science) data processing in which the result is completely specified by a rule (especially the processing that results from a single instruction)"
  },
  {
   "word": "ordered",
   "phonetic": "",
-  "translation": "a. 安排好的, 有规律的, 有条理的, 整齐的\\n[计] 顺序的",
+  "translation": "a. 安排好的, 有规律的, 有条理的, 整齐的\n[计] 顺序的",
   "definition": "a. having a systematic arrangement; especially having elements succeeding in order according to rule"
  },
  {
@@ -535,139 +535,139 @@
  {
   "word": "personal",
   "phonetic": "'pә:snl",
-  "translation": "a. 私人的, 涉及隐私的, 有人性的, 人称的, 亲自的, 身体的\\n[医] 人的; 个人的, 自身的",
-  "definition": "n. a short newspaper article about a particular person or group\\na. concerning or affecting a particular person or his or her private life and personality\\ns. particular to a given individual\\na. of or arising from personality"
+  "translation": "a. 私人的, 涉及隐私的, 有人性的, 人称的, 亲自的, 身体的\n[医] 人的; 个人的, 自身的",
+  "definition": "n. a short newspaper article about a particular person or group\na. concerning or affecting a particular person or his or her private life and personality\ns. particular to a given individual\na. of or arising from personality"
  },
  {
   "word": "photographs",
   "phonetic": "",
   "translation": "n. 照片；逼真的描绘（photograph的复数）",
-  "definition": "n a representation of a person or scene in the form of a print or transparent slide; recorded by a camera on light-sensitive material\\nv record on photographic film\\nv undergo being photographed in a certain way"
+  "definition": "n a representation of a person or scene in the form of a print or transparent slide; recorded by a camera on light-sensitive material\nv record on photographic film\nv undergo being photographed in a certain way"
  },
  {
   "word": "piece",
   "phonetic": "pi:s",
-  "translation": "n. 块, 片, 篇, 碎片, 部分, 部件, 标准量\\nvt. 修补, 修理, 拼合, 接线头\\nvi. 吃零食",
-  "definition": "n. a separate part of a whole\\nn. an item that is an instance of some type; \\nn. an instance of some kind\\nn. an artistic or literary composition"
+  "translation": "n. 块, 片, 篇, 碎片, 部分, 部件, 标准量\nvt. 修补, 修理, 拼合, 接线头\nvi. 吃零食",
+  "definition": "n. a separate part of a whole\nn. an item that is an instance of some type; \nn. an instance of some kind\nn. an artistic or literary composition"
  },
  {
   "word": "powerful",
   "phonetic": "'pauәful",
-  "translation": "a. 有力的, 有权力的, 强大的\\n[机] 强力的",
+  "translation": "a. 有力的, 有权力的, 强大的\n[机] 强力的",
   "definition": "a. having great power or force or potency or effect"
  },
  {
   "word": "precious",
   "phonetic": "'preʃәs",
   "translation": "a. 宝贵的, 珍贵的, 过于精致的, 珍爱的",
-  "definition": "s. of high worth or cost\\nr. extremely"
+  "definition": "s. of high worth or cost\nr. extremely"
  },
  {
   "word": "radio",
   "phonetic": "'reidiәu",
-  "translation": "n. 无线电, 收音机, 无线电报, 无线电广播, 无线电台\\nv. 用无线电发送",
-  "definition": "n. medium for communication\\nn. a communication system based on broadcasting electromagnetic waves\\nv. transmit messages via radio waves\\na. indicating radiation or radioactivity"
+  "translation": "n. 无线电, 收音机, 无线电报, 无线电广播, 无线电台\nv. 用无线电发送",
+  "definition": "n. medium for communication\nn. a communication system based on broadcasting electromagnetic waves\nv. transmit messages via radio waves\na. indicating radiation or radioactivity"
  },
  {
   "word": "read",
   "phonetic": "ri:d",
-  "translation": "v. 读, 阅读, 理解\\na. 有学问的\\nn. 读取, 阅读\\n[计] 读取",
-  "definition": "n. something that is read\\nv. interpret something that is written or printed\\nv. have or contain a certain wording or form\\nv. look at, interpret, and say out loud something that is written or printed"
+  "translation": "v. 读, 阅读, 理解\na. 有学问的\nn. 读取, 阅读\n[计] 读取",
+  "definition": "n. something that is read\nv. interpret something that is written or printed\nv. have or contain a certain wording or form\nv. look at, interpret, and say out loud something that is written or printed"
  },
  {
   "word": "realized",
   "phonetic": "",
   "translation": "a. 实现的；已实现",
-  "definition": "v be fully aware or cognizant of\\nv perceive (an idea or situation) mentally\\nv make real or concrete; give reality or substance to\\nv earn on some commercial or business transaction; earn as salary or wages\\nv convert into cash; of goods and property\\nv expand or complete (a part in a piece of baroque music) by supplying the harmonies indicated in the figured bass\\ns successfully completed or brought to an end"
+  "definition": "v be fully aware or cognizant of\nv perceive (an idea or situation) mentally\nv make real or concrete; give reality or substance to\nv earn on some commercial or business transaction; earn as salary or wages\nv convert into cash; of goods and property\nv expand or complete (a part in a piece of baroque music) by supplying the harmonies indicated in the figured bass\ns successfully completed or brought to an end"
  },
  {
   "word": "returned",
   "phonetic": "ri'tә:nd",
-  "translation": "a. 被送回的, 归来的\\n[法] 已回来的, 已归还的",
-  "definition": "v go or come back to place, condition, or activity where one has been before\\nv give back\\nv go back to a previous state\\nv go back to something earlier\\nv bring back to the point of departure\\nv return in kind\\nv make a return\\nv answer back\\nv be restored\\nv pay back\\nv pass down\\nv elect again\\nv be inherited by\\nv return to a previous position; in mathematics\\nv give or supply\\nv submit (a report, etc.) to someone in authority"
+  "translation": "a. 被送回的, 归来的\n[法] 已回来的, 已归还的",
+  "definition": "v go or come back to place, condition, or activity where one has been before\nv give back\nv go back to a previous state\nv go back to something earlier\nv bring back to the point of departure\nv return in kind\nv make a return\nv answer back\nv be restored\nv pay back\nv pass down\nv elect again\nv be inherited by\nv return to a previous position; in mathematics\nv give or supply\nv submit (a report, etc.) to someone in authority"
  },
  {
   "word": "russia",
   "phonetic": "'rʌʃә",
-  "translation": "n. 俄国, 俄罗斯\\n[法] 俄罗斯, 苏联",
-  "definition": "n. a former empire in eastern Europe and northern Asia created in the 14th century with Moscow as the capital; powerful in the 17th and 18th centuries under Peter the Great and Catherine the Great when Saint Petersburg was the capital; overthrown by revolution in 1917\\nn. a federation in northeastern Europe and northern Asia; formerly Soviet Russia; since 1991 an independent state"
+  "translation": "n. 俄国, 俄罗斯\n[法] 俄罗斯, 苏联",
+  "definition": "n. a former empire in eastern Europe and northern Asia created in the 14th century with Moscow as the capital; powerful in the 17th and 18th centuries under Peter the Great and Catherine the Great when Saint Petersburg was the capital; overthrown by revolution in 1917\nn. a federation in northeastern Europe and northern Asia; formerly Soviet Russia; since 1991 an independent state"
  },
  {
   "word": "sailing",
   "phonetic": "'seiliŋ",
-  "translation": "n. 航行, 航海术, 启航\\na. 航行的",
-  "definition": "n. riding in a sailboat\\nn. the departure of a vessel from a port"
+  "translation": "n. 航行, 航海术, 启航\na. 航行的",
+  "definition": "n. riding in a sailboat\nn. the departure of a vessel from a port"
  },
  {
   "word": "scoured",
   "phonetic": "ˈskauəd",
   "translation": "v. 走遍（某地）搜寻（人或物）( scour的过去式和过去分词 ); （用力）刷; 擦净; 擦亮",
-  "definition": "v examine minutely\\nv clean with hard rubbing\\nv rub hard or scrub\\nv rinse, clean, or empty with a liquid\\ns worn away as by water or ice or wind"
+  "definition": "v examine minutely\nv clean with hard rubbing\nv rub hard or scrub\nv rinse, clean, or empty with a liquid\ns worn away as by water or ice or wind"
  },
  {
   "word": "search",
   "phonetic": "sә:tʃ",
-  "translation": "n. 搜寻, 查究\\nv. 搜寻, 搜查, 探求, 调查, 搜索\\n[计] 搜索, 路径检索程序",
-  "definition": "n. the activity of looking thoroughly in order to find something or someone\\nn. an investigation seeking answers\\nn. an operation that determines whether one or more of a set of items has a specified property\\nn. the examination of alternative hypotheses"
+  "translation": "n. 搜寻, 查究\nv. 搜寻, 搜查, 探求, 调查, 搜索\n[计] 搜索, 路径检索程序",
+  "definition": "n. the activity of looking thoroughly in order to find something or someone\nn. an investigation seeking answers\nn. an operation that determines whether one or more of a set of items has a specified property\nn. the examination of alternative hypotheses"
  },
  {
   "word": "searching",
   "phonetic": "'sә:tʃiŋ",
-  "translation": "a. 搜索的, 遍寻的, 彻底的, 敏锐的\\nn. 搜索, 检查",
-  "definition": "s. having keenness and forcefulness and penetration in thought, expression, or intellect\\ns. exploring thoroughly"
+  "translation": "a. 搜索的, 遍寻的, 彻底的, 敏锐的\nn. 搜索, 检查",
+  "definition": "s. having keenness and forcefulness and penetration in thought, expression, or intellect\ns. exploring thoroughly"
  },
  {
   "word": "sent",
   "phonetic": "sent",
   "translation": "send的过去式和过去分词",
-  "definition": "n. 100 senti equal 1 kroon in Estonia\\na. caused or enabled to go or be conveyed or transmitted"
+  "definition": "n. 100 senti equal 1 kroon in Estonia\na. caused or enabled to go or be conveyed or transmitted"
  },
  {
   "word": "small",
   "phonetic": "smɒ:l",
-  "translation": "a. 小的, 少的, 小型的, 低微的, 小气的, 细微的\\nadv. 些微地\\nn. 狭小部分",
-  "definition": "n. the slender part of the back\\nn. a garment size for a small person\\na. limited or below average in number or quantity or magnitude or extent\\ns. slight or limited; especially in degree or intensity or scope"
+  "translation": "a. 小的, 少的, 小型的, 低微的, 小气的, 细微的\nadv. 些微地\nn. 狭小部分",
+  "definition": "n. the slender part of the back\nn. a garment size for a small person\na. limited or below average in number or quantity or magnitude or extent\ns. slight or limited; especially in degree or intensity or scope"
  },
  {
   "word": "still",
   "phonetic": "stil",
-  "translation": "n. 蒸馏室, 寂静, 剧照\\nv. 蒸馏, (使)平静, (使)静止\\na. 静止的, 不动的, 静寂的, 不起泡的, 静物摄影的\\nadv. 仍然, 更, 静止地\\nconj. 然而, 但是",
-  "definition": "n. a static photograph (especially one taken from a movie and used for advertising purposes)\\nn. an apparatus used for the distillation of liquids; consists of a vessel in which a substance is vaporized by heat and a condenser where the vapor is condensed\\nv. lessen the intensity of or calm\\nv. make motionless"
+  "translation": "n. 蒸馏室, 寂静, 剧照\nv. 蒸馏, (使)平静, (使)静止\na. 静止的, 不动的, 静寂的, 不起泡的, 静物摄影的\nadv. 仍然, 更, 静止地\nconj. 然而, 但是",
+  "definition": "n. a static photograph (especially one taken from a movie and used for advertising purposes)\nn. an apparatus used for the distillation of liquids; consists of a vessel in which a substance is vaporized by heat and a condenser where the vapor is condensed\nv. lessen the intensity of or calm\nv. make motionless"
  },
  {
   "word": "submarine",
   "phonetic": "'sʌbmәri:n",
-  "translation": "n. 潜水艇, 海底生物\\na. 海中的, 生长在海中的\\nvt. 用潜水艇攻击\\nvi. 在下疾行, 在下滑动",
-  "definition": "n. a submersible warship usually armed with torpedoes\\nv. move forward or under in a sliding motion\\nv. throw with an underhand motion\\nv. bring down with a blow to the legs"
+  "translation": "n. 潜水艇, 海底生物\na. 海中的, 生长在海中的\nvt. 用潜水艇攻击\nvi. 在下疾行, 在下滑动",
+  "definition": "n. a submersible warship usually armed with torpedoes\nv. move forward or under in a sliding motion\nv. throw with an underhand motion\nv. bring down with a blow to the legs"
  },
  {
   "word": "sunk",
   "phonetic": "sʌŋk",
-  "translation": "a. 凹陷的\\nsink的过去式和过去分词",
-  "definition": "v fall or descend to a lower place or level\\nv cause to sink\\nv pass into a specified state or condition\\nv go under, \"The raft sank and its occupants drowned\"\\nv descend into or as if into some soft substance or place\\nv appear to move downward\\nv fall heavily or suddenly; decline markedly\\nv fall or sink heavily\\nv embed deeply\\ns doomed to extinction"
+  "translation": "a. 凹陷的\nsink的过去式和过去分词",
+  "definition": "v fall or descend to a lower place or level\nv cause to sink\nv pass into a specified state or condition\nv go under, \"The raft sank and its occupants drowned\"\nv descend into or as if into some soft substance or place\nv appear to move downward\nv fall heavily or suddenly; decline markedly\nv fall or sink heavily\nv embed deeply\ns doomed to extinction"
  },
  {
   "word": "sunken",
   "phonetic": "'sʌŋkәn",
-  "translation": "a. 沉没的, 下凹的\\nsink的过去分词",
-  "definition": "v fall or descend to a lower place or level\\nv cause to sink\\nv pass into a specified state or condition\\nv go under, \"The raft sank and its occupants drowned\"\\nv descend into or as if into some soft substance or place\\nv appear to move downward\\nv fall heavily or suddenly; decline markedly\\nv fall or sink heavily\\nv embed deeply\\ns having a sunken area"
+  "translation": "a. 沉没的, 下凹的\nsink的过去分词",
+  "definition": "v fall or descend to a lower place or level\nv cause to sink\nv pass into a specified state or condition\nv go under, \"The raft sank and its occupants drowned\"\nv descend into or as if into some soft substance or place\nv appear to move downward\nv fall heavily or suddenly; decline markedly\nv fall or sink heavily\nv embed deeply\ns having a sunken area"
  },
  {
   "word": "surface",
   "phonetic": "'sә:fis",
-  "translation": "n. 面, 表面, 水面, 外表, 平面\\na. 表面的, 外观的, 肤浅的, 水面上的\\nvt. 使成平面, 使浮出水面\\nvi. 浮出水面, 呈现, 在地面上工作",
-  "definition": "n. the outer boundary of an artifact or a material layer constituting or resembling such a boundary\\nn. the extended two-dimensional outer boundary of a three-dimensional object\\nn. the outermost level of the land or sea\\nn. a superficial aspect as opposed to the real nature of something"
+  "translation": "n. 面, 表面, 水面, 外表, 平面\na. 表面的, 外观的, 肤浅的, 水面上的\nvt. 使成平面, 使浮出水面\nvi. 浮出水面, 呈现, 在地面上工作",
+  "definition": "n. the outer boundary of an artifact or a material layer constituting or resembling such a boundary\nn. the extended two-dimensional outer boundary of a three-dimensional object\nn. the outermost level of the land or sea\nn. a superficial aspect as opposed to the real nature of something"
  },
  {
   "word": "th",
   "phonetic": "",
   "translation": "[医] 钍(90号元素)",
-  "definition": "n the fifth day of the week; the fourth working day\\nn a soft silvery-white tetravalent radioactive metallic element; isotope 232 is used as a power source in nuclear reactors; occurs in thorite and in monazite sands"
+  "definition": "n the fifth day of the week; the fourth working day\nn a soft silvery-white tetravalent radioactive metallic element; isotope 232 is used as a power source in nuclear reactors; occurs in thorite and in monazite sands"
  },
  {
   "word": "though",
   "phonetic": "ðәu",
-  "translation": "adv. 然而, 可是\\nconj. 虽然, 纵然",
+  "translation": "adv. 然而, 可是\nconj. 虽然, 纵然",
   "definition": "r. (postpositive) however"
  },
  {
@@ -680,84 +680,84 @@
   "word": "tremendous",
   "phonetic": "tri'mendәs",
   "translation": "a. 巨大的, 非常的, 可怕的",
-  "definition": "s extraordinarily large in size or extent or amount or power or degree; that a whole civilization should be dependent on technology\"- Walter Lippman\\ns extraordinarily good or great; used especially as intensifiers\\ns extreme in degree or extent or amount or impact"
+  "definition": "s extraordinarily large in size or extent or amount or power or degree; that a whole civilization should be dependent on technology\"- Walter Lippman\ns extraordinarily good or great; used especially as intensifiers\ns extreme in degree or extent or amount or impact"
  },
  {
   "word": "try",
   "phonetic": "trai",
-  "translation": "n. 尝试, 试验, 审理, 审判\\nvt. 试, 尝试, 试验, 考验, 审问, 提炼\\nvi. 尝试, 试图",
-  "definition": "v. make an effort or attempt\\nv. give pain or trouble to\\nv. test the limits of\\nv. melt (fat or lard) in order to separate out impurities"
+  "translation": "n. 尝试, 试验, 审理, 审判\nvt. 试, 尝试, 试验, 考验, 审问, 提炼\nvi. 尝试, 试图",
+  "definition": "v. make an effort or attempt\nv. give pain or trouble to\nv. test the limits of\nv. melt (fat or lard) in order to separate out impurities"
  },
  {
   "word": "trying",
   "phonetic": "'traiiŋ",
-  "translation": "a. 难受的, 难堪的\\n[法] 裁决, 审判, 审理; 使人痛苦的, 难堪的, 难处的",
+  "translation": "a. 难受的, 难堪的\n[法] 裁决, 审判, 审理; 使人痛苦的, 难堪的, 难处的",
   "definition": "s. hard to endure"
  },
  {
   "word": "unfinished",
   "phonetic": ".ʌn'finiʃt",
   "translation": "a. 未完成的",
-  "definition": "a. not brought to the desired final state\\na. not brought to an end or conclusion"
+  "definition": "a. not brought to the desired final state\na. not brought to an end or conclusion"
  },
  {
   "word": "valuable",
   "phonetic": "'væljuәbl",
-  "translation": "a. 有价值的, 贵重的, 宝贵的, 可估价的\\n[经] 有价值的, 可估价的, 贵重的",
-  "definition": "n. something of value\\na. having great material or monetary value especially for use or exchange\\ns. having worth or merit or value"
+  "translation": "a. 有价值的, 贵重的, 宝贵的, 可估价的\n[经] 有价值的, 可估价的, 贵重的",
+  "definition": "n. something of value\na. having great material or monetary value especially for use or exchange\ns. having worth or merit or value"
  },
  {
   "word": "value",
   "phonetic": "'vælju:",
-  "translation": "n. 价值, 价格, 购买力, 评价, 估价, 计算结果\\nvt. 评价, 估价, 重视\\n[计] 计算结果",
-  "definition": "n. a numerical quantity measured or assigned or computed\\nn. the quality (positive or negative) that renders something desirable or valuable\\nn. the amount (of money or goods or services) that is considered to be a fair equivalent for something else\\nn. relative darkness or lightness of a color"
+  "translation": "n. 价值, 价格, 购买力, 评价, 估价, 计算结果\nvt. 评价, 估价, 重视\n[计] 计算结果",
+  "definition": "n. a numerical quantity measured or assigned or computed\nn. the quality (positive or negative) that renders something desirable or valuable\nn. the amount (of money or goods or services) that is considered to be a fair equivalent for something else\nn. relative darkness or lightness of a color"
  },
  {
   "word": "war",
   "phonetic": "wɒ:",
-  "translation": "n. 战争, 战争状态, 战术, 军事, 冲突, 斗争, 竞争\\nvi. 进行战争, 作战, 打仗, 战斗\\na. 战争的, 战时用的",
-  "definition": "n. the waging of armed conflict against an enemy\\nn. a legal state created by a declaration of war and ended by official declaration during which the international rules of war apply\\nn. an active struggle between competing entities\\nn. a concerted campaign to end something that is injurious"
+  "translation": "n. 战争, 战争状态, 战术, 军事, 冲突, 斗争, 竞争\nvi. 进行战争, 作战, 打仗, 战斗\na. 战争的, 战时用的",
+  "definition": "n. the waging of armed conflict against an enemy\nn. a legal state created by a declaration of war and ended by official declaration during which the international rules of war apply\nn. an active struggle between competing entities\nn. a concerted campaign to end something that is injurious"
  },
  {
   "word": "way",
   "phonetic": "wei",
-  "translation": "n. 路, 路线, 路途, 方法, 道路, 情形, 规模, 习惯, 行业, 方面\\nadv. 远远地, 非常",
-  "definition": "n. the condition of things generally\\nn. a course of conduct\\nn. any artifact consisting of a road or path affording passage from one place to another\\nn. a journey or passage"
+  "translation": "n. 路, 路线, 路途, 方法, 道路, 情形, 规模, 习惯, 行业, 方面\nadv. 远远地, 非常",
+  "definition": "n. the condition of things generally\nn. a course of conduct\nn. any artifact consisting of a road or path affording passage from one place to another\nn. a journey or passage"
  },
  {
   "word": "weeks",
   "phonetic": "wi:ks",
   "translation": "n. 威克斯（姓氏）",
-  "definition": "n any period of seven consecutive days\\nn hours or days of work in a calendar week\\nn a period of seven consecutive days starting on Sunday"
+  "definition": "n any period of seven consecutive days\nn hours or days of work in a calendar week\nn a period of seven consecutive days starting on Sunday"
  },
  {
   "word": "wife",
   "phonetic": "waif",
-  "translation": "n. 妻子, 太太, 夫人\\n[法] 妻子, 已婚妇女",
+  "translation": "n. 妻子, 太太, 夫人\n[法] 妻子, 已婚妇女",
   "definition": "n. a married woman; a man's partner in marriage"
  },
  {
   "word": "wreck",
   "phonetic": "rek",
-  "translation": "n. 失事, 残骸, 破坏\\nvt. 使失事, 拆毁, 破坏\\nvi. (船)失事, 营救失事船只",
-  "definition": "n. something or someone that has suffered ruin or dilapidation\\nn. a ship that has been destroyed at sea"
+  "translation": "n. 失事, 残骸, 破坏\nvt. 使失事, 拆毁, 破坏\nvi. (船)失事, 营救失事船只",
+  "definition": "n. something or someone that has suffered ruin or dilapidation\nn. a ship that has been destroyed at sea"
  },
  {
   "word": "written",
   "phonetic": "'ritn",
-  "translation": "a. 书面的, 写成文字的\\nwrite的过去分词",
-  "definition": "a. set down in writing in any of various ways\\na. systematically collected and written down"
+  "translation": "a. 书面的, 写成文字的\nwrite的过去分词",
+  "definition": "a. set down in writing in any of various ways\na. systematically collected and written down"
  },
  {
   "word": "wrong",
   "phonetic": "rɒŋ",
-  "translation": "a. 错误的, 不正当的, 失常的\\nadv. 错误地",
-  "definition": "n. that which is contrary to the principles of justice or law\\nn. any harm or injury resulting from a violation of a legal right\\nv. treat unjustly; do wrong to\\na. contrary to conscience or morality or law"
+  "translation": "a. 错误的, 不正当的, 失常的\nadv. 错误地",
+  "definition": "n. that which is contrary to the principles of justice or law\nn. any harm or injury resulting from a violation of a legal right\nv. treat unjustly; do wrong to\na. contrary to conscience or morality or law"
  },
  {
   "word": "years",
   "phonetic": "",
   "translation": "n. 年代；岁月；年；年龄",
-  "definition": "n a late time of life\\nn a prolonged period of time\\nn the time during which someone's life continues\\nn a period of time containing 365 (or 366) days\\nn a period of time occupying a regular part of a calendar year that is used for some particular activity\\nn the period of time that it takes for a planet (as, e.g., Earth or Mars) to make a complete revolution around the sun\\nn a body of students who graduate together"
+  "definition": "n a late time of life\nn a prolonged period of time\nn the time during which someone's life continues\nn a period of time containing 365 (or 366) days\nn a period of time occupying a regular part of a calendar year that is used for some particular activity\nn the period of time that it takes for a planet (as, e.g., Earth or Mars) to make a complete revolution around the sun\nn a body of students who graduate together"
  }
 ]

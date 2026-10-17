@@ -97,10 +97,10 @@ export class VocabView {
           ? `<button class="vocab-speak-btn" type="button" aria-label="朗读 ${word}">🔊</button>`
           : '';
         const translation = entry.translation
-          ? `<p class="vocab-translation">${escapeHtml(entry.translation).replace(/\\n/g, '<br>')}</p>`
+          ? `<p class="vocab-translation">${escapeHtml(entry.translation).replace(/\\n|\n/g, '<br>')}</p>`
           : '';
         const definition = entry.definition
-          ? `<p class="vocab-definition">${escapeHtml(entry.definition).replace(/\\n/g, '<br>')}</p>`
+          ? `<p class="vocab-definition">${escapeHtml(entry.definition).replace(/\\n|\n/g, '<br>')}</p>`
           : '';
         return `
           <li class="vocab-item" data-word="${word}">

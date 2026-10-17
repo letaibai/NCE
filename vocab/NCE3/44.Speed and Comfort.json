@@ -2,85 +2,85 @@
  {
   "word": "even",
   "phonetic": "'i:vәn",
-  "translation": "a. 平坦的, 相等的, 连贯的, 均等的, 公平的, 偶数的, 平均的, 平衡的, 恰好的\\nvt. 使平坦, 使相等\\nvi. 变平, 成为相等\\nadv. 甚至, 实际上, 完全, 十分\\nn. 偶数, 偶校验\\n[计] 偶数, 偶校验",
-  "definition": "v. become even or more even\\nv. make even or more even\\na. divisible by two\\ns. equal in degree or extent or amount; or equally matched or balanced"
+  "translation": "a. 平坦的, 相等的, 连贯的, 均等的, 公平的, 偶数的, 平均的, 平衡的, 恰好的\nvt. 使平坦, 使相等\nvi. 变平, 成为相等\nadv. 甚至, 实际上, 完全, 十分\nn. 偶数, 偶校验\n[计] 偶数, 偶校验",
+  "definition": "v. become even or more even\nv. make even or more even\na. divisible by two\ns. equal in degree or extent or amount; or equally matched or balanced"
  },
  {
   "word": "journey",
   "phonetic": "'dʒә:ni",
-  "translation": "n. 旅程, 旅行, 行程\\nvi. 旅行\\nvt. 游历",
+  "translation": "n. 旅程, 旅行, 行程\nvi. 旅行\nvt. 游历",
   "definition": "n. the act of traveling from one place to another"
  },
  {
   "word": "enjoy",
   "phonetic": "in'dʒɒi",
-  "translation": "vt. 享受, 喜欢, 欣赏\\n[法] 享受, 享有, 获得某种利益",
-  "definition": "v. derive or receive pleasure from; get enjoyment from; take pleasure in\\nv. have benefit from\\nv. have for one's benefit"
+  "translation": "vt. 享受, 喜欢, 欣赏\n[法] 享受, 享有, 获得某种利益",
+  "definition": "v. derive or receive pleasure from; get enjoyment from; take pleasure in\nv. have benefit from\nv. have for one's benefit"
  },
  {
   "word": "long",
   "phonetic": "lɒŋ",
-  "translation": "a. 长的, 长久的, 冗长的, 做多头的\\nvi. 渴望, 热望, 极想\\nadv. 长久, 始终\\nn. 长时间, 长信号, 长整型\\n[计] 长, 长整型",
-  "definition": "a. primarily temporal sense; being or indicating a relatively great or greater than average duration or passage of time or a duration as specified\\na. primarily spatial sense; of relatively great or greater than average spatial extension or extension as specified\\ns. of relatively great height\\na. holding securities or commodities in expectation of a rise in prices"
+  "translation": "a. 长的, 长久的, 冗长的, 做多头的\nvi. 渴望, 热望, 极想\nadv. 长久, 始终\nn. 长时间, 长信号, 长整型\n[计] 长, 长整型",
+  "definition": "a. primarily temporal sense; being or indicating a relatively great or greater than average duration or passage of time or a duration as specified\na. primarily spatial sense; of relatively great or greater than average spatial extension or extension as specified\ns. of relatively great height\na. holding securities or commodities in expectation of a rise in prices"
  },
  {
   "word": "sea",
   "phonetic": "si:",
-  "translation": "n. 海, 海洋, 海浪, 大量\\n[法] 海, 海洋",
-  "definition": "n. a division of an ocean or a large body of salt water partially enclosed by land\\nn. turbulent water with swells of considerable size"
+  "translation": "n. 海, 海洋, 海浪, 大量\n[法] 海, 海洋",
+  "definition": "n. a division of an ocean or a large body of salt water partially enclosed by land\nn. turbulent water with swells of considerable size"
  },
  {
   "word": "destination",
   "phonetic": ".desti'neiʃәn",
-  "translation": "n. 目的地, 目标, 目的\\n[计] 目的文件, 目的单元",
+  "translation": "n. 目的地, 目标, 目的\n[计] 目的文件, 目的单元",
   "definition": "n. the ultimate goal for which something is done"
  },
  {
   "word": "get",
   "phonetic": "get",
-  "translation": "vt. 得到, 获得, 变成, 使得, 收获, 接通, 抓住, 染上\\nvi. 到达, 成为, 变得\\nn. (网球等)救球, 生殖, 幼兽\\n[计] 取得指令, 获取文件",
-  "definition": "n. a return on a shot that seemed impossible to reach and would normally have resulted in a point for the opponent\\nv. come into the possession of something concrete or abstract\\nv. cause to move; cause to be in a certain position or condition\\nv. succeed in catching or seizing, especially after a chase"
+  "translation": "vt. 得到, 获得, 变成, 使得, 收获, 接通, 抓住, 染上\nvi. 到达, 成为, 变得\nn. (网球等)救球, 生殖, 幼兽\n[计] 取得指令, 获取文件",
+  "definition": "n. a return on a shot that seemed impossible to reach and would normally have resulted in a point for the opponent\nv. come into the possession of something concrete or abstract\nv. cause to move; cause to be in a certain position or condition\nv. succeed in catching or seizing, especially after a chase"
  },
  {
   "word": "people",
   "phonetic": "'pi:pl",
-  "translation": "n. 人, 人民, 民族, 平民\\nvt. 使住满人, 居住于",
-  "definition": "n. (plural) any group of human beings (men or women or children) collectively\\nn. members of a family line\\nv. fill with people\\nv. furnish with people"
+  "translation": "n. 人, 人民, 民族, 平民\nvt. 使住满人, 居住于",
+  "definition": "n. (plural) any group of human beings (men or women or children) collectively\nn. members of a family line\nv. fill with people\nv. furnish with people"
  },
  {
   "word": "sleep",
   "phonetic": "sli:p",
-  "translation": "n. 睡眠, 静止, 昏迷, 麻木, 长眠, 冬眠\\nvi. 睡觉, 睡眠, 静止\\nvt. 睡",
-  "definition": "n. a natural and periodic state of rest during which consciousness of the world is suspended\\nn. a torpid state resembling deep sleep\\nn. a period of time spent sleeping\\nv. be asleep"
+  "translation": "n. 睡眠, 静止, 昏迷, 麻木, 长眠, 冬眠\nvi. 睡觉, 睡眠, 静止\nvt. 睡",
+  "definition": "n. a natural and periodic state of rest during which consciousness of the world is suspended\nn. a torpid state resembling deep sleep\nn. a period of time spent sleeping\nv. be asleep"
  },
  {
   "word": "spend",
   "phonetic": "spend",
-  "translation": "vt. 花费, 浪费, 度过, 消耗, 消磨\\nvi. 花费, 用尽",
-  "definition": "v. pass time in a specific way\\nv. pay out\\nv. spend completely"
+  "translation": "vt. 花费, 浪费, 度过, 消耗, 消磨\nvi. 花费, 用尽",
+  "definition": "v. pass time in a specific way\nv. pay out\nv. spend completely"
  },
  {
   "word": "time",
   "phonetic": "taim",
-  "translation": "n. 时间, 时侯, 时机, 时期, 期限, 次数, 节拍, 暂停, 规定时间\\nvt. 测定...的时间, 记录...的时间, 计时, 定时\\na. 时间的, 记时的, 定时的, 定期的, 分期的\\n[计] DOS内部命令:用于显示或设定系统的时间",
-  "definition": "n. an instance or single occasion for some event\\nn. a period of time considered as a resource under your control and sufficient to accomplish something\\nn. an indefinite period (usually marked by specific attributes or activities)\\nn. a suitable moment"
+  "translation": "n. 时间, 时侯, 时机, 时期, 期限, 次数, 节拍, 暂停, 规定时间\nvt. 测定...的时间, 记录...的时间, 计时, 定时\na. 时间的, 记时的, 定时的, 定期的, 分期的\n[计] DOS内部命令:用于显示或设定系统的时间",
+  "definition": "n. an instance or single occasion for some event\nn. a period of time considered as a resource under your control and sufficient to accomplish something\nn. an indefinite period (usually marked by specific attributes or activities)\nn. a suitable moment"
  },
  {
   "word": "transport",
   "phonetic": "træns'pɒ:t",
-  "translation": "n. 运输, 运输工具, 激动, 狂喜, 流放犯\\nvt. 传送, 运输, 流放\\n[计] 传送",
-  "definition": "n. an exchange of molecules (and their kinetic energy and momentum) across the boundary between adjacent layers of a fluid or across cell membranes\\nv. move something or somebody around; usually over long distances\\nv. move while supporting, either in a vehicle or in one's hands or on one's body\\nv. transport commercially"
+  "translation": "n. 运输, 运输工具, 激动, 狂喜, 流放犯\nvt. 传送, 运输, 流放\n[计] 传送",
+  "definition": "n. an exchange of molecules (and their kinetic energy and momentum) across the boundary between adjacent layers of a fluid or across cell membranes\nv. move something or somebody around; usually over long distances\nv. move while supporting, either in a vehicle or in one's hands or on one's body\nv. transport commercially"
  },
  {
   "word": "travelling",
   "phonetic": "'trævliŋ",
   "translation": "a. 旅行的, 旅行用的, 移动的",
-  "definition": "n the act of going from one place to another\\nv change location; move, travel, or proceed, also metaphorically\\nv undertake a journey or trip\\nv make a trip for pleasure\\nv travel upon or across\\nv undergo transportation as in a vehicle\\nv travel from place to place, as for the purpose of finding work, preaching, or acting as a judge"
+  "definition": "n the act of going from one place to another\nv change location; move, travel, or proceed, also metaphorically\nv undertake a journey or trip\nv make a trip for pleasure\nv travel upon or across\nv undergo transportation as in a vehicle\nv travel from place to place, as for the purpose of finding work, preaching, or acting as a judge"
  },
  {
   "word": "aeroplane",
   "phonetic": "'єәrәplein",
-  "translation": "n. 飞机\\n[机] 飞机",
+  "translation": "n. 飞机\n[机] 飞机",
   "definition": "n an aircraft that has a fixed wing and is powered by propellers or jets"
  },
  {
@@ -93,109 +93,109 @@
   "word": "arrive",
   "phonetic": "ә'raiv",
   "translation": "vi. 到达, 抵达",
-  "definition": "v. reach a destination; arrive by movement or progress\\nv. succeed in a big way; get to the top"
+  "definition": "v. reach a destination; arrive by movement or progress\nv. succeed in a big way; get to the top"
  },
  {
   "word": "comfort",
   "phonetic": "'kʌmfәt",
-  "translation": "n. 舒适, 安慰, 安慰者\\nvt. 安慰",
-  "definition": "n. a state of being relaxed and feeling no pain\\nn. a feeling of freedom from worry or disappointment\\nn. satisfaction or physical well-being provided by a person or thing\\nn. assistance, such as that provided to an enemy or to a known criminal"
+  "translation": "n. 舒适, 安慰, 安慰者\nvt. 安慰",
+  "definition": "n. a state of being relaxed and feeling no pain\nn. a feeling of freedom from worry or disappointment\nn. satisfaction or physical well-being provided by a person or thing\nn. assistance, such as that provided to an enemy or to a known criminal"
  },
  {
   "word": "decide",
   "phonetic": "di'said",
   "translation": "v. 决定, 判决",
-  "definition": "v. reach, make, or come to a decision about something\\nv. bring to an end; settle conclusively\\nv. cause to decide\\nv. influence or determine"
+  "definition": "v. reach, make, or come to a decision about something\nv. bring to an end; settle conclusively\nv. cause to decide\nv. influence or determine"
  },
  {
   "word": "deep",
   "phonetic": "di:p",
-  "translation": "a. 深的\\nadv. 深入地\\nn. 深渊, 深处",
-  "definition": "n. the central and most intense or profound part\\nn. literary term for an ocean\\na. relatively deep or strong; affecting one deeply\\ns. marked by depth of thinking"
+  "translation": "a. 深的\nadv. 深入地\nn. 深渊, 深处",
+  "definition": "n. the central and most intense or profound part\nn. literary term for an ocean\na. relatively deep or strong; affecting one deeply\ns. marked by depth of thinking"
  },
  {
   "word": "form",
   "phonetic": "fɒ:m",
-  "translation": "n. 形状, 形体, 类型, 方式, 表格, 形式\\nv. 形成, 排列, (使)组成\\nn. 表单\\n[计] 表单",
-  "definition": "n. the phonological or orthographic sound or appearance of a word that can be used to describe or identify something\\nn. a perceptual structure\\nn. the visual appearance of something or someone\\nn. a printed document with spaces in which to write"
+  "translation": "n. 形状, 形体, 类型, 方式, 表格, 形式\nv. 形成, 排列, (使)组成\nn. 表单\n[计] 表单",
+  "definition": "n. the phonological or orthographic sound or appearance of a word that can be used to describe or identify something\nn. a perceptual structure\nn. the visual appearance of something or someone\nn. a printed document with spaces in which to write"
  },
  {
   "word": "go",
   "phonetic": "gou",
-  "translation": "vi. 去, 走, 达到, 运转, 查阅, 消失, 结束, 放弃, 花费, 流传, 趋于, 打算, 剩下\\nvt. 以...打赌, 对付, 忍受, 出产, 为被捕者出(保释金)\\nn. 去, 尝试, 进行",
-  "definition": "n. a time for working (after which you will be relieved by someone else)\\nn. a board game for two players who place counters on a grid; the object is to surround and so capture the opponent's counters\\nv. follow a procedure or take a course\\nv. move away from a place into another direction"
+  "translation": "vi. 去, 走, 达到, 运转, 查阅, 消失, 结束, 放弃, 花费, 流传, 趋于, 打算, 剩下\nvt. 以...打赌, 对付, 忍受, 出产, 为被捕者出(保释金)\nn. 去, 尝试, 进行",
+  "definition": "n. a time for working (after which you will be relieved by someone else)\nn. a board game for two players who place counters on a grid; the object is to surround and so capture the opponent's counters\nv. follow a procedure or take a course\nv. move away from a place into another direction"
  },
  {
   "word": "high",
   "phonetic": "hai",
-  "translation": "n. 高度, 高处\\na. 高的, 高级的, 主要的, 高尚的, 高原的, 高音的, 昂贵的, 傲慢的\\nadv. 高度地, 奢侈地",
-  "definition": "n. a lofty level or position or degree\\nn. an air mass of higher than normal pressure\\nn. a state of sustained elation\\nn. a state of altered consciousness induced by alcohol or narcotics"
+  "translation": "n. 高度, 高处\na. 高的, 高级的, 主要的, 高尚的, 高原的, 高音的, 昂贵的, 傲慢的\nadv. 高度地, 奢侈地",
+  "definition": "n. a lofty level or position or degree\nn. an air mass of higher than normal pressure\nn. a state of sustained elation\nn. a state of altered consciousness induced by alcohol or narcotics"
  },
  {
   "word": "hours",
   "phonetic": "",
   "translation": "n. 小时（hour的复数形式）",
-  "definition": "n. a period of time assigned for work\\nn. an indefinite period of time"
+  "definition": "n. a period of time assigned for work\nn. an indefinite period of time"
  },
  {
   "word": "impossible",
   "phonetic": "im'pɒsәbl",
   "translation": "a. 不可能的, 难以置信的, 令人无法忍受的",
-  "definition": "n. something that cannot be done\\na. not capable of occurring or being accomplished or dealt with\\ns. totally unlikely\\ns. used of persons or their behavior"
+  "definition": "n. something that cannot be done\na. not capable of occurring or being accomplished or dealt with\ns. totally unlikely\ns. used of persons or their behavior"
  },
  {
   "word": "journeys",
   "phonetic": "",
   "translation": "n. 旅行；历程（journey的复数形式）",
-  "definition": "n the act of traveling from one place to another\\nv undertake a journey or trip\\nv travel upon or across"
+  "definition": "n the act of traveling from one place to another\nv undertake a journey or trip\nv travel upon or across"
  },
  {
   "word": "land",
   "phonetic": "lænd",
-  "translation": "n. 陆地, 地面, 地界, 地产, 国土, 土地\\nvi. 登陆, 登岸, 到达\\nvt. 使上岸, 使登陆, 使到达\\n[计] 连接盘; 焊盘",
-  "definition": "n. the land on which real estate is located\\nn. material in the top layer of the surface of the earth in which plants can grow (especially with reference to its quality or use)\\nn. the solid part of the earth's surface\\nn. United States inventor who incorporated Polaroid film into lenses and invented the one step photographic process (1909-1991)"
+  "translation": "n. 陆地, 地面, 地界, 地产, 国土, 土地\nvi. 登陆, 登岸, 到达\nvt. 使上岸, 使登陆, 使到达\n[计] 连接盘; 焊盘",
+  "definition": "n. the land on which real estate is located\nn. material in the top layer of the surface of the earth in which plants can grow (especially with reference to its quality or use)\nn. the solid part of the earth's surface\nn. United States inventor who incorporated Polaroid film into lenses and invented the one step photographic process (1909-1991)"
  },
  {
   "word": "miles",
   "phonetic": "",
   "translation": "n. 英里（1英里约合1609米, mile的复数形式）",
-  "definition": "n a unit of length equal to 1,760 yards or 5,280 feet; exactly 1609.344 meters\\nn a unit of length used in navigation; exactly 1,852 meters; historically based on the distance spanned by one minute of arc in latitude\\nn a large distance\\nn a former British unit of length once used in navigation; equivalent to 6,000 feet (1828.8 meters)\\nn a former British unit of length equivalent to 6,080 feet (1,853.184 meters); 800 feet longer than a statute mile\\nn an ancient Roman unit of length equivalent to 1620 yards\\nn a Swedish unit of length equivalent to 10 km\\nn a footrace extending one mile"
+  "definition": "n a unit of length equal to 1,760 yards or 5,280 feet; exactly 1609.344 meters\nn a unit of length used in navigation; exactly 1,852 meters; historically based on the distance spanned by one minute of arc in latitude\nn a large distance\nn a former British unit of length once used in navigation; equivalent to 6,000 feet (1828.8 meters)\nn a former British unit of length equivalent to 6,080 feet (1,853.184 meters); 800 feet longer than a statute mile\nn an ancient Roman unit of length equivalent to 1620 yards\nn a Swedish unit of length equivalent to 10 km\nn a footrace extending one mile"
  },
  {
   "word": "mind",
   "phonetic": "maind",
-  "translation": "n. 思想, 愿望, 智力, 记忆, 心理, 情绪, 理智, 主意, 心意\\nvi. 介意, 注意, 留心\\nvt. 注意, 留意, 专心于, 照看, 介意",
-  "definition": "n. that which is responsible for one's thoughts and feelings; the seat of the faculty of reason\\nn. recall or remembrance\\nn. attention\\nn. your intention; what you intend to do"
+  "translation": "n. 思想, 愿望, 智力, 记忆, 心理, 情绪, 理智, 主意, 心意\nvi. 介意, 注意, 留心\nvt. 注意, 留意, 专心于, 照看, 介意",
+  "definition": "n. that which is responsible for one's thoughts and feelings; the seat of the faculty of reason\nn. recall or remembrance\nn. attention\nn. your intention; what you intend to do"
  },
  {
   "word": "night",
   "phonetic": "nait",
-  "translation": "n. 夜, 夜晚, 晚上, 黑暗, 夜晚的工作\\n[法] 夜, 黑夜, 黑暗",
-  "definition": "n. the time after sunset and before sunrise while it is dark outside\\nn. a period of ignorance or backwardness or gloom\\nn. the period spent sleeping\\nn. the dark part of the diurnal cycle considered a time unit"
+  "translation": "n. 夜, 夜晚, 晚上, 黑暗, 夜晚的工作\n[法] 夜, 黑夜, 黑暗",
+  "definition": "n. the time after sunset and before sunrise while it is dark outside\nn. a period of ignorance or backwardness or gloom\nn. the period spent sleeping\nn. the dark part of the diurnal cycle considered a time unit"
  },
  {
   "word": "nothing",
   "phonetic": "'nʌθiŋ",
-  "translation": "n. 无, 不关紧要之事, 零\\nadv. 毫不, 决不\\ninterj. 什么也没有, 无",
-  "definition": "n. a quantity of no importance\\nr. in no respect; to no degree"
+  "translation": "n. 无, 不关紧要之事, 零\nadv. 毫不, 决不\ninterj. 什么也没有, 无",
+  "definition": "n. a quantity of no importance\nr. in no respect; to no degree"
  },
  {
   "word": "prefer",
   "phonetic": "pri'fә:",
-  "translation": "vt. 宁可, 较喜欢, 提出\\n[法] 给予优先权, 优先偿还, 提出",
-  "definition": "v. like better; value more highly\\nv. promote over another\\nv. give preference to one creditor over another"
+  "translation": "vt. 宁可, 较喜欢, 提出\n[法] 给予优先权, 优先偿还, 提出",
+  "definition": "v. like better; value more highly\nv. promote over another\nv. give preference to one creditor over another"
  },
  {
   "word": "reading",
   "phonetic": "'ri:diŋ",
-  "translation": "n. 阅读, 知识, 读物\\na. 阅读的",
-  "definition": "n. the cognitive process of understanding a written linguistic message\\nn. a particular interpretation or performance\\nn. a datum about some physical state that is presented to a user by a meter or similar instrument\\nn. written material intended to be read"
+  "translation": "n. 阅读, 知识, 读物\na. 阅读的",
+  "definition": "n. the cognitive process of understanding a written linguistic message\nn. a particular interpretation or performance\nn. a datum about some physical state that is presented to a user by a meter or similar instrument\nn. written material intended to be read"
  },
  {
   "word": "really",
   "phonetic": "'riәli",
   "translation": "adv. 实际上, 真实地, 实在",
-  "definition": "r in accordance with truth or fact or reality\\nr in actual fact\\nr in fact (used as intensifiers or sentence modifiers)\\nr used as intensifiers; `real' is sometimes used informally for `really'; `rattling' is informal"
+  "definition": "r in accordance with truth or fact or reality\nr in actual fact\nr in fact (used as intensifiers or sentence modifiers)\nr used as intensifiers; `real' is sometimes used informally for `really'; `rattling' is informal"
  },
  {
   "word": "soon",
@@ -206,44 +206,44 @@
  {
   "word": "speed",
   "phonetic": "spi:d",
-  "translation": "n. 速率, 速度, 迅速\\nvi. 加速, 超速, 快进\\nvt. 快速传送, 促进, 使加速\\n[计] 中央处理机速度设置程序",
-  "definition": "n. distance travelled per unit time\\nn. a rate (usually rapid) at which something happens\\nn. changing location rapidly\\nv. travel at an excessive or illegal velocity"
+  "translation": "n. 速率, 速度, 迅速\nvi. 加速, 超速, 快进\nvt. 快速传送, 促进, 使加速\n[计] 中央处理机速度设置程序",
+  "definition": "n. distance travelled per unit time\nn. a rate (usually rapid) at which something happens\nn. changing location rapidly\nv. travel at an excessive or illegal velocity"
  },
  {
   "word": "stretch",
   "phonetic": "stretʃ",
-  "translation": "n. 伸展, 张开, 连绵, 一段路, 一段时间\\na. 可伸缩的, 弹性的\\nvt. 伸展, 张开, 曲解, 使过度伸展\\nvi. 伸展, 延伸\\n[计] 伸展",
-  "definition": "n. a large and unbroken expanse or distance\\nn. a straightaway section of a racetrack\\nn. exercise designed to extend the limbs and muscles to their full extent\\nn. extension to or beyond the ordinary limit"
+  "translation": "n. 伸展, 张开, 连绵, 一段路, 一段时间\na. 可伸缩的, 弹性的\nvt. 伸展, 张开, 曲解, 使过度伸展\nvi. 伸展, 延伸\n[计] 伸展",
+  "definition": "n. a large and unbroken expanse or distance\nn. a straightaway section of a racetrack\nn. exercise designed to extend the limbs and muscles to their full extent\nn. extension to or beyond the ordinary limit"
  },
  {
   "word": "take",
   "phonetic": "teik",
-  "translation": "vt. 拿, 取, 抓, 带领, 获得, 就座, 接受, 吃, 吸引, 采取, 乘, 需要, 花费\\nvi. 吃掉对方棋子, 抓住, 起作用, 依法获得财产\\nn. 拿, 取, 收成, 奏效",
-  "definition": "n. the act of photographing a scene or part of a scene without interruption\\nv. carry out\\nv. require (time or space)\\nv. get into one's hands, take physically"
+  "translation": "vt. 拿, 取, 抓, 带领, 获得, 就座, 接受, 吃, 吸引, 采取, 乘, 需要, 花费\nvi. 吃掉对方棋子, 抓住, 起作用, 依法获得财产\nn. 拿, 取, 收成, 奏效",
+  "definition": "n. the act of photographing a scene or part of a scene without interruption\nv. carry out\nv. require (time or space)\nv. get into one's hands, take physically"
  },
  {
   "word": "train",
   "phonetic": "trein",
-  "translation": "n. 火车, 列车, 行列, 长队, 一连串的后果, 顺序\\nvt. 训练, 教育, 对准\\nvi. 受训练, 锻炼",
-  "definition": "n. public transport provided by a line of railway cars coupled together and drawn by a locomotive\\nn. a series of consequences wrought by an event\\nn. piece of cloth forming the long back section of a gown that is drawn along the floor\\nv. create by training and teaching"
+  "translation": "n. 火车, 列车, 行列, 长队, 一连串的后果, 顺序\nvt. 训练, 教育, 对准\nvi. 受训练, 锻炼",
+  "definition": "n. public transport provided by a line of railway cars coupled together and drawn by a locomotive\nn. a series of consequences wrought by an event\nn. piece of cloth forming the long back section of a gown that is drawn along the floor\nv. create by training and teaching"
  },
  {
   "word": "travel",
   "phonetic": "'trævl",
-  "translation": "n. 旅行, 游历, 行进\\nvi. 旅行, 行进, 移动, 被传播\\nvt. 旅行, 通过, 使移动",
-  "definition": "n. the act of going from one place to another\\nv. change location; move, travel, or proceed, also metaphorically\\nv. undertake a journey or trip\\nv. make a trip for pleasure"
+  "translation": "n. 旅行, 游历, 行进\nvi. 旅行, 行进, 移动, 被传播\nvt. 旅行, 通过, 使移动",
+  "definition": "n. the act of going from one place to another\nv. change location; move, travel, or proceed, also metaphorically\nv. undertake a journey or trip\nv. make a trip for pleasure"
  },
  {
   "word": "view",
   "phonetic": "vju:",
-  "translation": "n. 视野, 风景, 见解, 视力, 观看, 视图, 指望, 意图, 印象\\nvt. 看, 考虑, 视察, 查看, 估量\\n[计] 视图",
-  "definition": "n. the visual percept of a region\\nn. the act of looking or seeing or observing\\nn. the range of the eye\\nn. purpose; the phrase `with a view to' means `with the intention of' or `for the purpose of'"
+  "translation": "n. 视野, 风景, 见解, 视力, 观看, 视图, 指望, 意图, 印象\nvt. 看, 考虑, 视察, 查看, 估量\n[计] 视图",
+  "definition": "n. the visual percept of a region\nn. the act of looking or seeing or observing\nn. the range of the eye\nn. purpose; the phrase `with a view to' means `with the intention of' or `for the purpose of'"
  },
  {
   "word": "above",
   "phonetic": "ә'bʌv",
-  "translation": "prep. 在上方, 超出\\nadv. 在上面\\na. 上述的, 上面的",
-  "definition": "n. an earlier section of a written text\\ns. appearing earlier in the same text\\nr. at an earlier place\\nr. in or to a place that is higher"
+  "translation": "prep. 在上方, 超出\nadv. 在上面\na. 上述的, 上面的",
+  "definition": "n. an earlier section of a written text\ns. appearing earlier in the same text\nr. at an earlier place\nr. in or to a place that is higher"
  },
  {
   "word": "aeroplanes",
@@ -254,20 +254,20 @@
  {
   "word": "air",
   "phonetic": "єә",
-  "translation": "n. 空气, 旋律, 态度\\nvt. 晾, 使通风, 夸耀",
-  "definition": "n. a mixture of gases (especially oxygen) required for breathing; the stuff that the wind consists of\\nn. the region above the ground\\nn. a distinctive but intangible quality surrounding a person or thing\\nn. once thought to be one of four elements composing the universe (Empedocles)"
+  "translation": "n. 空气, 旋律, 态度\nvt. 晾, 使通风, 夸耀",
+  "definition": "n. a mixture of gases (especially oxygen) required for breathing; the stuff that the wind consists of\nn. the region above the ground\nn. a distinctive but intangible quality surrounding a person or thing\nn. once thought to be one of four elements composing the universe (Empedocles)"
  },
  {
   "word": "anyone",
   "phonetic": "'eniwʌn",
   "translation": "pron. 任何人",
-  "definition": "n. One taken at random rather than by selection; anybody.\\n   [Commonly written as two words.]"
+  "definition": "n. One taken at random rather than by selection; anybody.\n   [Commonly written as two words.]"
  },
  {
   "word": "arduous",
   "phonetic": "'ɑ:djuәs",
   "translation": "a. 费力的, 努力的, 险峻的",
-  "definition": "s. characterized by effort to the point of exhaustion; especially physical effort\\ns. taxing to the utmost; testing powers of endurance\\ns. difficult to accomplish; demanding considerable mental effort and skill"
+  "definition": "s. characterized by effort to the point of exhaustion; especially physical effort\ns. taxing to the utmost; testing powers of endurance\ns. difficult to accomplish; demanding considerable mental effort and skill"
  },
  {
   "word": "armchair",
@@ -279,31 +279,31 @@
   "word": "assuming",
   "phonetic": "ә'sju:miŋ",
   "translation": "a. 傲慢的, 僭越的, 不逊的",
-  "definition": "v take to be the case or to be true; accept without verification or proof\\nv take on titles, offices, duties, responsibilities\\nv take on a certain form, attribute, or aspect\\nv take on as one's own the expenses or debts of another person\\nv occupy or take on\\nv seize and take control without authority and possibly with force; take as one's right or possession\\nv make a pretence of\\nv take up someone's soul into heaven\\nv put clothing on one's body\\ns excessively forward"
+  "definition": "v take to be the case or to be true; accept without verification or proof\nv take on titles, offices, duties, responsibilities\nv take on a certain form, attribute, or aspect\nv take on as one's own the expenses or debts of another person\nv occupy or take on\nv seize and take control without authority and possibly with force; take as one's right or possession\nv make a pretence of\nv take up someone's soul into heaven\nv put clothing on one's body\ns excessively forward"
  },
  {
   "word": "available",
   "phonetic": "ә'veilәbl",
-  "translation": "a. 可利用的, 可获得的, 有效的\\n[医] 有效的, 可得的",
-  "definition": "a. obtainable or accessible and ready for use or service\\ns. not busy; not otherwise committed\\ns. convenient for use or disposal"
+  "translation": "a. 可利用的, 可获得的, 有效的\n[医] 有效的, 可得的",
+  "definition": "a. obtainable or accessible and ready for use or service\ns. not busy; not otherwise committed\ns. convenient for use or disposal"
  },
  {
   "word": "back",
   "phonetic": "bæk",
-  "translation": "a. 后面的\\nvt. 使后退, 支持\\nvi. 倒退, 背靠\\nadv. 向后地\\nn. 背部, 后面",
-  "definition": "n. the posterior part of a human (or animal) body from the neck to the end of the spine\\nn. the part of something that is furthest from the normal viewer\\nn. (football) a person who plays in the backfield\\nn. the part of a garment that covers the back of your body"
+  "translation": "a. 后面的\nvt. 使后退, 支持\nvi. 倒退, 背靠\nadv. 向后地\nn. 背部, 后面",
+  "definition": "n. the posterior part of a human (or animal) body from the neck to the end of the spine\nn. the part of something that is furthest from the normal viewer\nn. (football) a person who plays in the backfield\nn. the part of a garment that covers the back of your body"
  },
  {
   "word": "before",
   "phonetic": "bi'fɒ:",
-  "translation": "prep. 在...之前\\nconj. 在...之前\\nadv. 在前",
-  "definition": "r earlier in time; previously\\nr at or in the front"
+  "translation": "prep. 在...之前\nconj. 在...之前\nadv. 在前",
+  "definition": "r earlier in time; previously\nr at or in the front"
  },
  {
   "word": "blue",
   "phonetic": "blu:",
-  "translation": "n. 蓝色\\na. 蓝色的, 下流的, 忧郁的\\nvt. 染成蓝色\\nvi. 变蓝",
-  "definition": "n. blue color or pigment; resembling the color of the clear sky in the daytime\\nn. blue clothing\\nn. any organization or party whose uniforms or badges are blue\\nn. any of numerous small butterflies of the family Lycaenidae"
+  "translation": "n. 蓝色\na. 蓝色的, 下流的, 忧郁的\nvt. 染成蓝色\nvi. 变蓝",
+  "definition": "n. blue color or pigment; resembling the color of the clear sky in the daytime\nn. blue clothing\nn. any organization or party whose uniforms or badges are blue\nn. any of numerous small butterflies of the family Lycaenidae"
  },
  {
   "word": "breathtaking",
@@ -315,97 +315,97 @@
   "word": "brilliantly",
   "phonetic": "'brijәntli",
   "translation": "adv. 辉煌地, 光亮地, 灿烂地",
-  "definition": "r. with brightness\\nr. in an extremely intelligent way"
+  "definition": "r. with brightness\nr. in an extremely intelligent way"
  },
  {
   "word": "calm",
   "phonetic": "kɑ:m",
-  "translation": "n. 平稳, 风平浪静\\na. 平静的, 冷静的\\nvi. 平静下来, 镇静\\nvt. 使平静",
-  "definition": "v. make calm or still\\nv. become quiet or calm, especially after a state of agitation\\ns. not agitated; without losing self-possession\\na. (of weather) free from storm or wind"
+  "translation": "n. 平稳, 风平浪静\na. 平静的, 冷静的\nvi. 平静下来, 镇静\nvt. 使平静",
+  "definition": "v. make calm or still\nv. become quiet or calm, especially after a state of agitation\ns. not agitated; without losing self-possession\na. (of weather) free from storm or wind"
  },
  {
   "word": "car",
   "phonetic": "kɑ:",
-  "translation": "n. 汽车, 客车\\n[机] 车",
-  "definition": "n. a motor vehicle with four wheels; usually propelled by an internal combustion engine\\nn. a wheeled vehicle adapted to the rails of railroad\\nn. the compartment that is suspended from an airship and that carries personnel and the cargo and the power plant\\nn. where passengers ride up and down"
+  "translation": "n. 汽车, 客车\n[机] 车",
+  "definition": "n. a motor vehicle with four wheels; usually propelled by an internal combustion engine\nn. a wheeled vehicle adapted to the rails of railroad\nn. the compartment that is suspended from an airship and that carries personnel and the cargo and the power plant\nn. where passengers ride up and down"
  },
  {
   "word": "ceiling",
   "phonetic": "'si:liŋ",
-  "translation": "n. 天花板\\n[经] 顶点, 顶线, 上限",
-  "definition": "n. the overhead upper surface of a covered space\\nn. (meteorology) altitude of the lowest layer of clouds\\nn. an upper limit on what is allowed\\nn. maximum altitude at which a plane can fly (under specified conditions)"
+  "translation": "n. 天花板\n[经] 顶点, 顶线, 上限",
+  "definition": "n. the overhead upper surface of a covered space\nn. (meteorology) altitude of the lowest layer of clouds\nn. an upper limit on what is allowed\nn. maximum altitude at which a plane can fly (under specified conditions)"
  },
  {
   "word": "certain",
   "phonetic": "'sә:tәn",
-  "translation": "a. 确定的, 某一个的, 必然的\\n[法] 确凿的, 无疑的, 可靠的",
-  "definition": "s. definite but not specified or identified\\na. having or feeling no doubt or uncertainty; confident and assured\\na. established beyond doubt or question; definitely known\\na. certain to occur; destined or inevitable"
+  "translation": "a. 确定的, 某一个的, 必然的\n[法] 确凿的, 无疑的, 可靠的",
+  "definition": "s. definite but not specified or identified\na. having or feeling no doubt or uncertainty; confident and assured\na. established beyond doubt or question; definitely known\na. certain to occur; destined or inevitable"
  },
  {
   "word": "champagne",
   "phonetic": "ʃæm'pein",
-  "translation": "n. 香槟酒, 香槟酒色\\n[化] 香槟酒",
-  "definition": "n. a white sparkling wine either produced in Champagne or resembling that produced there\\nn. a region of northeastern France"
+  "translation": "n. 香槟酒, 香槟酒色\n[化] 香槟酒",
+  "definition": "n. a white sparkling wine either produced in Champagne or resembling that produced there\nn. a region of northeastern France"
  },
  {
   "word": "civilized",
   "phonetic": "'sivilaizd",
   "translation": "a. 文明的, 有礼的",
-  "definition": "a. having a high state of culture and development both social and technological\\ns. marked by refinement in taste and manners"
+  "definition": "a. having a high state of culture and development both social and technological\ns. marked by refinement in taste and manners"
  },
  {
   "word": "clear",
   "phonetic": "kliә",
-  "translation": "a. 清楚的, 明确的, 澄清的\\nadv. 清晰地\\nvt. 澄清, 清除障碍\\nvi. 放晴, 变清澈\\nn. 空隙\\n[计] 清除",
-  "definition": "n. the state of being free of suspicion\\nv. make a way or path by removing objects\\nv. remove\\nv. be debited and credited to the proper bank accounts"
+  "translation": "a. 清楚的, 明确的, 澄清的\nadv. 清晰地\nvt. 澄清, 清除障碍\nvi. 放晴, 变清澈\nn. 空隙\n[计] 清除",
+  "definition": "n. the state of being free of suspicion\nv. make a way or path by removing objects\nv. remove\nv. be debited and credited to the proper bank accounts"
  },
  {
   "word": "clicking",
   "phonetic": "",
   "translation": "n. 微小静电干扰声",
-  "definition": "v move or strike with a noise\\nv make a clicking or ticking sound\\nv click repeatedly or uncontrollably\\nv cause to make a snapping sound\\nv produce a click\\nv make a clucking sounds, characteristic of hens\\nv become clear or enter one's consciousness or emotions"
+  "definition": "v move or strike with a noise\nv make a clicking or ticking sound\nv click repeatedly or uncontrollably\nv cause to make a snapping sound\nv produce a click\nv make a clucking sounds, characteristic of hens\nv become clear or enter one's consciousness or emotions"
  },
  {
   "word": "cloud",
   "phonetic": "klaud",
-  "translation": "n. 云, 阴暗, 烟雾, 疑团\\nvt. 以云遮敝, 笼罩, 使黯然\\nvi. 乌云密布, 阴沉",
-  "definition": "n. any collection of particles (e.g., smoke or dust) or gases that is visible\\nn. a visible mass of water or ice particles suspended at a considerable altitude\\nn. out of touch with reality\\nn. a cause of worry or gloom or trouble"
+  "translation": "n. 云, 阴暗, 烟雾, 疑团\nvt. 以云遮敝, 笼罩, 使黯然\nvi. 乌云密布, 阴沉",
+  "definition": "n. any collection of particles (e.g., smoke or dust) or gases that is visible\nn. a visible mass of water or ice particles suspended at a considerable altitude\nn. out of touch with reality\nn. a cause of worry or gloom or trouble"
  },
  {
   "word": "clouds",
   "phonetic": "",
   "translation": "n. 云彩, 白云（cloud复数形式）",
-  "definition": "n any collection of particles (e.g., smoke or dust) or gases that is visible\\nn a visible mass of water or ice particles suspended at a considerable altitude\\nn out of touch with reality\\nn a cause of worry or gloom or trouble\\nn suspicion affecting your reputation\\nn a group of many things in the air or on the ground\\nv make overcast or cloudy\\nv make less visible or unclear\\nv billow up in the form of a cloud\\nv make gloomy or depressed\\nv place under suspicion or cast doubt upon\\nv make less clear\\nv colour with streaks or blotches of different shades\\nv make milky or dull"
+  "definition": "n any collection of particles (e.g., smoke or dust) or gases that is visible\nn a visible mass of water or ice particles suspended at a considerable altitude\nn out of touch with reality\nn a cause of worry or gloom or trouble\nn suspicion affecting your reputation\nn a group of many things in the air or on the ground\nv make overcast or cloudy\nv make less visible or unclear\nv billow up in the form of a cloud\nv make gloomy or depressed\nv place under suspicion or cast doubt upon\nv make less clear\nv colour with streaks or blotches of different shades\nv make milky or dull"
  },
  {
   "word": "comes",
   "phonetic": "'kɔmis",
   "translation": "v. 来自；从…来（come的三单形式）",
-  "definition": "n the thick white fluid containing spermatozoa that is ejaculated by the male genital tract\\nv move toward, travel toward something or somebody or approach something or somebody\\nv reach a destination; arrive by movement or progress\\nv come to pass; arrive, as in due course\\nv reach or enter a state, relation, condition, use, or position\\nv to be the product or result\\nv be found or available; The furniture comes unassembled\"\\nv come forth\\nv be a native of\\nv extend or reach\\nv exist or occur in a certain point in a series\\nv cover a certain distance\\nv come under, be classified or included\\nv happen as a result\\nv add up in number or quantity\\nv develop into\\nv be received\\nv come to one's mind; suggest itself\\nv come from; be connected by a relationship of blood, for example\\nv proceed or get along\\nv experience orgasm\\nv have a certain priority"
+  "definition": "n the thick white fluid containing spermatozoa that is ejaculated by the male genital tract\nv move toward, travel toward something or somebody or approach something or somebody\nv reach a destination; arrive by movement or progress\nv come to pass; arrive, as in due course\nv reach or enter a state, relation, condition, use, or position\nv to be the product or result\nv be found or available; The furniture comes unassembled\"\nv come forth\nv be a native of\nv extend or reach\nv exist or occur in a certain point in a series\nv cover a certain distance\nv come under, be classified or included\nv happen as a result\nv add up in number or quantity\nv develop into\nv be received\nv come to one's mind; suggest itself\nv come from; be connected by a relationship of blood, for example\nv proceed or get along\nv experience orgasm\nv have a certain priority"
  },
  {
   "word": "comforts",
   "phonetic": "ˈkʌmfəts",
-  "translation": "n. 安慰( comfort的名词复数 ); 舒适; 使人舒服的事物; 给予援助或安慰的人或事\\nv. 安慰, 使舒适( comfort的第三人称单数 )",
-  "definition": "n things that make you comfortable and at ease\\nn a state of being relaxed and feeling no pain\\nn a feeling of freedom from worry or disappointment\\nn the act of consoling; giving relief in affliction\\nn a freedom from financial difficulty that promotes a comfortable state\\nn satisfaction or physical well-being provided by a person or thing\\nn bedding made of two layers of cloth filled with stuffing and stitched together\\nn assistance, such as that provided to an enemy or to a known criminal\\nv give moral or emotional strength to\\nv lessen pain or discomfort; alleviate"
+  "translation": "n. 安慰( comfort的名词复数 ); 舒适; 使人舒服的事物; 给予援助或安慰的人或事\nv. 安慰, 使舒适( comfort的第三人称单数 )",
+  "definition": "n things that make you comfortable and at ease\nn a state of being relaxed and feeling no pain\nn a feeling of freedom from worry or disappointment\nn the act of consoling; giving relief in affliction\nn a freedom from financial difficulty that promotes a comfortable state\nn satisfaction or physical well-being provided by a person or thing\nn bedding made of two layers of cloth filled with stuffing and stitched together\nn assistance, such as that provided to an enemy or to a known criminal\nv give moral or emotional strength to\nv lessen pain or discomfort; alleviate"
  },
  {
   "word": "comparison",
   "phonetic": "kәm'pærisn",
-  "translation": "n. 比较, 对照, 比喻\\n[经] 比较, 对比",
-  "definition": "n. the act of examining resemblances\\nn. relation based on similarities and differences\\nn. qualities that are comparable"
+  "translation": "n. 比较, 对照, 比喻\n[经] 比较, 对比",
+  "definition": "n. the act of examining resemblances\nn. relation based on similarities and differences\nn. qualities that are comparable"
  },
  {
   "word": "compartments",
   "phonetic": "kəmˈpɑ:tmənts",
   "translation": "n. 隔间（ compartment的复数形式 ）",
-  "definition": "n. a space into which an area is subdivided\\nn. a partitioned section, chamber, or separate room within a larger enclosed area"
+  "definition": "n. a space into which an area is subdivided\nn. a partitioned section, chamber, or separate room within a larger enclosed area"
  },
  {
   "word": "course",
   "phonetic": "kɒ:s",
-  "translation": "n. 课程, 路线, 过程, 一道菜, 道路\\nv. 追, (使)跑",
-  "definition": "n. education imparted in a series of lessons or meetings\\nn. a connected series of events or actions or developments\\nn. general line of orientation\\nn. a mode of action"
+  "translation": "n. 课程, 路线, 过程, 一道菜, 道路\nv. 追, (使)跑",
+  "definition": "n. education imparted in a series of lessons or meetings\nn. a connected series of events or actions or developments\nn. general line of orientation\nn. a mode of action"
  },
  {
   "word": "cramped",
@@ -417,55 +417,55 @@
   "word": "cruises",
   "phonetic": "",
   "translation": "n. 游艇；邮轮旅游；油轮公司（cruise的复数）",
-  "definition": "n an ocean trip taken for pleasure\\nv drive around aimlessly but ostentatiously and at leisure\\nv travel at a moderate speed\\nv look for a sexual partner in a public place\\nv sail or travel about for pleasure, relaxation, or sightseeing"
+  "definition": "n an ocean trip taken for pleasure\nv drive around aimlessly but ostentatiously and at leisure\nv travel at a moderate speed\nv look for a sexual partner in a public place\nv sail or travel about for pleasure, relaxation, or sightseeing"
  },
  {
   "word": "dangerous",
   "phonetic": "'deindʒәrәs",
-  "translation": "a. 危险的\\n[法] 危险的, 危害的",
-  "definition": "a. involving or causing danger or risk; liable to hurt or harm\\ns. causing fear or anxiety by threatening great harm"
+  "translation": "a. 危险的\n[法] 危险的, 危害的",
+  "definition": "a. involving or causing danger or risk; liable to hurt or harm\ns. causing fear or anxiety by threatening great harm"
  },
  {
   "word": "day",
   "phonetic": "dei",
-  "translation": "n. 天, 日子, 白天, 工作日\\n[医] 日(一昼夜), 昼, 白天",
-  "definition": "n. time for Earth to make a complete rotation on its axis\\nn. some point or period in time\\nn. a day assigned to a particular purpose or observance\\nn. the time after sunrise and before sunset while it is light outside"
+  "translation": "n. 天, 日子, 白天, 工作日\n[医] 日(一昼夜), 昼, 白天",
+  "definition": "n. time for Earth to make a complete rotation on its axis\nn. some point or period in time\nn. a day assigned to a particular purpose or observance\nn. the time after sunrise and before sunset while it is light outside"
  },
  {
   "word": "days",
   "phonetic": "deiz",
-  "translation": "n. 一生, 时期\\nadv. 每天, 在白天",
+  "translation": "n. 一生, 时期\nadv. 每天, 在白天",
   "definition": "n. the time during which someone's life continues"
  },
  {
   "word": "decks",
   "phonetic": "",
   "translation": "n. 舱板；平台；甲板（deck的复数）",
-  "definition": "n any of various platforms built into a vessel\\nn street name for a packet of illegal drugs\\nn a pack of 52 playing cards\\nn a porch that resembles the deck on a ship\\nv be beautiful to look at\\nv decorate\\nv knock down with force"
+  "definition": "n any of various platforms built into a vessel\nn street name for a packet of illegal drugs\nn a pack of 52 playing cards\nn a porch that resembles the deck on a ship\nv be beautiful to look at\nv decorate\nv knock down with force"
  },
  {
   "word": "devise",
   "phonetic": "di'vaiz",
-  "translation": "vt. 设计, 发明, 图谋, 遗赠给\\nn. 遗赠",
-  "definition": "n. a will disposing of real property\\nn. (law) a gift of real property by will\\nv. give by will, especially real property"
+  "translation": "vt. 设计, 发明, 图谋, 遗赠给\nn. 遗赠",
+  "definition": "n. a will disposing of real property\nn. (law) a gift of real property by will\nv. give by will, especially real property"
  },
  {
   "word": "disadvantage",
   "phonetic": ".disәd'vɑ:ntidʒ",
   "translation": "n. 缺点, 不利, 坏处",
-  "definition": "n. the quality of having an inferior or less favorable position\\nv. put at a disadvantage; hinder, harm"
+  "definition": "n. the quality of having an inferior or less favorable position\nv. put at a disadvantage; hinder, harm"
  },
  {
   "word": "distances",
   "phonetic": "ˈdistənsiz",
   "translation": "n. 距离( distance的名词复数 ); 远处; （时间或空间的）相距; 疏远",
-  "definition": "n the property created by the space between two objects or points\\nn a distant region\\nn size of the gap between two places\\nn indifference by personal withdrawal\\nn the interval between two times\\nn a remote point in time\\nv keep at a distance\\nv go far ahead of"
+  "definition": "n the property created by the space between two objects or points\nn a distant region\nn size of the gap between two places\nn indifference by personal withdrawal\nn the interval between two times\nn a remote point in time\nv keep at a distance\nv go far ahead of"
  },
  {
   "word": "during",
   "phonetic": "'djuәriŋ",
   "translation": "prep. 在...的时候",
-  "definition": "prep. In the time of; as long as the action or existence of;\\n   as, during life; during the space of a year."
+  "definition": "prep. In the time of; as long as the action or existence of;\n   as, during life; during the space of a year."
  },
  {
   "word": "effortlessly",
@@ -476,20 +476,20 @@
  {
   "word": "enough",
   "phonetic": "i'nʌf",
-  "translation": "n. 充足, 够, 很多\\na. 充足的, 足够\\nadv. 足够\\ninterj. 够了",
-  "definition": "n. an adequate quantity; a quantity that is large enough to achieve a purpose\\nr. as much as necessary; (`plenty' is nonstandard) \"I've had plenty, thanks\""
+  "translation": "n. 充足, 够, 很多\na. 充足的, 足够\nadv. 足够\ninterj. 够了",
+  "definition": "n. an adequate quantity; a quantity that is large enough to achieve a purpose\nr. as much as necessary; (`plenty' is nonstandard) \"I've had plenty, thanks\""
  },
  {
   "word": "escapist",
   "phonetic": "is'keipist",
-  "translation": "a. 逃避现实的\\nn. 逃避现实者",
+  "translation": "a. 逃避现实的\nn. 逃避现实者",
   "definition": "n. a person who escapes into a world of fantasy"
  },
  {
   "word": "exhausted",
   "phonetic": "iɡ'zɔ:stid",
   "translation": "a. 耗尽的；疲惫的",
-  "definition": "s. drained of energy or effectiveness; extremely tired; completely exhausted\\na. depleted of energy, force, or strength\\ns. drained physically"
+  "definition": "s. drained of energy or effectiveness; extremely tired; completely exhausted\na. depleted of energy, force, or strength\ns. drained physically"
  },
  {
   "word": "exhilarating",
@@ -500,62 +500,62 @@
  {
   "word": "expensive",
   "phonetic": "ik'spensiv",
-  "translation": "a. 贵的, 奢华的, 费用浩大的, 乱化钱的\\n[经] 高价的, 昂贵的, 浪费的",
+  "translation": "a. 贵的, 奢华的, 费用浩大的, 乱化钱的\n[经] 高价的, 昂贵的, 浪费的",
   "definition": "a. high in price or charging high prices"
  },
  {
   "word": "experience",
   "phonetic": "ik'spiәriәns",
-  "translation": "n. 经历, 经验, 体验\\nvt. 经历, 经验, 体验",
-  "definition": "n. the accumulation of knowledge or skill that results from direct participation in events or activities\\nn. the content of direct observation or participation in an event\\nn. an event as apprehended\\nv. go or live through"
+  "translation": "n. 经历, 经验, 体验\nvt. 经历, 经验, 体验",
+  "definition": "n. the accumulation of knowledge or skill that results from direct participation in events or activities\nn. the content of direct observation or participation in an event\nn. an event as apprehended\nv. go or live through"
  },
  {
   "word": "extraordinary",
   "phonetic": "ik'strɒ:dәnәri",
-  "translation": "a. 非常的, 特别的, 非凡的\\n[经] 非常的, 特别的, 临时的",
-  "definition": "a. beyond what is ordinary or usual; highly unusual or exceptional or remarkable\\ns. far more than usual or expected\\ns. (of an official) serving an unusual or special function in addition to those of the regular officials"
+  "translation": "a. 非常的, 特别的, 非凡的\n[经] 非常的, 特别的, 临时的",
+  "definition": "a. beyond what is ordinary or usual; highly unusual or exceptional or remarkable\ns. far more than usual or expected\ns. (of an official) serving an unusual or special function in addition to those of the regular officials"
  },
  {
   "word": "fairly",
   "phonetic": "'fєәli",
   "translation": "adv. 美观地, 公平地, 相当地, 清楚地",
-  "definition": "r. without favoring one party, in a fair evenhanded manner\\nr. in conformity with the rules or laws and without fraud or cheating"
+  "definition": "r. without favoring one party, in a fair evenhanded manner\nr. in conformity with the rules or laws and without fraud or cheating"
  },
  {
   "word": "far",
   "phonetic": "fɑ:",
-  "translation": "a. 远的, 久远的, 遥远的\\nadv. 甚远地, 很, 到很深的程度, 到很远的距离",
-  "definition": "a. located at a great distance in time or space or degree\\ns. being of a considerable distance or length\\ns. being the animal or vehicle on the right or being on the right side of an animal or vehicle\\ns. beyond a norm in opinion or actions"
+  "translation": "a. 远的, 久远的, 遥远的\nadv. 甚远地, 很, 到很深的程度, 到很远的距离",
+  "definition": "a. located at a great distance in time or space or degree\ns. being of a considerable distance or length\ns. being the animal or vehicle on the right or being on the right side of an animal or vehicle\ns. beyond a norm in opinion or actions"
  },
  {
   "word": "feet",
   "phonetic": "fi:t",
-  "translation": "pl. 脚\\nn. 尺",
-  "definition": "n the part of the leg of a human being below the ankle joint\\nn a linear unit of length equal to 12 inches or a third of a yard\\nn the lower part of anything\\nn the pedal extremity of vertebrates other than human beings\\nn lowest support of a structure\\nn any of various organs of locomotion or attachment in invertebrates\\nn travel by walking\\nn a member of a surveillance team who works on foot or rides as a passenger\\nn an army unit consisting of soldiers who fight on foot\\nn (prosody) a group of 2 or 3 syllables forming the basic unit of poetic rhythm\\nn a support resembling a pedal extremity"
+  "translation": "pl. 脚\nn. 尺",
+  "definition": "n the part of the leg of a human being below the ankle joint\nn a linear unit of length equal to 12 inches or a third of a yard\nn the lower part of anything\nn the pedal extremity of vertebrates other than human beings\nn lowest support of a structure\nn any of various organs of locomotion or attachment in invertebrates\nn travel by walking\nn a member of a surveillance team who works on foot or rides as a passenger\nn an army unit consisting of soldiers who fight on foot\nn (prosody) a group of 2 or 3 syllables forming the basic unit of poetic rhythm\nn a support resembling a pedal extremity"
  },
  {
   "word": "ferry",
   "phonetic": "'feri",
-  "translation": "n. 渡船, 渡口\\n[法] 摆渡营业权, 轮渡",
-  "definition": "n. a boat that transports people or vehicles across a body of water and operates on a regular schedule\\nn. transport by boat or aircraft\\nv. transport from one place to another\\nv. transport by ferry"
+  "translation": "n. 渡船, 渡口\n[法] 摆渡营业权, 轮渡",
+  "definition": "n. a boat that transports people or vehicles across a body of water and operates on a regular schedule\nn. transport by boat or aircraft\nv. transport from one place to another\nv. transport by ferry"
  },
  {
   "word": "film",
   "phonetic": "film",
-  "translation": "n. 软片, 薄膜, 胶卷, 电影\\nvt. 覆以薄膜, 拍摄\\nvi. 生薄膜, 拍电影",
-  "definition": "n. a medium that disseminates moving pictures\\nn. photographic material consisting of a base of celluloid covered with a photographic emulsion; used to make negatives or transparencies\\nn. a thin coating or layer\\nn. a thin sheet of (usually plastic and usually transparent) material used to wrap or cover things"
+  "translation": "n. 软片, 薄膜, 胶卷, 电影\nvt. 覆以薄膜, 拍摄\nvi. 生薄膜, 拍电影",
+  "definition": "n. a medium that disseminates moving pictures\nn. photographic material consisting of a base of celluloid covered with a photographic emulsion; used to make negatives or transparencies\nn. a thin coating or layer\nn. a thin sheet of (usually plastic and usually transparent) material used to wrap or cover things"
  },
  {
   "word": "find",
   "phonetic": "faind",
-  "translation": "vt. 发现, 感到, 找到, 认为, 得到\\nvi. 裁决\\nn. 发现\\n[计] 查找; DOS外部命令:在指定的文件或从键盘输入的文本行中\\n寻找指定的字符串, 将符合条件的行或行数输出到标准输出设备上",
-  "definition": "v. come upon, as if by accident; meet with\\nv. come upon after searching; find the location of something that was missed or lost\\nv. come to believe on the basis of emotion, intuitions, or indefinite grounds\\nv. obtain through effort or management"
+  "translation": "vt. 发现, 感到, 找到, 认为, 得到\nvi. 裁决\nn. 发现\n[计] 查找; DOS外部命令:在指定的文件或从键盘输入的文本行中\n寻找指定的字符串, 将符合条件的行或行数输出到标准输出设备上",
+  "definition": "v. come upon, as if by accident; meet with\nv. come upon after searching; find the location of something that was missed or lost\nv. come to believe on the basis of emotion, intuitions, or indefinite grounds\nv. obtain through effort or management"
  },
  {
   "word": "flight",
   "phonetic": "flait",
-  "translation": "n. 飞行, 射程, 逃走, 飞跃, 飞机航程, 班机, 迁徙, 飞逝\\nvi. 迁徙\\nvt. 射击(飞禽), 为(箭)装上羽毛, 使惊飞",
-  "definition": "n. a formation of aircraft in flight\\nn. an instance of traveling by air\\nn. a stairway (set of steps) between one floor or landing and the next\\nn. an air force unit smaller than a squadron"
+  "translation": "n. 飞行, 射程, 逃走, 飞跃, 飞机航程, 班机, 迁徙, 飞逝\nvi. 迁徙\nvt. 射击(飞禽), 为(箭)装上羽毛, 使惊飞",
+  "definition": "n. a formation of aircraft in flight\nn. an instance of traveling by air\nn. a stairway (set of steps) between one floor or landing and the next\nn. an air force unit smaller than a squadron"
  },
  {
   "word": "frequently",
@@ -566,38 +566,38 @@
  {
   "word": "fresh",
   "phonetic": "freʃ",
-  "translation": "a. 新鲜的, 新奇的, 另外的, 淡的, 精神饱满的, 冒失的\\nadv. 最新地, 刚刚\\nn. 开始, 泛滥",
-  "definition": "a. recently made, produced, or harvested\\ns. (of a cycle) beginning or occurring again\\ns. original and of a kind not seen before\\na. not canned or otherwise preserved"
+  "translation": "a. 新鲜的, 新奇的, 另外的, 淡的, 精神饱满的, 冒失的\nadv. 最新地, 刚刚\nn. 开始, 泛滥",
+  "definition": "a. recently made, produced, or harvested\ns. (of a cycle) beginning or occurring again\ns. original and of a kind not seen before\na. not canned or otherwise preserved"
  },
  {
   "word": "fumbling",
   "phonetic": "ˈfʌmblɪŋ",
   "translation": "v. （笨拙地）摸索或处理（某事物）( fumble的现在分词 ); 乱摸, 笨拙地弄; 使落下",
-  "definition": "v feel about uncertainly or blindly\\nv make one's way clumsily or blindly\\nv handle clumsily\\nv make a mess of, destroy or ruin\\nv drop or juggle or fail to play cleanly a grounder\\ns showing lack of skill or aptitude"
+  "definition": "v feel about uncertainly or blindly\nv make one's way clumsily or blindly\nv handle clumsily\nv make a mess of, destroy or ruin\nv drop or juggle or fail to play cleanly a grounder\ns showing lack of skill or aptitude"
  },
  {
   "word": "games",
   "phonetic": "",
   "translation": "n. (英)体操课, 体育课, [谓语用单数或复数]运动会, 比赛会, 竞技会",
-  "definition": "n a contest with rules to determine a winner\\nn a single play of a sport or other contest\\nn an amusement or pastime\\nn animal hunted for food or sport\\nn (tennis) a division of play during which one player serves\\nn (games) the score at a particular point or the score needed to win\\nn the flesh of wild animals that is used for food\\nn a secret scheme to do something (especially something underhand or illegal)\\nn the game equipment needed in order to play a particular game\\nn your occupation or line of work\\nn frivolous or trifling behavior\\nv place a bet on"
+  "definition": "n a contest with rules to determine a winner\nn a single play of a sport or other contest\nn an amusement or pastime\nn animal hunted for food or sport\nn (tennis) a division of play during which one player serves\nn (games) the score at a particular point or the score needed to win\nn the flesh of wild animals that is used for food\nn a secret scheme to do something (especially something underhand or illegal)\nn the game equipment needed in order to play a particular game\nn your occupation or line of work\nn frivolous or trifling behavior\nv place a bet on"
  },
  {
   "word": "gets",
   "phonetic": "",
   "translation": "abbr. 政府电子贸易服务（Government Electronic Tendering Service）；美国政府应急电信服务（Government Emergency Telecommunications Service）",
-  "definition": "n a return on a shot that seemed impossible to reach and would normally have resulted in a point for the opponent\\nv come into the possession of something concrete or abstract\\nv enter or assume a certain state or condition\\nv cause to move; cause to be in a certain position or condition\\nv receive a specified treatment (abstract)\\nv reach a destination; arrive by movement or progress\\nv go or come after and bring or take back\\nv go through (mental or physical states or experiences)\\nv take vengeance on or get even\\nv achieve a point or goal\\nv cause to do; cause to act in a specified manner\\nv succeed in catching or seizing, especially after a chase\\nv come to have or undergo a change of (physical features and attributes)\\nv be stricken by an illness, fall victim to an illness\\nv communicate with a place or person; establish communication with, as if by telephone\\nv give certain properties to something\\nv move into a desired direction of discourse\\nv grasp with the mind or develop an understanding of\\nv attract and fix\\nv reach with a blow or hit in a particular spot\\nv reach by calculation\\nv acquire as a result of some effort or action\\nv purchase\\nv perceive by hearing\\nv suffer from the receipt of\\nv receive as a retribution or punishment\\nv leave immediately; used usually in the imperative form\\nv reach and board\\nv irritate\\nv evoke an emotional response\\nv apprehend and reproduce accurately\\nv earn or achieve a base by being walked by the pitcher\\nv overcome or destroy\\nv be a mystery or bewildering to\\nv take the first step or steps in carrying out an action\\nv undergo (as of injuries and illnesses)\\nv make children"
+  "definition": "n a return on a shot that seemed impossible to reach and would normally have resulted in a point for the opponent\nv come into the possession of something concrete or abstract\nv enter or assume a certain state or condition\nv cause to move; cause to be in a certain position or condition\nv receive a specified treatment (abstract)\nv reach a destination; arrive by movement or progress\nv go or come after and bring or take back\nv go through (mental or physical states or experiences)\nv take vengeance on or get even\nv achieve a point or goal\nv cause to do; cause to act in a specified manner\nv succeed in catching or seizing, especially after a chase\nv come to have or undergo a change of (physical features and attributes)\nv be stricken by an illness, fall victim to an illness\nv communicate with a place or person; establish communication with, as if by telephone\nv give certain properties to something\nv move into a desired direction of discourse\nv grasp with the mind or develop an understanding of\nv attract and fix\nv reach with a blow or hit in a particular spot\nv reach by calculation\nv acquire as a result of some effort or action\nv purchase\nv perceive by hearing\nv suffer from the receipt of\nv receive as a retribution or punishment\nv leave immediately; used usually in the imperative form\nv reach and board\nv irritate\nv evoke an emotional response\nv apprehend and reproduce accurately\nv earn or achieve a base by being walked by the pitcher\nv overcome or destroy\nv be a mystery or bewildering to\nv take the first step or steps in carrying out an action\nv undergo (as of injuries and illnesses)\nv make children"
  },
  {
   "word": "good",
   "phonetic": "gud",
-  "translation": "n. 善行, 好处, 利益\\na. 好的, 优良的, 上等的, 愉快的, 有益的, 好心的, 慈善的, 虔诚的",
-  "definition": "n. benefit\\nn. moral excellence or admirableness\\nn. that which is pleasing or valuable or useful\\na. having desirable or positive qualities especially those suitable for a thing specified"
+  "translation": "n. 善行, 好处, 利益\na. 好的, 优良的, 上等的, 愉快的, 有益的, 好心的, 慈善的, 虔诚的",
+  "definition": "n. benefit\nn. moral excellence or admirableness\nn. that which is pleasing or valuable or useful\na. having desirable or positive qualities especially those suitable for a thing specified"
  },
  {
   "word": "great",
   "phonetic": "greit",
-  "translation": "a. 大的, 非常的, 主要的, 重大的, 崇高的, 伟大的\\nadv. 顺利地, 得意地\\nn. 全部, 大人物, 大师",
-  "definition": "n. a person who has achieved distinction and honor in some field\\ns. relatively large in size or number or extent; larger than others of its kind\\ns. of major significance or importance\\ns. remarkable or out of the ordinary in degree or magnitude or effect"
+  "translation": "a. 大的, 非常的, 主要的, 重大的, 崇高的, 伟大的\nadv. 顺利地, 得意地\nn. 全部, 大人物, 大师",
+  "definition": "n. a person who has achieved distinction and honor in some field\ns. relatively large in size or number or extent; larger than others of its kind\ns. of major significance or importance\ns. remarkable or out of the ordinary in degree or magnitude or effect"
  },
  {
   "word": "greater",
@@ -608,14 +608,14 @@
  {
   "word": "half",
   "phonetic": "hɑ:f",
-  "translation": "n. 一半, 半场, 不完全\\na. 一半的, 不完全的, 部分的, 半场的\\nadv. 一半地, 部分地, 在某种程度上地, 几乎",
-  "definition": "n. one of two divisions into which some games or performances are divided: the two divisions are separated by an interval\\ns. consisting of one of two equivalent parts in value or quantity\\ns. partial\\na. (of siblings) related through one parent only"
+  "translation": "n. 一半, 半场, 不完全\na. 一半的, 不完全的, 部分的, 半场的\nadv. 一半地, 部分地, 在某种程度上地, 几乎",
+  "definition": "n. one of two divisions into which some games or performances are divided: the two divisions are separated by an interval\ns. consisting of one of two equivalent parts in value or quantity\ns. partial\na. (of siblings) related through one parent only"
  },
  {
   "word": "hardened",
   "phonetic": "'hɑ:dәnd",
   "translation": "a. 变硬的；坚定的",
-  "definition": "a. protected against attack (especially by nuclear weapons)\\ns. converted to solid form (as concrete)"
+  "definition": "a. protected against attack (especially by nuclear weapons)\ns. converted to solid form (as concrete)"
  },
  {
   "word": "hardly",
@@ -626,38 +626,38 @@
  {
   "word": "height",
   "phonetic": "hait",
-  "translation": "n. 高度, 海拔, 高地, 顶点\\n[化] 高度",
+  "translation": "n. 高度, 海拔, 高地, 顶点\n[化] 高度",
   "definition": "n. the vertical dimension of extension; distance from the base of something to the top"
  },
  {
   "word": "hidden",
   "phonetic": "'hidn",
-  "translation": "a. 隐藏的\\nhide的过去分词\\n[计] 隐藏的",
-  "definition": "s. designed to elude detection\\ns. difficult to find"
+  "translation": "a. 隐藏的\nhide的过去分词\n[计] 隐藏的",
+  "definition": "s. designed to elude detection\ns. difficult to find"
  },
  {
   "word": "holiday",
   "phonetic": "'hɒlәdi",
-  "translation": "n. 假日, 假期, 节日\\nvi. 度假",
+  "translation": "n. 假日, 假期, 节日\nvi. 度假",
   "definition": "n. a day on which work is suspended by law or custom"
  },
  {
   "word": "hour",
   "phonetic": "auә",
   "translation": "n. 小时, 钟头, 时间, ...点钟, 课时",
-  "definition": "n. a period of time equal to 1/24th of a day\\nn. clock time\\nn. a special and memorable period\\nn. distance measured by the time taken to cover it"
+  "definition": "n. a period of time equal to 1/24th of a day\nn. clock time\nn. a special and memorable period\nn. distance measured by the time taken to cover it"
  },
  {
   "word": "however",
   "phonetic": "hau'evә",
-  "translation": "adv. 然而, 无论如何, 究竟怎样\\nconj. 然而, 可是",
-  "definition": "r. despite anything to the contrary (usually following a concession)\\nr. by contrast; on the other hand; the second, however, took hours\"\\nr. to whatever degree or extent\\nr. in whatever way or manner"
+  "translation": "adv. 然而, 无论如何, 究竟怎样\nconj. 然而, 可是",
+  "definition": "r. despite anything to the contrary (usually following a concession)\nr. by contrast; on the other hand; the second, however, took hours\"\nr. to whatever degree or extent\nr. in whatever way or manner"
  },
  {
   "word": "ideal",
   "phonetic": "ai'diәl",
-  "translation": "n. 理想, 典范, 观念, 思想, 最后目标\\na. 理想的, 完美的, 空想的, 观念的, 唯心论的",
-  "definition": "n. the idea of something that is perfect; something that one hopes to attain\\nn. model of excellence or perfection of a kind; one having no equal\\ns. conforming to an ultimate standard of perfection or excellence; embodying an ideal\\ns. constituting or existing only in the form of an idea or mental image or conception"
+  "translation": "n. 理想, 典范, 观念, 思想, 最后目标\na. 理想的, 完美的, 空想的, 观念的, 唯心论的",
+  "definition": "n. the idea of something that is perfect; something that one hopes to attain\nn. model of excellence or perfection of a kind; one having no equal\ns. conforming to an ultimate standard of perfection or excellence; embodying an ideal\ns. constituting or existing only in the form of an idea or mental image or conception"
  },
  {
   "word": "inevitably",
@@ -668,7 +668,7 @@
  {
   "word": "inspection",
   "phonetic": "in'spekʃәn",
-  "translation": "n. 检验, 检查, 视察\\n[医] 检查, 视察, 监督, 望诊",
+  "translation": "n. 检验, 检查, 视察\n[医] 检查, 视察, 监督, 望诊",
   "definition": "n. a formal or official examination"
  },
  {
@@ -680,26 +680,26 @@
  {
   "word": "intimidated",
   "phonetic": "ɪnˈtɪmɪdeɪtɪd",
-  "translation": "v. 恐吓; 威胁\\na. 害怕的; 受到威胁的",
+  "translation": "v. 恐吓; 威胁\na. 害怕的; 受到威胁的",
   "definition": "s. made timid or fearful as by threats"
  },
  {
   "word": "keep",
   "phonetic": "ki:p",
-  "translation": "n. 生计, 维持, 保持\\nvt. 保持, 保存, 遵守, 看守, 整理, 维持, 履行, 经营, 拘留, 记帐\\nvi. 保持, 继续不断",
-  "definition": "n. the main tower within the walls of a medieval castle or fortress\\nv. keep in a certain state, position, or activity; e.g., \"keep clean\"\\nv. retain possession of\\nv. look after; be the keeper of; have charge of"
+  "translation": "n. 生计, 维持, 保持\nvt. 保持, 保存, 遵守, 看守, 整理, 维持, 履行, 经营, 拘留, 记帐\nvi. 保持, 继续不断",
+  "definition": "n. the main tower within the walls of a medieval castle or fortress\nv. keep in a certain state, position, or activity; e.g., \"keep clean\"\nv. retain possession of\nv. look after; be the keeper of; have charge of"
  },
  {
   "word": "landscape",
   "phonetic": "'lændskeip",
-  "translation": "n. 风景, 山水, 风景画\\nvi. 从事景观美化\\nvt. 美化...景观\\n[计] 横向",
-  "definition": "n. an expanse of scenery that can be seen in a single view\\nn. painting depicting an expanse of natural scenery\\nn. a genre of art dealing with the depiction of natural scenery\\nn. an extensive mental viewpoint"
+  "translation": "n. 风景, 山水, 风景画\nvi. 从事景观美化\nvt. 美化...景观\n[计] 横向",
+  "definition": "n. an expanse of scenery that can be seen in a single view\nn. painting depicting an expanse of natural scenery\nn. a genre of art dealing with the depiction of natural scenery\nn. an extensive mental viewpoint"
  },
  {
   "word": "least",
   "phonetic": "li:st",
-  "translation": "n. 最少, 最小, 最小限度\\na. 最少的, 最小的\\nadv. 最小, 最少",
-  "definition": "n. something that is of no importance\\na. the superlative of `little' that can be used with mass nouns and is usually preceded by `the'; a quantifier meaning smallest in amount or extent or degree\\nr. used to form the superlative"
+  "translation": "n. 最少, 最小, 最小限度\na. 最少的, 最小的\nadv. 最小, 最少",
+  "definition": "n. something that is of no importance\na. the superlative of `little' that can be used with mass nouns and is usually preceded by `the'; a quantifier meaning smallest in amount or extent or degree\nr. used to form the superlative"
  },
  {
   "word": "legs",
@@ -710,62 +710,62 @@
  {
   "word": "less",
   "phonetic": "les",
-  "translation": "n. 较少, 较小\\na. 少的, 小的\\nadv. 较少, 较小, 较差\\n[计] 最低成本估算与调度法",
-  "definition": "a. (comparative of `little' usually used with mass nouns) a quantifier meaning not as great in amount or degree\\ns. (usually preceded by `no') lower in quality\\ns. (nonstandard in some uses but often idiomatic with measure phrases) fewer\\nr. used to form the comparative of some adjectives and adverbs"
+  "translation": "n. 较少, 较小\na. 少的, 小的\nadv. 较少, 较小, 较差\n[计] 最低成本估算与调度法",
+  "definition": "a. (comparative of `little' usually used with mass nouns) a quantifier meaning not as great in amount or degree\ns. (usually preceded by `no') lower in quality\ns. (nonstandard in some uses but often idiomatic with measure phrases) fewer\nr. used to form the comparative of some adjectives and adverbs"
  },
  {
   "word": "lesson",
   "phonetic": "'lesn",
   "translation": "n. 课, 课业, 教训",
-  "definition": "n. a unit of instruction\\nn. a task assigned for individual study"
+  "definition": "n. a unit of instruction\nn. a task assigned for individual study"
  },
  {
   "word": "light",
   "phonetic": "lait",
-  "translation": "n. 光, 光亮, 灯, 日光, 发光体, 光源, 杰出人物, 火花, 眼光\\na. 轻的, 少量的, 轻微的, 轻快的, 轻浮的, 明亮的, 淡色的, 容易的\\nvt. 点燃, 照亮\\nvi. 点着, 变亮, 突降, 偶然碰到\\nadv. 轻地",
-  "definition": "n. (physics) electromagnetic radiation that can produce a visual sensation\\nn. any device serving as a source of illumination\\nn. a particular perspective or aspect of a situation\\nn. an illuminated area"
+  "translation": "n. 光, 光亮, 灯, 日光, 发光体, 光源, 杰出人物, 火花, 眼光\na. 轻的, 少量的, 轻微的, 轻快的, 轻浮的, 明亮的, 淡色的, 容易的\nvt. 点燃, 照亮\nvi. 点着, 变亮, 突降, 偶然碰到\nadv. 轻地",
+  "definition": "n. (physics) electromagnetic radiation that can produce a visual sensation\nn. any device serving as a source of illumination\nn. a particular perspective or aspect of a situation\nn. an illuminated area"
  },
  {
   "word": "likely",
   "phonetic": "'laikli",
-  "translation": "a. 有可能的, 合适的, 前途有望的\\nadv. 或许, 可能",
-  "definition": "a. has a good chance of being the case or of coming about\\ns. expected to become or be; in prospect\\ns. within the realm of credibility"
+  "translation": "a. 有可能的, 合适的, 前途有望的\nadv. 或许, 可能",
+  "definition": "a. has a good chance of being the case or of coming about\ns. expected to become or be; in prospect\ns. within the realm of credibility"
  },
  {
   "word": "lucky",
   "phonetic": "'lʌki",
   "translation": "a. 幸运的, 吉祥的, 好运的, 侥幸的",
-  "definition": "s. occurring by chance\\na. having or bringing good fortune"
+  "definition": "s. occurring by chance\na. having or bringing good fortune"
  },
  {
   "word": "lull",
   "phonetic": "lʌl",
-  "translation": "n. 暂停, 间歇, 稍息, 使人安静的东西\\nvt. 使平静, 哄骗, 使安静\\nvi. 变平静",
-  "definition": "n. a period of calm weather\\nv. calm by deception\\nv. become quiet or less intensive"
+  "translation": "n. 暂停, 间歇, 稍息, 使人安静的东西\nvt. 使平静, 哄骗, 使安静\nvi. 变平静",
+  "definition": "n. a period of calm weather\nv. calm by deception\nv. become quiet or less intensive"
  },
  {
   "word": "manage",
   "phonetic": "'mænidʒ",
-  "translation": "vi. 处理\\nvt. 管理, 控制, 维持, 达成, 经营, 运用",
+  "translation": "vi. 处理\nvt. 管理, 控制, 维持, 达成, 经营, 运用",
   "definition": "v. be in charge of, act on, or dispose of"
  },
  {
   "word": "match",
   "phonetic": "mætʃ",
-  "translation": "n. 比赛, 火柴, 对手\\nvt. 使相配, 使比赛, 与...竞争\\nvi. 结婚, 相配\\n[计] 比较",
-  "definition": "n. lighter consisting of a thin piece of wood or cardboard tipped with combustible chemical; ignites with friction\\nn. a formal contest in which two or more persons or teams compete\\nn. a burning piece of wood or cardboard\\nn. an exact duplicate"
+  "translation": "n. 比赛, 火柴, 对手\nvt. 使相配, 使比赛, 与...竞争\nvi. 结婚, 相配\n[计] 比较",
+  "definition": "n. lighter consisting of a thin piece of wood or cardboard tipped with combustible chemical; ignites with friction\nn. a formal contest in which two or more persons or teams compete\nn. a burning piece of wood or cardboard\nn. an exact duplicate"
  },
  {
   "word": "meet",
   "phonetic": "mi:t",
-  "translation": "n. 会, 集会\\na. 适宜的, 合适的\\nvt. 遇见, 引见, 认识, 满足, 对付\\nvi. 相遇, 接触",
-  "definition": "n. a meeting at which a number of athletic contests are held\\nv. come together\\nv. get together socially or for a specific purpose\\nv. fill or meet a want or need"
+  "translation": "n. 会, 集会\na. 适宜的, 合适的\nvt. 遇见, 引见, 认识, 满足, 对付\nvi. 相遇, 接触",
+  "definition": "n. a meeting at which a number of athletic contests are held\nv. come together\nv. get together socially or for a specific purpose\nv. fill or meet a want or need"
  },
  {
   "word": "monotonous",
   "phonetic": "mә'nɒtәnәs",
   "translation": "a. 单调的, 无变化的",
-  "definition": "s tediously repetitious or lacking in variety; all work and no play\"\\ns sounded or spoken in a tone unvarying in pitch"
+  "definition": "s tediously repetitious or lacking in variety; all work and no play\"\ns sounded or spoken in a tone unvarying in pitch"
  },
  {
   "word": "motorways",
@@ -777,37 +777,37 @@
   "word": "mountains",
   "phonetic": "",
   "translation": "n. 山脉；山区；山岳（mountain的复数）",
-  "definition": "n a land mass that projects well above its surroundings; higher than a hill\\nn (often followed by `of') a large number or amount or extent"
+  "definition": "n a land mass that projects well above its surroundings; higher than a hill\nn (often followed by `of') a large number or amount or extent"
  },
  {
   "word": "much",
   "phonetic": "mʌtʃ",
-  "translation": "n. 大量, 许多, 重要的事\\na. 很多的, 重要的\\nadv. 多, 甚, 几乎",
-  "definition": "n. a great amount or extent\\na. (quantifier used with mass nouns) great in quantity or degree or extent\\nr. to a great degree or extent\\nr. very"
+  "translation": "n. 大量, 许多, 重要的事\na. 很多的, 重要的\nadv. 多, 甚, 几乎",
+  "definition": "n. a great amount or extent\na. (quantifier used with mass nouns) great in quantity or degree or extent\nr. to a great degree or extent\nr. very"
  },
  {
   "word": "next",
   "phonetic": "'nekst",
-  "translation": "n. 下一个\\na. 下一个的, 其次的, 贴近的\\nadv. 然后, 下次, 次于\\n[计] 近邻干扰",
+  "translation": "n. 下一个\na. 下一个的, 其次的, 贴近的\nadv. 然后, 下次, 次于\n[计] 近邻干扰",
   "definition": "r. at the time or occasion immediately following"
  },
  {
   "word": "occupied",
   "phonetic": "",
   "translation": "a. 已占用的；使用中的；无空闲的",
-  "definition": "a. held or filled or in use\\na. seized and controlled as by military invasion\\ns. resided in; having tenants"
+  "definition": "a. held or filled or in use\na. seized and controlled as by military invasion\ns. resided in; having tenants"
  },
  {
   "word": "offer",
   "phonetic": "'ɒfә",
-  "translation": "n. 给予(物), 出价, 提议, 意图, 报价\\nvt. 提供, 出价, 奉献, 试图, 使出现, 演出\\nvi. 出现, 献祭, 提议, 求婚",
-  "definition": "n. the verbal act of offering\\nn. something offered (as a proposal or bid)\\nv. make available or accessible, provide or furnish\\nv. present for acceptance or rejection"
+  "translation": "n. 给予(物), 出价, 提议, 意图, 报价\nvt. 提供, 出价, 奉献, 试图, 使出现, 演出\nvi. 出现, 献祭, 提议, 求婚",
+  "definition": "n. the verbal act of offering\nn. something offered (as a proposal or bid)\nv. make available or accessible, provide or furnish\nv. present for acceptance or rejection"
  },
  {
   "word": "offers",
   "phonetic": "",
   "translation": "n. 提议；出价；求婚；试图（offer的复数）",
-  "definition": "n the verbal act of offering\\nn something offered (as a proposal or bid)\\nn a usually brief attempt\\nv make available or accessible, provide or furnish\\nv present for acceptance or rejection\\nv agree freely\\nv put forward for consideration\\nv offer verbally\\nv make available for sale\\nv propose a payment\\nv produce or introduce on the stage\\nv present as an act of worship\\nv mount or put up\\nv make available; provide\\nv ask (someone) to marry you\\nv threaten to do something"
+  "definition": "n the verbal act of offering\nn something offered (as a proposal or bid)\nn a usually brief attempt\nv make available or accessible, provide or furnish\nv present for acceptance or rejection\nv agree freely\nv put forward for consideration\nv offer verbally\nv make available for sale\nv propose a payment\nv produce or introduce on the stage\nv present as an act of worship\nv mount or put up\nv make available; provide\nv ask (someone) to marry you\nv threaten to do something"
  },
  {
   "word": "often",
@@ -818,80 +818,80 @@
  {
   "word": "one",
   "phonetic": "wʌn",
-  "translation": "n. 一(个)\\npron. 一, 任何人\\nnum. 一, 一个\\na. 一致的, 完整的",
-  "definition": "n. the smallest whole number or a numeral representing this number\\nn. a single person or thing\\ns. used of a single unit or thing; not two or more\\ns. having the indivisible character of a unit"
+  "translation": "n. 一(个)\npron. 一, 任何人\nnum. 一, 一个\na. 一致的, 完整的",
+  "definition": "n. the smallest whole number or a numeral representing this number\nn. a single person or thing\ns. used of a single unit or thing; not two or more\ns. having the indivisible character of a unit"
  },
  {
   "word": "part",
   "phonetic": "pɑ:t",
-  "translation": "n. 部分, 局部, 零件, 要素, 等分, 职责, 角色, 部位\\nvt. 分开, 分离, 断绝, 区别, 分配\\nvi. 分开, 断裂, 分手\\na. 部分的, 局部的\\nadv. 部分地, 有些",
-  "definition": "n. something determined in relation to something that includes it\\nn. something less than the whole of a human artifact\\nn. a portion of a natural object\\nn. that which concerns a person with regard to a particular role or situation"
+  "translation": "n. 部分, 局部, 零件, 要素, 等分, 职责, 角色, 部位\nvt. 分开, 分离, 断绝, 区别, 分配\nvi. 分开, 断裂, 分手\na. 部分的, 局部的\nadv. 部分地, 有些",
+  "definition": "n. something determined in relation to something that includes it\nn. something less than the whole of a human artifact\nn. a portion of a natural object\nn. that which concerns a person with regard to a particular role or situation"
  },
  {
   "word": "partial",
   "phonetic": "'pɑ:ʃәl",
-  "translation": "a. 部分的, 偏袒的, 偏爱的\\nn. 分音",
-  "definition": "s. being or affecting only a part; not total\\na. showing favoritism"
+  "translation": "a. 部分的, 偏袒的, 偏爱的\nn. 分音",
+  "definition": "s. being or affecting only a part; not total\na. showing favoritism"
  },
  {
   "word": "plains",
   "phonetic": "pleinz",
   "translation": "n. 平地, 平原（plain的复数）",
-  "definition": "n extensive tract of level open land\\nn a basic knitting stitch\\nv express complaints, discontent, displeasure, or unhappiness"
+  "definition": "n extensive tract of level open land\nn a basic knitting stitch\nv express complaints, discontent, displeasure, or unhappiness"
  },
  {
   "word": "play",
   "phonetic": "plei",
-  "translation": "n. 游戏, 游玩, 玩笑, 运动, 比赛, 赌博, 跳动, 表演, 剧本\\nv. 玩, 游戏, 假装, 开玩笑, 比赛, 扮演, 演奏, 演戏, 传摇曳, (使)跳动\\n[计] 播放",
-  "definition": "n. a dramatic work intended for performance by actors on a stage\\nn. a theatrical performance of a drama\\nn. a preset plan of action in team sports\\nn. a state in which action is feasible"
+  "translation": "n. 游戏, 游玩, 玩笑, 运动, 比赛, 赌博, 跳动, 表演, 剧本\nv. 玩, 游戏, 假装, 开玩笑, 比赛, 扮演, 演奏, 演戏, 传摇曳, (使)跳动\n[计] 播放",
+  "definition": "n. a dramatic work intended for performance by actors on a stage\nn. a theatrical performance of a drama\nn. a preset plan of action in team sports\nn. a state in which action is feasible"
  },
  {
   "word": "pleasant",
   "phonetic": "'pleznt",
   "translation": "a. 愉快的, 可爱的, 活泼的, 亲切的",
-  "definition": "a. affording pleasure; being in harmony with your taste or likings\\ns. (of persons) having pleasing manners or behavior"
+  "definition": "a. affording pleasure; being in harmony with your taste or likings\ns. (of persons) having pleasing manners or behavior"
  },
  {
   "word": "pleasure",
   "phonetic": "'pleʒә",
-  "translation": "n. 快乐, 愉快, 令人高兴的事, 娱乐, 希望\\nv. (使)高兴",
-  "definition": "n. a fundamental feeling that is hard to define but that people desire to experience\\nn. a formal expression\\nn. an activity that affords enjoyment\\nn. sexual gratification"
+  "translation": "n. 快乐, 愉快, 令人高兴的事, 娱乐, 希望\nv. (使)高兴",
+  "definition": "n. a fundamental feeling that is hard to define but that people desire to experience\nn. a formal expression\nn. an activity that affords enjoyment\nn. sexual gratification"
  },
  {
   "word": "plenty",
   "phonetic": "'plenti",
-  "translation": "n. 充分, 很多, 丰富\\na. 很多的, 足够的, 丰富的",
+  "translation": "n. 充分, 很多, 丰富\na. 很多的, 足够的, 丰富的",
   "definition": "n. a full supply"
  },
  {
   "word": "positively",
   "phonetic": "",
   "translation": "adv. 明确地, 肯定地, 无疑地, (非正式)确实地, 真正地",
-  "definition": "r. extremely\\nr. so as to be positive; in a positive manner"
+  "definition": "r. extremely\nr. so as to be positive; in a positive manner"
  },
  {
   "word": "prepared",
   "phonetic": "pri'pєәd",
   "translation": "a. 准备好的, 特制的",
-  "definition": "a. made ready or fit or suitable beforehand\\ns. equipped or prepared with necessary intellectual resources"
+  "definition": "a. made ready or fit or suitable beforehand\ns. equipped or prepared with necessary intellectual resources"
  },
  {
   "word": "prevent",
   "phonetic": "pri'vent",
   "translation": "v. 预防, 防止, 阻止, 妨碍",
-  "definition": "v. keep from happening or arising; make impossible\\nv. stop (someone or something) from doing something or being in a certain state"
+  "definition": "v. keep from happening or arising; make impossible\nv. stop (someone or something) from doing something or being in a certain state"
  },
  {
   "word": "quite",
   "phonetic": "kwait",
   "translation": "adv. 相当, 完全, 十分",
-  "definition": "r. to a degree (not used with a negative)\\nr. to the greatest extent; completely\\nr. of an unusually noticeable or exceptional or remarkable kind (not used with a negative)\\nr. actually or truly or to an extreme"
+  "definition": "r. to a degree (not used with a negative)\nr. to the greatest extent; completely\nr. of an unusually noticeable or exceptional or remarkable kind (not used with a negative)\nr. actually or truly or to an extreme"
  },
  {
   "word": "rails",
   "phonetic": "",
   "translation": "铁路股票",
-  "definition": "n a bar or pair of parallel bars of rolled steel making the railway along which railroad cars or other vehicles can roll\\nn a barrier consisting of a horizontal bar and supports\\nn short for railway\\nn a bar or pair of parallel bars of rolled steel making the railway along which railroad cars or other vehicles can roll\\nn a horizontal bar (usually of wood or metal)\\nn any of numerous widely distributed small wading birds of the family Rallidae having short wings and very long toes for running on soft mud\\nv complain bitterly\\nv enclose with rails\\nv provide with rails\\nv separate with a railing\\nv convey (goods etc.) by rails\\nv travel by rail or train\\nv lay with rails\\nv fish with a handline over the rails of a boat\\nv spread negative information about\\nv criticize severely"
+  "definition": "n a bar or pair of parallel bars of rolled steel making the railway along which railroad cars or other vehicles can roll\nn a barrier consisting of a horizontal bar and supports\nn short for railway\nn a bar or pair of parallel bars of rolled steel making the railway along which railroad cars or other vehicles can roll\nn a horizontal bar (usually of wood or metal)\nn any of numerous widely distributed small wading birds of the family Rallidae having short wings and very long toes for running on soft mud\nv complain bitterly\nv enclose with rails\nv provide with rails\nv separate with a railing\nv convey (goods etc.) by rails\nv travel by rail or train\nv lay with rails\nv fish with a handline over the rails of a boat\nv spread negative information about\nv criticize severely"
  },
  {
   "word": "rapidly",
@@ -908,44 +908,44 @@
  {
   "word": "read",
   "phonetic": "ri:d",
-  "translation": "v. 读, 阅读, 理解\\na. 有学问的\\nn. 读取, 阅读\\n[计] 读取",
-  "definition": "n. something that is read\\nv. interpret something that is written or printed\\nv. have or contain a certain wording or form\\nv. look at, interpret, and say out loud something that is written or printed"
+  "translation": "v. 读, 阅读, 理解\na. 有学问的\nn. 读取, 阅读\n[计] 读取",
+  "definition": "n. something that is read\nv. interpret something that is written or printed\nv. have or contain a certain wording or form\nv. look at, interpret, and say out loud something that is written or printed"
  },
  {
   "word": "real",
   "phonetic": "'riәl",
-  "translation": "a. 真的, 真实的, 实际的, 实在的, 不动(产)的, 实数的\\nn. 实数, 现实\\nadv. 真正地",
-  "definition": "n. the basic unit of money in Brazil; equal to 100 centavos\\nn. an old small silver Spanish coin\\na. being or occurring in fact or actuality; having verified existence; not illusory; not ghosts\"\\na. no less than what is stated; worthy of the name"
+  "translation": "a. 真的, 真实的, 实际的, 实在的, 不动(产)的, 实数的\nn. 实数, 现实\nadv. 真正地",
+  "definition": "n. the basic unit of money in Brazil; equal to 100 centavos\nn. an old small silver Spanish coin\na. being or occurring in fact or actuality; having verified existence; not illusory; not ghosts\"\na. no less than what is stated; worthy of the name"
  },
  {
   "word": "recovering",
   "phonetic": "",
   "translation": "n. 恢复；补偿；再生",
-  "definition": "v get or find back; recover the use of\\nv get over an illness or shock\\nv regain a former condition after a financial loss\\nv regain or make up for\\nv reuse (materials from waste products)\\nv cover anew\\ns returning to health after illness or debility"
+  "definition": "v get or find back; recover the use of\nv get over an illness or shock\nv regain a former condition after a financial loss\nv regain or make up for\nv reuse (materials from waste products)\nv cover anew\ns returning to health after illness or debility"
  },
  {
   "word": "refinements",
   "phonetic": "rɪ'faɪnmənts",
   "translation": "n. （生活）风雅; 精炼( refinement的复数形式 ); 改良品; 细微的改良; 优雅或高贵的动作",
-  "definition": "n. a highly developed state of perfection; having a flawless or impeccable quality\\nn. the result of improving something\\nn. the process of removing impurities (as from oil or metals or sugar etc.)"
+  "definition": "n. a highly developed state of perfection; having a flawless or impeccable quality\nn. the result of improving something\nn. the process of removing impurities (as from oil or metals or sugar etc.)"
  },
  {
   "word": "relatively",
   "phonetic": "'relәtivli",
-  "translation": "adv. 相对地, 比较地, 相当地, 相关地\\n[计] 相对地",
+  "translation": "adv. 相对地, 比较地, 相当地, 相关地\n[计] 相对地",
   "definition": "r. in a relative manner; by comparison to something else"
  },
  {
   "word": "reputation",
   "phonetic": ".repju'teiʃәn",
-  "translation": "n. 名誉, 名声, 声望\\n[法] 名声, 名誉, 公认证据",
-  "definition": "n. notoriety for some particular characteristic\\nn. the general estimation that the public has for a person"
+  "translation": "n. 名誉, 名声, 声望\n[法] 名声, 名誉, 公认证据",
+  "definition": "n. notoriety for some particular characteristic\nn. the general estimation that the public has for a person"
  },
  {
   "word": "rhythm",
   "phonetic": "'riðәm",
-  "translation": "n. 旋律, 节奏, 韵律, 匀称, 张弛节律\\n[医] 节律",
-  "definition": "n. the basic rhythmic unit in a piece of music\\nn. recurring at regular intervals\\nn. the arrangement of spoken words alternating stressed and unstressed elements"
+  "translation": "n. 旋律, 节奏, 韵律, 匀称, 张弛节律\n[医] 节律",
+  "definition": "n. the basic rhythmic unit in a piece of music\nn. recurring at regular intervals\nn. the arrangement of spoken words alternating stressed and unstressed elements"
  },
  {
   "word": "roads",
@@ -956,8 +956,8 @@
  {
   "word": "sacrifice",
   "phonetic": "'sækrifais",
-  "translation": "n. 牺牲, 供奉, 祭品\\nvt. 牺牲, 祭祀, 贱卖\\nvi. 献祭",
-  "definition": "n. personnel that are sacrificed (e.g., surrendered or lost in order to gain an objective)\\nn. a loss entailed by giving up or selling something at less than its value\\nn. the act of killing (an animal or person) in order to propitiate a deity\\nn. (baseball) an out that advances the base runners"
+  "translation": "n. 牺牲, 供奉, 祭品\nvt. 牺牲, 祭祀, 贱卖\nvi. 献祭",
+  "definition": "n. personnel that are sacrificed (e.g., surrendered or lost in order to gain an objective)\nn. a loss entailed by giving up or selling something at less than its value\nn. the act of killing (an animal or person) in order to propitiate a deity\nn. (baseball) an out that advances the base runners"
  },
  {
   "word": "safely",
@@ -974,14 +974,14 @@
  {
   "word": "see",
   "phonetic": "si:",
-  "translation": "vt. 看见, 查看, 参观, 游览, 理解, 知道, 同意\\nvi. 看, 观看, 注意, 知道, 考虑\\nn. 主教的职位",
-  "definition": "n. the seat within a bishop's diocese where his cathedral is located\\nv. perceive by sight or have the power to perceive by sight\\nv. deem to be\\nv. be careful or certain to do something; make certain of something"
+  "translation": "vt. 看见, 查看, 参观, 游览, 理解, 知道, 同意\nvi. 看, 观看, 注意, 知道, 考虑\nn. 主教的职位",
+  "definition": "n. the seat within a bishop's diocese where his cathedral is located\nv. perceive by sight or have the power to perceive by sight\nv. deem to be\nv. be careful or certain to do something; make certain of something"
  },
  {
   "word": "service",
   "phonetic": "'sә:vis",
-  "translation": "n. 服务, 贡献, 雇佣, 公职, 服役, 功劳, 仪式, 送达, 行政部门\\nvt. 保养, 维修\\na. 武装部队的, 服务性的, 仆人的, 耐用的\\n[计] 服务, 业务",
-  "definition": "n. work done by one person or group that benefits another\\nn. an act of help or assistance\\nn. the act of public worship following prescribed rules\\nn. a company or agency that performs a public service; subject to government regulation"
+  "translation": "n. 服务, 贡献, 雇佣, 公职, 服役, 功劳, 仪式, 送达, 行政部门\nvt. 保养, 维修\na. 武装部队的, 服务性的, 仆人的, 耐用的\n[计] 服务, 业务",
+  "definition": "n. work done by one person or group that benefits another\nn. an act of help or assistance\nn. the act of public worship following prescribed rules\nn. a company or agency that performs a public service; subject to government regulation"
  },
  {
   "word": "services",
@@ -992,110 +992,110 @@
  {
   "word": "settle",
   "phonetic": "'setl",
-  "translation": "n. 有背长椅\\nvt. 决定, 整理, 安放, 使定居, 使平静, 支付, 安排, 解决, 结算\\nvi. 停留, 下陷, 沉淀, 澄清, 安下心来, 结清, 定居, 安家",
-  "definition": "n. a long wooden bench with a back\\nv. settle into a position, usually on a surface or ground\\nv. settle conclusively; come to terms\\nv. take up residence and become established"
+  "translation": "n. 有背长椅\nvt. 决定, 整理, 安放, 使定居, 使平静, 支付, 安排, 解决, 结算\nvi. 停留, 下陷, 沉淀, 澄清, 安下心来, 结清, 定居, 安家",
+  "definition": "n. a long wooden bench with a back\nv. settle into a position, usually on a surface or ground\nv. settle conclusively; come to terms\nv. take up residence and become established"
  },
  {
   "word": "shape",
   "phonetic": "ʃeip",
-  "translation": "n. 形状, 形态, 外形, 形式, 身材\\nvt. 定形, 使成形, 塑造, 计划, 使符合\\nvi. 成形, 形成, 成长\\n[计] 形状",
-  "definition": "n. any spatial attributes (especially as defined by outline)\\nn. the spatial arrangement of something as distinct from its substance\\nn. a concrete representation of an otherwise nebulous concept\\nv. make something, usually for a specific function"
+  "translation": "n. 形状, 形态, 外形, 形式, 身材\nvt. 定形, 使成形, 塑造, 计划, 使符合\nvi. 成形, 形成, 成长\n[计] 形状",
+  "definition": "n. any spatial attributes (especially as defined by outline)\nn. the spatial arrangement of something as distinct from its substance\nn. a concrete representation of an otherwise nebulous concept\nv. make something, usually for a specific function"
  },
  {
   "word": "shines",
   "phonetic": "",
   "translation": "v. 发光；使亮（shine的第三人称单数）",
-  "definition": "n the quality of being bright and sending out rays of light\\nv be bright by reflecting or casting light\\nv emit light; be bright, as of the sun or a light\\nv be shiny, as if wet\\nv be distinguished or eminent\\nv be clear and obvious\\nv have a complexion with a strong bright color, such as red or pink\\nv throw or flash the light of (a lamp)\\nv touch or seem as if touching visually or audibly\\nv experience a feeling of well-being or happiness, as from good health or an intense emotion\\nv make (a surface) shine\\nv climb awkwardly, as if by scrambling"
+  "definition": "n the quality of being bright and sending out rays of light\nv be bright by reflecting or casting light\nv emit light; be bright, as of the sun or a light\nv be shiny, as if wet\nv be distinguished or eminent\nv be clear and obvious\nv have a complexion with a strong bright color, such as red or pink\nv throw or flash the light of (a lamp)\nv touch or seem as if touching visually or audibly\nv experience a feeling of well-being or happiness, as from good health or an intense emotion\nv make (a surface) shine\nv climb awkwardly, as if by scrambling"
  },
  {
   "word": "sight",
   "phonetic": "sait",
-  "translation": "n. 景观, 视力, 眼界, 阅读, 见解, 意见\\nvt. 看见, 瞄准\\nvi. 瞄准, 观看\\na. 即席的, 见票即付的",
-  "definition": "n. an instance of visual perception\\nn. anything that is seen\\nn. the ability to see; the visual faculty\\nn. a range of mental vision"
+  "translation": "n. 景观, 视力, 眼界, 阅读, 见解, 意见\nvt. 看见, 瞄准\nvi. 瞄准, 观看\na. 即席的, 见票即付的",
+  "definition": "n. an instance of visual perception\nn. anything that is seen\nn. the ability to see; the visual faculty\nn. a range of mental vision"
  },
  {
   "word": "sip",
   "phonetic": "sip",
-  "translation": "n. 啜饮, 小口喝, 抿\\nvi. 啜饮\\nvt. 啜\\n[计] 单列直插式组件",
-  "definition": "n. a small drink\\nv. drink in sips"
+  "translation": "n. 啜饮, 小口喝, 抿\nvi. 啜饮\nvt. 啜\n[计] 单列直插式组件",
+  "definition": "n. a small drink\nv. drink in sips"
  },
  {
   "word": "sitting",
   "phonetic": "'sitiŋ",
-  "translation": "n. 入席, 就坐, 开庭, 孵卵\\na. 坐着的, 就座的, 在职的, 在孵卵中的, 易被击中的",
-  "definition": "n. (photography) the act of assuming a certain position (as for a photograph or portrait)\\nn. the act of assuming or maintaining a seated position\\nn. a session as of a legislature or court"
+  "translation": "n. 入席, 就坐, 开庭, 孵卵\na. 坐着的, 就座的, 在职的, 在孵卵中的, 易被击中的",
+  "definition": "n. (photography) the act of assuming a certain position (as for a photograph or portrait)\nn. the act of assuming or maintaining a seated position\nn. a session as of a legislature or court"
  },
  {
   "word": "sky",
   "phonetic": "skai",
-  "translation": "n. 天空, 天色, 天堂\\nvt. 击向空中, 挂在高处\\nvi. 高涨",
+  "translation": "n. 天空, 天色, 天堂\nvt. 击向空中, 挂在高处\nvi. 高涨",
   "definition": "n. the atmosphere and outer space as viewed from the earth"
  },
  {
   "word": "sleeper",
   "phonetic": "'sli:pә",
-  "translation": "n. 睡眠者, 枕木, 卧铺\\n[法] 睡眠者, 懒人, 死人",
-  "definition": "n. a rester who is sleeping\\nn. a spy or saboteur or terrorist planted in an enemy country who lives there as a law-abiding citizen until activated by a prearranged signal\\nn. an unexpected achiever of success\\nn. pajamas with feet; worn by children"
+  "translation": "n. 睡眠者, 枕木, 卧铺\n[法] 睡眠者, 懒人, 死人",
+  "definition": "n. a rester who is sleeping\nn. a spy or saboteur or terrorist planted in an enemy country who lives there as a law-abiding citizen until activated by a prearranged signal\nn. an unexpected achiever of success\nn. pajamas with feet; worn by children"
  },
  {
   "word": "sleeping",
   "phonetic": "'sli:piŋ",
-  "translation": "n. 睡眠\\na. 睡着的",
-  "definition": "n. the state of being asleep\\nn. the suspension of consciousness and decrease in metabolic rate"
+  "translation": "n. 睡眠\na. 睡着的",
+  "definition": "n. the state of being asleep\nn. the suspension of consciousness and decrease in metabolic rate"
  },
  {
   "word": "small",
   "phonetic": "smɒ:l",
-  "translation": "a. 小的, 少的, 小型的, 低微的, 小气的, 细微的\\nadv. 些微地\\nn. 狭小部分",
-  "definition": "n. the slender part of the back\\nn. a garment size for a small person\\na. limited or below average in number or quantity or magnitude or extent\\ns. slight or limited; especially in degree or intensity or scope"
+  "translation": "a. 小的, 少的, 小型的, 低微的, 小气的, 细微的\nadv. 些微地\nn. 狭小部分",
+  "definition": "n. the slender part of the back\nn. a garment size for a small person\na. limited or below average in number or quantity or magnitude or extent\ns. slight or limited; especially in degree or intensity or scope"
  },
  {
   "word": "smooth",
   "phonetic": "smu:ð",
-  "translation": "a. 平滑的, 平稳的, 流畅的, 和蔼的, 安祥的, 圆滑的, 调匀的, 无毛的\\nvt. 使光滑, 烫平, 使平和, 消除\\nvi. 变平滑, 变平静\\nn. 一块平地, 平滑部分",
-  "definition": "n. the act of smoothing\\nv. make smooth or smoother, as if by rubbing\\nv. free from obstructions\\na. having a surface free from roughness or bumps or ridges or irregularities"
+  "translation": "a. 平滑的, 平稳的, 流畅的, 和蔼的, 安祥的, 圆滑的, 调匀的, 无毛的\nvt. 使光滑, 烫平, 使平和, 消除\nvi. 变平滑, 变平静\nn. 一块平地, 平滑部分",
+  "definition": "n. the act of smoothing\nv. make smooth or smoother, as if by rubbing\nv. free from obstructions\na. having a surface free from roughness or bumps or ridges or irregularities"
  },
  {
   "word": "snatches",
   "phonetic": "",
   "translation": "n. 一阵",
-  "definition": "n a small fragment\\nn obscene terms for female genitals\\nn (law) the unlawful act of capturing and carrying away a person against their will and holding them in false imprisonment\\nn a weightlift in which the barbell is lifted overhead in one rapid motion\\nn the act of catching an object with the hands\\nv to grasp hastily or eagerly\\nv to make grasping motions\\nv take away to an undisclosed location against their will and usually in order to extract a ransom"
+  "definition": "n a small fragment\nn obscene terms for female genitals\nn (law) the unlawful act of capturing and carrying away a person against their will and holding them in false imprisonment\nn a weightlift in which the barbell is lifted overhead in one rapid motion\nn the act of catching an object with the hands\nv to grasp hastily or eagerly\nv to make grasping motions\nv take away to an undisclosed location against their will and usually in order to extract a ransom"
  },
  {
   "word": "soar",
   "phonetic": "sɒ:",
-  "translation": "n. 高扬, 翱翔\\nvi. 往上飞舞, 高耸, 翱翔",
-  "definition": "n. the act of rising upward into the air\\nv. rise rapidly\\nv. fly upwards or high in the sky\\nv. go or move upward"
+  "translation": "n. 高扬, 翱翔\nvi. 往上飞舞, 高耸, 翱翔",
+  "definition": "n. the act of rising upward into the air\nv. rise rapidly\nv. fly upwards or high in the sky\nv. go or move upward"
  },
  {
   "word": "solution",
   "phonetic": "sә'lu:ʃәn",
-  "translation": "n. 解决, 解答, 溶液\\n[化] 溶液",
-  "definition": "n. a homogeneous mixture of two or more substances; frequently (but not necessarily) a liquid solution\\nn. a statement that solves a problem or explains how to solve the problem\\nn. a method for solving a problem\\nn. the set of values that give a true statement when substituted into an equation"
+  "translation": "n. 解决, 解答, 溶液\n[化] 溶液",
+  "definition": "n. a homogeneous mixture of two or more substances; frequently (but not necessarily) a liquid solution\nn. a statement that solves a problem or explains how to solve the problem\nn. a method for solving a problem\nn. the set of values that give a true statement when substituted into an equation"
  },
  {
   "word": "spacious",
   "phonetic": "'speiʃәs",
   "translation": "a. 广大的, 宽广的",
-  "definition": "s very large in expanse or scope\\ns (of buildings and rooms) having ample space"
+  "definition": "s very large in expanse or scope\ns (of buildings and rooms) having ample space"
  },
  {
   "word": "speeds",
   "phonetic": "spi:dz",
-  "translation": "n. 速度( speed的名词复数 ); 快速; 快门速度; 感光度\\nv. 急行, 加速( speed的第三人称单数 ); 超速行驶; 快速运送; 加速, 促进",
-  "definition": "n distance travelled per unit time\\nn a rate (usually rapid) at which something happens\\nn changing location rapidly\\nn the ratio of the focal length to the diameter of a (camera) lens system\\nn a central nervous system stimulant that increases energy and decreases appetite; used to treat narcolepsy and some forms of depression\\nv move fast\\nv move faster\\nv move very fast\\nv travel at an excessive or illegal velocity\\nv cause to move faster"
+  "translation": "n. 速度( speed的名词复数 ); 快速; 快门速度; 感光度\nv. 急行, 加速( speed的第三人称单数 ); 超速行驶; 快速运送; 加速, 促进",
+  "definition": "n distance travelled per unit time\nn a rate (usually rapid) at which something happens\nn changing location rapidly\nn the ratio of the focal length to the diameter of a (camera) lens system\nn a central nervous system stimulant that increases energy and decreases appetite; used to treat narcolepsy and some forms of depression\nv move fast\nv move faster\nv move very fast\nv travel at an excessive or illegal velocity\nv cause to move faster"
  },
  {
   "word": "spent",
   "phonetic": "spent",
-  "translation": "a. 用尽的, 精疲力竭的\\nspend的过去式和过去分词",
-  "definition": "v pass time in a specific way\\nv pay out\\nv spend completely\\na depleted of energy, force, or strength\\ns drained of energy or effectiveness; extremely tired; completely exhausted"
+  "translation": "a. 用尽的, 精疲力竭的\nspend的过去式和过去分词",
+  "definition": "v pass time in a specific way\nv pay out\nv spend completely\na depleted of energy, force, or strength\ns drained of energy or effectiveness; extremely tired; completely exhausted"
  },
  {
   "word": "staring",
   "phonetic": "'stєәriŋ",
   "translation": "a. 凝视的, 瞪着眼的, 显眼的",
-  "definition": "v look at with fixed eyes\\nv fixate one's eyes\\nv feature as the star\\nv be the star in a performance\\nv mark with an asterisk\\ns (used of eyes) open and fixed as if in fear or wonder\\ns without qualification; used informally as (often pejorative) intensifiers"
+  "definition": "v look at with fixed eyes\nv fixate one's eyes\nv feature as the star\nv be the star in a performance\nv mark with an asterisk\ns (used of eyes) open and fixed as if in fear or wonder\ns without qualification; used informally as (often pejorative) intensifiers"
  },
  {
   "word": "stations",
@@ -1112,38 +1112,38 @@
  {
   "word": "sun",
   "phonetic": "sʌn",
-  "translation": "n. 太阳, 日, 日光, 阳光\\nvt. 晒\\nvi. 晒太阳",
-  "definition": "n. the star that is the source of light and heat for the planets in the solar system\\nn. a person considered as a source of warmth or energy or glory etc\\nn. any star around which a planetary system revolves\\nv. expose one's body to the sun"
+  "translation": "n. 太阳, 日, 日光, 阳光\nvt. 晒\nvi. 晒太阳",
+  "definition": "n. the star that is the source of light and heat for the planets in the solar system\nn. a person considered as a source of warmth or energy or glory etc\nn. any star around which a planetary system revolves\nv. expose one's body to the sun"
  },
  {
   "word": "taking",
   "phonetic": "'teikiŋ",
-  "translation": "n. 取得, 捕获, 进款\\na. 迷人的, 可爱的, 会传染的",
-  "definition": "n the act of someone who picks up or takes something\\nv carry out\\nv require (time or space)\\nv take somebody somewhere\\nv get into one's hands, take physically\\nv take on a certain form, attribute, or aspect\\nv interpret something in a certain way; convey a particular meaning or impression\\nv take something or somebody with oneself somewhere\\nv take into one's possession\\nv travel or go by means of a certain kind of transportation, or a certain route\\nv pick out, select, or choose from a number of alternatives\\nv receive willingly something given or offered\\nv assume, as of positions or roles\\nv take into consideration for exemplifying purposes\\nv require as useful, just, or proper\\nv experience or feel or submit to\\nv make a film or photograph of something\\nv remove something concrete, as by lifting, pushing, or taking off, or remove something abstract\\nv serve oneself to, or consume regularly\\nv accept or undergo, often unwillingly\\nv make use of or accept for some purpose\\nv take by force\\nv occupy or take on\\nv admit into a group or community\\nv ascertain or determine by measuring, computing or take a reading from a dial\\nv be a student of a certain subject\\nv take as an undesirable consequence of some event or state of affairs\\nv head into a specified direction\\nv point or cause to go (blows, weapons, or objects such as photographic equipment) towards\\nv be seized or affected in a specified way\\nv have with oneself; have on one's person\\nv engage for service under a term of contract\\nv receive or obtain regularly\\nv buy, select\\nv to get into a position of having, e.g., safety, comfort\\nv have sex with; archaic use\\nv lay claim to; as of an idea\\nv be designed to hold or take\\nv be capable of holding or containing\\nv develop a habit\\nv proceed along in a vehicle\\nv obtain by winning\\nv be stricken by an illness, fall victim to an illness\\ns very attractive; capturing interest"
+  "translation": "n. 取得, 捕获, 进款\na. 迷人的, 可爱的, 会传染的",
+  "definition": "n the act of someone who picks up or takes something\nv carry out\nv require (time or space)\nv take somebody somewhere\nv get into one's hands, take physically\nv take on a certain form, attribute, or aspect\nv interpret something in a certain way; convey a particular meaning or impression\nv take something or somebody with oneself somewhere\nv take into one's possession\nv travel or go by means of a certain kind of transportation, or a certain route\nv pick out, select, or choose from a number of alternatives\nv receive willingly something given or offered\nv assume, as of positions or roles\nv take into consideration for exemplifying purposes\nv require as useful, just, or proper\nv experience or feel or submit to\nv make a film or photograph of something\nv remove something concrete, as by lifting, pushing, or taking off, or remove something abstract\nv serve oneself to, or consume regularly\nv accept or undergo, often unwillingly\nv make use of or accept for some purpose\nv take by force\nv occupy or take on\nv admit into a group or community\nv ascertain or determine by measuring, computing or take a reading from a dial\nv be a student of a certain subject\nv take as an undesirable consequence of some event or state of affairs\nv head into a specified direction\nv point or cause to go (blows, weapons, or objects such as photographic equipment) towards\nv be seized or affected in a specified way\nv have with oneself; have on one's person\nv engage for service under a term of contract\nv receive or obtain regularly\nv buy, select\nv to get into a position of having, e.g., safety, comfort\nv have sex with; archaic use\nv lay claim to; as of an idea\nv be designed to hold or take\nv be capable of holding or containing\nv develop a habit\nv proceed along in a vehicle\nv obtain by winning\nv be stricken by an illness, fall victim to an illness\ns very attractive; capturing interest"
  },
  {
   "word": "thing",
   "phonetic": "θiŋ",
   "translation": "n. 事物, 东西, 物, 用品, 事, 事件, 情况, 行为, 特征",
-  "definition": "n. a special situation\\nn. an action\\nn. a special abstraction\\nn. an artifact"
+  "definition": "n. a special situation\nn. an action\nn. a special abstraction\nn. an artifact"
  },
  {
   "word": "think",
   "phonetic": "θiŋk",
-  "translation": "vt. 想, 考虑, 想起, 想像, 打算, 认为\\nvi. 思考, 料想\\nn. 想法\\na. 思想的",
-  "definition": "n. an instance of deliberate thinking\\nv. judge or regard; look upon; judge\\nv. expect, believe, or suppose\\nv. use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments"
+  "translation": "vt. 想, 考虑, 想起, 想像, 打算, 认为\nvi. 思考, 料想\nn. 想法\na. 思想的",
+  "definition": "n. an instance of deliberate thinking\nv. judge or regard; look upon; judge\nv. expect, believe, or suppose\nv. use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments"
  },
  {
   "word": "ticket",
   "phonetic": "'tikit",
-  "translation": "n. 票, 券, 车票, 标签, 入场券, 证明书\\nvt. 加标签于, 为...购票",
-  "definition": "n. a commercial document showing that the holder is entitled to something (as to ride on public transportation or to enter a public entertainment)\\nn. a summons issued to an offender (especially to someone who violates a traffic regulation)\\nn. the appropriate or desirable thing\\nv. issue a ticket or a fine to as a penalty"
+  "translation": "n. 票, 券, 车票, 标签, 入场券, 证明书\nvt. 加标签于, 为...购票",
+  "definition": "n. a commercial document showing that the holder is entitled to something (as to ride on public transportation or to enter a public entertainment)\nn. a summons issued to an offender (especially to someone who violates a traffic regulation)\nn. the appropriate or desirable thing\nv. issue a ticket or a fine to as a penalty"
  },
  {
   "word": "traffic",
   "phonetic": "'træfik",
-  "translation": "n. 交通, 通行, 运输, 交通量, 贸易, 交易, 交往, 通信量\\nvi. 交易, 做买卖\\nvt. 用...作交换\\n[计] 通信量, 传输量",
-  "definition": "n. the aggregation of things (pedestrians or vehicles) coming and going in a particular locality during a specified period of time\\nn. buying and selling; especially illicit trade\\nn. the amount of activity over a communication system during a given period of time\\nv. deal illegally"
+  "translation": "n. 交通, 通行, 运输, 交通量, 贸易, 交易, 交往, 通信量\nvi. 交易, 做买卖\nvt. 用...作交换\n[计] 通信量, 传输量",
+  "definition": "n. the aggregation of things (pedestrians or vehicles) coming and going in a particular locality during a specified period of time\nn. buying and selling; especially illicit trade\nn. the amount of activity over a communication system during a given period of time\nv. deal illegally"
  },
  {
   "word": "travellers",
@@ -1155,19 +1155,19 @@
   "word": "trips",
   "phonetic": "",
   "translation": "abbr. 与贸易有关的知识产权（Agreement On Trade-related Aspects of Intellectual Property Right）",
-  "definition": "n a journey for some purpose (usually including the return)\\nn a hallucinatory experience induced by drugs\\nn an accidental misstep threatening (or causing) a fall\\nn an exciting or stimulating experience\\nn a catch mechanism that acts as a switch\\nn a light or nimble tread\\nn an unintentional but embarrassing blunder\\nv miss a step and fall or nearly fall\\nv cause to stumble\\nv make a trip for pleasure\\nv put in motion or move to act\\nv get high, stoned, or drugged"
+  "definition": "n a journey for some purpose (usually including the return)\nn a hallucinatory experience induced by drugs\nn an accidental misstep threatening (or causing) a fall\nn an exciting or stimulating experience\nn a catch mechanism that acts as a switch\nn a light or nimble tread\nn an unintentional but embarrassing blunder\nv miss a step and fall or nearly fall\nv cause to stumble\nv make a trip for pleasure\nv put in motion or move to act\nv get high, stoned, or drugged"
  },
  {
   "word": "type",
   "phonetic": "taip",
-  "translation": "n. 类型, 样式, 典型, 榜样, 标志, 符号, 型, 式\\nvi. 打字\\nvt. 作为代表, 测定类型, 用打字机打\\n[计] 类型; 键入; DOS内部命令:在屏幕上显示指定文件的内容",
-  "definition": "n. a subdivision of a particular kind of thing\\nn. (biology) the taxonomic group whose characteristics are used to define the next higher taxon\\nn. printed characters\\nn. all of the tokens of the same symbol"
+  "translation": "n. 类型, 样式, 典型, 榜样, 标志, 符号, 型, 式\nvi. 打字\nvt. 作为代表, 测定类型, 用打字机打\n[计] 类型; 键入; DOS内部命令:在屏幕上显示指定文件的内容",
+  "definition": "n. a subdivision of a particular kind of thing\nn. (biology) the taxonomic group whose characteristics are used to define the next higher taxon\nn. printed characters\nn. all of the tokens of the same symbol"
  },
  {
   "word": "unbroken",
   "phonetic": "'ʌn'brәukәn",
-  "translation": "a. 未破损的, 未被征服的, 未打垮的, 不屈服的, 不涣散的, 整齐的, 未中断的\\n[法] 未被阻断的, 未破损的, 完好的",
-  "definition": "a. marked by continuous or uninterrupted extension in space or time or sequence\\ns. not subdued or trained for service or use\\na. (especially of promises or contracts) not violated or disregarded\\na. not broken; whole and intact; in one piece"
+  "translation": "a. 未破损的, 未被征服的, 未打垮的, 不屈服的, 不涣散的, 整齐的, 未中断的\n[法] 未被阻断的, 未破损的, 完好的",
+  "definition": "a. marked by continuous or uninterrupted extension in space or time or sequence\ns. not subdued or trained for service or use\na. (especially of promises or contracts) not violated or disregarded\na. not broken; whole and intact; in one piece"
  },
  {
   "word": "uncrumpled",
@@ -1178,7 +1178,7 @@
   "word": "unusual",
   "phonetic": ".ʌn'ju:ʒu:l",
   "translation": "a. 不寻常的, 罕见的, 与众不同的",
-  "definition": "a. not usual or common or ordinary\\ns. not commonly encountered"
+  "definition": "a. not usual or common or ordinary\ns. not commonly encountered"
  },
  {
   "word": "valleys",
@@ -1189,14 +1189,14 @@
  {
   "word": "variety",
   "phonetic": "vә'raiәti",
-  "translation": "n. 多样, 种类, 变种, 杂耍\\n[化] 变种",
-  "definition": "n. (biology) a taxonomic category consisting of members of a species that differ from others of the same species in minor but heritable characteristics\\nn. a difference that is usually pleasant"
+  "translation": "n. 多样, 种类, 变种, 杂耍\n[化] 变种",
+  "definition": "n. (biology) a taxonomic category consisting of members of a species that differ from others of the same species in minor but heritable characteristics\nn. a difference that is usually pleasant"
  },
  {
   "word": "watch",
   "phonetic": "wɒtʃ",
-  "translation": "n. 观察, 手表, 看守, 守护, 监视, 值班人\\nvt. 看, 注视, 照顾, 看守, 守护, 监视\\nvi. 观看, 注视, 守侯",
-  "definition": "n. a small portable timepiece\\nn. a period of time (4 or 2 hours) during which some of a ship's crew are on duty\\nn. a purposeful surveillance to guard or observe\\nn. the period during which someone (especially a guard) is on duty"
+  "translation": "n. 观察, 手表, 看守, 守护, 监视, 值班人\nvt. 看, 注视, 照顾, 看守, 守护, 监视\nvi. 观看, 注视, 守侯",
+  "definition": "n. a small portable timepiece\nn. a period of time (4 or 2 hours) during which some of a ship's crew are on duty\nn. a purposeful surveillance to guard or observe\nn. the period during which someone (especially a guard) is on duty"
  },
  {
   "word": "ways",
@@ -1207,49 +1207,49 @@
  {
   "word": "weather",
   "phonetic": "'weðә",
-  "translation": "n. 天气, 气象, 处境\\na. 迎风的\\nvt. 使受风吹雨打, 侵蚀, 使风化, 经受住\\nvi. 风化, 受侵蚀, 经受风雨",
-  "definition": "n. the atmospheric conditions that comprise the state of the atmosphere in terms of temperature and wind and clouds and precipitation\\nv. face and withstand with courage\\nv. cause to slope\\nv. sail to the windward of"
+  "translation": "n. 天气, 气象, 处境\na. 迎风的\nvt. 使受风吹雨打, 侵蚀, 使风化, 经受住\nvi. 风化, 受侵蚀, 经受风雨",
+  "definition": "n. the atmospheric conditions that comprise the state of the atmosphere in terms of temperature and wind and clouds and precipitation\nv. face and withstand with courage\nv. cause to slope\nv. sail to the windward of"
  },
  {
   "word": "wheels",
   "phonetic": "'hwi:ls",
   "translation": "n. 旋转；车轮（wheel的复数）",
-  "definition": "n a simple machine consisting of a circular frame with spokes (or a solid disc) that can rotate on a shaft or axle (as in vehicles or other machines)\\nn a handwheel that is used for steering\\nn forces that provide energy and direction\\nn a circular helm to control the rudder of a vessel\\nn game equipment consisting of a wheel with slots that is used for gambling; the wheel rotates horizontally and players bet on which slot the roulette ball will stop in\\nn an instrument of torture that stretches or disjoints or mutilates victims\\nn a wheeled vehicle that has two wheels and is moved by foot pedals\\nv change directions as if revolving on a pivot\\nv wheel somebody or something\\nv move along on or as if on wheels or a wheeled vehicle\\nv ride a bicycle"
+  "definition": "n a simple machine consisting of a circular frame with spokes (or a solid disc) that can rotate on a shaft or axle (as in vehicles or other machines)\nn a handwheel that is used for steering\nn forces that provide energy and direction\nn a circular helm to control the rudder of a vessel\nn game equipment consisting of a wheel with slots that is used for gambling; the wheel rotates horizontally and players bet on which slot the roulette ball will stop in\nn an instrument of torture that stretches or disjoints or mutilates victims\nn a wheeled vehicle that has two wheels and is moved by foot pedals\nv change directions as if revolving on a pivot\nv wheel somebody or something\nv move along on or as if on wheels or a wheeled vehicle\nv ride a bicycle"
  },
  {
   "word": "whether",
   "phonetic": "'hweðә",
-  "translation": "conj. 是否, 不论\\npron. 两个中的哪一个",
-  "definition": "pron. Which (of two); which one (of two); -- used\\n   interrogatively and relatively.\\nconj. In case; if; -- used to introduce the first or two or\\n   more alternative clauses, the other or others being connected by or, or\\n   by or whether. When the second of two alternatives is the simple\\n   negative of the first it is sometimes only indicated by the particle\\n   not or no after the correlative, and sometimes it is omitted entirely\\n   as being distinctly implied in the whether of the first."
+  "translation": "conj. 是否, 不论\npron. 两个中的哪一个",
+  "definition": "pron. Which (of two); which one (of two); -- used\n   interrogatively and relatively.\nconj. In case; if; -- used to introduce the first or two or\n   more alternative clauses, the other or others being connected by or, or\n   by or whether. When the second of two alternatives is the simple\n   negative of the first it is sometimes only indicated by the particle\n   not or no after the correlative, and sometimes it is omitted entirely\n   as being distinctly implied in the whether of the first."
  },
  {
   "word": "while",
   "phonetic": "hwail",
-  "translation": "n. 一会儿, (一段)时间\\nconj. 当...的时候, 虽然\\nvt. 消磨",
+  "translation": "n. 一会儿, (一段)时间\nconj. 当...的时候, 虽然\nvt. 消磨",
   "definition": "n. a period of indeterminate length (usually short) marked by some action or condition"
  },
  {
   "word": "wish",
   "phonetic": "wiʃ",
-  "translation": "n. 希望, 愿望, 祝愿, 命令, 请求\\nvt. 愿, 想要, 希望, 祝愿\\nvi. 希望",
-  "definition": "n. a specific feeling of desire\\nn. an expression of some desire or inclination\\nn. the particular preference that you have\\nv. hope for; have a wish"
+  "translation": "n. 希望, 愿望, 祝愿, 命令, 请求\nvt. 愿, 想要, 希望, 祝愿\nvi. 希望",
+  "definition": "n. a specific feeling of desire\nn. an expression of some desire or inclination\nn. the particular preference that you have\nv. hope for; have a wish"
  },
  {
   "word": "world",
   "phonetic": "wә:ld",
-  "translation": "n. 世界, 地球, 宇宙, 万物, 世人, 人间, 领域, 世事, 世故, 社会生活, 大量\\n[法] 世界, 地球, 世人",
-  "definition": "n. people in general; especially a distinctive group of people with some shared interest\\nn. all of your experiences that determine how things appear to you\\nn. a part of the earth that can be considered separately\\nn. all of the living human inhabitants of the earth"
+  "translation": "n. 世界, 地球, 宇宙, 万物, 世人, 人间, 领域, 世事, 世故, 社会生活, 大量\n[法] 世界, 地球, 世人",
+  "definition": "n. people in general; especially a distinctive group of people with some shared interest\nn. all of your experiences that determine how things appear to you\nn. a part of the earth that can be considered separately\nn. all of the living human inhabitants of the earth"
  },
  {
   "word": "worse",
   "phonetic": "wә:s",
-  "translation": "n. 更坏的事, 更恶劣的事, 败局\\na. 更坏的, 更恶劣的\\nadv. 更坏地, 更恶劣地",
-  "definition": "n. something inferior in quality or condition or effect\\na. (comparative of `bad') inferior to another in quality or condition or desirability\\na. changed for the worse in health or fitness\\nr. (comparative of `ill') in a less effective or successful or desirable manner"
+  "translation": "n. 更坏的事, 更恶劣的事, 败局\na. 更坏的, 更恶劣的\nadv. 更坏地, 更恶劣地",
+  "definition": "n. something inferior in quality or condition or effect\na. (comparative of `bad') inferior to another in quality or condition or desirability\na. changed for the worse in health or fitness\nr. (comparative of `ill') in a less effective or successful or desirable manner"
  },
  {
   "word": "writer",
   "phonetic": "'raitә",
-  "translation": "n. 作家, 撰稿者, 抄写员\\n[化] 记录器",
-  "definition": "n. writes (books or stories or articles or the like) professionally (for pay)\\nn. a person who is able to write and has written something"
+  "translation": "n. 作家, 撰稿者, 抄写员\n[化] 记录器",
+  "definition": "n. writes (books or stories or articles or the like) professionally (for pay)\nn. a person who is able to write and has written something"
  }
 ]

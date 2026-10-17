@@ -2,20 +2,20 @@
  {
   "word": "water",
   "phonetic": "'wɒ:tә",
-  "translation": "n. 水, 雨水, 海水, 水位, 水面, 流水\\nvt. 给...浇水, 供以水, 注入水, 使湿\\nvi. 流泪, 流口水, 加水\\na. 水的, 水上的, 水生的, 含水的",
-  "definition": "n. binary compound that occurs at room temperature as a clear colorless odorless tasteless liquid; freezes into ice below 0 degrees centigrade and boils above 100 degrees centigrade; widely used as a solvent\\nn. once thought to be one of four elements composing the universe (Empedocles)\\nn. a liquid necessary for the life of most animals and plants\\nv. supply with water, as with channels or ditches or streams"
+  "translation": "n. 水, 雨水, 海水, 水位, 水面, 流水\nvt. 给...浇水, 供以水, 注入水, 使湿\nvi. 流泪, 流口水, 加水\na. 水的, 水上的, 水生的, 含水的",
+  "definition": "n. binary compound that occurs at room temperature as a clear colorless odorless tasteless liquid; freezes into ice below 0 degrees centigrade and boils above 100 degrees centigrade; widely used as a solvent\nn. once thought to be one of four elements composing the universe (Empedocles)\nn. a liquid necessary for the life of most animals and plants\nv. supply with water, as with channels or ditches or streams"
  },
  {
   "word": "safe",
   "phonetic": "seif",
-  "translation": "n. 保险箱, 冷藏室\\na. 安全的, 可靠的, 平安的, 稳健的, 有把握的",
-  "definition": "n. strongbox where valuables can be safely kept\\nn. a ventilated or refrigerated cupboard for securing provisions from pests\\na. free from danger or the risk of harm\\ns. (of an undertaking) secure from risk"
+  "translation": "n. 保险箱, 冷藏室\na. 安全的, 可靠的, 平安的, 稳健的, 有把握的",
+  "definition": "n. strongbox where valuables can be safely kept\nn. a ventilated or refrigerated cupboard for securing provisions from pests\na. free from danger or the risk of harm\ns. (of an undertaking) secure from risk"
  },
  {
   "word": "drinks",
   "phonetic": "",
   "translation": "n. 饮料, 饮品；喝酒（drink复数）",
-  "definition": "n a single serving of a beverage\\nn the act of drinking alcoholic beverages to excess\\nn any liquid suitable for drinking\\nn any large deep body of water\\nn the act of swallowing\\nv take in liquids\\nv consume alcohol\\nv propose a toast to\\nv be fascinated or spell-bound by; pay close attention to\\nv drink excessive amounts of alcohol; be an alcoholic"
+  "definition": "n a single serving of a beverage\nn the act of drinking alcoholic beverages to excess\nn any liquid suitable for drinking\nn any large deep body of water\nn the act of swallowing\nv take in liquids\nv consume alcohol\nv propose a toast to\nv be fascinated or spell-bound by; pay close attention to\nv drink excessive amounts of alcohol; be an alcoholic"
  },
  {
   "word": "drinking",
@@ -26,104 +26,104 @@
  {
   "word": "alcohol",
   "phonetic": "'ælkәhɒl",
-  "translation": "n. 酒精, 酒\\n[化] 醇; 乙醇; 酒精",
-  "definition": "n. a liquor or brew containing alcohol as the active agent\\nn. any of a series of volatile hydroxyl compounds that are made from hydrocarbons by distillation"
+  "translation": "n. 酒精, 酒\n[化] 醇; 乙醇; 酒精",
+  "definition": "n. a liquor or brew containing alcohol as the active agent\nn. any of a series of volatile hydroxyl compounds that are made from hydrocarbons by distillation"
  },
  {
   "word": "ice",
   "phonetic": "ais",
-  "translation": "n. 冰, 冰淇淋, 糖衣, 冷若冰霜, 矜持, 贿赂\\nvt. 使结冰, 冰镇, 覆以糖衣\\nvi. 结冰",
-  "definition": "n. water frozen in the solid state\\nn. the frozen part of a body of water\\nn. diamonds\\nn. a frozen dessert with fruit flavoring (especially one containing no milk)"
+  "translation": "n. 冰, 冰淇淋, 糖衣, 冷若冰霜, 矜持, 贿赂\nvt. 使结冰, 冰镇, 覆以糖衣\nvi. 结冰",
+  "definition": "n. water frozen in the solid state\nn. the frozen part of a body of water\nn. diamonds\nn. a frozen dessert with fruit flavoring (especially one containing no milk)"
  },
  {
   "word": "source",
   "phonetic": "sɒ:s",
-  "translation": "n. 来源, 水源, 根源, 原始资料, 源\\n[计] 来源, 源程序",
-  "definition": "n. a document (or organization) from which information is obtained\\nn. anything that provides inspiration for later work\\nn. a facility where something is available\\nn. (technology) a process by which energy or a substance enters a system"
+  "translation": "n. 来源, 水源, 根源, 原始资料, 源\n[计] 来源, 源程序",
+  "definition": "n. a document (or organization) from which information is obtained\nn. anything that provides inspiration for later work\nn. a facility where something is available\nn. (technology) a process by which energy or a substance enters a system"
  },
  {
   "word": "supplies",
   "phonetic": "",
-  "translation": "n. 供应品, 日用必需品, 生活用品, (储备)物质, 存货, 补给品, 生活费用\\n[化] 辅助材料",
-  "definition": "n an amount of something available for use\\nn offering goods and services for sale\\nn the activity of supplying or providing something\\nv give something useful or necessary to\\nv circulate or distribute or equip with\\nv give what is desired or needed, especially support, food or sustenance\\nv state or say further"
+  "translation": "n. 供应品, 日用必需品, 生活用品, (储备)物质, 存货, 补给品, 生活费用\n[化] 辅助材料",
+  "definition": "n an amount of something available for use\nn offering goods and services for sale\nn the activity of supplying or providing something\nv give something useful or necessary to\nv circulate or distribute or equip with\nv give what is desired or needed, especially support, food or sustenance\nv state or say further"
  },
  {
   "word": "supply",
   "phonetic": "sә'plai",
-  "translation": "n. 补给, 供给, 供应品\\nvt. 补给, 供给, 提供, 补充\\nvi. 替代",
-  "definition": "n. an amount of something available for use\\nn. offering goods and services for sale\\nv. give something useful or necessary to"
+  "translation": "n. 补给, 供给, 供应品\nvt. 补给, 供给, 提供, 补充\nvi. 替代",
+  "definition": "n. an amount of something available for use\nn. offering goods and services for sale\nv. give something useful or necessary to"
  },
  {
   "word": "always",
   "phonetic": "'ɒ:lweiz",
   "translation": "adv. 总是, 始终",
-  "definition": "r. at all times; all the time and on every occasion\\nr. at any time or in any event\\nr. forever; throughout all time"
+  "definition": "r. at all times; all the time and on every occasion\nr. at any time or in any event\nr. forever; throughout all time"
  },
  {
   "word": "areas",
   "phonetic": "",
   "translation": "n. 区域, 领域；面积（area的复数形式）",
-  "definition": "n a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography)\\nn a subject of study\\nn a part of an animal that has a special function or is supplied by a given artery or nerve\\nn a particular environment or walk of life\\nn a part of a structure having some specific characteristic or function\\nn the extent of a 2-dimensional surface enclosed within a boundary"
+  "definition": "n a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography)\nn a subject of study\nn a part of an animal that has a special function or is supplied by a given artery or nerve\nn a particular environment or walk of life\nn a part of a structure having some specific characteristic or function\nn the extent of a 2-dimensional surface enclosed within a boundary"
  },
  {
   "word": "available",
   "phonetic": "ә'veilәbl",
-  "translation": "a. 可利用的, 可获得的, 有效的\\n[医] 有效的, 可得的",
-  "definition": "a. obtainable or accessible and ready for use or service\\ns. not busy; not otherwise committed\\ns. convenient for use or disposal"
+  "translation": "a. 可利用的, 可获得的, 有效的\n[医] 有效的, 可得的",
+  "definition": "a. obtainable or accessible and ready for use or service\ns. not busy; not otherwise committed\ns. convenient for use or disposal"
  },
  {
   "word": "boiling",
   "phonetic": "'bɒiliŋ",
-  "translation": "a. 沸腾的, 激昂的\\nadv. 沸腾",
-  "definition": "n. the application of heat to change something from a liquid to a gas\\nn. cooking in a liquid that has been brought to a boil\\nr. extremely"
+  "translation": "a. 沸腾的, 激昂的\nadv. 沸腾",
+  "definition": "n. the application of heat to change something from a liquid to a gas\nn. cooking in a liquid that has been brought to a boil\nr. extremely"
  },
  {
   "word": "cent",
   "phonetic": "sent",
-  "translation": "n. 分\\n[经] 美分",
+  "translation": "n. 分\n[经] 美分",
   "definition": "n. a fractional monetary unit of several countries"
  },
  {
   "word": "contamination",
   "phonetic": "kәn.tæmi'neiʃәn",
-  "translation": "n. 污染, 污物\\n[化] 污染; 沾污",
-  "definition": "n. the state of being contaminated\\nn. the act of contaminating or polluting; including (either intentionally or accidentally) unwanted substances or factors"
+  "translation": "n. 污染, 污物\n[化] 污染; 沾污",
+  "definition": "n. the state of being contaminated\nn. the act of contaminating or polluting; including (either intentionally or accidentally) unwanted substances or factors"
  },
  {
   "word": "drink",
   "phonetic": "driŋk",
-  "translation": "n. 饮料, 酒\\nv. 喝, 喝酒",
-  "definition": "n. a single serving of a beverage\\nn. the act of drinking alcoholic beverages to excess\\nn. any large deep body of water\\nv. take in liquids"
+  "translation": "n. 饮料, 酒\nv. 喝, 喝酒",
+  "definition": "n. a single serving of a beverage\nn. the act of drinking alcoholic beverages to excess\nn. any large deep body of water\nv. take in liquids"
  },
  {
   "word": "hot",
   "phonetic": "hɒt",
-  "translation": "a. 热的, 热心的, 辣的, 热情的, 激动的, 猛烈的, 紧迫的\\nadv. 热, 紧迫地",
-  "definition": "a. used of physical heat; having a high or higher than desirable temperature or giving off heat or feeling or causing a sensation of heat or burning\\ns. characterized by violent and forceful activity or movement; very intense\\na. extended meanings; especially of psychological heat; marked by intensity or vehemence especially of passion or enthusiasm\\ns. (color) bold and intense"
+  "translation": "a. 热的, 热心的, 辣的, 热情的, 激动的, 猛烈的, 紧迫的\nadv. 热, 紧迫地",
+  "definition": "a. used of physical heat; having a high or higher than desirable temperature or giving off heat or feeling or causing a sensation of heat or burning\ns. characterized by violent and forceful activity or movement; very intense\na. extended meanings; especially of psychological heat; marked by intensity or vehemence especially of passion or enthusiasm\ns. (color) bold and intense"
  },
  {
   "word": "per",
   "phonetic": "pә:",
-  "translation": "prep. 每一, 通过, 经, 按照\\n[经] 每, 按照",
-  "definition": "prep. Through; by means of; through the agency of; by; for; for\\n   each; as, per annum; per capita, by heads, or according to individuals;\\n   per curiam, by the court; per se, by itself, of itself. Per is also\\n   sometimes used with English words."
+  "translation": "prep. 每一, 通过, 经, 按照\n[经] 每, 按照",
+  "definition": "prep. Through; by means of; through the agency of; by; for; for\n   each; as, per annum; per capita, by heads, or according to individuals;\n   per curiam, by the court; per se, by itself, of itself. Per is also\n   sometimes used with English words."
  },
  {
   "word": "sewage",
   "phonetic": "'sju:idʒ",
-  "translation": "n. 脏水, 污水\\n[医] 污水, 污物",
+  "translation": "n. 脏水, 污水\n[医] 污水, 污物",
   "definition": "n. waste matter carried away in sewers or drains"
  },
  {
   "word": "sources",
   "phonetic": "",
   "translation": "n. 输入源；发起者；来源（source的复数）",
-  "definition": "n the place where something begins, where it springs into being\\nn a document (or organization) from which information is obtained\\nn anything that provides inspiration for later work\\nn a facility where something is available\\nn a person who supplies information\\nn someone who originates or causes or initiates something\\nn (technology) a process by which energy or a substance enters a system\\nn anything (a person or animal or plant or substance) in which an infectious agent normally lives and multiplies\\nn a publication (or a passage from a publication) that is referred to\\nv get (a product) from another country or business\\nv specify the origin of"
+  "definition": "n the place where something begins, where it springs into being\nn a document (or organization) from which information is obtained\nn anything that provides inspiration for later work\nn a facility where something is available\nn a person who supplies information\nn someone who originates or causes or initiates something\nn (technology) a process by which energy or a substance enters a system\nn anything (a person or animal or plant or substance) in which an infectious agent normally lives and multiplies\nn a publication (or a passage from a publication) that is referred to\nv get (a product) from another country or business\nv specify the origin of"
  },
  {
   "word": "tap",
   "phonetic": "'tæp",
-  "translation": "n. 轻打, 水龙头\\nvt. 轻打, 轻敲, 敲打出, 选择, 装上嘴子, 使流出, 开发, 分接, 向...乞讨\\nvi. 轻叩, 轻拍, 啪塔啪塔地走\\n[计] 接头",
-  "definition": "n. a small metal plate that attaches to the toe or heel of a shoe (as in tap dancing)\\nn. a tool for cutting female (internal) screw threads\\nn. a plug for a bunghole in a cask\\nn. a light touch or stroke"
+  "translation": "n. 轻打, 水龙头\nvt. 轻打, 轻敲, 敲打出, 选择, 装上嘴子, 使流出, 开发, 分接, 向...乞讨\nvi. 轻叩, 轻拍, 啪塔啪塔地走\n[计] 接头",
+  "definition": "n. a small metal plate that attaches to the toe or heel of a shoe (as in tap dancing)\nn. a tool for cutting female (internal) screw threads\nn. a plug for a bunghole in a cask\nn. a light touch or stroke"
  },
  {
   "word": "tap-water",
@@ -139,50 +139,50 @@
  {
   "word": "acidic",
   "phonetic": "ә'sidik",
-  "translation": "a. 成酸的, 尖刻的, 酸性的\\n[机] 酸性",
-  "definition": "a. being or containing an acid; of a solution having an excess of hydrogen atoms (having a pH of less than 7)\\ns. being sour to the taste"
+  "translation": "a. 成酸的, 尖刻的, 酸性的\n[机] 酸性",
+  "definition": "a. being or containing an acid; of a solution having an excess of hydrogen atoms (having a pH of less than 7)\ns. being sour to the taste"
  },
  {
   "word": "action",
   "phonetic": "'ækʃәn",
-  "translation": "n. 行动, 活动, 动作, 作用, 战斗, 行为, 诉讼\\nvt. 对...起诉\\n[计] 方式",
-  "definition": "n. something done (usually as opposed to something said)\\nn. the state of being active\\nn. the series of events that form a plot\\nn. the trait of being active and energetic and forceful"
+  "translation": "n. 行动, 活动, 动作, 作用, 战斗, 行为, 诉讼\nvt. 对...起诉\n[计] 方式",
+  "definition": "n. something done (usually as opposed to something said)\nn. the state of being active\nn. the series of events that form a plot\nn. the trait of being active and energetic and forceful"
  },
  {
   "word": "added",
   "phonetic": "'ædid",
   "translation": "a. 额外的；更多的",
-  "definition": "v make an addition (to); join or combine or unite with others; increase the quality, quantity, size or scope of\\nv state or say further\\nv bestow a quality on\\nv make an addition by combining numbers\\nv determine the sum of\\nv constitute an addition"
+  "definition": "v make an addition (to); join or combine or unite with others; increase the quality, quantity, size or scope of\nv state or say further\nv bestow a quality on\nv make an addition by combining numbers\nv determine the sum of\nv constitute an addition"
  },
  {
   "word": "adding",
   "phonetic": "'ædiŋ",
   "translation": "[计] 加法的",
-  "definition": "v make an addition (to); join or combine or unite with others; increase the quality, quantity, size or scope of\\nv state or say further\\nv bestow a quality on\\nv make an addition by combining numbers\\nv determine the sum of\\nv constitute an addition"
+  "definition": "v make an addition (to); join or combine or unite with others; increase the quality, quantity, size or scope of\nv state or say further\nv bestow a quality on\nv make an addition by combining numbers\nv determine the sum of\nv constitute an addition"
  },
  {
   "word": "avoid",
   "phonetic": "ә'vɒid",
-  "translation": "vt. 避免, 防止, 撤消\\n[法] 避免, 回避, 躲开",
-  "definition": "v. stay clear from; keep away from; keep out of the way of someone or something\\nv. refrain from doing something"
+  "translation": "vt. 避免, 防止, 撤消\n[法] 避免, 回避, 躲开",
+  "definition": "v. stay clear from; keep away from; keep out of the way of someone or something\nv. refrain from doing something"
  },
  {
   "word": "bactericidal",
   "phonetic": "bæk.tiәri'saidl",
-  "translation": "a. 杀菌的\\n[医] 杀菌的",
+  "translation": "a. 杀菌的\n[医] 杀菌的",
   "definition": "s. preventing infection by inhibiting the growth or action of microorganisms"
  },
  {
   "word": "below",
   "phonetic": "bi'lәu",
-  "translation": "prep. 在下面\\nadv. 在下面",
-  "definition": "r. in or to a place that is lower\\nr. at a later place\\nr. (in writing) see below"
+  "translation": "prep. 在下面\nadv. 在下面",
+  "definition": "r. in or to a place that is lower\nr. at a later place\nr. (in writing) see below"
  },
  {
   "word": "best",
   "phonetic": "best",
-  "translation": "a. 最好的\\nadv. 最好地\\nn. 最好的人",
-  "definition": "n. the supreme effort one can make\\nn. the person who is most outstanding or excellent; someone who tops all others\\nn. Canadian physiologist (born in the United States) who assisted F. G. Banting in research leading to the discovery of insulin (1899-1978)"
+  "translation": "a. 最好的\nadv. 最好地\nn. 最好的人",
+  "definition": "n. the supreme effort one can make\nn. the person who is most outstanding or excellent; someone who tops all others\nn. Canadian physiologist (born in the United States) who assisted F. G. Banting in research leading to the discovery of insulin (1899-1978)"
  },
  {
   "word": "beware",
@@ -193,8 +193,8 @@
  {
   "word": "boil",
   "phonetic": "bɒil",
-  "translation": "n. 煮沸, 沸腾, 疖\\nv. 煮沸, 激动",
-  "definition": "n. a painful sore with a hard core filled with pus\\nv. come to the boiling point and change from a liquid to vapor\\nv. immerse or be immersed in a boiling liquid, often for cooking purposes\\nv. bring to, or maintain at, the boiling point"
+  "translation": "n. 煮沸, 沸腾, 疖\nv. 煮沸, 激动",
+  "definition": "n. a painful sore with a hard core filled with pus\nv. come to the boiling point and change from a liquid to vapor\nv. immerse or be immersed in a boiling liquid, often for cooking purposes\nv. bring to, or maintain at, the boiling point"
  },
  {
   "word": "boiled",
@@ -206,37 +206,37 @@
   "word": "bottled",
   "phonetic": "'bɒtld",
   "translation": "a. 瓶装的",
-  "definition": "v store (liquids or gases) in bottles\\nv put into bottles"
+  "definition": "v store (liquids or gases) in bottles\nv put into bottles"
  },
  {
   "word": "bottles",
   "phonetic": "ˈbɔtlz",
   "translation": "n. 瓶子( bottle的名词复数 ); （婴儿）奶瓶; 一瓶（的量）; 酒",
-  "definition": "n a glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped\\nn the quantity contained in a bottle\\nn a vessel fitted with a flexible teat and filled with milk or formula; used as a substitute for breast feeding infants and very young children\\nv store (liquids or gases) in bottles\\nv put into bottles"
+  "definition": "n a glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped\nn the quantity contained in a bottle\nn a vessel fitted with a flexible teat and filled with milk or formula; used as a substitute for breast feeding infants and very young children\nv store (liquids or gases) in bottles\nv put into bottles"
  },
  {
   "word": "bottling",
   "phonetic": "'bɔtliŋ",
-  "translation": "n. 装瓶\\n[化] 装瓶",
-  "definition": "v store (liquids or gases) in bottles\\nv put into bottles"
+  "translation": "n. 装瓶\n[化] 装瓶",
+  "definition": "v store (liquids or gases) in bottles\nv put into bottles"
  },
  {
   "word": "brand",
   "phonetic": "brænd",
-  "translation": "n. 商标, 牌子, 烙印\\nvt. 打烙印于",
-  "definition": "n. a recognizable kind\\nn. identification mark on skin, made by burning\\nn. a piece of wood that has been burned or is burning\\nv. burn with a branding iron to indicate ownership; of animals"
+  "translation": "n. 商标, 牌子, 烙印\nvt. 打烙印于",
+  "definition": "n. a recognizable kind\nn. identification mark on skin, made by burning\nn. a piece of wood that has been burned or is burning\nv. burn with a branding iron to indicate ownership; of animals"
  },
  {
   "word": "brushing",
   "phonetic": "'brʌʃiŋ",
-  "translation": "[化] 刷涂\\n[医] 创面电灼术, 干扰",
-  "definition": "n the act of brushing your teeth\\nn the act of brushing your hair\\nv rub with a brush, or as if with a brush\\nv touch lightly and briefly\\nv clean with a brush\\nv sweep across or over\\nv remove with or as if with a brush\\nv cover by brushing"
+  "translation": "[化] 刷涂\n[医] 创面电灼术, 干扰",
+  "definition": "n the act of brushing your teeth\nn the act of brushing your hair\nv rub with a brush, or as if with a brush\nv touch lightly and briefly\nv clean with a brush\nv sweep across or over\nv remove with or as if with a brush\nv cover by brushing"
  },
  {
   "word": "canned",
   "phonetic": "kænd",
-  "translation": "a. 罐装的, 录音的, 一稿数用的, 刻板的, 被囚的\\n[机] 洋铁罐的, 罐头的",
-  "definition": "s. recorded for broadcast\\ns. sealed in a can or jar"
+  "translation": "a. 罐装的, 录音的, 一稿数用的, 刻板的, 被囚的\n[机] 洋铁罐的, 罐头的",
+  "definition": "s. recorded for broadcast\ns. sealed in a can or jar"
  },
  {
   "word": "carbonated",
@@ -247,50 +247,50 @@
  {
   "word": "clean",
   "phonetic": "kli:n",
-  "translation": "a. 干净的, 清白的, 简洁的\\nadv. 清洁地, 完全地\\nvt. 清理, 使干净, 出空\\nvi. 被搞干净\\nn. 打扫",
-  "definition": "v. make clean by removing dirt, filth, or unwanted substances from\\nv. remove unwanted substances from, such as feathers or pits\\nv. be cleanable\\nv. deprive wholly of money in a gambling game, robbery, etc."
+  "translation": "a. 干净的, 清白的, 简洁的\nadv. 清洁地, 完全地\nvt. 清理, 使干净, 出空\nvi. 被搞干净\nn. 打扫",
+  "definition": "v. make clean by removing dirt, filth, or unwanted substances from\nv. remove unwanted substances from, such as feathers or pits\nv. be cleanable\nv. deprive wholly of money in a gambling game, robbery, etc."
  },
  {
   "word": "close",
   "phonetic": "klәuz",
-  "translation": "n. 结束, 完结\\na. 靠近的, 亲近的, 亲密的, 严密的, 关闭的, 狭窄的, 秘密的\\nvt. 关, 结束, 使靠近, 封闭, 使接近\\nvi. 关闭, 结束, 靠近\\nadv. 接近地, 紧密地\\n[计] 关闭",
-  "definition": "v. move so that an opening or passage is obstructed; make shut\\nv. become closed\\nv. finish or terminate (meetings, speeches, etc.)\\nv. complete a business deal, negotiation, or an agreement"
+  "translation": "n. 结束, 完结\na. 靠近的, 亲近的, 亲密的, 严密的, 关闭的, 狭窄的, 秘密的\nvt. 关, 结束, 使靠近, 封闭, 使接近\nvi. 关闭, 结束, 靠近\nadv. 接近地, 紧密地\n[计] 关闭",
+  "definition": "v. move so that an opening or passage is obstructed; make shut\nv. become closed\nv. finish or terminate (meetings, speeches, etc.)\nv. complete a business deal, negotiation, or an agreement"
  },
  {
   "word": "cold",
   "phonetic": "kәuld",
-  "translation": "n. 感冒, 寒冷\\na. 寒冷的, 冷淡的, 冷静的\\nadv. 完全地",
-  "definition": "n. a mild viral infection involving the nose and respiratory passages (but not the lungs)\\nn. the sensation produced by low temperatures\\na. having a low or inadequate temperature or feeling a sensation of coldness or having been made cold by e.g. ice or refrigeration\\na. extended meanings; especially of psychological coldness; without human warmth or emotion"
+  "translation": "n. 感冒, 寒冷\na. 寒冷的, 冷淡的, 冷静的\nadv. 完全地",
+  "definition": "n. a mild viral infection involving the nose and respiratory passages (but not the lungs)\nn. the sensation produced by low temperatures\na. having a low or inadequate temperature or feeling a sensation of coldness or having been made cold by e.g. ice or refrigeration\na. extended meanings; especially of psychological coldness; without human warmth or emotion"
  },
  {
   "word": "concentration",
   "phonetic": ".kɒnsәn'treiʃәn",
-  "translation": "n. 集中, 专心\\n[化] 浓度; 浓缩",
-  "definition": "n. the strength of a solution; number of molecules of a substance in a given volume\\nn. the spatial property of being crowded together\\nn. strengthening the concentration (as of a solute in a mixture) by removing diluting material\\nn. increase in density"
+  "translation": "n. 集中, 专心\n[化] 浓度; 浓缩",
+  "definition": "n. the strength of a solution; number of molecules of a substance in a given volume\nn. the spatial property of being crowded together\nn. strengthening the concentration (as of a solute in a mixture) by removing diluting material\nn. increase in density"
  },
  {
   "word": "contain",
   "phonetic": "kәn'tein",
-  "translation": "vt. 包含, 容纳, 控制\\nvi. 自制",
-  "definition": "v. be divisible by\\nv. be capable of holding or containing"
+  "translation": "vt. 包含, 容纳, 控制\nvi. 自制",
+  "definition": "v. be divisible by\nv. be capable of holding or containing"
  },
  {
   "word": "cool",
   "phonetic": "ku:l",
-  "translation": "n. 凉爽, 凉爽的空气\\na. 凉爽的, 冷淡的, 冷静的\\nvi. 冷却, 平息\\nvt. 使冷却, 使平静",
-  "definition": "n. the quality of being at a refreshingly low temperature\\nv. make cool or cooler\\nv. loose heat\\nv. lose intensity"
+  "translation": "n. 凉爽, 凉爽的空气\na. 凉爽的, 冷淡的, 冷静的\nvi. 冷却, 平息\nvt. 使冷却, 使平静",
+  "definition": "n. the quality of being at a refreshingly low temperature\nv. make cool or cooler\nv. loose heat\nv. lose intensity"
  },
  {
   "word": "cooled",
   "phonetic": "ku:ld",
-  "translation": "a. 冷却的\\nv. （使）变凉( cool的过去式 ); （使）冷静",
-  "definition": "v make cool or cooler\\nv loose heat\\nv lose intensity"
+  "translation": "a. 冷却的\nv. （使）变凉( cool的过去式 ); （使）冷静",
+  "definition": "v make cool or cooler\nv loose heat\nv lose intensity"
  },
  {
   "word": "countries",
   "phonetic": "",
   "translation": "国家（country的复数）",
-  "definition": "n a politically organized body of people under a single government\\nn the territory occupied by a nation\\nn the people who live in a nation or country\\nn an area outside of cities and towns\\nn a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography)"
+  "definition": "n a politically organized body of people under a single government\nn the territory occupied by a nation\nn the people who live in a nation or country\nn an area outside of cities and towns\nn a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography)"
  },
  {
   "word": "describe",
@@ -301,44 +301,44 @@
  {
   "word": "disinfectant",
   "phonetic": ".disin'fektәnt",
-  "translation": "a. 消毒的, 杀菌的\\nn. 消毒剂, 杀菌剂",
+  "translation": "a. 消毒的, 杀菌的\nn. 消毒剂, 杀菌剂",
   "definition": "n. an agent (as heat or radiation or a chemical) that destroys microorganisms that might carry disease"
  },
  {
   "word": "disposal",
   "phonetic": "dis'pәuzәl",
-  "translation": "n. 丢掉, 处理, 排列, 销毁, 布置\\n[医] 处理, 处置",
-  "definition": "n. the power to use something or someone\\nn. the act or means of getting rid of something\\nn. a kitchen appliance for disposing of garbage"
+  "translation": "n. 丢掉, 处理, 排列, 销毁, 布置\n[医] 处理, 处置",
+  "definition": "n. the power to use something or someone\nn. the act or means of getting rid of something\nn. a kitchen appliance for disposing of garbage"
  },
  {
   "word": "distribution",
   "phonetic": ".distrә'bju:ʃәn",
-  "translation": "n. 分配\\n[计] 分布",
-  "definition": "n. (statistics) an arrangement of values of a variable showing their observed or theoretical frequency of occurrence\\nn. the spatial or geographic property of being scattered about over a range, area, or volume\\nn. the act of distributing or spreading or apportioning\\nn. the commercial activity of transporting and selling goods from a producer to a consumer"
+  "translation": "n. 分配\n[计] 分布",
+  "definition": "n. (statistics) an arrangement of values of a variable showing their observed or theoretical frequency of occurrence\nn. the spatial or geographic property of being scattered about over a range, area, or volume\nn. the act of distributing or spreading or apportioning\nn. the commercial activity of transporting and selling goods from a producer to a consumer"
  },
  {
   "word": "dry",
   "phonetic": "drai",
-  "translation": "a. 干的, 无酒的, 枯燥无味的, 干燥的\\nvt. 把...弄干\\nvi. 变干\\nn. 干, 干涸",
-  "definition": "n. a reformer who opposes the use of intoxicating beverages\\nv. remove the moisture from and make dry\\nv. become dry or drier\\na. free from liquid or moisture; lacking natural or normal moisture or depleted of water; or no longer wet"
+  "translation": "a. 干的, 无酒的, 枯燥无味的, 干燥的\nvt. 把...弄干\nvi. 变干\nn. 干, 干涸",
+  "definition": "n. a reformer who opposes the use of intoxicating beverages\nv. remove the moisture from and make dry\nv. become dry or drier\na. free from liquid or moisture; lacking natural or normal moisture or depleted of water; or no longer wet"
  },
  {
   "word": "due",
   "phonetic": "dju:",
-  "translation": "n. 应得的东西, 应付款\\na. 到期的, 应得的, 应付的, 约定的",
-  "definition": "n. that which is deserved or owed\\nn. a payment that is due (e.g., as the price of membership)\\na. owed and payable immediately or on demand\\ns. scheduled to arrive"
+  "translation": "n. 应得的东西, 应付款\na. 到期的, 应得的, 应付的, 约定的",
+  "definition": "n. that which is deserved or owed\nn. a payment that is due (e.g., as the price of membership)\na. owed and payable immediately or on demand\ns. scheduled to arrive"
  },
  {
   "word": "effective",
   "phonetic": "i'fektiv",
-  "translation": "a. 有效的, 有力的, 实际的\\nn. 有生力量",
-  "definition": "a. producing or capable of producing an intended result or having a striking effect\\ns. able to accomplish a purpose; functioning effectively\\ns. works well as a means or remedy\\ns. exerting force or influence"
+  "translation": "a. 有效的, 有力的, 实际的\nn. 有生力量",
+  "definition": "a. producing or capable of producing an intended result or having a striking effect\ns. able to accomplish a purpose; functioning effectively\ns. works well as a means or remedy\ns. exerting force or influence"
  },
  {
   "word": "electricity",
   "phonetic": ".ilek'trisiti",
-  "translation": "n. 电, 电流, 电学, 热情, 电力供应\\n[化] 电学; 电",
-  "definition": "n. a physical phenomenon associated with stationary or moving electrons and protons\\nn. energy made available by the flow of electric charge through a conductor\\nn. keen and shared excitement"
+  "translation": "n. 电, 电流, 电学, 热情, 电力供应\n[化] 电学; 电",
+  "definition": "n. a physical phenomenon associated with stationary or moving electrons and protons\nn. energy made available by the flow of electric charge through a conductor\nn. keen and shared excitement"
  },
  {
   "word": "elements",
@@ -349,26 +349,26 @@
  {
   "word": "ethanol",
   "phonetic": "'eθәnәul",
-  "translation": "n. 乙醇, 酒精\\n[化] 乙醇",
+  "translation": "n. 乙醇, 酒精\n[化] 乙醇",
   "definition": "n the intoxicating agent in fermented and distilled liquors; used pure or denatured as a solvent or in medicines and colognes and cleaning solutions and rocket fuel; proposed as a renewable clean-burning additive to gasoline"
  },
  {
   "word": "even",
   "phonetic": "'i:vәn",
-  "translation": "a. 平坦的, 相等的, 连贯的, 均等的, 公平的, 偶数的, 平均的, 平衡的, 恰好的\\nvt. 使平坦, 使相等\\nvi. 变平, 成为相等\\nadv. 甚至, 实际上, 完全, 十分\\nn. 偶数, 偶校验\\n[计] 偶数, 偶校验",
-  "definition": "v. become even or more even\\nv. make even or more even\\na. divisible by two\\ns. equal in degree or extent or amount; or equally matched or balanced"
+  "translation": "a. 平坦的, 相等的, 连贯的, 均等的, 公平的, 偶数的, 平均的, 平衡的, 恰好的\nvt. 使平坦, 使相等\nvi. 变平, 成为相等\nadv. 甚至, 实际上, 完全, 十分\nn. 偶数, 偶校验\n[计] 偶数, 偶校验",
+  "definition": "v. become even or more even\nv. make even or more even\na. divisible by two\ns. equal in degree or extent or amount; or equally matched or balanced"
  },
  {
   "word": "farm",
   "phonetic": "fɑ:m",
-  "translation": "n. 农场, 农田\\nvt. 耕种\\nvi. 种田",
-  "definition": "n. workplace consisting of farm buildings and cultivated land as a unit\\nv. be a farmer; work as a farmer\\nv. collect fees or profits"
+  "translation": "n. 农场, 农田\nvt. 耕种\nvi. 种田",
+  "definition": "n. workplace consisting of farm buildings and cultivated land as a unit\nv. be a farmer; work as a farmer\nv. collect fees or profits"
  },
  {
   "word": "followed",
   "phonetic": "",
   "translation": "a. 跟随的；服从的",
-  "definition": "v to travel behind, go after, come after\\nv be later in time\\nv come as a logical consequence; follow logically\\nv travel along a certain course\\nv act in accordance with someone's rules, commands, or wishes\\nv come after in time, as a result\\nv behave in accordance or in agreement with\\nv be next\\nv choose and follow; as of theories, ideas, policies, strategies or plans\\nv to bring something about at a later time than\\nv imitate in behavior; take as a model\\nv follow, discover, or ascertain the course of development of something\\nv follow with the eyes or the mind\\nv be the successor (of)\\nv perform an accompaniment to\\nv keep informed\\nv to be the product or result\\nv accept and follow the leadership or command or guidance of\\nv adhere to or practice\\nv work in a specific place, with a specific subject, or in a specific function\\nv keep under surveillance\\nv follow in or as if in pursuit\\nv grasp the meaning\\nv keep to"
+  "definition": "v to travel behind, go after, come after\nv be later in time\nv come as a logical consequence; follow logically\nv travel along a certain course\nv act in accordance with someone's rules, commands, or wishes\nv come after in time, as a result\nv behave in accordance or in agreement with\nv be next\nv choose and follow; as of theories, ideas, policies, strategies or plans\nv to bring something about at a later time than\nv imitate in behavior; take as a model\nv follow, discover, or ascertain the course of development of something\nv follow with the eyes or the mind\nv be the successor (of)\nv perform an accompaniment to\nv keep informed\nv to be the product or result\nv accept and follow the leadership or command or guidance of\nv adhere to or practice\nv work in a specific place, with a specific subject, or in a specific function\nv keep under surveillance\nv follow in or as if in pursuit\nv grasp the meaning\nv keep to"
  },
  {
   "word": "generally",
@@ -379,8 +379,8 @@
  {
   "word": "good",
   "phonetic": "gud",
-  "translation": "n. 善行, 好处, 利益\\na. 好的, 优良的, 上等的, 愉快的, 有益的, 好心的, 慈善的, 虔诚的",
-  "definition": "n. benefit\\nn. moral excellence or admirableness\\nn. that which is pleasing or valuable or useful\\na. having desirable or positive qualities especially those suitable for a thing specified"
+  "translation": "n. 善行, 好处, 利益\na. 好的, 优良的, 上等的, 愉快的, 有益的, 好心的, 慈善的, 虔诚的",
+  "definition": "n. benefit\nn. moral excellence or admirableness\nn. that which is pleasing or valuable or useful\na. having desirable or positive qualities especially those suitable for a thing specified"
  },
  {
   "word": "hotels",
@@ -391,80 +391,80 @@
  {
   "word": "industrial",
   "phonetic": "in'dʌstriәl",
-  "translation": "a. 工业的, 供工业用的, 工业高度发展的, 产业的\\nn. 工业工人, 工业股票",
-  "definition": "a. of or relating to or resulting from industry\\na. having highly developed industries\\ns. employed in industry\\ns. suitable to stand up to hard wear"
+  "translation": "a. 工业的, 供工业用的, 工业高度发展的, 产业的\nn. 工业工人, 工业股票",
+  "definition": "a. of or relating to or resulting from industry\na. having highly developed industries\ns. employed in industry\ns. suitable to stand up to hard wear"
  },
  {
   "word": "intending",
   "phonetic": "in'tendiŋ",
   "translation": "a. 未来的；预计中的",
-  "definition": "v have in mind as a purpose\\nv design or destine\\nv mean or intend to express or convey\\nv denote or connote"
+  "definition": "v have in mind as a purpose\nv design or destine\nv mean or intend to express or convey\nv denote or connote"
  },
  {
   "word": "intermittent",
   "phonetic": ".intә'mitәnt",
-  "translation": "a. 间歇的, 断断续续的\\n[化] 间歇的; 间断的",
+  "translation": "a. 间歇的, 断断续续的\n[化] 间歇的; 间断的",
   "definition": "s. stopping and starting at irregular intervals"
  },
  {
   "word": "keep",
   "phonetic": "ki:p",
-  "translation": "n. 生计, 维持, 保持\\nvt. 保持, 保存, 遵守, 看守, 整理, 维持, 履行, 经营, 拘留, 记帐\\nvi. 保持, 继续不断",
-  "definition": "n. the main tower within the walls of a medieval castle or fortress\\nv. keep in a certain state, position, or activity; e.g., \"keep clean\"\\nv. retain possession of\\nv. look after; be the keeper of; have charge of"
+  "translation": "n. 生计, 维持, 保持\nvt. 保持, 保存, 遵守, 看守, 整理, 维持, 履行, 经营, 拘留, 记帐\nvi. 保持, 继续不断",
+  "definition": "n. the main tower within the walls of a medieval castle or fortress\nv. keep in a certain state, position, or activity; e.g., \"keep clean\"\nv. retain possession of\nv. look after; be the keeper of; have charge of"
  },
  {
   "word": "know",
   "phonetic": "nәu",
   "translation": "v. 知道, 了解, 认识, 确信",
-  "definition": "n. the fact of being aware of information that is known to few people\\nv. be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about\\nv. know how to do or perform something\\nv. be aware of the truth of something; have a belief or faith in something; regard as true beyond any doubt"
+  "definition": "n. the fact of being aware of information that is known to few people\nv. be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about\nv. know how to do or perform something\nv. be aware of the truth of something; have a belief or faith in something; regard as true beyond any doubt"
  },
  {
   "word": "known",
   "phonetic": "nәun",
-  "translation": "a. 已知的, 有名的\\nknow的过去分词",
+  "translation": "a. 已知的, 有名的\nknow的过去分词",
   "definition": "a. apprehended with certainty"
  },
  {
   "word": "labelled",
   "phonetic": "",
   "translation": "a. 贴上标签的",
-  "definition": "v assign a label to; designate with a label\\nv attach a tag or label to\\nv pronounce judgment on\\nv distinguish (as a compound or molecule) by introducing a labeled atom\\nv distinguish (an element or atom) by using a radioactive isotope or an isotope of unusual mass for tracing through chemical reactions\\na bearing or marked with a label or tag"
+  "definition": "v assign a label to; designate with a label\nv attach a tag or label to\nv pronounce judgment on\nv distinguish (as a compound or molecule) by introducing a labeled atom\nv distinguish (an element or atom) by using a radioactive isotope or an isotope of unusual mass for tracing through chemical reactions\na bearing or marked with a label or tag"
  },
  {
   "word": "leakage",
   "phonetic": "'li:kidʒ",
-  "translation": "n. 漏, 漏出物, 泄漏\\n[化] 漏电; 漏水; 漏气; 渗漏; 漏失量; 漏出量",
+  "translation": "n. 漏, 漏出物, 泄漏\n[化] 漏电; 漏水; 漏气; 渗漏; 漏失量; 漏出量",
   "definition": "n the discharge of a fluid from some container"
  },
  {
   "word": "left",
   "phonetic": "left",
-  "translation": "a. 左边的, 左倾的, 左侧的, 左派的\\nadv. 在左面\\nn. 左, 左面, 左派\\nleave的过去式和过去分词",
-  "definition": "n. location near or direction toward the left side; i.e. the side to the north when a person or object faces east\\nn. those who support varying degrees of social or political or economic change designed to promote the public welfare\\nn. the hand that is on the left side of the body\\nn. a turn toward the side of the body that is on the north when the person is facing east"
+  "translation": "a. 左边的, 左倾的, 左侧的, 左派的\nadv. 在左面\nn. 左, 左面, 左派\nleave的过去式和过去分词",
+  "definition": "n. location near or direction toward the left side; i.e. the side to the north when a person or object faces east\nn. those who support varying degrees of social or political or economic change designed to promote the public welfare\nn. the hand that is on the left side of the body\nn. a turn toward the side of the body that is on the north when the person is facing east"
  },
  {
   "word": "lesson",
   "phonetic": "'lesn",
   "translation": "n. 课, 课业, 教训",
-  "definition": "n. a unit of instruction\\nn. a task assigned for individual study"
+  "definition": "n. a unit of instruction\nn. a task assigned for individual study"
  },
  {
   "word": "live",
   "phonetic": "liv.laiv",
-  "translation": "a. 活的, 生动的, 精力充沛的, 实况转播的\\nvi. 活, 生存, 居住\\nvt. 过着, 度过, 经历\\nadv. 实况地",
-  "definition": "v. lead a certain kind of life; live in a certain style\\nv. pursue a positive and satisfying existence\\na. actually being performed at the time of hearing or viewing\\na. exerting force or containing energy"
+  "translation": "a. 活的, 生动的, 精力充沛的, 实况转播的\nvi. 活, 生存, 居住\nvt. 过着, 度过, 经历\nadv. 实况地",
+  "definition": "v. lead a certain kind of life; live in a certain style\nv. pursue a positive and satisfying existence\na. actually being performed at the time of hearing or viewing\na. exerting force or containing energy"
  },
  {
   "word": "made",
   "phonetic": "meid",
-  "translation": "a. 人工制成的, 成功的, 创造的\\nmake的过去式和过去分词",
-  "definition": "s. produced by a manufacturing process; rope and nails\"\\na. (of a bed) having the sheets and blankets set in order\\ns. successful or assured of success"
+  "translation": "a. 人工制成的, 成功的, 创造的\nmake的过去式和过去分词",
+  "definition": "s. produced by a manufacturing process; rope and nails\"\na. (of a bed) having the sheets and blankets set in order\ns. successful or assured of success"
  },
  {
   "word": "make",
   "phonetic": "meik",
-  "translation": "vt. 制造, 安排, 创造, 构成, 使得, 产生, 造成, 整理, 布置, 引起, 到达, 进行\\nvi. 开始, 前进, 增大, 被制造, 被处理\\nn. 制造, 构造, 性情",
-  "definition": "v. engage in\\nv. give certain properties to something\\nv. make or cause to be or to become\\nv. compel or make somebody or something to act in a certain way"
+  "translation": "vt. 制造, 安排, 创造, 构成, 使得, 产生, 造成, 整理, 布置, 引起, 到达, 进行\nvi. 开始, 前进, 增大, 被制造, 被处理\nn. 制造, 构造, 性情",
+  "definition": "v. engage in\nv. give certain properties to something\nv. make or cause to be or to become\nv. compel or make somebody or something to act in a certain way"
  },
  {
   "word": "making",
@@ -475,14 +475,14 @@
  {
   "word": "medical",
   "phonetic": "'medikl",
-  "translation": "n. 医生, 体格检查\\na. 医学的, 内科的, 药的",
-  "definition": "a. relating to the study or practice of medicine\\na. requiring or amenable to treatment by medicine especially as opposed to surgery"
+  "translation": "n. 医生, 体格检查\na. 医学的, 内科的, 药的",
+  "definition": "a. relating to the study or practice of medicine\na. requiring or amenable to treatment by medicine especially as opposed to surgery"
  },
  {
   "word": "methods",
   "phonetic": "",
   "translation": "n. 方法, 方式；研究方法（method的复数）",
-  "definition": "n a way of doing something, especially a systematic way; implies an orderly logical arrangement (usually in steps)\\nn an acting technique introduced by Stanislavsky in which the actor recalls emotions or reactions from his or her own life and uses them to identify with the character being portrayed"
+  "definition": "n a way of doing something, especially a systematic way; implies an orderly logical arrangement (usually in steps)\nn an acting technique introduced by Stanislavsky in which the actor recalls emotions or reactions from his or her own life and uses them to identify with the character being portrayed"
  },
  {
   "word": "methylated",
@@ -494,25 +494,25 @@
   "word": "names",
   "phonetic": "",
   "translation": "n. 名字；名望（name的复数形式）",
-  "definition": "n verbal abuse; a crude substitute for argument\\nn a language unit by which a person or thing is known\\nn a person's reputation\\nn family based on male descent\\nn a well-known or notable person\\nn by the sanction or authority of\\nn a defamatory or abusive word or phrase\\nv assign a specified (usually proper) proper name to\\nv give the name or identifying characteristics of; refer to by name or some other identifying characteristic property\\nv charge with a function; charge to be\\nv create and charge with a task or function\\nv mention and identify by name\\nv make reference to\\nv identify as in botany or biology, for example\\nv give or make a list of; name individually; give the names of\\nv determine or distinguish the nature of a problem or an illness through a diagnostic analysis"
+  "definition": "n verbal abuse; a crude substitute for argument\nn a language unit by which a person or thing is known\nn a person's reputation\nn family based on male descent\nn a well-known or notable person\nn by the sanction or authority of\nn a defamatory or abusive word or phrase\nv assign a specified (usually proper) proper name to\nv give the name or identifying characteristics of; refer to by name or some other identifying characteristic property\nv charge with a function; charge to be\nv create and charge with a task or function\nv mention and identify by name\nv make reference to\nv identify as in botany or biology, for example\nv give or make a list of; name individually; give the names of\nv determine or distinguish the nature of a problem or an illness through a diagnostic analysis"
  },
  {
   "word": "negligible",
   "phonetic": "'neglidʒәbl",
-  "translation": "a. 可以忽略的, 不足取的, 无用的\\n[医] 可不计的, 可忽视的",
-  "definition": "s. so small as to be meaningless; insignificant\\ns. not worth considering"
+  "translation": "a. 可以忽略的, 不足取的, 无用的\n[医] 可不计的, 可忽视的",
+  "definition": "s. so small as to be meaningless; insignificant\ns. not worth considering"
  },
  {
   "word": "never",
   "phonetic": "'nevә",
-  "translation": "adv. 从不, 决不, 不曾\\n[法] 永不, 决不, 从来没有",
-  "definition": "r. not ever; at no time in the past or future\\nr. not at all; certainly not; not in any circumstances"
+  "translation": "adv. 从不, 决不, 不曾\n[法] 永不, 决不, 从来没有",
+  "definition": "r. not ever; at no time in the past or future\nr. not at all; certainly not; not in any circumstances"
  },
  {
   "word": "obtained",
   "phonetic": "",
   "translation": "v. 获得（obtain的过去分词）",
-  "definition": "v come into possession of\\nv receive a specified treatment (abstract)\\nv be valid, applicable, or true"
+  "definition": "v come into possession of\nv receive a specified treatment (abstract)\nv be valid, applicable, or true"
  },
  {
   "word": "opened",
@@ -524,43 +524,43 @@
   "word": "particularly",
   "phonetic": "pә'tikjjlәli",
   "translation": "adv. 特别, 格外, 尤其, 详细地, 细致地",
-  "definition": "r. to a distinctly greater extent or degree than is common\\nr. specifically or especially distinguished from others"
+  "definition": "r. to a distinctly greater extent or degree than is common\nr. specifically or especially distinguished from others"
  },
  {
   "word": "percent",
   "phonetic": "pә'sent",
-  "translation": "n. 百分比, 百分数, 部分\\n[机] 百分率",
+  "translation": "n. 百分比, 百分数, 部分\n[机] 百分率",
   "definition": "n a proportion in relation to a whole (which is usually the amount per hundred)"
  },
  {
   "word": "piped",
   "phonetic": "paipt",
   "translation": "a. 酒醉的",
-  "definition": "v utter a shrill cry\\nv transport by pipeline\\nv play on a pipe\\nv trim with piping\\nv kill by firing a missile\\nv hit with a missile from a weapon\\nv defeat thoroughly"
+  "definition": "v utter a shrill cry\nv transport by pipeline\nv play on a pipe\nv trim with piping\nv kill by firing a missile\nv hit with a missile from a weapon\nv defeat thoroughly"
  },
  {
   "word": "placing",
   "phonetic": "'pleisiŋ",
-  "translation": "n. 出盘, 出售\\n[化] 铺设",
-  "definition": "v put into a certain place or abstract location\\nv place somebody in a particular situation or location\\nv assign a rank or rating to\\nv assign a location to\\nv to arrange for\\nv take a place in a competition; often followed by an ordinal\\nv intend (something) to move towards a certain goal\\nv recognize as being; establish the identity of someone or something\\nv assign to (a job or a home)\\nv locate\\nv estimate\\nv identify the location or place of\\nv make an investment\\nv assign to a station\\nv finish second or better in a horse or dog race\\nv sing a note with the correct pitch"
+  "translation": "n. 出盘, 出售\n[化] 铺设",
+  "definition": "v put into a certain place or abstract location\nv place somebody in a particular situation or location\nv assign a rank or rating to\nv assign a location to\nv to arrange for\nv take a place in a competition; often followed by an ordinal\nv intend (something) to move towards a certain goal\nv recognize as being; establish the identity of someone or something\nv assign to (a job or a home)\nv locate\nv estimate\nv identify the location or place of\nv make an investment\nv assign to a station\nv finish second or better in a horse or dog race\nv sing a note with the correct pitch"
  },
  {
   "word": "planning",
   "phonetic": "",
-  "translation": "n. 计划的制订, 策划, 设计, 规划\\n[计] 计划, 规划",
-  "definition": "n. an act of formulating a program for a definite course of action\\nn. the act or process of drawing up plans or layouts for some project or enterprise\\nn. the cognitive process of thinking about what you will do in the event of something happening"
+  "translation": "n. 计划的制订, 策划, 设计, 规划\n[计] 计划, 规划",
+  "definition": "n. an act of formulating a program for a definite course of action\nn. the act or process of drawing up plans or layouts for some project or enterprise\nn. the cognitive process of thinking about what you will do in the event of something happening"
  },
  {
   "word": "plants",
   "phonetic": "",
   "translation": "n. 植物；工厂（plant的复数形式）",
-  "definition": "n buildings for carrying on industrial labor\\nn (botany) a living organism lacking the power of locomotion\\nn an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience\\nn something planted secretly for discovery by another\\nv put or set (seeds, seedlings, or plants) into the ground\\nv fix or set securely or deeply\\nv set up or lay the groundwork for\\nv place into a river\\nv place something or someone in a certain position in order to secretly observe or deceive\\nv put firmly in the mind"
+  "definition": "n buildings for carrying on industrial labor\nn (botany) a living organism lacking the power of locomotion\nn an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience\nn something planted secretly for discovery by another\nv put or set (seeds, seedlings, or plants) into the ground\nv fix or set securely or deeply\nv set up or lay the groundwork for\nv place into a river\nv place something or someone in a certain position in order to secretly observe or deceive\nv put firmly in the mind"
  },
  {
   "word": "poisonous",
   "phonetic": "'pɒizәnәs",
-  "translation": "a. 有毒的, 恶毒的, 讨厌的\\n[医] 有毒的",
-  "definition": "s. having the qualities or effects of a poison\\ns. not safe to eat\\ns. marked by deep ill will; deliberately harmful"
+  "translation": "a. 有毒的, 恶毒的, 讨厌的\n[医] 有毒的",
+  "definition": "s. having the qualities or effects of a poison\ns. not safe to eat\ns. marked by deep ill will; deliberately harmful"
  },
  {
   "word": "politely",
@@ -571,62 +571,62 @@
  {
   "word": "poor",
   "phonetic": "puә. pɒ:",
-  "translation": "a. 贫穷的, 贫乏的, 不幸的, 可怜的, 拙劣的, 卑鄙的\\n[经] 低劣的, 不良的",
-  "definition": "a. having little money or few possessions\\na. characterized by or indicating poverty\\na. lacking in specific resources, qualities or substances\\ns. unsatisfactory"
+  "translation": "a. 贫穷的, 贫乏的, 不幸的, 可怜的, 拙劣的, 卑鄙的\n[经] 低劣的, 不良的",
+  "definition": "a. having little money or few possessions\na. characterized by or indicating poverty\na. lacking in specific resources, qualities or substances\ns. unsatisfactory"
  },
  {
   "word": "portable",
   "phonetic": "'pɒ:tәbl",
-  "translation": "a. 可携带的, 可搬运的, 可移动的\\n[计] 可移植的",
-  "definition": "n. a small light typewriter; usually with a case in which it can be carried\\na. easily or conveniently transported\\ns. of a motor designed to be attached to the outside of a boat's hull"
+  "translation": "a. 可携带的, 可搬运的, 可移动的\n[计] 可移植的",
+  "definition": "n. a small light typewriter; usually with a case in which it can be carried\na. easily or conveniently transported\ns. of a motor designed to be attached to the outside of a boat's hull"
  },
  {
   "word": "possible",
   "phonetic": "'pɒsәbl",
-  "translation": "a. 可能的, 潜在的, 合适的\\nn. 可能性, 可能的事物",
-  "definition": "n. something that can be done\\nn. an applicant who might be suitable\\na. capable of happening or existing"
+  "translation": "a. 可能的, 潜在的, 合适的\nn. 可能性, 可能的事物",
+  "definition": "n. something that can be done\nn. an applicant who might be suitable\na. capable of happening or existing"
  },
  {
   "word": "presence",
   "phonetic": "'prezns",
-  "translation": "n. 出席, 面前, 存在, 仪态, 风度\\n[电] 出现",
-  "definition": "n. the state of being present; current existence\\nn. the immediate proximity of someone or something\\nn. an invisible spiritual being felt to be nearby\\nn. the impression that something is present"
+  "translation": "n. 出席, 面前, 存在, 仪态, 风度\n[电] 出现",
+  "definition": "n. the state of being present; current existence\nn. the immediate proximity of someone or something\nn. an invisible spiritual being felt to be nearby\nn. the impression that something is present"
  },
  {
   "word": "proof",
   "phonetic": "pru:f",
-  "translation": "n. 证据, 证明, 试验, 检验, 考验\\na. 不能透入的, 证明用的, 防...的, 耐...的\\nvt. 检验, 试验, 校对, 使不被穿透\\n[计] 审稿",
-  "definition": "n. any factual evidence that helps to establish the truth of something\\nn. a formal series of statements showing that if one thing is true something else necessarily follows from it\\nn. a measure of alcoholic strength expressed as an integer twice the percentage of alcohol present (by volume)\\nn. (printing) an impression made to check for errors"
+  "translation": "n. 证据, 证明, 试验, 检验, 考验\na. 不能透入的, 证明用的, 防...的, 耐...的\nvt. 检验, 试验, 校对, 使不被穿透\n[计] 审稿",
+  "definition": "n. any factual evidence that helps to establish the truth of something\nn. a formal series of statements showing that if one thing is true something else necessarily follows from it\nn. a measure of alcoholic strength expressed as an integer twice the percentage of alcohol present (by volume)\nn. (printing) an impression made to check for errors"
  },
  {
   "word": "put",
   "phonetic": "put",
-  "translation": "vt. 放, 摆, 安置, 移动, 发射, 投掷, 写上, 表达, 使从事, 使受到, 驱使, 赋予\\nvi. 出发, 航行, 发芽\\nn. 掷, 股票出售权, 笨蛋\\na. 固定不动的\\n[计] 发送文件",
-  "definition": "v. put into a certain place or abstract location\\nv. cause to be in a certain state; cause to be in a certain relation\\nv. attribute or give\\nv. cause (someone) to undergo something"
+  "translation": "vt. 放, 摆, 安置, 移动, 发射, 投掷, 写上, 表达, 使从事, 使受到, 驱使, 赋予\nvi. 出发, 航行, 发芽\nn. 掷, 股票出售权, 笨蛋\na. 固定不动的\n[计] 发送文件",
+  "definition": "v. put into a certain place or abstract location\nv. cause to be in a certain state; cause to be in a certain relation\nv. attribute or give\nv. cause (someone) to undergo something"
  },
  {
   "word": "quality",
   "phonetic": "'kwɒlәti",
-  "translation": "n. 品质, 特性, 才能, 质量\\na. 优质的\\n[计] 品质",
-  "definition": "n. an essential and distinguishing attribute of something or someone\\nn. a degree or grade of excellence or worth\\nn. a characteristic property that defines the apparent individual nature of something\\nn. high social status"
+  "translation": "n. 品质, 特性, 才能, 质量\na. 优质的\n[计] 品质",
+  "definition": "n. an essential and distinguishing attribute of something or someone\nn. a degree or grade of excellence or worth\nn. a characteristic property that defines the apparent individual nature of something\nn. high social status"
  },
  {
   "word": "quantities",
   "phonetic": "",
   "translation": "n. 数量, 工程量；[音]音符长度（quantity的复数）",
-  "definition": "n how much there is or how many there are of something that you can quantify\\nn an adequate or large amount\\nn the concept that something has a magnitude and can be represented in mathematical expressions by a constant or a variable"
+  "definition": "n how much there is or how many there are of something that you can quantify\nn an adequate or large amount\nn the concept that something has a magnitude and can be represented in mathematical expressions by a constant or a variable"
  },
  {
   "word": "rather",
   "phonetic": "'ræðә",
   "translation": "adv. 宁可, 稍微, 相当",
-  "definition": "r. on the contrary; rather (or instead), he wrote her a letter\"\\nr. to some (great or small) extent"
+  "definition": "r. on the contrary; rather (or instead), he wrote her a letter\"\nr. to some (great or small) extent"
  },
  {
   "word": "reaches",
   "phonetic": "'riːtʃiz",
   "translation": "n. 河段；流域；（上、中或下）游; （外）围；（远）处; （组织或机构中的）层级",
-  "definition": "n the limits within which something can be effective\\nn an area in which something acts or operates or has power or control: \"the range of a supersonic jet\"\\nn the act of physically reaching or thrusting out\\nn the limit of capability\\nv reach a destination, either real or abstract\\nv reach a point in time, or a certain state or level\\nv move forward or upward in order to touch; also in a metaphorical sense\\nv be in or establish communication with\\nv to gain with effort\\nv to extend as far as\\nv reach a goal, e.g., \"make the first team\"\\nv place into the hands or custody of\\nv to exert much effort or energy"
+  "definition": "n the limits within which something can be effective\nn an area in which something acts or operates or has power or control: \"the range of a supersonic jet\"\nn the act of physically reaching or thrusting out\nn the limit of capability\nv reach a destination, either real or abstract\nv reach a point in time, or a certain state or level\nv move forward or upward in order to touch; also in a metaphorical sense\nv be in or establish communication with\nv to gain with effort\nv to extend as far as\nv reach a goal, e.g., \"make the first team\"\nv place into the hands or custody of\nv to exert much effort or energy"
  },
  {
   "word": "readily",
@@ -637,14 +637,14 @@
  {
   "word": "refuse",
   "phonetic": "ri'fju:z",
-  "translation": "vt. 拒绝, 谢绝\\nvi. 拒绝\\nn. 废物\\na. 扔掉的, 无用的",
-  "definition": "v. show unwillingness towards\\nv. refuse to accept"
+  "translation": "vt. 拒绝, 谢绝\nvi. 拒绝\nn. 废物\na. 扔掉的, 无用的",
+  "definition": "v. show unwillingness towards\nv. refuse to accept"
  },
  {
   "word": "regarded",
   "phonetic": "riˈɡɑ:did",
   "translation": "v. 关系( regard的过去式和过去分词 ); 注意; （尤指以某种方式）注视; 尊敬",
-  "definition": "v deem to be\\nv look at attentively\\nv connect closely and often incriminatingly"
+  "definition": "v deem to be\nv look at attentively\nv connect closely and often incriminatingly"
  },
  {
   "word": "relied",
@@ -655,44 +655,44 @@
  {
   "word": "remote",
   "phonetic": "ri'mәut",
-  "translation": "a. 遥远的, 偏僻的, 疏远的, 微少的\\n[计] 远程, 远程访问实用程序",
-  "definition": "n a device that can be used to control a machine or apparatus from a distance\\ns located far away spatially\\ns very unlikely\\ns separate or apart in time\\ns inaccessible and sparsely populated; \\na far apart in relevance or relationship or kinship"
+  "translation": "a. 遥远的, 偏僻的, 疏远的, 微少的\n[计] 远程, 远程访问实用程序",
+  "definition": "n a device that can be used to control a machine or apparatus from a distance\ns located far away spatially\ns very unlikely\ns separate or apart in time\ns inaccessible and sparsely populated; \na far apart in relevance or relationship or kinship"
  },
  {
   "word": "request",
   "phonetic": "ri'kwest",
-  "translation": "n. 请求, 需要, 申请书\\nvt. 请求, 要求, 邀请\\n[计] 请求",
-  "definition": "n. a formal message requesting something that is submitted to an authority\\nn. the verbal act of requesting\\nv. express the need or desire for; ask for\\nv. ask (a person) to do something"
+  "translation": "n. 请求, 需要, 申请书\nvt. 请求, 要求, 邀请\n[计] 请求",
+  "definition": "n. a formal message requesting something that is submitted to an authority\nn. the verbal act of requesting\nv. express the need or desire for; ask for\nv. ask (a person) to do something"
  },
  {
   "word": "right",
   "phonetic": "rait",
-  "translation": "n. 权利, 右边, 正义, 右派, 公正\\na. 正确的, 对的, 恰当的, 正常的, 正直的, 正面的, 右方的\\nadv. 正确地, 以有利结果, 一直, 直接, 向右\\nvt. 扶直, 整理, 纠正, 伸冤, 使昭雪\\nvi. 恢复平衡\\n[计] 右, 权利",
-  "definition": "n. an abstract idea of that which is due to a person or governmental body by law or tradition or nature; it is something that nobody can take away\"\\nn. location near or direction toward the right side; i.e. the side to the south when a person or object faces east\\nn. those who support political or social or economic conservatism; those who believe that things are better left unchanged\\nn. the hand that is on the right side of the body"
+  "translation": "n. 权利, 右边, 正义, 右派, 公正\na. 正确的, 对的, 恰当的, 正常的, 正直的, 正面的, 右方的\nadv. 正确地, 以有利结果, 一直, 直接, 向右\nvt. 扶直, 整理, 纠正, 伸冤, 使昭雪\nvi. 恢复平衡\n[计] 右, 权利",
+  "definition": "n. an abstract idea of that which is due to a person or governmental body by law or tradition or nature; it is something that nobody can take away\"\nn. location near or direction toward the right side; i.e. the side to the south when a person or object faces east\nn. those who support political or social or economic conservatism; those who believe that things are better left unchanged\nn. the hand that is on the right side of the body"
  },
  {
   "word": "rims",
   "phonetic": "",
   "translation": "[计] 远程信息管理系统",
-  "definition": "n the shape of a raised edge of a more or less circular object\\nn (basketball) the hoop from which the net is suspended\\nn the outer part of a wheel to which the tire is attached\\nn a projection used for strength or for attaching to another object\\nn the top edge of a vessel or other container\\nv run around the rim of\\nv furnish with a rim\\nv roll around the rim of"
+  "definition": "n the shape of a raised edge of a more or less circular object\nn (basketball) the hoop from which the net is suspended\nn the outer part of a wheel to which the tire is attached\nn a projection used for strength or for attaching to another object\nn the top edge of a vessel or other container\nv run around the rim of\nv furnish with a rim\nv roll around the rim of"
  },
  {
   "word": "safer",
   "phonetic": "",
   "translation": "a. 更安全（safe的比较级）",
-  "definition": "a free from danger or the risk of harm\\ns (of an undertaking) secure from risk\\na having reached a base without being put out\\ns financially sound"
+  "definition": "a free from danger or the risk of harm\ns (of an undertaking) secure from risk\na having reached a base without being put out\ns financially sound"
  },
  {
   "word": "sanitation",
   "phonetic": "sæni'teiʃәn",
-  "translation": "n. (环境)卫生, 环境卫生的提倡/维持, 卫生设备, 下水道设施, 卫生设施\\n[医] 环境卫生",
-  "definition": "n. the state of being clean and conducive to health\\nn. making something sanitary (free of germs) as by sterilizing"
+  "translation": "n. (环境)卫生, 环境卫生的提倡/维持, 卫生设备, 下水道设施, 卫生设施\n[医] 环境卫生",
+  "definition": "n. the state of being clean and conducive to health\nn. making something sanitary (free of germs) as by sterilizing"
  },
  {
   "word": "short",
   "phonetic": "ʃɒ:t",
-  "translation": "a. 短的, 近的, 矮的, 短期的, 简短的, 少量的\\nadv. 简短地, 突然\\nn. 扼要, 短片, 缺乏\\nvt. 故意少给, 使短路",
-  "definition": "n. the location on a baseball field where the shortstop is stationed\\na. primarily temporal sense; indicating or being or seeming to be limited in duration\\na. (primarily spatial sense) having little length or lacking in length\\na. low in stature; not tall"
+  "translation": "a. 短的, 近的, 矮的, 短期的, 简短的, 少量的\nadv. 简短地, 突然\nn. 扼要, 短片, 缺乏\nvt. 故意少给, 使短路",
+  "definition": "n. the location on a baseball field where the shortstop is stationed\na. primarily temporal sense; indicating or being or seeming to be limited in duration\na. (primarily spatial sense) having little length or lacking in length\na. low in stature; not tall"
  },
  {
   "word": "slightly",
@@ -703,79 +703,79 @@
  {
   "word": "small",
   "phonetic": "smɒ:l",
-  "translation": "a. 小的, 少的, 小型的, 低微的, 小气的, 细微的\\nadv. 些微地\\nn. 狭小部分",
-  "definition": "n. the slender part of the back\\nn. a garment size for a small person\\na. limited or below average in number or quantity or magnitude or extent\\ns. slight or limited; especially in degree or intensity or scope"
+  "translation": "a. 小的, 少的, 小型的, 低微的, 小气的, 细微的\nadv. 些微地\nn. 狭小部分",
+  "definition": "n. the slender part of the back\nn. a garment size for a small person\na. limited or below average in number or quantity or magnitude or extent\ns. slight or limited; especially in degree or intensity or scope"
  },
  {
   "word": "spirits",
   "phonetic": "",
   "translation": "n. 情绪, 兴致, 心情, 烈酒, 酒精",
-  "definition": "n an alcoholic beverage that is distilled rather than fermented\\nn the vital principle or animating force within living things\\nn the general atmosphere of a place or situation and the effect that it has on people\\nn a fundamental emotional and activating principle determining one's character\\nn any incorporeal supernatural being that can become visible (or audible) to human beings\\nn the state of a person's emotions (especially with regard to pleasure or dejection)\\nn the intended meaning of a communication\\nn animation and energy in action or expression\\nn an inclination or tendency of a certain kind\\nv infuse with spirit"
+  "definition": "n an alcoholic beverage that is distilled rather than fermented\nn the vital principle or animating force within living things\nn the general atmosphere of a place or situation and the effect that it has on people\nn a fundamental emotional and activating principle determining one's character\nn any incorporeal supernatural being that can become visible (or audible) to human beings\nn the state of a person's emotions (especially with regard to pleasure or dejection)\nn the intended meaning of a communication\nn animation and energy in action or expression\nn an inclination or tendency of a certain kind\nv infuse with spirit"
  },
  {
   "word": "standard",
   "phonetic": "'stændәd",
-  "translation": "n. 标准, 规格, 旗, 军旗, 本位\\na. 标准的, 合规格的\\n[计] 标准",
-  "definition": "n. a basis for comparison; a reference point against which other things can be evaluated\\nn. a board measure = 1980 board feet\\nn. the value behind the money in a monetary system\\nn. an upright pole or beam (especially one used as a support)"
+  "translation": "n. 标准, 规格, 旗, 军旗, 本位\na. 标准的, 合规格的\n[计] 标准",
+  "definition": "n. a basis for comparison; a reference point against which other things can be evaluated\nn. a board measure = 1980 board feet\nn. the value behind the money in a monetary system\nn. an upright pole or beam (especially one used as a support)"
  },
  {
   "word": "sterilize",
   "phonetic": "'sterәlaiz",
-  "translation": "vt. 使成不毛, 使绝育, 杀菌, 使不起作用\\n[医] 灭菌, 消毒; 绝育",
-  "definition": "v. make free from bacteria\\nv. make infertile"
+  "translation": "vt. 使成不毛, 使绝育, 杀菌, 使不起作用\n[医] 灭菌, 消毒; 绝育",
+  "definition": "v. make free from bacteria\nv. make infertile"
  },
  {
   "word": "sure",
   "phonetic": "ʃuә",
-  "translation": "a. 确信, 必然的, 必定的\\nadv. 当然, 确实地, 无疑地",
-  "definition": "s. physically secure or dependable\\ns. (of persons) worthy of trust or confidence\\ns. infallible or unfailing\\ns. certain not to fail"
+  "translation": "a. 确信, 必然的, 必定的\nadv. 当然, 确实地, 无疑地",
+  "definition": "s. physically secure or dependable\ns. (of persons) worthy of trust or confidence\ns. infallible or unfailing\ns. certain not to fail"
  },
  {
   "word": "suspect",
   "phonetic": "sә'spekt",
-  "translation": "n. 被怀疑者, 嫌疑犯\\na. 令人怀疑的, 不可信的, 可疑的\\nv. 怀疑, 猜想",
-  "definition": "n. someone who is under suspicion\\nv. imagine to be the case or true or probable\\nv. hold in suspicion; believe to be guilty"
+  "translation": "n. 被怀疑者, 嫌疑犯\na. 令人怀疑的, 不可信的, 可疑的\nv. 怀疑, 猜想",
+  "definition": "n. someone who is under suspicion\nv. imagine to be the case or true or probable\nv. hold in suspicion; believe to be guilty"
  },
  {
   "word": "systems",
   "phonetic": "",
   "translation": "n. 体制, 体系；制度；系统（system的复数形式）",
-  "definition": "n instrumentality that combines interrelated interacting artifacts designed to work as a coherent entity\\nn a group of independent but interrelated elements comprising a unified whole\\nn (physical chemistry) a sample of matter in which substances in different phases are in equilibrium\\nn a complex of methods or rules governing behavior\\nn an organized structure for arranging or classifying\\nn a group of physiologically or anatomically related organs or parts\\nn a procedure or process for obtaining an objective\\nn the living body considered as made up of interdependent components forming a unified whole\\nn an ordered manner; orderliness by virtue of being methodical and well organized"
+  "definition": "n instrumentality that combines interrelated interacting artifacts designed to work as a coherent entity\nn a group of independent but interrelated elements comprising a unified whole\nn (physical chemistry) a sample of matter in which substances in different phases are in equilibrium\nn a complex of methods or rules governing behavior\nn an organized structure for arranging or classifying\nn a group of physiologically or anatomically related organs or parts\nn a procedure or process for obtaining an objective\nn the living body considered as made up of interdependent components forming a unified whole\nn an ordered manner; orderliness by virtue of being methodical and well organized"
  },
  {
   "word": "teeth",
   "phonetic": "ti:θ",
-  "translation": "pl. 牙齿\\n[医] 牙",
-  "definition": "n the kind and number and arrangement of teeth (collectively) in a person or animal\\nn hard bonelike structures in the jaws of vertebrates; used for biting and chewing or for attack and defense\\nn something resembling the tooth of an animal\\nn toothlike structure in invertebrates found in the mouth or alimentary canal or on a shell\\nn a means of enforcement\\nn one of a number of uniform projections on a gear"
+  "translation": "pl. 牙齿\n[医] 牙",
+  "definition": "n the kind and number and arrangement of teeth (collectively) in a person or animal\nn hard bonelike structures in the jaws of vertebrates; used for biting and chewing or for attack and defense\nn something resembling the tooth of an animal\nn toothlike structure in invertebrates found in the mouth or alimentary canal or on a shell\nn a means of enforcement\nn one of a number of uniform projections on a gear"
  },
  {
   "word": "text",
   "phonetic": "tekst",
-  "translation": "n. 文本, 正文, 课文, 主题, 圣经文句, 乐谱\\n[计] 电文; 文本; 正文",
-  "definition": "n. the words of something written\\nn. a passage from the Bible that is used as the subject of a sermon\\nn. the main body of a written work (as distinct from illustrations or footnotes etc.)"
+  "translation": "n. 文本, 正文, 课文, 主题, 圣经文句, 乐谱\n[计] 电文; 文本; 正文",
+  "definition": "n. the words of something written\nn. a passage from the Bible that is used as the subject of a sermon\nn. the main body of a written work (as distinct from illustrations or footnotes etc.)"
  },
  {
   "word": "themselves",
   "phonetic": "ðәm'selvz",
   "translation": "pron. 他们自己, 她们自己, 它们自己",
-  "definition": "pron. The plural of himself, herself, and itself. See\\n   Himself, Herself, Itself."
+  "definition": "pron. The plural of himself, herself, and itself. See\n   Himself, Herself, Itself."
  },
  {
   "word": "time",
   "phonetic": "taim",
-  "translation": "n. 时间, 时侯, 时机, 时期, 期限, 次数, 节拍, 暂停, 规定时间\\nvt. 测定...的时间, 记录...的时间, 计时, 定时\\na. 时间的, 记时的, 定时的, 定期的, 分期的\\n[计] DOS内部命令:用于显示或设定系统的时间",
-  "definition": "n. an instance or single occasion for some event\\nn. a period of time considered as a resource under your control and sufficient to accomplish something\\nn. an indefinite period (usually marked by specific attributes or activities)\\nn. a suitable moment"
+  "translation": "n. 时间, 时侯, 时机, 时期, 期限, 次数, 节拍, 暂停, 规定时间\nvt. 测定...的时间, 记录...的时间, 计时, 定时\na. 时间的, 记时的, 定时的, 定期的, 分期的\n[计] DOS内部命令:用于显示或设定系统的时间",
+  "definition": "n. an instance or single occasion for some event\nn. a period of time considered as a resource under your control and sufficient to accomplish something\nn. an indefinite period (usually marked by specific attributes or activities)\nn. a suitable moment"
  },
  {
   "word": "touch",
   "phonetic": "tʌtʃ",
-  "translation": "n. 触觉, 碰, 触, 机灵, 轻触, 格调, 少许, 缺点, 弹力\\nvt. 接触, 触摸, 触及, 使接触, 达到, 涉及, 影响到, 使轻度受害, 感动\\nvi. 触摸, 接近, 涉及, 提到",
-  "definition": "n. the event of something coming in contact with the body\\nn. the faculty by which external objects or forces are perceived through contact with the body (especially the hands)\\nn. a suggestion of some quality\\nn. a distinguishing style"
+  "translation": "n. 触觉, 碰, 触, 机灵, 轻触, 格调, 少许, 缺点, 弹力\nvt. 接触, 触摸, 触及, 使接触, 达到, 涉及, 影响到, 使轻度受害, 感动\nvi. 触摸, 接近, 涉及, 提到",
+  "definition": "n. the event of something coming in contact with the body\nn. the faculty by which external objects or forces are perceived through contact with the body (especially the hands)\nn. a suggestion of some quality\nn. a distinguishing style"
  },
  {
   "word": "traveller",
   "phonetic": "'trævlә",
-  "translation": "n. 旅行者\\n[经] 旅行商",
+  "translation": "n. 旅行者\n[经] 旅行商",
   "definition": "n a person who changes location"
  },
  {
@@ -788,55 +788,55 @@
   "word": "treating",
   "phonetic": "'tri:tiŋ",
   "translation": "[机] 处理",
-  "definition": "v interact in a certain way\\nv subject to a process or treatment, with the aim of readying for some purpose, improving, or remedying a condition\\nv provide treatment for\\nv act on verbally or in some form of artistic expression\\nv provide with a gift or entertainment\\nv provide with choice or abundant food or drink\\nv engage in negotiations in order to reach an agreement\\nv regard or consider in a specific way"
+  "definition": "v interact in a certain way\nv subject to a process or treatment, with the aim of readying for some purpose, improving, or remedying a condition\nv provide treatment for\nv act on verbally or in some form of artistic expression\nv provide with a gift or entertainment\nv provide with choice or abundant food or drink\nv engage in negotiations in order to reach an agreement\nv regard or consider in a specific way"
  },
  {
   "word": "treatment",
   "phonetic": "'tri:tmәnt",
-  "translation": "n. 治疗, 待遇, 处理\\n[医] 疗法, 治疗; 处理",
-  "definition": "n. care provided to improve a situation (especially medical procedures or applications that are intended to relieve illness or injury)\\nn. the management of someone or something\\nn. a manner of dealing with something artistically"
+  "translation": "n. 治疗, 待遇, 处理\n[医] 疗法, 治疗; 处理",
+  "definition": "n. care provided to improve a situation (especially medical procedures or applications that are intended to relieve illness or injury)\nn. the management of someone or something\nn. a manner of dealing with something artistically"
  },
  {
   "word": "trip",
   "phonetic": "trip",
-  "translation": "n. 旅行, 绊倒, 摔倒, 失足, 差错, 旅程\\nvt. 使跌倒, 使犯错, 使失败\\nvi. 轻快地走, 绊倒, 失误, 犯错, 结巴, 旅行, 远足",
-  "definition": "n. a journey for some purpose (usually including the return)\\nn. a hallucinatory experience induced by drugs\\nn. an exciting or stimulating experience\\nn. a light or nimble tread"
+  "translation": "n. 旅行, 绊倒, 摔倒, 失足, 差错, 旅程\nvt. 使跌倒, 使犯错, 使失败\nvi. 轻快地走, 绊倒, 失误, 犯错, 结巴, 旅行, 远足",
+  "definition": "n. a journey for some purpose (usually including the return)\nn. a hallucinatory experience induced by drugs\nn. an exciting or stimulating experience\nn. a light or nimble tread"
  },
  {
   "word": "trips",
   "phonetic": "",
   "translation": "abbr. 与贸易有关的知识产权（Agreement On Trade-related Aspects of Intellectual Property Right）",
-  "definition": "n a journey for some purpose (usually including the return)\\nn a hallucinatory experience induced by drugs\\nn an accidental misstep threatening (or causing) a fall\\nn an exciting or stimulating experience\\nn a catch mechanism that acts as a switch\\nn a light or nimble tread\\nn an unintentional but embarrassing blunder\\nv miss a step and fall or nearly fall\\nv cause to stumble\\nv make a trip for pleasure\\nv put in motion or move to act\\nv get high, stoned, or drugged"
+  "definition": "n a journey for some purpose (usually including the return)\nn a hallucinatory experience induced by drugs\nn an accidental misstep threatening (or causing) a fall\nn an exciting or stimulating experience\nn a catch mechanism that acts as a switch\nn a light or nimble tread\nn an unintentional but embarrassing blunder\nv miss a step and fall or nearly fall\nv cause to stumble\nv make a trip for pleasure\nv put in motion or move to act\nv get high, stoned, or drugged"
  },
  {
   "word": "uncertain",
   "phonetic": ".ʌn'sә:tn",
-  "translation": "a. 不确定的, 无常的, 不确信的, 不可预测的\\n[法] 不确定的, 未定的, 不确信的",
-  "definition": "a. lacking or indicating lack of confidence or assurance\\na. not established beyond doubt; still undecided or unknown\\na. not certain to occur; not inevitable\\ns. not consistent or dependable"
+  "translation": "a. 不确定的, 无常的, 不确信的, 不可预测的\n[法] 不确定的, 未定的, 不确信的",
+  "definition": "a. lacking or indicating lack of confidence or assurance\na. not established beyond doubt; still undecided or unknown\na. not certain to occur; not inevitable\ns. not consistent or dependable"
  },
  {
   "word": "unknown",
   "phonetic": ".ʌn'nәun",
-  "translation": "a. 不知道的, 未知的, 陌生的\\nn. 未知物, 未知数",
-  "definition": "n. an unknown and unexplored region\\nn. a variable whose values are solutions of an equation\\na. not known\\ns. not known to exist"
+  "translation": "a. 不知道的, 未知的, 陌生的\nn. 未知物, 未知数",
+  "definition": "n. an unknown and unexplored region\nn. a variable whose values are solutions of an equation\na. not known\ns. not known to exist"
  },
  {
   "word": "unless",
   "phonetic": ".ʌn'les",
-  "translation": "conj. 除非\\nprep. 除...之外",
-  "definition": "conj. Upon any less condition than (the fact or thing stated\\n   in the sentence or clause which follows); if not; supposing that not;\\n   if it be not; were it not that; except; as, we shall fail unless we are\\n   industrious."
+  "translation": "conj. 除非\nprep. 除...之外",
+  "definition": "conj. Upon any less condition than (the fact or thing stated\n   in the sentence or clause which follows); if not; supposing that not;\n   if it be not; were it not that; except; as, we shall fail unless we are\n   industrious."
  },
  {
   "word": "untreated",
   "phonetic": "'ʌn'tri:tid",
   "translation": "[化] 未经处理的",
-  "definition": "a. not given medical care or treatment\\na. not subjected to chemical or physical treatment\\ns. (of a specimen for study under a microscope) not treated with a reagent or dye"
+  "definition": "a. not given medical care or treatment\na. not subjected to chemical or physical treatment\ns. (of a specimen for study under a microscope) not treated with a reagent or dye"
  },
  {
   "word": "upon",
   "phonetic": "ә'pɒn",
   "translation": "prep. 在...之上, 迫近, 紧接着",
-  "definition": "prep. On; -- used in all the senses of that word, with which it\\n   is interchangeable."
+  "definition": "prep. On; -- used in all the senses of that word, with which it\n   is interchangeable."
  },
  {
   "word": "used",
@@ -847,32 +847,32 @@
  {
   "word": "useful",
   "phonetic": "'ju:sful",
-  "translation": "a. 有用的, 有益的\\n[机] 有用的, 有效的",
+  "translation": "a. 有用的, 有益的\n[机] 有用的, 有效的",
   "definition": "a. being of use or service"
  },
  {
   "word": "various",
   "phonetic": "'vєәriәs",
-  "translation": "a. 不同的, 各种的, 多方面的, 许多的, 个别的, 杂色的\\n[法] 不同的, 种种的, 各式各样的",
-  "definition": "s of many different kinds purposefully arranged but lacking any uniformity\\ns considered individually\\ns distinctly dissimilar or unlike\\ns having great diversity or variety"
+  "translation": "a. 不同的, 各种的, 多方面的, 许多的, 个别的, 杂色的\n[法] 不同的, 种种的, 各式各样的",
+  "definition": "s of many different kinds purposefully arranged but lacking any uniformity\ns considered individually\ns distinctly dissimilar or unlike\ns having great diversity or variety"
  },
  {
   "word": "voltage",
   "phonetic": "'vәultidʒ",
-  "translation": "n. 电压, 伏特数\\n[化] 电压",
+  "translation": "n. 电压, 伏特数\n[化] 电压",
   "definition": "n. the rate at which energy is drawn from a source that produces a flow of electricity in a circuit; expressed in volts"
  },
  {
   "word": "waste",
   "phonetic": "weist",
-  "translation": "n. 浪费, 废物, 损耗, 消耗, 荒地, 垃圾, 地面风化物\\na. 废弃的, 荒芜的, 多余的\\nvt. 浪费, 消耗, 使荒芜\\nvi. 浪费, 消耗, 变消瘦",
-  "definition": "n. any materials unused and rejected as worthless or unwanted\\nn. useless or profitless activity; using or expending or consuming thoughtlessly or carelessly\\nn. (law) reduction in the value of an estate caused by act or neglect\\nv. spend thoughtlessly; throw away"
+  "translation": "n. 浪费, 废物, 损耗, 消耗, 荒地, 垃圾, 地面风化物\na. 废弃的, 荒芜的, 多余的\nvt. 浪费, 消耗, 使荒芜\nvi. 浪费, 消耗, 变消瘦",
+  "definition": "n. any materials unused and rejected as worthless or unwanted\nn. useless or profitless activity; using or expending or consuming thoughtlessly or carelessly\nn. (law) reduction in the value of an estate caused by act or neglect\nv. spend thoughtlessly; throw away"
  },
  {
   "word": "way",
   "phonetic": "wei",
-  "translation": "n. 路, 路线, 路途, 方法, 道路, 情形, 规模, 习惯, 行业, 方面\\nadv. 远远地, 非常",
-  "definition": "n. the condition of things generally\\nn. a course of conduct\\nn. any artifact consisting of a road or path affording passage from one place to another\\nn. a journey or passage"
+  "translation": "n. 路, 路线, 路途, 方法, 道路, 情形, 规模, 习惯, 行业, 方面\nadv. 远远地, 非常",
+  "definition": "n. the condition of things generally\nn. a course of conduct\nn. any artifact consisting of a road or path affording passage from one place to another\nn. a journey or passage"
  },
  {
   "word": "well-known",
