@@ -3,26 +3,34 @@
     {
       "key": "NCE1",
       "title": "NCE1 English Book",
-      "path": "https://nce.mleo.site/NCE1",
-      "lrcPath": "books/NCE1"
+      "path": "https://raw.githubusercontent.com/letaibai/New-Concept-English/main/新概念英语第1册美音（MP3+LRC）/NCE1-美音-(MP3+LRC)",
+      "lrcPath": "books/NCE1",
+      "audioNamer": "nce1",
+      "catalogPath": "books/NCE1"
     },
     {
       "key": "NCE2",
       "title": "NCE2 English Book",
-      "path": "https://nce.mleo.site/NCE2",
-      "lrcPath": "books/NCE2"
+      "path": "https://raw.githubusercontent.com/letaibai/New-Concept-English/main/新概念英语第2册美音（MP3+LRC）/NCE2-美音-(MP3+LRC)",
+      "lrcPath": "books/NCE2",
+      "audioNamer": "nce234",
+      "catalogPath": "books/NCE2"
     },
     {
       "key": "NCE3",
       "title": "NCE3 English Book",
-      "path": "https://nce.mleo.site/NCE3",
-      "lrcPath": "books/NCE3"
+      "path": "https://raw.githubusercontent.com/letaibai/New-Concept-English/main/新概念英语第3册美音（MP3+LRC）/NCE3-美音-(MP3+LRC)",
+      "lrcPath": "books/NCE3",
+      "audioNamer": "nce234",
+      "catalogPath": "books/NCE3"
     },
     {
       "key": "NCE4",
       "title": "NCE4 English Book",
-      "path": "https://nce.mleo.site/NCE4",
-      "lrcPath": "books/NCE4"
+      "path": "https://raw.githubusercontent.com/letaibai/New-Concept-English/main/新概念英语第4册美音（MP3+LRC）/NCE4-美音-(MP3+LRC)",
+      "lrcPath": "books/NCE4",
+      "audioNamer": "nce234",
+      "catalogPath": "books/NCE4"
     },
     {
       "key": "NCE1(85)",

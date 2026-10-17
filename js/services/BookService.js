@@ -3,6 +3,16 @@
  * @module services/BookService
  */
 
+/**
+ * 音频文件名映射：把 book.json 里的课程名转换为目标仓库的实际音频文件名
+ * nce1:   "001&002.Sorry, Sir" -> "001&002－Sorry, Sir"（全角破折号，可能带尾部句点）
+ * nce234: "01.Finding Fossil Man" -> "01－Finding Fossil Man"
+ */
+const AUDIO_NAMERS = {
+  nce1: (name) => name.replace('.', '－'),
+  nce234: (name) => name.replace('.', '－'),
+};
+
 export class BookService {
   /**
    * @param {string} [catalogUrl='data.json']
@@ -53,25 +63,27 @@ export class BookService {
   async loadBook(book, signal) {
     const rawPath = book.path || '';
     const bookPath = rawPath.trim().replace(/\/$/, '');
-    const response = await fetch(`${bookPath}/book.json`, { signal });
+    const catalogPath = (book.catalogPath || bookPath).trim().replace(/\/$/, '');
+    const response = await fetch(`${catalogPath}/book.json`, { signal });
     if (!response.ok) {
       throw new Error(`HTTP ${response.status}`);
     }
     const data = await response.json();
     const lrcPath = (book.lrcPath || '').trim().replace(/\/$/, '');
+    const namer = AUDIO_NAMERS[book.audioNamer] || ((name) => name);
     const units = (Array.isArray(data.units) ? data.units : [])
       .filter((unit) => unit?.filename)
       .map((unit, index) => ({
         ...unit,
         id: index + 1,
         title: unit.title || `Unit ${index + 1}`,
-        audio: `${bookPath}/${unit.filename}.mp3`,
+        audio: `${bookPath}/${encodeURIComponent(namer(unit.filename))}.mp3`,
         lrc: `${lrcPath || bookPath}/${unit.filename}.lrc`,
       }));
 
     return {
       units,
-      coverUrl: data.cover ? `${bookPath}/${data.cover}` : '',
+      coverUrl: data.cover ? `${catalogPath}/${data.cover}` : '',
       bookName: data.name || book.title || '',
       bookLevel: data.level || book.key || '',
     };
