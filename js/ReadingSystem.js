@@ -19,6 +19,7 @@ import { BookService } from './services/BookService.js';
 import { PrefetchService } from './services/PrefetchService.js';
 import { AudioController } from './player/AudioController.js';
 import { LyricsView } from './ui/LyricsView.js';
+import { VocabView } from './ui/VocabView.js';
 import { UnitView } from './ui/UnitView.js';
 import { Toast } from './ui/Toast.js';
 
@@ -83,6 +84,10 @@ export class ReadingSystem {
       nextBtn: qs('#nextUnitBtn'),
       onUnitChange: (value) => this.#onUnitNavigate(value),
       onBookChange: (bookKey) => this.#onBookSelect(bookKey),
+    });
+
+    this.vocabView = new VocabView({
+      container: qs('#vocabPanel'),
     });
 
     this.speedBtn = qs('#speedBtn');
@@ -218,6 +223,8 @@ export class ReadingSystem {
       this.lyricsView.setEmpty(this.config.ERROR_MESSAGES.LOAD_FAILED);
     }
 
+    this.#loadVocab(unit, signal);
+
     if (loadId !== this.unitLoadId) return;
 
     this.player.setSrc(unit.audio, {
@@ -240,6 +247,14 @@ export class ReadingSystem {
     this.unitView.destroy();
     this.prefetch.clear();
     this.toast.destroy();
+  }
+
+  #loadVocab(unit, signal) {
+    if (!this.vocabView || !unit?.lrc) return;
+    const filename = unit.lrc.split('/').pop()?.replace(/\.lrc$/, '') || '';
+    this.vocabView
+      .load(this.state.bookKey, decodeURIComponent(filename), signal)
+      .catch(() => {});
   }
 
   #bindChrome() {

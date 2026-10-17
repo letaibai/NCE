@@ -1,0 +1,306 @@
+[
+ {
+  "word": "expensive",
+  "phonetic": "ik'spensiv",
+  "translation": "a. 贵的, 奢华的, 费用浩大的, 乱化钱的\\n[经] 高价的, 昂贵的, 浪费的",
+  "definition": "a. high in price or charging high prices"
+ },
+ {
+  "word": "model",
+  "phonetic": "'mɒdәl",
+  "translation": "n. 模型, 模范, 模特儿\\na. 模范的, 作模型用的\\nvi. 做模型, 做模特儿\\nvt. 使模仿, 塑造\\n[计] 模型",
+  "definition": "n. a hypothetical description of a complex entity or process\\nn. a type of product\\nn. a person who poses for a photographer or painter or sculptor\\nn. representation of something (sometimes on a smaller scale)"
+ },
+ {
+  "word": "it",
+  "phonetic": "it",
+  "translation": "pron. 它\\n[计] 信息论, 输入终端, 智能终端, 内捕获",
+  "definition": "n the branch of engineering that deals with the use of computers and telecommunications to retrieve and store and transmit information"
+ },
+ {
+  "word": "like",
+  "phonetic": "laik",
+  "translation": "a. 相似的, 同样的\\nvt. 喜欢, 愿意, 想\\nvi. 喜欢, 希望\\nn. 爱好, 同样的人(或物)\\nprep. 象, 如同\\nadv. 可能",
+  "definition": "n. a similar kind\\nn. a kind of person\\nv. find enjoyable or agreeable\\nv. be fond of"
+ },
+ {
+  "word": "pounds",
+  "phonetic": "paundz",
+  "translation": "n. 磅, 英镑；重击（pound复数形式）",
+  "definition": "n 16 ounces avoirdupois\\nn the basic unit of money in Great Britain and Northern Ireland; equal to 100 pence\\nn a unit of apothecary weight equal to 12 ounces troy\\nn the basic unit of money in Syria; equal to 100 piasters\\nn the basic unit of money in the Sudan; equal to 100 piasters\\nn the basic unit of money in Lebanon; equal to 100 piasters\\nn formerly the basic unit of money in Ireland; equal to 100 pence\\nn the basic unit of money in Egypt; equal to 100 piasters\\nn the basic unit of money in Cyprus; equal to 100 cents\\nn a nontechnical unit of force equal to the mass of 1 pound with an acceleration of free fall equal to 32 feet/sec/sec\\nn United States writer who lived in Europe; strongly influenced the development of modern literature (1885-1972)\\nn a symbol for a unit of currency (especially for the pound sterling in Great Britain)\\nn a public enclosure for stray or unlicensed dogs\\nn the act of pounding (delivering repeated heavy blows)\\nv hit hard with the hand, fist, or some heavy instrument\\nv strike or drive against with a heavy impact\\nv move heavily or clumsily\\nv move rhythmically\\nv partition off into compartments\\nv shut up or confine in any enclosure or within any bounds or limits\\nv place or shut up in a pound\\nv break down and crush by beating, as with a pestle"
+ },
+ {
+  "word": "buy",
+  "phonetic": "bai",
+  "translation": "vt. 买, 获得\\nvi. 买\\nn. 购买, 买得的东西",
+  "definition": "v. obtain by purchase; acquire by means of a financial transaction\\nv. be worth or be capable of buying\\nv. acquire by trade or sacrifice or exchange\\nv. accept as true"
+ },
+ {
+  "word": "don't",
+  "phonetic": "dәunt",
+  "translation": "(= do not)不要\\nn. 禁忌"
+ },
+ {
+  "word": "instalments",
+  "phonetic": "inˈstɔ:lmənts",
+  "translation": "n. 一部分( instalment的复数形式 ); 一集; 每一期摊付的款项; 分期付款",
+  "definition": "n. a part of a broadcast serial\\nn. a part of a published serial\\nn. the act of installing something (as equipment)"
+ },
+ {
+  "word": "afford",
+  "phonetic": "ә'fɒ:d",
+  "translation": "vt. 买得起, 足以, 给予",
+  "definition": "v. be able to spare or give up\\nv. have the financial means to do something or buy something\\nv. afford access to"
+ },
+ {
+  "word": "can't",
+  "phonetic": "kɑ:nt",
+  "translation": "vi. 不能",
+  "definition": " A colloquial contraction for can not."
+ },
+ {
+  "word": "course",
+  "phonetic": "kɒ:s",
+  "translation": "n. 课程, 路线, 过程, 一道菜, 道路\\nv. 追, (使)跑",
+  "definition": "n. education imparted in a series of lessons or meetings\\nn. a connected series of events or actions or developments\\nn. general line of orientation\\nn. a mode of action"
+ },
+ {
+  "word": "hundred",
+  "phonetic": "'hʌndrәd",
+  "translation": "n. 百, 百个东西\\nnum. 百, 百个\\na. 一百的, 许多的",
+  "definition": "n. ten 10s\\ns. being ten more than ninety"
+ },
+ {
+  "word": "money",
+  "phonetic": "'mʌni",
+  "translation": "n. 金钱, 一笔款, 财富, 货币, 金额\\n[经] 货币, 金钱, 财产",
+  "definition": "n. the most common medium of exchange; functions as legal tender\\nn. wealth reckoned in terms of money\\nn. the official currency issued by a government or national bank"
+ },
+ {
+  "word": "much",
+  "phonetic": "mʌtʃ",
+  "translation": "n. 大量, 许多, 重要的事\\na. 很多的, 重要的\\nadv. 多, 甚, 几乎",
+  "definition": "n. a great amount or extent\\na. (quantifier used with mass nouns) great in quantity or degree or extent\\nr. to a great degree or extent\\nr. very"
+ },
+ {
+  "word": "one",
+  "phonetic": "wʌn",
+  "translation": "n. 一(个)\\npron. 一, 任何人\\nnum. 一, 一个\\na. 一致的, 完整的",
+  "definition": "n. the smallest whole number or a numeral representing this number\\nn. a single person or thing\\ns. used of a single unit or thing; not two or more\\ns. having the indivisible character of a unit"
+ },
+ {
+  "word": "television",
+  "phonetic": "'teli.viʒәn",
+  "translation": "n. 电视\\n[电] 电视",
+  "definition": "n. broadcasting visual images of stationary or moving objects\\nn. a telecommunication system that transmits images of objects (stationary or moving) between distant points"
+ },
+ {
+  "word": "three",
+  "phonetic": "θri:",
+  "translation": "num. 三, 三个",
+  "definition": "n. the cardinal number that is the sum of one and one and one\\ns. being one more than two"
+ },
+ {
+  "word": "always",
+  "phonetic": "'ɒ:lweiz",
+  "translation": "adv. 总是, 始终",
+  "definition": "r. at all times; all the time and on every occasion\\nr. at any time or in any event\\nr. forever; throughout all time"
+ },
+ {
+  "word": "answer",
+  "phonetic": "'ɑ:nsә",
+  "translation": "n. 答案, 回答, 回报, 答辩\\nvt. 回答, 反驳, 适应, 响应, 符合\\nvi. 回答, 答应, 负责, 符合, 成功\\n[计] 用户问题及答案新闻组",
+  "definition": "n. a statement (either spoken or written) that is made to reply to a question or request or criticism or accusation\\nn. the speech act of replying to a question\\nn. the principal pleading by the defendant in response to plaintiff's complaint; in criminal law it consists of the defendant's plea of `guilty' or `not guilty' (or nolo contendere); in civil law it must contain denials of all allegations in the plaintiff's complaint that the defendant hopes to controvert and it can contain affirmative defenses or counterclaims\\nn. a nonverbal reaction"
+ },
+ {
+  "word": "best",
+  "phonetic": "best",
+  "translation": "a. 最好的\\nadv. 最好地\\nn. 最好的人",
+  "definition": "n. the supreme effort one can make\\nn. the person who is most outstanding or excellent; someone who tops all others\\nn. Canadian physiologist (born in the United States) who assisted F. G. Banting in research leading to the discovery of insulin (1899-1978)"
+ },
+ {
+  "word": "certainly",
+  "phonetic": "'sә:tәnli",
+  "translation": "adv. 确定地",
+  "definition": "r definitely or positively (`sure' is sometimes used informally for `surely')"
+ },
+ {
+  "word": "cost",
+  "phonetic": "kɒst",
+  "translation": "n. 代价, 价值, 费用\\nvi. 花费\\nvt. 使失去, 值, 使花费",
+  "definition": "n. the total spent for goods or services including money and time and labor\\nv. be priced at\\nv. require to lose, suffer, or sacrifice"
+ },
+ {
+  "word": "costs",
+  "phonetic": "",
+  "translation": "n. 费用；诉讼费；损失（cost的复数）",
+  "definition": "n. pecuniary reimbursement to the winning party for the expenses of litigation"
+ },
+ {
+  "word": "dear",
+  "phonetic": "'diә",
+  "translation": "n. 亲爱的人\\na. 亲爱的, 昂贵的, 严重的, 急迫的\\ninterj. 啊\\nadv. 深爱地, 高价地",
+  "definition": "s. with or in a close or intimate relationship\\ns. earnest"
+ },
+ {
+  "word": "deposit",
+  "phonetic": "di'pɒzit",
+  "translation": "n. 存款, 定金, 堆积物\\nvt. 存放, 堆积\\nvi. 沉淀",
+  "definition": "n. the phenomenon of sediment or gravel accumulating\\nn. money deposited in a bank or some similar institution\\nn. money given as security for an article acquired for temporary use\\nn. a payment given as a guarantee that an obligation will be met"
+ },
+ {
+  "word": "five",
+  "phonetic": "faiv",
+  "translation": "num. 五, 五个",
+  "definition": "n. the cardinal number that is the sum of four and one\\ns. being one more than four"
+ },
+ {
+  "word": "fourteen",
+  "phonetic": "'fɒ:'ti:n",
+  "translation": "num. 十四, 十四个",
+  "definition": "n. the cardinal number that is the sum of thirteen and one\\ns. being one more than thirteen"
+ },
+ {
+  "word": "frith",
+  "phonetic": "friθ",
+  "translation": "n. (狭窄的)海湾, 河口",
+  "definition": "n. A narrow arm of the sea; an estuary; the opening of a river\\n   into the sea; as, the Frith of Forth.\\nn. A kind of weir for catching fish.\\na. A forest; a woody place.\\na. A small field taken out of a common, by inclosing it; an\\n   inclosure."
+ },
+ {
+  "word": "good",
+  "phonetic": "gud",
+  "translation": "n. 善行, 好处, 利益\\na. 好的, 优良的, 上等的, 愉快的, 有益的, 好心的, 慈善的, 虔诚的",
+  "definition": "n. benefit\\nn. moral excellence or admirableness\\nn. that which is pleasing or valuable or useful\\na. having desirable or positive qualities especially those suitable for a thing specified"
+ },
+ {
+  "word": "less",
+  "phonetic": "les",
+  "translation": "n. 较少, 较小\\na. 少的, 小的\\nadv. 较少, 较小, 较差\\n[计] 最低成本估算与调度法",
+  "definition": "a. (comparative of `little' usually used with mass nouns) a quantifier meaning not as great in amount or degree\\ns. (usually preceded by `no') lower in quality\\ns. (nonstandard in some uses but often idiomatic with measure phrases) fewer\\nr. used to form the comparative of some adjectives and adverbs"
+ },
+ {
+  "word": "lesson",
+  "phonetic": "'lesn",
+  "translation": "n. 课, 课业, 教训",
+  "definition": "n. a unit of instruction\\nn. a task assigned for individual study"
+ },
+ {
+  "word": "listen",
+  "phonetic": "'lisn",
+  "translation": "vi. 听, 倾听, 听从\\nn. 听, 倾听",
+  "definition": "v. hear with intention\\nv. listen and pay attention"
+ },
+ {
+  "word": "millionaire",
+  "phonetic": ".miljә'nєә",
+  "translation": "n. 百万富翁, 大富豪\\n[经] 大资本家, 巨富, 百万富翁",
+  "definition": "n. a person whose material wealth is valued at more than a million dollars"
+ },
+ {
+  "word": "millionaires",
+  "phonetic": "ˌmiljəˈnɛəz",
+  "translation": "n. 百万富翁( millionaire的复数形式 ); 大富翁; 大财主; 有钱人",
+  "definition": "n. a person whose material wealth is valued at more than a million dollars"
+ },
+ {
+  "word": "month",
+  "phonetic": "mʌnθ",
+  "translation": "n. 月\\n[经] 月",
+  "definition": "n. a time unit of approximately 30 days"
+ },
+ {
+  "word": "mr",
+  "phonetic": "'mistә(r)",
+  "translation": "先生\\n[计] 存储器回收程序, 多重请求",
+  "definition": "n a form of address for a man"
+ },
+ {
+  "word": "pay",
+  "phonetic": "pei",
+  "translation": "n. 薪资, 付款, 补偿\\nvt. 支付, 付清, 补偿, 偿还, 对...有利, 为...涂防水物\\nvi. 付款, 付出代价, 偿还, 得到报应, 获得好处",
+  "definition": "v. give money, usually in exchange for goods or services\\nv. do or give something to somebody in return\\nv. be worth it\\nv. render"
+ },
+ {
+  "word": "price",
+  "phonetic": "prais",
+  "translation": "n. 价格, 代价, 价值\\nvt. 定...的价格",
+  "definition": "n. the amount of money needed to purchase something\\nn. value measured by what must be given or done or undergone to obtain something\\nn. the high value or worth of something\\nn. a monetary reward for helping to catch a criminal"
+ },
+ {
+  "word": "question",
+  "phonetic": "'kwestʃәn",
+  "translation": "n. 问题, 询问\\nv. 询问, 审问, 怀疑\\n[计] 询问",
+  "definition": "n. an instance of questioning\\nn. the subject matter at issue\\nn. a sentence of inquiry that asks for a reply\\nn. an informal reference to a marriage proposal"
+ },
+ {
+  "word": "shop",
+  "phonetic": "ʃɒp",
+  "translation": "n. 商店, 工厂, 车间\\nvi. 购物, 到处寻找\\nvt. 选购",
+  "definition": "n. a mercantile establishment for the retail sale of goods or services\\nv. do one's shopping\\nv. shop around; not necessarily buying"
+ },
+ {
+  "word": "sometimes",
+  "phonetic": "'sʌmtaimz",
+  "translation": "adv. 有时, 时常, 往往",
+  "definition": "r. on certain occasions or in certain cases but not always; at other times for six months\""
+ },
+ {
+  "word": "tape",
+  "phonetic": "teip",
+  "translation": "n. 带子, 录音带, 磁带, 窄带, 卷尺\\nvt. 以带子绑起, 测量, 录音\\n[计] 带",
+  "definition": "n. a long thin piece of cloth or paper as used for binding or fastening\\nn. a recording made on magnetic tape\\nn. the finishing line for a foot race\\nn. measuring instrument consisting of a narrow strip (cloth or metal) marked in inches or centimeters and used for measuring lengths"
+ },
+ {
+  "word": "that",
+  "phonetic": "ðæt",
+  "translation": "a. 那, 那个\\nconj. 以致, 因为\\npron. 那\\nadv. 那么, 那样",
+  "definition": "pron., a., conj., &  As a demonstrative pronoun (pl. Those),\\n   that usually points out, or refers to, a person or thing previously\\n   mentioned, or supposed to be understood. That, as a demonstrative, may\\n   precede the noun to which it refers; as, that which he has said is\\n   true; those in the basket are good apples.\\npron., a., conj., &  As an adjective, that has the same\\n   demonstrative force as the pronoun, but is followed by a noun.\\npron., a., conj., &  As a relative pronoun, that is\\n   equivalent to who or which, serving to point out, and make definite, a\\n   person or thing spoken of, or alluded to, before, and may be either\\n   singular or plural.\\npron., a., conj., &  As a conjunction, that retains much of\\n   its force as a demonstrative pronoun.\\npron., a., conj., &  To introduce a clause employed as the\\n   object of the preceding verb, or as the subject or predicate nominative\\n   of a verb.\\npron., a., conj., &  To introduce, a reason or cause; --\\n   equivalent to for that, in that, for the reason that, because.\\npron., a., conj., &  To introduce a purpose; -- usually\\n   followed by may, or might, and frequently preceded by so, in order, to\\n   the end, etc.\\npron., a., conj., &  To introduce a consequence, result, or\\n   effect; -- usually preceded by so or such, sometimes by that.\\npron., a., conj., &  In an elliptical sentence to introduce\\n   a dependent sentence expressing a wish, or a cause of surprise,\\n   indignation, or the like.\\npron., a., conj., &  As adverb: To such a degree; so; as, he\\n   was that frightened he could say nothing."
+ },
+ {
+  "word": "things",
+  "phonetic": "",
+  "translation": "n. 所有物, 财产, 用具, 用品, 局面, 形势, 情况\\n[法] 物",
+  "definition": "n. any movable possession (especially articles of clothing)"
+ },
+ {
+  "word": "think",
+  "phonetic": "θiŋk",
+  "translation": "vt. 想, 考虑, 想起, 想像, 打算, 认为\\nvi. 思考, 料想\\nn. 想法\\na. 思想的",
+  "definition": "n. an instance of deliberate thinking\\nv. judge or regard; look upon; judge\\nv. expect, believe, or suppose\\nv. use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments"
+ },
+ {
+  "word": "thirty",
+  "phonetic": "'θә:ti",
+  "translation": "num. 三十, 三十个",
+  "definition": "n. the cardinal number that is the product of ten and three\\ns. being ten more than twenty"
+ },
+ {
+  "word": "want",
+  "phonetic": "wɒnt",
+  "translation": "n. 需要的东西, 缺乏, 贫困, 需要\\nvt. 要, 希望, 应该, 缺少\\nvi. 生活困苦, 需要, 缺少",
+  "definition": "v. have need of\\nv. hunt or look for; want for a particular reason\\nv. wish or demand the presence of\\nv. be without, lack; be deficient in"
+ },
+ {
+  "word": "work",
+  "phonetic": "wә:k",
+  "translation": "n. 工作, 劳动, 职业, 行为, 功, 作品, 成果, 产品, 工程\\nvi. 工作, 劳动, 做, 运转, 起作用, 被加工\\nvt. 使工作, 使转动, 开动, 使用, 经营, 使逐渐变得, 造成",
+  "definition": "n. activity directed toward making or doing something\\nn. a product produced or accomplished through the effort or activity or agency of a person or thing\\nn. (physics) a manifestation of energy; the transfer of energy from one physical system to another expressed as the product of a force and the distance through which it moves a body in the direction of that force\\nv. exert oneself by doing mental or physical work for a purpose or out of necessity"
+ },
+ {
+  "word": "worth",
+  "phonetic": "wә:θ",
+  "translation": "n. 价值, 财产\\na. 值...的, 值得的",
+  "definition": "n. an indefinite quantity of something having a specified value\\nn. the quality that renders something desirable or valuable or useful\\nn. French couturier (born in England) regarded as the founder of Parisian haute couture; noted for introducing the bustle (1825-1895)\\ns. having a specified value"
+ },
+ {
+  "word": "years",
+  "phonetic": "",
+  "translation": "n. 年代；岁月；年；年龄",
+  "definition": "n a late time of life\\nn a prolonged period of time\\nn the time during which someone's life continues\\nn a period of time containing 365 (or 366) days\\nn a period of time occupying a regular part of a calendar year that is used for some particular activity\\nn the period of time that it takes for a planet (as, e.g., Earth or Mars) to make a complete revolution around the sun\\nn a body of students who graduate together"
+ },
+ {
+  "word": "you're",
+  "phonetic": "jʊə(r)",
+  "translation": "abbr. you are 你（你们）是"
+ }
+]

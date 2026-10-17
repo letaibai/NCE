@@ -1,0 +1,346 @@
+[
+ {
+  "word": "didn't",
+  "phonetic": "ˈdɪdnt",
+  "translation": "abbr. did not 没有"
+ },
+ {
+  "word": "drive",
+  "phonetic": "draiv",
+  "translation": "n. 驾车, 快车道, 推进力, 驱动, 动力, 击球, 驱动器\\nvt. 开车, 驱使, 推动, 驾驶\\nvi. 开车, 猛击, 飞跑\\n[计] 驱动器",
+  "definition": "n. the act of applying force to propel something\\nn. a mechanism by which force or power is transmitted in a machine\\nn. the trait of being highly motivated\\nn. hitting a golf ball off of a tee with a driver"
+ },
+ {
+  "word": "see",
+  "phonetic": "si:",
+  "translation": "vt. 看见, 查看, 参观, 游览, 理解, 知道, 同意\\nvi. 看, 观看, 注意, 知道, 考虑\\nn. 主教的职位",
+  "definition": "n. the seat within a bishop's diocese where his cathedral is located\\nv. perceive by sight or have the power to perceive by sight\\nv. deem to be\\nv. be careful or certain to do something; make certain of something"
+ },
+ {
+  "word": "slowly",
+  "phonetic": "'slәuli",
+  "translation": "adv. 慢慢地, 迟缓地",
+  "definition": "r. without speed (`slow' is sometimes used informally for `slowly')"
+ },
+ {
+  "word": "time",
+  "phonetic": "taim",
+  "translation": "n. 时间, 时侯, 时机, 时期, 期限, 次数, 节拍, 暂停, 规定时间\\nvt. 测定...的时间, 记录...的时间, 计时, 定时\\na. 时间的, 记时的, 定时的, 定期的, 分期的\\n[计] DOS内部命令:用于显示或设定系统的时间",
+  "definition": "n. an instance or single occasion for some event\\nn. a period of time considered as a resource under your control and sufficient to accomplish something\\nn. an indefinite period (usually marked by specific attributes or activities)\\nn. a suitable moment"
+ },
+ {
+  "word": "better",
+  "phonetic": "'betә",
+  "translation": "a. 较好的\\nadv. 比较好",
+  "definition": "n. something superior in quality or condition or effect\\nn. a superior person having claim to precedence\\nn. the superior one of two alternatives\\nv. surpass in excellence"
+ },
+ {
+  "word": "dreaming",
+  "phonetic": "",
+  "translation": "a. 有梦想的",
+  "definition": "n imaginative thoughts indulged in while awake\\nn a series of mental images and emotions occurring during sleep\\nv have a daydream; indulge in a fantasy\\nv experience while sleeping"
+ },
+ {
+  "word": "driving",
+  "phonetic": "'draiviŋ",
+  "translation": "n. 赶, 操纵, 驾驶\\na. 推进的, 强劲的, 精力旺盛的",
+  "definition": "n. the act of controlling and steering the movement of a vehicle or animal\\ns. having the power of driving or impelling\\ns. acting with vigor"
+ },
+ {
+  "word": "gary",
+  "phonetic": "'^eәri",
+  "translation": "n. 盖理",
+  "definition": "n. a city in northwest Indiana on Lake Michigan; steel production"
+ },
+ {
+  "word": "hour",
+  "phonetic": "auә",
+  "translation": "n. 小时, 钟头, 时间, ...点钟, 课时",
+  "definition": "n. a period of time equal to 1/24th of a day\\nn. clock time\\nn. a special and memorable period\\nn. distance measured by the time taken to cover it"
+ },
+ {
+  "word": "miles",
+  "phonetic": "",
+  "translation": "n. 英里（1英里约合1609米, mile的复数形式）",
+  "definition": "n a unit of length equal to 1,760 yards or 5,280 feet; exactly 1609.344 meters\\nn a unit of length used in navigation; exactly 1,852 meters; historically based on the distance spanned by one minute of arc in latitude\\nn a large distance\\nn a former British unit of length once used in navigation; equivalent to 6,000 feet (1828.8 meters)\\nn a former British unit of length equivalent to 6,080 feet (1,853.184 meters); 800 feet longer than a statute mile\\nn an ancient Roman unit of length equivalent to 1620 yards\\nn a Swedish unit of length equivalent to 10 km\\nn a footrace extending one mile"
+ },
+ {
+  "word": "next",
+  "phonetic": "'nekst",
+  "translation": "n. 下一个\\na. 下一个的, 其次的, 贴近的\\nadv. 然后, 下次, 次于\\n[计] 近邻干扰",
+  "definition": "r. at the time or occasion immediately following"
+ },
+ {
+  "word": "officer",
+  "phonetic": "'ɒfisә",
+  "translation": "n. 军官, 主管, 官员, 公务员\\nvt. 指挥",
+  "definition": "n. a person authorized to serve in a position of authority on a vessel\\nv. direct or command as an officer"
+ },
+ {
+  "word": "seventy",
+  "phonetic": "'sevnti",
+  "translation": "num. 七十, 七十个",
+  "definition": "n. the cardinal number that is the product of ten and seven\\ns. being ten more than sixty"
+ },
+ {
+  "word": "you'd",
+  "phonetic": "juːd",
+  "translation": "abbr. (=you had)(=you would)\\n[网络] 你已经"
+ },
+ {
+  "word": "advice",
+  "phonetic": "әd'vais",
+  "translation": "n. 忠告, 劝告, 意见, 报道, 通知\\n[经] 通知书, 通知, 建议",
+  "definition": "n. a proposal for an appropriate course of action"
+ },
+ {
+  "word": "advise",
+  "phonetic": "әd'vaiz",
+  "translation": "vt. 劝告, 给...出主意, 通知, 建议\\nvi. 提意见, 商量",
+  "definition": "v. inform (somebody) of something"
+ },
+ {
+  "word": "afraid",
+  "phonetic": "ә'freid",
+  "translation": "a. 害怕的, 恐怕的, 遗憾的",
+  "definition": "a. filled with fear or apprehension\\ns. filled with regret or concern; used often to soften an unpleasant statement\\ns. feeling worry or concern or insecurity\\ns. having feelings of aversion or unwillingness"
+ },
+ {
+  "word": "always",
+  "phonetic": "'ɒ:lweiz",
+  "translation": "adv. 总是, 始终",
+  "definition": "r. at all times; all the time and on every occasion\\nr. at any time or in any event\\nr. forever; throughout all time"
+ },
+ {
+  "word": "ann",
+  "phonetic": "æn",
+  "translation": "n. 安（女子名）",
+  "definition": "n. Alt. of Annat"
+ },
+ {
+  "word": "answer",
+  "phonetic": "'ɑ:nsә",
+  "translation": "n. 答案, 回答, 回报, 答辩\\nvt. 回答, 反驳, 适应, 响应, 符合\\nvi. 回答, 答应, 负责, 符合, 成功\\n[计] 用户问题及答案新闻组",
+  "definition": "n. a statement (either spoken or written) that is made to reply to a question or request or criticism or accusation\\nn. the speech act of replying to a question\\nn. the principal pleading by the defendant in response to plaintiff's complaint; in criminal law it consists of the defendant's plea of `guilty' or `not guilty' (or nolo contendere); in civil law it must contain denials of all allegations in the plaintiff's complaint that the defendant hopes to controvert and it can contain affirmative defenses or counterclaims\\nn. a nonverbal reaction"
+ },
+ {
+  "word": "can't",
+  "phonetic": "kɑ:nt",
+  "translation": "vi. 不能",
+  "definition": " A colloquial contraction for can not."
+ },
+ {
+  "word": "careful",
+  "phonetic": "'kєәful",
+  "translation": "a. 小心的, 谨慎的",
+  "definition": "a. exercising caution or showing care or attention\\ns. cautiously attentive\\ns. unhurried and with care and dignity\\ns. full of cares or anxiety"
+ },
+ {
+  "word": "certainly",
+  "phonetic": "'sә:tәnli",
+  "translation": "adv. 确定地",
+  "definition": "r definitely or positively (`sure' is sometimes used informally for `surely')"
+ },
+ {
+  "word": "charge",
+  "phonetic": "tʃɑ:dʒ",
+  "translation": "n. 指控, 费用, 冲锋, 电荷, 炸药, 主管, 被托管人, 命令\\nvt. 控诉, 加罪于, 使充满, 使充电, 使承担\\nvi. 冲锋, 要价, 收费",
+  "definition": "n. an impetuous rush toward someone or something\\nn. (criminal law) a pleading describing some wrong or offense\\nn. the price charged for some article or service\\nn. the quantity of unbalanced electricity in a body (either positive or negative) and construed as an excess or deficiency of electrons"
+ },
+ {
+  "word": "darling",
+  "phonetic": "'dɑ:liŋ",
+  "translation": "n. 亲爱的, 可爱的人, 可爱的物\\na. 可爱的, 亲爱的",
+  "definition": "n. a special loved one\\nn. an Australian river; tributary of the Murray River"
+ },
+ {
+  "word": "doing",
+  "phonetic": "'du:iŋ",
+  "translation": "n. 行为, 活动",
+  "definition": "v engage in\\nv carry out or perform an action\\nv get (something) done\\nv proceed or get along\\nv give rise to; cause to happen or occur, not always intentionally\\nv carry out or practice; as of jobs and professions\\nv be sufficient; be adequate, either in quality or quantity\\nv create or design, often in a certain way\\nv behave in a certain manner; show a certain behavior; conduct or comport oneself\\nv spend time in prison or in a labor camp\\nv carry on or function\\nv arrange attractively\\nv travel or traverse (a distance)"
+ },
+ {
+  "word": "eighty",
+  "phonetic": "'eiti",
+  "translation": "num. 八十, 八十个",
+  "definition": "n. the cardinal number that is the product of ten and eight\\ns. being ten more than seventy"
+ },
+ {
+  "word": "husband",
+  "phonetic": "'hʌzbәnd",
+  "translation": "n. 丈夫, 管理人, 节俭的人\\nvt. 节俭, 使成丈夫, 持有",
+  "definition": "n. a married man; a woman's partner in marriage"
+ },
+ {
+  "word": "i'll",
+  "phonetic": "aɪl",
+  "translation": "我将, 我会（=I shall）"
+ },
+ {
+  "word": "i'm",
+  "phonetic": "aɪm",
+  "translation": "abbr. 我是（缩写）",
+  "definition": " A contraction of I am."
+ },
+ {
+  "word": "lesson",
+  "phonetic": "'lesn",
+  "translation": "n. 课, 课业, 教训",
+  "definition": "n. a unit of instruction\\nn. a task assigned for individual study"
+ },
+ {
+  "word": "let",
+  "phonetic": "let",
+  "translation": "vt. 让, 假设, 出租, 排放, 妨碍\\nvi. 出租, 被承包\\nn. 出租屋, 障碍",
+  "definition": "n. a serve that strikes the net before falling into the receiver's court; the ball must be served again\\nv. make it possible through a specific action or lack of action for something to happen\\nv. actively cause something to happen\\nv. leave unchanged"
+ },
+ {
+  "word": "licence",
+  "phonetic": "'laisns",
+  "translation": "n. 执照, 许可证, 特许\\nvt. 许可, 特许, 认可",
+  "definition": "n excessive freedom; lack of due restraint\\nn freedom to deviate deliberately from normally applicable rules or practices (especially in behavior or speech)\\nn a legal document giving official permission to do something\\nv authorize officially"
+ },
+ {
+  "word": "limit",
+  "phonetic": "'limit",
+  "translation": "n. 界限, 边界, 限度, 极限, 限制\\nvt. 限制, 限定",
+  "definition": "n. the greatest possible degree of something\\nn. as far as something can go\\nn. the boundary of a specific area\\nn. the mathematical value toward which a function goes as the independent variable approaches infinity"
+ },
+ {
+  "word": "listen",
+  "phonetic": "'lisn",
+  "translation": "vi. 听, 倾听, 听从\\nn. 听, 倾听",
+  "definition": "v. hear with intention\\nv. listen and pay attention"
+ },
+ {
+  "word": "look",
+  "phonetic": "luk",
+  "translation": "n. 一看, 神色, 样子, 面容\\nvi. 看, 注意, 朝着, 显得\\nvt. 打量, 看上去与...一样, 以眼色(或脸色)显示, 期待",
+  "definition": "n. the act of directing the eyes toward something and perceiving it visually\\nn. physical appearance\\nv. perceive with attention; direct one's gaze towards\\nv. give a certain impression or have a certain outward aspect"
+ },
+ {
+  "word": "overtook",
+  "phonetic": ",әuvә'tuk",
+  "translation": "overtake的过去式",
+  "definition": "v catch up with and possibly overtake\\nv travel past\\nv overcome, as with emotions or perceptual stimuli"
+ },
+ {
+  "word": "policeman",
+  "phonetic": "pә'li:smәn",
+  "translation": "n. 警察\\n[化] 淀帚",
+  "definition": "n. a member of a police force"
+ },
+ {
+  "word": "question",
+  "phonetic": "'kwestʃәn",
+  "translation": "n. 问题, 询问\\nv. 询问, 审问, 怀疑\\n[计] 询问",
+  "definition": "n. an instance of questioning\\nn. the subject matter at issue\\nn. a sentence of inquiry that asks for a reply\\nn. an informal reference to a marriage proposal"
+ },
+ {
+  "word": "race",
+  "phonetic": "reis",
+  "translation": "n. 种族, 人种, 赛跑, 比赛, 急流, 人类, 同道, 姜根\\nvi. 赛跑, 竞赛, 疾走\\nvt. 与...赛跑, 使疾走, 使猛转\\n[计] 竞争; 追赶; 欧州高级通信研究开发计划",
+  "definition": "n. any competition\\nn. a contest of speed\\nn. people who are believed to belong to the same genetic stock\\nv. compete in a race"
+ },
+ {
+  "word": "sign",
+  "phonetic": "sain",
+  "translation": "n. 符号, 招牌, 征兆, 正负号, 手势\\nvt. 签名, 打手势表达\\nvi. 签名\\n[计] 正负号; 符号; 符号字符",
+  "definition": "n. a perceptible indication of something not immediately apparent (as a visible clue that something has happened)\\nn. a public display of a message\\nn. (medicine) any objective evidence of the presence of a disorder or disease\\nn. a gesture that is part of a sign language"
+ },
+ {
+  "word": "speed",
+  "phonetic": "spi:d",
+  "translation": "n. 速率, 速度, 迅速\\nvi. 加速, 超速, 快进\\nvt. 快速传送, 促进, 使加速\\n[计] 中央处理机速度设置程序",
+  "definition": "n. distance travelled per unit time\\nn. a rate (usually rapid) at which something happens\\nn. changing location rapidly\\nv. travel at an excessive or illegal velocity"
+ },
+ {
+  "word": "stop",
+  "phonetic": "stɒp",
+  "translation": "n. 停止, 车站, 逗留, 填塞, 障碍, (风琴的)音栓\\nvi. 停止, 被塞住\\nvt. 塞住, 堵塞, 阻止, 击落, 停止, 终止, 断绝",
+  "definition": "n. the event of something ending\\nn. the act of stopping something\\nn. a brief stay in the course of a journey\\nn. a spot where something halts or pauses"
+ },
+ {
+  "word": "take",
+  "phonetic": "teik",
+  "translation": "vt. 拿, 取, 抓, 带领, 获得, 就座, 接受, 吃, 吸引, 采取, 乘, 需要, 花费\\nvi. 吃掉对方棋子, 抓住, 起作用, 依法获得财产\\nn. 拿, 取, 收成, 奏效",
+  "definition": "n. the act of photographing a scene or part of a scene without interruption\\nv. carry out\\nv. require (time or space)\\nv. get into one's hands, take physically"
+ },
+ {
+  "word": "tape",
+  "phonetic": "teip",
+  "translation": "n. 带子, 录音带, 磁带, 窄带, 卷尺\\nvt. 以带子绑起, 测量, 录音\\n[计] 带",
+  "definition": "n. a long thin piece of cloth or paper as used for binding or fastening\\nn. a recording made on magnetic tape\\nn. the finishing line for a foot race\\nn. measuring instrument consisting of a narrow strip (cloth or metal) marked in inches or centimeters and used for measuring lengths"
+ },
+ {
+  "word": "tell",
+  "phonetic": "tel",
+  "translation": "vt. 告诉, 说, 吩咐, 断定, 知道\\nvi. 讲述, 泄密, 告发, 表明",
+  "definition": "n. a Swiss patriot who lived in the early 14th century and who was renowned for his skill as an archer; according to legend an Austrian governor compelled him to shoot an apple from his son's head with his crossbow (which he did successfully without mishap)\\nv. let something be known\\nv. narrate or give a detailed account of\\nv. discern or comprehend"
+ },
+ {
+  "word": "telling",
+  "phonetic": "'teliŋ",
+  "translation": "a. 有效的, 显著的, 显露内心活动的",
+  "definition": "n. informing by words"
+ },
+ {
+  "word": "thank",
+  "phonetic": "θæŋk",
+  "translation": "n. 谢意, 感谢\\nvt. 谢谢, 感谢",
+  "definition": "v. express gratitude or show appreciation to"
+ },
+ {
+  "word": "that",
+  "phonetic": "ðæt",
+  "translation": "a. 那, 那个\\nconj. 以致, 因为\\npron. 那\\nadv. 那么, 那样",
+  "definition": "pron., a., conj., &  As a demonstrative pronoun (pl. Those),\\n   that usually points out, or refers to, a person or thing previously\\n   mentioned, or supposed to be understood. That, as a demonstrative, may\\n   precede the noun to which it refers; as, that which he has said is\\n   true; those in the basket are good apples.\\npron., a., conj., &  As an adjective, that has the same\\n   demonstrative force as the pronoun, but is followed by a noun.\\npron., a., conj., &  As a relative pronoun, that is\\n   equivalent to who or which, serving to point out, and make definite, a\\n   person or thing spoken of, or alluded to, before, and may be either\\n   singular or plural.\\npron., a., conj., &  As a conjunction, that retains much of\\n   its force as a demonstrative pronoun.\\npron., a., conj., &  To introduce a clause employed as the\\n   object of the preceding verb, or as the subject or predicate nominative\\n   of a verb.\\npron., a., conj., &  To introduce, a reason or cause; --\\n   equivalent to for that, in that, for the reason that, because.\\npron., a., conj., &  To introduce a purpose; -- usually\\n   followed by may, or might, and frequently preceded by so, in order, to\\n   the end, etc.\\npron., a., conj., &  To introduce a consequence, result, or\\n   effect; -- usually preceded by so or such, sometimes by that.\\npron., a., conj., &  In an elliptical sentence to introduce\\n   a dependent sentence expressing a wish, or a cause of surprise,\\n   indignation, or the like.\\npron., a., conj., &  As adverb: To such a degree; so; as, he\\n   was that frightened he could say nothing."
+ },
+ {
+  "word": "think",
+  "phonetic": "θiŋk",
+  "translation": "vt. 想, 考虑, 想起, 想像, 打算, 认为\\nvi. 思考, 料想\\nn. 想法\\na. 思想的",
+  "definition": "n. an instance of deliberate thinking\\nv. judge or regard; look upon; judge\\nv. expect, believe, or suppose\\nv. use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments"
+ },
+ {
+  "word": "told",
+  "phonetic": "tәuld",
+  "translation": "tell的过去式和过去分词",
+  "definition": "v express in words\\nv let something be known\\nv narrate or give a detailed account of\\nv give instructions to or direct somebody to do something with authority\\nv discern or comprehend\\nv inform positively and with certainty and confidence\\nv give evidence\\nv mark as different"
+ },
+ {
+  "word": "track",
+  "phonetic": "træk",
+  "translation": "n. 轨迹, 足迹, 径迹, 小道, 轨道, 磁轨, 途径\\nvt. 循路而行, 追踪, 通过, 用纤拉\\nvi. 追踪, 留下足迹, 沿轨道运行\\n[计] 跟踪",
+  "definition": "n. a pair of parallel rails providing a runway for wheels\\nn. an endless metal belt on which tracked vehicles move over the ground\\nn. (computer science) one of the circular magnetic paths on a magnetic disk that serve as a guide for writing and reading data\\nn. a groove on a phonograph recording"
+ },
+ {
+  "word": "wants",
+  "phonetic": "",
+  "translation": "n. 需求, 欲望, 必需品\\n[经] 消费者的欲望; 希望, 要, 想要",
+  "definition": "n a state of extreme poverty\\nn the state of needing something that is absent or unavailable\\nn anything that is necessary but lacking\\nn a specific feeling of desire\\nv feel or have a desire for; want strongly\\nv have need of\\nv hunt or look for; want for a particular reason\\nv wish or demand the presence of\\nv be without, lack; be deficient in"
+ },
+ {
+  "word": "wasn't",
+  "phonetic": "'wɔznt",
+  "translation": "prep. 不是"
+ },
+ {
+  "word": "waving",
+  "phonetic": "",
+  "translation": "a. 波浪状的",
+  "definition": "n the act of signaling by a movement of the hand\\nv signal with the hands or nod\\nv move or swing back and forth\\nv move in a wavy pattern or with a rising and falling motion\\nv twist or roll into coils or ringlets\\nv set waves in"
+ },
+ {
+  "word": "well",
+  "phonetic": "wel",
+  "translation": "n. 井, 泉水, 源泉, 好\\nv. 涌出\\na. 健康的, 良好的, 适宜的, 恰当的\\nadv. 很好地, 适当地, 好意地, 很, 完全\\ninterj. 好啦",
+  "definition": "n. a deep hole or shaft dug or drilled to obtain water or oil or gas or brine\\nn. a cavity or vessel used to contain liquid\\nn. an abundant source\\nn. an open shaft through the floors of a building (as for a stairway)"
+ },
+ {
+  "word": "won't",
+  "phonetic": "wəʊnt",
+  "translation": " 将不, 不会（=will not）",
+  "definition": " A colloquial contraction of woll not. Will not. See Will."
+ }
+]
