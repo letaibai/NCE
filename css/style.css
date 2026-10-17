@@ -1040,6 +1040,26 @@ body.blur-translation .lyric-line:hover .lyric-text {
   font-family: var(--font-mono);
 }
 
+.vocab-speak-btn {
+  margin-left: auto;
+  border: none;
+  background: transparent;
+  font-size: 15px;
+  cursor: pointer;
+  padding: 2px 6px;
+  border-radius: 8px;
+  line-height: 1;
+  transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+.vocab-speak-btn:hover {
+  background: var(--paper-2, rgba(0, 0, 0, 0.06));
+}
+
+.vocab-speak-btn:active {
+  transform: scale(0.9);
+}
+
 .vocab-translation {
   margin: 4px 0 0;
   font-size: 13px;
