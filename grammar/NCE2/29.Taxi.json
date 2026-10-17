@@ -1,0 +1,50 @@
+{
+ "grammar": [
+  {
+   "title": "语法知识 表语从句",
+   "lines": [
+    "6 表语从句与 宾语从句 的关系非常的密切；它们是同一类的从句。主、宾、表、同位都属于名词性从句。它们的写法基本相同，位置不同。 使用场景",
+    "定义： 一个句子做表语 (主系 表 ) 。",
+    "位置： 主 + 系 + 表语 从句",
+    "结构： 系动词 + 连接词 + 句子做表语 = 表语从句 (与宾语从句类似)",
+    "名词性从句 主语 实义动词 连接词 宾语从句 I knew that my turn had come .",
+    "系动词 表语从句 The car is a small toy called a ‘topcar’.",
+    "It 形式主语 系表/谓宾 主语从句 At one point, it seemed certain that their plane would crash .",
+    "主语 谓宾 同位语从句 He couldn’t explain the fact that Mary’s wallet was found in his room.",
+    "表语从句通常跟在 系动词 (is/am/are/was/were...) 后面，主要用一句话描述、修饰主语。",
+    "主语 + is that/when/... 什么情况",
+    "说事 The most surprising thing is that 最(令人)惊讶的是 I haven't had any water all day.",
+    "The most interesting thing is that 最(令人)有趣的是 he can't sing .",
+    "The most embarrassing thing is that 最(令人)尴尬的是 she forgot to cook .",
+    "建议 His suggestion is that we should keep calm.",
+    "问题 The question is when he will arrive here."
+   ]
+  }
+ ],
+ "expand": [
+  {
+   "title": "扩展知识 现在完成时的搭配词",
+   "lines": [
+    "5 副词 时间 每日习语 Cooked is bad. Cooking is good. You’re either in the pot or you’re holding it. 你不是猎人，就是猎物。",
+    "have/has just 刚刚 done Now he has just bought another garage in Pinhurst .",
+    "already 已经 He has already been to nearly every country in the world .",
+    "ever 曾经 It is one of the ugliest faces I have ever seen .",
+    "never 从来都不 I have never borrowed any money from you .",
+    "up to now / up till now 截止到现在 Up to now , Mr. Scott has sent a great many requests for spare parts...",
+    "so far 到现在 So far , not one of them has been struck down by sudden death !",
+    "for + 一段时间 He has been there for six months .",
+    "since＋ 过去的时间 Yes, I 've been here since 1976 .",
+    "since＋ 过去的动作（一般过去时的句子） The policeman on duty told him that since his defeat ...",
+    "原型 (Base Form) 过去式 (Past Tense) 过去分词 (Past Participle)",
+    "fly flew flown"
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "q": "He is too smart ___ the answer. (请使用合适的“find”填空)",
+   "a": "not to find",
+   "type": "blank"
+  }
+ ]
+}

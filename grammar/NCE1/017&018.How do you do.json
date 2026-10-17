@@ -1,0 +1,86 @@
+{
+ "grammar": [
+  {
+   "title": "语法知识 复数巩固",
+   "lines": [
+    "5 规则名词 (复习) 不规则 （单独记忆）",
+    "一般情况 + s ：books jobs",
+    "以s、x、sh、ch结尾 + es ：bu s es, bo x es, bru sh es, ben ch es",
+    "辅音 + o 结尾 + es： potatoes §",
+    "以f、fe 结尾变为 v + es： wi fe → wi v es, lea f → lea v es",
+    "以辅音 + y 结尾变为 i + es： bab y → bab i es （boy不是辅音+y结尾 → boys）",
+    "man → men",
+    "woman → women",
+    "foot → feet",
+    "tooth → teeth",
+    "child → children",
+    "sheep → sheep (单复同形)",
+    "fish → fish (单复同形)",
+    "单数名词 + is… 复数名词 + are…",
+    "This assistant is busy. Her feet are here.",
+    "My hair is black. The men are keyboard operator s .",
+    "Your book is interesting. The children are in the classroom."
+   ]
+  }
+ ],
+ "sentences": [
+  {
+   "title": "单词句型 他们的工作是什么？",
+   "lines": [
+    "3 What are their jobs?",
+    "They are sales rep s .",
+    "keyboard operator s .",
+    "mechanic s .",
+    "engineer s .",
+    "hairdresser s .",
+    "teacher s .",
+    "复数 单数",
+    "Those m e n are lazy. They are sales rep s . That man is tall. He is a policeman.",
+    "Those girl s are busy. They are keyboard operator s . Look at our office assistant . He is very hard-working.",
+    "Our name s are Britt and Inge. We are Swedish. Look at Nicola. She is very pretty.",
+    "Michael Baker and Jeremy Short are employee s . They are sales rep s . Our father is good. He is an engineer."
+   ]
+  }
+ ],
+ "expand": [
+  {
+   "title": "扩展知识 西方人先有名还是先有姓？",
+   "lines": [
+    "3 西方人姓氏来源 名字 + son: Peterson, Johnson, Jackson … 请在课文里找找这些名字的，猜猜和什么有关！ 自然拼读 每日习语 When pigs fly 除非太阳从西边出来",
+    "职业： Taylor (裁缝) ，Baker (面包师) …",
+    "颜色： White (白色) ，Brown (棕色) …",
+    "生活： Bird (鸟) ，Rice (大米) …",
+    "住址：Bridge (桥) ，Hill (山) …",
+    "组合 音标 示例",
+    "aw \\ ɔ: \\ l aw ,r aw ,p aw ,s aw",
+    "au d au ghter,s au cer",
+    "oo \\ ʊ \\ L oo k,b oo k,G oo d,w oo d",
+    "\\ u: \\ T oo t h,b oo t ,Sh oo t ,l oo t",
+    "ea \\ e \\ H ea d,br ea d,W ea ther,d ea d",
+    "ee \\ i: \\ b ee f,f ee t,sl ee p,m ee t,d ee d,s ee k"
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "q": "Those men are lazy. ___ are sales reps.",
+   "a": "They",
+   "type": "blank"
+  },
+  {
+   "q": "That man is tall. ___ is a policeman.",
+   "a": "He",
+   "type": "choice"
+  },
+  {
+   "q": "Look at Nicola. ___ is very pretty.",
+   "a": "She",
+   "type": "blank"
+  },
+  {
+   "q": "Michael Baker and Jeremy Short are employees.___ are sales reps.",
+   "a": "They",
+   "type": "blank"
+  }
+ ]
+}

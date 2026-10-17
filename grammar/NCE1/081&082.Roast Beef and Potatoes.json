@@ -1,0 +1,78 @@
+{
+ "grammar": [
+  {
+   "title": "语法知识 have 实义动词",
+   "lines": [
+    "have (万能词)",
+    "生病 have a cold have a headache have a toothache",
+    "拥有 I have a close friend in Beijing. 我在北京有一个亲密的朋友。",
+    "吃 We had roast beef and potatoes",
+    "喝 Have a glass of whisky then.",
+    "玩 have a swim 游 泳 have a party 聚会",
+    "乐 have a holiday 度 假 have a good time 玩的开心",
+    "做 have a bath 洗 澡 have a haircut 理 发 have a lesson 上 课"
+   ]
+  }
+ ],
+ "sentences": [
+  {
+   "title": "单词句型 I had ... 我吃(喝、从事)了...",
+   "lines": [
+    "6 请选择下列词语 填入 问题答案里",
+    "I had breakfast. (三餐无冠词)",
+    "lunch. (三餐无冠词)",
+    "tea. (不可数无冠词)",
+    "dinner. (三餐无冠词)",
+    "a meal.",
+    "a swim.",
+    "a bath.",
+    "a haircut.",
+    "原形 过去式",
+    "drink drank",
+    "enjoy enjoyed",
+    "are eating were eating",
+    "go for went for",
+    "eat ate",
+    "take took",
+    "They had a meal at a restaurant. → They ate a meal at a restaurant.",
+    "We had a holiday last month. → We went for a holiday last month.",
+    "Have a biscuit. → Take a biscuit.",
+    "You had a good time. → You enjoyed yourself .",
+    "They are having their lunch. → They are eating their lunch.",
+    "I had a glass of milk. → I drank a glass of milk."
+   ]
+  }
+ ],
+ "expand": [
+  {
+   "title": "扩展知识 新东方厨师学校的各种烹饪方式",
+   "lines": [
+    "5 【中国特色食品】 每日习语 be the apple of one's eye 掌上明珠",
+    "烹饪方式 中文",
+    "fry 🍳 油炸",
+    "roast 🍗 烘烤",
+    "bake 🥖 烘焙",
+    "grill 🍖 用烤架烤",
+    "simmer 🍲 炖",
+    "steam 🍜 蒸",
+    "mash 🥔 捣碎",
+    "boil 🍲 煮熟",
+    "mince 🥩 绞碎",
+    "shell 🐚 剥皮",
+    "英文 中文",
+    "a boiled egg 🥚 煮鸡蛋",
+    "a fried egg 🍳 煎蛋",
+    "a tea egg 🥚 茶叶蛋",
+    "fried sticks 🍢 炸串",
+    "sliced noodles 🍜 刀削面",
+    "steamed bread 🍞 馒头",
+    "sweet ball soup 🍡 汤圆",
+    "fish ball soup 🍲 鱼丸汤",
+    "eight treasures porridge 🥣 八宝粥",
+    "sweet potato porridge 🥣 红薯粥",
+    "soybean milk 🥛 豆浆",
+    "hot pot 🍲 火锅"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,80 @@
+{
+ "grammar": [
+  {
+   "title": "语法知识 过去完成时态（Past Perfect Tense）",
+   "lines": [
+    "8 这里的\" had \"的作用就是来辅助“ 过去完成 ”这件事的，前面的课程中说过，过来帮忙的词叫“助动词”，所以\"had\"不再表达它原来的意思 (拥有) ，在这个时态里不需要翻译。过去完成时态常与其他过去时态构成复合时态或表达时间顺序上的先后关系。通常，它与 \"before\"， \"after\"， \"by the time\" 等时间状语连词一起使用。 时间状语",
+    "用于描述在 过去某个时间点之前已经发生或完成的动作或状态 。它强调过去某一动作或状态在另一个过去时间点之前已经发生或完成。",
+    "主语 + had + done (过去分词)",
+    "She had already finished her homework before the party started . （派对开始前，她已经完成了她的家庭作业。） They had already left when we arrived at the cinema . （当我们到达电影院时，他们已经离开了。） I had never seen such a beautiful sunset before I visited that beach . （在我去那个海滩之前，我从未见过如此美丽的日落。） By the time he arrived, the concert had already begun . （当他到达时，音乐会已经开始了。） She had done her homework before 10:00 last night. (她昨晚10点前就做完了家庭作业。) The rain had already stopped before 8:00 this morning. (今天早上8点前雨就停了。) He had left by the time I arrived. （我到的时候他已经离开了）",
+    "主语 + had + been + 非动词 (基本不用)",
+    "过去完成时 现在完成时",
+    "过去的某个时间点或事件，表示在那个过去时间点之前已经发生或完成的动作或状态。 现在，表示从过去某个时间点开始一直延续到现在的动作或状态，或者强调与现在的关联。",
+    "She had already left when I arrived. （她在我到达时已经离开了。） They had finished their work before the boss came. （老板来之前，他们已经完成了工作。） I have already eaten breakfast today. （我今天已经吃过早饭了。） She has lived in this city for five years. （她在这个城市已经住了五年。）",
+    "动作或状态在过去某个时间点 之前 就 已经完成 或发生了。 动作或状态可能在过去 某个时间点开始 ，但它们 与当前 的情况仍然 有关 。",
+    "常与过去的时间状语连用，如 \"before\"、\"after\"、\"by the time\" 等。 常与涉及到现在的时间状语连用，如 \"since\"、\"for\"、\"already\"、\"just\"、\"recently\" 等。",
+    "by the end of… 到......结束时 by the time sb. + 动词 过去 时",
+    "by the end of last year 去年底（指去年结束之前的某个时间点） by the end of last week 在上周以前 by the end of last month… 在上个月以前 by the time he arrived ... 在他到达的时候 The bus had already left by the time I got there. by the time I graduated … 到我毕业的时候 By the time he graduated,he had already secured a job offer.",
+    "陈述句 否定句 had + not 疑问句 had 提前",
+    "He had left by the time I arrived. He had not left by the time I arrived. Had he left by the time you arrived?"
+   ]
+  }
+ ],
+ "sentences": [
+  {
+   "title": "单词句型 过去完成时的句型转换",
+   "lines": [
+    "6 先理解过去完成时 （already 只强调“已经”，即使没有already在过去完成时里也已先发生了） 这在问出这句话“asked”的时间点之前，这车就已“sold”。所以“asked”是一般过去时，而“sold”则是过去完成时。这样的组合很容易就把一件事的时间顺序描述得很清晰。 在“ran”站台之前，这火车就已经“left”。火车离开已完成，所以使用“had already left”，而我跑到站台则是一个过去发生的事情。 再做课文练习模仿例句 （使用after、 before 改写以下句子） Did you read the book? Yes, but I saw the film first . Did you go to the doctor? Yes, but I made an appointment first . Did the boss leave the office? Yes, but he finished work first . Did your wife go out? Yes, but she finished the housework first . Did your teacher give you your exercise book? Yes, but he corrected it first . Did your sister go on holiday? Yes, but she took the examination first . Did you buy a new car? Yes, but I sold my old one first . 扩展知识：after / before + 时态 after → 后面 的动作用 过去完成时 before → 前面 的动作用 过去完成时",
+    "I asked the price of the car ,but they had already sold it. 过去完成时发生在“过去的过去”",
+    "I ran to the platform quickly,but the train had already left .",
+    "after I read the book after I had seen the film.",
+    "before I had seen the film before I read the book.",
+    "after I went to the doctor after I had made an appointment.",
+    "before I had made an appointment before I went to the doctor.",
+    "after The boss left the office after he had finished work.",
+    "before The boss had finished work before he left the office.",
+    "after My wife went out after she had finished housework.",
+    "before My wife had finished housework before she went out.",
+    "after My teacher gave me my exercise book after he had corrected it.",
+    "before My teacher had corrected my exercise book before he gave it to me.",
+    "after My sister went on holiday after she had taken the examination.",
+    "before My sister had taken the examination before she went on holiday.",
+    "after I bought a new car after I had sold my old one.",
+    "before I had sold my old car before I bought a new one.",
+    "after 后接完成时 before 后接非完成时",
+    "动作B (一般过去时) + after + 主语 + had + 动作A (过去分词) 主语 + had + 动作A (过去分词) + before + 动作B (一般过去时)",
+    "I read the book after I had seen the film. She went out after she had finished the housework. I had seen the film before I read the book. She had finished the housework before she went out."
+   ]
+  }
+ ],
+ "expand": [
+  {
+   "title": "扩展知识 叙述两件事情的先后顺序",
+   "lines": [
+    "5 When did you come to BJ? 过去完成时 + 一般过去时 描述两件事情发生的先后顺序。 When did you get married? When did you go abroad? 练习题 （When did …? / Did …?） 每日习语 burn the midnight oil 熬夜工作 / 学习",
+    "定语 状语从句 （一般过去时） 一般过去时 + 状语从句 (过去完成时)",
+    "I came to BJ in 2007. I came to BJ when I graduated from university in 2007. I came to BJ after I had graduated from university in 2007.",
+    "定语 一般过去时 + 状语从句 (过去完成时)",
+    "I got married in 2009. I got married after we had been together for three years . 我们已经在一起了三年(先)，后才结婚。",
+    "定语 一般过去时 + 状语从句 (过去完成时)",
+    "I went abroad the year before last. I went abroad after I had got the offer from Harvard University . 拿到了哈佛大学的录取通知(先)，后才选择出国。",
+    "Q: When did you go home?",
+    "A: I finished my work first. Then I went home.",
+    "Q: Did you start your new job?",
+    "A: Yes, but I had an interview first.",
+    "Q: When did she get married?",
+    "A: She graduated from college first.",
+    "Q: Did your parents move to the city?",
+    "A: Yes, but they sold their house first.",
+    "Q: When did you buy a smartphone?",
+    "A: I saved enough money first.",
+    "Q: Did he call you?",
+    "A: Yes, but he finished his work first.",
+    "Q: When did you meet your best friend?",
+    "A: I joined the new school first.",
+    "Q: Did the train leave?",
+    "A: Yes, but all the passengers got on first."
+   ]
+  }
+ ]
+}

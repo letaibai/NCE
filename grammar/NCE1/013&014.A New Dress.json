@@ -1,0 +1,108 @@
+{
+ "grammar": [
+  {
+   "title": "语法知识 (复习)特殊疑问词 what, whose, how…",
+   "lines": [
+    "2 特殊疑问句的结构 (复习)",
+    "特殊疑问词 + be + 名词",
+    "特殊疑问词 + 名词+ be + …",
+    "What 什么 Whose 谁的 How 怎样",
+    "What + be + 名词 What is your name/job? What + 名词 (有限) + be What color/time/make/nationality is ? Whose + be + 名词 Whose is this shirt? = Whose shirt is this? Whose + 名词 (不限) + be Whose phone is that? = Whose is that phone? How + be + 名词 How are you? How is Sam? How is the weather?"
+   ]
+  }
+ ],
+ "sentences": [
+  {
+   "title": "单词句型 What color is your _______ ?",
+   "lines": [
+    "2 注：their coat \\ our blouse (单数)，指他们共有一件物品，与现实不太符合，因为这里只是为了配合：What color is ... 的用法练习，大家请自行替换合适的名词单复数，并根据实际情况选择使用 is / are 做到主谓一致。 做个数学题：4个疑问 × 8 个形物 × 8 个名词 = 256 个不一样的句子 （发现没？语言就是排列组合，如果你有100个名词词汇量，在这个组合上可以再 × 100+）...",
+    "特殊疑问词+名词 形物 名词",
+    "What color is 颜色 Where is 在哪儿 What size is 尺寸 What brand is 牌子 your umbrella ?",
+    "her car",
+    "his shirt",
+    "their coat",
+    "its case",
+    "my carpet",
+    "our blouse",
+    "Jack's tie"
+   ]
+  }
+ ],
+ "expand": [
+  {
+   "title": "扩展知识 自然拼读总复习",
+   "lines": [
+    "7 几乎 所有英文单词 都 包含 字母 a、e、i、o、u 或 y (特殊元音，比如why发i)中的 至少一个 （不含缩写词或特定的外来词）。 每日习语 green thumb 园艺技能",
+    "字母 音标 单词",
+    "Yy / j / y es, y oyo, y ellow, y et",
+    "/ ɪ / happ y , lovel y , cloud y",
+    "Zz / z / z ip, z ero, z igzag, z ebra",
+    "字母 音标 单词",
+    "Aa /æ/ hand, cat, ax",
+    "Bb /b/ bag, bet, lab",
+    "Cc /k/ c + e, i, y 时，读 /s/；c + 其他字母时，读 /k/",
+    "Dd /d/ dig, dad, desk",
+    "Ee /e/ egg, elephant",
+    "Ff /f/ fat, frog, staff",
+    "Gg /g/ gas, get, goat",
+    "Hh /h/ hat, him, house",
+    "Ii /ɪ/ city, big, silly",
+    "Jj /ʤ/ jet, jelly, jog",
+    "Kk /k/ kill, kiss, kick",
+    "Ll /l/ lot, let, girl, small",
+    "Mm /m/ man, milk, Tim",
+    "Nn /n/ not, no, man, town",
+    "Oo /ɒ/ ox, orange, olive",
+    "Pp /p/ pig, pen, panda, puppy",
+    "Qq /kw/ queen, question, quit",
+    "Rr /r/ rose, rice, rabbit",
+    "Ss /s/ sad, same, bus, first",
+    "Tt /t/ Tom, top, tea, it",
+    "Uu /ʌ/ cup, but, cut",
+    "Vv /v/ very, vivid, voice, five",
+    "Ww /w/ wet, witch, wave, what",
+    "Xx /ks/ fox, box, exit",
+    "Yy /j/ yes, yoyo, yellow, yet",
+    "/ɪ/ happy, lovely, cloudy",
+    "Zz /z/ zip, zero, zigzag, zebra"
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "q": "black + white = ___",
+   "a": "gray, grey",
+   "type": "blank"
+  },
+  {
+   "q": "red + yellow = ___",
+   "a": "orange",
+   "type": "blank"
+  },
+  {
+   "q": "green + ___ = brown",
+   "a": "red",
+   "type": "blank"
+  },
+  {
+   "q": "grey - white = ___",
+   "a": "black",
+   "type": "blank"
+  },
+  {
+   "q": "red + green + blue = ___",
+   "a": "white",
+   "type": "blank"
+  },
+  {
+   "q": "yellow + blue = ___",
+   "a": "green",
+   "type": "blank"
+  },
+  {
+   "q": "red + blue + yellow = ___",
+   "a": "black",
+   "type": "blank"
+  }
+ ]
+}

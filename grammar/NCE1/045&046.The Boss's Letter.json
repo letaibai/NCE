@@ -1,0 +1,106 @@
+{
+ "grammar": [
+  {
+   "title": "语法知识 情态动词can，must，may",
+   "lines": [
+    "3 动词分类 情态动词 概念：表示情感、态度，包括：can(could), must, may(might), will (would) ... 用法：+ 动词，且原形 没有 人称和数的变化 一般疑问句： 情态动词提前 情态动词的否定句：",
+    "连系动词 (Linking verbs)：表示状态、性质或身份的动词，用来连接主语和表语。",
+    "情态动词 (Modal verbs)：表示情感、态度、能力或推测等含义的动词。",
+    "实义动词 (Main verbs)：表示具体行为或状态的动词，承载动作的核心含义。",
+    "助动词 (Auxiliary verbs)：与其他动词搭配使用，用来构成时态、语态、否定和疑问等结构。",
+    "You must go out! 你必须出去！",
+    "Can you please stand up? 请你站起来好吗？",
+    "He can do/read it. 他能做/读它。",
+    "人称 Be动词 情态动词",
+    "She She is ... She can ...",
+    "He He is ... He can ...",
+    "It It is ... It can ...",
+    "I I am ... I can ...",
+    "They They are ... They can ..",
+    "陈述句 一般疑问句 回答",
+    "He can read it. Can he read it? Yes, he can .",
+    "He can do it. Can he do it? Yes, he can .",
+    "can → can't (不可用 can not )",
+    "can → cannot 要连在一起不能分开",
+    "must → mustn't (表:禁止，绝对不允许) 使用don't need to 替代",
+    "may → may not （要分开）",
+    "原句 变为一般疑问句 变为否定句",
+    "Tom can swim well. Can Tom swim well? Tom can't / cannot swim well.",
+    "The students must finish their homework tonight. Must the students finish their homework tonight? The students don't need to finish their homework tonight.",
+    "I can stay with you. Can I stay with you? I can't / cannot stay with you.",
+    "She can drive to school. Can she drive to school? She can't / cannot drive to school."
+   ]
+  }
+ ],
+ "sentences": [
+  {
+   "title": "单词句型 情态动词练习",
+   "lines": [
+    "3 cake 可数 名词 biscuit 可数 名词",
+    "单词 词性 中文含义 音标 例句",
+    "lift v. 举起 /lɪft/ Can you lift this heavy case?",
+    "n. 电梯 There are thirteen people in this lift , it’s overweight.",
+    "cake n. 蛋糕 /keɪk/ I bought a chocolate cake for the party.",
+    "biscuit n. 饼干 /'bɪskɪt/ Would you like a biscuit with your tea?",
+    "She baked three cake s for the party. 她 为 派对烤了三个蛋糕。",
+    "He bought some biscuit s from the bakery. 他 从 面包店买了一些饼干。",
+    "They are typing these letters. 他们正在打这些信",
+    "They can type these letters. 他们能够打这些信。",
+    "She is making the bed. 她正在整理床铺。",
+    "She can make the bed. 她会整理床铺。",
+    "You are swimming across the river. 你正在游过河流。",
+    "You can swim across the river. 你能够游过河流。",
+    "We are coming now.",
+    "We can come now.",
+    "We are running across the park.",
+    "We can cross / run across the park.",
+    "He is sitting on the grass.",
+    "He can sit on the grass.",
+    "I am giving him some chocolate.",
+    "I can give him some chocolate."
+   ]
+  }
+ ],
+ "expand": [
+  {
+   "title": "扩展知识 can 在口语中的使用",
+   "lines": [
+    "3 Can I help you? 我可以帮助你吗？ Can't wait! 等不及了！ I can't help! 没法子！ Can you give me a hand? 可以搭把手帮个忙吗？ 13-19 重读在 teen 上，20-90 重读在前面，后面的 ty 读很轻~ 每日习语 Get a taste of your own medicine 以其人之道还治其人之身",
+    "Can: 情态动词，表示能力或许可。",
+    "I: 主语，代词。",
+    "Help: 实义动词，表示帮助。",
+    "回答：No,thanks./ Yes,please.",
+    "Can't: can 的否定形式，表示不能。",
+    "Wait: 实义动词，表示等待。",
+    "Can't: can 的否定形式，表示不能。",
+    "Help: 实义动词，表示帮助。这里表示无能为力。",
+    "Can: 情态动词，表示能力或许可。",
+    "You: 主语，代词。",
+    "Give: 实义动词，表示给予。",
+    "Me: 宾语，代词。",
+    "A hand: 宾语，表示帮助。",
+    "数字 单词 数字 单词",
+    "20 twenty",
+    "21 twenty-one",
+    "23 twenty-three",
+    "30 thirty 13 thirteen",
+    "36 thirty-six",
+    "40 forty 14 fourteen",
+    "42 forty-two",
+    "45 forty-five",
+    "50 fifty 15 fifteen",
+    "57 fifty-seven",
+    "60 sixty 16 sixteen",
+    "64 sixty-four",
+    "69 sixty-nine",
+    "70 seventy 17 seventeen",
+    "78 seventy-eight",
+    "80 eighty 18 eighteen",
+    "85 eighty-five",
+    "90 ninety 19 nineteen",
+    "91 ninety-one",
+    "93 ninety-three"
+   ]
+  }
+ ]
+}

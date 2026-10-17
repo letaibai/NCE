@@ -1,0 +1,68 @@
+{
+ "grammar": [
+  {
+   "title": "语法知识 万能词 Have 的基本用法",
+   "lines": [
+    "人称变化 肯定句 疑问句 否定句",
+    "I / You / We have … We have … Do you have …? don’t have …",
+    "I have a girlfriend. Do you have a girlfriend? 你有女朋友吗？ I don’t have a girlfriend.",
+    "He / She / It has … She ha s … Do es she / he / it have …? do es n’t have …",
+    "He has a girlfriend. Does she have a boyfriend? She do es n’t have a boyfriend."
+   ]
+  }
+ ],
+ "sentences": [
+  {
+   "title": "单词句型 Do you have any...?",
+   "lines": [
+    "3 any + 可数名词复数 注: any 表示一些，所以可数名词的 单数 前面是不可以直接使用 any 的，可以使用 a、an 代替。 any + 不可数名词",
+    "Do you have any friend s ?",
+    "envelope s ?",
+    "Does she banana s ?",
+    "apple s ?",
+    "Does he orange s ?",
+    "pencil s ?",
+    "Do they pen s ?",
+    "book s ?",
+    "Do we toy s ?",
+    "cloth es ?",
+    "Do you have any coffee?",
+    "tea?",
+    "Does she time?",
+    "milk?",
+    "Does he water?",
+    "juice?",
+    "Do they sugar?",
+    "salt?",
+    "Do we pepper?",
+    "flour?"
+   ]
+  }
+ ],
+ "expand": [
+  {
+   "title": "扩展知识 购物用语&序数词",
+   "lines": [
+    "5 序数词（Ordinal numbers） 表示顺序的数字称为序数词。例如：first, second, third, fourth, fifth 等等。在写序数词时，需要正确拼写后缀 -th。在大多数情况下，只要将数字的末尾添加一个“th”即可。 在英语语言环境中，序数词通常用于描述次序、排名、日期等等。我们需要掌握这些序数词的用法和读音，以能够准确地表达相关信息。 每日习语 money burns a hole in one's pocket 钱在口袋里烧个洞(存不住钱的人、花钱如流水)",
+    "顾客 店主",
+    "Do you have any short s ? 请问您这卖短裤吗？ I want some shorts, please. Yes. What size do you want? 有的，您要 什么尺码 的？",
+    "I want medium size. 我要 中码 。",
+    "Can I have a try ? (have a try; have a rest ...)我可以试穿吗？ Yes, of course. 当然可以。",
+    "OK， this pair please. 没问题，我要了。",
+    "以 e 结尾的数字，需去 e 然后加 th，例如：nin e ⇒ nin th .",
+    "以 ve 结尾的数字需要变 ve 为 fth，例如 twel ve ⇒ twel fth .",
+    "以 y 结尾的数字，变 y 为 i 然后加 eth，例如 twent y ⇒ twent i eth .",
+    "first 第一 1 st eleven th 第十一 11 th twenty- first 第二十一 21 st",
+    "second 第二 2 nd twelf th 第十二 12 th twen tie th 第二十 20 th",
+    "third 第三 3 rd thir teen th 第十三 13 th thir tie th 第三十 30 th",
+    "four th 第四 4 th four teen th 第十四 14 th for tie th 第四十 40 th",
+    "fif th 第五 5 th fif teen th 第十五 15 th fif tie th 第五十 50 th",
+    "six th 第六 6 th six teen th 第十六 16 th six tie th 第六十 60 th",
+    "seven th 第七 7 th seven teen th 第十七 17 th seven tie th 第七十 70 th",
+    "eigh th 第八 8 th eigh teen th 第十八 18 th eigh tie th 第八十 80 th",
+    "nin th 第九 9 th nine teen th 第十九 19 th nine tie th 第九十 90 th",
+    "ten th 第十 10 th hundred th 第一百 100 th thousand th 第一千 1,000 th"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "grammar": [
+  {
+   "title": "语法知识 介词 prep.",
+   "lines": [
+    "6 介词 ：媒婆，连接两个词或词与句子。 注： 介词后 + 宾语（介宾）；你要介绍的【主体】，我介绍xxx给你认识一下。 The flowerpot is near the window. 句子 中使用介词时，别忘记 动词 ！（有 动词 才是句子，无动词的叫短语） 【练习】尝试描述自己家里的布置 注意： 后置定语 是与中文语言使用习惯相反的一种方式，也是英语学习者比较容易困惑的地方。只需要记住“后置定语，倒着翻译”。",
+    "on 在…上面 in 在…里面",
+    "What's on TV? 电视上有什么节目？ He was in his car. 他在他的汽车里。",
+    "of 属于 near 靠近，旁边",
+    "a collection of short stories. 一部短篇小说集。 Don't come near me. 别靠近我。",
+    "My computer is on the desk . 我的电脑在书桌上。",
+    "There is also a cup on the desk . 有一个杯子也在书桌上。",
+    "I 'm sitting at my desk , studying English on the computer . 我正坐在书桌前，用电脑学习英语。",
+    "句子 (有动词) 短语 (无动词,后置定语)",
+    "The money is in the bag. 钱 在 包里。 the money in the bag 包里 的 那些钱",
+    "The bank is near the school. 银行 在 学校附近。 the bank near the school 学校附近 的 银行",
+    "There is a shoe on the floor. 地板上 有 一只鞋。 a shoe on the floor 地板上 的 一只鞋",
+    "The supermarket is near the bank. 超市 在 银行附近。 the supermarket near the bank 银行附近 的 超市",
+    "The boy in blue is my son. ⇒ 那个男孩儿\\穿着蓝色衣服的\\是我的儿子 ⇒ 那个穿蓝色衣服的男孩是我的儿子。",
+    "The shoe on the floor is mine. ⇒ 这只鞋\\在地板上的\\是我的 ⇒ 地上的那只鞋是我的。",
+    "The man wearing a hat is my friend. 戴着帽子的那个男人是我的朋友。",
+    "The person who is hitting me is my father. 后置定语是为了未来学习定语从句打基础的。必须深层理解~"
+   ]
+  }
+ ],
+ "sentences": [
+  {
+   "title": "单词句型 There be 转换练习",
+   "lines": [
+    "5 trouser s 长裤 There be 主谓一致",
+    "pant s 裤子",
+    "pajama pants 睡裤",
+    "jean s 牛仔裤",
+    "short s 短裤",
+    "shoe s \\ sock s \\ glove s \\ glass es",
+    "Where are they? There are some cigarettes on the dressing table . They are near that box.",
+    "There are some plates on the cooker . They are clean.",
+    "There is + 单数 There are + 复数",
+    "There is a pencil on the desk. There are some pencil s on the desk.",
+    "There is a knife near that tin. There are some kni ves near that tin.",
+    "There is a policeman in the kitchen. There are some policem e n in the kitchen."
+   ]
+  }
+ ],
+ "expand": [
+  {
+   "title": "扩展知识 辅音字母组合拼读",
+   "lines": [
+    "4 There is a beginning, a middle, and an end. 有始有终 每日习语 talk is cheap 话谁都会说；行胜于言;空谈误国",
+    "There is always a light at the end of the tunnel. 隧道尽头总会有光。",
+    "There is no limit to what you can achieve when you believe in yourself. 当你相信自己时，你的成就将不可限量。",
+    "There is a crack in everything, that's how the light gets in. 万物皆有裂痕，那是光照进来的地方。",
+    "There is no growth in the comfort zone, and there is no comfort in the growth zone. 舒适区里没有成长，成长区里没有舒适。",
+    "There is no time like the present to make your dreams happen. 想要实现梦想，现在就是最好的时机。",
+    "字母组合 音标 例词",
+    "ch / tʃ / ch eese,Fren ch , Ch ina,lun ch",
+    "tch ma tch ,ba tch ,ca tch ,bi tch",
+    "-ge / dʒ / oran ge ,pa ge ,brid ge ,jud ge",
+    "tr / tr / tr ee, tr ip, tr avel, tr oy",
+    "dr / dr / dr op, dr ive, dr y, dr eam",
+    "-ts / ts / shir ts ,skir ts ,boo ts ,ticke ts",
+    "-ds / dz / bir ds ,lan ds ,han ds ,goo ds"
+   ]
+  }
+ ]
+}

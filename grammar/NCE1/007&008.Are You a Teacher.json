@@ -1,0 +1,101 @@
+{
+ "grammar": [
+  {
+   "title": "语法知识 一般疑问句与特殊疑问句",
+   "lines": [
+    "4 开口大声读出来 别被义务教育给耽误，英语是练会的，不是看会的。 本站提供的笔记内容里的问句不是给你看着玩儿的，要大声读出来，自问自答的方式完成练习，在英语学习的路上没有懒可以偷，也没有所谓的捷径，你只能每天一个句子接一个句的练习。 站长在国外生活几年，一些国内高校专八、雅思7分考出来的人一大堆，口语能力不如小学生是真实的情况，这些人大多都是阅读与听力拿高分，但口语能力极差，开口多练习，赢在起跑线上。口语才是生活的真实战场。 比如：Do you like ice cream? 这里的“ice cream”可以替换成前面课文里出现的任何名词练习，Do you like your teacher? Do you like ncego.com? Do you enjoy learning English? 一般疑问句(Yes or No Question) 替换你知道的任何名词，然后大声读出来（说的就是屏幕前你的~） 用来询问陈述句的真实性或肯定/否定情况，其结构为:助动词/连系动词 + 主语 + 动词原形 + ? 特殊疑问句（WH-Question） 句型转换练习 询问具体信息、细节或从一组选择中做出决定，其结构为:疑问词 + 助动词/连系动词 + 主语 + 动词原形 + ? 什么（WHAT）？谁(WHO)？谁的（WHOSE）？哪儿(WHERE)？哪个(WHICH)？ [不重要] 识别“正装”与“倒装”结构是看 动词 是否在 主语 的 前面 。不是所有的一般疑问句都是“倒装”结构。",
+    "一般疑问句(Yes or No Question) 特殊疑问句（WH-Question）",
+    "助动词/连系动词 + 主语 + 动词原形 疑问词 + 助动词/连系动词 + 主语 + 动词原形",
+    "Do you like ice cream? What do you like ?",
+    "Are you happy ? Where do you live ?",
+    "Does she speak English? How did you get here?",
+    "Can they swim ? Why are you crying ?",
+    "Is it raining ? When will you arrive ?",
+    "询问陈述句的真实性或肯定/否定情况 询问具体信息、细节或从一组选择中做出决定",
+    "肯定陈述句 翻译 一般疑问句 翻译",
+    "You are French. 你是法国人。 Are you French ? 你是法国人 吗？",
+    "You are a teacher. 你是老师。 Are you a teacher ? 你是老师 吗？",
+    "She is a doctor. 她是医生。 Is she a doctor ? 她是医生 吗？",
+    "He is a student. 他是学生。 Is he a student ? 他是学生 吗？",
+    "I am Chinese. 我是中国人。 Are you Chinese ? 你是中国人 吗？",
+    "This is my teacher. 这是我的老师。 Is this your teacher ? 这是你的老师 吗？",
+    "This is your car. 这是你的车。 Is this your car ? 这是你的车 吗？",
+    "陈述句 一般疑问句 特殊疑问句",
+    "You are French. Are you French? What nationality are you ?",
+    "You are a teacher. Are you a teacher? What is your job ?",
+    "She is a doctor. Is she a doctor? What is her job ?",
+    "He is a student. Is he a student? What is his occupation (职业)?",
+    "I am Chinese. Are you Chinese? What nationality are you ?",
+    "This is my teacher. Is this your teacher? Whose teacher is this ?",
+    "This is your car. Is this your car? Whose car is this ?",
+    "问： What is your car number? 特殊疑问词+be+名词(n.)",
+    "答：My car number is 888888. (It is 88...)",
+    "问： What is your E-mail? 你的邮箱是？",
+    "答：My E-mail is hibenba@gmail.com .",
+    "问： What is your Wechat? 你的微信是？",
+    "答：My Wechat is ...",
+    "陈述句 一般疑问句 特殊疑问句(What) 特殊疑问句(Who)",
+    "Your name is Bob. Is your name Bob? What is your name ? Who is Bob?",
+    "Be动词前置 针对“name”提问 针对“Bob”提问",
+    "语序“正装” 语序“倒装” 语序“正装”"
+   ]
+  }
+ ],
+ "sentences": [
+  {
+   "title": "单词句型 人称代词",
+   "lines": [
+    "4 pronoun 代词（代替名词） 张三 ↔ 他；斯嘉丽 ↔ 她；旺财 ↔ 它；Lily ↔ she; Jack ↔ he; my dog ↔ it. 快速区别形物与名物的用法 形容词性 物主代词：The book is my book. 这本书是我的书(形物后必须加上名词) 名词性 物主代词：The book is mine . 这本书是我的.(名物后不能加名词) 英语的人称顺序 先人后己 单数 (231) 第二人称 > 第三人称 > 第一人称 复数 （123） 第一人称 > 第二人称 > 第三人称 承认错误时 （123） 无论单、复数一侓是 123 的顺序",
+    "人称 单数 复数",
+    "主格 Be动词 宾格 形物 名物 主格 Be动词 宾格 形物 名物",
+    "第一人称 I am me my mine we are us our our s",
+    "第二人称 you are you your yours you you your your s",
+    "第三人称 she is her her hers they (他们...) them (...他们) their (他们 的... ) their s (他们 的 )",
+    "he him his his",
+    "it it its its",
+    "Johns Johns Johns' ⇒ John s' father sent Johns a letter and Johns was very happy.",
+    "形容词性 物主代词＋名词： my dress、 her coat、 his tie、 our country、 their story、 your mistake.",
+    "名词性 物主代词: This is my shirt → This shirt is mine . Those are their bags → Those bags are theirs .",
+    "My wife and I. §",
+    "You, he and I must clean up the classroom.",
+    "We, you and they must clean up the classroom.",
+    "I, he and you are sorry for being late.↔ you and he",
+    "We, you and they are sorry for being late."
+   ]
+  }
+ ],
+ "expand": [
+  {
+   "title": "扩展知识 自然拼音 Pp、Qq、Rr",
+   "lines": [
+    "3 每日习语 Break the ice 打破冷场，打破僵局",
+    "字母 音标 单词",
+    "Pp / p / p ig, p en, p anda, p uppy",
+    "Qq / kw / q ueen, q uestion, q uit",
+    "Rr / r / r ose, r ice, r abbit"
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "q": "She's ___ housewife.",
+   "a": "a",
+   "type": "blank"
+  },
+  {
+   "q": "Robert is ___ engineer.",
+   "a": "an",
+   "type": "blank"
+  },
+  {
+   "q": "Are ___ Chinese? -Yes I am.",
+   "a": "you",
+   "type": "blank"
+  },
+  {
+   "q": "What nationality ___ you?",
+   "a": "are",
+   "type": "blank"
+  }
+ ]
+}

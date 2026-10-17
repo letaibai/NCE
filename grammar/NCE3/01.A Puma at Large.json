@@ -1,0 +1,110 @@
+{
+ "grammar": [
+  {
+   "title": "开始着手调查",
+   "lines": [
+    "8 However, as the evidence began to accumulate , experts from the Zoo felt obliged to investigate, for the descriptions given by people who claimed to have seen the puma were extraordinarily similar . give descriptions = descriptions which were given by people ... 非谓语动词做后置定语 done 做非谓语原因之一 （状语从句的省略） be extraordinarily similar 非常相似",
+    "make descriptions 作描述 descriptions made by people ...",
+    "We shall give brief descriptions of both models next. 我们然后将提供两者模型的简短描述。",
+    "John had a very good day and put his wallet containing £3,000 into the microwave oven for safekeeping .",
+    "For hundreds of years, St. Bernard dogs have saved the lives of travellers crossing the dangerous Pass .",
+    "movies directed by Zhang Yimou",
+    "done 过去分词(被动) doing 动名词(主动)",
+    "novels written by Lu Xun 鲁迅写的小说 A woman picking blackberries saw a large cat only five yards away from her. 非谓后做后置定语",
+    "Novels which are written by Lu Xun. 鲁迅写的小说 A woman who is picking blackberries saw a large cat only five yards away from her. 源自定语从句的省略",
+    "The man leaning against the wall named George is my brother. 简洁写法(强调正靠着墙) The man who is leaning against the wall who is named George is my brother. 有点乱(不推荐) The man named George, who is leaning against the wall, is my brother. 使用从句修饰”靠墙“，但强调名字”George“ My brother is the man named George who is leaning against the wall. 强调”我的兄弟“",
+    "Tired of sleeping on the floor , a young man in Tehran saved up for years to buy a real bed .",
+    "非谓语动词 过去分词 (被动/完成) Built in 1885, it was the oldest car taking part. .",
+    "现在分词 (主动/进行) Fishing is my favourite sport .",
+    "to do不定式 (将要) She wanted him to repair their grandson's bicycle !",
+    "be particularly alike 写作替换",
+    "had a lot in common 有很多共同点",
+    "look a little bit alike 看起来有点像(口语)",
+    "had considerable commonalities 相当于英语的”文言文“",
+    "claim to have done ... 声称做过某事 claim to do ... 声称要做某事",
+    "A third brother who was supposed to have died as a young man . So far, no organization has claimed to be responsible for the accident.",
+    "Fishermen and sailors sometimes claim to have seen monsters in the sea .",
+    "Everyone went to the funeral, for the 'ghost' was none other than Eric Cox, a third brother who was supposed to have died as a young man .",
+    "A policeman approached Jimmy and told him he ought to have gone along a side street as Jumbo was holding up the traffic .",
+    "as the evidence began to accumulate, experts from the Zoo felt obliged to investigate, for the descriptions given by people who claimed to have seen the puma were extraordinarily similar.",
+    "时间状语从句 时间状语主语 for 引导原因 定语从句 系 + 表",
+    "定语主句 原因状语从句",
+    "As the cases began to accumulate, specialists felt obliged to investigate, for the symptoms of people who had caught the disease were extraordinarily similar."
+   ]
+  }
+ ],
+ "sentences": [
+  {
+   "title": "发现证据",
+   "lines": [
+    "8 The hunt for the puma began in a small village where a woman picking blackberries saw 'a large cat' only five yards away from her . hunt for ... (出去)找、搜寻 可表名词所有格的介词 It immediately ran away when she saw it, and experts confirmed that a puma will not attack a human being unless it is cornered . The search proved difficult , for the puma was often observed at one place in the morning and at another place twenty miles away in the evening. Wherever it went , it left behind it a trail of dead deer and small animals like rabbits. 疑问词 + ever 两种用法 a trail of 一串：一连串的物体或事件。 Paw prints were seen in a number of places and puma fur was found clinging to bushes . 无灵主语(突出句子核心、句首和句尾是最核心位置) 突出重点 fur and feather 飞禽走兽(单词短的放前面) Puma fur was found clinging to bushes. 非谓语动词做主语补足语",
+    "I'm hunting for a job now.",
+    "The hunt for a job will begin tomorrow. 动词变名词后介词不变",
+    "in to for",
+    "the winter in America 美国的冬天 Paris in the spring 巴黎之春 the entrance to the parking lot 停车场的入口 a witness to the accident 事故的目击者 a longing for love 对爱的渴望 the reason for the disaster 灾难的原因",
+    "It immediately ran away when she saw it, and experts confirmed that a puma will not attack a human being unless it is cornered.",
+    "时间状语从句 并列句 宾语从句 并列句",
+    "prove (to be) + adi. / n. 被证明是... turn out to be + adj. / n. 原来是...(出乎意料)",
+    "His injury proved (to be) fatal. 他的伤证明是致命的。 The operation proved (to be) a success. 手术证明是成功的。 They were amazed to find that the goddess turned out to be a very modern-looking woman . The new blog may turn out to be no more than a clever public-relations stunt. 新的博客可能只不过是一个聪明的公关噱头。",
+    "引导让步状语从句： no matter + 疑问词 + 从句，表示“无论…” No matter where you live, you would find it difficult not to laugh at, say, Charlie Chaplin's early films .",
+    "用于疑问句中 ：表示“到底(加强语气)” ' Whatever are you doing up here Bill?' asked the vicar in surprise .",
+    "Where did you go yesterday? 你昨天去哪儿了?",
+    "Wherever did you go yesterday? 你昨天到底去哪儿了?",
+    "When ever am I going to see you again? 我到底什么时候才能再见到你?",
+    "Wherever he went, he left a trail of unpaid bills behind him. 无论他走到哪里，总会留下一串未付的账单。",
+    "Wherever he went, he left a trail of broken hearts behind him. 无论他走到哪里，身后都留下了一串破碎的心。",
+    "People have paid more and more attention to the condition of the laid-off workers. 人做主语(分不清重点信息)",
+    "Increasing attention has been paid to the condition of the laid-off workers. 下岗工人的状况已受到越来越多的关注。",
+    "f in, f ur and f eather 押首韵(f)",
+    "The cro wn should not yield to the cro ss . 王权不应该屈服神权(押首韵c)",
+    "feather 羽毛 (飞禽) fur 皮毛(走兽)",
+    "The chick will soon feather out. 这只小鸡很快就要长羽毛了。 This creature's fur is short, dense and silky. 这种动物的毛短、浓密且柔顺。",
+    "As no pumas had been reported missing from any zoo in the country...",
+    "The fire was reported controlled . 更简洁 ↔ It is reported that the fire was controlled . 主语从句（啰嗦）"
+   ]
+  }
+ ],
+ "expand": [
+  {
+   "title": "确定真像",
+   "lines": [
+    "8 Several people complained of 'cat-like noises' at night and a businessman on a fishing trip saw the puma up a tree . on a business / honeymoon trip 出差/蜜月旅行 The experts were now fully convinced that the animal was a puma , but where had it come from ? 介词遇到that被省略的例外情况 As no pumas had been reported missing from any zoo in the country , this one must have been in the possession of a private collector and somehow managed to escape . manage to do 设法完成了某事（强调结果） fail to do 没能完成某事(努力过了) The hunt went on for several weeks , but the puma was not caught . It is disturbing to think that a dangerous wild animal is still at large in the quiet countryside . It is ... to think that ... 一想到某事就让人...（动词+ing 当形容词表事物的特征） 本课是《新三》的敲门砖也是开始步入中高级语法的开端，如果通过讲解与笔记还是对非谓语动词、各种从句及长难句的分解不够熟悉，推荐再次复习《新二》！ 每日习语 A cold fish. 冷酷无情的人(高傲自大)",
+    "on a journey / voyage / expedition / tour ... 在一次旅行/航行/探险(远征)/环游/周游中……",
+    "Jimmy is going on a journey tomorrow. 吉米明天要去旅行。",
+    "complain of / about sth. complain ( that ) + 从句",
+    "Almost immediately he began to complain about the weather , ... She complained that no one had been at the airport to meet her .",
+    "in that ... 因为（句中、句末，引导原因状态从句）",
+    "except / but that ... 除了/ 但",
+    "be convinced that... 相信，确信：指对某事物持有坚定的信念或确信的态度。 convince sb. of sth. 使某人相信某事；使某人对某事深信不疑",
+    "They do not, however, need to be convinced that . 读者可能不相信这是真的。 He is convinced that his poem will win the award. 他深信自己那首诗会得奖。 Thomas, she sensed, could convince anyone of anything. 她觉得，托马斯能说服任何人相信任何事。 She or he should be able to convince you of stupid decisions and future consequences. 她或他应该能够说服你的愚蠢决定和未来的后果。",
+    "must have done 过去表推测（强烈的、肯定的） must do 现在表推测",
+    "You must have been ill yesterday.You looked so pale. She knew that it must be the baker .",
+    "may / might have done 过去表推测(弱语气) may / might do 现在表推测(弱语气)",
+    "He may have put pressure on her to agree. They may be shredding documents.",
+    "cannot / could not have done 过去否定推测 cannot / could not do 现在否定表推测",
+    "You can't have been ill yesterday. I saw you going shopping with your wife. The girl asked to see a timetable, feeling sure that her father could not have made such a mistake . He can’t be studying now.",
+    "should / ought to have done 应该做却没做(责备语气) should not / ought not to have done 不应该做却做了(责备语气)",
+    "You ought to have done your homework. 你本应该做作业的。 You should have finished your work yesterday. Military advantages should not be given away. 军事优势不应该丧失。 I shouldn't have shouted at you yesterday. 自责",
+    "Our vicar is always raising money for one cause or another, but he has never managed to get enough money to have the church clock repaired .",
+    "Though he managed to take a number of brilliant photographs, he could not stay near the volcano for very long .",
+    "The pilot managed to circle the balloon for some time .",
+    "A few hours earlier, someone had told the police that thieves would try to steal the diamonds . 强调去做(与manage to导向不同)",
+    "When the journalist again failed to reply , the editor reluctantly published the article as it had originally been written .",
+    "Once, however, it failed to give the correct time .",
+    "Those who failed to get in need not have felt disappointed, as many of the artistes who should have appeared did not come .",
+    "in the possession of sb. …为某人所拥有 in one's possession 为某人所拥有 in possession of sth. 拥有某物",
+    "The land is in the possession of the merchant. 这块地为该商人所有。 My house is in the possession of an old lady now. 我的那所房子已归一位老太太所有。 The house is in his possession . 那楝房子为他所有。 The book is in my possession . The gang was caught in possession of stolen goods . 这伙人被逮住，人赃俱获。 I'm in possession of the book.",
+    "in the charge of sb. …为某人所负责/管理 in one's charge 为某人所负责/管理 in charge of ... 负责/管理",
+    "Our class was in the charge of Miss Wang. 我们班级由王老师负责管理。 The bookstore is in my charge . I'm in charge of the bookstore.",
+    "It is worrying to think that ... 不安、担忧",
+    "It is exciting to think that ... 兴奋、激动",
+    "It is comforting to think that... 安慰、欣慰",
+    "It is amusing to think that ... 有趣、好笑",
+    "It is irritating to think that ... 烦人、恼火",
+    "It is disturbing to think that a dangerous wild animal is still at large in the quiet countryside.",
+    "形式主语 宁人不安的 （to do不定式做主语） 宾语从句 系 + 表",
+    "系+表 主语从句 (逻辑主语)"
+   ]
+  }
+ ]
+}

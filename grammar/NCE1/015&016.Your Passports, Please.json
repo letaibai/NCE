@@ -1,0 +1,83 @@
+{
+ "grammar": [
+  {
+   "title": "语法知识 名词变复数",
+   "lines": [
+    "6 名词的单数&复数 可数名词 (countable nouns) 可数名词指的是可以单独计数的名词，它们有单数和复数形式。 单数/复数名词在句子中 总是以复数出现的名词",
+    "单数： 1 one a/an",
+    "复数： 大于1的都是复数 (包括1.1、1.01、1.001)",
+    "a car → two car s",
+    "a bag → three bag s",
+    "条件 规则 示例 发音",
+    "一般情况 名词 + s a boy -> boys; an apple -> apples 清辅音发/s/ 浊辅音发 /z/",
+    "以s\\sh\\x\\ch结尾的 名词 +es a bus -> buses; a box -> boxes; a brush -> brushes;a bench -> benches /iz/",
+    "以f\\fe结尾的 名词变 f,fe - > ves a wife -> wives ; a shelf -> shelves; a knife -> knives;a leaf->leaves; \\vz\\ (秋叶leaf面包loaf黄，架上shelf半只half狼wolf)(妻子wife拿己self刀knife，贼thief命life却已亡.)",
+    "辅音字母+y结尾的名词 名词变y 为 i + es a baby -> babies; a lady -> ladies; a city -> cities; a country -> countries; /iz/",
+    "元音字母+y结尾的名词 名词 + s day -> days;monkey -> monkeys 清辅音发/s/ 浊辅音发 /z/",
+    "元音+o 结尾 名词 + s a zoo -> zoos;a radio -> radios(无生命的) /z/",
+    "辅音+o 结尾 名词 +es a hero -> heroes ; a potato -> potatoes; a tomato -> tomatoes; a mango -> mangoes; a negro -> negroes(有生命的) /z/ (黑人英雄爱吃土豆、西红柿、芒果)",
+    "特殊词 名词 + s a roof -> roofs;a cliff -> cliffs; a proof -> proofs; a chief -> chiefs; a scarf -> scarfs\\scarves;a handkerchief -> handkerchiefs/handkerchieves",
+    "单数 + is : The teacher is American.",
+    "复数 + are :The tourists are from Norway.",
+    "单数形式 音标 含义",
+    "jeans [dʒinz] 牛仔裤 👖",
+    "pants [pænts] 裤子 👖",
+    "shorts [ʃɔrts] 短裤 🩳",
+    "glasses [ˈɡlæsɪz] 眼镜 👓",
+    "shoes [ʃuz] 鞋子 👟",
+    "pajamas [pəˈdʒɑːməz] 睡衣 🩱",
+    "trousers [ˈtraʊzəz] 裤子（英式） 👖",
+    "socks [sɑks] 袜子 🧦",
+    "gloves [ɡlʌvz] 手套 🧤"
+   ]
+  }
+ ],
+ "sentences": [
+  {
+   "title": "单词句型 扩展单词",
+   "lines": [
+    "5 Russian 俄罗斯人 Dutch 荷兰人 these 这些 red 红色的 grey 灰色的 black 黑色的 yellow 黄色的（刻板印象为“疾病”、“胆怯”或“异域”） orange 橘黄色的",
+    "Russia 俄罗斯",
+    "Chinese & China",
+    "Holland & Netherlands 荷兰",
+    "this 这个 → these 这些",
+    "that 那个 → those 那些",
+    "This is his watch . 这是他的手表",
+    "These are their watches . 这些是他们的手表。",
+    "red lights 红灯",
+    "gray 灰色的",
+    "grey hair 花白的头发",
+    "black tea 红 茶",
+    "black coffee 纯咖啡",
+    "black man 黑人（中性：Black person/man/woman；礼貌且正式：African American；侮辱且歧视：Nigger）",
+    "yellow man 黄种人（贬义： 东亚病夫 ）替换词：Asian、East Asian、Person of Asian descent"
+   ]
+  }
+ ],
+ "expand": [
+  {
+   "title": "扩展知识 字母组合的发音",
+   "lines": [
+    "5 拼读规则： 一辅一元，前辅后元 。 前辅音（辅音在前） 后辅音（辅音在后） 每日习语 talk is cheap 话谁都会说；行胜于言;空谈误国",
+    "组合 音标 示例 字母 音标 示例",
+    "ea \\ i: \\ t ea ,cl ea n, ea t,s ea t,b ea ch,d ea l,h ea t i \\ ɪ \\ d i d,s i t,b i tch,s i ck,d i ll,h i t",
+    "ee b ee f,f ee t,sl ee p,m ee t,d ee p,s ee k",
+    "ir \\ ə: \\ s ir ,b ir d,f ir m,g ir l er \\ ə \\ danc er ,clean er ,sist er ,summ er",
+    "ar \\ a: \\ h ar d,m ar k,f ar m,b ar ,c ar t,b ar ge u \\ ʌ \\ c u t,b u dge",
+    "一辅一元： 每个音节通常以一个辅音字母开始，紧接着是一个元音字母。例如，在单词\"beef\"中，\"b\"是辅音字母，\"ee\"是元音字母。同样，在单词\"meet\"中，\"m\"是辅音字母，\"ee\"是元音字母。",
+    "前辅后元： 在一个音节中，如果有两个或更多的辅音字母，它们通常会排在元音字母之前。例如，在单词\"sleep\"中，\"s\"和\"l\"是前置的辅音字母，\"ee\"是元音字母。同样，在单词\"feet\"中，\"f\"是前置的辅音字母，\"ee\"是元音字母。",
+    "Beef [bi:f]",
+    "Feet [fi:t]",
+    "Sleep [sli:p]",
+    "Meet [mi:t]"
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "q": "Welcom to England.___ you Japanese?",
+   "a": "Are",
+   "type": "choice"
+  }
+ ]
+}

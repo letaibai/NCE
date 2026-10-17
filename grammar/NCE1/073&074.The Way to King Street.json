@@ -1,0 +1,72 @@
+{
+ "grammar": [
+  {
+   "title": "语法知识 句子组织的 5 步骤",
+   "lines": [
+    "9 副词 (形容词修饰名词，其它都归副词修饰) C.种类 D.方式副词的演变 句子组织的 5 步骤",
+    "A.功能: 修饰忽悠形容词、动词、其它副词",
+    "B.位置： 形容词前面、动词的后面 (形前动后)",
+    "地点副词 here,there,home…",
+    "频率副词 always,often,sometimes…",
+    "时间副词 today,yesterday…",
+    "方式副词 slowly, suddenly, quickly…",
+    "adj. → adv. （…的变…地） 形容词 变 副词的规则",
+    "一般直接+ly quick → quick ly",
+    "辅+y 结尾,变 y 为 i +ly lazy → laz ily , happy → happ ily",
+    "以 ll-结尾,直接+y full → full y",
+    "辅音+le ,e 变 y able → abl y , single → singl y",
+    "元音+e 结尾,去 e+ly true → tru ly",
+    "中文 谁? 干了什么？ 如何干的？ 在哪儿干的？ 何时干的？ 完整的句子",
+    "他上周匆忙地离开了。 He left hurriedly - last week He left hurriedly last week.",
+    "他每天开心地在家等她。 He waits for her happily at home every day He waits for her happily at home every day.",
+    "我昨天忙碌地在商场买了很多鞋。 I bought many shoes (a lot of 强调数量多) busily at the mall yesterday I bought many shoes busily at the mall yesterday. （陈述句：强调整体繁忙） I bought many shoes at the mall yesterday, being busy. （复合句：强调购物时繁忙）",
+    "我今上午突然在教室里发现一个不认识的人。 I found a stranger suddenly in the classroom this morning I suddenly found a stranger in the classroom this morning. （强调突然发现） I found a stranger suddenly in the classroom this morning. （强调突然出现的陌生人）",
+    "她今天不想去上学。 She doesn't want to go to school - - today She doesn't want to go to school today.",
+    "结构顺序 主语 谓语+宾语 方式状语 地点状语 时间状语",
+    "特殊疑问词 Who What How Where When",
+    "上表中，时间状语可以调换到主语的前面。如果有定语出现在句子，那么它只能在2个位置。主语的前面/宾语的前面，因为只有主语或者宾语才能被定语修饰。",
+    "英文中的陈述句 （declarative sentence） 是用于陈述或描述某个事实、情况、感受或想法的句子。它通常以陈述语气出现，并且以句点作为结束符号。陈述句的基本结构包括主语、谓语和宾语，其中主语是执行动作的主体，谓语表示该主语正在进行的动作或状态，宾语则是该动作的对象。 陈述句可以使用肯定形式表示肯定的事实或情况，也可以使用否定形式表示否定的事实或情况。",
+    "\"I am a student.\"（我是一个学生。）",
+    "\"I am not a teacher.\"（我不是一名老师。）",
+    "同时，陈述句可以使用各种不同的时态来表示事件的发生时间或状态的持续时间。",
+    "过去时 \"I went to the beach yesterday.\"（我昨天去了海滩。）、",
+    "现在时 \"She is typin g on her computer.\"（她正在电脑上打字。）",
+    "将来时 \"They will arrive tomorrow.\"（他们明天会到达。）",
+    "SVO （Subject-Verb-Object） 是一种陈述句中最基本的语法结构，也是英文中最常用的语序。在SVO结构中，主语 （Subject） 通常出现在句子的开头，动词 （Verb） 在主语后面，而宾语 （Object） 位于动词之后。",
+    "英文中大部分的陈述句都采用了SVO结构，因此可以说\" 形前动后 \"和陈述句紧密相关。",
+    "\"I ate an apple.\"（我吃了一个苹果。）S主语是\"I\"，V谓语是\"ate\"，O宾语是\"an apple\"。"
+   ]
+  }
+ ],
+ "sentences": [
+  {
+   "title": "单词句型 副词修饰",
+   "lines": [
+    "He took a cake and ate it quickly .",
+    "I gave him a glass of water and he drank it thirstily .",
+    "I met her in the street the day before yesterday and she greeted me warmly",
+    "He read the phrase slowly .",
+    "He worked lazily .",
+    "He cut himself badly .",
+    "He worked carefully .",
+    "The door opened suddenly ."
+   ]
+  }
+ ],
+ "expand": [
+  {
+   "title": "扩展知识 问路与指路",
+   "lines": [
+    "3 问路 指路 每日习语 tie the knot 结婚；喜结连理",
+    "Excuse me. Can you tell me the way to…? 你能告诉我怎么去...？",
+    "Do you know the way to…? 你知道到...的路怎么走吗?",
+    "How can I get to…? 怎样才能到...?",
+    "Where is…please? 请问...在哪儿？",
+    "左转 ← turn left",
+    "右转 → turn right",
+    "直行 ↑ go straight, go down",
+    "交叉路口 ✜ crossing，intersection"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "grammar": [
+  {
+   "title": "语法知识 被动语态",
+   "lines": [
+    "9 “主动语态”与“被动语态”皆指动词的形式而言。在主动句中，动词的主语是执行动作的人或物；在被动句中，动作是对主语执行的，之所以在英语学习过程中很少有提及“主动语态”是因为除了“被动语态”剩下的都是主动语态。 《新一》相关知识 被动语态由 be 的一种形式和过去分词构成。主动语态的时态用法规则也适用于被动语态。动词作及物动词用时才能构成被动语态。如果要说明是什么人或什么东西做了某事，则用“by + 行为主体”结构。“行为主体”也可以不表示出来。 被动语态结构：be (动作的 时间 ) + done (表 状态 已完成) 常与被动语态的 made 连用的介词",
+    "主动语态 被动语态",
+    "The dog ate the cake. 狗吃了那个蛋糕 The cake was eaten . 蛋糕被吃了",
+    "有主语 (狗，动作的发出者) 并知道是谁吃了蛋糕，非被动的情况都为主动。 我们无法确定“主语”是谁时或者不想强调主语时，使用被动语态来陈述。",
+    "is/am/are + done 一般现在时的被动 He is beaten every day. 他每天被打 Classrooms are cleaned every day. 教室每天都打扫",
+    "was/were + done 一般过去时的被动 The new building was built last year. 去年被建 He was beaten yesterday. 昨天被打",
+    "will be + done 一般将来时的被动 He will be beaten tomorrow. 他明天将要被打",
+    "am/is/are being + done 现在进行时的被动 He is being beaten . 他正在挨打 People are being influenced by advertisements. 人们现在 正在 被广告所影响 It is being repaired . 它正在被修理",
+    "have/has been + done 现在完成时的被动 He has been beaten . 他现在已经被打了 A new machine has been invented . 一个新的机器被发明了",
+    "made in 表示产地或时间 It was made in Germany.",
+    "made of 表示用某种材料制成 The tea pot is made of silver. （通常指制造后不改变该材料原来的性质或形状）",
+    "made from 表示用数种材料制成，或者是制造后改变了材料原来的性质或形状 Paper can be made from wood.",
+    "made by 表示由谁制造 This cake was made by my sister.",
+    "be made into 被制成… The gold is made into a ring."
+   ]
+  }
+ ],
+ "expand": [
+  {
+   "title": "扩展知识 双重所有格/双重属格",
+   "lines": [
+    "3 英语中通常用-’s 和of 结构来表示所有格。-’s 结构通常用在人名和表示人称的名词的末尾，而 of 结构则常与无生命的名词连用。 结构：名词 + of + 名词所有格 (名词性的物主代词) 每日习语 head over heels 神魂颠倒；深陷爱河",
+    "It is being repaired by a friend of my father 's . (最后的 friends 被省略了)",
+    "名词 + 's 表拥有 （大多数情况用于人） A of B 表 A 属于 B (大多数情况用于物)",
+    "Anna ’s book. 安娜的书。 The color of the car . 属于汽车的颜色",
+    "Anna ’s book s . 一对多 her boyfriend ’s book s . 多重所有格 a book of Anna's 多对一 many book s of Anna's 多对多",
+    "区别-'s 按 顺序翻译 ，of是 倒序翻译 ，所以它们真实的区别为 翻译时的词序 ，-’s 结构的所有格可用于of 结构之后，称为双重所有格，在名词前面，可以用 a，this，that，these，some， any，no 等，但不用 the。",
+    "He is a friend of mine . 含有“他是我的一个特殊的或惟一的朋友”之意。",
+    "He is no friend of mine . 含义是“我根本不认识他”或“他是我的敌人” 强调很多当中的一个或几个的时候, 选用双重属格结构",
+    "a friend of my father 's / my father 's friend(s) 只有 一个 朋友",
+    "a friend of my father 's 很多朋友 中的 一个",
+    "It happened to a friend of mine . 我的很多朋友中的一个"
+   ]
+  }
+ ]
+}

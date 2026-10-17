@@ -1,0 +1,64 @@
+{
+ "grammar": [
+  {
+   "title": "语法知识 情态动词 must",
+   "lines": [
+    "4 情态动词 用于表示说话人的意愿、能力、推测、建议、命令等含义。情态动词通常在句子中与其他动词连用，以构成各种不同的语气和语态。 形式：主语 + 情态动词 + 动词原型 在 其他时态 里，must 的有些含义可以用 have to 或 have got to。这三种形式一般可以互换，但用于第一人称时，have to(have got to)强调 客观 的要求或外在的原因， must 则强调主观的要求或表示说话的人认为自己有权做某事。 have to 和 have got to 往往可以互换，但与 always，sometimes 等频度副词连用时，用 have to 往往比用have got to 好。have got to 比 have to 更口语化。在 I think…/he thinks…的从句中，一定要用事实说话. (不能说成 “I think he must be a fool.” ) must be 的否定式为 can’t be（不可能）",
+    "Can 表示能力、许可或询问 I can swim. （我会游泳。）",
+    "Could Can的过去式式，表示过去的能力、许可或询问；也可用于委婉的请求或建议 Could you pass me the salt, please? （请你递给我盐，好吗？）",
+    "May 表示可能性、许可或问询 May I use your phone? （我可以使用你的手机吗？）",
+    "Might May的过去式，表示较弱的可能性、推测或委婉地提出请求 It might rain later. （后面可能会下雨。）",
+    "Must (无时态要求)表示强烈的必要性、推测或推断 You must wear a seatbelt. （你必须系安全带。）",
+    "Shall (仅用于第一人称)表示提出建议、征询意见或表达将来的决定 Shall we go to the movies? （我们去看电影吗？）",
+    "Should Shall的过去式，表示建议、推荐或期望 You should eat more fruits and vegetables. （你应该多吃水果和蔬菜。）",
+    "Will 表示将来的意愿、决心或预测 I will help you with your homework. （我会帮你做作业。）",
+    "Would Will 的过去式，表示过去的习惯、委婉的请求或虚拟假设 He would always arrive late. （他过去总是迟到。）",
+    "情态动词无复数、无三单的变化。",
+    "情态动词时态变化有限 (现在与过去) ，may一般现在时变为might一般过去式。",
+    "can 与 could 不一定非要对应为过去，很多时候是语气上的差异。can比could的语气强硬一点。很多时候我们更推荐使用could 这样更委婉的语气词做为一般疑问句。",
+    "情态动词的否定、疑问句直接提前或者加not. （can的否定只能是cannot与cann't 中间不能有空格）",
+    "情态动词具有单一性，一个句子里只能出现1次。",
+    "Must 必须、肯定",
+    "表示推测 “肯定，一定” 具有情态动词中最强的推测度（有把握性） 情态动词 表示“必要，命令或强制，邀请，决心，不可推卸的责任”等",
+    "She must be 35 years old. 她肯定有35岁了(情态动词 + 动词原型) She is 35 years old. 原句(明确的知道，无推测) You must be the new teacher. 你肯定是新老师吧 You are the new teacher. 你是新老师 He looks pale . ⇒ He must be ill. 通过 pale 推测出 ill I must do it now . 我必须现在做 She must do it now . 她必须现在做 You must do it tomorrow . 你必须明天做 All income must be declared. 所有收益必须申报。 We must broaden our appeal. 我们必须扩大我们的吸引力。",
+    "must 无时态，通常只用于现在时和将来时 have to 可以变换时态",
+    "Must you leave now? 难道你非得现在就走吗？ I’m afraid so. I have to / must study for an exam. You must cope with it. 你必须应付它。 The suit must definitely fit well. 这套衣服一定很合身。 I have to do it now . 一般现在时 She has to do it now . 一般现在时三单 You will have to do it tomorrow . 一般将来时 They had to do it yesterday . 一般过去时"
+   ]
+  }
+ ],
+ "sentences": [
+  {
+   "title": "单词句型 As 的用法",
+   "lines": [
+    "4 As 作为介词 可以表示“作为”、“以…身份”等 As 作为连词 可以表示“因为”、“正当…时候”、“以…方式”或“如同…那样”等 work as “担任…工作”",
+    "In this film, he appeared as a policeman. 他扮演一名警察。",
+    "As a mechanic, he can’t always keep himself clean. 作为一名机械师…",
+    "You must take care of the baby tomorrow as I am going to London.",
+    "As we were talking about him, he knocked at the door. （正当…时候）",
+    "Do as you are told. 叫你怎么做就怎么做(按你被告知的那样去做)（以…方式）",
+    "As I learned , … （如同…那样）",
+    "I work as an engineer. 我是一名工程师。",
+    "He has worked as a diplomat in the U.S., Sudan and Saudi Arabia. 他曾做过驻美国...的外交官。"
+   ]
+  }
+ ],
+ "expand": [
+  {
+   "title": "扩展知识 must 推测现在与过去",
+   "lines": [
+    "4 must 推测现在 must 推测过去 每日习语 by the book 照章办事, 循规蹈矩",
+    "You must be the new teacher. 一般现在时",
+    "They must be waiting for you. 正在进行时",
+    "It must have rained last night. 昨天晚上肯定下雨了",
+    "She must have cried just now. 她肯定刚刚哭过"
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "q": "I can't boot my computer now. Something ___ （一定出了毛病) with its operation system.",
+   "a": "must be wrong",
+   "type": "choice"
+  }
+ ]
+}

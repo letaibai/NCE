@@ -1,0 +1,56 @@
+{
+ "grammar": [
+  {
+   "title": "语法知识 一般过去时态",
+   "lines": [
+    "6 一般过去时态 动词 过去式 的变化规则 (不规则动词表) 一般现在时态 （复习对比） 不规则动词练习 (请转为一般现在时)",
+    "过去 （经常） 的状态 过去 （习惯） 的动作",
+    "主语 + was\\were + 非动词 主语 + did (v.过去式)",
+    "I was home. They were at school. She was Pretty. It was great. She was right . Michelle visit ed China in 2014. 2014 访问了中国 I watch ed “Toy story 3” last month. 我上个月看过了“玩具总动员” I clean ed my room this morning. 今天早上我打扫了房间 She help ed me yesterday. 她昨天帮助了我 They enjoy ed themselves last weekend. 上周他们玩得很开心",
+    "一般情况 + ed call → called; air → aired I air ed the room this morning. 我上午给房间通风了。",
+    "以字母 e 结尾 + d live → lived; love → loved They liv ed in New York two years ago. 他们两年前居住在纽约。",
+    "以辅音字母+ y 结尾,变 y 为 i +ed try → tried; study → studied I stud ied in the US in 2010. 我 2010 年在美国学习。",
+    "辅+元+辅 （汉堡包结构) ,将辅音字母双写+ed stop → stopped The bus stop ped just now. 公车刚刚停下来了。",
+    "陈述句 否定句 (Don’t \\Doesn’t + do) 一般疑问句 (Do\\does + do？)",
+    "I watch ed “Toy story 3” last month . I did n’t watch “Toy story 3” last month. Did Michelle visit China in 2014?",
+    "I clean ed my room this morning . I did n’t clean my room this morning. Did you clean your room this morning?",
+    "She help ed me yesterday . She did n’t help me yesterday. Did she help you yesterday?",
+    "They enjoy ed themselves last weekend . They did n’t enjoy themselves last weekend. Did they enjoy themselves last weekend?",
+    "I went to Hollywood nine years ago. → ?",
+    "I made a snow man last winter. → ?"
+   ]
+  }
+ ],
+ "sentences": [
+  {
+   "title": "单词句型 When did you…?",
+   "lines": [
+    "When did you air the room? → I air ed the room in the morning .",
+    "When did you clean your shoes? → I clean ed my shoes in the afternoon .",
+    "When did you open the box? → I open ed the box just now .",
+    "It is raining . → It rain ed yesterday.",
+    "It is snowing . → It snow ed yesterday.",
+    "He is boiling some eggs. → He boil ed some eggs yesterday.",
+    "? → We enjoy ed it yesterday, too."
+   ]
+  }
+ ],
+ "expand": [
+  {
+   "title": "扩展知识 电话用语",
+   "lines": [
+    "6 每日习语 playing with fire 玩火自焚；冒险行事",
+    "中文 电话用语",
+    "你好！我是 Venus。 Hello. It’s Venus. This is Venus.",
+    "请问李先生在吗？ Is Mr. Lee in?",
+    "请问您是哪位？ Who is calling please?",
+    "我是他的朋友，Venus. It’s his friend, Venus.",
+    "请稍等。 Please hold on.",
+    "对不起他去开会了。 Sorry, he is in a meeting.",
+    "那好吧，请让他一会给我打过来好吗？ OK,tell him to call me later, please.",
+    "好的。 Ok. Bye.",
+    "Where there is a will, there is a way. 世上无难事，只要肯登攀。"
+   ]
+  }
+ ]
+}

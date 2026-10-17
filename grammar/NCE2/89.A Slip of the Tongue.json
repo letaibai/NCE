@@ -1,0 +1,41 @@
+{
+ "sentences": [
+  {
+   "title": "单词句型 一词多义",
+   "lines": [
+    "free adj. 免费的，无偿的 She has got some free ticket to the comedy show. The people are free to choose who will govern them.",
+    "adj. 自由的，没束缚的，不受控制的，空闲的 You are free to make your own decision. I’m free on Friday evening.",
+    "single adj. 单身的，独身的，未婚的 I enjoy being single . Are you married or single ? a single parent 单亲（独自一人养育儿女的父亲或母亲）",
+    "Funny adj. 有趣的，滑稽的，逗人发笑的 （与 amusing 同义） He included a large number of funny stories in his speech.",
+    "adj. 反常的，古怪的，奇怪的（口语） I thought there was something funny about the parcel, so I phoned the police. This morning I saw her wearing a funny hat which looked like a lighthouse.",
+    "Queue vi. 排队 We had to queue for hours to get in. She has to queue for the bus every morning.",
+    "n. （按顺序等待的人、车等的）行列、队 （通常为纵队） There’s a long queue / line of people waiting for the bus. We’d better join the queue for tickets.",
+    "row n. （人或物的）一排、一行 （通常为横的） You can see me in this old photo, standing in the back row . Please put the desks in four rows .",
+    "line n. 排，行，列；队列，队伍 The sparse line of spectators noticed nothing unusual. The next line should read: Five days, 23.5 hours."
+   ]
+  }
+ ],
+ "expand": [
+  {
+   "title": "扩展知识 情态动词；分裂结构",
+   "lines": [
+    "7 翻译虚拟表达 加中文“ 本来 ... 但是 ... ” 分裂结构 原本流畅且连贯的句子被调整了顺序导致了不再流畅与连贯 每日习语 Get a taste of your own medicine 以其人之道还治其人之身",
+    "情态动词 表示情态 表示推测 表示虚拟 (仅5个)",
+    "must / have to § 必须... 肯定\\一定... (把握最大) 🚫",
+    "will / would § 将要... 将会、会、愿意 (较强信念或推测) would have done (will × )",
+    "may / might § 可以... 可能、也许 (较弱的可能性) might have done (may × )",
+    "can / could § 能够... (能力和可能性) 通常用于否定表cannot 不可能... could have done (can × )",
+    "should / ought to § 应该... 应该 (强调道德或伦理的义务感) should have done = ought to have done",
+    "need § 需要... 需要 (必要性或建议) need have done",
+    "need have done 本来 需要做某事(实际上没做)",
+    "ought to have done 本来 应该做某事(实际上没做)",
+    "would have done 本来 将要做某事(实际上没做)",
+    "could have done 本来 能够做某事(实际上没做)",
+    "might have done 本来 可能做某事(实际上没有)",
+    "后移式 插入式",
+    "When reports came into London Zoo that a wild puma had been spotted forty-five miles south of London, they were not taken seriously. This , however, is not the best solution.",
+    "When the news got round that a comedy show would be presented at our local cinema by the P. and U. Bird Seed Company, we all rushed to see it. This , he says , is not the best solution."
+   ]
+  }
+ ]
+}

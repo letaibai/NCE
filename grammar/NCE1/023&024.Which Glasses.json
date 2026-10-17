@@ -1,0 +1,118 @@
+{
+ "grammar": [
+  {
+   "title": "语法知识 认识介词(prep.)",
+   "lines": [
+    "5 媒婆：连接两个词或词与句子 (介词=接词，后面需要接名词/代词) 。 介词 on(在…上面) 有无动词翻译上有区别 名字后的【介词短语】通常做为后置定语使用，用来修饰及限定。比如：a dog 小狗（无限定） ，a dog in the tree 树上的小狗（规定的是树上的小狗） ; an apple on the tree 树上的苹果（规定的是 结 在树上的苹果） ，长在上面用 on，掉进/放在里面用 in。 句子 必须要有动词 (短语通常做定语)",
+    "the book on the desk 短语(没说完)",
+    "The book is on the desk . 句子(说完了)",
+    "您的浏览器不支持媒体播放",
+    "短语 (无动词) 句子 (有动词)",
+    "the glass on the table 桌上 的 玻璃杯 The glass is on the table . 玻璃杯 在 桌上。",
+    "the spoon on the plate 盘子上 的 勺子 The spoon is on the plate . 勺子 在 盘子上。",
+    "the bottle on the box 盒子上 的 瓶子 The bottle is on the box. 瓶子 在 盒子上。",
+    "I sit on the floor. 我坐在板上",
+    "There is a shoe on the floor. 地板上有一只鞋。",
+    "A shoe on the floor is mine. 地板上那只鞋是我的。"
+   ]
+  }
+ ],
+ "sentences": [
+  {
+   "title": "单词句型 宾格巩固",
+   "lines": [
+    "3 Which one s ? 使用 me, him, her, us 或 them 填空",
+    "动词 宾语 量词 可数名词复数",
+    "Give me some pen s .",
+    "him",
+    "her tie s .",
+    "us",
+    "them spoon s .",
+    "定冠词 名词复数 代词 介词短语",
+    "The pen s / one s on the desk 书桌上的那些...",
+    "tie s on the chair 椅子上的那些...",
+    "spoon s on the table 桌子上的那些...",
+    "Give Tim this shirt. ⇒ Give him this one, too.",
+    "Give Jane this watch. ⇒ Give her this one, too.",
+    "Give the children these ice creams. ⇒ Give them these, too.",
+    "Give Tom this book. ⇒ Give him this one, too.",
+    "That is my passport. ⇒ Give me my passport please.",
+    "That is my coat. ⇒ Give me my coat please.",
+    "Those are our umbrellas. ⇒ Give us our umbrellas please."
+   ]
+  }
+ ],
+ "expand": [
+  {
+   "title": "扩展知识 元音组合",
+   "lines": [
+    "3 元音组合练习 每日习语 stay out of it 置身事外；不插手；不卷入是非",
+    "组合 音标 示例",
+    "air \\ eə \\ \\ er \\ \\ ɛə \\ air ,f air ,h air ,p air",
+    "ear w ear ,r ear ,p ear ,f ear",
+    "ear \\ ɪə \\ 、 \\ eə \\ 、 \\ ə: \\",
+    "元音 单元音(12个) 长元音 [i:] [ə:] [u:] [a:] [ɔː]",
+    "短元音 [i] [ə] [ɒ] [u] [ae] [e] [ʌ]",
+    "双元音(8个) ［ei］［ai］［ɔi］［iǝ］［εǝ］［uǝ］［ǝu］［au］",
+    "音标 对应英文单词 音标 对应英文单词",
+    "/i:/ ee, ea",
+    "/ə:/ ir /ə/ er",
+    "/a:/ ar",
+    "/ɔ:/ aw, au /ɔ/ aw, au",
+    "/ʊ/ oo /u:/ oo",
+    "/e/ ea /eɪ/ a-e, ay, ey",
+    "/aɪ/ i-e, ie",
+    "/əʊ/ ow, oa",
+    "ow, ou",
+    "/ɪə/ ear, eer",
+    "/ɔɪ/ oy, oi",
+    "音标 单词 元音组合",
+    "/'s ɔ: s ə / saucer au,er",
+    "/h e d/ head ea",
+    "/fl əʊ t/ float oa",
+    "/gr eɪ / grey ey",
+    "/b ɑ: ʤ/ barge ar",
+    "/sw i: t/ sweet ee",
+    "/w ʊ d/ wood oo",
+    "/m ɔɪ st/ moist oi"
+   ]
+  }
+ ],
+ "exercises": [
+  {
+   "q": "Give Tim this shirt. Give ___ this one, too.",
+   "a": "him",
+   "type": "blank"
+  },
+  {
+   "q": "Give Jane this watch. Give ___ this one, too.",
+   "a": "her",
+   "type": "blank"
+  },
+  {
+   "q": "Give the children these ice creams. Give ___ these, too.",
+   "a": "them",
+   "type": "blank"
+  },
+  {
+   "q": "Give Tom this book. Give ___ this one, too.",
+   "a": "him",
+   "type": "blank"
+  },
+  {
+   "q": "That is my passport. Give ___ my passport please.",
+   "a": "me",
+   "type": "blank"
+  },
+  {
+   "q": "That is my coat. Give ___ my coat please.",
+   "a": "me",
+   "type": "blank"
+  },
+  {
+   "q": "Those are our umbrellas. Give ___ our umbrellas please.",
+   "a": "us",
+   "type": "blank"
+  }
+ ]
+}
