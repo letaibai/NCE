@@ -6,6 +6,8 @@
 
 **《New Concept English》** 全四册在线课文朗读、**单句点读**、中英对照，随时随地自学英语！
 
+**在线体验**：👉 **[https://letaibai.github.io/NCE/](https://letaibai.github.io/NCE/)**
+
 ---
 
 ### ✨ 主要功能
