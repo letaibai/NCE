@@ -250,16 +250,52 @@ export class VocabView {
       return;
     }
 
+    /** 布局型表(单元格是完整知识点) -> 拆成"标题加粗 + 内容"的段落
+     *  标题启发式:开头连续中文词组(≥2字,后接空格/冒号)后接实质内容 */
+    const flattenCell = (text) => {
+      const t = text.trim();
+      if (!t) return null;
+      // 排除句型结构标记(如"主 系 表"、"主 + 谓 vi."):短中文标记夹空格
+      if (/^[一-鿿](\s+[一-鿿+]\s*){1,4}$/.test(t.slice(0, 14).split(/[A-Za-z]/)[0].trim()) && /\s[一-鿿]\s/.test(t.slice(0, 20))) {
+        return `<p>${escapeHtml(t)}</p>`;
+      }
+      // 中文标题:2-6字名词性词组后接空格或冒号,且后续有实质内容
+      const tm = t.match(/^([一-鿿]{2,6})[\s：:]+(.+)$/);
+      if (tm && tm[2].length >= 4) {
+        return `<p><strong>${escapeHtml(tm[1])}</strong> ${escapeHtml(tm[2].trim())}</p>`;
+      }
+      // 英文标题:短词组以冒号结尾
+      const em = t.match(/^([\w .&'/-]{1,25})[：:]\s*([\s\S]+)$/);
+      if (em) {
+        return `<p><strong>${escapeHtml(em[1].trim())}</strong> ${escapeHtml(em[2].trim())}</p>`;
+      }
+      return `<p>${escapeHtml(t)}</p>`;
+    };
+
+    const renderTablePart = (t) => {
+      const rows = t.rows || [];
+      const cols = rows[0]?.length || 0;
+      // 布局滥用表(行列过少或单列) -> 展开为知识点段落
+      if (rows.length < 3 || cols < 2) {
+        const cells = [];
+        (t.headers || []).forEach((h) => cells.push(h));
+        rows.flat().forEach((c) => c && cells.push(c));
+        const html = cells.map(flattenCell).filter(Boolean).join('');
+        return html || '';
+      }
+      // 真网格 -> 表格
+      const head = t.headers?.length
+        ? `<thead><tr>${t.headers.map((h) => `<th>${escapeHtml(h)}</th>`).join('')}</tr></thead>`
+        : '';
+      const body = rows
+        .map((row) => `<tr>${row.map((c) => `<td>${escapeHtml(c)}</td>`).join('')}</tr>`)
+        .join('');
+      return `<div class="grammar-table-wrap"><table class="grammar-table">${head}<tbody>${body}</tbody></table></div>`;
+    };
+
     const renderPart = (part) => {
       if (part.table) {
-        const t = part.table;
-        const head = t.headers?.length
-          ? `<thead><tr>${t.headers.map((h) => `<th>${escapeHtml(h)}</th>`).join('')}</tr></thead>`
-          : '';
-        const body = (t.rows || [])
-          .map((row) => `<tr>${row.map((c) => `<td>${escapeHtml(c)}</td>`).join('')}</tr>`)
-          .join('');
-        return `<div class="grammar-table-wrap"><table class="grammar-table">${head}<tbody>${body}</tbody></table></div>`;
+        return renderTablePart(part.table);
       }
       return `<p>${escapeHtml(part.text || '')}</p>`;
     };
