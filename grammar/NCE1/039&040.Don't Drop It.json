@@ -1,9 +1,9 @@
 {
  "grammar": [
   {
-   "title": "语法知识 说“不” - 否定形式",
+   "title": "说“不” - 否定形式",
    "lines": [
-    "5 Don’t（Do not） + v. （动词） \"Don't\"（不要）+ 动词",
+    "Don’t（Do not） + v. （动词） \"Don't\"（不要）+ 动词",
     "结构：is not / am not / are not",
     "肯定句 否定句",
     "It is my name.（这是我的名字。） It is not my name.（这不是我的名字。）",
@@ -31,7 +31,7 @@
     "Tips : not 通常与动词搭配，而 No 则与名词搭配。",
     "助动词\"Do\"是英语中一个非常常用且多功能的词，它有多种用法和含义。",
     "用于构成否定句和疑问句 否定句：例如，\"I do not like coffee.\"（我不喜欢咖啡。） 疑问句：例如，\" Do you like coffee?\"（你喜欢咖啡吗？）",
-    "用于强调 强调句：例如，\"I do enjoy playing basketball.\"（我 确实 喜欢打篮球。） 强调疑问句：例如，\" Do you really love me?\"（你 真的 爱我吗？）",
+    "用于强调 强调句：例如，\"I do enjoy playing basketball.\"（我 确实 喜欢打篮球。） 强调疑问句：例如，\" Do you really love me?\"（你真的爱我吗？）",
     "用于替代动词 替代动词：例如，\"I don't know what to do .\"（我不知道该做什么。）",
     "用于进行时态和完成时态 进行时态：例如，\"She is doing her homework.\"（她正在做她的作业。） 完成时态：例如，\"He has done his job.\"（他已经完成了他的工作。）"
    ]
@@ -39,9 +39,9 @@
  ],
  "sentences": [
   {
-   "title": "单词句型 going to 练习",
+   "title": "going to 练习",
    "lines": [
-    "5 接双宾语 What are you going to do with…? I’m going to give / show / send / take …",
+    "接双宾语 What are you going to do with…? I’m going to give / show / send / take …",
     "单词 词性 中文含义 音标 例句",
     "show v. 给…看 /ʃəʊ/ Can you show me how to do it?",
     "send v. 寄送，派遣 /send/ I will send you the documents by email.",
@@ -50,12 +50,12 @@
     "send sb. sth. = send sth. to sb.",
     "take sb. sth. = take sth. to sb.",
     "一般将来时 ：主语 + is/am/are + going to + do ∴ 主语 + will + do",
-    "What are you going to do with the dress? 你 打算 怎么处理这件裙子？",
-    "I'm going to give it to my daughter. 我 打算 把它送给我的女儿。",
+    "What are you going to do with the dress? 你打算怎么处理这件裙子？",
+    "I'm going to give it to my daughter. 我打算把它送给我的女儿。",
     "What are you going to do with the flowers? 你打算怎么处理这些鲜花？",
-    "I'm going to give them to my grandmother. 我 打算 把它们送给我的奶奶。",
+    "I'm going to give them to my grandmother. 我打算把它们送给我的奶奶。",
     "What are you going to do with the newspaper? 你打算怎么处理这份报纸？",
-    "I'm going to take it to my father. 我 打算 把它带给我的父亲。",
+    "I'm going to take it to my father. 我打算把它带给我的父亲。",
     "What are you going to do with the picture? 你打算怎么处理这张照片？",
     "I'm going to send it to my mother. 我打算把它寄给我的母亲。"
    ]
@@ -63,17 +63,17 @@
  ],
  "expand": [
   {
-   "title": "扩展知识 交通法规的英文表达",
+   "title": "交通法规的英文表达",
    "lines": [
-    "5 Don’t + v. ↔ No + n. 结论：Don't 否定动词，No 否定名词！ Don't 语气更强烈一些，可翻译为：不准; No 语气弱一点，可翻译为：不要 每日习语 I have another fish to fry. 我还有别的事要做。",
-    "Don't + v. 禁止 动作 No + n. 不允许 某个事物或概念",
-    "Don't eat too much candy. （不要吃太多糖果。） No smoking allowed in this area. （本区域禁止吸烟。）",
-    "Don't forget to call me. （别忘了给我打电话。） No pets allowed in the building. （楼内不允许携带宠物。）",
+    "Don’t + v. ↔ No + n. 结论：Don't 否定动词，No 否定名词！ Don't 语气更强烈一些，可翻译为：不准; No 语气弱一点，可翻译为：不要",
+    "Don't + v. 禁止动作 No + n. 不允许某个事物或概念",
+    "Don't eat too much candy.（不要吃太多糖果。） No smoking allowed in this area.（本区域禁止吸烟。）",
+    "Don't forget to call me.（别忘了给我打电话。） No pets allowed in the building.（楼内不允许携带宠物。）",
     "Don't smoke! 禁止吸烟 No smoking! 不要吸烟",
-    "Don't turn left. 禁止左转 No left turn. 不许左转",
-    "Don't turn right. 禁止右转 No right turn. 不许右转",
-    "Don't make a U-turn. 禁止调头 No U-turn. 不准调头",
-    "Don't park. 禁止停车 No parking. 不准停车"
+    "Don't turn left.禁止左转 No left turn.不许左转",
+    "Don't turn right.禁止右转 No right turn.不许右转",
+    "Don't make a U-turn.禁止调头 No U-turn.不准调头",
+    "Don't park.禁止停车 No parking.不准停车"
    ]
   }
  ]

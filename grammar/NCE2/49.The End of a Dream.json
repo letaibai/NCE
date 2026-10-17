@@ -1,9 +1,9 @@
 {
  "grammar": [
   {
-   "title": "语法知识 复合句的语序",
+   "title": "复合句的语序",
    "lines": [
-    "6 名词性从句 定语从句 状语（或副词性）从句 分词 (动名词doing) 结构的复合句 现在分词结构的这种用法仅限于两个动作的主语一致的时候。用它代替时间从句时，分词结构表示的动作如果发生在前，则分词结构要位于主 语前；如果两个动作同时发生，那么分词结构既可以位于主句前，也可以位于主句后。分词结构位于主句 前面时，要用逗号隔开。 过去分词结构 常用于比较正式的文体，往往代替被动语态 不定式(to do)结构的复合句 这种结构通常可以代替表示目的或表示条件的状语从句",
+    "名词性从句 定语从句 状语（或副词性）从句 分词(动名词doing)结构的复合句 现在分词结构的这种用法仅限于两个动作的主语一致的时候。用它代替时间从句时，分词结构表示的动作如果发生在前，则分词结构要位于主 语前；如果两个动作同时发生，那么分词结构既可以位于主句前，也可以位于主句后。分词结构位于主句 前面时，要用逗号隔开。 过去分词结构常用于比较正式的文体，往往代替被动语态 不定式(to do)结构的复合句 这种结构通常可以代替表示目的或表示条件的状语从句",
     "宾语从句 * 动词后的宾语从句 、 介词后的宾语从句 、 形容词后的宾语从句",
     "表语从句 Lesson 29 Taxi!",
     "主语从句 * L43 、 L51 、 L58",
@@ -11,18 +11,18 @@
     "定语从句 限定性 L28 Type this again as/in the way (that) I showed you just now . With a special train ticket, you can travel anywhere/everywhere you like in Europe for just over $100.",
     "非限定性 L36 、 L74",
     "状语从句 连接词 例句",
-    "时间 when, after, before, as soon as,until, while, as, since … She will call you when she arrives. （她到达时会给你打电话。） After he finished his work, he went home. （他完成工作后回家了。） He has been ill since he came back from his holidays.",
-    "地点 where, everywhere, anywhere … I will meet you where we first met. （我会在我们第一次见面的地方见你。） You can find books everywhere in this library. （你可以在这个图书馆的任何地方找到书。）",
-    "方式 as, in the way (that) …或者在动词 be，feel，seem，appear …后面也可以由连词 as if 和 as though 来引导 She smiled as if nothing had happened. （她微笑得好像什么都没发生一样。） He did it in the way that I showed him. （他是按照我教他的方式做的。） As you can’t go yourself, you’ll have to ask Susan go for you. 既然你自己不能去，那你就请苏珊替你去吧。",
-    "原因 because, as … They canceled the event because of the bad weather. （他们取消了活动，因为天气不好。） As he was feeling unwell, he couldn't attend the meeting. （因为他感觉不舒服，所以他不能参加会议。）",
-    "条件 if, unless, provided (that), in case, assuming (that) … If it rains tomorrow, we'll stay indoors. （如果明天下雨，我们会呆在室内。） Unless you study hard, you won't pass the exam. （除非你努力学习，否则你不会通过考试。）",
-    "让步 although, though, even though, even if … Although it was raining, they went for a walk. （尽管下雨，他们还是去散步了。） Even if he doesn't like it, he has to eat his vegetables. （即使他不喜欢，他也得吃蔬菜。）",
-    "目的 so that, in order that … She studied hard so that she could pass the exam. （她努力学习，以便能通过考试。） He worked late in order that he could finish the project on time. （他加班工作，为了能按时完成项目。）",
-    "结果 so + adj./adv. + that such (a) + (adj.) + n. + that It was so hot that we decided to go swimming. （天气太热了，我们决定去游泳。） Such was his determination that he overcame all obstacles. （他的决心是如此之大，以至于克服了所有障碍。）",
-    "比较 as + adj./adv. + as not so/as … as adj./adv. 的比较级 + than more…than less…than She is as talented as her sister. （她和她姐姐一样有才华。） He runs faster than anyone else on the team. （他比队里的其他人跑得更快。）",
+    "时间 when, after, before, as soon as,until, while, as, since … She will call you when she arrives.（她到达时会给你打电话。） After he finished his work, he went home.（他完成工作后回家了。） He has been ill since he came back from his holidays.",
+    "地点 where, everywhere, anywhere … I will meet you where we first met.（我会在我们第一次见面的地方见你。） You can find books everywhere in this library.（你可以在这个图书馆的任何地方找到书。）",
+    "方式 as, in the way (that) …或者在动词 be，feel，seem，appear …后面也可以由连词 as if 和 as though 来引导 She smiled as if nothing had happened.（她微笑得好像什么都没发生一样。） He did it in the way that I showed him.（他是按照我教他的方式做的。） As you can’t go yourself, you’ll have to ask Susan go for you.既然你自己不能去，那你就请苏珊替你去吧。",
+    "原因 because, as … They canceled the event because of the bad weather.（他们取消了活动，因为天气不好。） As he was feeling unwell, he couldn't attend the meeting.（因为他感觉不舒服，所以他不能参加会议。）",
+    "条件 if, unless, provided (that), in case, assuming (that) … If it rains tomorrow, we'll stay indoors.（如果明天下雨，我们会呆在室内。） Unless you study hard, you won't pass the exam.（除非你努力学习，否则你不会通过考试。）",
+    "让步 although, though, even though, even if … Although it was raining, they went for a walk.（尽管下雨，他们还是去散步了。） Even if he doesn't like it, he has to eat his vegetables.（即使他不喜欢，他也得吃蔬菜。）",
+    "目的 so that, in order that … She studied hard so that she could pass the exam.（她努力学习，以便能通过考试。） He worked late in order that he could finish the project on time.（他加班工作，为了能按时完成项目。）",
+    "结果 so + adj./adv. + that such (a) + (adj.) + n. + that It was so hot that we decided to go swimming.（天气太热了，我们决定去游泳。） Such was his determination that he overcame all obstacles.（他的决心是如此之大，以至于克服了所有障碍。）",
+    "比较 as + adj./adv. + as not so/as … as adj./adv. 的比较级 + than more…than less…than She is as talented as her sister.（她和她姐姐一样有才华。） He runs faster than anyone else on the team.（他比队里的其他人跑得更快。）",
     "时间从句 Glancing at the bits of wood and metal that lay around him, the man sadly picked up the mattress and carried it into his house.",
     "原因从句 Tired of sleeping on the floor, a young man in Tehran saved up for years to buy a real bed.",
-    "关系从句 I got very angry speaking to them. Feeling tired, I went to bed earlier than usual. Following his mom, he went there. (主动概念, 跟着他母亲去了那儿)",
+    "关系从句 I got very angry speaking to them. Feeling tired, I went to bed earlier than usual. Following his mom, he went there.(主动概念, 跟着他母亲去了那儿)",
     "Damaged in an accident, the car has now been repaired.",
     "Followed by his mom, he went there. (被动) 被他母亲带着跟着去了那儿",
     "To get into university you have to pass a number of examinations. to do表目的"
@@ -31,9 +31,9 @@
  ],
  "expand": [
   {
-   "title": "扩展知识 合并句子",
+   "title": "合并句子",
    "lines": [
-    "3 状语从句省略的并列 主语相同 每日习语 learn one’s lesson 吸取教训;吃一堑，长一智",
+    "状语从句省略的并列主语相同",
     "He missed the train. 原因状语从句 He missed the train because he did not hurry.",
     "He did not hurry.",
     "He ran fast. 让步状语从句 Although he ran fast, he failed to win the race.",

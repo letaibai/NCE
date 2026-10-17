@@ -1,14 +1,14 @@
 {
  "grammar": [
   {
-   "title": "语法知识 过去进行时态（Past Continuous Tense）",
+   "title": "过去进行时态（Past Continuous Tense）",
    "lines": [
-    "9 英语中的一种时态，用于描述 过去某个时间点或某段时间内正在进行的动作或事件 。它由助动词 \"was\" 或 \"were\" 加上动词的现在分词形式构成，下面是一些例句来解释过去进行时态的使用。 过去进行时态通常用于强调过去某个特定时间点或时间段内正在进行的动作，与其他过去时态形式（如过去简单时态）一起使用，以提供更详细和准确的描述。 过去进行时态 句型转换 时间状语从句 概念：句子作时间状语。 when \\ while \\ as \\ before \\ after… 引导词 After 与 Before 的区别 When you think you know nothing (引导词“When”的后面跟 从句 ) , you begin to know something (主句是要重点表达的中心思想) . 当你认为自己一无所知的时候，你开始懂事了。",
-    "I was (not) studying when the phone rang. 当电话响起时，我 (没有) 正在学习。",
-    "They were (not) playing soccer all afternoon yesterday. 昨天整个下午他们 (没有) 一直在踢足球。",
-    "She was (not) cooking dinner while he was (not) watching TV. 她 (没有) 正在做晚饭，他 (没有) 在看电视。",
-    "功能 ：过去某一时刻、时段正发生的动作",
-    "结构 ：主语 + was\\were + doing",
+    "英语中的一种时态，用于描述 过去某个时间点或某段时间内正在进行的动作或事件 。它由助动词 \"was\" 或 \"were\" 加上动词的现在分词形式构成，下面是一些例句来解释过去进行时态的使用。 过去进行时态通常用于强调过去某个特定时间点或时间段内正在进行的动作，与其他过去时态形式（如过去简单时态）一起使用，以提供更详细和准确的描述。 过去进行时态 句型转换 时间状语从句 概念：句子作时间状语。 when \\ while \\ as \\ before \\ after… 引导词 After 与 Before 的区别 When you think you know nothing(引导词“When”的后面跟从句), you begin to know something(主句是要重点表达的中心思想). 当你认为自己一无所知的时候，你开始懂事了。",
+    "I was (not) studying when the phone rang.当电话响起时，我 (没有) 正在学习。",
+    "They were (not) playing soccer all afternoon yesterday.昨天整个下午他们 (没有) 一直在踢足球。",
+    "She was (not) cooking dinner while he was (not) watching TV.她 (没有) 正在做晚饭，他 (没有) 在看电视。",
+    "功能：过去某一时刻、时段正发生的动作",
+    "结构：主语 + was\\were + doing",
     "现在 进行 过去 进行",
     "主语 + is/am/are + doing 主语 + was\\were + doing",
     "She is doing her homework now. They are having a date from 7:00-9:00 today. She was doing her homework at 10:00 last night. They were having a date from 7:00- 9:00 yesterday.",
@@ -16,7 +16,7 @@
     "She was doing her homework at 10:00... She was not doing her homework at 10:00... Was she doing her …?",
     "They were having a date from 7:00- 9:00… They were not having a date … Were they having a date from 7:00- 9:00...",
     "状语 状语从句",
-    "He was calling his girlfriend at 10:00 . He was calling his girlfriend when he was driving .",
+    "He was calling his girlfriend at 10:00. He was calling his girlfriend when he was driving .",
     "when 不限 当...时候 She answered the phone when she was studying .",
     "while 接延续性动词(多为进行时态） While I was cooking dinner, the doorbell rang .",
     "as 两个动作紧接着发生 As the sun set , the sky turned a beautiful shade of orange.",
@@ -30,7 +30,7 @@
  ],
  "sentences": [
   {
-   "title": "单词句型 练习过去进行时",
+   "title": "练习过去进行时",
    "lines": [
     "Someone knocked at the door when (while) I was having breakfast. 正在doing 的时候另一件事发生了。",
     "When (while) I was leaving the house, the postman arrived . 从句在前(一个动作在进行时，另一也发生了)",
@@ -43,9 +43,8 @@
  ],
  "expand": [
   {
-   "title": "扩展知识 洗手间",
+   "title": "洗手间",
    "lines": [
-    "5 每日习语 shoot for the moon 志向远大, 追求卓越",
     "单词 含义 区别",
     "bathroom 淋浴/浴室 可能包括淋浴设施",
     "restroom 公共厕所 通常指公共场所的洗手间",
@@ -54,26 +53,26 @@
     "loo 马桶/厕所 英国俚语，等同于 toilet",
     "men's room 男厕所 专门供男性使用的洗手间",
     "ladies' room 女厕所 专门供女性使用的洗手间",
-    "bathmat : I stepped out of the bath and onto the bathmat.",
-    "bathtub : The bathtub was full of warm water and bubbles.",
-    "electric toothbrush : I use my electric toothbrush to brush my teeth every evening.",
-    "hairbrush : I picked up my hairbrush and started brushing my hair.",
-    "hand towel : After washing my hands, I dried them on the hand towel.",
-    "liquid soap : I squeezed some liquid soap onto my hands and proceeded to wash them.",
-    "mirror : I looked in the mirror and saw my tired reflection.",
-    "plunger : Our toilet wasn’t working properly, so I used a plunger to fix it.",
-    "razor : I picked up the razor and started to shave.",
-    "rubber slippers : After stepping out of the shower, I put on my rubber slippers.",
-    "shaving foam : His face was covered in shaving foam, and it looked like he had a white beard.",
-    "shower curtain : If you don’t close the shower curtain, the bathroom floor will get wet.",
-    "soap : There was a white bar of soap next to the bathtub.",
-    "toilet : The toilet is in the corner of the bathroom, next to the sink.",
-    "toilet brush : I used the new toilet brush to clean the toilet.",
-    "toilet paper : There was a roll of white toilet paper next to the toilet.",
-    "toothpaste : I put some toothpaste on my toothbrush and started to brush my teeth.",
-    "towel : After washing my hands, I dried them on the towel.",
-    "washbasin : I washed my hands in the washbasin.",
-    "water heater : There was no hot water as I’d forgotten to turn on the water heater."
+    "bathmat: I stepped out of the bath and onto the bathmat.",
+    "bathtub: The bathtub was full of warm water and bubbles.",
+    "electric toothbrush: I use my electric toothbrush to brush my teeth every evening.",
+    "hairbrush: I picked up my hairbrush and started brushing my hair.",
+    "hand towel: After washing my hands, I dried them on the hand towel.",
+    "liquid soap: I squeezed some liquid soap onto my hands and proceeded to wash them.",
+    "mirror: I looked in the mirror and saw my tired reflection.",
+    "plunger: Our toilet wasn’t working properly, so I used a plunger to fix it.",
+    "razor: I picked up the razor and started to shave.",
+    "rubber slippers: After stepping out of the shower, I put on my rubber slippers.",
+    "shaving foam: His face was covered in shaving foam, and it looked like he had a white beard.",
+    "shower curtain: If you don’t close the shower curtain, the bathroom floor will get wet.",
+    "soap: There was a white bar of soap next to the bathtub.",
+    "toilet: The toilet is in the corner of the bathroom, next to the sink.",
+    "toilet brush: I used the new toilet brush to clean the toilet.",
+    "toilet paper: There was a roll of white toilet paper next to the toilet.",
+    "toothpaste: I put some toothpaste on my toothbrush and started to brush my teeth.",
+    "towel: After washing my hands, I dried them on the towel.",
+    "washbasin: I washed my hands in the washbasin.",
+    "water heater: There was no hot water as I’d forgotten to turn on the water heater."
    ]
   }
  ],

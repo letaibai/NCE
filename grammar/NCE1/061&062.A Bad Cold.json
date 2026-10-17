@@ -1,19 +1,19 @@
 {
  "grammar": [
   {
-   "title": "语法知识 感官动词(半系动词)",
+   "title": "感官动词(半系动词)",
    "lines": [
-    "5 感官动词-半系动词 § A、一半实义动词 （人称&时态变化） 一半系动词 § 副词修饰实义动词 半系动词 + 形容词 (感官动词做为系动词使用)",
+    "感官动词-半系动词 § A、一半实义动词（人称&时态变化） 一半系动词 § 副词修饰实义动词 半系动词 + 形容词(感官动词做为系动词使用)",
     "look 看 sound 听",
     "She look s beautiful in that dress. The music sound s soothing and relaxing.",
-    "Sleepies 眼屎 、Tear 泪水 Earwax 耳屎",
+    "Sleepies 眼屎、Tear 泪水 Earwax 耳屎",
     "smell 闻 taste 尝",
     "The flowers smell fragrant and sweet in the garden. The cake taste s delicious with its rich chocolate flavor.",
-    "Booger 鼻屎 Saliva 口水 、Phlegm 痰",
+    "Booger 鼻屎 Saliva 口水、Phlegm 痰",
     "feel 感觉",
-    "The fabric feel s soft and smooth against my skin . 紧贴着我的肌肤",
-    "Sweat 汗水 、Dandruff 头皮屑 、Scalp 头皮",
-    "感官动词具备 ½半 系动词 & ½半 实义动词 的功能。",
+    "The fabric feel s soft and smooth against my skin. 紧贴着我的肌肤",
+    "Sweat 汗水、Dandruff 头皮屑、Scalp 头皮",
+    "感官动词具备½半 系动词 & ½半 实义动词 的功能。",
     "感官动词 三单 does 过去时 did 过去分词 done 现在分词 doing",
     "look looks looked looked looking",
     "sound sounds sounded sounded sounding",
@@ -26,9 +26,9 @@
     "The music sounds beautiful. 这音乐听起来很美。 The music doesn't sound beautiful. Does the music sound beautiful? Why does the music sound beautiful? How does the music sound ?",
     "I feel hot. 我感觉很热。 I don't feel hot. Do you feel hot? Why do you feel hot? How do you feel ?",
     "The dish tastes good. 这道菜尝起来不错。 The dish doesn't taste good. Does the dish taste good? Why does the dish taste good? How does the dish taste ?",
-    "She is listening to music carefully . (carefully 副词修饰listening)",
-    "I eat my breakfast quickly . (quickly副词修饰eat)",
-    "感官动词做为系动词使用，后面跟形容词 （adj. 修饰名词\\代词）",
+    "She is listening to music carefully. (carefully 副词修饰listening)",
+    "I eat my breakfast quickly. (quickly副词修饰eat)",
+    "感官动词做为系动词使用，后面跟形容词（adj. 修饰名词\\代词）",
     "主 系 表",
     "You look young.",
     "are",
@@ -42,9 +42,9 @@
  ],
  "sentences": [
   {
-   "title": "单词句型 疼痛表达",
+   "title": "疼痛表达",
    "lines": [
-    "5 -ache n.表示疼痛（名词） ache v. 疼 -ist 后缀 have + 病名 得病 常用 动词 短语 注意主语三单情况的练习！ \" What must he do es ? \" 这个句子的语法是 错误的 。在这个句子中，情态动词\" must \"已经表达了 必须 做某事的意思，后面的动词应该使用原形，即\"do\"。所以，正确的形式应该是：\" What must he do? \"",
+    "-ache n.表示疼痛（名词） ache v. 疼 -ist 后缀 have + 病名 得病 常用 动词 短语 注意主语三单情况的练习！ \" What must he do es ? \" 这个句子的语法是 错误的 。在这个句子中，情态动词\" must \"已经表达了必须做某事的意思，后面的动词应该使用原形，即\"do\"。所以，正确的形式应该是：\" What must he do? \"",
     "head head ache ['hedeɪk] 头疼",
     "tooth tooth ache ['tuːθeɪk] 牙疼 (复合名词总是使用单数toothpaste\\toothbrush)",
     "ear ear ache ['ɪəreɪk] 耳朵疼",
@@ -88,11 +88,11 @@
  ],
  "expand": [
   {
-   "title": "扩展知识 常见病症的表达",
+   "title": "常见病症的表达",
    "lines": [
-    "5 感冒如何解决？ 常用患病的词 每日习语 Cooked is bad. Cooking is good. You’re either in the pot or you’re holding it. 你不是猎人，就是猎物。",
+    "感冒如何解决？ 常用患病的词",
     "He is under the weather. 他不舒服(古代流传下来的表达方式)",
-    "He has a runny nose . 他流鼻涕。",
+    "He has a runny nose.他流鼻涕。",
     "He sneeze s . 他打喷嚏。",
     "He has a scratchy throat. 他喉咙沙哑。",
     "He has an allergy. 他过敏了。",
@@ -102,8 +102,8 @@
     "keep warm 保暖",
     "have some medicine 吃药",
     "see a doctor 看医生",
-    "have \\ has …",
-    "take \\ catch .. . Mary take s cold easily.",
+    "have \\ has…",
+    "take \\ catch ... Mary take s cold easily.",
     "get… I think she get s flu.",
     "suffer from... (忍受苦难) They suffer from flu."
    ]

@@ -1,22 +1,22 @@
 {
  "grammar": [
   {
-   "title": "语法知识 现在完成时态",
+   "title": "现在完成时态",
    "lines": [
-    "现在完成 (过去发生，影响现在) 一般过去 (过去发生，无关现在)",
-    "He has got married. 他 已经 结婚了。 He got married in 2010. 他2010 年结的婚。",
-    "I have graduated . 我 已经 毕业了。 I graduated in 2006. 我2006 年毕业的。",
-    "I have finished Book1. 我 已经 学完一册了。 I finished Book1 last week. 我上周学完一册的。",
-    "I have been to New York. 我 去过 纽约。 I went to New York in 2010. 我2010年去了纽约。",
-    "我做过的事，与现在产生了关联 (持续状态) 只能告诉你我做过什么事 (瞬间状态)"
+    "现在完成(过去发生，影响现在) 一般过去(过去发生，无关现在)",
+    "He has got married. 他已经结婚了。 He got married in 2010. 他2010 年结的婚。",
+    "I have graduated . 我已经毕业了。 I graduated in 2006. 我2006 年毕业的。",
+    "I have finished Book1. 我已经学完一册了。 I finished Book1 last week. 我上周学完一册的。",
+    "I have been to New York. 我去过纽约。 I went to New York in 2010. 我2010年去了纽约。",
+    "我做过的事，与现在产生了关联(持续状态) 只能告诉你我做过什么事(瞬间状态)"
    ]
   }
  ],
  "sentences": [
   {
-   "title": "单词句型 动词的变化",
+   "title": "动词的变化",
    "lines": [
-    "3 现在完成 (引起话题) ↔ 一般过去 (具体谈论)",
+    "现在完成(引起话题) ↔ 一般过去(具体谈论)",
     "Have you met Mrs. Jones yet?",
     "Yes. I have .",
     "When did you meet her?",
@@ -43,16 +43,16 @@
     "set set set setting 落下、安置",
     "hurt hurt hurt hurting 使…伤痛",
     "ew → wn 规律变化的",
-    "fly fl ew flo wn flying 飞",
-    "draw dr ew dra wn drawing 画",
-    "grow gr ew gro wn growing 生长",
-    "know kn ew kno wn knowing 知道",
+    "fly flew flown flying 飞",
+    "draw drew drawn drawing 画",
+    "grow grew grown growing 生长",
+    "know knew known knowing 知道",
     "i → a → u 规律变化",
-    "beg in beg an beg un beginning 开始",
-    "dr in k dr an k dr un k drinking 喝",
-    "s in g s an g s un g singing 唱",
-    "sw i m sw a m sw u m swimming 游泳",
-    "r in g r an g r un g ringing 打电话",
+    "begin began begun beginning 开始",
+    "drink drank drunk drinking 喝",
+    "sing sang sung singing 唱",
+    "swim swam swum swimming 游泳",
+    "ring rang rung ringing 打电话",
     "ee → el,ep,ef",
     "feel felt felt feeling 感觉",
     "keep kept kept keeping 保持",
@@ -77,12 +77,11 @@
  ],
  "expand": [
   {
-   "title": "扩展知识 has / have been 或 has / have gone",
+   "title": "has / have been 或 has / have gone",
    "lines": [
-    "3 每日习语 in hot water 陷入麻烦, 处境困难",
     "Sam： Sally and Tim are on holiday, aren't they?",
     "Where have they gone ?",
-    "Sue： To Florida, again.",
+    "Sue：To Florida, again.",
     "Sam： How many times have they been there?",
     "Sue： This is their third visit.",
     "Harry: I saw you in Annabel's Restaurant last night.",

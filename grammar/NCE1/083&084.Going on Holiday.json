@@ -1,16 +1,16 @@
 {
  "grammar": [
   {
-   "title": "语法知识 现在完成时态",
+   "title": "现在完成时态",
    "lines": [
-    "7 现在完成时态用来描 述过去发生的动作 或事件 与现在的关联 。它通常表示一个 过去的行为 、经历或状态 对现在造成的影响 或结果。现在完成时态里的动作是过去发生的，到现在这个时间时，可以全部完成，也可以部分完成。 动词与时态的关系 现在完成时态 have/has 这里不会翻译任何的意思出来，在现在完成时里的have/has与一般现在时里的do/does一样是助动词，用于帮助实义动词的过去分词实现现在完成时态的。 所以have/has的用法也和do/does一样。在否定句、疑问里面直接提前或者加not。",
-    "全部完成 （可以转为一般过去时） 部分完成",
-    "I have watch ed this movie. ( 已 看过了) → I watched this movie. (过去看过) She has finish ed her homework. ( 已 完成作业) → She finished her homework. (过去做了作业) She has liv ed in New York for five years. (现在依然住纽约) She lived in New York for five years. (过去住了5年)",
+    "现在完成时态用来描述过去发生的动作或事件与现在的关联。它通常表示一个过去的行为、经历或状态对现在造成的影响或结果。现在完成时态里的动作是过去发生的，到现在这个时间时，可以全部完成，也可以部分完成。 动词与时态的关系 现在完成时态 have/has 这里不会翻译任何的意思出来，在现在完成时里的have/has与一般现在时里的do/does一样是助动词，用于帮助实义动词的过去分词实现现在完成时态的。 所以have/has的用法也和do/does一样。在否定句、疑问里面直接提前或者加not。",
+    "全部完成（可以转为一般过去时） 部分完成",
+    "I have watch ed this movie. (已看过了) → I watched this movie.(过去看过) She has finish ed her homework.(已完成作业) → She finished her homework. (过去做了作业) She has liv ed in New York for five years.(现在依然住纽约) She lived in New York for five years. (过去住了5年)",
     "原型 三单 (现在时) 过去式 (一般过去时) 过去分词 (完成时) 现在分词 (进行时)",
     "do (规则) does did done doing",
     "一般情况 + s 一般情况 + ed 一般情况 + ing",
-    "以辅音字母 + y 结尾, 变 y 为 i + es 以辅音字母 + y 结尾, 变 y 为 i + ed 以 ie 结尾， 变ie为y + ing",
-    "以 s, x, ch, sh 结尾 + es 以辅音 + o 结尾 + es 以字母 e 结尾 + d 辅+元+辅 (汉堡包结构) ,将辅音字母 双写 +ed 以字母 e 结尾,去掉e + ing 以重读闭音节结尾且最后只有一个辅音字母的动词： 双写 结尾辅音字母后再加上 -ing",
+    "以辅音字母 + y 结尾,变 y 为 i + es 以辅音字母 + y 结尾,变 y 为 i + ed 以ie结尾，变ie为y + ing",
+    "以 s, x, ch, sh 结尾 + es 以辅音 + o 结尾 + es 以字母 e 结尾 + d 辅+元+辅(汉堡包结构),将辅音字母双写+ed 以字母 e 结尾,去掉e + ing 以重读闭音节结尾且最后只有一个辅音字母的动词：双写结尾辅音字母后再加上 -ing",
     "陈述句 否定句 一般疑问句",
     "主语 + has\\have + done have\\ has + not have\\ has 提前",
     "I have aired the room. You have not aired the room. Have you aired the room?",
@@ -24,16 +24,16 @@
  ],
  "sentences": [
   {
-   "title": "单词句型 Have you had...?",
+   "title": "Have you had...?",
    "lines": [
-    "3 可数与不可数名词的代替 §",
+    "可数与不可数名词的代替 §",
     "Have you had any fruit.",
     "banana s .",
     "orange s .",
     "peache s .",
     "apple s .",
     "复数 单数",
-    "Have some coffee. I've already had some . Have a banana. I've already had one .",
+    "Have some coffee. I've already had some. Have a banana. I've already had one.",
     "Have some beer. Have an apple.",
     "Have some milk. Have a peach.",
     "Have some cheese. Have a glass of water.",
@@ -44,9 +44,8 @@
  ],
  "expand": [
   {
-   "title": "扩展知识 西方的节假日",
+   "title": "西方的节假日",
    "lines": [
-    "3 每日习语 risking one’s life 冒着生命危险",
     "New Year’s Day 新年",
     "Valentine’s Day 情人节（Feb.14th ）",
     "Easter Day 复活节 (the first Sunday after the full moon following the spring equinox )",

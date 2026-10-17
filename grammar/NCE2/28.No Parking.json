@@ -1,11 +1,11 @@
 {
  "grammar": [
   {
-   "title": "语法知识 定语从句",
+   "title": "定语从句",
    "lines": [
-    "9 定语从句 § 结构：先行词 + 关系词 + 定语从句 （即：名词 + 连接词 + 定语） 通过先行词推导关系词 定语从句与宾语从句不一样，宾语从句是缺什么选择什么关系词，而定语从句，只需要看先行词即可； 定语从句与关系代词 关系代词的两个功能 一是承上, 一是启下(如上句中的 “book” 作从句的宾语)",
-    "功能： 用一个 句子 做定语，定义、修饰 名词 。",
-    "位置： 根据英文的“理让弱小”原则，谁短谁放前面，定语是一个句子，短不了，必须放到被修饰名词的后面。",
+    "定语从句 § 结构：先行词 + 关系词 + 定语从句 （即：名词 + 连接词 + 定语） 通过先行词推导关系词 定语从句与宾语从句不一样，宾语从句是缺什么选择什么关系词，而定语从句，只需要看先行词即可； 定语从句与关系代词 关系代词的两个功能 一是承上, 一是启下(如上句中的 “book” 作从句的宾语)",
+    "功能：用一个句子做定语，定义、修饰 名词 。",
+    "位置：根据英文的“理让弱小”原则，谁短谁放前面，定语是一个句子，短不了，必须放到被修饰名词的后面。",
     "被修饰的 名词 连接词 修饰定语",
     "This is the job which I have dreamed of the job for years.",
     "先行词 关系词 定语从句",
@@ -14,31 +14,30 @@
     "This is A . I have dreamed of B for years. A = B This is A + C + I have dreamed of B for years. C = B",
     "先行词 关系词 用法 示例",
     "事/物 which 哪个 非限制性 The book, which is on the table, belongs to me.",
-    "that 那个 限制性 和 非限制性 The car that is parked outside is mine.",
+    "that 那个 限制性和非限制性 The car that is parked outside is mine.",
     "人 that 那个 I have a friend that speaks English.",
     "who 谁 非限制性 Linda, who is my best friend, is coming over for dinner.",
-    "whom 谁(可省) 非限制性， 在从句中作 宾语 。 The man, whom I met at the party, is a famous actor.",
-    "人/物 某人的\\某物的 whose 谁的 限制性 和 非限制性 The house, whose roof is red, is for sale.",
-    "地点 where 哪儿 非限制 性 I visited the school where my mother works.",
+    "whom 谁(可省) 非限制性，在从句中作宾语。 The man, whom I met at the party, is a famous actor.",
+    "人/物 某人的\\某物的 whose谁的 限制性和非限制性 The house, whose roof is red, is for sale.",
+    "地点 where 哪儿 非限制性 I visited the school where my mother works.",
     "时间 when 什么时候 I still remember the day when we first met.",
     "原因 why 为什么 That's the reason why I didn't go to the party.",
-    "定语从句 的关系词每一个 都作成分 ，包括 that (宾语从句中的that不做成分即可省略) 。 whom 指人，只能在作宾语时使用。 关系词在定语从句中 作宾语 时，可以省略 (只针对人或事物) 。",
-    "定语从句像形容词一样可以形容人、物及事件。分为限定性从句和非限定性关系从句 （带逗号，如我的爸、妈、爷、奶是固定且唯一的） 。",
-    "I have a book that / which he likes. ( “book” 为先行词 “that/which” 为关系代词)",
+    "定语从句的关系词每一个都作成分，包括 that (宾语从句中的that不做成分即可省略)。 whom 指人，只能在作宾语时使用。 关系词在定语从句中作宾语时，可以省略(只针对人或事物)。",
+    "定语从句像形容词一样可以形容人、物及事件。分为限定性从句和非限定性关系从句（带逗号，如我的爸、妈、爷、奶是固定且唯一的）。",
+    "I have a book that/which he likes.( “book” 为先行词 “that/which” 为关系代词)",
     "The boy who is standing at the door is my brother.",
     "I can do anything that I can do. 我愿意做我力所能及的事情来帮助你",
     "The boat whose name is...",
     "I have a house whose windows are broken. 我有一个房子, 房子的窗户都破了.",
-    "限制性 定语从句 对先行词起修饰和限制作用的从句，去掉它将导致句子意义不完整或发生歧义 非限制性 定语从句 对先行词起补充说明或附加信息的从句，即使去掉也不会影响句子的完整性和主要意义",
+    "限制性定语从句 对先行词起修饰和限制作用的从句，去掉它将导致句子意义不完整或发生歧义 非限制性定语从句 对先行词起补充说明或附加信息的从句，即使去掉也不会影响句子的完整性和主要意义",
     "The car that is parked outside is mine. 这辆停在外面的车是我的。 The car is mine. 这车是我的（去掉限制改变了原意） Linda, who is my best friend , is coming over for dinner. 我最好的朋友琳达要来吃晚饭。 Linda is coming over for dinner. 琳达要来吃晚饭。（去掉非限制不改变原意。只缺少修饰）"
    ]
   }
  ],
  "sentences": [
   {
-   "title": "单词句型 定语从句的写法",
+   "title": "定语从句的写法",
    "lines": [
-    "5 每日习语 out of the frying pan into the fire 每下愈况；越来越糟；刚出虎穴又入狼窝",
     "The book that/which/- you lent me is not interesting.",
     "This is the hotel that/which was built last year.",
     "The man who/that/whom/- you met yesterday is an actor.",

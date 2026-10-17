@@ -1,9 +1,9 @@
 {
  "grammar": [
   {
-   "title": "语法知识 助动词Do的使用",
+   "title": "助动词Do的使用",
    "lines": [
-    "3 系动词 句型变换 实义动词 句型变换",
+    "系动词 句型变换 实义动词 句型变换",
     "一般疑问句 否定句",
     "Are they happy? 他们开心吗？ Are they students? 他们是学生吗？ Are they on the subway? 他们在地铁上吗？ They are not happy. 他们不开心。 They are not students. 他们不是学生。 They are not on the subway. 他们不在地铁上。",
     "一般疑问句 否定句",
@@ -13,23 +13,23 @@
  ],
  "sentences": [
   {
-   "title": "单词句型 介词复习",
+   "title": "介词复习",
    "lines": [
-    "3 Do you like….？ 你喜欢 ... 吗？ Do you want....？ 你想要...? 请带入上面的单词表里的名词练习。",
+    "Do you like….？你喜欢 ... 吗？ Do you want....？你想要...? 请带入上面的单词表里的名词练习。",
     "单词 词性 中文含义 音标 例句",
     "fresh adj. 新鲜的 /freʃ/ the fresh air （新鲜的空气）",
     "egg n. 鸡蛋 /eɡ/ 可数",
     "butter n. 黄油 /'bʌtə(r)/ 不可数",
-    "pure adj. 纯净的 /pjʊə(r)/ the pure water （纯净的水）",
+    "pure adj. 纯净的 /pjʊə(r)/ the pure water（纯净的水）",
     "honey n. 蜂蜜 /'hʌni/ pure honey 不可数",
     "ripe adj. 成熟的 /raɪp/ 元辅e,发本身的i音",
     "banana n. 香蕉 /bə'nɑːnə/",
-    "jam n. 果酱 /dʒæm/ traffic jam （交通堵塞）",
-    "sweet adj. 甜的 /swiːt/ her sweet voice （她甜美的声音）",
+    "jam n. 果酱 /dʒæm/ traffic jam（交通堵塞）",
+    "sweet adj. 甜的 /swiːt/ her sweet voice（她甜美的声音）",
     "orange n. 橙子 /'ɒrɪndʒ/",
     "Scotch Whisky 苏格兰威士忌",
-    "choice adj. 上等的 /tʃɔɪs/ some choice apples （一些上等的苹果）",
-    "n. 选择 You can make a wise choice.（ 你可以做出明智的选择）",
+    "choice adj. 上等的 /tʃɔɪs/ some choice apples（一些上等的苹果）",
+    "n. 选择 You can make a wise choice.（你可以做出明智的选择）",
     "apple n. 苹果 /'æpl/",
     "wine n. 果酒 /waɪn/",
     "beer n. 啤酒 /bɪə(r)/",
@@ -42,22 +42,22 @@
     "Do you want some more tea? 你再要点儿茶吗？",
     "Do you want an ice cream? 你想来个冰激凌吗？",
     "单词 中文含义 音标 例句",
-    "off 离开 /ɒf/ Please turn off the lights. （请关灯。）",
-    "over 跨越 /'oʊvər/ He jumped over the fence. （他跳过了篱笆。）",
-    "between 两 者之间 /bɪ'twiːn/ The book is between the two candles. （书在两个蜡烛中间。）",
-    "along 沿着 /ə'lɔŋ/ Walk along the street. （沿着街道走。）",
-    "in front of 前面 /ɪn frʌnt ɒv/ The car parked in front of the house. （车停在房子前面。）",
-    "behind 后面 /bɪ'haɪnd/ The cat is hiding behind the curtain. （猫躲在窗帘后面。）",
-    "under 下面 /'ʌndər/ The keys are under the table. （钥匙在桌子下面。）",
-    "across 穿过 /ə'krɔːs/ She walked across the bridge. （她走过了桥。）"
+    "off 离开 /ɒf/ Please turn off the lights.（请关灯。）",
+    "over 跨越 /'oʊvər/ He jumped over the fence.（他跳过了篱笆。）",
+    "between 两 者之间 /bɪ'twiːn/ The book is between the two candles.（书在两个蜡烛中间。）",
+    "along 沿着 /ə'lɔŋ/ Walk along the street.（沿着街道走。）",
+    "in front of 前面 /ɪn frʌnt ɒv/ The car parked in front of the house.（车停在房子前面。）",
+    "behind 后面 /bɪ'haɪnd/ The cat is hiding behind the curtain.（猫躲在窗帘后面。）",
+    "under 下面 /'ʌndər/ The keys are under the table.（钥匙在桌子下面。）",
+    "across 穿过 /ə'krɔːs/ She walked across the bridge.（她走过了桥。）"
    ]
   }
  ],
  "expand": [
   {
-   "title": "扩展知识 数词及 apple 相关俚语",
+   "title": "数词及 apple 相关俚语",
    "lines": [
-    "3 idioms 习语 one hundred 100 一百 每日习语 out of this world 极好的、绝妙的",
+    "idioms 习语 one hundred 100 一百",
     "the apple of one’s eyes 掌上明珠",
     "the big apple 纽约市",
     "Adam’s apple 男性的喉结",

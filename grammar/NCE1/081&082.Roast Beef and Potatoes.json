@@ -1,9 +1,9 @@
 {
  "grammar": [
   {
-   "title": "语法知识 have 实义动词",
+   "title": "have 实义动词",
    "lines": [
-    "have (万能词)",
+    "have(万能词)",
     "生病 have a cold have a headache have a toothache",
     "拥有 I have a close friend in Beijing. 我在北京有一个亲密的朋友。",
     "吃 We had roast beef and potatoes",
@@ -16,9 +16,9 @@
  ],
  "sentences": [
   {
-   "title": "单词句型 I had ... 我吃(喝、从事)了...",
+   "title": "I had ... 我吃(喝、从事)了...",
    "lines": [
-    "6 请选择下列词语 填入 问题答案里",
+    "请选择下列词语 填入 问题答案里",
     "I had breakfast. (三餐无冠词)",
     "lunch. (三餐无冠词)",
     "tea. (不可数无冠词)",
@@ -45,9 +45,9 @@
  ],
  "expand": [
   {
-   "title": "扩展知识 新东方厨师学校的各种烹饪方式",
+   "title": "新东方厨师学校的各种烹饪方式",
    "lines": [
-    "5 【中国特色食品】 每日习语 be the apple of one's eye 掌上明珠",
+    "【中国特色食品】",
     "烹饪方式 中文",
     "fry 🍳 油炸",
     "roast 🍗 烘烤",

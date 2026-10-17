@@ -67,14 +67,24 @@ export class VocabView {
         if (word) this.speak(word);
       });
     }
-    // 练习题"显示答案"按钮
+    // 练习题交互：核对 / 显示答案
     this.grammarPanel?.addEventListener('click', (event) => {
-      const btn = event.target.closest('.ex-answer-btn');
-      if (!btn) return;
-      const answer = btn.parentElement?.querySelector('.ex-answer');
-      if (!answer) return;
-      answer.hidden = !answer.hidden;
-      btn.textContent = answer.hidden ? '显示答案' : '隐藏答案';
+      const ex = event.target.closest('.grammar-exercise');
+      if (!ex) return;
+
+      if (event.target.closest('.ex-check-btn')) {
+        this.#checkExercise(ex);
+      } else if (event.target.closest('.ex-reveal-btn')) {
+        const result = ex.querySelector('.ex-result');
+        result.hidden = false;
+        result.textContent = `答案：${ex.dataset.answer}`;
+        result.className = 'ex-result ex-revealed';
+        ex.classList.remove('correct', 'wrong');
+      }
+    });
+    this.grammarPanel?.addEventListener('keydown', (event) => {
+      if (event.key !== 'Enter' || !event.target.matches('.ex-input')) return;
+      this.#checkExercise(event.target.closest('.grammar-exercise'));
     });
     // 标签切换
     this.tabVocab?.addEventListener('click', () => this.#setActiveTab('vocab'));
@@ -84,6 +94,23 @@ export class VocabView {
       this.#saveTabState();
       this.#applyTabState();
     });
+  }
+
+  #checkExercise(ex) {
+    const input = ex.querySelector('.ex-input');
+    const result = ex.querySelector('.ex-result');
+    const expected = (ex.dataset.answer || '').trim().toLowerCase();
+    const given = (input?.value || '').trim().toLowerCase();
+    if (!given) {
+      input?.focus();
+      return;
+    }
+    const correct = given === expected;
+    result.hidden = false;
+    result.textContent = correct ? '✓ 正确！' : '✗ 不对，再想想（可点 💡 看答案）';
+    result.className = `ex-result ${correct ? 'ex-ok' : 'ex-bad'}`;
+    ex.classList.toggle('correct', correct);
+    ex.classList.toggle('wrong', !correct);
   }
 
   #setActiveTab(tab) {
@@ -236,12 +263,17 @@ export class VocabView {
 
     const exercises = data.exercises?.length
       ? `<section class="grammar-block">
-           <h3 class="grammar-heading">✏️ 练习题</h3>
-           ${data.exercises.map((ex) => `
-             <div class="grammar-exercise">
-               <p class="ex-question">${escapeHtml(ex.q)}</p>
-               <button class="ex-answer-btn" type="button">显示答案</button>
-               <span class="ex-answer" hidden>${escapeHtml(ex.a)}</span>
+           <h3 class="grammar-heading">✏️ 练习题（输入答案后回车或点"核对"）</h3>
+           ${data.exercises.map((ex, idx) => `
+             <div class="grammar-exercise" data-answer="${escapeHtml(ex.a)}">
+               <p class="ex-question">${idx + 1}. ${escapeHtml(ex.q)}</p>
+               <div class="ex-input-row">
+                 <input class="ex-input" type="text" autocomplete="off"
+                        placeholder="输入答案…" aria-label="第 ${idx + 1} 题答案">
+                 <button class="ex-check-btn" type="button">核对</button>
+                 <button class="ex-reveal-btn" type="button" title="显示答案">💡</button>
+               </div>
+               <p class="ex-result" hidden></p>
              </div>`).join('')}
          </section>`
       : '';

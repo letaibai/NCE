@@ -1,9 +1,9 @@
 {
  "grammar": [
   {
-   "title": "语法知识 现在完成时的全部完成与部分完成",
+   "title": "现在完成时的全部完成与部分完成",
    "lines": [
-    "3 How long have you been married? 你们结婚多久了?",
+    "How long have you been married? 你们结婚多久了?",
     "全部完成 到目前为止已经完成（过去发生,影响现在） 部分完成 表持续（未完成）",
     "I have finished Book 1. 全部完成(可转换为“一般过去时”) I finished Book 1. 一般过去时 She has lived in Beijing for ten years.",
     "just, already, before, never, ever, yet… since, for…",
@@ -14,9 +14,9 @@
  ],
  "sentences": [
   {
-   "title": "单词句型 现在完成：引起话题",
+   "title": "现在完成：引起话题",
    "lines": [
-    "现在完成 （引起话题） 一般过去 （具体谈论）",
+    "现在完成（引起话题） 一般过去（具体谈论）",
     "Have you ever…? Have you …yet? When did you …? Where did you …? How did you …?",
     "Have you read this book yet? Yes. I have. When did you read it? I read it last year.",
     "Have you done your homework yet? Yes, I have. Where did you read it? I read it at home. When did you do it? I did it half an hour ago. Where did you do it? I did it at home.",
@@ -27,9 +27,8 @@
  ],
  "expand": [
   {
-   "title": "扩展知识 购物词汇",
+   "title": "购物词汇",
    "lines": [
-    "3 购物 每日习语 lead the way 引领潮流",
     "go shopping (去)购物",
     "window shopping 逛街",
     "online shopping 网购",

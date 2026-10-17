@@ -1,42 +1,42 @@
 {
  "grammar": [
   {
-   "title": "语法知识 简单句",
+   "title": "简单句",
    "lines": [
-    "8 英文中的句子分类 想要学好语言，我们需要连词成句，只要把句子组织好了，我们的语言也就Ok了，句子一般有下面两种分类方式： 简单句 简单句在英文中就是最基本的句子，只用于描述“ 一件事 ”。简单句的构成在新一中解释了多次，我们再来回顾一下简单句的“五种基本结构”： 想要描述“一件事”需要两大要素：“物质 (名词 n.) +运动 (动词 v.) ”。主语是发出谓语的人、事物 (名词 n.) 、宾语是承受动作 （动词 v.） 的人、事物 (名词 n.) 。 主系表 英文的句子中必须要有一个谓语动词，否则就不能符合英文的语法，为了解决这样的不符合逻辑的情况，在英文中产生了专门用于将主语与表语连接在一起的动词，即： 系动词 。起一个连系作用，是为了满足英文语法而存在的，不产生其它意思 （需要有时我们翻译为“是、在”） 。所以这里的结构变成了“ 主+系+表 ”。系动词还是一个动词，但已没有实际的意思和动作，系动词是用于帮助构成一个句子的。为了体现这个动词无实义、无动作，所以这里修改了一个名字“ 系动词 ”。 系动词 还有更多的系动词将在今后的学习中出现，当实义动词为系动词时需要满足一定的条件，所以不是太常用，我们主要还是以“Be 动词”为主。所以我们的重点是了解当“Be 动词”单独出现时则为“主系表”结构。 动词的 vi. / vt. 如果我们还不知道这个动词的词意的时候，可以通过分析后面是否有一个“介词”来判断是否及物。如果这个 动词及物 后面可以直接加名词/代词，反之 不及物动词 则需要一个中介、媒介 （介词） 来帮助它，如：I look at you. 这里的look 是一个不及物动词，所以我们需要一个介词 at 与 宾语 you 连接。 简单句的变化 简单句的变化前提是，基本结构不变的情况下，加入很多辅助的成分，让句子内容变长、变难 (使用更多的修饰让句子更丰富)",
-    "按 结构 划分 简单句 （Simple Sentence） I like to study.",
-    "并列句 （Compound Sentence） I like to study, but I don't like exams.",
-    "复合句 （Complex Sentence） Because the weather is nice, we decided to go to the park.",
-    "按 用途 划分 陈述句 （Declarative Sentence） I finished my homework today.",
-    "疑问句 （Interrogative Sentence） Do you have time tomorrow?",
-    "祈使句 （Imperative Sentence） Please give me a glass of water.",
-    "感叹句 （Exclamatory Sentence） What a beautiful scenery !",
+    "英文中的句子分类 想要学好语言，我们需要连词成句，只要把句子组织好了，我们的语言也就Ok了，句子一般有下面两种分类方式： 简单句 简单句在英文中就是最基本的句子，只用于描述“ 一件事 ”。简单句的构成在新一中解释了多次，我们再来回顾一下简单句的“五种基本结构”： 想要描述“一件事”需要两大要素：“物质(名词 n.)+运动(动词 v.)”。主语是发出谓语的人、事物(名词 n.)、宾语是承受动作（动词 v.）的人、事物(名词 n.)。 主系表 英文的句子中必须要有一个谓语动词，否则就不能符合英文的语法，为了解决这样的不符合逻辑的情况，在英文中产生了专门用于将主语与表语连接在一起的动词，即：系动词。起一个连系作用，是为了满足英文语法而存在的，不产生其它意思（需要有时我们翻译为“是、在”）。所以这里的结构变成了“ 主+系+表 ”。系动词还是一个动词，但已没有实际的意思和动作，系动词是用于帮助构成一个句子的。为了体现这个动词无实义、无动作，所以这里修改了一个名字“ 系动词 ”。 系动词 还有更多的系动词将在今后的学习中出现，当实义动词为系动词时需要满足一定的条件，所以不是太常用，我们主要还是以“Be 动词”为主。所以我们的重点是了解当“Be 动词”单独出现时则为“主系表”结构。 动词的 vi. / vt. 如果我们还不知道这个动词的词意的时候，可以通过分析后面是否有一个“介词”来判断是否及物。如果这个动词及物后面可以直接加名词/代词，反之不及物动词则需要一个中介、媒介（介词）来帮助它，如：I look at you. 这里的look 是一个不及物动词，所以我们需要一个介词 at 与 宾语 you 连接。 简单句的变化 简单句的变化前提是，基本结构不变的情况下，加入很多辅助的成分，让句子内容变长、变难(使用更多的修饰让句子更丰富)",
+    "按 结构 划分 简单句（Simple Sentence） I like to study.",
+    "并列句（Compound Sentence） I like to study, but I don't like exams.",
+    "复合句（Complex Sentence） Because the weather is nice, we decided to go to the park.",
+    "按 用途 划分 陈述句（Declarative Sentence） I finished my homework today.",
+    "疑问句（Interrogative Sentence） Do you have time tomorrow?",
+    "祈使句（Imperative Sentence） Please give me a glass of water.",
+    "感叹句（Exclamatory Sentence） What a beautiful scenery!",
     "结构 例句",
     "主 + 谓 vi. I study . 无动作的承受者",
     "主 + 谓 vt. + 宾 He eats an apple. 宾语承受主语发出的动作",
     "主 + 谓 vt. + 宾 + 宾 I give him a gift . 有2个承受动作的宾语(人通常是 间接宾语 ， 直接宾语 通常是物)",
     "主 + 谓 vt. + 宾 + 宾补 She finds this city very modern . 宾语承受动作，补语是对宾语进行了 补充说明 ℵ",
-    "主 + 系 + 表 The cat looks cute. 通过系动词将表语与主语联系起来，说明当前主语的状态。",
-    "Be 动词 （ 单独 出现） I am Kowk. 主 系 表 I am studying English. 主 谓 宾",
-    "get 、become 、turn 、go 、grow ... (当翻译为“ 变得 ” 时) He gets very angry. 主 系 表 He got a new car. 主 谓 宾",
+    "主 + 系 + 表 The cat looks cute.通过系动词将表语与主语联系起来，说明当前主语的状态。",
+    "Be 动词（ 单独 出现） I am Kowk. 主 系 表 I am studying English. 主 谓 宾",
+    "get 、become 、turn 、go 、grow ...(当翻译为“ 变得 ” 时) He gets very angry. 主 系 表 He got a new car. 主 谓 宾",
     "look 、sound 、smell、 taste、 feel ... (感观动词) She looks beautiful. 主 系 表 She looks at me. 主 谓 宾",
-    "上面的 感观动词 翻译为“look 看起来 ／sound 听起来 ／smell 闻起来 ／taste 品尝起来 ／feel 感觉起来 …”时为系动词。",
+    "上面的 感观动词 翻译为“look 看起来／sound 听起来／smell 闻起来／taste 品尝起来／feel 感觉起来…”时为系动词。",
     "vi. 不及物 vt. 及物",
-    "自主完成，无需要动词的承受者: 散步、远足、游泳、呼吸 需要一个动词的承受者: 吃 (苹果) 、爱 (学习) 、想 (你) 、打 (人)",
+    "自主完成，无需要动词的承受者: 散步、远足、游泳、呼吸 需要一个动词的承受者:吃(苹果)、爱(学习)、想(你)、打(人)",
     "句型 句子的变换 修饰方法",
     "陈述句 Birds fly . 主+谓 Little birds fly happily . 形容词Littl修改名词birds,副词happily修饰动词fly",
-    "改变时态 Birds will fly . 主+谓 In autumn birds will fly in the sky . 时间介词短语、地点介词短语",
-    "否定句 Birds will not fly . 主+谓 In autumn little birds will not fly happily in the sky . 加入全部修饰"
+    "改变时态 Birds will fly . 主+谓 In autumn birds will fly in the sky. 时间介词短语、地点介词短语",
+    "否定句 Birds will not fly . 主+谓 In autumn little birds will not fly happily in the sky. 加入全部修饰"
    ]
   }
  ],
  "sentences": [
   {
-   "title": "单词句型 句子的语序",
+   "title": "句子的语序",
    "lines": [
-    "4 简单陈述句的变化 (谓语动词的变化) 一个句子中，核心的部分就是“一主 + 一谓”来说明一件事，将来的长难句中，我们可以通过区别谓语动词来分析一句话说了几件事。谓语动词做为核心。 谓语动词“三态一否”包括了：“时态变化、语态的变化、情态的变化、与否定形式”。谓语动词不特指某一个单词，我们在“三态一否”中要把谓语动词看着是一个集合（短语、语法块 chunck ...）。 练习 请根据上述表格顺序将下面的内容组成正确的句子",
+    "简单陈述句的变化(谓语动词的变化) 一个句子中，核心的部分就是“一主 + 一谓”来说明一件事，将来的长难句中，我们可以通过区别谓语动词来分析一句话说了几件事。谓语动词做为核心。 谓语动词“三态一否”包括了：“时态变化、语态的变化、情态的变化、与否定形式”。谓语动词不特指某一个单词，我们在“三态一否”中要把谓语动词看着是一个集合（短语、语法块 chunck ...）。 练习 请根据上述表格顺序将下面的内容组成正确的句子",
     "时间状语 主语 谓语/系动词 宾语 表语、状语 地点状语 时间状语",
-    "When ? Who / Which / What ? What / How ? Who / Which / What ? How ？ Where ？ When ？",
+    "When? Who / Which / What? What / How? Who / Which / What? How？ Where？ When？",
     "Last week I went - to the theatre. Last week",
     "had a very good seat. -",
     "The play was - very interesting. -",
@@ -68,16 +68,16 @@
  ],
  "expand": [
   {
-   "title": "扩展知识 简单陈述句分类",
+   "title": "简单陈述句分类",
    "lines": [
-    "5 五大分类 男女主角 相遇 了，男生对女生说， 你很漂亮 、也 很有趣 ，所以我想 告诉你一个秘密 ：“ 我爱你 ~” 不规则动词的变化 § 过去式只用于“一般过去时”里。而过去分词可以用于“完成时态”、“被动语态”、“非谓语”等。",
+    "五大分类 男女主角相遇了，男生对女生说，你很漂亮、也很有趣，所以我想告诉你一个秘密：“我爱你~” 不规则动词的变化 § 过去式只用于“一般过去时”里。而过去分词可以用于“完成时态”、“被动语态”、“非谓语”等。",
     "句子 结构",
-    "They meet . 主+谓",
+    "They meet. 主+谓",
     "I love you. 主+谓+宾",
     "I tell you a secret. 主+谓+双宾",
     "I find you interesting. 主+谓+宾+宾补",
     "You are beautiful. 主+系+表",
-    "原型 过去式 过去分词 现在分词 （ 留空表按规则变化 ）",
+    "原型 过去式 过去分词 现在分词（留空表按规则变化）",
     "go went gone",
     "have had having",
     "do did done",

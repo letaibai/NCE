@@ -1,11 +1,11 @@
 {
  "grammar": [
   {
-   "title": "语法知识 感叹句",
+   "title": "感叹句",
    "lines": [
-    "6 感叹句（Exclamatory Sentence）是一种表达强烈情感、强调或惊讶的句子类型。它们通常以惊叹词或词组开头，如\"What\"、\"How\"、\"So\"、\"Such\"等，并以感叹号结尾。 这些结构可以根据需要进行组合，以表达不同的感叹情绪和强调语气。感叹句通常用于表达强烈的情感，如惊讶、赞美、喜悦、愤怒等。在书写时，感叹句通常以感叹号结尾。同时，感叹句也可以通过语调和声音的变化来传达强烈的感觉。 How beautiful! ↔ What a beautiful day! How 后面跟形容词，What 后面跟名词短语 。 陈述句 变 感叹句 How 与 What 的区别 How 感慨的是形容词，What 感叹的是名词。 在口语中：How 直接跟 形容词/副词，上面的可以缩写为:How ( clever\\beautiful\\fast\\hard)! 可省略： 主语+谓语 Aren't you lucky! 的变化过程 It is a beautiful picture. 陈述变感叹 冠词使用细节 a\\an出现的最主要原因是解决发音问题，所以它们只与相邻的词首发音所关联产生变化，但为了区别复数与可数名词，所以冠词成为了可选项 感叹词",
+    "感叹句（Exclamatory Sentence）是一种表达强烈情感、强调或惊讶的句子类型。它们通常以惊叹词或词组开头，如\"What\"、\"How\"、\"So\"、\"Such\"等，并以感叹号结尾。 这些结构可以根据需要进行组合，以表达不同的感叹情绪和强调语气。感叹句通常用于表达强烈的情感，如惊讶、赞美、喜悦、愤怒等。在书写时，感叹句通常以感叹号结尾。同时，感叹句也可以通过语调和声音的变化来传达强烈的感觉。 How beautiful! ↔ What a beautiful day! How 后面跟形容词，What 后面跟名词短语。 陈述句 变 感叹句 How 与 What 的区别 How 感慨的是形容词，What 感叹的是名词。 在口语中：How 直接跟 形容词/副词，上面的可以缩写为:How (clever\\beautiful\\fast\\hard)! 可省略：主语+谓语 Aren't you lucky! 的变化过程 It is a beautiful picture. 陈述变感叹 冠词使用细节 a\\an出现的最主要原因是解决发音问题，所以它们只与相邻的词首发音所关联产生变化，但为了区别复数与可数名词，所以冠词成为了可选项 感叹词",
     "What + (a/an) + 形容词 + 可数名词！ Such + (a/an) + 形容词 + 可数/不可数名词！ How + 形容词/副词 + 主语/动词！ So + 形容词/副词 + 主语 + 谓语",
-    "What a beautiful sunset ! （多美的日落啊！） What beautiful / terrible weather ! 接不可数名词时，去掉a/an Such a talented musician ! （多么有才华的音乐家！） Such beautiful weather ! （天气真好！） How amazing the performance was! 这场演出太棒了！ So funny / happy / sad / cold / cool it is. So fast he runs! 他跑得真快啊！ So beautiful she looks tonight! 她今晚看起来真美！",
+    "What a beautiful sunset! （多美的日落啊！） What beautiful / terrible weather ! 接不可数名词时，去掉a/an Such a talented musician ! （多么有才华的音乐家！） Such beautiful weather ! （天气真好！） How amazing the performance was! 这场演出太棒了！ So funny / happy / sad / cold / cool it is. So fast he runs! 他跑得真快啊！ So beautiful she looks tonight! 她今晚看起来真美！",
     "How + adj.\\adv. 多么的...好... What + n. 多么的...好...",
     "How busy ! What a busy day !",
     "How hot ! What a hot room !",
@@ -13,19 +13,19 @@
     "How lovely ! What a lovely flower !",
     "How expensive ! What an expensive bag !",
     "How interesting ! What an interesting story !",
-    "陈述句 （单数） 感叹句 What+a/an＋形容词＋名词(单) +主语+谓语!",
+    "陈述句（单数） 感叹句What+a/an＋形容词＋名词(单)+主语+谓语!",
     "He is a tall boy. What a tall boy he is!",
     "She is a good student. What a good student she is!",
     "It is an interesting book. What an interesting book it is!",
-    "It is a beautiful ship. What a beautiful ship it is! (课文内容)",
-    "陈述句 （复数/不可数） What+形容词+名词 (不可数/可数复数) +主语+谓语！",
+    "It is a beautiful ship. What a beautiful ship it is!(课文内容)",
+    "陈述句（复数/不可数） What+形容词+名词(不可数/可数复数)+主语+谓语！",
     "it is good news. What good news it is!",
     "It is hard work. What hard work it is!",
     "They are beautiful photos. What beautiful photos they are!",
     "They are good boys. What good boys they are!",
-    "陈述句 How 感叹 (形容词) What 感叹 (名词)",
-    "He is a tall boy. How tall the boy is! 好 高 的男孩。 (虽然他还没有你长得高) What a tall boy he is! 好 一个 高的男孩。",
-    "She is a good student. How good the student is! 强调 学习好 What a good student she is! 强调学习好的 学生",
+    "陈述句 How 感叹(形容词) What 感叹(名词)",
+    "He is a tall boy. How tall the boy is! 好高的男孩。(虽然他还没有你长得高) What a tall boy he is! 好一个高的男孩。",
+    "She is a good student. How good the student is! 强调学习好 What a good student she is! 强调学习好的学生",
     "She is clever. How clever she is! How + 形容词/副词 + 主语 + 谓语! What a clever girl she is! What + a/an + 形容词 + 单数名词 (+ 主语 + 谓语)! What beautiful flowers they are! What + 形容词 + 复数名词/不可数名词 (+ 主语 + 谓语)!",
     "感慨形容词 感慨副词",
     "He is clever. → How clever he is! He runs fast. → How fast he runs!",
@@ -36,27 +36,27 @@
     "Aren't you lucky ! 使用降调说出来，就变成了一个感叹的语句：多么幸运啊！",
     "Is it a beautiful picture? 一般疑问句",
     "Isn't it a beautiful picture? 反问疑问句",
-    "Isn't it a beautiful picture ！ 使用坚定的语气+降调 (潜台词：“它都这么漂亮了，难道你不觉得吗？”)",
-    "What a cold water! 水 不可数 ，所以不能使用a 正确用法：What cold water!",
-    "What a lovely girls! 女孩们是 复数 ，前面不能使用a 正确用法：What lovely girl s !",
-    "课文出现： What a beautiful ship ! → How beautiful!",
-    "Oh 惊讶、喜悦、失望等情绪 Oh , no! I forgot my keys! （哎呀，糟糕！我忘记带钥匙了！）",
-    "Wow 惊讶、赞叹或兴奋 Wow , that's an impressive fireworks display! （哇，那是一个令人印象深刻的烟花表演！）",
-    "Ah 理解、疑惑或启示 Ah , now I see what you mean. （啊，现在我明白你的意思了。）",
-    "Oops 犯错误或出乎意料的情况 Oops , I spilled coffee on my shirt. （哎呀，我把咖啡洒在衬衫上了。）",
-    "Yikes 惊恐、惊讶或不愉快的情绪 Yikes , that was a close call! （呀，那真是千钧一发！）",
-    "Hooray 欢呼、庆祝或赞美 Hooray , we won the championship! （万岁，我们赢得了冠军！）",
-    "Alas 悲伤、遗憾或失望 Alas , the concert has been canceled. （唉，音乐会已经取消了。）",
-    "Bravo 赞扬、鼓励或喝彩 Bravo , you did an excellent job on the presentation! （太棒了，你的演讲做得非常出色！）"
+    "Isn't it a beautiful picture ！ 使用坚定的语气+降调(潜台词：“它都这么漂亮了，难道你不觉得吗？”)",
+    "What a cold water! 水不可数，所以不能使用a 正确用法：What cold water!",
+    "What a lovely girls! 女孩们是复数，前面不能使用a 正确用法：What lovely girl s !",
+    "课文出现：What a beautiful ship! → How beautiful!",
+    "Oh 惊讶、喜悦、失望等情绪 Oh, no! I forgot my keys! （哎呀，糟糕！我忘记带钥匙了！）",
+    "Wow 惊讶、赞叹或兴奋 Wow, that's an impressive fireworks display! （哇，那是一个令人印象深刻的烟花表演！）",
+    "Ah 理解、疑惑或启示 Ah, now I see what you mean. （啊，现在我明白你的意思了。）",
+    "Oops 犯错误或出乎意料的情况 Oops, I spilled coffee on my shirt. （哎呀，我把咖啡洒在衬衫上了。）",
+    "Yikes 惊恐、惊讶或不愉快的情绪 Yikes, that was a close call! （呀，那真是千钧一发！）",
+    "Hooray 欢呼、庆祝或赞美 Hooray, we won the championship! （万岁，我们赢得了冠军！）",
+    "Alas 悲伤、遗憾或失望 Alas, the concert has been canceled. （唉，音乐会已经取消了。）",
+    "Bravo 赞扬、鼓励或喝彩 Bravo, you did an excellent job on the presentation! （太棒了，你的演讲做得非常出色！）"
    ]
   }
  ],
  "sentences": [
   {
-   "title": "单词句型 关系代词",
+   "title": "关系代词",
    "lines": [
-    "7 Who served you? Who is making all that noise?",
-    "The man (who is) standing (现在分词做定语修饰名词) behind the counter.",
+    "Who served you? Who is making all that noise?",
+    "The man (who is) standing(现在分词做定语修饰名词) behind the counter.",
     "The woman",
     "The man/woman standing behind the counter (served me) .",
     "The m e n (who are) repairing the road."
@@ -65,13 +65,12 @@
  ],
  "expand": [
   {
-   "title": "扩展知识 定语从句在口语中的应用",
+   "title": "定语从句在口语中的应用",
    "lines": [
-    "6 每日习语 Make a long story short 长话短说",
     "Who eats pudding in the morning? People who like pudding .",
     "Who studies English in the morning? People who like English .",
     "I fell in love with someone who didn’t love me back. I fell in love 我坠入爱河 with someone 和一个人 didn’t love me back 没有爱回来(不爱我的人)",
-    "The boy that I was in love with fell in love with another man-Larry Sugarman. I was in love with 我爱上的 fell in love with another 爱上了别人 another,man-Larry Sugarman. 同位语 (人名)曼拉里 舒格曼"
+    "The boy that I was in love with fell in love with another man-Larry Sugarman. I was in love with 我爱上的 fell in love with another 爱上了别人 another,man-Larry Sugarman. 同位语(人名)曼拉里 舒格曼"
    ]
   }
  ]

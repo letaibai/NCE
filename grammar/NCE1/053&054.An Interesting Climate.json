@@ -1,10 +1,10 @@
 {
  "grammar": [
   {
-   "title": "语法知识 频率副词",
+   "title": "频率副词",
    "lines": [
-    "8 频率副词在句子中的位置可根据语法规则和句子结构来变化。 通常情况下，频率副词位于情态动词或系动词之后，实义动词之前 （实义前情系后） 频率副词直接放在动词之前 当频率副词放在句首时，通常需要使用倒装语序",
-    "频率副词 频率 中文 例句 （情系后，实义前）",
+    "频率副词在句子中的位置可根据语法规则和句子结构来变化。 通常情况下，频率副词位于情态动词或系动词之后，实义动词之前（实义前情系后） 频率副词直接放在动词之前 当频率副词放在句首时，通常需要使用倒装语序",
+    "频率副词 频率 中文 例句（情系后，实义前）",
     "always 100% 总是 Sarah always gets up early.",
     "usually 80% 通常 usually have coffee in the morning.",
     "often 60% 经常、常常 He often plays football on weekends.",
@@ -22,9 +22,9 @@
  ],
  "sentences": [
   {
-   "title": "单词句型 一般现在时句型变换练习",
+   "title": "一般现在时句型变换练习",
    "lines": [
-    "3 请使用上表中的国家与国籍练习。",
+    "请使用上表中的国家与国籍练习。",
     "国家 人称 国旗 翻译",
     "Australia /ɔːˈstreɪljə/ Australian 🇦🇺 澳大利亚",
     "Austria /ɒs.tri.ə/ Austrian 🇦🇹 奥地利",
@@ -49,9 +49,9 @@
  ],
  "expand": [
   {
-   "title": "扩展知识 天气与时间的表达",
+   "title": "天气与时间的表达",
    "lines": [
-    "3 抱怨天气 喜欢某种天气 点钟的表达 年份的表达 每日习语 Break the ice 打破冷场，打破僵局",
+    "抱怨天气 喜欢某种天气 点钟的表达 年份的表达",
     "英文 中文",
     "sunny / clear ☀️ 晴朗",
     "rain showers 🌧️ 阵雨",
@@ -63,11 +63,11 @@
     "smoggy/haze 🌫️ 雾霾",
     "rain and flood 🌧️🌊 暴雨洪灾",
     "sandstorm 🌪️ 沙尘暴",
-    "The weather is bad / terrible . （天气很糟糕。）",
-    "I'm feeling a bit under the weather . （我感觉有点不舒服。）",
-    "I like... （我喜欢...）",
-    "I love... （我爱...）",
-    "I'm crazy about... （我对...着迷。）",
+    "The weather is bad / terrible.（天气很糟糕。）",
+    "I'm feeling a bit under the weather.（我感觉有点不舒服。）",
+    "I like...（我喜欢...）",
+    "I love...（我爱...）",
+    "I'm crazy about...（我对...着迷。）",
     "时间 英文",
     "5:00 five o'clock",
     "11:00 eleven o'clock",

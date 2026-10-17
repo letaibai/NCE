@@ -1,19 +1,19 @@
 {
  "grammar": [
   {
-   "title": "语法知识 现在完成&一般过去",
+   "title": "现在完成&一般过去",
    "lines": [
-    "8 Have you ever had a girlfriend? Yes. 引起话题:你有没有交过女朋友？ Have you ever…? 引起新的话题 Have you ever made a foreign friend. 你有没有交过外国朋友？ Have you ever cheated on exams. 你考试有没有做过弊？",
+    "Have you ever had a girlfriend? Yes. 引起话题:你有没有交过女朋友？ Have you ever…? 引起新的话题 Have you ever made a foreign friend. 你有没有交过外国朋友？ Have you ever cheated on exams. 你考试有没有做过弊？",
     "现在完成时 (Present Perfect) 一般过去时 (Simple Past)",
     "发生在过去的事件。",
     "强调“已经”，分为全部完成、部分完成，影响到了现在。 过去发生的动作、状态。",
-    "主语 + have/has + done (过去 分词 ) 主语 + have/has + been + 非动词 主语 + did ( 过去式 ) 主语 + was/were + 非动词",
+    "主语 + have/has + done (过去 分词 ) 主语 + have/has + been + 非动词 主语 + did( 过去式 ) 主语 + was/were + 非动词",
     "I have lived in this city for five years. I have been there. I lived in this city when I was a child. He was a boy.",
-    "过去发生， 影响现在 过去发生，与 现在无关",
-    "just, already, before, never, ever, yet…（时间 含糊 ） yesterday, last…,…ago, just now…（时间 具体 ）",
+    "过去发生，影响现在 过去发生，与现在无关",
+    "just, already, before, never, ever, yet…（时间含糊） yesterday, last…,…ago, just now…（时间具体）",
     "语用功能:引起一个话题 语用功能:具体谈论",
     "When did you…? 什么时候...?",
-    "Where did you …? 在哪儿...?",
+    "Where did you …?在哪儿...?",
     "How did you…? 怎样...?",
     "No, I have never.",
     "Yes , I have.",
@@ -29,21 +29,20 @@
  ],
  "sentences": [
   {
-   "title": "单词句型 现在完成&一般过去的区分",
+   "title": "现在完成&一般过去的区分",
    "lines": [
     "现在完成时 一般过去时",
     "She has just (现在完成时的标志) boiled an egg. She boiled it a minute ago .",
     "She has never been to China, but he was there in… He painted it a week ago .",
     "He has already painted that bookcase. She emptied the basket this morning .",
-    "He has just dusted the cupboard. He dusted the cupboard yesterday ."
+    "He has just dusted the cupboard. He dusted the cupboard yesterday."
    ]
   }
  ],
  "expand": [
   {
-   "title": "扩展知识 电影相关词",
+   "title": "电影相关词",
    "lines": [
-    "3 每日习语 White elephant 华而不实(负担沉重的财产，无用的东西)",
     "中文 英文",
     "电影 Film/Movie",
     "演员 Actor/Actress",

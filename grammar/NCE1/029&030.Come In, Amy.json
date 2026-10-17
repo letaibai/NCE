@@ -1,9 +1,9 @@
 {
  "grammar": [
   {
-   "title": "语法知识 祈使句：命令、请求、建议",
+   "title": "祈使句：命令、请求、建议",
    "lines": [
-    "3 祈使句用法 (用来表示命令、请求、建议等) 祈使句特点",
+    "祈使句用法 (用来表示命令、请求、建议等) 祈使句特点",
     "表示命令 动词原形 + … Shut the door.",
     "表示请求 please + 动词原形 Please give me it.",
     "表示建议 Let’s + 动词原形 + … Let ’s go , ok?",
@@ -16,11 +16,11 @@
  ],
  "sentences": [
   {
-   "title": "单词句型 祈使句练习",
+   "title": "祈使句练习",
    "lines": [
-    "4 形容词与动词的演变 其实 Fill 本质上就是从 Full 演变出来的。在语言学中，这叫“元音推移”，英语有时候很“懒”，直接让 Empty 兼职做动词；但有时候又很“勤快”，专门造了 Fill 来配合 Full。 扩展词汇 英语的一种“职能分工”了。虽然在古英语时期，有些词是可以混用的，但现代英语为了表达精准进行了一些科学的演变，如下： read v.读、看(看书、看报看杂志) sharpen v.使锋利 en- v. 使...动词化 What must I do ? 单词词性",
+    "形容词与动词的演变 其实 Fill 本质上就是从 Full 演变出来的。在语言学中，这叫“元音推移”，英语有时候很“懒”，直接让 Empty 兼职做动词；但有时候又很“勤快”，专门造了 Fill 来配合 Full。 扩展词汇 英语的一种“职能分工”了。虽然在古英语时期，有些词是可以混用的，但现代英语为了表达精准进行了一些科学的演变，如下： read v.读、看(看书、看报看杂志) sharpen v.使锋利 en- v. 使...动词化 What must I do ? 单词词性",
     "empty adj. 空的 v.使变空 full adj.满的",
-    "My mind is empty . adj. 我的大脑一片空白。 Empty the bottle please. v. 请把瓶子倒空。 I am full. adj. 我饱了。 fill the bottle with water. v. 把瓶子装满水。 fill 是动作；full 是结果。",
+    "My mind is empty. adj. 我的大脑一片空白。 Empty the bottle please. v. 请把瓶子倒空。 I am full. adj. 我饱了。 fill the bottle with water. v. 把瓶子装满水。 fill 是动作；full 是结果。",
     "形容词 / 名词 (状态/事物) 动词 (动作/使动) 逻辑",
     "Full (满的) Fill (装满) 使之变 Full",
     "Food (食物) Feed (喂食) 给人 Food",
@@ -30,9 +30,9 @@
     "I read the book at a gallop. 我迅速读完了那本书。",
     "Will you read me a bedtime story? 给我读个睡前故事好吗？",
     "adj. + en = v.",
-    "sharp 锋利的 sharp en 使锋利",
-    "short 短的 short en 缩短",
-    "weak 虚弱的 weak en 削弱",
+    "sharp 锋利的 sharpen 使锋利",
+    "short 短的 shorten 缩短",
+    "weak 虚弱的 weaken 削弱",
     "able ⇒ en able",
     "code ⇒ en code",
     "close ⇒ en close",
@@ -53,9 +53,8 @@
  ],
  "expand": [
   {
-   "title": "扩展知识 洗手间的说法",
+   "title": "洗手间的说法",
    "lines": [
-    "3 每日习语 You scratch my back, I’ll scratch yours 互惠互利；你帮我，我帮你",
     "bathroom 浴室，盥洗室；<美>卫生间，厕所",
     "restroom <美>（公共场所的）盥洗室，洗手间；<英>（尤指公共建筑内的）休息室",
     "washroom 洗手间；盥洗室；厕所",
@@ -64,13 +63,13 @@
     "lavatory 飞机上使用;（洗手间内的）洗脸盆，洗手池",
     "Ladies’ Room / Restroom \\ Men’s Room / Restroom",
     "字母组合 音标 例句",
-    "-all \\ ɔ:l \\ w all ,b all ,f all ,sm all",
-    "-ary \\ ərɪ \\ Janu ary ,ordin ary",
-    "-ew \\ ju: \\ n ew ,f ew ,kn ew ,vi ew",
-    "kn \\ n \\ kn ife, kn ee, kn ow, kn ock",
-    "-ight \\ aɪt \\ f ight ,n ight ,l ight ,br ight",
-    "-ire \\ aɪə \\ f ire ,t ire d,h ire ,w ire",
-    "-ought \\ ɔ:t \\ b ought ,th ought ,br ought ,s ought"
+    "-all \\ ɔ:l \\ wall,ball,fall,small",
+    "-ary \\ ərɪ \\ January,ordinary",
+    "-ew \\ ju: \\ new,few,knew,view",
+    "kn \\ n \\ knife,knee,know,knock",
+    "-ight \\ aɪt \\ fight,night,light,bright",
+    "-ire \\ aɪə \\ fire,tired,hire,wire",
+    "-ought \\ ɔ:t \\ bought,thought,brought,sought"
    ]
   }
  ]

@@ -1,30 +1,30 @@
 {
  "grammar": [
   {
-   "title": "语法知识 There be 句型的过去式",
+   "title": "There be 句型的过去式",
    "lines": [
-    "5 一般过去式的 Be 曾经有 句型转换 There was a river here before. 从前这里有一条河。",
-    "There be (was, were) + 地点 （与 have 表“拥有”有明显的区别） There was …+ 单 数名词 就近原则",
-    "There were …+ 复 数名词",
-    "陈述句 否定句 （was/were + not） 疑问句 （was/were 提前）",
+    "一般过去式的 Be 曾经有 句型转换 There was a river here before. 从前这里有一条河。",
+    "There be (was, were) + 地点 （与 have 表“拥有”有明显的区别） There was …+ 单数名词 就近原则",
+    "There were …+ 复数名词",
+    "陈述句 否定句 （was/were + not） 疑问句（was/were 提前）",
     "There were hundred s of guests in the hotel yesterday . 酒店 昨天 有 很多客人。 There were not hundred s of guests in the hotel yesterday . 酒店 昨天 没 有 很多客人。 Were there hundred s of guests in the hotel yesterday ? 酒店 昨天 有 很多客人吗？",
     "There were many foreigner s in Beijing during the Olympic Games. 奥运会时北京的老外特别的多。 There were not many foreigner s in Beijing during the Olympic Games. 奥运会时北京的老外特别的 不 多。 Were there many foreigner s in Beijing during the Olympic Games? 奥运会时北京的老外特别的多吗？",
     "Was there a river here before? 从前这里有一条河吗？",
     "Were there so many subway line s in Beijing? 以往北京也有这么多地铁线吗？",
-    "Was there litter (表杂物、垃圾时不可数) on the pavement yesterday？ 人行道上昨天有垃圾吗？"
+    "Was there litter(表杂物、垃圾时不可数) on the pavement yesterday？人行道上昨天有垃圾吗？"
    ]
   }
  ],
  "sentences": [
   {
-   "title": "单词句型 When were they there？",
+   "title": "When were they there？",
    "lines": [
-    "3 介词 + 时间点 完成以下句子，用适当的介词填空。",
-    "at + 点 (具体时间点)",
+    "介词 + 时间点 完成以下句子，用适当的介词填空。",
+    "at + 点(具体时间点)",
     "I have a meeting at 9 o'clock. （我九点有个会议。） The concert starts at 7:30 PM. （音乐会于晚上七点半开始。） She will arrive at midnight. （她将在午夜抵达。）",
-    "on + 天 (某一天)",
+    "on + 天(某一天)",
     "I have a doctor's appointment on Monday. （我星期一有个医生的约会。） We typically go grocery shopping on Saturdays. （我们通常在星期六购物日购买食品。） The party is on New Year's Eve. （派对在除夕夜举行。）",
-    "in + 月、季、年 (较宽泛的时间范围)",
+    "in + 月、季、年(较宽泛的时间范围)",
     "My birthday is in August. （我的生日在八月。） We usually take vacations in the summer. （我们通常在夏季度假。） The company's fiscal year ends in December. （公司的财政年度在十二月结束。）",
     "We were at the stationer’s on Monday.",
     "We were there at four o’clock .",
@@ -37,20 +37,20 @@
  ],
  "expand": [
   {
-   "title": "扩展知识 There be 名句",
+   "title": "There be 名句",
    "lines": [
-    "3 There be 名句 其它名句赏析 每日习语 cut to the chase 开门见山, 直奔主题",
+    "There be 名句 其它名句赏析",
     "Where there is a will, there is a way. 有志者, 事竟成。",
-    "Where t here is great love, there are always miracles. 哪里有真爱存在，哪里就有奇迹。",
-    "Without ideal, there is no secure direction; without direction, there is no life. 没有理想，就没有坚定的方向; 没有方向，就没有生活。",
-    "When one door closes, another opens. 当一扇门关闭时，另一扇门会打开。",
-    "No pain, no gain. 不经历风雨，怎么见彩虹。",
+    "Where there is great love, there are always miracles.哪里有真爱存在，哪里就有奇迹。",
+    "Without ideal, there is no secure direction; without direction, there is no life.没有理想，就没有坚定的方向; 没有方向，就没有生活。",
+    "When one door closes, another opens.当一扇门关闭时，另一扇门会打开。",
+    "No pain, no gain.不经历风雨，怎么见彩虹。",
     "The harder you work, the luckier you get. 越努力，越幸运。",
-    "Believe you can and you're halfway there. 相信你能行，你已经成功了一半。",
-    "Every cloud has a silver lining. 乌云背后必有阳光。",
-    "Success is not final, failure is not fatal: It is the courage to continue that counts. 成功不是终点，失败不是致命的：坚持下去的勇气才最重要。",
-    "In the middle of difficulty lies opportunity. 困境中蕴藏机遇。",
-    "Dream big and dare to fail. 梦想大胆追求，敢于失败。"
+    "Believe you can and you're halfway there.相信你能行，你已经成功了一半。",
+    "Every cloud has a silver lining.乌云背后必有阳光。",
+    "Success is not final, failure is not fatal: It is the courage to continue that counts.成功不是终点，失败不是致命的：坚持下去的勇气才最重要。",
+    "In the middle of difficulty lies opportunity.困境中蕴藏机遇。",
+    "Dream big and dare to fail.梦想大胆追求，敢于失败。"
    ]
   }
  ]

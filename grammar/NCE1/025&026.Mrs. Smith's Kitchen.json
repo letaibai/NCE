@@ -1,9 +1,9 @@
 {
  "grammar": [
   {
-   "title": "语法知识 There be 句型",
+   "title": "There be 句型",
    "lines": [
-    "6 构成 (一般现在时) ： There be(is, are) + 地点 § \"There be\" 结构帮助我们描述了物体的位置和存在。动词 \"be\" 的形式将根据主语的单复数而变化也会随时态的变化而变化（There was/were）。同时，可以通过添加其他的修饰词或从句来扩展句子，使描述更加详细。 后置定语的翻译语序 (倒着翻译) 仿写课文 There \" Be \" 怎么变 (就近原则)",
+    "构成(一般现在时)： There be(is, are) + 地点 § \"There be\" 结构帮助我们描述了物体的位置和存在。动词 \"be\" 的形式将根据主语的单复数而变化也会随时态的变化而变化（There was/were）。同时，可以通过添加其他的修饰词或从句来扩展句子，使描述更加详细。 后置定语的翻译语序(倒着翻译) 仿写课文 There \" Be \" 怎么变(就近原则)",
     "有 拥有 have",
     "存在 There be...",
     "\"There be\" 是英语中的一种特殊句型，用来表示某个地方存在或发生了某人或某物。它通常用于描述事物的存在状态或位置。",
@@ -28,9 +28,9 @@
  ],
  "sentences": [
   {
-   "title": "单词句型 冠词练习",
+   "title": "冠词练习",
    "lines": [
-    "4 特殊疑问词 where + be + 名词 (Where is/are + 名词?) in 在…里面 Where is the money? 钱在哪儿？ 冠词练习",
+    "特殊疑问词 where + be + 名词 (Where is/are + 名词?) in 在…里面 Where is the money? 钱在哪儿？ 冠词练习",
     "Where are you? 你在哪？",
     "Where is your mother? 你妈呢？",
     "Where is your car? 你车呢？",
@@ -49,9 +49,8 @@
  ],
  "expand": [
   {
-   "title": "扩展知识 介词 in",
+   "title": "介词 in",
    "lines": [
-    "5 每日习语 learn one’s lesson 吸取教训;吃一堑，长一智",
     "恋爱 (in love) He is in love . 他恋爱了",
     "三合一 three in one",
     "综合能力部 All in one",
@@ -60,10 +59,10 @@
     "in cash 使用现金 pay in cash",
     "in the rain 冒 雨 They walk in the rain .",
     "英文单词 音标 例词",
-    "sh / ʃ / Engli sh ,bru sh , sh e, sh oe",
-    "su / ʒ / mea su re,lei su re",
-    "th / θ / th ree, th ank, th in,benea th",
-    "/ ð / th at, th ese, th ey, th us"
+    "sh / ʃ / English,brush,she,shoe",
+    "su / ʒ / measure,leisure",
+    "th / θ / three,thank,thin,beneath",
+    "/ ð / that,these,they,thus"
    ]
   }
  ]

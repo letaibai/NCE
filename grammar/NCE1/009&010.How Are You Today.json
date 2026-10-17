@@ -1,9 +1,9 @@
 {
  "grammar": [
   {
-   "title": "语法知识 特殊疑问词【how】",
+   "title": "特殊疑问词【how】",
    "lines": [
-    "4 \" how \" 可以用于询问方式、方法、程度、状况等情况 (中文翻译为“怎么样”) 。 询问方式或方法 描述程度或状况 询问原因或目的 表达感叹或惊讶 (感叹形容词) 询问 频率 或时间",
+    "\"how\" 可以用于询问方式、方法、程度、状况等情况(中文翻译为“怎么样”)。 询问方式或方法 描述程度或状况 询问原因或目的 表达感叹或惊讶 (感叹形容词) 询问 频率 或时间",
     "How did you solve the math problem? 你(过去)是如何解决这个数学问题的？",
     "How do you make sushi? 你是怎么做寿司的？",
     "How tall is he? 他有多高？",
@@ -12,17 +12,16 @@
     "How can we improve our company's performance? 我们如何提高公司的绩效？",
     "How beautiful the sunset is ! （夕阳多美啊！）",
     "How amazing her singing voice is ! （她的歌声太惊人了！）",
-    "How often do you exercise ? （你多久锻炼一次？）",
-    "How long have you been learning piano? （你学钢琴学了多久？）"
+    "How often do you exercise ?（你多久锻炼一次？）",
+    "How long have you been learning piano?（你学钢琴学了多久？）"
    ]
   }
  ],
  "sentences": [
   {
-   "title": "单词句型 look at 与see 的区别",
+   "title": "look at 与see 的区别",
    "lines": [
-    "4 练习",
-    "Look at … 看(盯着某点看) look at me \\ him \\ her \\ that girl … (look是 不及物 动词，后面要加 介词 然后再加宾语) Look at that man. He is very busy. 看 这个人，他很忙。",
+    "Look at … 看(盯着某点看) look at me \\ him \\ her \\ that girl … (look是不及物动词，后面要加介词然后再加宾语) Look at that man. He is very busy. 看这个人，他很忙。",
     "See 看见 I see him in / on the street. 我在街上看见他了。",
     "watch 观看(注视) I don't want to watch telly. 我不想看电视。",
     "Meet 遇见 meet you \\ him \\ her \\ a boy … (meet是及物动词，后面要加宾语) Nice to meet you. It's been nice meeting you. 这次见到你真高兴。",
@@ -40,13 +39,12 @@
  ],
  "expand": [
   {
-   "title": "扩展知识 自然拼音Ss、Tt、Uu",
+   "title": "自然拼音Ss、Tt、Uu",
    "lines": [
-    "4 每日习语 spill the beans 泄露秘密, 走漏风声",
     "字母 音标 单词",
-    "Ss / s / s ad, s it, s olid, s et",
-    "Tt / t / t en, t ap, t ip, t op",
-    "Uu / ʌ / u mbrella, c u p, b u t"
+    "Ss / s / sad, sit, solid, set",
+    "Tt / t / ten, tap, tip, top",
+    "Uu / ʌ / umbrella, cup, but"
    ]
   }
  ],

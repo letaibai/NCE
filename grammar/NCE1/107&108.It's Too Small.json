@@ -1,9 +1,9 @@
 {
  "grammar": [
   {
-   "title": "语法知识 形容词与副词的比较级&最高级",
+   "title": "形容词与副词的比较级&最高级",
    "lines": [
-    "8 形容词 与 副词 的比较级、最高级 只有形容词与副词才有比较级和最高级。 变化规则 与动词时态无关，可以用于任何的时态里比较。 比较级的句型结构 介词短语通常放到句子的后面做定语表比较的范围。 表示 范围 的短语",
+    "形容词 与 副词 的比较级、最高级 只有形容词与副词才有比较级和最高级。 变化规则 与动词时态无关，可以用于任何的时态里比较。 比较级的句型结构 介词短语通常放到句子的后面做定语表比较的范围。 表示 范围 的短语",
     "原级 比较级 最高级",
     "old old er the old est",
     "big big ger the big gest",
@@ -11,10 +11,10 @@
     "thin thin ner the thin nest",
     "条件 规则 原级 比较级 最高级",
     "以 e 结尾 直接加 r, st lat e late r the late st",
-    "辅+元+辅 (汉堡包结构) 双写 最后一个辅音字母加 er, est fa t fat t er the fat t est",
+    "辅+元+辅 (汉堡包结构) 双写最后一个辅音字母加 er, est fa t fat t er the fat t est",
     "辅音字母加 y 结尾 变 y 为 i,加 er, est happ y happ i er the happ i est",
-    "主语 + 谓语 （系） + 比较级 + than … 主语 + 谓语 （系） + the + 最高级 + 范围",
-    "He is cool er than before. 他 比 以前帅。 She is smart er than before. 她 比 从前时尚。 He was fast er than any other one. 他 比 其他人都快。 It was the big gest rabbit in the world. 这 曾是 全世界 最大 的一只兔子。 He is the short est man in the world. 他是全世界 最矮 的人。 It is the bus iest day in this month. 今天是这个月 最忙 的一天。 He is the tall est of us all. 他是我们当中个子 最高 的。",
+    "主语 + 谓语（系）+ 比较级 + than … 主语 + 谓语（系）+ the + 最高级 + 范围",
+    "He is cool er than before. 他比以前帅。 She is smart er than before. 她比从前时尚。 He was fast er than any other one.他比其他人都快。 It was the big gest rabbit in the world. 这 曾是 全世界最大的一只兔子。 He is the short est man in the world. 他是全世界最矮的人。 It is the bus iest day in this month. 今天是这个月最忙的一天。 He is the tall est of us all. 他是我们当中个子最高的。",
     "in the world 全世界",
     "in China 全中国",
     "in Beijing 全北京",
@@ -29,9 +29,9 @@
  ],
  "sentences": [
   {
-   "title": "单词句型 比较练习",
+   "title": "比较练习",
    "lines": [
-    "3 最高级的范围",
+    "最高级的范围",
     "Hans is the tall est student in our class .",
     "The day before yesterday was the hot test day in the year .",
     "It is the larg est crowd I have ever seen . 使用句子表范围(定语从句)",
@@ -40,23 +40,22 @@
     "It is cool today, but it was cooler yesterday.",
     "It is wet today, but it was wetter yesterday.",
     "He's late again today, but he was later yesterday.",
-    "This test is easy , but that one is easier .",
-    "This bookcase is large , but that one is larger ."
+    "This test is easy, but that one is easier .",
+    "This bookcase is large, but that one is larger ."
    ]
   }
  ],
  "expand": [
   {
-   "title": "扩展知识 比较级&最高级的有用句型",
+   "title": "比较级&最高级的有用句型",
    "lines": [
-    "3 每日习语 The way to a man's heart is through his stomach. 要抓住男人的心，先抓住他的胃。",
-    "East, west, home is best . 金窝银窝，不如自己的草窝。",
+    "East, west, home is best. 金窝银窝，不如自己的草窝。",
     "Facts speak louder than words. 事实胜于雄辩。",
     "Health is better than wealth. 健康高于财富。",
     "It is better to be the head of dog. 宁为鸡头不做凤尾。",
     "The sauce is better than the fish. 喧宾夺主。",
-    "There is no best , but better . 没有最好只有更好。",
-    "To make the best even better . 没有最好只有更好。 ✓"
+    "There is no best, but better. 没有最好只有更好。",
+    "To make the best even better. 没有最好只有更好。 ✓"
    ]
   }
  ]

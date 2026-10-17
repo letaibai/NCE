@@ -1,14 +1,14 @@
 {
  "grammar": [
   {
-   "title": "语法知识 复数巩固",
+   "title": "复数巩固",
    "lines": [
-    "5 规则名词 (复习) 不规则 （单独记忆）",
-    "一般情况 + s ：books jobs",
-    "以s、x、sh、ch结尾 + es ：bu s es, bo x es, bru sh es, ben ch es",
-    "辅音 + o 结尾 + es： potatoes §",
-    "以f、fe 结尾变为 v + es： wi fe → wi v es, lea f → lea v es",
-    "以辅音 + y 结尾变为 i + es： bab y → bab i es （boy不是辅音+y结尾 → boys）",
+    "规则名词 (复习) 不规则（单独记忆）",
+    "一般情况 + s：books jobs",
+    "以s、x、sh、ch结尾 + es：bu s es, bo x es, bru sh es, ben ch es",
+    "辅音 + o 结尾 + es：potatoes §",
+    "以f、fe 结尾变为 v + es：wi fe → wi v es, lea f → lea v es",
+    "以辅音 + y 结尾变为 i + es：bab y → bab i es （boy不是辅音+y结尾 → boys）",
     "man → men",
     "woman → women",
     "foot → feet",
@@ -25,9 +25,9 @@
  ],
  "sentences": [
   {
-   "title": "单词句型 他们的工作是什么？",
+   "title": "他们的工作是什么？",
    "lines": [
-    "3 What are their jobs?",
+    "What are their jobs?",
     "They are sales rep s .",
     "keyboard operator s .",
     "mechanic s .",
@@ -44,20 +44,20 @@
  ],
  "expand": [
   {
-   "title": "扩展知识 西方人先有名还是先有姓？",
+   "title": "西方人先有名还是先有姓？",
    "lines": [
-    "3 西方人姓氏来源 名字 + son: Peterson, Johnson, Jackson … 请在课文里找找这些名字的，猜猜和什么有关！ 自然拼读 每日习语 When pigs fly 除非太阳从西边出来",
-    "职业： Taylor (裁缝) ，Baker (面包师) …",
-    "颜色： White (白色) ，Brown (棕色) …",
-    "生活： Bird (鸟) ，Rice (大米) …",
-    "住址：Bridge (桥) ，Hill (山) …",
+    "西方人姓氏来源 名字 + son: Peterson, Johnson, Jackson … 请在课文里找找这些名字的，猜猜和什么有关！ 自然拼读",
+    "职业： Taylor(裁缝)，Baker(面包师)…",
+    "颜色： White(白色)，Brown(棕色)…",
+    "生活： Bird (鸟)，Rice(大米)…",
+    "住址：Bridge(桥)，Hill(山)…",
     "组合 音标 示例",
-    "aw \\ ɔ: \\ l aw ,r aw ,p aw ,s aw",
-    "au d au ghter,s au cer",
-    "oo \\ ʊ \\ L oo k,b oo k,G oo d,w oo d",
-    "\\ u: \\ T oo t h,b oo t ,Sh oo t ,l oo t",
-    "ea \\ e \\ H ea d,br ea d,W ea ther,d ea d",
-    "ee \\ i: \\ b ee f,f ee t,sl ee p,m ee t,d ee d,s ee k"
+    "aw \\ ɔ: \\ law,raw,paw,saw",
+    "au daughter,saucer",
+    "oo \\ ʊ \\ Look,book,Good,wood",
+    "\\ u: \\ Too t h,boo t ,Shoo t ,loo t",
+    "ea \\ e \\ Head,bread,Weather,dead",
+    "ee \\ i: \\ beef,feet,sleep,meet,deed,seek"
    ]
   }
  ],

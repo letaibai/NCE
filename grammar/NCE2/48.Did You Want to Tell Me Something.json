@@ -1,18 +1,17 @@
 {
  "grammar": [
   {
-   "title": "语法知识 小测试",
+   "title": "小测试",
    "lines": [
-    "3 每日习语 Fall on deaf ears 充耳不闻；言者无心，听者无意",
     "The new school, which has just been completed, is a fine building. ℘",
-    "He denied that he had taken it. (denied/refused)",
-    "The waiter fetched me a clean glass. (took/fetched)",
+    "He denied that he had taken it.(denied/refused)",
+    "The waiter fetched me a clean glass.(took/fetched)",
     "A bird flew past my window. (past/passed)",
-    "I spent the afternoon watching the match. (watching/following)",
-    "Ships continuously cross the sea. ( continuously / continually )",
-    "The bank has been robbed . ( stolen /robbed)",
+    "I spent the afternoon watching the match.(watching/following)",
+    "Ships continuously cross the sea.(continuously/ continually )",
+    "The bank has been robbed .( stolen /robbed)",
     "原型 过去式 过去分词 现在分词",
-    "nod no dd ed no dd ed no dd ing"
+    "nod nodded nodded nodding"
    ]
   }
  ]

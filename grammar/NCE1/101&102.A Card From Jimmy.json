@@ -1,9 +1,9 @@
 {
  "grammar": [
   {
-   "title": "语法知识 直接引语 & 间接引语",
+   "title": "直接引语 & 间接引语",
    "lines": [
-    "7 怎么转述别人的话 直接引语、间接引语& 宾语从句？ 宾语从句：句子作宾语。 主句”一般现在“，从句”任何时态“结论：间接引语 属于 宾语从句。 反义疑问句 § C.组织步骤: 动 → 反 → 换",
+    "怎么转述别人的话 直接引语、间接引语& 宾语从句？ 宾语从句：句子作宾语。 主句”一般现在“，从句”任何时态“结论：间接引语属于宾语从句。 反义疑问句 § C.组织步骤: 动 → 反 → 换",
     "直接引语 间接引语",
     "“Anhong, I miss you.” He says he misses you.",
     "转换 直接引语 间接引语",
@@ -20,7 +20,7 @@
     "He says (that) his sister was there the day before . 主 + 谓 + 宾语",
     "构成：陈述句 + 简短一般疑问句",
     "It’s a nice day, is it a nice day? It’s a nice day, isn’t it? （前肯后否）",
-    "It’s not a nice day, is it ? 否定 + 肯定 （前否后肯）",
+    "It’s not a nice day, is it ? 否定 + 肯定（前否后肯）",
     "陈述句 反义疑问句 结构",
     "Chinese people were hard before, weren’t they ? 一般过去时 (be动词)",
     "Lily is in Tokyo, isn’t she ? 一般现在时 (be动词)",
@@ -35,9 +35,9 @@
  ],
  "sentences": [
   {
-   "title": "单词句型 宾语从句：句子作宾语",
+   "title": "宾语从句：句子作宾语",
    "lines": [
-    "6 宾语从句语用功能",
+    "宾语从句语用功能",
     "句型 主语 谓语 宾语",
     "简单句 I love you.",
     "复合句 I think I love you.",
@@ -46,16 +46,15 @@
     "He says (that) he loved her. (从句一般过去)",
     "He knows (that) she has gone . (从句现在完成)",
     "He is sorry (that) he will leave . (从句一般将来)",
-    "表达观点 引述话语 (间接引语)",
+    "表达观点 引述话语(间接引语)",
     "I think that… I believe that… He says that…"
    ]
   }
  ],
  "expand": [
   {
-   "title": "扩展知识 书信格式",
+   "title": "书信格式",
    "lines": [
-    "4 每日习语 The higher you go, the further you see. 站得越高，看得远。",
     "写信人地址",
     "写信人日期",
     "收信人地址",

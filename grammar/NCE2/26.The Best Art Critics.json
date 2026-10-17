@@ -1,51 +1,50 @@
 {
  "grammar": [
   {
-   "title": "语法知识 宾语从句",
+   "title": "宾语从句",
    "lines": [
-    "8 宾语从句 (复合句) 在简单句中，我们的宾语通常是一个名词，名词可以是一个物品也可以是一件事情，物品可以使用单个词说明，但有时候事情比较复杂时，就会变化，所以当我们描述一件事情时这件事情是一个独立的句子，做为主语的宾语，当使用一个句子做宾语时，就被称为“宾语从句”。 结论： 连接词 + 陈述句 = 宾语从句 选择连接词的原则，分析陈述句 缺什么 尽管 \"whether\" 通常用于陈述句，但在口语中，人们通常会使用 \"if\" 来代替 \"whether\"，而在书面语中，\"whether\" 更为正式。因此，在大多数情况下，这两个词可以互换使用，但请记住，在书面语或正式场合中，\"whether\" 更常见。 宾语从句的类型 宾语从句通过只能放到谓语后或者介词后面，最常见的是一个及物动词接单宾或者双宾，其次是介词后跟宾语，形介宾不常见，只需要了解。",
+    "宾语从句(复合句) 在简单句中，我们的宾语通常是一个名词，名词可以是一个物品也可以是一件事情，物品可以使用单个词说明，但有时候事情比较复杂时，就会变化，所以当我们描述一件事情时这件事情是一个独立的句子，做为主语的宾语，当使用一个句子做宾语时，就被称为“宾语从句”。 结论： 连接词 + 陈述句 = 宾语从句 选择连接词的原则，分析陈述句缺什么 尽管 \"whether\" 通常用于陈述句，但在口语中，人们通常会使用 \"if\" 来代替 \"whether\"，而在书面语中，\"whether\" 更为正式。因此，在大多数情况下，这两个词可以互换使用，但请记住，在书面语或正式场合中，\"whether\" 更常见。 宾语从句的类型 宾语从句通过只能放到谓语后或者介词后面，最常见的是一个及物动词接单宾或者双宾，其次是介词后跟宾语，形介宾不常见，只需要了解。",
     "句子的进化",
-    "词 短语 简单句 并列句 (同样重要)",
-    "复合句 (有主次之分)",
-    "定义： 使用一个 句子 做宾语 （主谓 宾 ；主谓 双宾 ；主谓 宾 +宾补）",
-    "结构： 主语 + 谓语 + 引导词 + 陈述句.",
-    "功能： 补充和扩展主句的含义 （表达观点） 、帮助构建更复杂和详细的句子结构。它可以用来提供信息、回答问题、表达感觉和态度等。",
+    "词 短语 简单句 并列句(同样重要)",
+    "复合句(有主次之分)",
+    "定义：使用一个 句子 做宾语 （主谓 宾 ；主谓 双宾 ；主谓 宾 +宾补）",
+    "结构：主语 + 谓语 + 引导词 + 陈述句.",
+    "功能：补充和扩展主句的含义（表达观点）、帮助构建更复杂和详细的句子结构。它可以用来提供信息、回答问题、表达感觉和态度等。",
     "陈述句 变宾语从句 I think. You are right. I think that you are right . 我觉得你是对的。(主谓宾) 使用 that 可以更好的区别哪个是主句、哪个是从句。",
-    "特殊疑问句 变宾语从句 What is a picture 'about'? They always tell you what a picture is 'about'. 宾语从句以句号结尾所以要变为了陈述句语序 （ 主语 提前入乡随俗） 并通过宾语从句缺少的成分选择合适的引导词。",
+    "特殊疑问句 变宾语从句 What is a picture 'about'? They always tell you what a picture is 'about'. 宾语从句以句号结尾所以要变为了陈述句语序（ 主语 提前入乡随俗） 并通过宾语从句缺少的成分选择合适的引导词。",
     "一般疑问句 变宾语从句 Are my pictures good or not? She always tells me whether / if my pictures are good or not. whether 在实际使用中100%能使用，但if不一定可以使用。",
     "连接词 从句类型 示例",
-    "that 陈述句 宾语从句 (不缺成分) She said that she would come to the party.",
-    "if 陈述和疑问 一般疑问句 (是否) I'm not sure if he can make it to the meeting.",
+    "that 陈述句宾语从句(不缺成分) She said that she would come to the party.",
+    "if 陈述和疑问 一般疑问句(是否) I'm not sure if he can make it to the meeting.",
     "whether 陈述句 He asked whether we had finished the project.",
-    "who 宾语 缺人 (谁) I don't know who will be the new manager.",
-    "whom 宾语缺 人的宾格 (谁承受) He asked whom you had invited to the event.",
-    "whose 宾语指 属于谁 的 (谁的) Do you know whose car is parked outside?",
-    "what 宾语 什么事 (什么) Can you tell me what time the movie starts?",
-    "when 宾语 什么时间 (几时) She asked when the next train would arrive.",
-    "where 宾语 什么地点 (哪里) They wondered where the party was held.",
-    "why 宾语 什么原因 (为什么) I'm curious why she didn't attend the meeting.",
-    "how 宾语 方式或方法 (怎么样) He explained how the machine works.",
+    "who 宾语缺人(谁) I don't know who will be the new manager.",
+    "whom 宾语缺人的宾格(谁承受) He asked whom you had invited to the event.",
+    "whose 宾语指属于谁的(谁的) Do you know whose car is parked outside?",
+    "what 宾语什么事(什么) Can you tell me what time the movie starts?",
+    "when 宾语什么时间(几时) She asked when the next train would arrive.",
+    "where 宾语什么地点(哪里) They wondered where the party was held.",
+    "why 宾语什么原因(为什么) I'm curious why she didn't attend the meeting.",
+    "how 宾语方式或方法(怎么样) He explained how the machine works.",
     "if 宾语从句表“是否” 用于陈述句和疑问句 whether 宾语从句表“是否”通常用于陈述句",
-    "I don't know if he is coming. （我不知道他是否会来。） Do you know if he is coming? （你知道他是否会来吗？） I don't know whether he is coming. （我不知道他是否会来。） I will go to the party, whether it rains or not. （不管下不下雨，我都会去参加派对。）",
+    "I don't know if he is coming.（我不知道他是否会来。） Do you know if he is coming?（你知道他是否会来吗？） I don't know whether he is coming.（我不知道他是否会来。） I will go to the party, whether it rains or not.（不管下不下雨，我都会去参加派对。）",
     "动 单 宾(及物动词 + 宾语从句) Many people pretend that they understand modern art .",
     "动 双 宾（及物动词 + 人 + 宾语从句） They always tell you what a picture is 'about' .",
     "介宾(介词 + 宾语从句) He was astonished at what he found .",
-    "形介宾(形容词 + 介词 (省略) + 宾语) He is fond of swimming."
+    "形介宾(形容词 + 介词(省略) + 宾语) He is fond of swimming."
    ]
   }
  ],
  "expand": [
   {
-   "title": "扩展知识 英文中的引号",
+   "title": "英文中的引号",
    "lines": [
-    "4 每日习语 soaked to the bone 湿透了；淋得透心凉",
     "英式 '单引号' 美式 \"双引号\"",
-    "在书面语会话中，用引号 （单引号或双引号） 把实际的对话括起来。引号在英文当中第一次出现是单引号, 第二次出现是双引号, 英文当中的书名号用引号来替代。",
+    "在书面语会话中，用引号（单引号或双引号）把实际的对话括起来。引号在英文当中第一次出现是单引号, 第二次出现是双引号, 英文当中的书名号用引号来替代。",
     "引号位于一行之上, 它们应在句尾其他标点符号—如逗号、句号、问号—之外。 ' W hat are you doing ? '",
-    "引语的第一个词以 大写 字母开头。 ' B ut I'm still having breakfast,' I said. §",
-    "在 said, asked 等词后面用 逗号 , 只有当它们位于句尾时, 才在它们的后面用句号。 ' I t's all right,' she said , ' b ut isn't it upside down?'",
-    "当 said, asked 等词置于引语之间时, 句子的后半部分以 小写 字母开始。 ' Y es, thank you,' I answered, ' b ut I can't pay the bill. I haven't got my bag.' §",
-    "当一个新的说话人开始讲话时, 要 另起 一个段落。 'Can I return these two tickets?' he asked. § 'Certainly,' the girl said."
+    "引语的第一个词以大写字母开头。 'But I'm still having breakfast,' I said. §",
+    "在 said, asked 等词后面用逗号, 只有当它们位于句尾时, 才在它们的后面用句号。 ' I t's all right,' she said , ' b ut isn't it upside down?'",
+    "当 said, asked 等词置于引语之间时, 句子的后半部分以小写字母开始。 'Yes, thank you,' I answered, 'but I can't pay the bill. I haven't got my bag.' §",
+    "当一个新的说话人开始讲话时, 要另起一个段落。 'Can I return these two tickets?' he asked. § 'Certainly,' the girl said."
    ]
   }
  ],

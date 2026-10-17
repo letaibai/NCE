@@ -1,9 +1,9 @@
 {
  "grammar": [
   {
-   "title": "语法知识 直接引语变间接引语",
+   "title": "直接引语变间接引语",
    "lines": [
-    "7 变化步骤 把某人所说的话告诉另外一个人时，应该使用间接引语。间接陈述句的时态往往受引述动词的影响。引述陈述句时最常用的动词是 say 和 tell，tell 后面必须跟表示人称的间接宾语（tell sb.），而 say 后面则可跟或不跟 to + 讲话对象。 1、主从一致 (主句和从句的时态一致) 2、人称变化：主要是第一和第二人称变化 3、只要属于宾语从句, 引导词 that 可以省略",
+    "变化步骤 把某人所说的话告诉另外一个人时，应该使用间接引语。间接陈述句的时态往往受引述动词的影响。引述陈述句时最常用的动词是 say 和 tell，tell 后面必须跟表示人称的间接宾语（tell sb.），而 say 后面则可跟或不跟 to + 讲话对象。 1、主从一致 (主句和从句的时态一致) 2、人称变化：主要是第一和第二人称变化 3、只要属于宾语从句, 引导词 that 可以省略",
     "直接引语 直接引用别人的原话，使用引号完整复述 间接引语 把引号打开转述别人说的话，一般为“宾语从句”",
     "He say s ,'I am a fool!' 他说：“我是笨蛋。” He say s (that) he is a fool. 他说他是个笨蛋。",
     "去掉引号",
@@ -13,24 +13,24 @@
     "He said , 'I am a fool!' 他说过：“我是一个笨蛋” He said that he was a fool! 他说过他曾是一个笨蛋",
     "He said , 'I will go to Italy.' 一般将来时 He said that he would go to Italy. 过去将来时",
     "He said , 'I went to Italy.' 一般过去时 He said that he had gone to Italy. 过去完成时",
-    "① 主句的动词为 一般现在 时，从句为 任意时态。",
-    "② 主句的动词为 一般过去 时，从句为 相对应的过去 时态（时态倒移）。",
-    "主句 直接引语 （即：原话，需引号包裹） 间接引语 (从句里的时态变化)",
-    "She says \" I like apples.\" 一般现在时 She says (that) she likes apples. 一般现在时（主句现在时，时态不变）",
-    "I am thinking \" I am reading .\" 现在进行时 I am thinking (that) I am reading . 现在进行时（主句现在时，时态不变）",
-    "He tells me \" I will go .\" 一般将来时 He tells me (that) he will go . 一般将来时（主句现在时，时态不变）",
-    "They say \" we will have finished .\" 将来完成时 They say (that) they will have finished . 将来完成时（主句现在时，时态不变）",
-    "We know \" he has left .\" 现在完成时 We know (that) he has left. 现在完成时 She mentions (that) he saw her. 一般过去时 He tells everyone (that) he had eaten . 过去完成时（本身无变化）",
-    "She mentions \" he saw her.\" 一般过去时",
-    "He tells everyone \" he had eaten .\" 过去完成时"
+    "① 主句的动词为一般现在时，从句为任意时态。",
+    "② 主句的动词为一般过去时，从句为相对应的过去时态（时态倒移）。",
+    "主句 直接引语（即：原话，需引号包裹） 间接引语(从句里的时态变化)",
+    "She says \"I like apples.\" 一般现在时 She says (that) she likes apples.一般现在时（主句现在时，时态不变）",
+    "I am thinking \"I am reading .\" 现在进行时 I am thinking (that) I am reading .现在进行时（主句现在时，时态不变）",
+    "He tells me \"I will go .\" 一般将来时 He tells me (that) he will go .一般将来时（主句现在时，时态不变）",
+    "They say \"we will have finished .\" 将来完成时 They say (that) they will have finished .将来完成时（主句现在时，时态不变）",
+    "We know \"he has left .\" 现在完成时 We know (that) he has left.现在完成时 She mentions (that) he saw her.一般过去时 He tells everyone (that) he had eaten .过去完成时（本身无变化）",
+    "She mentions \"he saw her.\" 一般过去时",
+    "He tells everyone \"he had eaten .\" 过去完成时"
    ]
   }
  ],
  "sentences": [
   {
-   "title": "单词句型 直接引语变间接引语",
+   "title": "直接引语变间接引语",
    "lines": [
-    "5 练习：填入said或told，并填入括号中动词正确的时态。 不规则动词的变化 每日习语 Give the benefit of the doubt 姑且相信",
+    "练习：填入said或told，并填入括号中动词正确的时态。 不规则动词的变化",
     "He told me that she would come (come) the next day.",
     "He said he could not (cannot) understand me.",
     "I told you I had (have) never played tennis befor.",

@@ -1,15 +1,15 @@
 {
  "grammar": [
   {
-   "title": "语法知识 一般现在时态",
+   "title": "一般现在时态",
    "lines": [
-    "8 三单 (第三人称单数) 识别三单 (所有可以使用She、He、It代表的名词)",
+    "三单(第三人称单数) 识别三单(所有可以使用She、He、It代表的名词)",
     "一般现在时（Simple Present Tense）",
     "结构 主语 + is/am/are + 非动词 主语 + 动词",
-    "习惯的动作或者经常的状态 (描述一个经常或持续存在的状态、动作或习惯) I 'm at home . 我在家 She drinks coffee every morning. （她每天早上喝咖啡。）",
-    "真理 (陈述普遍认为是真实的事实或真理) The sun is round . 太阳是圆的 The sun rises in the east. （太阳从东方升起。）",
+    "习惯的动作或者经常的状态 (描述一个经常或持续存在的状态、动作或习惯) I 'm at home . 我在家 She drinks coffee every morning.（她每天早上喝咖啡。）",
+    "真理 (陈述普遍认为是真实的事实或真理) The sun is round . 太阳是圆的 The sun rises in the east.（太阳从东方升起。）",
     "非三单主语 + 动词原形 三单主语 + 动词+s/es (同名词变复数)",
-    "第一人称 (I、we) 、第二人称 (you) 、第三人称复数 (they、teachers、dogs、cats...) 第三人称单数 （she、he、it） 、特定名词 （Lucy、Sam、Mr. Lee） 、代词 （this book、that student） 地名 （Beijing） 、名词所有格 （my uncle） 、专有名词 （President Trump） 、职业 （the teacher） 、亲属 （her husband） ...",
+    "第一人称(I、we)、第二人称(you)、第三人称复数(they、teachers、dogs、cats...) 第三人称单数（she、he、it）、特定名词（Lucy、Sam、Mr. Lee）、代词（this book、that student） 地名（Beijing）、名词所有格（my uncle）、专有名词（President Trump）、职业（the teacher）、亲属（her husband）...",
     "He love s his girlfriend very much.（他非常爱他的女朋友。）",
     "Jim and Lily walk to school every day.（吉姆和莉莉每天步行去学校。）",
     "They drink beer every night.（他们每晚喝啤酒。）",
@@ -24,9 +24,9 @@
  ],
  "sentences": [
   {
-   "title": "单词句型 一般现在时的否定练习",
+   "title": "一般现在时的否定练习",
    "lines": [
-    "6 先看词性，再看人称",
+    "先看词性，再看人称",
     "单词 中文含义 音标",
     "tomato🍅 西红柿 /tə'mɑːtəʊ/ /tə'meɪtoʊ/",
     "potato🥔 土豆 /pə'teɪtəʊ/",
@@ -60,9 +60,9 @@
  ],
  "expand": [
   {
-   "title": "扩展知识 一千以上的数词",
+   "title": "一千以上的数词",
    "lines": [
-    "4 one thousand 一千 在美式数学表达中，很多人会被教导不要在整数中间加 \"and\"。 因为在 美式英语 里，\"and\" 通常代表小数点。7000.09 会读作 \"Seven thousand and nine hundredths\"。 注：只要涉及到 21 ~ 99之间的数字，必须加连字符 “-”； thirty-two； thirty-three；thirty-six；twenty-three；ninety-nine",
+    "one thousand 一千 在美式数学表达中，很多人会被教导不要在整数中间加 \"and\"。 因为在美式英语里，\"and\" 通常代表小数点。7000.09 会读作 \"Seven thousand and nine hundredths\"。 注：只要涉及到 21 ~ 99之间的数字，必须加连字符 “-”； thirty-two； thirty-three；thirty-six；twenty-three；ninety-nine",
     "数字 英文表达",
     "1423 one thousand four hundred and twenty-three",
     "5736 five thousand seven hundred and thirty-six",

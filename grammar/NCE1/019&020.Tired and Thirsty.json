@@ -1,13 +1,13 @@
 {
  "grammar": [
   {
-   "title": "语法知识 单复数概念在句子中的使用(主谓一致)",
+   "title": "单复数概念在句子中的使用(主谓一致)",
    "lines": [
-    "3 Those child ren / kid s are tired.",
+    "Those child ren / kid s are tired.",
     "We are thirsty.",
     "This child is very young. 这个小朋友真年轻 (废话文学)",
     "What color is your car?",
-    "How are your Dad and Mum ? = How are your parents ?",
+    "How are your Dad and Mum? = How are your parents?",
     "Whose are those dresses? = Whose dresses are those?",
     "Are your shoes white? （Yes,they are.）",
     "The \\ These \\ Those children are tired.",
@@ -19,17 +19,17 @@
  ],
  "sentences": [
   {
-   "title": "单词句型 家庭成员关系",
+   "title": "家庭成员关系",
    "lines": [
-    "5 亲属关系 法律关系 Look at them!",
-    "关系 (集合) 个体",
+    "亲属关系 法律关系 Look at them!",
+    "关系(集合) 个体",
     "Grandparent s 祖父母 Grandmother 祖母",
     "Grandfather 祖父",
     "Parent s 父母亲 Father 父亲",
     "Mother 母亲",
     "Uncle s and aunt s 叔伯姨 Aunt 姑妈/伯母/阿姨",
     "Uncle 姑丈/伯父/叔叔",
-    "Yourself 你自己 、Myself 我自己",
+    "Yourself 你自己、Myself 我自己",
     "Husband 丈夫 Wife 妻子",
     "Brother 兄弟 Sister 姐妹",
     "cousin brother 堂/表哥 cousin sister 堂/表姐",
@@ -60,18 +60,17 @@
  ],
  "expand": [
   {
-   "title": "扩展知识 自然拼读",
+   "title": "自然拼读",
    "lines": [
-    "5 每日习语 bag it 放弃；停止",
     "组合 音标 示例",
-    "a-e \\ eɪ \\ t a k e ,t a bl e 元辅e字母e不发音",
-    "ay d ay ,w ay ,Pr ay ,s ay",
-    "ey Gr ey ,th ey ,l ey 例外:key, monkey",
-    "i-e \\ aɪ \\ L i k e ,B i k e ,n i c e ,K i t e ,f i n e ,Wh i t e ,sm i l e ,cr i m e wh- 只发\\w\\或者 \\h\\如 what, why who, whole",
+    "a-e \\ eɪ \\ take,table 元辅e字母e不发音",
+    "ay day,way,Pray,say",
+    "ey Grey,they,ley 例外:key, monkey",
+    "i-e \\ aɪ \\ Like,Bike,nice,Kite,fine,White,smile,crime wh- 只发\\w\\或者 \\h\\如 what, why who, whole",
     "ie Tie,lie,die, Pie",
-    "o-e \\ əʊ \\ N o t e ,h o p e ,ph o n e ,Ph o t o Ph \\f\\ Photo phrase Graph physical",
-    "oa B oa t,g oa t,C oa t,fl oa t",
-    "ow Yell ow ,foll ow ,Sl ow ,wind ow"
+    "o-e \\ əʊ \\ Note,hope,phone,Photo Ph \\f\\ Photo phrase Graph physical",
+    "oa Boat,goat,Coat,float",
+    "ow Yellow,follow,Slow,window"
    ]
   }
  ],

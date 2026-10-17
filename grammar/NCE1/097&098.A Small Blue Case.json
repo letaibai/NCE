@@ -1,7 +1,7 @@
 {
  "grammar": [
   {
-   "title": "语法知识 物主代词 & belong to",
+   "title": "物主代词 & belong to",
    "lines": [
     "物主代词 形容词性 名词性 物主代词 形容词性 名词性",
     "我的 my mine 我们的 our ours",
@@ -9,22 +9,22 @@
     "他的 his his 他们的 their theirs",
     "她的 her hers",
     "它的 its its",
-    "形容词性物主代词 + n. 名词性物主代词 （作主语、表语、宾语）",
-    "This is her car. My coat is green. It is my address. The car is her car. → The car is hers . The address is my address → The address is mine .",
+    "形容词性物主代词 + n. 名词性物主代词（作主语、表语、宾语）",
+    "This is her car. My coat is green. It is my address. The car is her car. → The car is hers. The address is my address → The address is mine.",
     "形容词性物主代词 复数 + n. 名词性物主代词 复数 （作主语、表语、宾语）",
-    "These are their names. This is our address in Beijing. This is your air ticket to London. These names are theirs . This address in Beijing is ours . Yours is to London, too.",
+    "These are their names. This is our address in Beijing. This is your air ticket to London. These names are theirs. This address in Beijing is ours. Yours is to London, too.",
     "物主代词 belong to",
-    "These are their keys to the car . 这是他们的车钥匙 These keys to the car are their s . 这些车钥匙是他们的。 It is his phone number. The phone number is his . These keys to the car belong to them. 这些车钥匙 属于 他们。 The phone number belongs to him.",
+    "These are their keys to the car . 这是他们的车钥匙 These keys to the car are their s . 这些车钥匙是他们的。 It is his phone number. The phone number is his. These keys to the car belong to them. 这些车钥匙属于他们。 The phone number belongs to him.",
     "否定 疑问",
-    "The address is not mine . The address not belongs to me . The address doesn’t belong to me. Are these letters yours ? Are these your letters? Are these letters belong to you? Do these letters belong to you?"
+    "The address is not mine. The address not belongs to me . The address doesn’t belong to me. Are these letters yours? Are these your letters? Are these letters belong to you? Do these letters belong to you?"
    ]
   }
  ],
  "sentences": [
   {
-   "title": "单词句型 belong to 练习",
+   "title": "belong to 练习",
    "lines": [
-    "3 Are these their keys? = Are these keys their s ? Is this your letter? = Is this letter your s ?",
+    "Are these their keys? = Are these keys their s ? Is this your letter? = Is this letter your s ?",
     "These things belong to my husband. → They are his .",
     "This coat belongs to me. → It is mine.",
     "These shoes belong to my wife. → They are hers.",
@@ -38,16 +38,15 @@
  ],
  "expand": [
   {
-   "title": "扩展知识 美国人常用粗话",
+   "title": "美国人常用粗话",
    "lines": [
-    "4 每日习语 back to square one 回到原点, 从头再来",
     "Fuck！",
     "Son of a bitch!",
     "You make me sick . 你真让我恶心。",
     "You are a jerk. 废物！",
     "Are you insane? 你疯了吗！",
     "Knock it off! 少来这一套。",
-    "You are out of your mind . 你脑子有病！",
+    "You are out of your mind. 你脑子有病！",
     "Get off my back . 少罗嗦。",
     "It’s none of your business. 关你屁事。"
    ]

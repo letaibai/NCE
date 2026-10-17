@@ -1,71 +1,70 @@
 {
  "grammar": [
   {
-   "title": "语法知识 条件状语从句",
+   "title": "条件状语从句",
    "lines": [
-    "6 状语是指对动词、形容词、副词或整个句子进行修饰或限定的成分。它可以提供更多的信息，例如时间、地点、方式、原因、程度等。状语通常用来补充说明主谓关系，使得句子更加具体、生动和完整。 额外补充“补语” ：补语可以修饰主语、宾语，或整个句子，位置相对灵活，通常根据修饰的成分而变化。 I find the movie interesting . 补充说明宾语(宾补) The weather remained sunny all day. 补充整个句子 本册中出现的 状语 在修饰什么？ 条件状语从句 第二册虚拟语气 (非主将从现) ( If I were the president, I would give money to the people. 假如我是总统，我就给人民发钱。 )",
+    "状语是指对动词、形容词、副词或整个句子进行修饰或限定的成分。它可以提供更多的信息，例如时间、地点、方式、原因、程度等。状语通常用来补充说明主谓关系，使得句子更加具体、生动和完整。 额外补充“补语”：补语可以修饰主语、宾语，或整个句子，位置相对灵活，通常根据修饰的成分而变化。 I find the movie interesting. 补充说明宾语(宾补) The weather remained sunny all day. 补充整个句子 本册中出现的 状语 在修饰什么？ 条件状语从句 第二册虚拟语气(非主将从现)(If I were the president, I would give money to the people.假如我是总统，我就给人民发钱。)",
     "主语 定语 谓语 状语 宾语 定语",
     "Anyone who leaves litter in these woods will be prosecuted ! 主主谓谓 She was a famous actress when I was still at school . 时间状语从句 There is a cup on the table . 定语 That's the man I told you about . 定语从句",
     "主语补足语 宾语补足语",
-    "He died young . We are born equal. Beef can be eaten raw . Your wife won' t allow us to play cards . to do不定式 They elected me the president . 名词 I find learning to drive easy . 形容词",
+    "He died young. We are born equal. Beef can be eaten raw. Your wife won' t allow us to play cards. to do不定式 They elected me the president. 名词 I find learning to drive easy. 形容词",
     "主 谓 状语",
-    "He goes there. 地点 状语(简单句)",
-    "He goes there by bike . 方式 状语(简单句)",
-    "He goes there because it's late . 原因 状语(从句)",
-    "He goes there to meet her. 目的 状语 (to do 不定式结构做状语)",
-    "He will go there if you invite him . 条件 状语(从句)",
-    "He goes there more frequently . 比较 状语 (简单句)",
-    "He goes there every weekend . 时间 状语(简单句)",
+    "He goes there. 地点状语(简单句)",
+    "He goes there by bike .方式状语(简单句)",
+    "He goes there because it's late . 原因状语(从句)",
+    "He goes there to meet her. 目的状语 (to do 不定式结构做状语)",
+    "He will go there if you invite him . 条件状语(从句)",
+    "He goes there more frequently . 比较状语 (简单句)",
+    "He goes there every weekend . 时间状语(简单句)",
     "一个依赖于主句条件的从句，描述了在某个条件成立时会发生的情况或结果。条件状语从句通常由引导词引导，如\"如果\"、\"假如\"、\"只要\"、\"除非\"等。",
     "条件状语从句： 句子作条件状语 。",
     "If + 从句 主句",
     "If you invite him, he will go there.",
     "主句 If + 从句",
     "He will go there, if you invite him.",
-    "主将从现 （主语将来时，从句现在时）",
+    "主将从现（主语将来时，从句现在时）",
     "If there is anything you need , I will not be far away. I will not be far away if there is anything you need. 如果你需要，我就在你身边。",
     "If money is not your servant, it will be your master. It will be your master if money is not your servant. 如果钱不是你的奴仆，它将成为你的主人",
-    "If it doesn't rain tomorrow, we will start out. 如果明天不下雨(将来时)，我们就出发。 If he has enough time next week,he will come to see you (将来时). 如果下周有时间(将来时)，他就来看你。",
-    "主情从现 (主句情态动词，从句一般现在) 主祈从现 (主句祈使句，从句一般现在)",
-    "If you are the smartest person in the room (现在时) ,you must be in the wrong room (情态动词) . 如果你是这个房间里最聪明的人，你一定呆错房间了。 If you promise to keep a secret (现在时) , I can tell you the truth (情态动词) . 如果你能保守秘密，我可以告诉你真相。 If you want something said, ask a man. 如果你想要说出某件事，去请教一个男人。 If you want something done, ask a woman. 如果你想要做成某件事，去请教一个女人。"
+    "If it doesn't rain tomorrow, we will start out.如果明天不下雨(将来时)，我们就出发。 If he has enough time next week,he will come to see you(将来时). 如果下周有时间(将来时)，他就来看你。",
+    "主情从现(主句情态动词，从句一般现在) 主祈从现(主句祈使句，从句一般现在)",
+    "If you are the smartest person in the room(现在时),you must be in the wrong room(情态动词).如果你是这个房间里最聪明的人，你一定呆错房间了。 If you promise to keep a secret(现在时), I can tell you the truth(情态动词). 如果你能保守秘密，我可以告诉你真相。 If you want something said, ask a man. 如果你想要说出某件事，去请教一个男人。 If you want something done, ask a woman. 如果你想要做成某件事，去请教一个女人。"
    ]
   }
  ],
  "sentences": [
   {
-   "title": "单词句型 条件状语从句练习",
+   "title": "条件状语从句练习",
    "lines": [
-    "5 条件状语从句 (谁在if后面谁是从句) What will he do if he misses the bus? （Take a taxi.） What will he do if he doesn't sell his old car? （He won't buy a new one.） What will you do if they offer you more money? (Work less.) What will he do if she doesn't type the letter? (Type is himself.) What will the children do if they come home early? (play in the garden.) 模仿改写 (主情从现)",
+    "条件状语从句(谁在if后面谁是从句) What will he do if he misses the bus? （Take a taxi.） What will he do if he doesn't sell his old car?（He won't buy a new one.） What will you do if they offer you more money?(Work less.) What will he do if she doesn't type the letter?(Type is himself.) What will the children do if they come home early?(play in the garden.) 模仿改写(主情从现)",
     "If you break this window,you 'll have to pay for it! (主将从现)",
-    "If you don't hurry ,we 'll miss the train. (主将从现)",
-    "If he falls ,he 'll hurt himself. (主将从现)",
-    "If it rains tomorrow,we won't go to the seaside. (主将从现)",
-    "If you feel better,you can get up. (主情从现)",
-    "If he sells that car,he can buy a new one. (主情从现)",
+    "If you don't hurry ,we 'll miss the train.(主将从现)",
+    "If he falls ,he 'll hurt himself.(主将从现)",
+    "If it rains tomorrow,we won't go to the seaside.(主将从现)",
+    "If you feel better,you can get up.(主情从现)",
+    "If he sells that car,he can buy a new one.(主情从现)",
     "If he misses the bus, he will take a taxi. (主将从现)",
     "If he doesn't sell his old, he won't buy a new one. （主将否从现否）",
-    "If they offer you more money, you will work less. (主将从现)",
+    "If they offer you more money, you will work less.(主将从现)",
     "If she doesn't type the letter, he will do it by himself.",
     "If they come home early, they will play in the garden...",
     "Live abroad. (She) She can live abroad if he is rich.",
     "Travel round the world. (He) He can travel round the world if he is rich.",
     "Buy a new house. (He) He can buy a new house if he is rich.",
-    "Have a long holiday. (They) They can have a long holiday if they are rich.",
-    "Enjoy myself. (I) I can enjoy myself if I am rich."
+    "Have a long holiday.(They) They can have a long holiday if they are rich.",
+    "Enjoy myself.(I) I can enjoy myself if I am rich."
    ]
   }
  ],
  "expand": [
   {
-   "title": "扩展知识 条件状语",
+   "title": "条件状语",
    "lines": [
-    "6 每日习语 hit the road 开始流浪，上路",
     "类型 § if 条件从句时态 主句时态",
     "真实条件 (Real Condition) 一般现在时 一般现在时 / 将来时",
     "将来可能实现的条件 一般将来时 (will + 动词原形)",
     "与现在/将来相反的虚拟条件 (Unreal Condition) 一般过去时 (be 动词多用 were) would / could / should / might + 动词原形",
     "与过去相反的虚拟条件 过去完成时 (had + 过去分词) would / could / should / might + have + 过去分词",
-    "真实条件 (可能实现的) If it rains , I will take an umbrella. 如果下雨，我会带伞。",
+    "真实条件 (可能实现的) If it rains, I will take an umbrella. 如果下雨，我会带伞。",
     "将来可能实现的条件 If it is sunny tomorrow, we will go for a picnic. 如果明天晴朗，我们会去野餐。",
     "与现在/将来相反的虚拟条件 (不可能实现的) If I were a bird, I would fly in the sky. 如果我是一只鸟，我就会在天空中飞翔。",
     "与过去相反的虚拟条件 If I had studied harder, I would have passed the exam. 如果我当时学习更努力些，我就会通过考试了。"

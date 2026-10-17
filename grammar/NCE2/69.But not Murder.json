@@ -1,48 +1,48 @@
 {
  "grammar": [
   {
-   "title": "语法知识 被动语态的时间顺序",
+   "title": "被动语态的时间顺序",
    "lines": [
-    "4 被动语态可以用于“介词 + 动名词”结构中，在英语中是很正式的用法，一般不用于口语。“介词（after， before，on）+ 动名词” 这个结构通常相当于一个时间状语从句。",
-    "on + 动名词 通常表示两个动作几乎同时发生 On / After being told that her mother was seriously ill, she hurried back to England.",
+    "被动语态可以用于“介词 + 动名词”结构中，在英语中是很正式的用法，一般不用于口语。“介词（after， before，on）+ 动名词” 这个结构通常相当于一个时间状语从句。",
+    "on + 动名词 通常表示两个动作几乎同时发生 On/After being told that her mother was seriously ill, she hurried back to England.",
     "after + 动名词的完成式 表示第一个动作(开始之前 已经完成) The man called the police after being robbed .",
     "after / before + 动名词 只表示先后顺序 He killed a child before being arrested.",
-    "want +被动语态 往往表示希望别人完成所说的动作 I want the luggage fetched from the hotel this afternoon. 被动语态用于want 后面的不定式中时，to be 可以省略",
+    "want +被动语态 往往表示希望别人完成所说的动作 I want the luggage fetched from the hotel this afternoon.被动语态用于want 后面的不定式中时，to be 可以省略",
     "被动语态用于过去进行时 以强调动作的持续性 I was being asked about the film all day yesterday."
    ]
   }
  ],
  "sentences": [
   {
-   "title": "单词句型 易混淆的单词(英式与美式)",
+   "title": "易混淆的单词(英式与美式)",
    "lines": [
-    "3 amuse vt. 逗乐，逗笑（常用于被动语态）",
+    "amuse vt. 逗乐，逗笑（常用于被动语态）",
     "She was amused by her father’s funny stories.",
     "His story amused the children very much.",
     "practi ce n. （反复的）练习，实践，实行(英式只表名词；美式混用) practi se vt.& vi. 练习，经常做[英式只表动词，美式混用] §",
-    "Your spoken English will improve with practice . Have they put their plan into practice ? 他们把计划付诸实施了吗？ Jimmy used to practice (playing) football every afternoon. She practises on the piano for three hours every day.",
+    "Your spoken English will improve with practice. Have they put their plan into practice? 他们把计划付诸实施了吗？ Jimmy used to practice (playing) football every afternoon. She practises on the piano for three hours every day.",
     "advi ce n. 忠告，劝告，建议（不可数名词） advi se vt.& vi. 劝告，向…提供提议",
     "She gave me some good advice / a piece of advice about jobs. She advised me against going to the party. 她建议/劝我不要去参加聚会。",
     "enjoy vt. 欣赏，喜爱，享受…之乐（后跟名词、动名词或反身代词，用于主动语态） entertain vt. 款待，招待，请客；使…快乐，给…娱乐（=amuse）",
-    "I enjoy swimming in summer. We’re really enjoying ourselves. We often entertain friends at weekends. Uncle Sam entertains / amuses the children for hours at a time. 萨姆叔叔一连好几小时地逗孩子们乐。 My children can entertain / amuse themselves for hours with telling stories to each other."
+    "I enjoy swimming in summer. We’re really enjoying ourselves. We often entertain friends at weekends. Uncle Sam entertains/amuses the children for hours at a time.萨姆叔叔一连好几小时地逗孩子们乐。 My children can entertain/amuse themselves for hours with telling stories to each other."
    ]
   }
  ],
  "expand": [
   {
-   "title": "扩展知识 非谓语动词表被动",
+   "title": "非谓语动词表被动",
    "lines": [
-    "8 非谓语动词 vs. 谓语动词时间关系？ 非谓语动词 不能表示绝对的时间 ，也就是说非谓语动词它不能说明这个事儿是发生在过去、现在、还是将来。但非谓语动词可以表示 相对 (相对于谓语动词) 的先后顺序，它强调发生在 谓语动词 的 之前 （相对的概念） 。 每日习语 go big or go home. 要么全力以赴，要么放弃(不成功便成仁)",
-    "be done 可以作 谓语 、 被动 语态 done 不能 作谓语、非谓语动词",
+    "非谓语动词 vs. 谓语动词时间关系？ 非谓语动词不能表示绝对的时间，也就是说非谓语动词它不能说明这个事儿是发生在过去、现在、还是将来。但非谓语动词可以表示相对(相对于谓语动词)的先后顺序，它强调发生在谓语动词的之前（相对的概念）。",
+    "be done 可以作谓语、被动语态 done 不能 作谓语、非谓语动词",
     "都可以表“被动”",
-    "The bottle was thrown into the sea. (done 只表示被动) The bottle thrown into the sea is found .",
-    "Having been beaten by a girl, the boy cried. 先被打，后哭了(having been done 被动在先) Beaten by a girl, the boy cried . 不能体现发生的时间顺序",
-    "Being beaten by a girl, the boy cried. 一边被打一边哭(being done 被动同时)",
+    "The bottle was thrown into the sea.(done 只表示被动) The bottle thrown into the sea is found.",
+    "Having been beaten by a girl, the boy cried. 先被打，后哭了(having been done 被动在先) Beaten by a girl, the boy cried. 不能体现发生的时间顺序",
+    "Being beaten by a girl, the boy cried.一边被打一边哭(being done 被动同时)",
     "非谓语 发生在谓语动词之前 被 谓语 相对的时间",
-    "Having been beaten by a girl , the boy cried . 哭过 比如谓语动词是 过去 ，那么它可以表示 过去的之前 被打。",
-    ", the boy is crying . 在哭 谓语动词是现在 进行 ，那它可以表示 现在的之前 被打。",
-    "非谓语动词 只能相对于这个谓语动词来说，表示在 谓语动词 的之前，但它自己本身不能说明过去，现在还是将来。",
-    "谓语动词 是句子的核心，它可以表示 绝对的时间 ，它可以表明这个事儿发生在过去，现在还是将来。"
+    "Having been beaten by a girl , the boy cried . 哭过 比如谓语动词是过去，那么它可以表示过去的之前被打。",
+    ", the boy is crying . 在哭 谓语动词是现在进行，那它可以表示现在的之前被打。",
+    "非谓语动词只能相对于这个谓语动词来说，表示在谓语动词的之前，但它自己本身不能说明过去，现在还是将来。",
+    "谓语动词是句子的核心，它可以表示绝对的时间，它可以表明这个事儿发生在过去，现在还是将来。"
    ]
   }
  ]

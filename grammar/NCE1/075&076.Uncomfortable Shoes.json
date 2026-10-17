@@ -1,9 +1,9 @@
 {
  "grammar": [
   {
-   "title": "语法知识 动词过去式的不规则变化",
+   "title": "动词过去式的不规则变化",
    "lines": [
-    "8 情态动词的过去式 《新二》中还会学习到： had better , have to , need , ought to , dare (dared)",
+    "情态动词的过去式 《新二》中还会学习到： had better , have to , need , ought to , dare (dared)",
     "原型 过去式 含义",
     "cut cut 切,割",
     "let let 让",
@@ -47,14 +47,14 @@
  ],
  "sentences": [
   {
-   "title": "单词句型 When did you…?",
+   "title": "When did you…?",
    "lines": [
-    "3 昨天、前天、明天、后天的详细表达 。 ago 与时间的连用 §",
+    "昨天、前天、明天、后天的详细表达 。 ago 与时间的连用 §",
     "本 上 上上",
     "this week last week the week before last",
     "this month last month the month before last",
     "this year last year the year before last",
-    "时间 (adv. 以前，从前)",
+    "时间(adv. 以前，从前)",
     "a minute ago two minutes ago",
     "an hour five hours",
     "a day three days",
@@ -64,7 +64,7 @@
     "When did you look at a photograph?",
     "I look ed at a photograph this morning.",
     "When did you jump off the wall?",
-    "I jump ed off the wall two minutes ago .",
+    "I jump ed off the wall two minutes ago.",
     "She met her friends yesterday .",
     "They drank some milk yesterday .",
     "He swam in the river yesterday .",
@@ -75,22 +75,22 @@
  ],
  "expand": [
   {
-   "title": "扩展知识 否定前缀 un-",
+   "title": "否定前缀 un-",
    "lines": [
-    "3 否定前缀 un- 、 动词变形容词 、 形容词变副词 每日习语 Throw caution to the wind 鲁莽行事；不顾一切",
+    "否定前缀 un- 、 动词变形容词 、 形容词变副词",
     "形容词前",
-    "happy un happy",
-    "certain un certain",
-    "clean un clean",
-    "comfortable un comfortable",
-    "easy un easy",
-    "tidy un tidy",
+    "happy unhappy",
+    "certain uncertain",
+    "clean unclean",
+    "comfortable uncomfortable",
+    "easy uneasy",
+    "tidy untidy",
     "名词前",
-    "truth un truth",
+    "truth untruth",
     "动词前",
-    "cut un cut adj.",
-    "lock un lock",
-    "dress un dress"
+    "cut uncut adj.",
+    "lock unlock",
+    "dress undress"
    ]
   }
  ]

@@ -1,16 +1,16 @@
 {
  "grammar": [
   {
-   "title": "语法知识 宾语从句的时态",
+   "title": "宾语从句的时态",
    "lines": [
-    "9 宾语从句的时态 结论1：只要是主句是一般现在时，从句没有时态要求。 因为主句 told 的存在，导致了主语成为了一般过去时，做为描述过去的事件，从句也应该同步的变成相应的过去。 结论2：主句一般过去，从句相应过去。 句型转换练习",
+    "宾语从句的时态 结论1：只要是主句是一般现在时，从句没有时态要求。 因为主句 told 的存在，导致了主语成为了一般过去时，做为描述过去的事件，从句也应该同步的变成相应的过去。 结论2：主句一般过去，从句相应过去。 句型转换练习",
     "I think (that) I love you. 一般现在",
-    "He says (that) he loved her . 一般过去",
-    "He knows (that) she has gone . 现在完成",
-    "He is sorry (that) he will leave . 一般将来",
+    "He says (that) he loved her. 一般过去",
+    "He knows (that) she has gone. 现在完成",
+    "He is sorry (that) he will leave. 一般将来",
     "Miss Marsh:“ I feel very tired and I don’t want to make another film”. 一般现在 （主语 + v.）",
-    "Miss Marsh told reporters she felt tired and she didn’t want to make another film. 一般过去 （主语 + was\\were\\ did）",
-    "从句原时态 (直接引语) 变为 从句变后时态 (间接引语)",
+    "Miss Marsh told reporters she felt tired and she didn’t want to make another film. 一般过去 （主语 + was\\were\\did）",
+    "从句原时态(直接引语) 变为 从句变后时态(间接引语)",
     "一般现在 主语 + is/am/are Susan says : \" I am still at home.\" 一般过去 主语 + was/were Susan said she was still at home.",
     "现在完成 主语 + have + done Susan says :“I have had breakfast.” 过去完成 主语 + had + done Susan said she had had her breakfast.",
     "一般过去 主语 + did Susan says : \" I did my job well.\" 过去完成 主语+ had + done Susan said she had done her job well.",
@@ -24,14 +24,14 @@
  ],
  "sentences": [
   {
-   "title": "单词句型 转述练习",
+   "title": "转述练习",
    "lines": [
-    "原句 (第一者) 问题 (第二者) 转述 (第三者) 说明",
-    "I ’m busy. What did he say ? He said he was busy. 某人对你说“我很忙”，第二者问你“ 他 说了什么？”，这时你应该怎么回答？",
-    "She ’s cold. What did he say ? He said she was cold. 他对我说“她很冷”，你问我“ 他 说了什么？”，这时我怎么回答你？",
+    "原句(第一者) 问题(第二者) 转述(第三者) 说明",
+    "I ’m busy. What did he say ? He said he was busy. 某人对你说“我很忙”，第二者问你“他说了什么？”，这时你应该怎么回答？",
+    "She ’s cold. What did he say ? He said she was cold. 他对我说“她很冷”，你问我“他说了什么？”，这时我怎么回答你？",
     "I ’m working. What did he tell you? He told me he was working. 他过来给我说：“我现在很忙”，别人问我“他告诉了我什么？”，我要怎么回复？",
-    "She ’s leaving. What did they tell you? They told me she was leaving. 他们都在说“她要走了”，你没有听清就问我“ 他们 说的啥？”我这时回答你...",
-    "They ’re joking. What did she tell you? She told me they were joking. 她 告诉了我“ 他们 是开玩笑的”，然后我把她真实的情况转述给你...",
+    "She ’s leaving. What did they tell you? They told me she was leaving. 他们都在说“她要走了”，你没有听清就问我“他们说的啥？”我这时回答你...",
+    "They ’re joking. What did she tell you? She told me they were joking. 她告诉了我“他们是开玩笑的”，然后我把她真实的情况转述给你...",
     "I ’ve met him. What did he tell you? He told me he had met him. 他给我说“我看见他了”，你想知道他告诉了我什么？我说...",
     "I ’ve lost it. What did he tell you? He told me he had lost it. 然后他说“我把它搞丢了”，我肯定是你安排在他们身边的间谍，然后我告诉了你...",
     "It has stopped. What did she tell you? She told me it had stopped. 她过来给我说“已经停了”，然后你问我她说啥？“她告诉我，我不再当你的间谍了”"
@@ -40,24 +40,23 @@
  ],
  "expand": [
   {
-   "title": "扩展知识 新闻英语",
+   "title": "新闻英语",
    "lines": [
-    "5 每日习语 A cold fish. 冷酷无情的人(高傲自大)",
     "词汇/短语 含义 例句",
     "Breaking news/press 紧急新闻，突发新闻 The breaking news just came in that a major earthquake has struck the city. （刚刚传来突发消息，该市发生了一次大地震。）",
     "reporter\\ journalist 记者/撰稿人 The reporter was at the scene of the accident, gathering information for the news article. （这位记者在事故现场收集信息，准备写新闻报道。）",
-    "gossip 八卦 I enjoy reading entertainment news to stay updated on the latest movies, music, and celebrity gossip . （我喜欢阅读娱乐新闻，以了解最新的电影、音乐和名人八卦。）",
+    "gossip 八卦 I enjoy reading entertainment news to stay updated on the latest movies, music, and celebrity gossip. （我喜欢阅读娱乐新闻，以了解最新的电影、音乐和名人八卦。）",
     "entertainment news 娱乐新闻",
     "internet media 网络媒体 Internet media has revolutionized the way we consume news and entertainment. （互联网媒体颠覆了我们获取新闻和娱乐内容的方式。）",
     "Headline 头条新闻 The headline of the newspaper read \"World Leaders Gather for Climate Summit\". （报纸的头条新闻是“世界领袖齐聚气候峰会”。）",
     "News report 新闻报道 The news report highlighted the ongoing humanitarian crisis in the war-torn region. （新闻报道突出了战乱地区持续发生的人道主义危机。）",
-    "Current events 当前事件 The newspaper covers a wide range of current events , from politics to entertainment. （这家报纸报道了从政治到娱乐等各个领域的各种当前事件。）",
+    "Current events 当前事件 The newspaper covers a wide range of current events, from politics to entertainment. （这家报纸报道了从政治到娱乐等各个领域的各种当前事件。）",
     "Press conference 新闻发布会 The press conference was held to announce the company's latest product launch. （新闻发布会旨在宣布公司最新的产品发布。）",
     "Exclusive interview 独家采访 The journalist conducted an exclusive interview with the famous actor. （记者与这位著名演员进行了独家采访。）",
     "Investigative journalism 调查性新闻报道 The investigative journalism team uncovered a major corruption scandal. （调查性新闻报道团队揭露了一起重大的腐败丑闻。）",
     "Breaking story 突发事件 The breaking story of the plane crash dominated the front-page news. （飞机失事的突发事件成为了头版头条新闻。）",
     "Front-page news 首页头条新闻 The scandal involving a high-ranking government official was the front-page news today. （涉及高级政府官员的丑闻成为今天的头版新闻。）",
-    "Media coverage 媒体报道 The celebrity's scandal received extensive media coverage , with multiple news outlets reporting on it. （这位名人的丑闻得到了广泛的媒体报道，多家新闻机构对此进行了报道。）",
+    "Media coverage 媒体报道 The celebrity's scandal received extensive media coverage, with multiple news outlets reporting on it. （这位名人的丑闻得到了广泛的媒体报道，多家新闻机构对此进行了报道。）",
     "Live broadcast 直播 The live broadcast of the sports event attracted millions of viewers. （体育赛事的现场直播吸引了数百万观众。）",
     "Opinion piece 评论文章 The newspaper published an opinion piece arguing for stricter gun control laws. （报纸刊登了一篇评论文章，主张加强枪支管制法律。）",
     "Editorial 社论，社评 The editorial criticized the government's handling of the education system. （社论批评了政府对教育系统的处理方式。）",

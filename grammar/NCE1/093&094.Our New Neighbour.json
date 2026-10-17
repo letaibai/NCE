@@ -1,30 +1,29 @@
 {
  "grammar": [
   {
-   "title": "语法知识 句子的种类(结构)",
+   "title": "句子的种类(结构)",
    "lines": [
-    "简单句 (一个谓语动词) 并列句 (同样重要,逻辑关系联系,时态混合) 复合句 (主从复合句)",
-    "主 + 谓 主 + 谓 + 宾 主 + 谓 + 宾 + 宾 主 + 谓 + 宾 + 宾补 主 + 系 + 表 简单句 + 并列连词 + 简单句 He loves me and I am happy. He loves me but I am not happy. He loves me so I am happy. 宾语从句 (使用句子做宾语) 定语从句 (使用句子做定语) 时间状语从句 条件状语从句 ..."
+    "简单句 (一个谓语动词) 并列句(同样重要,逻辑关系联系,时态混合) 复合句 (主从复合句)",
+    "主 + 谓 主 + 谓 + 宾 主 + 谓 + 宾 + 宾 主 + 谓 + 宾 + 宾补 主 + 系 + 表 简单句 + 并列连词 + 简单句 He loves me and I am happy. He loves me but I am not happy. He loves me so I am happy. 宾语从句(使用句子做宾语) 定语从句(使用句子做定语) 时间状语从句 条件状语从句 ..."
    ]
   }
  ],
  "sentences": [
   {
-   "title": "单词句型 When did you/will you go to ... ?",
+   "title": "When did you/will you go to ... ?",
    "lines": [
     "对话 时态",
-    "Have you ever been to Athens? 你去过雅典吗？ No, I have never . 没有。 现在完成时 引起话题",
-    "Will you go there? 打算去吗？ When will you go there? 打算什么时候去？ I will go there next year. 打算明年去。 一般将来时 具体谈论",
-    "Have you ever been to Berlin? 你去过柏林吗？ Yes, I have . 去过。 现在完成时 引起话题",
-    "When did you go ? 什么时候去的？ I went there last year. 去年去的。 Who did you go with? 和谁一块去的？ I went there with my boyfriend. 和我男朋友一起去的。 I went there last year. When did you go there? I went there with my boyfriend. Who went there with you? 一般过去时 具体谈论"
+    "Have you ever been to Athens?你去过雅典吗？ No, I have never.没有。 现在完成时 引起话题",
+    "Will you go there?打算去吗？ When will you go there?打算什么时候去？ I will go there next year.打算明年去。 一般将来时 具体谈论",
+    "Have you ever been to Berlin?你去过柏林吗？ Yes, I have .去过。 现在完成时 引起话题",
+    "When did you go ?什么时候去的？ I went there last year.去年去的。 Who did you go with?和谁一块去的？ I went there with my boyfriend.和我男朋友一起去的。 I went there last year. When did you go there? I went there with my boyfriend. Who went there with you? 一般过去时 具体谈论"
    ]
   }
  ],
  "expand": [
   {
-   "title": "扩展知识 综合应用各种时态",
+   "title": "综合应用各种时态",
    "lines": [
-    "5 每日习语 Have a change of heart 改变主意；回心转意",
     "张一山是我们新搬来的隔壁邻居。他是个演员。 Zhang Yishan is our new next-door neighbor. He is an actor.",
     "他曾在北京五十五中学读书。 He was in No.55 middle school in Beijing.",
     "下个月他将飞往山东。下下个月他将飞往香港。现在他在上海。 The next month He will fly to Shandong. The month after next he will fly to Hong Kong. At the moment, he is in Shanghai.",

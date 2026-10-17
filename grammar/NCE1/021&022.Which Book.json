@@ -1,34 +1,34 @@
 {
  "grammar": [
   {
-   "title": "语法知识 简单句的5种结构",
+   "title": "简单句的5种结构",
    "lines": [
-    "7 which 、 what 、 how 、 whose 、 who 特殊疑问词 简单句 的五句型结构 §",
+    "which 、 what 、 how 、 whose 、 who 特殊疑问词 简单句 的五句型结构 §",
     "特殊疑问词 + be + 名词 特殊疑问词 + 名词 + be + …",
     "Which is your book? 哪一本是你的书？ Which is your car? 哪一辆是你的车？ Which book is yours ? 哪本书是你的？ Which car is yours? 哪一辆车是你的？",
     "结构 句型解析 例句",
-    "主 + 谓 主语：I （我） 谓语：study （学习 ） I study . She runs . You see .",
-    "主 + 谓 + 宾 主语：He （他） 谓语：eats （吃） 宾语：an apple （一个苹果） He eats an apple. She loves him. My dad told me.",
-    "主 + 谓 + 宾 + 宾 主语：I （我） 谓语：give （给予） 间接宾语（人） ：him （他） 直接宾语（物）：a gift （一个礼物） I give him a gift . You sent me a card. She brings you something.",
-    "主 + 谓 + 宾 + 宾补 主语：I （我） 谓语：find （发现） 宾语：Kwok's notes （夸克的笔记） 宾语补足语：absolutely incredible （令人难以置信） I find Kwok's notes absolutely incredible . I find Kwok's notes highly insightful . I find Kwok's notes incredibly helpful .",
-    "主 + 系 + 表 主语：The cat （这只猫） 系动词：looks （看起来, 感官动词 =半系动词） 表语：cute （可爱） The cat looks cute . I 'm Kwok. You are great."
+    "主 + 谓 主语：I（我） 谓语：study（学习） I study . She runs . You see .",
+    "主 + 谓 + 宾 主语：He（他） 谓语：eats（吃） 宾语：an apple（一个苹果） He eats an apple. She loves him. My dad told me.",
+    "主 + 谓 + 宾 + 宾 主语：I（我） 谓语：give（给予） 间接宾语（人） ：him（他） 直接宾语（物）：a gift（一个礼物） I give him a gift . You sent me a card. She brings you something.",
+    "主 + 谓 + 宾 + 宾补 主语：I（我） 谓语：find（发现） 宾语：Kwok's notes（夸克的笔记） 宾语补足语：absolutely incredible（令人难以置信） I find Kwok's notes absolutely incredible . I find Kwok's notes highly insightful . I find Kwok's notes incredibly helpful .",
+    "主 + 系 + 表 主语：The cat（这只猫） 系动词：looks（看起来, 感官动词 =半系动词） 表语：cute（可爱） The cat looks cute . I 'm Kwok. You are great."
    ]
   }
  ],
  "sentences": [
   {
-   "title": "单词句型 形容词",
+   "title": "形容词",
    "lines": [
     "empty ['empti] 空的 full [fʊl] 满的",
-    "Westlife - My Love An empty street 空荡的街 An empty house 寂静的夜 A hole inside my heart 没有你在身边 I’m all alone and the rooms are getting smaller 心里面对你的思念一遍一遍 I’m full . 我饱了。 a full stop 句号 a full time job 一份全职工作 a part time job 一份兼职工作",
+    "Westlife - My Love An empty street 空荡的街 An empty house 寂静的夜 A hole inside my heart 没有你在身边 I’m all alone and the rooms are getting smaller 心里面对你的思念一遍一遍 I’m full.我饱了。 a full stop 句号 a full time job 一份全职工作 a part time job 一份兼职工作",
     "large [lɑːdʒ] [lɑːrdʒ] 大的（强调面积） little ['lɪtl] 小的",
-    "China is a large country. 中国是一个幅员辽阔的国家。 This room is large . 这房间很大。 a little girl 一个（可爱的）小女孩 a small girl 一个(体型很)小的女孩",
+    "China is a large country.中国是一个幅员辽阔的国家。 This room is large.这房间很大。 a little girl 一个（可爱的）小女孩 a small girl 一个(体型很)小的女孩",
     "sharp [ʃɑːp] 锋利的 blunt [blʌnt] 钝的",
-    "The knife is sharp . Cats have sharp claws. The knife is blunt . 这刀很钝。 My pencil is blunt . 我的铅笔很钝。",
+    "The knife is sharp. Cats have sharp claws. The knife is blunt. 这刀很钝。 My pencil is blunt. 我的铅笔很钝。",
     "small [smɔːl] 小的 big [bɪɡ] 大的（体积）",
-    "Small world… 世界真小，又见面了。 the big world 大世界",
+    "Small world…世界真小，又见面了。 the big world 大世界",
     "单词 发音 中文翻译",
-    "box 📦 [bɒks] 盒子，箱子 (a small\\big box )",
+    "box 📦 [bɒks] 盒子，箱子 (a small\\big box)",
     "glass 🥃 [ɡlɑːs] [ɡlæs] 玻璃，玻璃杯子",
     "cup ☕ [kʌp] 茶杯",
     "bottle 🍾 ['bɒtl] 瓶子",
@@ -42,19 +42,19 @@
  ],
  "expand": [
   {
-   "title": "扩展知识 中西方人不同的餐饮工具",
+   "title": "中西方人不同的餐饮工具",
    "lines": [
-    "3 In China , people eat with bowls and chopsticks , which are perfect for picking up rice and vegetables. In Western countries , people eat with knives and forks , which are useful for cutting meat and eating different courses. In India , many people eat with their hands , which allows them to feel the texture of the food and mix flavors together. 每日习语 Actions speak louder than words 行胜于言，事实胜于雄辩",
+    "In China, people eat with bowls and chopsticks, which are perfect for picking up rice and vegetables. In Western countries, people eat with knives and forks, which are useful for cutting meat and eating different courses. In India, many people eat with their hands, which allows them to feel the texture of the food and mix flavors together.",
     "中国: bowls and chopsticks 碗 + 筷",
     "西方: knives and forks 刀 + 叉",
     "印度: Hands 手抓",
     "组合 音标 示例",
-    "ow \\ a ʊ \\ n ow ,h ow ,c ow ,all ow",
-    "ou h ou se,bl ou se",
-    "oy \\ ɔɪ \\ T oy ,B oy ,J oy , Oy ster",
-    "oi oi l,c oi n,m oi st",
-    "ear \\ ɪə \\ \\ ɪr \\ d ear ,n ear ,f ear ,h ear",
-    "eer d eer ,b eer ,st eer ,j eer",
+    "ow \\ aʊ \\ now,how,cow,allow",
+    "ou house,blouse",
+    "oy \\ ɔɪ \\ Toy,Boy,Joy,Oyster",
+    "oi oil,coin,moist",
+    "ear \\ ɪə \\ \\ ɪr \\ dear,near,fear,hear",
+    "eer deer,beer,steer,jeer",
     "例外：early, earth, earn"
    ]
   }
