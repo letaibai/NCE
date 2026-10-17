@@ -96,8 +96,12 @@ export class VocabView {
         const speakBtn = this.ttsAvailable
           ? `<button class="vocab-speak-btn" type="button" aria-label="朗读 ${word}">🔊</button>`
           : '';
-        const translation = entry.translation ? `<p class="vocab-translation">${escapeHtml(entry.translation)}</p>` : '';
-        const definition = entry.definition ? `<p class="vocab-definition">${escapeHtml(entry.definition)}</p>` : '';
+        const translation = entry.translation
+          ? `<p class="vocab-translation">${escapeHtml(entry.translation).replace(/\\n/g, '<br>')}</p>`
+          : '';
+        const definition = entry.definition
+          ? `<p class="vocab-definition">${escapeHtml(entry.definition).replace(/\\n/g, '<br>')}</p>`
+          : '';
         return `
           <li class="vocab-item" data-word="${word}">
             <div class="vocab-head">
