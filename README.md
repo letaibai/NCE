@@ -122,9 +122,25 @@ your-book/
 
 - 本项目**仅供个人学习研究使用**，非商业用途。
 - 所有内容来源于互联网，我们不拥有版权。
-- **原作者**：iChochy  
+- **强烈建议**支持正版，购买官方教材与音频。
+
+#### 内容来源与版权归属
+
+| 内容 | 来源 | 版权 |
+|------|------|------|
+| 播放器代码 | [iChochy/nce](https://github.com/ichochy/nce)（本项目基于其修改） | 原作者 [iChochy](https://ichochy.com) |
+| 课文音频（美音） | [letaibai/New-Concept-English](https://github.com/letaibai/New-Concept-English)，源自 [tangx/New-Concept-English](https://github.com/tangx/New-Concept-English) | 外语教学与研究出版社 |
+| 课文文本与字幕 | 上游 mleo.site 资源站 | 外语教学与研究出版社 |
+| 词汇数据（音标/释义） | [ECDICT](https://github.com/skywind3000/ECDICT) 开源词库 | 按 ECDICT 许可使用 |
+| **语法讲解 / 句型 / 扩展知识 / 练习题** | [ncego.com 夸克英语笔记](https://www.ncego.com/)（站长 Kowk 原创教学笔记） | **版权归 ncego.com 及原作者所有，本项目仅作个人学习参考引用** |
+
+- 语法讲解等教学笔记内容抓取自 [ncego.com](https://www.ncego.com/)，若原作者（Kowk）提出异议，将及时删除相关内容。联系：本仓库 Issues。
+- 《新概念英语》（New Concept English）教材及配套音频的版权归**外语教学与研究出版社**与**朗文出版公司**所有。
+
+#### 原作者署名
+
+- **播放器原作者**：iChochy  
   **Blog**：https://ichochy.com  
   **Email**：qim.dev@icloud.com  
   **GitHub**：https://github.com/ichochy/nce
-- 如有侵权，请联系 [qim.dev@icloud.com](mailto:qim.dev@icloud.com) 及时处理。
-- **强烈建议**支持正版，购买官方教材与音频。
+- 如有侵权，请联系 [qim.dev@icloud.com](mailto:qim.dev@icloud.com) 或本仓库 Issues 及时处理。

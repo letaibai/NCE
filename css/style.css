@@ -1138,6 +1138,17 @@ body.blur-translation .lyric-line:hover .lyric-text {
   border-radius: 6px;
 }
 
+.grammar-source {
+  margin: 4px 0 10px;
+  font-size: 11px;
+  color: var(--ink-3);
+  line-height: 1.5;
+}
+
+.grammar-source a {
+  color: inherit;
+}
+
 .vocab-translation {
   margin: 4px 0 0;
   font-size: 13px;

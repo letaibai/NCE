@@ -151,6 +151,7 @@ export class VocabView {
       section('💬 重点句型', data.sentences),
       section('🔍 扩展知识', data.expand),
       exercises,
+      `<p class="grammar-source">语法内容来源：<a href="https://www.ncego.com/" target="_blank" rel="noopener noreferrer">ncego.com 夸克英语笔记</a>，版权归原作者所有，仅供个人学习使用</p>`,
     ].filter(Boolean).join('');
 
     if (!html) {
