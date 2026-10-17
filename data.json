@@ -31,30 +31,6 @@
       "lrcPath": "books/NCE4",
       "audioNamer": "nce234",
       "catalogPath": "books/NCE4"
-    },
-    {
-      "key": "NCE1(85)",
-      "title": "NCE1 English Book(85)",
-      "path": "https://85.mleo.site/NCE1",
-      "lrcPath": "books/NCE1(85)"
-    },
-    {
-      "key": "NCE2(85)",
-      "title": "NCE2 English Book(85)",
-      "path": "https://85.mleo.site/NCE2",
-      "lrcPath": "books/NCE2(85)"
-    },
-    {
-      "key": "NCE3(85)",
-      "title": "NCE3 English Book(85)",
-      "path": "https://85.mleo.site/NCE3",
-      "lrcPath": "books/NCE3(85)"
-    },
-    {
-      "key": "NCE4(85)",
-      "title": "NCE4 English Book(85)",
-      "path": "https://85.mleo.site/NCE4",
-      "lrcPath": "books/NCE4(85)"
     }
   ]
 }
