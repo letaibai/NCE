@@ -134,7 +134,7 @@ your-book/
 | 词汇数据（音标/释义） | [ECDICT](https://github.com/skywind3000/ECDICT) 开源词库 | 按 ECDICT 许可使用 |
 | **语法讲解 / 句型 / 扩展知识 / 练习题** | [ncego.com 夸克英语笔记](https://www.ncego.com/)（站长 Kowk 原创教学笔记） | **版权归 ncego.com 及原作者所有，本项目仅作个人学习参考引用** |
 
-- 语法讲解等教学笔记内容抓取自 [ncego.com](https://www.ncego.com/)，若原作者（Kowk）提出异议，将及时删除相关内容。联系：本仓库 Issues。
+- 语法讲解等教学笔记内容抓取自 [ncego.com](https://www.ncego.com/)，若原作者（Kowk）提出异议，将及时删除相关内容。联系：[letaibai@gmail.com](mailto:letaibai@gmail.com)。
 - 《新概念英语》（New Concept English）教材及配套音频的版权归**外语教学与研究出版社**与**朗文出版公司**所有。
 
 #### 原作者署名
@@ -143,4 +143,4 @@ your-book/
   **Blog**：https://ichochy.com  
   **Email**：qim.dev@icloud.com  
   **GitHub**：https://github.com/ichochy/nce
-- 如有侵权，请联系 [qim.dev@icloud.com](mailto:qim.dev@icloud.com) 或本仓库 Issues 及时处理。
+- 如有侵权，请联系 [letaibai@gmail.com](mailto:letaibai@gmail.com) 及时处理。
