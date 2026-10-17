@@ -1,0 +1,380 @@
+[
+ {
+  "word": "clock",
+  "phonetic": "klɒk",
+  "translation": "n. 时钟, 计时器, (袜子上的)绣花边花\\nvt. 绣花样, 记时, 记录\\nvi. 记录时间\\n[计] 时钟",
+  "definition": "n. a timepiece that shows the time of day\\nv. measure the time or duration of an event or action or the person who performs an action in a certain period of time"
+ },
+ {
+  "word": "b",
+  "phonetic": "bi:",
+  "translation": "[计] 基地址, 数据库, 基极, 二进制, 块, 字组, 布尔, 总线, 占线, 字节\\n[医] 硼(5号元素)",
+  "definition": "n. the 2nd letter of the Roman alphabet\\nn. the blood group whose red cells carry the B antigen"
+ },
+ {
+  "word": "ben",
+  "phonetic": "ben",
+  "translation": "n. 内室\\n[医] 贝昂(俗名,一般指辣木Moringa oleifera,有时也指一些不同属的植物)",
+  "definition": "n. a mountain or tall hill"
+ },
+ {
+  "word": "big",
+  "phonetic": "big",
+  "translation": "a. 大的, 重要的\\nadv. 大量地",
+  "definition": "s. significant\\ns. loud and firm\\ns. conspicuous in position or importance\\ns. prodigious"
+ },
+ {
+  "word": "c",
+  "phonetic": "si:",
+  "translation": "[计] 调用, 访问, 呼叫, 电容, 进位, 通道, 字符, 清除, 常数, 控制, 周期\\n[化] 碳的化学符号; 胞苷",
+  "definition": "n. a general-purpose programing language closely associated with the UNIX operating system\\nn. (music) the keynote of the scale of C major\\nn. the 3rd letter of the Roman alphabet"
+ },
+ {
+  "word": "gone",
+  "phonetic": "gɒn",
+  "translation": "a. 离去的, 死去的, 用完的\\ngo的过去分词",
+  "definition": "s. no longer retained"
+ },
+ {
+  "word": "houses",
+  "phonetic": "'hauziz",
+  "translation": "n. 住宅；房子的总称；家园；洋房 （house的复数）",
+  "definition": "n a dwelling that serves as living quarters for one or more families\\nn the members of a business organization that owns or operates one or more establishments\\nn the members of a religious community living together\\nn the audience gathered together in a theatre or cinema\\nn an official assembly having legislative powers\\nn aristocratic family line\\nn play in which children take the roles of father or mother or children and pretend to interact like adults\\nn (astrology) one of 12 equal areas into which the zodiac is divided\\nn the management of a gambling house or casino\\nn a social unit living together\\nn a building where theatrical performances or motion-picture shows can be presented\\nn a building in which something is sheltered or located\\nv contain or cover\\nv provide housing for"
+ },
+ {
+  "word": "one",
+  "phonetic": "wʌn",
+  "translation": "n. 一(个)\\npron. 一, 任何人\\nnum. 一, 一个\\na. 一致的, 完整的",
+  "definition": "n. the smallest whole number or a numeral representing this number\\nn. a single person or thing\\ns. used of a single unit or thing; not two or more\\ns. having the indivisible character of a unit"
+ },
+ {
+  "word": "parliament",
+  "phonetic": "'pɑ:lәmәnt",
+  "translation": "n. 国会, 议会\\n[法] 会议, 国会, 议院",
+  "definition": "n. a legislative assembly in certain countries"
+ },
+ {
+  "word": "tower",
+  "phonetic": "'tauә",
+  "translation": "n. 塔, 高楼, 堡垒\\nvi. 高耸, 翱翔",
+  "definition": "n. a structure taller than its diameter; can stand alone or be attached to a larger building"
+ },
+ {
+  "word": "wrong",
+  "phonetic": "rɒŋ",
+  "translation": "a. 错误的, 不正当的, 失常的\\nadv. 错误地",
+  "definition": "n. that which is contrary to the principles of justice or law\\nn. any harm or injury resulting from a violation of a legal right\\nv. treat unjustly; do wrong to\\na. contrary to conscience or morality or law"
+ },
+ {
+  "word": "accurate",
+  "phonetic": "'ækjurәt",
+  "translation": "a. 正确的, 精确的\\n[经] 准确的, 精确的",
+  "definition": "a. conforming exactly or almost exactly to fact or to a standard or performing with total accuracy\\ns. (of ideas, images, representations, expressions) characterized by perfect conformity to fact or truth; strictly correct"
+ },
+ {
+  "word": "actually",
+  "phonetic": "'æktʃuәli",
+  "translation": "adv. 事实上, 竟然, 如今, 现在",
+  "definition": "r. in actual fact\\nr. used to imply that one would expect the fact to be the opposite of that stated; surprisingly\\nr. at the present moment\\nr. as a sentence modifier to add slight emphasis"
+ },
+ {
+  "word": "because",
+  "phonetic": "bi'kɒ:z",
+  "translation": "conj. 因为",
+  "definition": "conj. By or for the cause that; on this account that; for the\\n   reason that.\\nconj. In order that; that."
+ },
+ {
+  "word": "benjamin",
+  "phonetic": "'bendʒәmin",
+  "translation": "[医] 安息香",
+  "definition": "n. (Old Testament) the youngest and best-loved son of Jacob and Rachel and one of the twelve forebears of the tribes of Israel"
+ },
+ {
+  "word": "built",
+  "phonetic": "bilt",
+  "translation": "build的过去式和过去分词",
+  "definition": "s. (used of soaps or cleaning agents) having a substance (an abrasive or filler) added to increase effectiveness"
+ },
+ {
+  "word": "burned",
+  "phonetic": "",
+  "translation": "burn的过去式和过去分词\\n[机] 焦化",
+  "definition": "s. treated by heating to a high temperature but below the melting or fusing point\\ns. destroyed or badly damaged by fire\\ns. ruined by overcooking"
+ },
+ {
+  "word": "checked",
+  "phonetic": "tʃekt",
+  "translation": "a. 有格子图案的, 闭音节的, 选中的\\n[计] 选中的",
+  "definition": "s. patterned with alternating squares of color"
+ },
+ {
+  "word": "connected",
+  "phonetic": "kә'nektid",
+  "translation": "a. 连接的, 连贯的, 有联系的, 关联的, 连结的, 有关系的\\n[计] 连接的",
+  "definition": "a. joined or linked together\\ns. wired together to an alarm system\\ns. plugged in"
+ },
+ {
+  "word": "correct",
+  "phonetic": "kә'rekt",
+  "translation": "a. 正确的, 合适的\\nvt. 改正, 订正",
+  "definition": "v. make right or correct\\nv. treat a defect\\na. free from error; especially conforming to fact or truth\\ns. socially right or correct"
+ },
+ {
+  "word": "day",
+  "phonetic": "dei",
+  "translation": "n. 天, 日子, 白天, 工作日\\n[医] 日(一昼夜), 昼, 白天",
+  "definition": "n. time for Earth to make a complete rotation on its axis\\nn. some point or period in time\\nn. a day assigned to a particular purpose or observance\\nn. the time after sunrise and before sunset while it is light outside"
+ },
+ {
+  "word": "erected",
+  "phonetic": "iˈrektid",
+  "translation": "v. 使直立, 竖起( erect的过去式和过去分词 ); <正>建立",
+  "definition": "imp. & p. p. of Erect"
+ },
+ {
+  "word": "ever",
+  "phonetic": "'evә",
+  "translation": "adv. 曾经, 究竟, 永远",
+  "definition": "r. at any time\\nr. (intensifier for adjectives) very"
+ },
+ {
+  "word": "extremely",
+  "phonetic": "ik'stri:mli",
+  "translation": "adv. 极端地, 非常地",
+  "definition": "r. to an extreme degree"
+ },
+ {
+  "word": "failed",
+  "phonetic": "",
+  "translation": "a. 已失败的\\n[计] 失败的",
+  "definition": "v fail to do something; leave something undone\\nv be unsuccessful\\nv disappoint, prove undependable to; abandon, forsake\\nv stop operating or functioning\\nv be unable\\nv judge unacceptable\\nv fail to get a passing grade\\nv fall short in what is expected\\nv become bankrupt or insolvent; fail financially and close\\nv prove insufficient\\nv get worse"
+ },
+ {
+  "word": "famous",
+  "phonetic": "'feimәs",
+  "translation": "a. 出名的, 极好的",
+  "definition": "s widely known and esteemed"
+ },
+ {
+  "word": "first",
+  "phonetic": "fә:st",
+  "translation": "adv. 首先, 第一, 优先\\na. 第一的\\nnum. 第一\\nn. 开始, 第一",
+  "definition": "n. the first or highest in an ordering or series\\nn. the first element in a countable series\\nn. an honours degree of the highest class\\na. preceding all others in time or space or degree"
+ },
+ {
+  "word": "give",
+  "phonetic": "giv",
+  "translation": "n. 弹性, 适应性\\nvt. 给, 授予, 供给, 产生, 发表, 付出, 献出, 让出\\nvi. 捐赠, 支持不住, 让步",
+  "definition": "n. the elasticity of something that can be stretched and returns to its original length\\nv. cause to have, in the abstract sense or physical sense\\nv. transfer possession of something concrete or abstract to somebody\\nv. convey or reveal information"
+ },
+ {
+  "word": "great",
+  "phonetic": "greit",
+  "translation": "a. 大的, 非常的, 主要的, 重大的, 崇高的, 伟大的\\nadv. 顺利地, 得意地\\nn. 全部, 大人物, 大师",
+  "definition": "n. a person who has achieved distinction and honor in some field\\ns. relatively large in size or number or extent; larger than others of its kind\\ns. of major significance or importance\\ns. remarkable or out of the ordinary in degree or magnitude or effect"
+ },
+ {
+  "word": "greenwich",
+  "phonetic": "'grinidʒ",
+  "translation": "n. 格林威治",
+  "definition": "n. a borough of Greater London on the Thames; zero degrees of longitude runs through Greenwich; time is measured relative to Greenwich Mean Time"
+ },
+ {
+  "word": "hall",
+  "phonetic": "hɒ:l",
+  "translation": "n. 门厅, 走廊, 会堂",
+  "definition": "n. a large room for gatherings or entertainment\\nn. English writer whose novel about a lesbian relationship was banned in Britain for many years (1883-1943)\\nn. United States child psychologist whose theories of child psychology strongly influenced educational psychology (1844-1924)\\nn. United States chemist who developed an economical method of producing aluminum from bauxite (1863-1914)"
+ },
+ {
+  "word": "hands",
+  "phonetic": "",
+  "translation": "n. 拥有, 所有\\n[计] 动手",
+  "definition": "n. (with `in') guardianship over; in divorce cases it is the right to house and care for and discipline a child"
+ },
+ {
+  "word": "hear",
+  "phonetic": "hiә",
+  "translation": "vt. 听到, 倾听, 听说, 审理\\nvi. 听见, 听",
+  "definition": "v. perceive (sound) via the auditory sense\\nv. examine or hear (evidence or a case) by judicial process\\nv. receive a communication from someone"
+ },
+ {
+  "word": "heard",
+  "phonetic": "hә:d",
+  "translation": "hear的过去式和过去分词",
+  "definition": "s. detected or perceived by the sense of hearing"
+ },
+ {
+  "word": "however",
+  "phonetic": "hau'evә",
+  "translation": "adv. 然而, 无论如何, 究竟怎样\\nconj. 然而, 可是",
+  "definition": "r. despite anything to the contrary (usually following a concession)\\nr. by contrast; on the other hand; the second, however, took hours\"\\nr. to whatever degree or extent\\nr. in whatever way or manner"
+ },
+ {
+  "word": "hung",
+  "phonetic": "hʌŋ",
+  "translation": "hang的过去式和过去分词",
+  "definition": "v be suspended or hanging\\nv cause to be hanging or suspended\\nv kill by hanging\\nv let drop or droop\\nv fall or flow in a certain way\\nv be menacing, burdensome, or oppressive\\nv give heed (to)\\nv be suspended or poised\\nv hold on tightly or tenaciously\\nv be exhibited\\nv prevent from reaching a verdict, of a jury\\nv decorate or furnish with something suspended\\nv be placed in position as by a hinge\\nv place in position as by a hinge so as to allow free movement in one direction\\nv suspend (meat) in order to get a gamey taste"
+ },
+ {
+  "word": "immense",
+  "phonetic": "i'mens",
+  "translation": "a. 极广大的, 无边的, 非常好的",
+  "definition": "s unusually great in size or amount or degree or especially extent or scope"
+ },
+ {
+  "word": "london",
+  "phonetic": "'lʌndәn",
+  "translation": "n. 伦敦",
+  "definition": "n. the capital and largest city of England; located on the Thames in southeastern England; financial and industrial and cultural center\\nn. United States writer of novels based on experiences in the Klondike gold rush (1876-1916)"
+ },
+ {
+  "word": "making",
+  "phonetic": "'meikiŋ",
+  "translation": "n. 制造, (手工)制造业, 制作, 形成, 发展, 要素, 内在因素, 赚头, 制造物",
+  "definition": "n. (usually plural) the components needed for making or doing something"
+ },
+ {
+  "word": "microphones",
+  "phonetic": "'maɪkrəfəʊnz",
+  "translation": "n. 扩音器, 麦克风( microphone的复数形式 )",
+  "definition": "n. device for converting sound waves into electrical energy"
+ },
+ {
+  "word": "name",
+  "phonetic": "neim",
+  "translation": "n. 名字, 名称, 姓名, 名义, 名誉, 文件名\\nvt. 命名, 称呼, 任命, 提名, 列举\\na. 姓名的, 据以取名的\\n[计] 名称, 文件名, 姓名",
+  "definition": "n. a language unit by which a person or thing is known\\nn. a person's reputation\\nn. family based on male descent\\nn. a well-known or notable person"
+ },
+ {
+  "word": "never",
+  "phonetic": "'nevә",
+  "translation": "adv. 从不, 决不, 不曾\\n[法] 永不, 决不, 从来没有",
+  "definition": "r. not ever; at no time in the past or future\\nr. not at all; certainly not; not in any circumstances"
+ },
+ {
+  "word": "new",
+  "phonetic": "nju:",
+  "translation": "a. 新的, 陌生的, 最近的, 不熟悉的\\n[法] 新发现的, 新的, 重新开始的",
+  "definition": "a. not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered\\ns. having no previous example or precedent or parallel\\ns. other than the former one(s); different\\na. unaffected by use or exposure"
+ },
+ {
+  "word": "observatory",
+  "phonetic": "әb'zә:vәtәri",
+  "translation": "n. 天文台, 气象台, 了望台",
+  "definition": "n. a building designed and equipped to observe astronomical phenomena"
+ },
+ {
+  "word": "officials",
+  "phonetic": "ə'fɪʃls",
+  "translation": "n. 行政官员( official的复数形式 )",
+  "definition": "n. a worker who holds or is invested with an office\\nn. someone who administers the rules of a game or sport"
+ },
+ {
+  "word": "paint",
+  "phonetic": "peint",
+  "translation": "n. 油漆, 颜料, 绘画作品, 涂漆\\nvt. 油漆, 绘, 画, 描绘, 装饰, 点缀\\nvi. 绘画, 涂漆",
+  "definition": "n. a substance used as a coating to protect or decorate a surface (especially a mixture of pigment suspended in a liquid); dries to form a hard coating\\nv. make a painting\\nv. apply paint to; coat with paint\\nv. make a painting of"
+ },
+ {
+  "word": "painter",
+  "phonetic": "'peintә",
+  "translation": "n. 画家, 油漆匠\\n[机] 油漆匠, 喷漆匠",
+  "definition": "n. an artist who paints\\nn. a worker who is employed to cover objects with paint\\nn. a line that is attached to the bow of a boat and used for tying up (as when docking or towing)"
+ },
+ {
+  "word": "pot",
+  "phonetic": "pɒt",
+  "translation": "n. 盆, 罐, 壶, 坩埚, 奖杯\\nvt. 装入盆中, 在锅中煮, 随手射击\\nvi. 随手射击",
+  "definition": "n. metal or earthenware cooking vessel that is usually round and deep; often has a handle and lid\\nn. the quantity contained in a pot\\nn. a container in which plants are cultivated\\nn. the cumulative amount involved in a game (such as poker)"
+ },
+ {
+  "word": "rarely",
+  "phonetic": "'rєәli",
+  "translation": "adv. 很少地, 罕有地",
+  "definition": "r. not often"
+ },
+ {
+  "word": "responsible",
+  "phonetic": "ri'spɒnsәbl",
+  "translation": "a. 有责任的, 负责的, 责任重大的\\n[法] 应负责任的, 有责任的, 能履行责任的",
+  "definition": "a. worthy of or requiring responsibility or trust; or held accountable\\ns. being the agent or cause"
+ },
+ {
+  "word": "see",
+  "phonetic": "si:",
+  "translation": "vt. 看见, 查看, 参观, 游览, 理解, 知道, 同意\\nvi. 看, 观看, 注意, 知道, 考虑\\nn. 主教的职位",
+  "definition": "n. the seat within a bishop's diocese where his cathedral is located\\nv. perceive by sight or have the power to perceive by sight\\nv. deem to be\\nv. be careful or certain to do something; make certain of something"
+ },
+ {
+  "word": "sir",
+  "phonetic": "sә:",
+  "translation": "n. 先生, 阁下",
+  "definition": "n. term of address for a man\\nn. a title used before the name of knight or baronet"
+ },
+ {
+  "word": "size",
+  "phonetic": "saiz",
+  "translation": "n. 大小, 尺寸, 规模, 尺码, 能力, 浆料\\nvt. 上浆, 依大小排列\\nvi. 可比拟\\na. 一定大小的, 一定尺寸的",
+  "definition": "n. the physical magnitude of something (how big it is)\\nn. the property resulting from being one of a series of graduated measurements (as of clothing)\\nn. any glutinous material used to fill pores in surfaces or to stiffen fabrics\\nn. the actual state of affairs"
+ },
+ {
+  "word": "slowed",
+  "phonetic": "sləud",
+  "translation": "v. （使）缓行, （使）减速( slow的过去式和过去分词 )",
+  "definition": "imp. & p. p. of Slow"
+ },
+ {
+  "word": "striking",
+  "phonetic": "'straikiŋ",
+  "translation": "a. 醒目的, 惊人的, 打击的, 罢工的\\n[法] 罢工的, 罢市的, 罢课的",
+  "definition": "n the physical coming together of two or more things\\nn the act of contacting one thing with another\\nv deliver a sharp blow, as with the hand, fist, or weapon\\nv have an emotional or cognitive impact upon\\nv hit against; come into sudden contact with\\nv make a strategic, offensive, assault against an enemy, opponent, or a target\\nv indicate (a certain time) by striking\\nv affect or afflict suddenly, usually adversely\\nv stop work in order to press demands\\nv touch or seem as if touching visually or audibly\\nv attain\\nv produce by manipulating keys or strings of musical instruments, also metaphorically\\nv cause to form (an electric arc) between electrodes of an arc lamp\\nv find unexpectedly\\nv produce by ignition or a blow\\nv remove by erasing or crossing out or as if by drawing a line\\nv cause to experience suddenly\\nv drive something violently into a location\\nv occupy or take on\\nv form by stamping, punching, or printing\\nv smooth with a strickle\\nv pierce with force\\nv arrive at after reckoning, deliberating, and weighing\\ns sensational in appearance or thrilling in effect\\ns having a quality that thrusts itself into attention"
+ },
+ {
+  "word": "takes",
+  "phonetic": "",
+  "translation": "vt. 取走, 预备动作（take第三人称单数）",
+  "definition": "n the income or profit arising from such transactions as the sale of land or other property\\nn the act of photographing a scene or part of a scene without interruption\\nv carry out\\nv require (time or space)\\nv take somebody somewhere\\nv get into one's hands, take physically\\nv take on a certain form, attribute, or aspect\\nv interpret something in a certain way; convey a particular meaning or impression\\nv take something or somebody with oneself somewhere\\nv take into one's possession\\nv travel or go by means of a certain kind of transportation, or a certain route\\nv pick out, select, or choose from a number of alternatives\\nv receive willingly something given or offered\\nv assume, as of positions or roles\\nv take into consideration for exemplifying purposes\\nv require as useful, just, or proper\\nv experience or feel or submit to\\nv make a film or photograph of something\\nv remove something concrete, as by lifting, pushing, or taking off, or remove something abstract\\nv serve oneself to, or consume regularly\\nv accept or undergo, often unwillingly\\nv make use of or accept for some purpose\\nv take by force\\nv occupy or take on\\nv admit into a group or community\\nv ascertain or determine by measuring, computing or take a reading from a dial\\nv be a student of a certain subject\\nv take as an undesirable consequence of some event or state of affairs\\nv head into a specified direction\\nv point or cause to go (blows, weapons, or objects such as photographic equipment) towards\\nv be seized or affected in a specified way\\nv have with oneself; have on one's person\\nv engage for service under a term of contract\\nv receive or obtain regularly\\nv buy, select\\nv to get into a position of having, e.g., safety, comfort\\nv have sex with; archaic use\\nv lay claim to; as of an idea\\nv be designed to hold or take\\nv be capable of holding or containing\\nv develop a habit\\nv proceed along in a vehicle\\nv obtain by winning\\nv be stricken by an illness, fall victim to an illness"
+ },
+ {
+  "word": "things",
+  "phonetic": "",
+  "translation": "n. 所有物, 财产, 用具, 用品, 局面, 形势, 情况\\n[法] 物",
+  "definition": "n. any movable possession (especially articles of clothing)"
+ },
+ {
+  "word": "time",
+  "phonetic": "taim",
+  "translation": "n. 时间, 时侯, 时机, 时期, 期限, 次数, 节拍, 暂停, 规定时间\\nvt. 测定...的时间, 记录...的时间, 计时, 定时\\na. 时间的, 记时的, 定时的, 定期的, 分期的\\n[计] DOS内部命令:用于显示或设定系统的时间",
+  "definition": "n. an instance or single occasion for some event\\nn. a period of time considered as a resource under your control and sufficient to accomplish something\\nn. an indefinite period (usually marked by specific attributes or activities)\\nn. a suitable moment"
+ },
+ {
+  "word": "twice",
+  "phonetic": "twais",
+  "translation": "adv. 两次, 两倍",
+  "definition": "r. two times"
+ },
+ {
+  "word": "visit",
+  "phonetic": "'vizit",
+  "translation": "n. 拜访, 访问, 游览, 视察\\nvt. 拜访, 访问, 参观, 视察, 降临\\nvi. 访问, 参观, 闲谈",
+  "definition": "n. the act of going to see some person or place or thing for a short time\\nn. a meeting arranged by the visitor to see someone (such as a doctor or lawyer) for treatment or advice\\nn. the act of visiting in an official capacity (as for an inspection)\\nn. the act of going to see some person in a professional capacity"
+ },
+ {
+  "word": "well",
+  "phonetic": "wel",
+  "translation": "n. 井, 泉水, 源泉, 好\\nv. 涌出\\na. 健康的, 良好的, 适宜的, 恰当的\\nadv. 很好地, 适当地, 好意地, 很, 完全\\ninterj. 好啦",
+  "definition": "n. a deep hole or shaft dug or drilled to obtain water or oil or gas or brine\\nn. a cavity or vessel used to contain liquid\\nn. an abundant source\\nn. an open shaft through the floors of a building (as for a stairway)"
+ },
+ {
+  "word": "working",
+  "phonetic": "'wә:kiŋ",
+  "translation": "n. 工作, 运转, 劳动\\na. 工作的, 劳动的, 经营的, 抽搐的, 运转的",
+  "definition": "n. a mine or quarry that is being or has been worked\\ns. actively engaged in paid work\\ns. adequate for practical use; especially sufficient in strength or numbers to accomplish something\\ns. adopted as a temporary basis for further work"
+ },
+ {
+  "word": "world",
+  "phonetic": "wә:ld",
+  "translation": "n. 世界, 地球, 宇宙, 万物, 世人, 人间, 领域, 世事, 世故, 社会生活, 大量\\n[法] 世界, 地球, 世人",
+  "definition": "n. people in general; especially a distinctive group of people with some shared interest\\nn. all of your experiences that determine how things appear to you\\nn. a part of the earth that can be considered separately\\nn. all of the living human inhabitants of the earth"
+ }
+]

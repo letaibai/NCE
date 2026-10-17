@@ -1,0 +1,373 @@
+[
+ {
+  "word": "astra",
+  "phonetic": "",
+  "translation": "n. 阿斯特拉（英国伏克斯豪尔）；太阳白"
+ },
+ {
+  "word": "space",
+  "phonetic": "speis",
+  "translation": "n. 位置, 空间, 距离, 太空, 空白, 间隔, (期刊等的)篇幅\\nvt. 隔开, 分隔\\nvi. 留间隔\\n[计] 空白, 空格校验",
+  "definition": "n. the unlimited expanse in which everything is located\\nn. an empty area (usually bounded in some way between things)\\nn. an area reserved for some particular purpose\\nn. a blank character used to separate successive words in writing or printing"
+ },
+ {
+  "word": "spaceship",
+  "phonetic": "'speisʃip",
+  "translation": "n. 宇宙飞船",
+  "definition": "n a spacecraft designed to carry a crew into interstellar space (especially in science fiction)"
+ },
+ {
+  "word": "time",
+  "phonetic": "taim",
+  "translation": "n. 时间, 时侯, 时机, 时期, 期限, 次数, 节拍, 暂停, 规定时间\\nvt. 测定...的时间, 记录...的时间, 计时, 定时\\na. 时间的, 记时的, 定时的, 定期的, 分期的\\n[计] DOS内部命令:用于显示或设定系统的时间",
+  "definition": "n. an instance or single occasion for some event\\nn. a period of time considered as a resource under your control and sufficient to accomplish something\\nn. an indefinite period (usually marked by specific attributes or activities)\\nn. a suitable moment"
+ },
+ {
+  "word": "earth",
+  "phonetic": "ә:θ",
+  "translation": "n. 地球, 泥土, 世界, 尘世\\nvt. 埋入土中, 赶入洞内\\nvi. 躲入洞内",
+  "definition": "n. the 3rd planet from the sun; the planet we live on\\nn. the loose soft material that makes up a large part of the land surface\\nn. the abode of mortals (as contrasted with Heaven or Hell)\\nn. once thought to be one of four elements composing the universe (Empedocles)"
+ },
+ {
+  "word": "first",
+  "phonetic": "fә:st",
+  "translation": "adv. 首先, 第一, 优先\\na. 第一的\\nnum. 第一\\nn. 开始, 第一",
+  "definition": "n. the first or highest in an ordering or series\\nn. the first element in a countable series\\nn. an honours degree of the highest class\\na. preceding all others in time or space or degree"
+ },
+ {
+  "word": "future",
+  "phonetic": "'fju:tʃә",
+  "translation": "n. 未来, 将来\\na. 将来的, 未来的",
+  "definition": "n. the time yet to come\\nn. a verb tense that expresses actions or states in the future\\nn. bulk commodities bought or sold at an agreed price for delivery at a specified future date\\na. yet to be or coming"
+ },
+ {
+  "word": "message",
+  "phonetic": "'mesidʒ",
+  "translation": "n. 消息, 通讯, 讯息, 教训, 预言, 广告词\\nvt. 通知\\nvi. 通报, 报告, 报信\\n[计] 报文; 消息; 信息",
+  "definition": "n. a communication (usually brief) that is written or spoken or signaled\\nn. what a communication that is about something is about\\nv. send a message to\\nv. send as a message"
+ },
+ {
+  "word": "radio",
+  "phonetic": "'reidiәu",
+  "translation": "n. 无线电, 收音机, 无线电报, 无线电广播, 无线电台\\nv. 用无线电发送",
+  "definition": "n. medium for communication\\nn. a communication system based on broadcasting electromagnetic waves\\nv. transmit messages via radio waves\\na. indicating radiation or radioactivity"
+ },
+ {
+  "word": "received",
+  "phonetic": "ri'si:vd",
+  "translation": "a. 被一般承认的, 公认的",
+  "definition": "s. widely accepted as true or worthy; surveys show otherwise\"- Economist"
+ },
+ {
+  "word": "return",
+  "phonetic": "ri'tә:n",
+  "translation": "n. 回来, 返回, 来回票, 归还, 报答, 利润率, 报告书\\na. 返回的, 回程的, 报答的, 反向的, 重现的, 复原的\\nvi. 返回, 归还, 回来\\nvt. 归还, 还, 回报, 产生, 反射, 报告, 申报, 退回\\n[计] 返回",
+  "definition": "n. a coming to or returning home\\nn. the occurrence of a change in direction back in the opposite direction\\nn. the act of going back to a prior location\\nn. the income or profit arising from such transactions as the sale of land or other property"
+ },
+ {
+  "word": "short",
+  "phonetic": "ʃɒ:t",
+  "translation": "a. 短的, 近的, 矮的, 短期的, 简短的, 少量的\\nadv. 简短地, 突然\\nn. 扼要, 短片, 缺乏\\nvt. 故意少给, 使短路",
+  "definition": "n. the location on a baseball field where the shortstop is stationed\\na. primarily temporal sense; indicating or being or seeming to be limited in duration\\na. (primarily spatial sense) having little length or lacking in length\\na. low in stature; not tall"
+ },
+ {
+  "word": "ability",
+  "phonetic": "ә'biliti",
+  "translation": "n. 能力, 才干\\n[经] 能力, 才能",
+  "definition": "n. the quality of being able to perform; a quality that permits or facilitates achievement or accomplishment\\nn. possession of the qualities (especially mental qualities) required to do something or get something done"
+ },
+ {
+  "word": "ago",
+  "phonetic": "ә'gәu",
+  "translation": "adv. 以前",
+  "definition": "s. gone by; or in the past\\nr. in the past"
+ },
+ {
+  "word": "announced",
+  "phonetic": "",
+  "translation": "宣布的",
+  "definition": "s. declared publicly; made widely known"
+ },
+ {
+  "word": "arrive",
+  "phonetic": "ә'raiv",
+  "translation": "vi. 到达, 抵达",
+  "definition": "v. reach a destination; arrive by movement or progress\\nv. succeed in a big way; get to the top"
+ },
+ {
+  "word": "astronaut",
+  "phonetic": "'æstrәnɒ:t",
+  "translation": "n. 太空旅行者, 宇航员\\n[法] 美国太空人",
+  "definition": "n. a person trained to travel in a spacecraft"
+ },
+ {
+  "word": "astronauts",
+  "phonetic": "",
+  "translation": "n. 宇航员（astronaut的复数）",
+  "definition": "n a person trained to travel in a spacecraft"
+ },
+ {
+  "word": "attempt",
+  "phonetic": "ә'tempt",
+  "translation": "n. 尝试, 企图\\nvt. 尝试, 企图",
+  "definition": "n. earnest and conscientious activity intended to do or accomplish something"
+ },
+ {
+  "word": "certain",
+  "phonetic": "'sә:tәn",
+  "translation": "a. 确定的, 某一个的, 必然的\\n[法] 确凿的, 无疑的, 可靠的",
+  "definition": "s. definite but not specified or identified\\na. having or feeling no doubt or uncertainty; confident and assured\\na. established beyond doubt or question; definitely known\\na. certain to occur; destined or inevitable"
+ },
+ {
+  "word": "circled",
+  "phonetic": "ˈsə:kld",
+  "translation": " 均衡的",
+  "definition": "v travel around something\\nv move in circles\\nv form a circle around"
+ },
+ {
+  "word": "dangerous",
+  "phonetic": "'deindʒәrәs",
+  "translation": "a. 危险的\\n[法] 危险的, 危害的",
+  "definition": "a. involving or causing danger or risk; liable to hurt or harm\\ns. causing fear or anxiety by threatening great harm"
+ },
+ {
+  "word": "descend",
+  "phonetic": "di'send",
+  "translation": "vi. 下降, 世代相传, 屈尊, 袭击\\nvt. 下降",
+  "definition": "v. move downward and lower, but not necessarily all the way"
+ },
+ {
+  "word": "descent",
+  "phonetic": "di'sent",
+  "translation": "n. 降落, 家系, 侵袭, 血统\\n[医] 下降, 世代, 血统",
+  "definition": "n. a movement downward\\nn. the act of changing your location in a downward direction\\nn. the kinship relation between an individual and the individual's progenitors\\nn. a downward slope or bend"
+ },
+ {
+  "word": "discover",
+  "phonetic": "dis'kʌvә",
+  "translation": "vt. 发现, 找到, 暴露\\nvi. 发现",
+  "definition": "v. make a discovery, make a new finding\\nv. make a discovery\\nv. see for the first time; make a discovery"
+ },
+ {
+  "word": "distant",
+  "phonetic": "'distәnt",
+  "translation": "a. 远的, 疏远的\\n[经] 远期的",
+  "definition": "a. separated in space or coming from or going to a distance\\na. far apart in relevance or relationship or kinship\\ns. separate or apart in time\\ns. located far away spatially"
+ },
+ {
+  "word": "evening",
+  "phonetic": "'i:vniŋ",
+  "translation": "n. 傍晚, 晚间, 末期",
+  "definition": "n. the latter part of the day (the period of decreasing daylight from late afternoon until nightfall)\\nn. a later concluding time period\\nn. the early part of night (from dinner until bedtime) spent in a special way"
+ },
+ {
+  "word": "expected",
+  "phonetic": "",
+  "translation": "a. 预期的；预料的",
+  "definition": "a. considered likely or probable to happen or arrive"
+ },
+ {
+  "word": "experiment",
+  "phonetic": "ik'sperimәnt",
+  "translation": "n. 实验, 试验, 实验仪器\\nvi. 实验, 尝试",
+  "definition": "n. the act of conducting a controlled test or investigation\\nn. the testing of an idea\\nn. a venture at something new or different\\nv. to conduct a test or investigation"
+ },
+ {
+  "word": "flights",
+  "phonetic": "flaits",
+  "translation": "n. （物体的）飞行( flight的名词复数 ); 航班; 飞翔; 楼梯的一段",
+  "definition": "n a formation of aircraft in flight\\nn an instance of traveling by air\\nn a stairway (set of steps) between one floor or landing and the next\\nn the act of escaping physically\\nn an air force unit smaller than a squadron\\nn passing above and beyond ordinary bounds\\nn the path followed by an object moving through space\\nn a flock of flying birds\\nn a scheduled trip by plane between designated airports\\nv shoot a bird in flight\\nv fly in a flock\\nv decorate with feathers"
+ },
+ {
+  "word": "flying",
+  "phonetic": "'flaiiŋ",
+  "translation": "a. 飞的, 飘扬的, 飞速的\\nn. 飞行, 飞花",
+  "definition": "s. hurried and brief"
+ },
+ {
+  "word": "great",
+  "phonetic": "greit",
+  "translation": "a. 大的, 非常的, 主要的, 重大的, 崇高的, 伟大的\\nadv. 顺利地, 得意地\\nn. 全部, 大人物, 大师",
+  "definition": "n. a person who has achieved distinction and honor in some field\\ns. relatively large in size or number or extent; larger than others of its kind\\ns. of major significance or importance\\ns. remarkable or out of the ordinary in degree or magnitude or effect"
+ },
+ {
+  "word": "hours",
+  "phonetic": "",
+  "translation": "n. 小时（hour的复数形式）",
+  "definition": "n. a period of time assigned for work\\nn. an indefinite period of time"
+ },
+ {
+  "word": "immediately",
+  "phonetic": "i'mi:diәtli",
+  "translation": "adv. 直接地, 立刻, 立即",
+  "definition": "r. without delay or hesitation; with no time intervening\\nr. near or close by\\nr. bearing an immediate relation"
+ },
+ {
+  "word": "know",
+  "phonetic": "nәu",
+  "translation": "v. 知道, 了解, 认识, 确信",
+  "definition": "n. the fact of being aware of information that is known to few people\\nv. be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about\\nv. know how to do or perform something\\nv. be aware of the truth of something; have a belief or faith in something; regard as true beyond any doubt"
+ },
+ {
+  "word": "leave",
+  "phonetic": "li:v",
+  "translation": "n. 许可, 告别, 请假, 休假\\nvt. 离开, 剩下, 遗忘, 委托, 丢弃\\nvi. 出发, 离开, 生叶",
+  "definition": "n. the period of time during which you are absent from work or duty\\nn. permission to do something\\nv. go away from a place\\nv. go and leave behind, either intentionally or by neglect or forgetfulness"
+ },
+ {
+  "word": "left",
+  "phonetic": "left",
+  "translation": "a. 左边的, 左倾的, 左侧的, 左派的\\nadv. 在左面\\nn. 左, 左面, 左派\\nleave的过去式和过去分词",
+  "definition": "n. location near or direction toward the left side; i.e. the side to the north when a person or object faces east\\nn. those who support varying degrees of social or political or economic change designed to promote the public welfare\\nn. the hand that is on the left side of the body\\nn. a turn toward the side of the body that is on the north when the person is facing east"
+ },
+ {
+  "word": "many",
+  "phonetic": "'meni",
+  "translation": "n. 多数, 多数人\\na. 许多的\\npron. 许多",
+  "definition": "a. a quantifier that can be used with count nouns and is often preceded by `as' or `too' or `so' or `that'; amounting to a large but indefinite number"
+ },
+ {
+  "word": "messages",
+  "phonetic": "",
+  "translation": "n. 信息, 留言板（message的复数形式）",
+  "definition": "n a communication (usually brief) that is written or spoken or signaled\\nn what a communication that is about something is about\\nv send a message to\\nv send as a message\\nv send a message"
+ },
+ {
+  "word": "miles",
+  "phonetic": "",
+  "translation": "n. 英里（1英里约合1609米, mile的复数形式）",
+  "definition": "n a unit of length equal to 1,760 yards or 5,280 feet; exactly 1609.344 meters\\nn a unit of length used in navigation; exactly 1,852 meters; historically based on the distance spanned by one minute of arc in latitude\\nn a large distance\\nn a former British unit of length once used in navigation; equivalent to 6,000 feet (1828.8 meters)\\nn a former British unit of length equivalent to 6,080 feet (1,853.184 meters); 800 feet longer than a statute mile\\nn an ancient Roman unit of length equivalent to 1620 yards\\nn a Swedish unit of length equivalent to 10 km\\nn a footrace extending one mile"
+ },
+ {
+  "word": "necessary",
+  "phonetic": "'nesisәri",
+  "translation": "a. 必要的；必然的；必需的",
+  "definition": "a. absolutely essential\\ns. unavoidably determined by prior circumstances"
+ },
+ {
+  "word": "now",
+  "phonetic": "nau",
+  "translation": "adv. 现在, 刚才, 目前\\nn. 现在\\na. 现在的\\nconj. 由于",
+  "definition": "n. the momentary present\\nr. in the historical present; at this point in the narration of a series of past events\\nr. used to preface a command or reproof or request\\nr. at the present moment"
+ },
+ {
+  "word": "o'clock",
+  "phonetic": "ә'klɔk",
+  "translation": "n. ...点钟, 钟头",
+  "definition": "r. according to the clock"
+ },
+ {
+  "word": "passage",
+  "phonetic": "'pæsidʒ",
+  "translation": "n. 通道, 通过, 移居, 航行, 一段, 走廊\\nvi. 通过, 经过, 航行, 横渡, 争吵\\nvt. (使)马以斜横步前进, 使传代",
+  "definition": "n. the act of passing from one state or place to the next\\nn. a section of text; particularly a section of medium length\\nn. a way through or along which someone or something may pass\\nn. a journey usually by ship"
+ },
+ {
+  "word": "planets",
+  "phonetic": "p'lænɪts",
+  "translation": "n. 行星( planet的复数形式 ); 地球（尤指环境）",
+  "definition": "n. (astronomy) any of the nine large celestial bodies in the solar system that revolve around the sun and shine by reflected light; Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, and Pluto in order of their proximity to the sun; viewed from the constellation Hercules, all the planets rotate around the sun in a counterclockwise direction\\nn. a person who follows or serves another\\nn. any celestial body (other than comets or satellites) that revolves around a star"
+ },
+ {
+  "word": "point",
+  "phonetic": "pɒint",
+  "translation": "n. 点, 小数点, 标点, 地点, 要点, 特点, 尖端, 分数, 得分, 穴位\\nvt. 弄尖, 强调, 指出, 加标点于, 瞄准\\nvi. 指, 指向, 表明",
+  "definition": "n. a geometric element that has position but no extension\\nn. the precise location of something; a spatially limited location\\nn. a brief version of the essential meaning of something\\nn. an instant of time"
+ },
+ {
+  "word": "possible",
+  "phonetic": "'pɒsәbl",
+  "translation": "a. 可能的, 潜在的, 合适的\\nn. 可能性, 可能的事物",
+  "definition": "n. something that can be done\\nn. an applicant who might be suitable\\na. capable of happening or existing"
+ },
+ {
+  "word": "required",
+  "phonetic": "ri'kwaiәd",
+  "translation": "a. 必需的",
+  "definition": "v require as useful, just, or proper\\nv consider obligatory; request and expect\\nv make someone do something\\nv have need of\\ns necessary for relief or supply\\ns required by rule"
+ },
+ {
+  "word": "results",
+  "phonetic": "",
+  "translation": "n. 结果；成绩（result的复数）",
+  "definition": "n a phenomenon that follows and is caused by some previous phenomenon\\nn a statement that solves a problem or explains how to solve the problem\\nn something that results\\nn the semantic role of the noun phrase whose referent exists only by virtue of the activity denoted by the verb in the clause\\nv issue or terminate (in a specified way, state, etc.); end\\nv have as a result or residue\\nv come about or follow as a consequence"
+ },
+ {
+  "word": "scientists",
+  "phonetic": "'saɪəntɪsts",
+  "translation": "n. 科学家( scientist的名词复数 )",
+  "definition": "n a person with advanced knowledge of one or more sciences"
+ },
+ {
+  "word": "stationary",
+  "phonetic": "'steiʃ(ә)nәri",
+  "translation": "a. 不动的, 静止的, 不变的, 固定的, 停留的\\n[计] 定常, 定态, 固定的",
+  "definition": "s. standing still\\ns. not capable of being moved"
+ },
+ {
+  "word": "still",
+  "phonetic": "stil",
+  "translation": "n. 蒸馏室, 寂静, 剧照\\nv. 蒸馏, (使)平静, (使)静止\\na. 静止的, 不动的, 静寂的, 不起泡的, 静物摄影的\\nadv. 仍然, 更, 静止地\\nconj. 然而, 但是",
+  "definition": "n. a static photograph (especially one taken from a movie and used for advertising purposes)\\nn. an apparatus used for the distillation of liquids; consists of a vessel in which a substance is vaporized by heat and a condenser where the vapor is condensed\\nv. lessen the intensity of or calm\\nv. make motionless"
+ },
+ {
+  "word": "stop",
+  "phonetic": "stɒp",
+  "translation": "n. 停止, 车站, 逗留, 填塞, 障碍, (风琴的)音栓\\nvi. 停止, 被塞住\\nvt. 塞住, 堵塞, 阻止, 击落, 停止, 终止, 断绝",
+  "definition": "n. the event of something ending\\nn. the act of stopping something\\nn. a brief stay in the course of a journey\\nn. a spot where something halts or pauses"
+ },
+ {
+  "word": "successful",
+  "phonetic": "sәk'sesful",
+  "translation": "a. 成功的, 一帆风顺的, 顺利的\\n[经] 成功的",
+  "definition": "a. having succeeded or being marked by a favorable outcome"
+ },
+ {
+  "word": "through",
+  "phonetic": "θru:",
+  "translation": "adv. 穿越, 从头至尾, 到底, 因为\\nprep. 经过, 穿过\\na. 对穿的, 直达的, 完结的",
+  "definition": "s. (of a route or journey etc.) continuing without requiring stops or changes\\nr. from beginning to end\\nr. over the whole distance\\nr. to completion"
+ },
+ {
+  "word": "times",
+  "phonetic": "taimz",
+  "translation": "n. 时代, 境遇, 时报",
+  "definition": "n. a more or less definite period of time now or previously present"
+ },
+ {
+  "word": "travelling",
+  "phonetic": "'trævliŋ",
+  "translation": "a. 旅行的, 旅行用的, 移动的",
+  "definition": "n the act of going from one place to another\\nv change location; move, travel, or proceed, also metaphorically\\nv undertake a journey or trip\\nv make a trip for pleasure\\nv travel upon or across\\nv undergo transportation as in a vehicle\\nv travel from place to place, as for the purpose of finding work, preaching, or acting as a judge"
+ },
+ {
+  "word": "trip",
+  "phonetic": "trip",
+  "translation": "n. 旅行, 绊倒, 摔倒, 失足, 差错, 旅程\\nvt. 使跌倒, 使犯错, 使失败\\nvi. 轻快地走, 绊倒, 失误, 犯错, 结巴, 旅行, 远足",
+  "definition": "n. a journey for some purpose (usually including the return)\\nn. a hallucinatory experience induced by drugs\\nn. an exciting or stimulating experience\\nn. a light or nimble tread"
+ },
+ {
+  "word": "trying",
+  "phonetic": "'traiiŋ",
+  "translation": "a. 难受的, 难堪的\\n[法] 裁决, 审判, 审理; 使人痛苦的, 难堪的, 难处的",
+  "definition": "s. hard to endure"
+ },
+ {
+  "word": "until",
+  "phonetic": "әn'til",
+  "translation": "prep. 直到, 在...以前\\nconj. 直到...时, 在...以前",
+  "definition": "prep. To; unto; towards; -- used of material objects.\\nprep. To; up to; till; before; -- used of time; as, he staid\\n   until evening; he will not come back until the end of the month.\\nconj. As far as; to the place or degree that; especially, up to\\n   the time that; till. See Till, conj."
+ },
+ {
+  "word": "whether",
+  "phonetic": "'hweðә",
+  "translation": "conj. 是否, 不论\\npron. 两个中的哪一个",
+  "definition": "pron. Which (of two); which one (of two); -- used\\n   interrogatively and relatively.\\nconj. In case; if; -- used to introduce the first or two or\\n   more alternative clauses, the other or others being connected by or, or\\n   by or whether. When the second of two alternatives is the simple\\n   negative of the first it is sometimes only indicated by the particle\\n   not or no after the correlative, and sometimes it is omitted entirely\\n   as being distinctly implied in the whether of the first."
+ },
+ {
+  "word": "while",
+  "phonetic": "hwail",
+  "translation": "n. 一会儿, (一段)时间\\nconj. 当...的时候, 虽然\\nvt. 消磨",
+  "definition": "n. a period of indeterminate length (usually short) marked by some action or condition"
+ }
+]

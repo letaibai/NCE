@@ -1,0 +1,564 @@
+[
+ {
+  "word": "customer",
+  "phonetic": "'kʌstәmә",
+  "translation": "n. 消费者\\n[化] 顾客",
+  "definition": "n. someone who pays for goods or services"
+ },
+ {
+  "word": "bank",
+  "phonetic": "bæŋk",
+  "translation": "n. 银行, 堤, 岸\\n[医] 库",
+  "definition": "n. sloping land (especially the slope beside a body of water)\\nn. a long ridge or pile\\nn. an arrangement of similar objects in a row or in tiers\\nn. a supply or stock held in reserve for future use (especially in emergencies)"
+ },
+ {
+  "word": "account",
+  "phonetic": "ә'kaunt",
+  "translation": "n. 报告, 解释, 估价, 理由, 利润, 算账, 帐目\\nvi. 报帐, 解释, 导致, 报偿, 占, 杀死\\nvt. 认为\\n[计] 帐户, 帐号",
+  "definition": "n. a formal contractual relationship established to provide for regular banking or brokerage or business services\\nn. importance or value\\nn. a statement of recent transactions and the resulting balance\\nn. the quality of taking advantage"
+ },
+ {
+  "word": "signature",
+  "phonetic": "'signәtʃә",
+  "translation": "n. 签字, 识别标志, 调号\\n[计] 签名附件",
+  "definition": "n. your name written in your own handwriting\\nn. a melody used to identify a performer or a dance band or radio/tv program\\nn. a sheet with several pages printed on it; it folds to page size and is bound with other signatures to form a book"
+ },
+ {
+  "word": "another",
+  "phonetic": "ә'nʌðә",
+  "translation": "a. 另外的, 再一的, 不同的\\npron. 又一个, 另一个, 类似的另一个",
+  "definition": "s. any of various alternatives; some other"
+ },
+ {
+  "word": "anyone",
+  "phonetic": "'eniwʌn",
+  "translation": "pron. 任何人",
+  "definition": "n. One taken at random rather than by selection; anybody.\\n   [Commonly written as two words.]"
+ },
+ {
+  "word": "check",
+  "phonetic": "tʃek",
+  "translation": "n. 检查, 支票, 阻止物, 寄物牌, 象棋中将军\\nvt. 检查, 阻止, 核对, 寄存, 托运\\nvi. 逐项相符, 开支票\\n[计] 复选",
+  "definition": "n. a written order directing a bank to pay money\\nn. the bill in a restaurant\\nn. the act of inspecting or verifying\\nn. a mark left after a small piece has been chopped or broken off of something"
+ },
+ {
+  "word": "checks",
+  "phonetic": "",
+  "translation": "n. 支票；格（check的复数形式）",
+  "definition": "n a written order directing a bank to pay money\\nn an appraisal of the state of affairs\\nn the bill in a restaurant\\nn the state of inactivity following an interruption\\nn additional proof that something that was believed (some fact or hypothesis or theory) is correct\\nn the act of inspecting or verifying\\nn a mark indicating that something has been noted or completed etc.\\nn something immaterial that interferes with or delays action or progress\\nn a mark left after a small piece has been chopped or broken off of something\\nn a textile pattern of squares or crossed lines (resembling a checkerboard)\\nn the act of restraining power or action or limiting excess\\nn obstructing an opponent in ice hockey\\nn (chess) a direct attack on an opponent's king\\nv examine so as to determine accuracy, quality, or condition\\nv make an examination or investigation\\nv be careful or certain to do something; make certain of something\\nv lessen the intensity of; temper; hold in restraint; hold or keep within limits\\nv stop for a moment, as if out of uncertainty or caution\\nv put a check mark on or near or next to\\nv slow the growth or development of\\nv be verified or confirmed; pass inspection\\nv be compatible, similar or consistent; coincide in their characteristics\\nv block or impede (a player from the opposing team) in ice hockey\\nv develop (children's) behavior by instruction and practice; especially to teach self-control\\nv consign for shipment on a vehicle\\nv hand over something to somebody as for temporary safekeeping\\nv abandon the intended prey, turn, and pursue an inferior prey\\nv stop in a chase especially when scent is lost\\nv mark into squares or draw squares on; draw crossed lines on\\nv decline to initiate betting\\nv hold back, as of a danger or an enemy; check the expansion or influence of\\nv place into check\\nv write out a check on a bank account\\nv find out, learn, or determine with certainty, usually by making an inquiry or other effort\\nv verify by consulting a source or authority\\nv arrest the motion (of something) abruptly\\nv make cracks or chinks in\\nv become fractured; break or crack on the surface only"
+ },
+ {
+  "word": "forgery",
+  "phonetic": "'fɒ:dʒәri",
+  "translation": "n. 伪造, 伪造罪, 伪造物\\n[经] 伪造签字, 伪造品",
+  "definition": "n. criminal falsification by making or altering an instrument with intent to defraud"
+ },
+ {
+  "word": "law",
+  "phonetic": "lɒ:",
+  "translation": "n. 法律, 法则, 定律, 法律的制约, 法学, 司法界, 诉讼\\nv. 起诉",
+  "definition": "n. the collection of rules imposed by authority\\nn. legal document setting forth rules governing a particular kind of activity\\nn. a rule or body of rules of conduct inherent in human nature and essential to or binding upon human society\\nn. a generalization that describes recurring facts or events in nature"
+ },
+ {
+  "word": "money",
+  "phonetic": "'mʌni",
+  "translation": "n. 金钱, 一笔款, 财富, 货币, 金额\\n[经] 货币, 金钱, 财产",
+  "definition": "n. the most common medium of exchange; functions as legal tender\\nn. wealth reckoned in terms of money\\nn. the official currency issued by a government or national bank"
+ },
+ {
+  "word": "obligations",
+  "phonetic": "",
+  "translation": "n. 义务；债务；承付款项（obligation的复数）",
+  "definition": "n the social force that binds you to the courses of action demanded by that force; every opportunity, an obligation; every possession, a duty\"- John D.Rockefeller Jr\\nn the state of being obligated to do or pay something\\nn a personal relation in which one is indebted for a service or favor\\nn a written promise to repay a debt\\nn a legal agreement specifying a payment or action and the penalty for failure to comply"
+ },
+ {
+  "word": "one",
+  "phonetic": "wʌn",
+  "translation": "n. 一(个)\\npron. 一, 任何人\\nnum. 一, 一个\\na. 一致的, 完整的",
+  "definition": "n. the smallest whole number or a numeral representing this number\\nn. a single person or thing\\ns. used of a single unit or thing; not two or more\\ns. having the indivisible character of a unit"
+ },
+ {
+  "word": "opens",
+  "phonetic": "",
+  "translation": "n. 打开；公开赛事；旷野（open的复数形式）",
+  "definition": "n a clear or unobstructed space or expanse of land or water\\nn where the air is unconfined\\nn a tournament in which both professionals and amateurs may play\\nn information that has become public\\nv cause to open or to become open\\nv start to operate or function or cause to start operating or functioning\\nv become open\\nv begin or set in action, of meetings, speeches, recitals, etc.\\nv spread out or open from a closed or folded state\\nv make available\\nv become available\\nv have an opening or passage or outlet\\nv make the opening move\\nv afford access to\\nv display the contents of a file or start an application as on a computer"
+ },
+ {
+  "word": "addition",
+  "phonetic": "ә'diʃәn",
+  "translation": "n. 加法, 增加的人(或物)\\n[计] 加法",
+  "definition": "n. a component that is added to something to improve it\\nn. the act of adding one thing to another\\nn. a quantity that is added\\nn. a suburban area laid out in streets and lots for a future residential area"
+ },
+ {
+  "word": "adopted",
+  "phonetic": "ә'dɒptid",
+  "translation": "a. 被收养的, 被采用的",
+  "definition": "a. acquired as your own by free choice"
+ },
+ {
+  "word": "against",
+  "phonetic": "ә'geinst",
+  "translation": "prep. 反对, 对着, 倚靠",
+  "definition": "prep. Abreast; opposite to; facing; towards; as, against the\\n   mouth of a river; -- in this sense often preceded by over.\\nprep. From an opposite direction so as to strike or come in\\n   contact with; in contact with; upon; as, hail beats against the roof.\\nprep. In opposition to, whether the opposition is of\\n   sentiment or of action; on the other side; counter to; in contrariety\\n   to; hence, adverse to; as, against reason; against law; to run a race\\n   against time.\\nprep. By of before the time that; in preparation for; so as\\n   to be ready for the time when."
+ },
+ {
+  "word": "aubrey",
+  "phonetic": "'ɔ:bri",
+  "translation": "n. 奥布里(m.)"
+ },
+ {
+  "word": "authority",
+  "phonetic": "ɒ:'θɒriti",
+  "translation": "n. 权力, 当权者, 当局, 权威, 专家\\n[经] 代理权, 授权, 权威",
+  "definition": "n. the power or right to give orders or make decisions\\nn. (usually plural) persons who exercise (administrative) control over others\\nn. an expert whose views are taken as definitive\\nn. official permission or approval"
+ },
+ {
+  "word": "bank",
+  "phonetic": "bæŋk",
+  "translation": "n. 银行, 堤, 岸\\n[医] 库",
+  "definition": "n. sloping land (especially the slope beside a body of water)\\nn. a long ridge or pile\\nn. an arrangement of similar objects in a row or in tiers\\nn. a supply or stock held in reserve for future use (especially in emergencies)"
+ },
+ {
+  "word": "banks",
+  "phonetic": "bæŋks",
+  "translation": "n. 银行；斜床；岸, 堤（bank的复数形式）",
+  "definition": "n. English botanist who accompanied Captain Cook on his first voyage to the Pacific Ocean (1743-1820)"
+ },
+ {
+  "word": "basic",
+  "phonetic": "'beisik",
+  "translation": "n. 基本原理, 要素, 基本规律\\na. 基本的, 碱性的\\n(计算机)BASIC语言",
+  "definition": "n. a popular programming language that is relatively easy to learn; an acronym for beginner's all-purpose symbolic instruction code; no longer in general use\\nn. (usually plural) a necessary commodity for which demand is constant\\na. pertaining to or constituting a base or basis\\ns. reduced to the simplest and most significant form possible without loss of generality"
+ },
+ {
+  "word": "buyer",
+  "phonetic": "'baiә",
+  "translation": "n. 买主, 买方\\n[经] 买主, 买方, 买手",
+  "definition": "n. a person who buys"
+ },
+ {
+  "word": "cannot",
+  "phonetic": "'kænɒt",
+  "translation": "aux. 无法, 不能",
+  "definition": " Am, is, or are, not able; -- written either as one word or\\n   two."
+ },
+ {
+  "word": "cash",
+  "phonetic": "kæʃ",
+  "translation": "n. 现金\\nvt. 兑现",
+  "definition": "n. money in the form of bills or coins\\nn. prompt payment for goods or services in currency or by check\\nn. United States country music singer and songwriter (1932-2003)\\nv. exchange for cash"
+ },
+ {
+  "word": "complain",
+  "phonetic": "kәm'plein",
+  "translation": "v. 抱怨, 抗议, 控诉",
+  "definition": "v. express complaints, discontent, displeasure, or unhappiness\\nv. make a formal accusation; bring a formal charge"
+ },
+ {
+  "word": "complications",
+  "phonetic": "",
+  "translation": "n. 并病；并发症（complication的复数）",
+  "definition": "n the act or process of complicating\\nn a situation or condition that is complex or confused\\nn any disease or disorder that occurs during the course of (or because of) another disease\\nn a development that complicates a situation\\nn puzzling complexity"
+ },
+ {
+  "word": "concept",
+  "phonetic": "'kɒnsept",
+  "translation": "n. 观念, 概念\\n[医] 概念",
+  "definition": "n. an abstract or general idea inferred or derived from specific instances"
+ },
+ {
+  "word": "consumer",
+  "phonetic": "kәn'sju:mә",
+  "translation": "n. 消费者\\n[经] 消费者, 用户",
+  "definition": "n. a person who uses goods or services"
+ },
+ {
+  "word": "credit",
+  "phonetic": "'kredit",
+  "translation": "n. 信用, 信任, 荣誉, 贷款, 学分\\nvt. 归功于, 赞颂, 信任, 相信\\n[计] 信用量",
+  "definition": "n. money available for a client to borrow\\nn. an accounting entry acknowledging income or capital items\\nn. used in the phrase `to your credit' in order to indicate an achievement deserving praise; \\nn. arrangement for deferred payment for goods and services"
+ },
+ {
+  "word": "creditor",
+  "phonetic": "'kreditә",
+  "translation": "n. 债权人\\n[法] 债权人, 债主, 贷方",
+  "definition": "n. a person to whom money is owed by a debtor; someone to whom an obligation exists"
+ },
+ {
+  "word": "current",
+  "phonetic": "'kʌrәnt",
+  "translation": "n. 涌流, 趋势, 流\\na. 流通的, 现在的, 当前的, 流行的\\n[计] 当前的",
+  "definition": "n. a flow of electricity through a conductor\\nn. a steady flow of a fluid (usually from natural causes)\\na. occurring in or belonging to the present time"
+ },
+ {
+  "word": "debit",
+  "phonetic": "'debit",
+  "translation": "n. 借方, 借\\nvt. 记入借方",
+  "definition": "n. an accounting entry acknowledging sums that are owing\\nv. enter as debit"
+ },
+ {
+  "word": "debtor",
+  "phonetic": "'detә",
+  "translation": "n. 债务人, 借主, 借方\\n[法] 负债者, 债务人, 借方",
+  "definition": "n. a person who owes a creditor; someone who has the obligation of paying a debt"
+ },
+ {
+  "word": "demand",
+  "phonetic": "di'mɑ:nd",
+  "translation": "n. 要求, 需求, 需要\\nv. 要求, 查询",
+  "definition": "n. an urgent or peremptory request\\nn. the ability and desire to purchase goods and services\\nn. the act of demanding\\nv. request urgently and forcefully"
+ },
+ {
+  "word": "depending",
+  "phonetic": "",
+  "translation": "[计] 依赖",
+  "definition": "v be contingent upon (something that is elided)\\nv have faith or confidence in"
+ },
+ {
+  "word": "diamond",
+  "phonetic": "'daiәmәnd",
+  "translation": "n. 钻石, 菱形\\n[计] 菱形",
+  "definition": "n. a transparent piece of diamond that has been cut and polished and is valued as a precious gem\\nn. very hard native crystalline carbon valued as a gem\\nn. a playing card in the minor suit that has one or more red rhombuses on it"
+ },
+ {
+  "word": "difference",
+  "phonetic": "'difәrәns",
+  "translation": "n. 不同, 差异\\n[计] 差分",
+  "definition": "n. the quality of being unlike or dissimilar\\nn. a significant change"
+ },
+ {
+  "word": "drawing",
+  "phonetic": "'drɒ:iŋ",
+  "translation": "n. 图画, 制图, 拉\\n[计] 绘图",
+  "definition": "n. an illustration that is drawn by hand and published in a book, magazine, or newspaper\\nn. a representation of forms or objects on a surface by means of lines\\nn. the creation of artistic pictures or diagrams\\nn. act of getting or draining something such as electricity or a liquid from a source"
+ },
+ {
+  "word": "drawn",
+  "phonetic": "drɒ:n",
+  "translation": "a. 拔出的\\ndraw的过去分词",
+  "definition": "s. having the curtains or draperies closed or pulled shut"
+ },
+ {
+  "word": "either",
+  "phonetic": "'i:ðә",
+  "translation": "a. (两者之中)任一的, (两者之中)各一的\\npron. (两者之中)任一\\nconj. 或, 要么",
+  "definition": "r. after a negative statement used as an intensive meaning something like `likewise' or `also'"
+ },
+ {
+  "word": "else",
+  "phonetic": "els",
+  "translation": "a. 别的, 其他的\\nadv. 另外, 否则, 不然",
+  "definition": "a. & pron. Other; one or something beside; as, Who else is\\n   coming? What else shall I give? Do you expect anything else?\\nadv. & conj. Besides; except that mentioned; in addition; as,\\n   nowhere else; no one else.\\nadv. & conj. Otherwise; in the other, or the contrary, case; if\\n   the facts were different."
+ },
+ {
+  "word": "example",
+  "phonetic": "ig'zæmpl",
+  "translation": "n. 例子, 样本, 实例\\n[化] 实例",
+  "definition": "n. an item of information that is typical of a class or group\\nn. punishment intended as a warning to others"
+ },
+ {
+  "word": "facilitates",
+  "phonetic": "fəˈsiliteits",
+  "translation": "v. 促进( facilitate的第三人称单数 ); 使便利; 推进; 帮助（某人）进步",
+  "definition": "v make easier\\nv be of use\\nv increase the likelihood of (a response)"
+ },
+ {
+  "word": "favor",
+  "phonetic": "'feivә",
+  "translation": "n. 好意, 喜爱\\nvt. 赐予, 支持, 喜欢, 证实",
+  "definition": "n. an act of gracious kindness\\nn. an advantage to the benefit of someone or something\\nn. an inclination to approve"
+ },
+ {
+  "word": "firm",
+  "phonetic": "fә:m",
+  "translation": "n. 公司, 商号\\na. 坚定的, 坚强的, 牢固的, 结实的, 坚硬的, 坚挺的, 严格的, 确定的\\nvt. 使牢固, 使坚定\\nvi. 变稳固, 变坚实\\nadv. 稳固地",
+  "definition": "n. the members of a business organization that owns or operates one or more establishments\\ns. marked by firm determination or resolution; not shakable\\ns. not soft or yielding to pressure\\ns. strong and sure"
+ },
+ {
+  "word": "first",
+  "phonetic": "fә:st",
+  "translation": "adv. 首先, 第一, 优先\\na. 第一的\\nnum. 第一\\nn. 开始, 第一",
+  "definition": "n. the first or highest in an ordering or series\\nn. the first element in a countable series\\nn. an honours degree of the highest class\\na. preceding all others in time or space or degree"
+ },
+ {
+  "word": "forged",
+  "phonetic": "",
+  "translation": "a. 锻的；锻造的",
+  "definition": "v create by hammering\\nv make a copy of with the intent to deceive\\nv come up with (an idea, plan, explanation, theory, or principle) after a mental effort\\nv move ahead steadily\\nv move or act with a sudden increase in speed or energy\\nv make something, usually for a specific function\\nv make out of components (often in an improvising manner)\\ns reproduced fraudulently"
+ },
+ {
+  "word": "give",
+  "phonetic": "giv",
+  "translation": "n. 弹性, 适应性\\nvt. 给, 授予, 供给, 产生, 发表, 付出, 献出, 让出\\nvi. 捐赠, 支持不住, 让步",
+  "definition": "n. the elasticity of something that can be stretched and returns to its original length\\nv. cause to have, in the abstract sense or physical sense\\nv. transfer possession of something concrete or abstract to somebody\\nv. convey or reveal information"
+ },
+ {
+  "word": "gives",
+  "phonetic": "",
+  "translation": "n. 付出；弯曲；内幕消息（give的复数）",
+  "definition": "n the elasticity of something that can be stretched and returns to its original length\\nv cause to have, in the abstract sense or physical sense\\nv be the cause or source of\\nv transfer possession of something concrete or abstract to somebody\\nv convey or reveal information\\nv convey, as of a compliment, regards, attention, etc.; bestow\\nv organize or be responsible for\\nv convey or communicate; of a smile, a look, a physical gesture\\nv give as a present; make a gift of\\nv cause to happen or be responsible for\\nv dedicate\\nv give or supply\\nv transmit (knowledge or skills)\\nv bring about\\nv leave with; give temporarily\\nv emit or utter\\nv endure the loss of\\nv place into the hands or custody of\\nv give entirely to a specific person, activity, or cause\\nv give (as medicine)\\nv give or convey physically\\nv bestow\\nv bestow, especially officially\\nv move in order to make room for someone for something\\nv give food to\\nv contribute to some cause\\nv break down, literally or metaphorically\\nv estimate the duration or outcome of something\\nv execute and deliver\\nv deliver in exchange or recompense\\nv afford access to\\nv present to view\\nv perform for an audience\\nv be flexible under stress of physical force\\nv propose\\nv accord by verdict\\nv manifest or show\\nv offer in good faith\\nv submit for consideration, judgment, or use\\nv guide or direct, as by behavior of persuasion\\nv allow to have or take\\nv inflict as a punishment\\nv occur\\nv consent to engage in sexual intercourse with a man\\nv proffer (a body part)"
+ },
+ {
+  "word": "goods",
+  "phonetic": "guds",
+  "translation": "n. 货物\\n[经] 货物, 商品, 动产",
+  "definition": "n benefit\\nn moral excellence or admirableness\\nn that which is pleasing or valuable or useful\\nn articles of commerce"
+ },
+ {
+  "word": "gordon",
+  "phonetic": "'^ɔ:dn",
+  "translation": "[计] 哥尔丹"
+ },
+ {
+  "word": "he",
+  "phonetic": "hi:",
+  "translation": "pron. 他\\nn. 男孩, 男人, 雄性动物",
+  "definition": "n. the 5th letter of the Hebrew alphabet"
+ },
+ {
+  "word": "himself",
+  "phonetic": "him'self",
+  "translation": "pron. 他自己, 他亲自",
+  "definition": "pron. An emphasized form of the third person masculine\\n   pronoun; -- used as a subject usually with he; as, he himself will bear\\n   the blame; used alone in the predicate, either in the nominative or\\n   objective case; as, it is himself who saved himself.\\npron. One's true or real character; one's natural temper and\\n   disposition; the state of being in one's right or sane mind (after\\n   unconsciousness, passion, delirium, or abasement); as, the man has come\\n   to himself.\\npron. pl. Alt. of Himselven"
+ },
+ {
+  "word": "instructions",
+  "phonetic": "",
+  "translation": "n. 指令；说明（instruction的复数形式）",
+  "definition": "n a manual usually accompanying a technical device and explaining how to install or operate it\\nn a message describing how something is to be done\\nn the activities of educating or instructing; activities that impart knowledge or skill\\nn the profession of a teacher\\nn (computer science) a line of code written as part of a computer program"
+ },
+ {
+  "word": "instructs",
+  "phonetic": "inˈstrʌkts",
+  "translation": "v. 教( instruct的第三人称单数 ); 通知; 教授; 命令",
+  "definition": "v impart skills or knowledge to\\nv give instructions or directions for some task\\nv make aware of"
+ },
+ {
+  "word": "l",
+  "phonetic": "el",
+  "translation": "n. 见习驾驶员\\n[计] 电感, 标记, 语言, 负载, 局部, 线路",
+  "definition": "n. the 12th letter of the Roman alphabet"
+ },
+ {
+  "word": "large",
+  "phonetic": "lɑ:dʒ",
+  "translation": "a. 大的, 大量的, 宽大的, 广博的\\nadv. 大大地, 夸大地",
+  "definition": "n. a garment size for a large person\\na. above average in size or number or quantity or magnitude or extent\\ns. fairly large or important in effect; influential\\ns. having broad power and range and scope"
+ },
+ {
+  "word": "lending",
+  "phonetic": "'lendiŋ",
+  "translation": "n. 出借, 出借物\\na. 出借",
+  "definition": "n. disposing of money or property with the expectation that the same thing (or an equivalent) will be returned"
+ },
+ {
+  "word": "loaded",
+  "phonetic": "'lәudid",
+  "translation": "a. 有负载的, 有含蓄的, 加重的, 不公正的, 偏袒的, 喝醉了的, 富有的\\n[计] 有负载的",
+  "definition": "a. (of weapons) charged with ammunition\\ns. (of statements or questions) charged with associative significance and often meant to mislead or influence"
+ },
+ {
+  "word": "lose",
+  "phonetic": "lu:z",
+  "translation": "vt. 遗失, 损失, 丢失, 使失去, 错过, 浪费, 迷失, 使迷路, 输去, 使沉溺于\\nvi. 受损失, 失败",
+  "definition": "v. fail to keep or to maintain; cease to have, either physically or in an abstract sense\\nv. fail to win\\nv. suffer the loss of a person through death or removal\\nv. miss from one's possessions; lose sight of"
+ },
+ {
+  "word": "makes",
+  "phonetic": "",
+  "translation": "v. 做, 制作（make的第三人称单数）",
+  "definition": "n a recognizable kind\\nn the act of mixing cards haphazardly\\nv engage in\\nv give certain properties to something\\nv make or cause to be or to become\\nv cause to do; cause to act in a specified manner\\nv give rise to; cause to happen or occur, not always intentionally\\nv create or manufacture a man-made product\\nv make, formulate, or derive in the mind\\nv compel or make somebody or something to act in a certain way\\nv create by artistic means\\nv earn on some commercial or business transaction; earn as salary or wages\\nv create or design, often in a certain way\\nv to compose or represent:\"This wall forms the background of the stage setting\"\\nv reach a goal, e.g., \"make the first team\"\\nv be or be capable of being changed or made into\\nv make by shaping or bringing together constituents\\nv perform or carry out\\nv make by combining materials and parts\\nv change from one form into another\\nv act in a certain way so as to acquire\\nv charge with a function; charge to be\\nv achieve a point or goal\\nv reach a destination, either real or abstract\\nv institute, enact, or establish\\nv carry out or commit\\nv form by assembling individuals or constituents\\nv organize or be responsible for\\nv put in order or neaten\\nv head into a specified direction\\nv have a bowel movement\\nv undergo fabrication or creation\\nv be suitable for\\nv add up to\\nv amount to\\nv constitute the essence of\\nv appear to begin an activity\\nv proceed along a path\\nv reach in time\\nv gather and light the materials for\\nv prepare for eating by applying heat\\nv induce to have sex\\nv assure the success of\\nv represent fictitiously, as in a play, or pretend to be or act like\\nv consider as being\\nv calculate as being\\nv cause to be enjoyable or pleasurable\\nv favor the development of\\nv develop into\\nv behave in a certain way\\nv eliminate urine"
+ },
+ {
+  "word": "many",
+  "phonetic": "'meni",
+  "translation": "n. 多数, 多数人\\na. 许多的\\npron. 许多",
+  "definition": "a. a quantifier that can be used with count nouns and is often preceded by `as' or `too' or `so' or `that'; amounting to a large but indefinite number"
+ },
+ {
+  "word": "modern",
+  "phonetic": "'mɒdәn",
+  "translation": "n. 现代人, 有思想的人\\na. 现代的, 时髦的",
+  "definition": "n. a contemporary person\\nn. a typeface (based on an 18th century design by Gianbattista Bodoni) distinguished by regular shape and hairline serifs and heavy downstrokes\\na. belonging to the modern era; since the Middle Ages\\ns. characteristic of present-day art and music and literature and architecture"
+ },
+ {
+  "word": "name",
+  "phonetic": "neim",
+  "translation": "n. 名字, 名称, 姓名, 名义, 名誉, 文件名\\nvt. 命名, 称呼, 任命, 提名, 列举\\na. 姓名的, 据以取名的\\n[计] 名称, 文件名, 姓名",
+  "definition": "n. a language unit by which a person or thing is known\\nn. a person's reputation\\nn. family based on male descent\\nn. a well-known or notable person"
+ },
+ {
+  "word": "number",
+  "phonetic": "'nʌmbә",
+  "translation": "n. 数, 数字, 数目, 号码\\nvt. 数, 计算, 共计\\nvi. 计算, 报数\\n[计] 数字",
+  "definition": "n. the property possessed by a sum or total or indefinite quantity of units or individuals\\nn. a concept of quantity involving zero and units\\nn. a select company of people\\nn. a numeral or string of numerals that is used for identification"
+ },
+ {
+  "word": "obey",
+  "phonetic": "ә'bei",
+  "translation": "vt. 服从, 遵从, 顺从\\nvi. 服从",
+  "definition": "v. be obedient to"
+ },
+ {
+  "word": "overdrawn",
+  "phonetic": ",әjvә'drɔ:n",
+  "translation": "overdraw的过去分词",
+  "definition": "v draw more money from than is available\\nv to enlarge beyond bounds or the truth"
+ },
+ {
+  "word": "owe",
+  "phonetic": "әu",
+  "translation": "vt. 亏欠, 负...债, 归功于, 怀有, 应给予, 感恩\\nvi. 欠钱",
+  "definition": "v. be obliged to pay or repay\\nv. be indebted to, in an abstract or intellectual sense\\nv. be in debt"
+ },
+ {
+  "word": "passage",
+  "phonetic": "'pæsidʒ",
+  "translation": "n. 通道, 通过, 移居, 航行, 一段, 走廊\\nvi. 通过, 经过, 航行, 横渡, 争吵\\nvt. (使)马以斜横步前进, 使传代",
+  "definition": "n. the act of passing from one state or place to the next\\nn. a section of text; particularly a section of medium length\\nn. a way through or along which someone or something may pass\\nn. a journey usually by ship"
+ },
+ {
+  "word": "pay",
+  "phonetic": "pei",
+  "translation": "n. 薪资, 付款, 补偿\\nvt. 支付, 付清, 补偿, 偿还, 对...有利, 为...涂防水物\\nvi. 付款, 付出代价, 偿还, 得到报应, 获得好处",
+  "definition": "v. give money, usually in exchange for goods or services\\nv. do or give something to somebody in return\\nv. be worth it\\nv. render"
+ },
+ {
+  "word": "person",
+  "phonetic": "'pә:sn",
+  "translation": "n. 人, 人身, 人称\\n[法] 人, 法人, 人身",
+  "definition": "n. a human being\\nn. a human body (usually including the clothing)\\nn. a grammatical category used in the classification of pronouns, possessive determiners, and verb forms according to whether they indicate the speaker, the addressee, or a third party"
+ },
+ {
+  "word": "practice",
+  "phonetic": "'præktis",
+  "translation": "n. 实践, 练习, 实行, 惯例, 习惯, 开业\\nv. 实践, 实行, 练习, 实习, 业务",
+  "definition": "n. a customary way of operation or behavior\\nn. translating an idea into action\\nn. the exercise of a profession\\nn. knowledge of how something is usually done"
+ },
+ {
+  "word": "primarily",
+  "phonetic": "'praimәrili",
+  "translation": "adv. 主要地, 首先地",
+  "definition": "r. of primary import"
+ },
+ {
+  "word": "printing",
+  "phonetic": "'printiŋ",
+  "translation": "n. 印刷, 印刷术, 印花\\n[计] 打印; 印刷",
+  "definition": "n. text handwritten in the style of printed matter\\nn. the business of producing printed material for sale or distribution\\nn. reproduction by applying ink to paper as for publication"
+ },
+ {
+  "word": "problems",
+  "phonetic": "",
+  "translation": "n. 问题；难题（problem的复数）",
+  "definition": "n a state of difficulty that needs to be resolved\\nn a question raised for consideration or solution\\nn a source of difficulty"
+ },
+ {
+  "word": "reason",
+  "phonetic": "'ri:zn",
+  "translation": "n. 理由, 原因, 理智, 道理, 前提, 理性\\nvt. 说服, 推论, 辩论\\nvi. 推论, 劝说, 思考",
+  "definition": "n. a rational motive for a belief or action\\nn. an explanation of the cause of some phenomenon\\nn. the capacity for rational thought or inference or discrimination\\nn. a fact that logically justifies some premise or conclusion"
+ },
+ {
+  "word": "recognize",
+  "phonetic": "'rekәgnaiz",
+  "translation": "vt. 认出, 认可, 承认, 公认, 识别, 赏识\\nvi. 承认, 具结",
+  "definition": "v. be fully aware or cognizant of\\nv. perceive to be the same\\nv. exhibit recognition for (an antigen or a substrate)\\nv. show approval or appreciation of"
+ },
+ {
+  "word": "relationship",
+  "phonetic": "ri'leiʃәnʃip",
+  "translation": "n. 关系, 关联\\n[医] 关系",
+  "definition": "n. a relation between people; (`relationship' is often used where `relation' would serve, as in `the relationship between inflation and unemployment', but the preferred usage of `relationship' is for human relations or states of relatedness)\\nn. a state of connectedness between people (especially an emotional connection)\\nn. a state involving mutual dealings between people or parties or countries"
+ },
+ {
+  "word": "repayment",
+  "phonetic": "ri'peimәnt",
+  "translation": "n. 付还, 偿还, 报复, 付还的钱\\n[经] 偿还, 付还",
+  "definition": "n. payment of a debt or obligation"
+ },
+ {
+  "word": "respect",
+  "phonetic": "ri'spekt",
+  "translation": "n. 尊敬, 尊重, 问候\\nvt. 尊敬, 注意, 遵守",
+  "definition": "n. (usually preceded by `in') a detail or point\\nn. an attitude of admiration or esteem\\nv. regard highly; think much of\\nv. show respect towards"
+ },
+ {
+  "word": "right",
+  "phonetic": "rait",
+  "translation": "n. 权利, 右边, 正义, 右派, 公正\\na. 正确的, 对的, 恰当的, 正常的, 正直的, 正面的, 右方的\\nadv. 正确地, 以有利结果, 一直, 直接, 向右\\nvt. 扶直, 整理, 纠正, 伸冤, 使昭雪\\nvi. 恢复平衡\\n[计] 右, 权利",
+  "definition": "n. an abstract idea of that which is due to a person or governmental body by law or tradition or nature; it is something that nobody can take away\"\\nn. location near or direction toward the right side; i.e. the side to the south when a person or object faces east\\nn. those who support political or social or economic conservatism; those who believe that things are better left unchanged\\nn. the hand that is on the right side of the body"
+ },
+ {
+  "word": "rise",
+  "phonetic": "raiz",
+  "translation": "n. 上升, 增加, 上涨, 高地, 升高, 出现\\nvi. 升起, 起身, 起立, 上升, 上涨, 增长, 高耸, 起义, 浮现\\nvt. 使飞起",
+  "definition": "n. a growth in strength or number or importance\\nn. the act of changing location in an upward direction\\nn. a movement upward\\nn. an increase in cost"
+ },
+ {
+  "word": "risk",
+  "phonetic": "risk",
+  "translation": "n. 冒险, 危险, 保险额\\nvt. 冒...的危险, 冒险干",
+  "definition": "n. a venture undertaken without regard to possible loss or injury\\nn. the probability of becoming infected given that exposure to an infectious agent has occurred\\nn. the probability of being exposed to an infectious agent\\nv. expose to a chance of loss or damage"
+ },
+ {
+  "word": "rule",
+  "phonetic": "ru:l",
+  "translation": "n. 规则, 统治, 控制, 支配, 规律, 标准, 章程, 破折号, 铅线\\nvt. 规定, 统治, 管理, 控制, 支配, 裁决\\nvi. 统治, 管辖, 裁定\\n[计] 规则, 水线",
+  "definition": "n. a principle or condition that customarily governs behavior\\nn. prescribed guide for conduct or action\\nn. (linguistics) a rule describing (or prescribing) a linguistic practice\\nn. the duration of a monarch's or government's power"
+ },
+ {
+  "word": "say",
+  "phonetic": "sei",
+  "translation": "vt. 说, 讲, 念, 说明, 指明\\nvi. 说, 讲\\nn. 意见, 发言权",
+  "definition": "n. the chance to speak\\nv. communicate or express nonverbally\\nv. utter aloud\\nv. state as one's opinion or judgement; declare"
+ },
+ {
+  "word": "simple",
+  "phonetic": "'simpl",
+  "translation": "a. 简单的, 普通的, 朴素的, 单纯的, 绝对的, 初级的, 原始的, 迟钝的\\nn. 出身低微者, 傻子",
+  "definition": "n. any herbaceous plant having medicinal properties\\na. having few parts; not complex or complicated or involved\\na. (botany) of leaf shapes; of leaves having no divisions or subdivisions\\ns. unornamented"
+ },
+ {
+  "word": "skillful",
+  "phonetic": "'skilful",
+  "translation": "a. 熟练的, 巧妙的\\n[机] 熟练的",
+  "definition": "s having or showing knowledge and skill and aptitude\\ns done with delicacy and skill"
+ },
+ {
+  "word": "society",
+  "phonetic": "sә'saiәti",
+  "translation": "n. 社会；社交界；交往；社团",
+  "definition": "n. an extended social group having a distinctive cultural and economic organization\\nn. the fashionable elite"
+ },
+ {
+  "word": "specimens",
+  "phonetic": "ˈspesimənz",
+  "translation": "n. 样品( specimen的复数形式 ); 范例; （化验的）抽样; 某种类型的人",
+  "definition": "n. an example regarded as typical of its class\\nn. a bit of tissue or blood or urine that is taken for diagnostic purposes"
+ },
+ {
+  "word": "there",
+  "phonetic": "ðєә",
+  "translation": "adv. 在那里",
+  "definition": "n. a location other than here; that place\\nr. in or at that place\\nr. in that matter\\nr. to or toward that place; away from the speaker"
+ },
+ {
+  "word": "time",
+  "phonetic": "taim",
+  "translation": "n. 时间, 时侯, 时机, 时期, 期限, 次数, 节拍, 暂停, 规定时间\\nvt. 测定...的时间, 记录...的时间, 计时, 定时\\na. 时间的, 记时的, 定时的, 定期的, 分期的\\n[计] DOS内部命令:用于显示或设定系统的时间",
+  "definition": "n. an instance or single occasion for some event\\nn. a period of time considered as a resource under your control and sufficient to accomplish something\\nn. an indefinite period (usually marked by specific attributes or activities)\\nn. a suitable moment"
+ },
+ {
+  "word": "unlike",
+  "phonetic": ".ʌn'laik",
+  "translation": "a. 不像的, 不同的\\nprep. 不像, 和...不同",
+  "definition": "a. marked by dissimilarity\\na. not equal in amount"
+ },
+ {
+  "word": "whether",
+  "phonetic": "'hweðә",
+  "translation": "conj. 是否, 不论\\npron. 两个中的哪一个",
+  "definition": "pron. Which (of two); which one (of two); -- used\\n   interrogatively and relatively.\\nconj. In case; if; -- used to introduce the first or two or\\n   more alternative clauses, the other or others being connected by or, or\\n   by or whether. When the second of two alternatives is the simple\\n   negative of the first it is sometimes only indicated by the particle\\n   not or no after the correlative, and sometimes it is omitted entirely\\n   as being distinctly implied in the whether of the first."
+ }
+]

@@ -1,0 +1,692 @@
+[
+ {
+  "word": "modern",
+  "phonetic": "'mɒdәn",
+  "translation": "n. 现代人, 有思想的人\\na. 现代的, 时髦的",
+  "definition": "n. a contemporary person\\nn. a typeface (based on an 18th century design by Gianbattista Bodoni) distinguished by regular shape and hairline serifs and heavy downstrokes\\na. belonging to the modern era; since the Middle Ages\\ns. characteristic of present-day art and music and literature and architecture"
+ },
+ {
+  "word": "art",
+  "phonetic": "ɑ:t",
+  "translation": "n. 艺术, 人文科学, 技术, 巧妙, 诡计, 美术\\n[计] 实际保持时间, 特许权和资源表, 平均检索时间, 平均运行时间",
+  "definition": "n. the products of human creativity; works of art collectively\\nn. the creation of beautiful or significant things\\nn. a superior skill that you can learn by study and practice and observation"
+ },
+ {
+  "word": "sculpture",
+  "phonetic": "'skʌlptʃә",
+  "translation": "n. 雕刻, 雕塑\\nvt. 雕刻, 雕塑\\nvi. 当雕刻师",
+  "definition": "n. a three-dimensional work of plastic art\\nn. creating figures or designs in three dimensions"
+ },
+ {
+  "word": "display",
+  "phonetic": "dis'plei",
+  "translation": "n. 显示, 陈列, 炫耀, 显示器\\nvt. 陈列, 显示, 表现, 夸示\\n[计] 显示器; 显示",
+  "definition": "n. something intended to communicate a particular impression\\nn. something shown to the public\\nn. a visual representation of something\\nn. behavior that makes your feelings public"
+ },
+ {
+  "word": "forms",
+  "phonetic": "",
+  "translation": "n. 窗体；表单；表格（form的复数形式）",
+  "definition": "n the phonological or orthographic sound or appearance of a word that can be used to describe or identify something\\nn a category of things distinguished by some common characteristic or quality\\nn a perceptual structure\\nn any spatial attributes (especially as defined by outline)\\nn alternative names for the body of a human being\\nn the spatial arrangement of something as distinct from its substance\\nn the visual appearance of something or someone\\nn a printed document with spaces in which to write\\nn (biology) a group of organisms within a species that differ in trivial ways from similar groups\\nn an arrangement of the elements in a composition or discourse\\nn a particular mode in which something is manifested\\nn (physical chemistry) a distinct state of matter in a system; matter that is identical in chemical composition and physical state and separated from other material by the phase boundary\\nn a body of students who are taught together\\nn an ability to perform well\\nn a life-size dummy used to display clothes\\nn a mold for setting concrete\\nv create (as an entity)\\nv to compose or represent:\"This wall forms the background of the stage setting\"\\nv develop into a distinctive entity\\nv give shape or form to\\nv make something, usually for a specific function\\nv establish or impress firmly in the mind\\nv assume a form or shape"
+ },
+ {
+  "word": "lights",
+  "phonetic": "laits",
+  "translation": "n. （供食用的）家畜的肺脏；灯光（light的复数）",
+  "definition": "n (physics) electromagnetic radiation that can produce a visual sensation\\nn any device serving as a source of illumination\\nn a particular perspective or aspect of a situation\\nn the quality of being luminous; emitting or reflecting light\\nn an illuminated area\\nn a condition of spiritual awareness; divine illumination\\nn the visual effect of illumination on objects or scenes as created in pictures\\nn a person regarded very fondly\\nn having abundant light or illumination\\nn mental understanding as an enlightening experience\\nn merriment expressed by a brightness or gleam or animation of countenance\\nn public awareness\\nn a divine presence believed by Quakers to enlighten and guide the soul\\nn a visual warning signal\\nn a device for lighting or igniting fuel or charges or fires\\nv make lighter or brighter\\nv begin to smoke\\nv to come to rest, settle\\nv cause to start burning; subject to fire or great heat\\nv fall to somebody by assignment or lot\\nv alight from (a horse)"
+ },
+ {
+  "word": "people",
+  "phonetic": "'pi:pl",
+  "translation": "n. 人, 人民, 民族, 平民\\nvt. 使住满人, 居住于",
+  "definition": "n. (plural) any group of human beings (men or women or children) collectively\\nn. members of a family line\\nv. fill with people\\nv. furnish with people"
+ },
+ {
+  "word": "electric",
+  "phonetic": "i'lektik",
+  "translation": "a. 电的, 导电的, 电动的\\n[医] 电的",
+  "definition": "n. a car that is powered by electricity\\na. using or providing or producing or transmitting or operated by electricity\\ns. (of a situation) exceptionally tense\\ns. affected by emotion as if by electricity; thrilling"
+ },
+ {
+  "word": "exhibition",
+  "phonetic": ".eksi'biʃәn",
+  "translation": "n. 表现, 展览会, 展览品\\n[医] 投药, 展览, 展出",
+  "definition": "n. the act of exhibiting\\nn. a collection of things (goods or works of art etc.) for public display"
+ },
+ {
+  "word": "like",
+  "phonetic": "laik",
+  "translation": "a. 相似的, 同样的\\nvt. 喜欢, 愿意, 想\\nvi. 喜欢, 希望\\nn. 爱好, 同样的人(或物)\\nprep. 象, 如同\\nadv. 可能",
+  "definition": "n. a similar kind\\nn. a kind of person\\nv. find enjoyable or agreeable\\nv. be fond of"
+ },
+ {
+  "word": "notice",
+  "phonetic": "'nәutis",
+  "translation": "n. 注意, 布告, 通知, 预告, 短评\\nvt. 注意, 通知, 评论, 提及, 关注\\nvi. 注意",
+  "definition": "n. an announcement containing information about an event\\nn. the act of noticing or paying attention\\nn. advance notification (usually written) of the intention to withdraw from an arrangement of contract\\nn. polite or favorable attention"
+ },
+ {
+  "word": "objects",
+  "phonetic": "",
+  "translation": "n. 目标；物体（object的复数）",
+  "definition": "n a tangible and visible entity; an entity that can cast a shadow\\nn the goal intended to be attained (and which is believed to be attainable)\\nn (grammar) a constituent that is acted upon\\nn the focus of cognitions or feelings\\nn (computing) a discrete item that provides a description of virtually anything known to a computer\\nv express or raise an objection or protest or criticism or express dissent\\nv be averse to or express disapproval of"
+ },
+ {
+  "word": "pieces",
+  "phonetic": "",
+  "translation": "n. 匹头, 毛束；件片块个工件零件",
+  "definition": "n a separate part of a whole\\nn an item that is an instance of some type; \\nn a portion of a natural object\\nn a musical work that has been created\\nn an instance of some kind\\nn an artistic or literary composition\\nn a portable gun\\nn a serving that has been cut from a larger portion\\nn a distance\\nn a work of art of some artistic value\\nn a period of indeterminate length (usually short) marked by some action or condition\\nn a share of something\\nn game equipment consisting of an object used in playing certain board games\\nv to join or unite the pieces of\\nv create by putting components or members together\\nv join during spinning\\nv eat intermittently; take small bites of\\nv repair by adding pieces"
+ },
+ {
+  "word": "quite",
+  "phonetic": "kwait",
+  "translation": "adv. 相当, 完全, 十分",
+  "definition": "r. to a degree (not used with a negative)\\nr. to the greatest extent; completely\\nr. of an unusually noticeable or exceptional or remarkable kind (not used with a negative)\\nr. actually or truly or to an extreme"
+ },
+ {
+  "word": "spheres",
+  "phonetic": "sfiəz",
+  "translation": "n. 球（体）( sphere的复数形式 ); （兴趣或活动的）范围; （包围地球等的大气的）层; 圆球",
+  "definition": "n. a particular environment or walk of life\\nn. any spherically shaped artifact\\nn. the geographical area in which one nation is very influential"
+ },
+ {
+  "word": "against",
+  "phonetic": "ә'geinst",
+  "translation": "prep. 反对, 对着, 倚靠",
+  "definition": "prep. Abreast; opposite to; facing; towards; as, against the\\n   mouth of a river; -- in this sense often preceded by over.\\nprep. From an opposite direction so as to strike or come in\\n   contact with; in contact with; upon; as, hail beats against the roof.\\nprep. In opposition to, whether the opposition is of\\n   sentiment or of action; on the other side; counter to; in contrariety\\n   to; hence, adverse to; as, against reason; against law; to run a race\\n   against time.\\nprep. By of before the time that; in preparation for; so as\\n   to be ready for the time when."
+ },
+ {
+  "word": "angrily",
+  "phonetic": "'æŋgrili",
+  "translation": "adv. 愤怒地",
+  "definition": "r. with anger"
+ },
+ {
+  "word": "anymore",
+  "phonetic": "'eni'mɔ:",
+  "translation": "adv. 再也不, 不再",
+  "definition": "r. at the present or from now on; usually used with a negative"
+ },
+ {
+  "word": "attached",
+  "phonetic": "ә'tætʃt",
+  "translation": "a. 附加的；依恋的, 充满爱心的",
+  "definition": "a. used of buildings joined by common sidewalls\\na. associated in an exclusive sexual relationship\\ns. fond and affectionate"
+ },
+ {
+  "word": "attracted",
+  "phonetic": "ə'træktɪd",
+  "translation": "吸引\\n的兴趣\\n被吸引的",
+  "definition": "v direct toward itself or oneself by means of some psychological power or physical attributes\\nv be attractive to\\nv exert a force on (a body) causing it to approach or prevent it from moving away"
+ },
+ {
+  "word": "black",
+  "phonetic": "blæk",
+  "translation": "n. 黑色, 黑颜料\\na. 黑色的",
+  "definition": "n. the quality or state of the achromatic color of least lightness (bearing the least resemblance to white)\\nn. British chemist who identified carbon dioxide and who formulated the concepts of specific heat and latent heat (1728-1799)\\nn. popular child actress of the 1930's (born in 1928)\\nn. a person with dark skin who comes from Africa (or whose ancestors came from Africa)"
+ },
+ {
+  "word": "boxes",
+  "phonetic": "",
+  "translation": "n. 小木箱, 盒子",
+  "definition": "n a (usually rectangular) container; may have a lid\\nn private area in a theater or grandstand where a small group can watch the performance\\nn the quantity contained in a box\\nn a predicament from which a skillful or graceful escape is impossible\\nn a rectangular drawing\\nn evergreen shrubs or small trees\\nn any one of several designated areas on a ball field where the batter or catcher or coaches are positioned\\nn the driver's seat on a coach\\nn separate partitioned area in a public place for a few people\\nn a blow with the hand (usually on the ear)\\nv put into a box\\nv hit with the fist\\nv engage in a boxing match"
+ },
+ {
+  "word": "buildings",
+  "phonetic": "",
+  "translation": "n. 建筑物（building的复数）",
+  "definition": "n a structure that has a roof and walls and stands more or less permanently in one place\\nn the act of constructing something\\nn the commercial activity involved in repairing old structures or constructing new ones\\nn the occupants of a building\\nv make by combining materials and parts\\nv form or accumulate steadily\\nv build or establish something abstract\\nv improve the cleansing action of\\nv order, supervise, or finance the construction of\\nv give form to, according to a plan\\nv be engaged in building\\nv found or ground\\nv bolster or strengthen\\nv develop and grow"
+ },
+ {
+  "word": "cannot",
+  "phonetic": "'kænɒt",
+  "translation": "aux. 无法, 不能",
+  "definition": " Am, is, or are, not able; -- written either as one word or\\n   two."
+ },
+ {
+  "word": "ceiling",
+  "phonetic": "'si:liŋ",
+  "translation": "n. 天花板\\n[经] 顶点, 顶线, 上限",
+  "definition": "n. the overhead upper surface of a covered space\\nn. (meteorology) altitude of the lowest layer of clouds\\nn. an upper limit on what is allowed\\nn. maximum altitude at which a plane can fly (under specified conditions)"
+ },
+ {
+  "word": "center",
+  "phonetic": "'sentә",
+  "translation": "n. 中心, 中心点, 中锋\\na. 中央的, 位在正中的\\nvt. 集中, 定中心\\nvi. 居中\\n[计] 居中; 中央",
+  "definition": "n. an area that is approximately central within some larger region\\nn. a building dedicated to a particular activity\\nn. a point equidistant from the ends of a line or the extremities of a figure"
+ },
+ {
+  "word": "colored",
+  "phonetic": "'kʌlәd",
+  "translation": "a. 染色的\\n[建] 有色的",
+  "definition": "a. having color or a certain color; sometimes used in combination\\ns. having skin rich in melanin pigments"
+ },
+ {
+  "word": "contained",
+  "phonetic": "kәn'teind",
+  "translation": "a. 泰然自若的, 从容的；被控制的",
+  "definition": "s. gotten under control"
+ },
+ {
+  "word": "continuously",
+  "phonetic": "kәn'tinjuәsli",
+  "translation": "adv. 不断地, 连续地\\n[电] 连续地",
+  "definition": "r. at every point"
+ },
+ {
+  "word": "currents",
+  "phonetic": "",
+  "translation": "n. 潮流；气流；电流（current的复数）",
+  "definition": "n a flow of electricity through a conductor\\nn a steady flow of a fluid (usually from natural causes)\\nn dominant course (suggestive of running water) of successive events or ideas"
+ },
+ {
+  "word": "dangerous",
+  "phonetic": "'deindʒәrәs",
+  "translation": "a. 危险的\\n[法] 危险的, 危害的",
+  "definition": "a. involving or causing danger or risk; liable to hurt or harm\\ns. causing fear or anxiety by threatening great harm"
+ },
+ {
+  "word": "designed",
+  "phonetic": "di'zaind",
+  "translation": "a. 故意的, 有计划的, 特意的",
+  "definition": "a. done or made or performed with purpose and intent"
+ },
+ {
+  "word": "different",
+  "phonetic": "'difәrәnt",
+  "translation": "a. 不同的\\n[机] 差动, 微分的, 差速器",
+  "definition": "a. unlike in nature or quality or form or degree\\ns. distinctly separate from the first\\ns. differing from all others; not ordinary\\ns. distinct or separate"
+ },
+ {
+  "word": "electronic",
+  "phonetic": ".ilek'trɒnik",
+  "translation": "a. 电子的\\n[计] 电子工业协会接口",
+  "definition": "a. of or relating to electronics; concerned with or using devices that operate on principles governing the behavior of electrons\\na. of or concerned with electrons"
+ },
+ {
+  "word": "emitted",
+  "phonetic": "",
+  "translation": "a. 射出的",
+  "definition": "v expel (gases or odors)\\nv give off, send forth, or discharge; as of light, heat, or radiation, vapor, etc.\\nv express audibly; utter sounds (not necessarily words)"
+ },
+ {
+  "word": "emotionally",
+  "phonetic": "i'mәuʃәnәli",
+  "translation": "adv. 在情绪上",
+  "definition": "r. in an emotional manner\\nr. with regard to emotions"
+ },
+ {
+  "word": "entered",
+  "phonetic": "",
+  "translation": "a. 进入的",
+  "definition": "v to come or go into\\nv become a participant; be involved in\\nv register formally as a participant or member\\nv be or play a part of or in\\nv make a record of; set down in permanent form\\nv come on stage\\nv take on duties or office\\nv put or introduce into something\\nv set out on (an enterprise or subject of study)"
+ },
+ {
+  "word": "equipment",
+  "phonetic": "i'kwipmәnt",
+  "translation": "n. 装备, 设备, 才能\\n[化] 设备; 装备; 装置",
+  "definition": "n. an instrumentality needed for an undertaking or to perform a service"
+ },
+ {
+  "word": "even",
+  "phonetic": "'i:vәn",
+  "translation": "a. 平坦的, 相等的, 连贯的, 均等的, 公平的, 偶数的, 平均的, 平衡的, 恰好的\\nvt. 使平坦, 使相等\\nvi. 变平, 成为相等\\nadv. 甚至, 实际上, 完全, 十分\\nn. 偶数, 偶校验\\n[计] 偶数, 偶校验",
+  "definition": "v. become even or more even\\nv. make even or more even\\na. divisible by two\\ns. equal in degree or extent or amount; or equally matched or balanced"
+ },
+ {
+  "word": "everybody",
+  "phonetic": "'evribɒdi",
+  "translation": "pron. 每个人, 人人",
+  "definition": "n. Every person."
+ },
+ {
+  "word": "examples",
+  "phonetic": "",
+  "translation": "n. 例子；列证（example的复数形式）",
+  "definition": "n an item of information that is typical of a class or group\\nn a representative form or pattern\\nn something to be imitated\\nn punishment intended as a warning to others\\nn an occurrence of something\\nn a task performed or problem solved in order to develop skill or understanding"
+ },
+ {
+  "word": "exhibits",
+  "phonetic": "",
+  "translation": "n. 陈列品；展览（exhibit的复数）",
+  "definition": "n an object or statement produced before a court of law and referred to while giving evidence\\nn something shown to the public\\nv show an attribute, property, knowledge, or skill\\nv to show, make visible or apparent\\nv give an exhibition of to an interested audience\\nv walk ostentatiously"
+ },
+ {
+  "word": "failed",
+  "phonetic": "",
+  "translation": "a. 已失败的\\n[计] 失败的",
+  "definition": "v fail to do something; leave something undone\\nv be unsuccessful\\nv disappoint, prove undependable to; abandon, forsake\\nv stop operating or functioning\\nv be unable\\nv judge unacceptable\\nv fail to get a passing grade\\nv fall short in what is expected\\nv become bankrupt or insolvent; fail financially and close\\nv prove insufficient\\nv get worse"
+ },
+ {
+  "word": "familiar",
+  "phonetic": "fә'miljә",
+  "translation": "a. 熟悉的, 常见的, 亲密的\\nn. 熟友, 常客",
+  "definition": "n. a person attached to the household of a high official (as a pope or bishop) who renders service in return for support\\nn. a spirit (usually in animal form) that acts as an assistant to a witch or wizard\\na. well known or easily recognized\\na. within normal everyday experience; common and ordinary; not strange"
+ },
+ {
+  "word": "first",
+  "phonetic": "fә:st",
+  "translation": "adv. 首先, 第一, 优先\\na. 第一的\\nnum. 第一\\nn. 开始, 第一",
+  "definition": "n. the first or highest in an ordering or series\\nn. the first element in a countable series\\nn. an honours degree of the highest class\\na. preceding all others in time or space or degree"
+ },
+ {
+  "word": "flashed",
+  "phonetic": "flæʃt",
+  "translation": "v. 发出闪光( flash的过去式和过去分词 ); （使）闪现; 映出; 显示",
+  "definition": "imp. & p. p. of Flash"
+ },
+ {
+  "word": "flickered",
+  "phonetic": "ˈflikəd",
+  "translation": "v. （通常指灯光）闪烁, 摇曳( flicker的过去式和过去分词 )",
+  "definition": "imp. & p. p. of Flicker"
+ },
+ {
+  "word": "gallery",
+  "phonetic": "'gælәri",
+  "translation": "n. 走廊, 最高楼座, 画廊, 收集, 图库\\n[计] 图库",
+  "definition": "n. spectators at a golf or tennis match\\nn. a room or series of rooms where works of art are exhibited\\nn. a long usually narrow room used for some specific purpose\\nn. a covered corridor (especially one extending along the wall of a building and supported with arches or columns)"
+ },
+ {
+  "word": "gardens",
+  "phonetic": "",
+  "translation": "n. 花园（garden的复数形式）",
+  "definition": "n a plot of ground where plants are cultivated\\nn the flowers or vegetables or fruits or herbs that are cultivated in a garden\\nn a yard or lawn adjoining a house\\nv work in the garden"
+ },
+ {
+  "word": "give",
+  "phonetic": "giv",
+  "translation": "n. 弹性, 适应性\\nvt. 给, 授予, 供给, 产生, 发表, 付出, 献出, 让出\\nvi. 捐赠, 支持不住, 让步",
+  "definition": "n. the elasticity of something that can be stretched and returns to its original length\\nv. cause to have, in the abstract sense or physical sense\\nv. transfer possession of something concrete or abstract to somebody\\nv. convey or reveal information"
+ },
+ {
+  "word": "gone",
+  "phonetic": "gɒn",
+  "translation": "a. 离去的, 死去的, 用完的\\ngo的过去分词",
+  "definition": "s. no longer retained"
+ },
+ {
+  "word": "got",
+  "phonetic": "gɒt",
+  "translation": "get的过去式和过去分词\\n[化] 谷草转氨酶; 谷氨酸草酰乙酸转氨酶",
+  "definition": "v come into the possession of something concrete or abstract\\nv enter or assume a certain state or condition\\nv cause to move; cause to be in a certain position or condition\\nv receive a specified treatment (abstract)\\nv reach a destination; arrive by movement or progress\\nv go or come after and bring or take back\\nv go through (mental or physical states or experiences)\\nv take vengeance on or get even\\nv achieve a point or goal\\nv cause to do; cause to act in a specified manner\\nv succeed in catching or seizing, especially after a chase\\nv come to have or undergo a change of (physical features and attributes)\\nv be stricken by an illness, fall victim to an illness\\nv communicate with a place or person; establish communication with, as if by telephone\\nv give certain properties to something\\nv move into a desired direction of discourse\\nv grasp with the mind or develop an understanding of\\nv attract and fix\\nv reach with a blow or hit in a particular spot\\nv reach by calculation\\nv acquire as a result of some effort or action\\nv purchase\\nv perceive by hearing\\nv suffer from the receipt of\\nv receive as a retribution or punishment\\nv leave immediately; used usually in the imperative form\\nv reach and board\\nv irritate\\nv evoke an emotional response\\nv apprehend and reproduce accurately\\nv earn or achieve a base by being walked by the pitcher\\nv overcome or destroy\\nv be a mystery or bewildering to\\nv take the first step or steps in carrying out an action\\nv undergo (as of injuries and illnesses)\\nv make children"
+ },
+ {
+  "word": "gust",
+  "phonetic": "gʌst",
+  "translation": "n. 突然一阵, 趣味, 爱好",
+  "definition": "n. a strong current of air"
+ },
+ {
+  "word": "hall",
+  "phonetic": "hɒ:l",
+  "translation": "n. 门厅, 走廊, 会堂",
+  "definition": "n. a large room for gatherings or entertainment\\nn. English writer whose novel about a lesbian relationship was banned in Britain for many years (1883-1943)\\nn. United States child psychologist whose theories of child psychology strongly influenced educational psychology (1844-1924)\\nn. United States chemist who developed an economical method of producing aluminum from bauxite (1863-1914)"
+ },
+ {
+  "word": "however",
+  "phonetic": "hau'evә",
+  "translation": "adv. 然而, 无论如何, 究竟怎样\\nconj. 然而, 可是",
+  "definition": "r. despite anything to the contrary (usually following a concession)\\nr. by contrast; on the other hand; the second, however, took hours\"\\nr. to whatever degree or extent\\nr. in whatever way or manner"
+ },
+ {
+  "word": "idea",
+  "phonetic": "ai'diә",
+  "translation": "n. 主意, 办法, 理想, 思想, 概念, 意见\\n[医] 观念, 思想",
+  "definition": "n. the content of cognition; the main thing you are thinking about\\nn. a personal view"
+ },
+ {
+  "word": "including",
+  "phonetic": "",
+  "translation": "prep. 包含, 包括\\n[经] 包括, 算入",
+  "definition": "v have as a part, be made up out of\\nv consider as part of something\\nv add as part of something else; put in as part of a set, group, or category\\nv allow participation in or the right to be part of; permit to exercise the rights, functions, and responsibilities of"
+ },
+ {
+  "word": "interest",
+  "phonetic": "'intrist",
+  "translation": "n. 兴趣, 嗜好, 利息, 利益, 爱好, 趣味, 势力\\nvt. 使感兴趣, 与...有关系",
+  "definition": "n. a sense of concern with and curiosity about someone or something\\nn. the power of attracting or holding one's attention (because it is unusual or exciting etc.)\\nn. a fixed charge for borrowing money; usually a percentage of the amount borrowed\\nn. (law) a right or legal share of something; a financial involvement with something"
+ },
+ {
+  "word": "lamps",
+  "phonetic": "",
+  "translation": "n. [诗]日月星辰；[俚]眼睛；灯具（lamp的复数）",
+  "definition": "n an artificial source of visible illumination\\nn a piece of furniture holding one or more electric light bulbs"
+ },
+ {
+  "word": "lined",
+  "phonetic": "laind",
+  "translation": "a. 有内衬的；具线纹的",
+  "definition": "s. bordered by a line of things\\ns. (used especially of skin) marked by lines or seams\\na. having a lining or a liner; often used in combination"
+ },
+ {
+  "word": "long",
+  "phonetic": "lɒŋ",
+  "translation": "a. 长的, 长久的, 冗长的, 做多头的\\nvi. 渴望, 热望, 极想\\nadv. 长久, 始终\\nn. 长时间, 长信号, 长整型\\n[计] 长, 长整型",
+  "definition": "a. primarily temporal sense; being or indicating a relatively great or greater than average duration or passage of time or a duration as specified\\na. primarily spatial sense; of relatively great or greater than average spatial extension or extension as specified\\ns. of relatively great height\\na. holding securities or commodities in expectation of a rise in prices"
+ },
+ {
+  "word": "mad",
+  "phonetic": "mæd",
+  "translation": "a. 疯狂的, 发疯的, 生气的, 愚蠢的, 狂欢的\\nn. 狂怒",
+  "definition": "s roused to anger\\ns affected with madness or insanity\\ns marked by uncontrolled excitement or emotion\\ns very foolish"
+ },
+ {
+  "word": "magnetized",
+  "phonetic": "'mægnə,taɪz",
+  "translation": " 磁化的",
+  "definition": "v make magnetic\\nv attract strongly, as if with a magnet\\na having the properties of a magnet; i.e. of attracting iron or steel"
+ },
+ {
+  "word": "metal",
+  "phonetic": "'metәl",
+  "translation": "n. 金属, 金属制品, 合金, 本质, 质料\\na. 金属制的\\nvt. 以金属覆盖",
+  "definition": "v. cover with metal"
+ },
+ {
+  "word": "mistaken",
+  "phonetic": "mis'teikәn",
+  "translation": "a. 犯错的, 错误的\\nmistake的过去分词",
+  "definition": "v identify incorrectly\\nv to make a mistake or be incorrect\\ns wrong in e.g. opinion or judgment\\ns arising from error"
+ },
+ {
+  "word": "move",
+  "phonetic": "mu:v",
+  "translation": "n. 移动, 迁居, 步骤\\nvt. 移动, 开动, 感动, 搬(家)\\nvi. 移动, 离开, 运行, 迁移, 摇动, 搬家, 交往, 进展, 脱手\\n[计] 移动; 传送; DOS外部命令:移动文件, 它可将文件移动到指定的地方",
+  "definition": "n. the act of deciding to do something\\nn. the act of changing your residence or place of business\\nn. (game) a player's turn to take some action permitted by the rules of the game\\nv. cause to move or shift into a new position or place, both in a concrete and in an abstract sense"
+ },
+ {
+  "word": "moving",
+  "phonetic": "'mu:viŋ",
+  "translation": "a. 动人的, 令人感动的, 鼓动的, 原动的, [无比较级]活动的, 转动的",
+  "definition": "a. in motion\\na. arousing or capable of arousing deep emotion\\na. used of a series of photographs presented so as to create the illusion of motion"
+ },
+ {
+  "word": "museums",
+  "phonetic": "",
+  "translation": "n. 博物馆（museum的复数形式）",
+  "definition": "n a depository for collecting and displaying objects having scientific or historical or artistic value"
+ },
+ {
+  "word": "myself",
+  "phonetic": "mai'self",
+  "translation": "pron. 我自己, 我亲自, 我独自",
+  "definition": "pron. I or me in person; -- used for emphasis, my own self or\\n   person; as I myself will do it; I have done it myself; -- used also\\n   instead of me, as the object of the first person of a reflexive verb,\\n   without emphasis; as, I will defend myself."
+ },
+ {
+  "word": "nearly",
+  "phonetic": "'niәli",
+  "translation": "adv. 几乎, 密切地",
+  "definition": "r (of actions or states) slightly short of or not quite accomplished; all but\\nr in a close manner"
+ },
+ {
+  "word": "number",
+  "phonetic": "'nʌmbә",
+  "translation": "n. 数, 数字, 数目, 号码\\nvt. 数, 计算, 共计\\nvi. 计算, 报数\\n[计] 数字",
+  "definition": "n. the property possessed by a sum or total or indefinite quantity of units or individuals\\nn. a concept of quantity involving zero and units\\nn. a select company of people\\nn. a numeral or string of numerals that is used for identification"
+ },
+ {
+  "word": "oddly",
+  "phonetic": "'ɒdli",
+  "translation": "adv. 奇怪地",
+  "definition": "r in a manner differing from the usual or expected\\nr in a strange manner"
+ },
+ {
+  "word": "outside",
+  "phonetic": "'aut'said",
+  "translation": "n. 外面, 外表, 外界\\na. 外面的, 外表的, 外界的\\nadv. 外面, 外表, 外界",
+  "definition": "n. the region that is outside of something\\nn. the outer side or surface of something\\na. relating to or being on or near the outer side or limit\\ns. originating or belonging beyond some bounds:\"the outside world\""
+ },
+ {
+  "word": "passage",
+  "phonetic": "'pæsidʒ",
+  "translation": "n. 通道, 通过, 移居, 航行, 一段, 走廊\\nvi. 通过, 经过, 航行, 横渡, 争吵\\nvt. (使)马以斜横步前进, 使传代",
+  "definition": "n. the act of passing from one state or place to the next\\nn. a section of text; particularly a section of medium length\\nn. a way through or along which someone or something may pass\\nn. a journey usually by ship"
+ },
+ {
+  "word": "peculiar",
+  "phonetic": "pi'kju:ljә",
+  "translation": "a. 奇特的, 罕见的, 特殊的, 特别的\\nn. 特有财产, 特权",
+  "definition": "s. markedly different from the usual\\ns. characteristic of one only; distinctive or special"
+ },
+ {
+  "word": "places",
+  "phonetic": "",
+  "translation": "n. 地点；位置；[数]位数（place的复数）",
+  "definition": "n a point located with respect to surface features of some region\\nn any area set aside for a particular purpose\\nn an abstract mental location\\nn a general vicinity\\nn the post or function properly or customarily occupied or served by another\\nn a particular situation\\nn where you live at a particular time\\nn a job in an organization\\nn the particular portion of space occupied by something\\nn proper or designated social situation\\nn a space reserved for sitting (as in a theater or on a train or airplane)\\nn the passage that is being read\\nn proper or appropriate position or location\\nn a public square with room for pedestrians\\nn an item on a list or in a sequence\\nn a blank area\\nv put into a certain place or abstract location\\nv place somebody in a particular situation or location\\nv assign a rank or rating to\\nv assign a location to\\nv to arrange for\\nv take a place in a competition; often followed by an ordinal\\nv intend (something) to move towards a certain goal\\nv recognize as being; establish the identity of someone or something\\nv assign to (a job or a home)\\nv locate\\nv estimate\\nv identify the location or place of\\nv make an investment\\nv assign to a station\\nv finish second or better in a horse or dog race\\nv sing a note with the correct pitch"
+ },
+ {
+  "word": "prehistoric",
+  "phonetic": "'pri:his'tɔrik",
+  "translation": "a. 历史以前的, 史前的",
+  "definition": "s. belonging to or existing in times before recorded history\\na. of or relating to times before written history\\ns. no longer fashionable"
+ },
+ {
+  "word": "public",
+  "phonetic": "'pʌblik",
+  "translation": "n. 公众, 民众\\na. 公众的, 公共的, 公立的, 公用的",
+  "definition": "n. a body of people sharing some common interest\\na. not private; open to or concerning the people as a whole\\ns. affecting the people or community as a whole"
+ },
+ {
+  "word": "rarely",
+  "phonetic": "'rєәli",
+  "translation": "adv. 很少地, 罕有地",
+  "definition": "r. not often"
+ },
+ {
+  "word": "rather",
+  "phonetic": "'ræðә",
+  "translation": "adv. 宁可, 稍微, 相当",
+  "definition": "r. on the contrary; rather (or instead), he wrote her a letter\"\\nr. to some (great or small) extent"
+ },
+ {
+  "word": "recent",
+  "phonetic": "'ri:snt",
+  "translation": "a. 最近的, 近代的, 最新的\\n[经] 最近的, 新进的",
+  "definition": "s. new"
+ },
+ {
+  "word": "red",
+  "phonetic": "red",
+  "translation": "a. 红的, 红色的, 红肿的, 流血的\\nn. 红色, 红颜料, 赤字\\n[计] 简化, 减少",
+  "definition": "n. red color or pigment; the chromatic color resembling the hue of blood\\nn. a tributary of the Mississippi River that flows eastward from Texas along the southern boundary of Oklahoma and through Louisiana\\ns. of a color at the end of the color spectrum (next to orange); resembling the color of blood or cherries or tomatoes or rubies"
+ },
+ {
+  "word": "repelled",
+  "phonetic": "",
+  "translation": "v. 防）；击退（推开",
+  "definition": "v cause to move back by force or influence\\nv be repellent to; cause aversion in\\nv force or drive back\\nv reject outright and bluntly\\nv fill with distaste"
+ },
+ {
+  "word": "response",
+  "phonetic": "ri'spɒns",
+  "translation": "n. 反应, 回答, 响应\\n[计] 应答",
+  "definition": "n. a result\\nn. a phrase recited or sung by the congregation following a versicle by the priest or minister\\nn. the manner in which an electrical or mechanical device responds to an input signal or a range of input signals"
+ },
+ {
+  "word": "said",
+  "phonetic": "sed",
+  "translation": "a. 上述的\\nsay的过去式和过去分词",
+  "definition": "v express in words\\nv report or maintain\\nv express a supposition\\nv have or contain a certain wording or form\\nv give instructions to or direct somebody to do something with authority\\nv speak, pronounce, or utter in a certain way\\nv communicate or express nonverbally\\nv utter aloud\\nv state as one's opinion or judgement; declare\\nv recite or repeat a fixed text\\nv indicate\\ns being the one previously mentioned or spoken of"
+ },
+ {
+  "word": "saw",
+  "phonetic": "sɒ:",
+  "translation": "n. 锯子, 谚语\\nvt. 锯, 锯开, 来回移动\\nvi. 拉锯, 移动\\nsee的过去式",
+  "definition": "n. hand tool having a toothed blade for cutting\\nv. cut with a saw"
+ },
+ {
+  "word": "seemed",
+  "phonetic": "",
+  "translation": "v. 装作；似乎（seem的过去式）",
+  "definition": "v give a certain impression or have a certain outward aspect\\nv seem to be true, probable, or apparent\\nv appear to exist\\nv appear to one's own mind or opinion"
+ },
+ {
+  "word": "seen",
+  "phonetic": "si:n",
+  "translation": "see的过去分词",
+  "definition": "v perceive by sight or have the power to perceive by sight\\nv perceive (an idea or situation) mentally\\nv perceive or be contemporaneous with\\nv imagine; conceive of; see in one's mind\\nv deem to be\\nv get to know or become aware of, usually accidentally\\nv see or watch\\nv come together\\nv find out, learn, or determine with certainty, usually by making an inquiry or other effort\\nv be careful or certain to do something; make certain of something\\nv go to see for professional or business reasons\\nv go to see for a social visit\\nv go to see a place, as for entertainment\\nv take charge of or deal with\\nv receive as a specified guest\\nv date regularly; have a steady relationship with\\nv see and understand, have a good eye\\nv deliberate or decide\\nv observe as if with an eye\\nv observe, check out, and look over carefully or inspect\\nv go or live through\\nv accompany or escort\\nv match or meet\\nv make sense of; assign a meaning to"
+ },
+ {
+  "word": "shaped",
+  "phonetic": "ʃeipt",
+  "translation": "a. 成某种形状的, 制成一定形状的, 有某种形状的, 合适的, 计划好的, 有目标的\\n[医] 具形的, 形似的",
+  "definition": "s. shaped to fit by or as if by altering the contours of a pliable mass (as by work or effort)\\na. having the shape of"
+ },
+ {
+  "word": "shock",
+  "phonetic": "ʃɒk",
+  "translation": "n. 震动, 冲突, 震惊, 冲击, 突击, 禾束堆, 休克, 长毛狗\\nvt. 使震动, 使休克, 使受电击, 震惊得\\nvi. 震动, 吓人\\na. 蓬乱浓密的",
+  "definition": "n. the violent interaction of individuals or groups entering into combat\\nn. (pathology) bodily collapse or near collapse caused by inadequate oxygen delivery to the cells; characterized by reduced cardiac output and rapid heartbeat and circulatory insufficiency and pallor\\nn. an instance of agitation of the earth's crust\\nn. an unpleasant or disappointing surprise"
+ },
+ {
+  "word": "shocks",
+  "phonetic": "",
+  "translation": "n. 缓冲装置；冲击；震动；蓬乱的一堆；禾束堆（shock的复数）",
+  "definition": "n the feeling of distress and disbelief that you have when something bad happens accidentally\\nn the violent interaction of individuals or groups entering into combat\\nn a reflex response to the passage of electric current through the body\\nn (pathology) bodily collapse or near collapse caused by inadequate oxygen delivery to the cells; characterized by reduced cardiac output and rapid heartbeat and circulatory insufficiency and pallor\\nn an instance of agitation of the earth's crust\\nn an unpleasant or disappointing surprise\\nn a pile of sheaves of grain set on end in a field to dry; stalks of Indian corn set up in a field\\nn a bushy thick mass (especially hair)\\nn a sudden jarring impact\\nn a mechanical damper; absorbs energy of sudden impulses\\nv surprise greatly; knock someone's socks off\\nv strike with disgust or revulsion\\nv strike with horror or terror\\nv collide violently\\nv collect or gather into shocks\\nv subject to electrical shocks\\nv inflict a trauma upon"
+ },
+ {
+  "word": "shops",
+  "phonetic": "",
+  "translation": "n. 商店；商店用包装纸（shop的复数）",
+  "definition": "n a mercantile establishment for the retail sale of goods or services\\nn small workplace where handcrafts or manufacturing are done\\nn a course of instruction in a trade (as carpentry or electricity)\\nv do one's shopping\\nv do one's shopping at; do business with; be a customer or client of\\nv shop around; not necessarily buying\\nv give away information about somebody"
+ },
+ {
+  "word": "small",
+  "phonetic": "smɒ:l",
+  "translation": "a. 小的, 少的, 小型的, 低微的, 小气的, 细微的\\nadv. 些微地\\nn. 狭小部分",
+  "definition": "n. the slender part of the back\\nn. a garment size for a small person\\na. limited or below average in number or quantity or magnitude or extent\\ns. slight or limited; especially in degree or intensity or scope"
+ },
+ {
+  "word": "so-called",
+  "phonetic": "",
+  "translation": "a. 所谓的, 号称的\\n[法] 所谓的, 据称的",
+  "definition": "s doubtful or suspect"
+ },
+ {
+  "word": "sparks",
+  "phonetic": "spɑ:ks",
+  "translation": "n. （船或飞机上的）无线电通信师",
+  "definition": "n a momentary flash of light\\nn merriment expressed by a brightness or gleam or animation of countenance\\nn electrical conduction through a gas in an applied electric field\\nn a small but noticeable trace of some quality that might become stronger\\nn Scottish writer of satirical novels (born in 1918)\\nn a small fragment of a burning substance thrown out by burning material or by friction\\nv put in motion or move to act\\nv emit or produce sparks"
+ },
+ {
+  "word": "spite",
+  "phonetic": "spait",
+  "translation": "n. 恶意, 怨恨, 使人烦恼的事物\\nvt. 故意刁难, 欺侮",
+  "definition": "n feeling a need to see others suffer\\nn malevolence by virtue of being malicious or spiteful or nasty\\nv hurt the feelings of"
+ },
+ {
+  "word": "stand",
+  "phonetic": "stænd",
+  "translation": "n. 站立, 站住, 停顿, 讲台, 看台, 立场, 法院证人席\\nvi. 站, 立, 坐落, 停滞, 位于, 坚持, 维持原状\\nvt. 忍受, 使站立, 抵挡",
+  "definition": "n. the position where a thing or person stands\\nn. a growth of similar plants (usually trees) in a particular area\\nn. a small table for holding articles of various kinds\\nn. an interruption of normal activity"
+ },
+ {
+  "word": "strange",
+  "phonetic": "streindʒ",
+  "translation": "a. 奇怪的, 陌生的, 生疏的, 不熟悉的, 不可思议的, 外行的, 外地的, 异乡的",
+  "definition": "a. being definitely out of the ordinary and unexpected; slightly odd or even a bit weird\\ns. not known before"
+ },
+ {
+  "word": "structures",
+  "phonetic": "",
+  "translation": "n. 结构；构筑物；业务方式（structure的复数）",
+  "definition": "n a thing constructed; a complex entity constructed of many parts\\nn the manner of construction of something and the arrangement of its parts\\nn the complex composition of knowledge as elements and their combinations\\nn a particular complex anatomical part of a living thing\\nn the people in a society considered as a system organized by a characteristic pattern of relationships\\nv give a structure to"
+ },
+ {
+  "word": "surprised",
+  "phonetic": "sә'praizd",
+  "translation": "a. 感到惊讶的",
+  "definition": "a. taken unawares or suddenly and feeling wonder or astonishment"
+ },
+ {
+  "word": "surprises",
+  "phonetic": "səˈpraiziz",
+  "translation": "v. 使惊奇, 使诧异( surprise的第三人称单数 ); 意外发现[撞见], 出其不意获得",
+  "definition": "n the astonishment you feel when something totally unexpected happens to you\\nn a sudden unexpected event\\nn the act of surprising someone\\nv cause to be surprised\\nv come upon or take unawares\\nv attack by storm; attack suddenly"
+ },
+ {
+  "word": "suspended",
+  "phonetic": "",
+  "translation": "a. 悬浮的；暂停的, 缓期的（宣判）",
+  "definition": "s. (of undissolved particles in a fluid) supported or kept from sinking or falling by buoyancy and without apparent attachment"
+ },
+ {
+  "word": "take",
+  "phonetic": "teik",
+  "translation": "vt. 拿, 取, 抓, 带领, 获得, 就座, 接受, 吃, 吸引, 采取, 乘, 需要, 花费\\nvi. 吃掉对方棋子, 抓住, 起作用, 依法获得财产\\nn. 拿, 取, 收成, 奏效",
+  "definition": "n. the act of photographing a scene or part of a scene without interruption\\nv. carry out\\nv. require (time or space)\\nv. get into one's hands, take physically"
+ },
+ {
+  "word": "tall",
+  "phonetic": "tɒ:l",
+  "translation": "a. 高的, 长的, 夸大的\\nadv. 夸大地",
+  "definition": "n. a garment size for a tall person\\na. great in vertical dimension; high in stature\\ns. impressively difficult"
+ },
+ {
+  "word": "thin",
+  "phonetic": "θin",
+  "translation": "a. 薄的, 细的, 瘦的, 稀疏的, 稀薄的, 淡的, 弱的, 空洞的\\nvt. 使变薄, 使变细, 使稀少, 使淡\\nvi. 变薄, 变细, 变少, 变淡\\nadv. 薄地, 稀疏地, 微弱地\\nn. 细小部分",
+  "definition": "v. lose thickness; become thin or thinner\\nv. make thin or thinner\\na. of relatively small extent from one surface to the opposite or in cross section\\na. lacking excess flesh"
+ },
+ {
+  "word": "thing",
+  "phonetic": "θiŋ",
+  "translation": "n. 事物, 东西, 物, 用品, 事, 事件, 情况, 行为, 特征",
+  "definition": "n. a special situation\\nn. an action\\nn. a special abstraction\\nn. an artifact"
+ },
+ {
+  "word": "time",
+  "phonetic": "taim",
+  "translation": "n. 时间, 时侯, 时机, 时期, 期限, 次数, 节拍, 暂停, 规定时间\\nvt. 测定...的时间, 记录...的时间, 计时, 定时\\na. 时间的, 记时的, 定时的, 定期的, 分期的\\n[计] DOS内部命令:用于显示或设定系统的时间",
+  "definition": "n. an instance or single occasion for some event\\nn. a period of time considered as a resource under your control and sufficient to accomplish something\\nn. an indefinite period (usually marked by specific attributes or activities)\\nn. a suitable moment"
+ },
+ {
+  "word": "touch",
+  "phonetic": "tʌtʃ",
+  "translation": "n. 触觉, 碰, 触, 机灵, 轻触, 格调, 少许, 缺点, 弹力\\nvt. 接触, 触摸, 触及, 使接触, 达到, 涉及, 影响到, 使轻度受害, 感动\\nvi. 触摸, 接近, 涉及, 提到",
+  "definition": "n. the event of something coming in contact with the body\\nn. the faculty by which external objects or forces are perceived through contact with the body (especially the hands)\\nn. a suggestion of some quality\\nn. a distinguishing style"
+ },
+ {
+  "word": "traffic",
+  "phonetic": "'træfik",
+  "translation": "n. 交通, 通行, 运输, 交通量, 贸易, 交易, 交往, 通信量\\nvi. 交易, 做买卖\\nvt. 用...作交换\\n[计] 通信量, 传输量",
+  "definition": "n. the aggregation of things (pedestrians or vehicles) coming and going in a particular locality during a specified period of time\\nn. buying and selling; especially illicit trade\\nn. the amount of activity over a communication system during a given period of time\\nv. deal illegally"
+ },
+ {
+  "word": "used",
+  "phonetic": "'ju:st",
+  "translation": "a. 使用过的, 二手的, 习惯的",
+  "definition": "a. employed in accomplishing something"
+ },
+ {
+  "word": "wall",
+  "phonetic": "wɒ:l",
+  "translation": "n. 墙, 墙壁, 垣, 内壁, 分界物, 屏障\\na. 墙的\\nvt. 给...建墙, 禁闭, 用墙围住\\n[计] 背景墙",
+  "definition": "n. an architectural partition with a height and length greater than its thickness; used to divide or enclose an area or to support another structure\\nn. anything that suggests a wall in structure or function or effect\\nn. (anatomy) a layer (a lining or membrane) that encloses a structure\\nn. a difficult or awkward situation"
+ },
+ {
+  "word": "well",
+  "phonetic": "wel",
+  "translation": "n. 井, 泉水, 源泉, 好\\nv. 涌出\\na. 健康的, 良好的, 适宜的, 恰当的\\nadv. 很好地, 适当地, 好意地, 很, 完全\\ninterj. 好啦",
+  "definition": "n. a deep hole or shaft dug or drilled to obtain water or oil or gas or brine\\nn. a cavity or vessel used to contain liquid\\nn. an abundant source\\nn. an open shaft through the floors of a building (as for a stairway)"
+ },
+ {
+  "word": "wind",
+  "phonetic": "wind",
+  "translation": "n. 风, 气息, 气味, 呼吸, 风声, 趋势, 空谈, 卷绕, 弯曲\\nvt. 使通风, 嗅出, 使喘气, 吹号角, 上发条, 缠绕, 包, 绞起, 吊起, 使弯曲, 使迂回\\nvi. 嗅出猎物, 吹响号角, 卷曲, 蜿蜒, 迂回, 缠绕",
+  "definition": "n. air moving (sometimes with considerable force) from an area of high pressure to an area of low pressure\\nn. a tendency or force that influences events\\nn. breath\\nn. empty rhetoric or insincere or exaggerated talk"
+ },
+ {
+  "word": "wires",
+  "phonetic": "",
+  "translation": "n. 电线；线变形器（wire的复数）；小五金；网格",
+  "definition": "n ligament made of metal and used to fasten things or make cages or fences etc\\nn a metal conductor that carries electricity over a distance\\nn the finishing line on a racetrack\\nn a message transmitted by telegraph\\nv provide with electrical circuits\\nv send cables, wires, or telegrams\\nv fasten with wire\\nv string on a wire\\nv equip for use with electricity"
+ },
+ {
+  "word": "years",
+  "phonetic": "",
+  "translation": "n. 年代；岁月；年；年龄",
+  "definition": "n a late time of life\\nn a prolonged period of time\\nn the time during which someone's life continues\\nn a period of time containing 365 (or 366) days\\nn a period of time occupying a regular part of a calendar year that is used for some particular activity\\nn the period of time that it takes for a planet (as, e.g., Earth or Mars) to make a complete revolution around the sun\\nn a body of students who graduate together"
+ }
+]

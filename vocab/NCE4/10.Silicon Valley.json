@@ -1,0 +1,939 @@
+[
+ {
+  "word": "valley",
+  "phonetic": "'væli",
+  "translation": "n. 山谷, 溪谷, 流域, 凹地\\n[医] 谷",
+  "definition": "n. a long depression in the surface of the land that usually contains a river"
+ },
+ {
+  "word": "california",
+  "phonetic": ".kæli'fɒ:njә",
+  "translation": "n. 加利福尼亚",
+  "definition": "n. a state in the western United States on the Pacific; the 3rd largest state; known for earthquakes"
+ },
+ {
+  "word": "engineers",
+  "phonetic": "",
+  "translation": "n. 工程师；机械师（engineer的复数）",
+  "definition": "n a person who uses scientific knowledge to solve practical problems\\nn the operator of a railway locomotive\\nv design as an engineer\\nv plan and direct (a complex undertaking)"
+ },
+ {
+  "word": "mead",
+  "phonetic": "mi:d",
+  "translation": "n. 蜂蜜酒, 草地\\n[医] 蜜酒",
+  "definition": "n. United States anthropologist noted for her claims about adolescence and sexual behavior in Polynesian cultures (1901-1978)\\nn. United States philosopher of pragmatism (1863-1931)\\nn. made of fermented honey and water"
+ },
+ {
+  "word": "silicon",
+  "phonetic": "'silikәn",
+  "translation": "n. 硅\\n[化] 硅Si",
+  "definition": "n. a tetravalent nonmetallic element; next to oxygen it is the most abundant element in the earth's crust; occurs in clay and feldspar and granite and quartz and sand; used as a semiconductor in transistors"
+ },
+ {
+  "word": "anarchy",
+  "phonetic": "'ænәki",
+  "translation": "n. 无政府状态, 政治混乱\\n[法] 混乱, 无秩序, 无政府状态",
+  "definition": "n. a state of lawlessness and disorder (usually resulting from a failure of government)"
+ },
+ {
+  "word": "asian",
+  "phonetic": "'eiʃәn",
+  "translation": "n. 亚洲人\\na. 亚洲的, 亚洲人的",
+  "definition": "n. a native or inhabitant of Asia\\na. of or relating to or characteristic of Asia or the peoples of Asia or their languages or culture"
+ },
+ {
+  "word": "chip",
+  "phonetic": "tʃip",
+  "translation": "n. 屑片, 薄片, 碎片\\nvt. 削, 切, 削成碎片, 使摔倒, 凿\\nvi. 削下屑片\\n[计] 孔屑; 组件; 晶片; 芯片",
+  "definition": "n. a triangular wooden float attached to the end of a log line\\nn. a piece of dried bovine dung\\nn. a thin crisp slice of potato fried in deep fat\\nn. a small disk-shaped counter used to represent money when gambling"
+ },
+ {
+  "word": "chips",
+  "phonetic": "tʃips",
+  "translation": "n. 炸土豆条；小木片；（作赌注用的）圆形筹码；缺口（chip的复数形式）",
+  "definition": "n strips of potato fried in deep fat\\nn a small fragment of something broken off from the whole\\nn a triangular wooden float attached to the end of a log line\\nn a piece of dried bovine dung\\nn a thin crisp slice of potato fried in deep fat\\nn a mark left after a small piece has been chopped or broken off of something\\nn a small disk-shaped counter used to represent money when gambling\\nn electronic equipment consisting of a small crystal of a silicon semiconductor fabricated to carry out a number of electronic functions in an integrated circuit\\nn (golf) a low running approach shot\\nn the act of chipping something\\nv break off (a piece from a whole)\\nv cut a nick into\\nv play a chip shot\\nv form by chipping\\nv break a small piece off from"
+ },
+ {
+  "word": "computer",
+  "phonetic": "kәm'pju:tә",
+  "translation": "n. 电脑, 电子计算机\\n[计] 计算机",
+  "definition": "n. a machine for performing calculations automatically"
+ },
+ {
+  "word": "market",
+  "phonetic": "'mɑ:kit",
+  "translation": "n. 市场, 交易, 集市, 推销地区, 行情, 市面, 销路\\nvt. 在市场上交易, 使上市, 销售\\nvi. 在市场上买卖",
+  "definition": "n. the world of commercial activity where goods and services are bought and sold\\nn. the customers for a particular product or service\\nn. the securities markets in the aggregate\\nv. engage in the commercial promotion, sale, or distribution of"
+ },
+ {
+  "word": "new",
+  "phonetic": "nju:",
+  "translation": "a. 新的, 陌生的, 最近的, 不熟悉的\\n[法] 新发现的, 新的, 重新开始的",
+  "definition": "a. not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered\\ns. having no previous example or precedent or parallel\\ns. other than the former one(s); different\\na. unaffected by use or exposure"
+ },
+ {
+  "word": "start-ups",
+  "phonetic": "",
+  "translation": "(start-up 的复数) n. 启动\\n[化] 开始工作",
+  "definition": "plural of start-up\\nn. One who comes suddenly into notice; an upstart.\\nn. A kind of high rustic shoe.\\na. Upstart."
+ },
+ {
+  "word": "technology",
+  "phonetic": "tek'nɒlәdʒi",
+  "translation": "n. 技术, 工业技术, 术语\\n[医] 技术学, 工艺学",
+  "definition": "n. the practical application of science to commerce or industry"
+ },
+ {
+  "word": "thrive",
+  "phonetic": "θraiv",
+  "translation": "vi. 繁荣, 兴旺, 茁壮成长\\n[经] 兴旺, 繁荣, 旺盛",
+  "definition": "v. make steady progress; be at the high point in one's career or reach a high point in historical significance or importance"
+ },
+ {
+  "word": "able",
+  "phonetic": "'eibl",
+  "translation": "a. 能干的, 能够的",
+  "definition": "a. (usually followed by `to') having the necessary means or skill or know-how or authority to do something\\ns. have the skills and qualifications to do things well\\ns. having inherent physical or mental ability or capacity\\ns. having a strong healthy body"
+ },
+ {
+  "word": "alex",
+  "phonetic": "",
+  "translation": "[计] 开放网络文件系统"
+ },
+ {
+  "word": "already",
+  "phonetic": "ɒ:l'redi",
+  "translation": "adv. 已经, 早已",
+  "definition": "r. prior to a specified or implied time"
+ },
+ {
+  "word": "americans",
+  "phonetic": "",
+  "translation": "n. 美国人（American的复数形式）",
+  "definition": "n a native or inhabitant of the United States\\nn the English language as used in the United States\\nn a native or inhabitant of a North American or Central American or South American country"
+ },
+ {
+  "word": "apart",
+  "phonetic": "ә'pɑ:t",
+  "translation": "adv. 成零碎, 成距离, 分别地, 分离着\\na. 分离的",
+  "definition": "s. remote and separate physically or socially\\ns. having characteristics not shared by others\\nr. separated or at a distance in place or position or time\\nr. not taken into account or excluded from consideration"
+ },
+ {
+  "word": "asians",
+  "phonetic": "",
+  "translation": "n. 亚洲人（Asian的复数）",
+  "definition": "n a native or inhabitant of Asia"
+ },
+ {
+  "word": "au",
+  "phonetic": "әu",
+  "translation": "[计] 加法器, 运算器, 声频\\n[医] 金(79号元素)",
+  "definition": "n a soft yellow malleable ductile (trivalent and univalent) metallic element; occurs mainly as nuggets in rocks and alluvial deposits; does not react with most chemicals but is attacked by chlorine and aqua regia\\nn a unit of length used for distances within the solar system; equal to the mean distance between the Earth and the Sun (approximately 93 million miles or 150 million kilometers)"
+ },
+ {
+  "word": "back",
+  "phonetic": "bæk",
+  "translation": "a. 后面的\\nvt. 使后退, 支持\\nvi. 倒退, 背靠\\nadv. 向后地\\nn. 背部, 后面",
+  "definition": "n. the posterior part of a human (or animal) body from the neck to the end of the spine\\nn. the part of something that is furthest from the normal viewer\\nn. (football) a person who plays in the backfield\\nn. the part of a garment that covers the back of your body"
+ },
+ {
+  "word": "becomes",
+  "phonetic": "biˈkʌmz",
+  "translation": "v. 变为, 成为( become的第三人称单数 ); 适合; 使（人）显得漂亮; 使好看",
+  "definition": "v enter or assume a certain state or condition\\nv undergo a change or development\\nv come into existence\\nv enhance the appearance of"
+ },
+ {
+  "word": "before",
+  "phonetic": "bi'fɒ:",
+  "translation": "prep. 在...之前\\nconj. 在...之前\\nadv. 在前",
+  "definition": "r earlier in time; previously\\nr at or in the front"
+ },
+ {
+  "word": "building",
+  "phonetic": "'bildiŋ",
+  "translation": "n. 建筑物, 建筑\\n[法] 营造, 建筑, 建筑物",
+  "definition": "n. a structure that has a roof and walls and stands more or less permanently in one place\\nn. the occupants of a building"
+ },
+ {
+  "word": "business",
+  "phonetic": "'biznis",
+  "translation": "n. 生意, 事情, 业务, 商业, 商行, 职责\\n[经] 企业, 商业, 营业",
+  "definition": "n. a commercial or industrial enterprise and the people who constitute it\\nn. a rightful concern or responsibility\\nn. an immediate objective\\nn. the volume of commercial activity"
+ },
+ {
+  "word": "carver",
+  "phonetic": "'kɑ:vә",
+  "translation": "n. 雕刻匠, 雕工, 切肉刀\\n[医] 雕刻器",
+  "definition": "n. United States botanist and agricultural chemist who developed many uses for peanuts and soy beans and sweet potatoes (1864-1943)"
+ },
+ {
+  "word": "challenge",
+  "phonetic": "'tʃælindʒ",
+  "translation": "n. 挑战, 盘问\\nvt. 向...挑战, 要求, 怀疑\\nvi. 挑战, 对(证据等)表示异议",
+  "definition": "n. a demanding or stimulating situation\\nn. a call to engage in a contest or fight\\nn. questioning a statement and demanding an explanation\\nn. a formal objection to the selection of a particular person as a juror"
+ },
+ {
+  "word": "chinese",
+  "phonetic": "tʃai'ni:z",
+  "translation": "n. 中文, 中国话, 中国人\\na. 中国的, 中国话的",
+  "definition": "n. any of the Sino-Tibetan languages spoken in China; regarded as dialects of a single language (even though they are mutually unintelligible) because they share an ideographic writing system\\nn. a native or inhabitant of Communist China or of Nationalist China\\na. of or pertaining to China or its peoples or cultures"
+ },
+ {
+  "word": "circuits",
+  "phonetic": "",
+  "translation": "n. 环路；巡回；电路（circuit的复数）",
+  "definition": "n an electrical device that provides a path for electrical current to flow\\nn a journey or route all the way around a particular place or area\\nn an established itinerary of venues or events that a particular group of people travel to\\nn the boundary line encompassing an area or object\\nn (law) a judicial division of a state or the United States (so-called because originally judges traveled and held court in different locations); one of the twelve groups of states in the United States that is covered by a particular circuit court of appeals\\nn a racetrack for automobile races\\nn movement once around a course\\nv make a circuit"
+ },
+ {
+  "word": "city",
+  "phonetic": "'siti",
+  "translation": "n. 城市, 市\\n[法] 都市, 城市, 市",
+  "definition": "n. a large and densely populated urban area; may include several independent administrative districts\\nn. an incorporated administrative district established by state charter\\nn. people living in a large densely populated municipality"
+ },
+ {
+  "word": "classroom",
+  "phonetic": "'klɑ:sru:m",
+  "translation": "n. 教室",
+  "definition": "n. a room in a school where lessons take place"
+ },
+ {
+  "word": "colleges",
+  "phonetic": "",
+  "translation": "n. 专科学院（college复数形式）",
+  "definition": "n the body of faculty and students of a college\\nn an institution of higher education created to educate and grant degrees; often a part of a university\\nn a complex of buildings in which an institution of higher education is housed"
+ },
+ {
+  "word": "company",
+  "phonetic": "'kʌmpәni",
+  "translation": "n. 公司, 友伴, 交往, 连队, 朋友, 一群\\nvt. 陪伴\\nvi. 交往",
+  "definition": "n. an institution created to conduct business\\nn. small military unit; usually two or three platoons\\nn. the state of being with someone\\nn. organization of performers and associated personnel (especially theatrical)"
+ },
+ {
+  "word": "constitute",
+  "phonetic": "kәn'stitjut",
+  "translation": "vt. 构成, 组成, 任命\\n[建] 构造, 组成",
+  "definition": "v. form or compose"
+ },
+ {
+  "word": "cost",
+  "phonetic": "kɒst",
+  "translation": "n. 代价, 价值, 费用\\nvi. 花费\\nvt. 使失去, 值, 使花费",
+  "definition": "n. the total spent for goods or services including money and time and labor\\nv. be priced at\\nv. require to lose, suffer, or sacrifice"
+ },
+ {
+  "word": "creates",
+  "phonetic": "",
+  "translation": "[n. 创建；创立",
+  "definition": "v make or cause to be or to become\\nv bring into existence\\nv pursue a creative activity; be engaged in a creative activity\\nv invest with a new title, office, or rank\\nv create by artistic means\\nv create or manufacture a man-made product"
+ },
+ {
+  "word": "crucial",
+  "phonetic": "'kru:ʃәl",
+  "translation": "a. 决定性的, 重要的, 严厉的\\n[医] 十字形的; 决断的, 定局的",
+  "definition": "a. of extreme importance; vital to the resolution of a crisis\\ns. having crucial relevance"
+ },
+ {
+  "word": "customized",
+  "phonetic": "",
+  "translation": "n. 自定义；客制化；自定义级别",
+  "definition": "v make to specifications\\nv make according to requirements"
+ },
+ {
+  "word": "customs",
+  "phonetic": "",
+  "translation": "n. 海关, 关卡, 关税\\n[经] 关税, 海关",
+  "definition": "n. money collected under a tariff\\nn. money collected under a tariff"
+ },
+ {
+  "word": "d",
+  "phonetic": "di:",
+  "translation": "[计] 数据, 十进制, 数位, 位, 文档, 域\\n[医] 氘, 重氢",
+  "definition": "n. the 4th letter of the Roman alphabet"
+ },
+ {
+  "word": "damodar",
+  "phonetic": "",
+  "translation": "n. (Damodar)人名；(葡、尼)达莫达尔"
+ },
+ {
+  "word": "days",
+  "phonetic": "deiz",
+  "translation": "n. 一生, 时期\\nadv. 每天, 在白天",
+  "definition": "n. the time during which someone's life continues"
+ },
+ {
+  "word": "design",
+  "phonetic": "di'zain",
+  "translation": "n. 设计, 图样, 方案, 企图\\nv. 设计, 计划",
+  "definition": "n. the act of working out the form of something (as by making a sketch or outline or plan)\\nn. an arrangement scheme\\nn. a decorative or artistic work\\nn. a preliminary sketch indicating the plan for something"
+ },
+ {
+  "word": "desks",
+  "phonetic": "",
+  "translation": "n. 书桌；桌子（desk的复数）",
+  "definition": "n a piece of furniture with a writing surface and usually drawers or other compartments"
+ },
+ {
+  "word": "dollars",
+  "phonetic": "",
+  "translation": "n. 美元（dollar的复数）",
+  "definition": "n the basic monetary unit in many countries; equal to 100 cents\\nn a piece of paper money worth one dollar\\nn a United States coin worth one dollar\\nn a symbol of commercialism or greed"
+ },
+ {
+  "word": "draw",
+  "phonetic": "drɒ:",
+  "translation": "vi. 拉, 拖, 拔剑\\nvt. 拖拉, 挨近, 领取, 打成平局, 引导, 抽签决定, 画, 描写, 制订, 草拟, 吸引\\nn. 拉, 拖, 拔出, 抽签, 平局\\n[计] 翻牌, 绘图",
+  "definition": "n. a gully that is shallower than a ravine\\nn. the finish of a contest in which the score is tied and the winner is undecided\\nn. anything (straws or pebbles etc.) taken or chosen at random\\nn. a playing card or cards dealt or taken from the pack"
+ },
+ {
+  "word": "drop",
+  "phonetic": "drɒp",
+  "translation": "n. 滴, 微量, 落下, 空投\\nvi. 放下, 掉下, 下降\\nvt. 使滴下, 放下, 丢失, 遗漏\\n[计] 投入, 投入点, 接入点, 分接点",
+  "definition": "n. a shape that is spherical and small\\nn. a small indefinite quantity (especially of a liquid)\\nn. a sudden sharp decrease in some quantity\\nn. a predetermined hiding place for the deposit and distribution of illicit goods (such as drugs or stolen property)"
+ },
+ {
+  "word": "droves",
+  "phonetic": "d'rəʊvz",
+  "translation": "n. 人群",
+  "definition": "n a group of animals (a herd or flock) moving together\\nn a moving crowd\\nn a stonemason's chisel with a broad edge for dressing stone"
+ },
+ {
+  "word": "editor",
+  "phonetic": "'editә",
+  "translation": "n. 编者, 编辑, 主笔, 编辑器, 编辑装置\\n[计] 编辑器",
+  "definition": "n. a person responsible for the editorial aspects of publication; the person who determines the final content of a text (especially of a newspaper or magazine)"
+ },
+ {
+  "word": "enable",
+  "phonetic": "i'neibl",
+  "translation": "vt. 使能够\\n[计] 允许, 使能, 打开",
+  "definition": "v. render capable or able for some task"
+ },
+ {
+  "word": "engineering",
+  "phonetic": ".endʒi'niәriŋ",
+  "translation": "n. 工程学, 工程, 操纵\\n[化] 机器; 机器学",
+  "definition": "n. the discipline dealing with the art or science of applying scientific knowledge to practical problems\\nn. a room (as on a ship) in which the engine is located"
+ },
+ {
+  "word": "expensive",
+  "phonetic": "ik'spensiv",
+  "translation": "a. 贵的, 奢华的, 费用浩大的, 乱化钱的\\n[经] 高价的, 昂贵的, 浪费的",
+  "definition": "a. high in price or charging high prices"
+ },
+ {
+  "word": "factory",
+  "phonetic": "'fæktәri",
+  "translation": "n. 工厂, 产生地, 代理店\\n[经] 工厂, 代理店, 商行在国外的代理处",
+  "definition": "n. a plant consisting of one or more buildings with facilities for manufacturing"
+ },
+ {
+  "word": "failures",
+  "phonetic": "",
+  "translation": "n. 失败（failure的复数）",
+  "definition": "n an act that fails\\nn an event that does not accomplish its intended purpose\\nn lack of success\\nn a person with a record of failing; someone who loses consistently\\nn an unexpected omission\\nn inability to discharge all your debts as they come due\\nn loss of ability to function normally"
+ },
+ {
+  "word": "fast",
+  "phonetic": "fɑ:st",
+  "translation": "a. 快速的, 紧的\\nadv. 很快地, 紧紧地, 彻底地\\nn. 绝食, 斋戒\\nvi. 绝食, 斋戒",
+  "definition": "n. abstaining from food\\nv. abstain from certain foods, as for religious or medical reasons\\nv. abstain from eating\\na. acting or moving or capable of acting or moving quickly"
+ },
+ {
+  "word": "filipino",
+  "phonetic": ".fili'pi:nәu",
+  "translation": "n. 菲律宾人",
+  "definition": "n. a native or inhabitant of the Philippines\\na. of or relating to or characteristic of the Philippines or its people or customs"
+ },
+ {
+  "word": "financing",
+  "phonetic": "fai'nænsiŋ",
+  "translation": "n. 融资, 理财, 筹集的资金\\n[经] 筹措资金, 理财",
+  "definition": "n. the act of financing"
+ },
+ {
+  "word": "firms",
+  "phonetic": "",
+  "translation": "n. 公司, 厂商（firm的复数）",
+  "definition": "n the members of a business organization that owns or operates one or more establishments\\nv become taut or tauter\\nv make taut or tauter"
+ },
+ {
+  "word": "foreign",
+  "phonetic": "'fɒ:rin",
+  "translation": "a. 外国的, 外交的, 外省的, 外来的, 不相关的\\n[机] 外来的",
+  "definition": "a. of concern to or concerning the affairs of other nations (other than your own)\\na. relating to or originating in or characteristic of another place or part of the world"
+ },
+ {
+  "word": "forge",
+  "phonetic": "fɒ:dʒ",
+  "translation": "n. 熔炉, 铁工厂\\nvt. 打制, 锻造, 伪造\\nvi. 锻造, 伪造",
+  "definition": "n. furnace consisting of a special hearth where metal is heated before shaping\\nn. a workplace where metal is worked by heating and hammering\\nv. create by hammering\\nv. make a copy of with the intent to deceive"
+ },
+ {
+  "word": "free",
+  "phonetic": "fri:",
+  "translation": "a. 自由的, 享受政治权力的, 允许的, 免费的, 丰富的\\nvt. 释放, 解放, 使自由\\nadv. 自由地, 免费",
+  "definition": "n. people who are free\\nv. grant freedom to; free from confinement\\nv. make (information) available for publication\\nv. free from obligations or duties"
+ },
+ {
+  "word": "future",
+  "phonetic": "'fju:tʃә",
+  "translation": "n. 未来, 将来\\na. 将来的, 未来的",
+  "definition": "n. the time yet to come\\nn. a verb tense that expresses actions or states in the future\\nn. bulk commodities bought or sold at an agreed price for delivery at a specified future date\\na. yet to be or coming"
+ },
+ {
+  "word": "garage",
+  "phonetic": "gә'rɑ:ʒ. 'gærɑ:ʒ",
+  "translation": "n. 车库, 汽车修理厂, 机库\\nvt. 把车送入修车场",
+  "definition": "n. an outbuilding (or part of a building) for housing automobiles\\nn. a repair shop where cars and trucks are serviced and repaired\\nv. keep or store in a garage"
+ },
+ {
+  "word": "garages",
+  "phonetic": "ˈɡærɑ:ʒɪz",
+  "translation": "n. 车库（ garage的名词复数 ）; 汽车修理站; 加油站; （兼营汽车修理、销售的）加油站",
+  "definition": "n an outbuilding (or part of a building) for housing automobiles\\nn a repair shop where cars and trucks are serviced and repaired\\nv keep or store in a garage"
+ },
+ {
+  "word": "generation",
+  "phonetic": ".dʒenә'reiʃәn",
+  "translation": "n. 一代, 一世, 产生\\n[医] 生殖, 世代",
+  "definition": "n. group of genetically related organisms constituting a single step in the line of descent\\nn. the normal time between successive generations\\nn. a stage of technological development or innovation\\nn. the production of heat or electricity"
+ },
+ {
+  "word": "getting",
+  "phonetic": "'^etiŋ",
+  "translation": "n. 采煤, 采掘；获得",
+  "definition": "n the act of acquiring something\\nv come into the possession of something concrete or abstract\\nv enter or assume a certain state or condition\\nv cause to move; cause to be in a certain position or condition\\nv receive a specified treatment (abstract)\\nv reach a destination; arrive by movement or progress\\nv go or come after and bring or take back\\nv go through (mental or physical states or experiences)\\nv take vengeance on or get even\\nv achieve a point or goal\\nv cause to do; cause to act in a specified manner\\nv succeed in catching or seizing, especially after a chase\\nv come to have or undergo a change of (physical features and attributes)\\nv be stricken by an illness, fall victim to an illness\\nv communicate with a place or person; establish communication with, as if by telephone\\nv give certain properties to something\\nv move into a desired direction of discourse\\nv grasp with the mind or develop an understanding of\\nv attract and fix\\nv reach with a blow or hit in a particular spot\\nv reach by calculation\\nv acquire as a result of some effort or action\\nv purchase\\nv perceive by hearing\\nv suffer from the receipt of\\nv receive as a retribution or punishment\\nv leave immediately; used usually in the imperative form\\nv reach and board\\nv irritate\\nv evoke an emotional response\\nv apprehend and reproduce accurately\\nv earn or achieve a base by being walked by the pitcher\\nv overcome or destroy\\nv be a mystery or bewildering to\\nv take the first step or steps in carrying out an action\\nv undergo (as of injuries and illnesses)\\nv make children"
+ },
+ {
+  "word": "giving",
+  "phonetic": "'giviŋ",
+  "translation": "n. 礼物, 给予物\\n[法] 给予物, 礼物",
+  "definition": "n. the act of giving\\nn. the imparting of news or promises etc.\\nn. disposing of property by voluntary transfer without receiving value in return"
+ },
+ {
+  "word": "global",
+  "phonetic": "'glәubl",
+  "translation": "a. 通用的, 全球的, 球形的, 综合的, 普遍的\\n[计] 共用",
+  "definition": "s. involving the entire earth; not limited or provincial in scope"
+ },
+ {
+  "word": "got",
+  "phonetic": "gɒt",
+  "translation": "get的过去式和过去分词\\n[化] 谷草转氨酶; 谷氨酸草酰乙酸转氨酶",
+  "definition": "v come into the possession of something concrete or abstract\\nv enter or assume a certain state or condition\\nv cause to move; cause to be in a certain position or condition\\nv receive a specified treatment (abstract)\\nv reach a destination; arrive by movement or progress\\nv go or come after and bring or take back\\nv go through (mental or physical states or experiences)\\nv take vengeance on or get even\\nv achieve a point or goal\\nv cause to do; cause to act in a specified manner\\nv succeed in catching or seizing, especially after a chase\\nv come to have or undergo a change of (physical features and attributes)\\nv be stricken by an illness, fall victim to an illness\\nv communicate with a place or person; establish communication with, as if by telephone\\nv give certain properties to something\\nv move into a desired direction of discourse\\nv grasp with the mind or develop an understanding of\\nv attract and fix\\nv reach with a blow or hit in a particular spot\\nv reach by calculation\\nv acquire as a result of some effort or action\\nv purchase\\nv perceive by hearing\\nv suffer from the receipt of\\nv receive as a retribution or punishment\\nv leave immediately; used usually in the imperative form\\nv reach and board\\nv irritate\\nv evoke an emotional response\\nv apprehend and reproduce accurately\\nv earn or achieve a base by being walked by the pitcher\\nv overcome or destroy\\nv be a mystery or bewildering to\\nv take the first step or steps in carrying out an action\\nv undergo (as of injuries and illnesses)\\nv make children"
+ },
+ {
+  "word": "graduating",
+  "phonetic": "ˈɡrædjuitɪŋ",
+  "translation": "v. 渐变( graduate的现在分词 ); 渐渐变为（与into连用）; 渐渐消逝（与away连用）; 取得资格（与as连用）",
+  "definition": "p. pr. & vb. n. of Graduate"
+ },
+ {
+  "word": "heads",
+  "phonetic": "hedz",
+  "translation": "a. 正面朝上的",
+  "definition": "n the upper part of the human body or the front part of the body in animals; contains the face and brains\\nn a single domestic animal\\nn that which is responsible for one's thoughts and feelings; the seat of the faculty of reason\\nn a person who is in charge\\nn the front of a military formation or procession\\nn the pressure exerted by a fluid\\nn the top of something\\nn the source of water from which a stream arises\\nn (grammar) the word in a grammatical constituent that plays the same grammatical role as the whole constituent\\nn the tip of an abscess (where the pus accumulates)\\nn the length or height based on the size of a human or animal head\\nn a dense cluster of flowers or foliage\\nn the educator who has executive authority for a school\\nn an individual person\\nn a user of (usually soft) drugs\\nn a natural elevation (especially a rocky one that juts out into the sea)\\nn a rounded compact mass\\nn the foam or froth that accumulates at the top when you pour an effervescent liquid into a container\\nn the part in the front or nearest the viewer\\nn a difficult juncture\\nn forward movement\\nn a V-shaped mark at one end of an arrow pointer\\nn the subject matter at issue\\nn a line of text serving to indicate what the passage below it is about\\nn the rounded end of a bone that fits into a rounded cavity in another bone to form a joint\\nn that part of a skeletal muscle that is away from the bone that it moves\\nn (computer science) a tiny electromagnetic coil and metal pole used to write and read magnetic patterns on a disk\\nn (usually plural) the obverse side of a coin that usually bears the representation of a person's head\\nn the striking part of a tool\\nn (nautical) a toilet on board a boat or ship\\nn a projection out from one end\\nn a membrane that is stretched taut over a drum\\nn oral stimulation of the genitals\\nv to go or travel towards\\nv be in charge of\\nv travel in front of; go in advance of others\\nv be the first or leading member of (a group) and excel\\nv direct the course; determine the direction of travelling\\nv take its rise\\nv be in the front of or on top of\\nv form a head or come or grow to a head\\nv remove the head of"
+ },
+ {
+  "word": "hong",
+  "phonetic": "hɔŋ",
+  "translation": "n. （中国、日本的）行, 商行",
+  "definition": "n. A mercantile establishment or factory for foreign trade in\\n   China, as formerly at Canton; a succession of offices connected by a\\n   common passage and used for business or storage.\\nv. t. & i. To hang."
+ },
+ {
+  "word": "hundred",
+  "phonetic": "'hʌndrәd",
+  "translation": "n. 百, 百个东西\\nnum. 百, 百个\\na. 一百的, 许多的",
+  "definition": "n. ten 10s\\ns. being ten more than ninety"
+ },
+ {
+  "word": "imaginations",
+  "phonetic": "iˌmædʒiˈneiʃənz",
+  "translation": "n. 想像力( imagination的复数形式 ); 空想; 想像出来的东西",
+  "definition": "n. the formation of a mental image of something that is not perceived as real and is not present to the senses\\nn. the ability to form mental images of things or events\\nn. the ability to deal resourcefully with unusual problems"
+ },
+ {
+  "word": "india",
+  "phonetic": "'indjә",
+  "translation": "n. 印度",
+  "definition": "n. a republic in the Asian subcontinent in southern Asia; second most populous country in the world; achieved independence from the United Kingdom in 1947"
+ },
+ {
+  "word": "indian",
+  "phonetic": "'indiәn",
+  "translation": "n. 印度人, 印第安人, 印第安语\\na. 印度的, 印度群岛的, 印第安语的",
+  "definition": "n. a member of the race of people living in America when Europeans arrived\\nn. a native or inhabitant of India\\na. of or relating to or characteristic of India or the East Indies or their peoples or languages or cultures"
+ },
+ {
+  "word": "industry",
+  "phonetic": "'indәstri",
+  "translation": "n. 勤劳, 工业, 企业, 产业, 有组织的劳动\\n[经] 工业, 实业",
+  "definition": "n. the people or companies engaged in a particular kind of commercial enterprise\\nn. the organized action of making of goods and services for sale"
+ },
+ {
+  "word": "innovators",
+  "phonetic": "ˈɪnəveɪtə(r)",
+  "translation": "n. 改革者( innovator的复数形式 ); 刷新者",
+  "definition": "n. someone who helps to open up a new line of research or technology or art"
+ },
+ {
+  "word": "instance",
+  "phonetic": "'instәns",
+  "translation": "n. 建议, 情况, 例子, 场合\\nvt. 引以为例, 举例说明",
+  "definition": "n an occurrence of something\\nn an item of information that is typical of a class or group\\nv clarify by giving an example of"
+ },
+ {
+  "word": "institute",
+  "phonetic": "'institju:t",
+  "translation": "n. 学会, 学院, 协会\\nvt. 创立, 开始, 制定, 任命",
+  "definition": "n. an association organized to promote art or science or education\\nv. advance or set forth in court"
+ },
+ {
+  "word": "integrated",
+  "phonetic": "'intәgreitid",
+  "translation": "a. 综合的, 完整的, 互相协调的\\n[法] 成为整体的, 综合的, 统筹的",
+  "definition": "a. formed into a whole or introduced into another entity\\na. not segregated; designated as available to all races or groups\\ns. resembling a living organism in organization or development"
+ },
+ {
+  "word": "inventors",
+  "phonetic": "ɪn'ventəz",
+  "translation": "n. 发明家, 发明者( inventor的复数形式 )",
+  "definition": "n. someone who is the first to think of or make something"
+ },
+ {
+  "word": "japan",
+  "phonetic": "dʒә'pæn",
+  "translation": "n. 日本\\n[化] 天然漆; 大漆; 漆器",
+  "definition": "n. a string of more than 3,000 islands to the east of Asia extending 1,300 miles between the Sea of Japan and the western Pacific Ocean\\nn. a constitutional monarchy occupying the Japanese Archipelago; a world leader in electronics and automobile manufacture and ship building\\nn. lacquerware decorated and varnished in the Japanese manner with a glossy durable black lacquer"
+ },
+ {
+  "word": "jump",
+  "phonetic": "dʒʌmp",
+  "translation": "n. 跳跃, 跳动, 暴涨, 惊跳\\nvt. 跳跃, 跃过, 突升, 使跳跃\\nvi. 跳跃, 跳, 跳动, 暴涨\\n[计] 转移, 跳转",
+  "definition": "n. a sudden and decisive increase\\nn. (film) an abrupt transition from one scene to another\\nn. descent with a parachute\\nn. the act of jumping; propelling yourself off the ground"
+ },
+ {
+  "word": "kansas",
+  "phonetic": "'kænzәs",
+  "translation": "n. 堪萨斯州",
+  "definition": "n. a state in midwestern United States\\nn. a river in northeastern Kansas; flows eastward to become a tributary of the Missouri River"
+ },
+ {
+  "word": "kong",
+  "phonetic": "kɔŋ",
+  "translation": "n. 含锡砾石下的无矿基岩；钢"
+ },
+ {
+  "word": "korean",
+  "phonetic": "kә'riәn",
+  "translation": "n. 朝鲜人, 朝鲜语\\na. 朝鲜人的, 朝鲜语的",
+  "definition": "n. a native or inhabitant of Korea who speaks the Korean language\\nn. the Altaic language spoken by Koreans\\na. of or relating to or characteristic of Korea or its people or language"
+ },
+ {
+  "word": "languages",
+  "phonetic": "",
+  "translation": "n. 语系, 语种；语言文字（language复数）",
+  "definition": "n a systematic means of communicating by the use of sounds or conventional symbols\\nn (language) communication by word of mouth\\nn the text of a popular song or musical-comedy number\\nn the cognitive processes involved in producing and understanding linguistic communication\\nn the mental faculty or power of vocal communication\\nn a system of words used to name things in a particular discipline"
+ },
+ {
+  "word": "last",
+  "phonetic": "lɑ:st",
+  "translation": "a. 最后的, 末尾的, 最近的\\nvi. 持续, 支持, 维持\\nvt. 使维持, 够...用\\nadv. 最后, 后来\\nn. 最后, 末尾, 鞋楦头",
+  "definition": "n. the last or lowest in an ordering or series\\nn. a person's dying act; the final thing a person can do\\nn. a unit of weight equal to 4,000 pounds\\nn. a unit of capacity for grain equal to 80 bushels"
+ },
+ {
+  "word": "lesson",
+  "phonetic": "'lesn",
+  "translation": "n. 课, 课业, 教训",
+  "definition": "n. a unit of instruction\\nn. a task assigned for individual study"
+ },
+ {
+  "word": "let",
+  "phonetic": "let",
+  "translation": "vt. 让, 假设, 出租, 排放, 妨碍\\nvi. 出租, 被承包\\nn. 出租屋, 障碍",
+  "definition": "n. a serve that strikes the net before falling into the receiver's court; the ball must be served again\\nv. make it possible through a specific action or lack of action for something to happen\\nv. actively cause something to happen\\nv. leave unchanged"
+ },
+ {
+  "word": "links",
+  "phonetic": "liŋks",
+  "translation": "n. 高尔夫球场",
+  "definition": "n. a golf course that is built on sandy ground near a shore"
+ },
+ {
+  "word": "lock",
+  "phonetic": "lɒk",
+  "translation": "n. 锁, 刹车, 水闸, 一缕头发\\nvt. 锁, 锁上, 拘禁, 隐藏, (用锁等)拴住, 刹住\\nvi. 锁住, (齿轮等)啮合, (船)过闸",
+  "definition": "n. a fastener fitted to a door or drawer to keep it firmly closed\\nn. a strand or cluster of hair\\nn. a mechanism that detonates the charge of a gun\\nn. enclosure consisting of a section of canal that can be closed to control the water level; used to raise or lower vessels that pass through it"
+ },
+ {
+  "word": "macintosh",
+  "phonetic": "",
+  "translation": "[计] Macintosh计算机\\n[医] 橡皮防水布, 不透水布",
+  "definition": "n. a waterproof raincoat made of rubberized fabric"
+ },
+ {
+  "word": "majority",
+  "phonetic": "mә'dʒɒriti",
+  "translation": "n. 多数, 大半\\n[计] 多数逻辑",
+  "definition": "n. the property resulting from being or relating to the greater in number of two parts; the main part\\nn. (elections) more than half of the votes\\nn. the age at which persons are considered competent to manage their own affairs"
+ },
+ {
+  "word": "making",
+  "phonetic": "'meikiŋ",
+  "translation": "n. 制造, (手工)制造业, 制作, 形成, 发展, 要素, 内在因素, 赚头, 制造物",
+  "definition": "n. (usually plural) the components needed for making or doing something"
+ },
+ {
+  "word": "many",
+  "phonetic": "'meni",
+  "translation": "n. 多数, 多数人\\na. 许多的\\npron. 许多",
+  "definition": "a. a quantifier that can be used with count nouns and is often preceded by `as' or `too' or `so' or `that'; amounting to a large but indefinite number"
+ },
+ {
+  "word": "markets",
+  "phonetic": "",
+  "translation": "n. 市场, 市场组合（market 复数）",
+  "definition": "n the world of commercial activity where goods and services are bought and sold\\nn the customers for a particular product or service\\nn a marketplace where groceries are sold\\nn the securities markets in the aggregate\\nn an area in a town where a public mercantile establishment is set up\\nv engage in the commercial promotion, sale, or distribution of\\nv buy household supplies\\nv deal in a market\\nv make commercial"
+ },
+ {
+  "word": "memory-chip",
+  "phonetic": "'memərɪtʃɪp",
+  "translation": "n. 内存条"
+ },
+ {
+  "word": "missouri",
+  "phonetic": "mi'zuәri",
+  "translation": "n. 密苏里州",
+  "definition": "n. a midwestern state in central United States; a border state during the American Civil War, Missouri was admitted to the Confederacy without actually seceding from the Union\\nn. the longest river in the United States; arises in Montana and flows southeastward to become a tributary of the Mississippi at Saint Louis\\nn. a member of the Siouan people formerly inhabiting the valley of the Missouri river in Missouri"
+ },
+ {
+  "word": "much",
+  "phonetic": "mʌtʃ",
+  "translation": "n. 大量, 许多, 重要的事\\na. 很多的, 重要的\\nadv. 多, 甚, 几乎",
+  "definition": "n. a great amount or extent\\na. (quantifier used with mass nouns) great in quantity or degree or extent\\nr. to a great degree or extent\\nr. very"
+ },
+ {
+  "word": "n",
+  "phonetic": "en",
+  "translation": "[计] 负的, 数, 编号, 纳\\n[医] 氮(7号元素), 当量的, 规度的(溶液)",
+  "definition": "n. the 14th letter of the Roman alphabet"
+ },
+ {
+  "word": "near",
+  "phonetic": "niә",
+  "translation": "a. 近的, 近亲的, 近似的\\nadv. 接近, 亲近\\nprep. 靠近, 近似于\\nv. 接近, 走近",
+  "definition": "a. not far distant in time or space or degree or circumstances\\ns. being on the left side\\ns. closely resembling the genuine article\\nr. near in time or place or relationship"
+ },
+ {
+  "word": "newsletter",
+  "phonetic": "'nju:z.letә",
+  "translation": "n. 时事通讯, 业务通讯, 时事传报\\n[法] 时事通讯, 时事信札",
+  "definition": "n. report or open letter giving informal or confidential news of interest to a special group"
+ },
+ {
+  "word": "next",
+  "phonetic": "'nekst",
+  "translation": "n. 下一个\\na. 下一个的, 其次的, 贴近的\\nadv. 然后, 下次, 次于\\n[计] 近邻干扰",
+  "definition": "r. at the time or occasion immediately following"
+ },
+ {
+  "word": "notes",
+  "phonetic": "",
+  "translation": "n. 票据；注释, 说明（note复数）",
+  "definition": "n a brief written record\\nn a short personal letter\\nn a notation representing the pitch and duration of a musical sound\\nn a tone of voice that shows what the speaker is feeling\\nn a characteristic emotional quality\\nn a piece of paper money (especially one issued by a central bank)\\nn a comment or instruction (usually added)\\nn high status importance owing to marked superiority\\nn a promise to pay a specified amount on demand or at a certain time\\nv make mention of\\nv notice or perceive\\nv observe with care or pay close attention to\\nv make a written note of"
+ },
+ {
+  "word": "now",
+  "phonetic": "nau",
+  "translation": "adv. 现在, 刚才, 目前\\nn. 现在\\na. 现在的\\nconj. 由于",
+  "definition": "n. the momentary present\\nr. in the historical present; at this point in the narration of a series of past events\\nr. used to preface a command or reproof or request\\nr. at the present moment"
+ },
+ {
+  "word": "observes",
+  "phonetic": "əbˈzə:vz",
+  "translation": "v. 观察, 研究( observe的第三人称单数 ); 遵守; （尤指为科学目的的）观察; 看到",
+  "definition": "v discover or determine the existence, presence, or fact of\\nv make mention of\\nv observe with care or pay close attention to\\nv watch attentively\\nv show respect towards\\nv behave as expected during of holidays or rites\\nv follow with the eyes or the mind\\nv stick to correctly or closely\\nv conform one's action or practice to"
+ },
+ {
+  "word": "office",
+  "phonetic": "'ɒfis",
+  "translation": "n. 办公室, 部, 公职, 职责\\n[化] 办公室",
+  "definition": "n. place of business where professional or clerical duties are performed\\nn. (of a government or government official) holding an office means being in power\\nn. professional or clerical workers in an office\\nn. a religious rite or service prescribed by ecclesiastical authorities"
+ },
+ {
+  "word": "orientals",
+  "phonetic": "ˌɔ:riˈentəlz",
+  "translation": "n. 东方的, 东方人的, 东方文化的( oriental的复数形式 )",
+  "definition": "n. a member of an Oriental race; the term is regarded as offensive by Asians (especially by Asian Americans)"
+ },
+ {
+  "word": "pacific",
+  "phonetic": "pә'sifik",
+  "translation": "n. 太平洋\\na. 太平洋的, 太平洋沿岸的, 爱好和平的, 安静的, 平息的",
+  "definition": "n. the largest ocean in the world\\na. relating to or bordering the Pacific Ocean\\ns. disposed to peace or of a peaceful nature"
+ },
+ {
+  "word": "penalized",
+  "phonetic": "ˈpi:nəlaizd",
+  "translation": "v. 对…予以惩罚( penalize的过去式和过去分词 ); 使处于不利地位",
+  "definition": "v impose a penalty on; inflict punishment on"
+ },
+ {
+  "word": "people",
+  "phonetic": "'pi:pl",
+  "translation": "n. 人, 人民, 民族, 平民\\nvt. 使住满人, 居住于",
+  "definition": "n. (plural) any group of human beings (men or women or children) collectively\\nn. members of a family line\\nv. fill with people\\nv. furnish with people"
+ },
+ {
+  "word": "perfect",
+  "phonetic": "'pә:fikt",
+  "translation": "n. 完成时\\na. 完美的, 完好的, 理想的, 熟练的, 精确的, 完成式的\\nvt. 使完美, 修改, 使精通, 改善, 使熟练",
+  "definition": "v. make perfect or complete\\na. being complete of its kind and without defect or blemish\\ns. precisely accurate or exact"
+ },
+ {
+  "word": "ph",
+  "phonetic": "pi:eitʃ",
+  "translation": "氢离子指数\\n[医] 药典; 苯基",
+  "definition": "n. (from potential of Hydrogen) the logarithm of the reciprocal of hydrogen-ion concentration in gram atoms per liter; provides a measure on a scale from 0 to 14 of the acidity or alkalinity of a solution (where 7 is neutral and greater than 7 is more basic and less than 7 is more acidic);"
+ },
+ {
+  "word": "pioneer",
+  "phonetic": ".paiә'niә",
+  "translation": "n. 先锋, 拓荒者, 创始人\\nvt. 提倡, 开辟, 开创, 倡导\\nvi. 作先驱, 开路\\na. 最早的, 开拓的, 先驱的, 有开拓者特点的",
+  "definition": "n. someone who helps to open up a new line of research or technology or art\\nn. one the first colonists or settlers in a new territory\\nv. open up an area or prepare a way\\nv. open up and explore a new area"
+ },
+ {
+  "word": "plant",
+  "phonetic": "plænt. plɑ:nt",
+  "translation": "n. 植物, 作物, 工厂, 树枝, 生长, 设施, 成套设备\\nvt. 种植, 栽培, 播种, 培养, 安置, 殖民于, 使位于\\nvi. 种植",
+  "definition": "n. buildings for carrying on industrial labor\\nn. (botany) a living organism lacking the power of locomotion\\nn. an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience\\nn. something planted secretly for discovery by another"
+ },
+ {
+  "word": "powerful",
+  "phonetic": "'pauәful",
+  "translation": "a. 有力的, 有权力的, 强大的\\n[机] 强力的",
+  "definition": "a. having great power or force or potency or effect"
+ },
+ {
+  "word": "predicts",
+  "phonetic": "priˈdikts",
+  "translation": "v. 预言, 预测, 预示( predict的第三人称单数 )",
+  "definition": "v make a prediction about; tell in advance\\nv indicate by signs"
+ },
+ {
+  "word": "produce",
+  "phonetic": "prә'dju:s",
+  "translation": "n. 生产品, 物产, 后代\\nvt. 产生, 生产, 提出, 出示\\nvi. 生产, 制造",
+  "definition": "n. fresh fruits and vegetable grown for the market\\nv. bring forth or yield\\nv. create or manufacture a man-made product\\nv. cause to happen, occur or exist"
+ },
+ {
+  "word": "products",
+  "phonetic": "",
+  "translation": "n. 产品；商品（product的复数）",
+  "definition": "n commodities offered for sale\\nn an artifact that has been created by someone or some process\\nn a quantity obtained by multiplication\\nn a chemical substance formed as a result of a chemical reaction\\nn a consequence of someone's efforts or of a particular set of circumstances\\nn the set of elements common to two or more sets"
+ },
+ {
+  "word": "professor",
+  "phonetic": "prә'fesә",
+  "translation": "n. 教授",
+  "definition": "n. someone who is a member of the faculty at a college or university"
+ },
+ {
+  "word": "prove",
+  "phonetic": "pru:v",
+  "translation": "vt. 证明, 查验, 检验, 勘探, 显示\\nvi. 证明是",
+  "definition": "v. be shown or be found to be\\nv. establish the validity of something, as by an example, explanation or experiment\\nv. prove formally; demonstrate by a mathematical, formal proof\\nv. take a trial impression of"
+ },
+ {
+  "word": "push",
+  "phonetic": "puʃ",
+  "translation": "n. 推, 推动, 奋斗, 攻击, 进取心\\nvt. 推, 推动, 使伸出, 推行, 逼迫, 增加\\nvi. 推, 推进, 增加, 努力争取",
+  "definition": "n. the act of applying force in order to move something away\\nn. the force used in pushing\\nn. an effort to advance\\nv. move with force, \"He pushed the table into a corner\""
+ },
+ {
+  "word": "really",
+  "phonetic": "'riәli",
+  "translation": "adv. 实际上, 真实地, 实在",
+  "definition": "r in accordance with truth or fact or reality\\nr in actual fact\\nr in fact (used as intensifiers or sentence modifiers)\\nr used as intensifiers; `real' is sometimes used informally for `really'; `rattling' is informal"
+ },
+ {
+  "word": "reddy",
+  "phonetic": "",
+  "translation": "雷迪 Ready的变体"
+ },
+ {
+  "word": "reopened",
+  "phonetic": "ri:ˈəʊpənd",
+  "translation": "v. 重新开始( reopen的过去式和过去分词 ); 再开; 揭旧疮疤; 重提伤心事",
+  "definition": "v open again or anew"
+ },
+ {
+  "word": "retirement",
+  "phonetic": "ri'taiәmәnt",
+  "translation": "n. 退休, 隐居, 撤退\\n[经] 退休, 退股, (固定资产)报废",
+  "definition": "n. the state of being retired from one's business or occupation\\nn. withdrawal from your position or occupation\\nn. withdrawal for prayer and study and meditation"
+ },
+ {
+  "word": "right",
+  "phonetic": "rait",
+  "translation": "n. 权利, 右边, 正义, 右派, 公正\\na. 正确的, 对的, 恰当的, 正常的, 正直的, 正面的, 右方的\\nadv. 正确地, 以有利结果, 一直, 直接, 向右\\nvt. 扶直, 整理, 纠正, 伸冤, 使昭雪\\nvi. 恢复平衡\\n[计] 右, 权利",
+  "definition": "n. an abstract idea of that which is due to a person or governmental body by law or tradition or nature; it is something that nobody can take away\"\\nn. location near or direction toward the right side; i.e. the side to the south when a person or object faces east\\nn. those who support political or social or economic conservatism; those who believe that things are better left unchanged\\nn. the hand that is on the right side of the body"
+ },
+ {
+  "word": "rim",
+  "phonetic": "rim",
+  "translation": "n. 边, 轮缘, 框\\nvt. 镶边, 为...装边\\nvi. 形成边缘",
+  "definition": "n. the shape of a raised edge of a more or less circular object\\nn. (basketball) the hoop from which the net is suspended\\nn. the outer part of a wheel to which the tire is attached\\nv. run around the rim of"
+ },
+ {
+  "word": "rivals",
+  "phonetic": "'raivəlz",
+  "translation": "n. 竞争对手( rival的名词复数 )",
+  "definition": "n the contestant you hope to defeat\\nv be equal to in quality or ability\\nv be the rival of, be in competition with"
+ },
+ {
+  "word": "science",
+  "phonetic": "'saiәns",
+  "translation": "n. 科学, 学科, 学问, 自然科学\\n[医] 科学",
+  "definition": "n. a particular branch of scientific knowledge"
+ },
+ {
+  "word": "set",
+  "phonetic": "set",
+  "translation": "n. 日落, 同伙, 组合, 集合, 装置\\nvt. 放, 安置, 放置, 设定, 使凝结, 点燃, 确定, 点缀, 使就位, 树立, 分配, 调整\\nvi. 日落, 凝固, 定型, 搁住, 结果, 适合\\na. 决心的, 规定的, 故意的, 持久的, 固定的, 老套的, 准备好的\\n[计] 设置; DOS内部命令:改变或显示分配给环境变量的值",
+  "definition": "n. a group of things of the same kind that belong together and are so used\\nn. (mathematics) an abstract collection of numbers or symbols\\nn. several exercises intended to be done in series\\nn. an unofficial association of people or groups"
+ },
+ {
+  "word": "smart",
+  "phonetic": "smɑ:t",
+  "translation": "a. 聪明的, 漂亮的, 刺痛的, 剧烈的, 敏捷的, 巧妙的, 伶俐的, 潇洒的\\nn. 刺痛, 痛苦\\nvi. 刺痛",
+  "definition": "n. a kind of pain such as that caused by a wound or a burn or a sore\\na. showing mental alertness and calculation and resourcefulness\\ns. painfully severe\\ns. quick and brisk"
+ },
+ {
+  "word": "soar",
+  "phonetic": "sɒ:",
+  "translation": "n. 高扬, 翱翔\\nvi. 往上飞舞, 高耸, 翱翔",
+  "definition": "n. the act of rising upward into the air\\nv. rise rapidly\\nv. fly upwards or high in the sky\\nv. go or move upward"
+ },
+ {
+  "word": "soon",
+  "phonetic": "su:n",
+  "translation": "adv. 不久, 早, 快, 宁可",
+  "definition": "r. in the near future"
+ },
+ {
+  "word": "spawning",
+  "phonetic": "'spɔ:niŋ",
+  "translation": "v. 播种, 产卵；大量生成（spawn的现在分词）",
+  "definition": "v call forth\\nv lay spawn"
+ },
+ {
+  "word": "spring",
+  "phonetic": "spriŋ",
+  "translation": "n. 春天, 弹簧, 跳跃, 弹性, 活力, 泉, 源泉\\na. 春天的\\nvi. 跳, 弹跳, 涌出, 生长, 裂开, 高耸\\nvt. 使跳起, 使爆炸, 突然提出",
+  "definition": "n. the season of growth\\nn. a metal elastic device that returns to its shape or position when pushed or pulled or pressed\\nn. a natural flow of ground water\\nn. a point at which water issues forth"
+ },
+ {
+  "word": "staffs",
+  "phonetic": "stɑ:fs",
+  "translation": "n. 参谋( staff的名词复数 ); 全体职员; （大、中、小学的）管理人员; 权杖\\nv. 雇用( staff的第三人称单数 ); 担任…的职员（或雇员）; 为…配备工作人员; 给（职员）下发学习（或工作）指令（通常与 out 连用）",
+  "definition": "pl.  of Staff\\npl.  of Staff"
+ },
+ {
+  "word": "stanford",
+  "phonetic": "'stænfәd",
+  "translation": "n. 斯坦福（姓氏, 男子名）；斯坦福大学（美国一所大学）",
+  "definition": "n. United States railroad executive and founder of Stanford University (1824-1893)"
+ },
+ {
+  "word": "state",
+  "phonetic": "steit",
+  "translation": "n. 州, 状态, 情形, 国家, 政府, 领土, 国务, 社会地位\\na. 国家的, 正式的, 礼仪用的, 州的\\nvt. 说明, 陈述, 规定\\n[计] 状态",
+  "definition": "n. the territory occupied by one of the constituent administrative districts of a nation\\nn. the way something is with respect to its main attributes\\nn. the group of people comprising the government of a sovereign state\\nn. a politically organized body of people under a single government"
+ },
+ {
+  "word": "t",
+  "phonetic": "ti:",
+  "translation": "[计] 表, 终端, 测试, 磁道, 树, 真, 太, 万亿\\n[医] 温度, 胸的, 胸廓的, 眼球内压, 眼压, 垓, 千京, 兆兆",
+  "definition": "n. the 20th letter of the Roman alphabet"
+ },
+ {
+  "word": "taiwan",
+  "phonetic": "'tai'wɑ:n",
+  "translation": "n. 台湾",
+  "definition": "n. a government on the island of Taiwan established in 1949 by Chiang Kai-shek after the conquest of mainland China by the Communists led by Mao Zedong\\nn. an island in southeastern Asia 100 miles off the coast of mainland China in the South China Sea"
+ },
+ {
+  "word": "test",
+  "phonetic": "test",
+  "translation": "n. 测试, 试验, 化验, 检验, 考验, 甲壳\\nvt. 测试, 试验, 化验\\nvi. 接受测验, 进行测试",
+  "definition": "n. any standardized procedure for measuring sensitivity or memory or intelligence or aptitude or personality etc\\nn. the act of undergoing testing\\nn. the act of testing something\\nn. a hard outer covering as of some amoebas and sea urchins"
+ },
+ {
+  "word": "tighter",
+  "phonetic": "taitə",
+  "translation": "a. 紧的( tight的比较级 ); （安排）紧凑的; 紧身的; 严密的",
+  "definition": "a closely constrained or constricted or constricting\\ns pulled or drawn tight\\ns set so close together as to be invulnerable to penetration\\ns pressed tightly together\\ns (used of persons or behavior) characterized by or indicative of lack of generosity\\ns affected by scarcity and expensive to borrow\\na of such close construction as to be impermeable\\ns of textiles\\ns securely or solidly fixed in place; rigid\\ns (of a contest or contestants) evenly matched\\ns very drunk\\ns exasperatingly difficult to handle or circumvent\\ns demanding strict attention to rules and procedures\\ns packed closely together"
+ },
+ {
+  "word": "time",
+  "phonetic": "taim",
+  "translation": "n. 时间, 时侯, 时机, 时期, 期限, 次数, 节拍, 暂停, 规定时间\\nvt. 测定...的时间, 记录...的时间, 计时, 定时\\na. 时间的, 记时的, 定时的, 定期的, 分期的\\n[计] DOS内部命令:用于显示或设定系统的时间",
+  "definition": "n. an instance or single occasion for some event\\nn. a period of time considered as a resource under your control and sufficient to accomplish something\\nn. an indefinite period (usually marked by specific attributes or activities)\\nn. a suitable moment"
+ },
+ {
+  "word": "tiny",
+  "phonetic": "'taini",
+  "translation": "a. 很少的, 微小的",
+  "definition": "s very small"
+ },
+ {
+  "word": "trends",
+  "phonetic": "",
+  "translation": "n. 动态, 趋势",
+  "definition": "n a general direction in which something tends to move\\nn general line of orientation\\nn a general tendency to change (as of opinion)\\nn the popular taste at a given time\\nv turn sharply; change direction abruptly"
+ },
+ {
+  "word": "u",
+  "phonetic": "ju:",
+  "translation": "a. 适于各种年龄观众的\\nn. 适合各种年龄的人观看的影片\\n[计] 装置, 部件, 单元, 更新, 用户",
+  "definition": "n. the 21st letter of the Roman alphabet\\ns. (chiefly British) of or appropriate to the upper classes especially in language use"
+ },
+ {
+  "word": "village",
+  "phonetic": "'vilidʒ",
+  "translation": "n. 村庄\\na. 乡村的, 村庄的",
+  "definition": "n. a community of people smaller than a town\\nn. a settlement smaller than a town"
+ },
+ {
+  "word": "way",
+  "phonetic": "wei",
+  "translation": "n. 路, 路线, 路途, 方法, 道路, 情形, 规模, 习惯, 行业, 方面\\nadv. 远远地, 非常",
+  "definition": "n. the condition of things generally\\nn. a course of conduct\\nn. any artifact consisting of a road or path affording passage from one place to another\\nn. a journey or passage"
+ },
+ {
+  "word": "we",
+  "phonetic": "wi:",
+  "translation": "pron. 我们",
+  "definition": "pl.  of I\\nobj. The plural nominative case of the pronoun of the first\\n   person; the word with which a person in speaking or writing denotes a\\n   number or company of which he is one, as the subject of an action\\n   expressed by a verb."
+ },
+ {
+  "word": "weekend",
+  "phonetic": "'wi:kend",
+  "translation": "n. 周末, 周末休假",
+  "definition": "n. a time period usually extending from Friday night through Sunday; more loosely defined as any period of successive days including one and only one Sunday\\nv. spend the weekend"
+ },
+ {
+  "word": "without",
+  "phonetic": "wi'ðaut",
+  "translation": "prep. 没有, 不, 在...之外\\nadv. 在外面, 户外\\nn. 外面, 外部",
+  "definition": "prep. On or at the outside of; out of; not within; as,\\n   without doors.\\nprep. Out of the limits of; out of reach of; beyond.\\nprep. Not with; otherwise than with; in absence of,\\n   separation from, or destitution of; not with use or employment of;\\n   independently of; exclusively of; with omission; as, without labor;\\n   without damage.\\nconj. Unless; except; -- introducing a clause.\\nadv. On or art the outside; not on the inside; not within;\\n   outwardly; externally.\\nadv. Outside of the house; out of doors."
+ },
+ {
+  "word": "workstations",
+  "phonetic": "ˈwə:ksteiʃənz",
+  "translation": "n. 操作工位, 工作区( workstation的复数形式 )",
+  "definition": "n. a desktop digital computer that is conventionally considered to be more powerful than a microcomputer"
+ }
+]

@@ -1,0 +1,89 @@
+[
+ {
+  "word": "h",
+  "phonetic": "eitʃ",
+  "translation": "[计] 硬件, 高度, 水平, 主机\\n[医] 氢(1号元素), 亨[利](电感单位)",
+  "definition": "n. the 8th letter of the Roman alphabet"
+ },
+ {
+  "word": "handbag",
+  "phonetic": "'hændbæg",
+  "translation": "n. 手提包",
+  "definition": "n a container used for carrying money and small personal items or accessories (especially by women)"
+ },
+ {
+  "word": "jes",
+  "phonetic": "",
+  "translation": "[机] 日本工程规格"
+ },
+ {
+  "word": "k",
+  "phonetic": "kei",
+  "translation": "[计] 键, 关键字, 千, 千字节\\n[医] 钾(19号元素)",
+  "definition": "n. the 11th letter of the Roman alphabet\\nn. street names for ketamine"
+ },
+ {
+  "word": "ndb",
+  "phonetic": "",
+  "translation": "abbr. new domestic boiler 新民用锅炉; new donkey boiler 新辅助锅炉; national development bond(ing) 国家发展债券; non directional beacon 非定向灯塔"
+ },
+ {
+  "word": "dn",
+  "phonetic": "",
+  "translation": "[医] 分能母, 十分之一能母\\n[经] 下跌"
+ },
+ {
+  "word": "excuse",
+  "phonetic": "ik'skju:z",
+  "translation": "vt. 原谅, 申辩, 做为...的托辞\\nn. 致歉, 理由, 饶恕, 借口",
+  "definition": "n. a defense of some offensive behavior or some failure to keep a promise etc.\\nn. a note explaining an absence\\nv. accept an excuse for\\nv. grant exemption or release to"
+ },
+ {
+  "word": "lesson",
+  "phonetic": "'lesn",
+  "translation": "n. 课, 课业, 教训",
+  "definition": "n. a unit of instruction\\nn. a task assigned for individual study"
+ },
+ {
+  "word": "m",
+  "phonetic": "em",
+  "translation": "[计] 尾数, 主要, 媒体, 介质, 中等, 存储器, 方式, 分, 模, 乘法器, 兆, 毫\\n[医] 容积克分子(溶液), 容模的",
+  "definition": "n. the 13th letter of the Roman alphabet"
+ },
+ {
+  "word": "much",
+  "phonetic": "mʌtʃ",
+  "translation": "n. 大量, 许多, 重要的事\\na. 很多的, 重要的\\nadv. 多, 甚, 几乎",
+  "definition": "n. a great amount or extent\\na. (quantifier used with mass nouns) great in quantity or degree or extent\\nr. to a great degree or extent\\nr. very"
+ },
+ {
+  "word": "p",
+  "phonetic": "pi:",
+  "translation": "便士\\n[计] 页, 对, 并行, 奇偶性, 指示器, 多项式, 程序, 方法, 皮",
+  "definition": "n. the 16th letter of the Roman alphabet"
+ },
+ {
+  "word": "pardon",
+  "phonetic": "'pɑ:dn",
+  "translation": "n. 原谅, 赦免\\nvt. 宽恕, 原谅",
+  "definition": "n. a warrant granting release from punishment for an offense\\nv. grant a pardon to"
+ },
+ {
+  "word": "t",
+  "phonetic": "ti:",
+  "translation": "[计] 表, 终端, 测试, 磁道, 树, 真, 太, 万亿\\n[医] 温度, 胸的, 胸廓的, 眼球内压, 眼压, 垓, 千京, 兆兆",
+  "definition": "n. the 20th letter of the Roman alphabet"
+ },
+ {
+  "word": "thank",
+  "phonetic": "θæŋk",
+  "translation": "n. 谢意, 感谢\\nvt. 谢谢, 感谢",
+  "definition": "v. express gratitude or show appreciation to"
+ },
+ {
+  "word": "z",
+  "phonetic": "zed; (?@) zi:",
+  "translation": "[计] 阻抗, 零, 零标志\\n[医] 原子序数",
+  "definition": "n. the 26th letter of the Roman alphabet"
+ }
+]

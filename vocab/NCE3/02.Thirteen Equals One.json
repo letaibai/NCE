@@ -1,0 +1,608 @@
+[
+ {
+  "word": "vicar",
+  "phonetic": "'vikә",
+  "translation": "n. 教区牧师, 教堂主持, 代理人\\n[法] 代表, 代理牧师, 代理主教",
+  "definition": "n. a Roman Catholic priest who acts for another higher-ranking clergyman\\nn. (Episcopal Church) a clergyman in charge of a chapel\\nn. (Church of England) a clergyman appointed to act as priest of a parish"
+ },
+ {
+  "word": "one",
+  "phonetic": "wʌn",
+  "translation": "n. 一(个)\\npron. 一, 任何人\\nnum. 一, 一个\\na. 一致的, 完整的",
+  "definition": "n. the smallest whole number or a numeral representing this number\\nn. a single person or thing\\ns. used of a single unit or thing; not two or more\\ns. having the indivisible character of a unit"
+ },
+ {
+  "word": "bill",
+  "phonetic": "bil",
+  "translation": "n. 帐单, 清单, 钞票, 鸟嘴, 广告, 法案, 票据\\nvt. 开帐单, (用招贴)宣布",
+  "definition": "n. a statute in draft before it becomes law\\nn. an itemized statement of money owed for goods shipped or services rendered\\nn. a piece of paper money (especially one issued by a central bank)\\nn. the entertainment offered at a public presentation"
+ },
+ {
+  "word": "clock",
+  "phonetic": "klɒk",
+  "translation": "n. 时钟, 计时器, (袜子上的)绣花边花\\nvt. 绣花样, 记时, 记录\\nvi. 记录时间\\n[计] 时钟",
+  "definition": "n. a timepiece that shows the time of day\\nv. measure the time or duration of an event or action or the person who performs an action in a certain period of time"
+ },
+ {
+  "word": "i",
+  "phonetic": "ai",
+  "translation": "pron. 我\\n[计] 电流, 中断, 指令, 指示符",
+  "definition": "n. the 9th letter of the Roman alphabet"
+ },
+ {
+  "word": "night",
+  "phonetic": "nait",
+  "translation": "n. 夜, 夜晚, 晚上, 黑暗, 夜晚的工作\\n[法] 夜, 黑夜, 黑暗",
+  "definition": "n. the time after sunset and before sunrise while it is dark outside\\nn. a period of ignorance or backwardness or gloom\\nn. the period spent sleeping\\nn. the dark part of the diurnal cycle considered a time unit"
+ },
+ {
+  "word": "thirteen",
+  "phonetic": "'θә:'ti:n",
+  "translation": "num. 十三, 十三个",
+  "definition": "n. the cardinal number that is the sum of twelve and one\\ns. being one more than twelve"
+ },
+ {
+  "word": "bell",
+  "phonetic": "bel",
+  "translation": "n. 铃, 钟\\n[计] 响铃命令",
+  "definition": "n. a hollow device made of metal that makes a ringing sound when struck\\nn. the sound of a bell being struck\\nn. (nautical) each of the eight half-hour units of nautical time signaled by strokes of a ship's bell; eight bells signals 4:00, 8:00, or 12:00 o'clock, either a.m. or p.m.\\nn. the shape of a bell"
+ },
+ {
+  "word": "surprise",
+  "phonetic": "sә'praiz",
+  "translation": "n. 惊奇, 奇袭, 诧异\\nvt. 使惊奇, 撞见, 奇袭",
+  "definition": "n. the astonishment you feel when something totally unexpected happens to you\\nn. a sudden unexpected event\\nn. the act of surprising someone\\nv. cause to be surprised"
+ },
+ {
+  "word": "answered",
+  "phonetic": "",
+  "translation": "v. 回答；回复（answer的过去式）",
+  "definition": "v react verbally\\nv respond to a signal\\nv give the correct answer or solution to\\nv understand the meaning of\\nv give a defence or refutation of (a charge) or in (an argument)\\nv be liable or accountable\\nv be sufficient; be adequate, either in quality or quantity\\nv match or correspond\\nv be satisfactory for; meet the requirements of or serve the purpose of\\nv react to a stimulus or command"
+ },
+ {
+  "word": "get",
+  "phonetic": "get",
+  "translation": "vt. 得到, 获得, 变成, 使得, 收获, 接通, 抓住, 染上\\nvi. 到达, 成为, 变得\\nn. (网球等)救球, 生殖, 幼兽\\n[计] 取得指令, 获取文件",
+  "definition": "n. a return on a shot that seemed impossible to reach and would normally have resulted in a point for the opponent\\nv. come into the possession of something concrete or abstract\\nv. cause to move; cause to be in a certain position or condition\\nv. succeed in catching or seizing, especially after a chase"
+ },
+ {
+  "word": "give",
+  "phonetic": "giv",
+  "translation": "n. 弹性, 适应性\\nvt. 给, 授予, 供给, 产生, 发表, 付出, 献出, 让出\\nvi. 捐赠, 支持不住, 让步",
+  "definition": "n. the elasticity of something that can be stretched and returns to its original length\\nv. cause to have, in the abstract sense or physical sense\\nv. transfer possession of something concrete or abstract to somebody\\nv. convey or reveal information"
+ },
+ {
+  "word": "hours",
+  "phonetic": "",
+  "translation": "n. 小时（hour的复数形式）",
+  "definition": "n. a period of time assigned for work\\nn. an indefinite period of time"
+ },
+ {
+  "word": "it",
+  "phonetic": "it",
+  "translation": "pron. 它\\n[计] 信息论, 输入终端, 智能终端, 内捕获",
+  "definition": "n the branch of engineering that deals with the use of computers and telecommunications to retrieve and store and transmit information"
+ },
+ {
+  "word": "money",
+  "phonetic": "'mʌni",
+  "translation": "n. 金钱, 一笔款, 财富, 货币, 金额\\n[经] 货币, 金钱, 财产",
+  "definition": "n. the most common medium of exchange; functions as legal tender\\nn. wealth reckoned in terms of money\\nn. the official currency issued by a government or national bank"
+ },
+ {
+  "word": "nothing",
+  "phonetic": "'nʌθiŋ",
+  "translation": "n. 无, 不关紧要之事, 零\\nadv. 毫不, 决不\\ninterj. 什么也没有, 无",
+  "definition": "n. a quantity of no importance\\nr. in no respect; to no degree"
+ },
+ {
+  "word": "now",
+  "phonetic": "nau",
+  "translation": "adv. 现在, 刚才, 目前\\nn. 现在\\na. 现在的\\nconj. 由于",
+  "definition": "n. the momentary present\\nr. in the historical present; at this point in the narration of a series of past events\\nr. used to preface a command or reproof or request\\nr. at the present moment"
+ },
+ {
+  "word": "o'clock",
+  "phonetic": "ә'klɔk",
+  "translation": "n. ...点钟, 钟头",
+  "definition": "r. according to the clock"
+ },
+ {
+  "word": "said",
+  "phonetic": "sed",
+  "translation": "a. 上述的\\nsay的过去式和过去分词",
+  "definition": "v express in words\\nv report or maintain\\nv express a supposition\\nv have or contain a certain wording or form\\nv give instructions to or direct somebody to do something with authority\\nv speak, pronounce, or utter in a certain way\\nv communicate or express nonverbally\\nv utter aloud\\nv state as one's opinion or judgement; declare\\nv recite or repeat a fixed text\\nv indicate\\ns being the one previously mentioned or spoken of"
+ },
+ {
+  "word": "see",
+  "phonetic": "si:",
+  "translation": "vt. 看见, 查看, 参观, 游览, 理解, 知道, 同意\\nvi. 看, 观看, 注意, 知道, 考虑\\nn. 主教的职位",
+  "definition": "n. the seat within a bishop's diocese where his cathedral is located\\nv. perceive by sight or have the power to perceive by sight\\nv. deem to be\\nv. be careful or certain to do something; make certain of something"
+ },
+ {
+  "word": "strike",
+  "phonetic": "straik",
+  "translation": "n. 罢工, 打击, 殴打\\nvt. 打, 撞击, 冲击, 侵袭, 取消, 结算, 打掉, 罢工, 刺透, 使生根, 遇见\\nvi. 打, 打击, 抓, 罢工, 搏动, 触礁, 敲, 响, 穿透, 打动",
+  "definition": "n. a group's refusal to work in protest against low pay or bad work conditions\\nn. an attack that is intended to seize or inflict damage on or destroy an objective\\nn. a score in tenpins: knocking down all ten with the first ball\\nn. (baseball) a pitch that the batter swings at and misses, or that the batter hits into foul territory, or that the batter does not swing at but the umpire judges to be in the area over home plate and between the batter's knees and shoulders"
+ },
+ {
+  "word": "striking",
+  "phonetic": "'straikiŋ",
+  "translation": "a. 醒目的, 惊人的, 打击的, 罢工的\\n[法] 罢工的, 罢市的, 罢课的",
+  "definition": "n the physical coming together of two or more things\\nn the act of contacting one thing with another\\nv deliver a sharp blow, as with the hand, fist, or weapon\\nv have an emotional or cognitive impact upon\\nv hit against; come into sudden contact with\\nv make a strategic, offensive, assault against an enemy, opponent, or a target\\nv indicate (a certain time) by striking\\nv affect or afflict suddenly, usually adversely\\nv stop work in order to press demands\\nv touch or seem as if touching visually or audibly\\nv attain\\nv produce by manipulating keys or strings of musical instruments, also metaphorically\\nv cause to form (an electric arc) between electrodes of an arc lamp\\nv find unexpectedly\\nv produce by ignition or a blow\\nv remove by erasing or crossing out or as if by drawing a line\\nv cause to experience suddenly\\nv drive something violently into a location\\nv occupy or take on\\nv form by stamping, punching, or printing\\nv smooth with a strickle\\nv pierce with force\\nv arrive at after reckoning, deliberating, and weighing\\ns sensational in appearance or thrilling in effect\\ns having a quality that thrusts itself into attention"
+ },
+ {
+  "word": "times",
+  "phonetic": "taimz",
+  "translation": "n. 时代, 境遇, 时报",
+  "definition": "n. a more or less definite period of time now or previously present"
+ },
+ {
+  "word": "used",
+  "phonetic": "'ju:st",
+  "translation": "a. 使用过的, 二手的, 习惯的",
+  "definition": "a. employed in accomplishing something"
+ },
+ {
+  "word": "working",
+  "phonetic": "'wә:kiŋ",
+  "translation": "n. 工作, 运转, 劳动\\na. 工作的, 劳动的, 经营的, 抽搐的, 运转的",
+  "definition": "n. a mine or quarry that is being or has been worked\\ns. actively engaged in paid work\\ns. adequate for practical use; especially sufficient in strength or numbers to accomplish something\\ns. adopted as a temporary basis for further work"
+ },
+ {
+  "word": "afraid",
+  "phonetic": "ә'freid",
+  "translation": "a. 害怕的, 恐怕的, 遗憾的",
+  "definition": "a. filled with fear or apprehension\\ns. filled with regret or concern; used often to soften an unpleasant statement\\ns. feeling worry or concern or insecurity\\ns. having feelings of aversion or unwillingness"
+ },
+ {
+  "word": "after",
+  "phonetic": "'ɑ:ftә",
+  "translation": "prep. 在...之后, 由于\\nconj. 在...之后\\nadv. 后来",
+  "definition": "s. located farther aft\\nr. behind or in the rear"
+ },
+ {
+  "word": "ago",
+  "phonetic": "ә'gәu",
+  "translation": "adv. 以前",
+  "definition": "s. gone by; or in the past\\nr. in the past"
+ },
+ {
+  "word": "always",
+  "phonetic": "'ɒ:lweiz",
+  "translation": "adv. 总是, 始终",
+  "definition": "r. at all times; all the time and on every occasion\\nr. at any time or in any event\\nr. forever; throughout all time"
+ },
+ {
+  "word": "another",
+  "phonetic": "ә'nʌðә",
+  "translation": "a. 另外的, 再一的, 不同的\\npron. 又一个, 另一个, 类似的另一个",
+  "definition": "s. any of various alternatives; some other"
+ },
+ {
+  "word": "armed",
+  "phonetic": "ɑ:md",
+  "translation": "a. 有扶手的, 武装的, 有防卫器官的\\n[法] 武装的, 持械的, \"F带武器的",
+  "definition": "a. (used of persons or the military) characterized by having or bearing arms\\na. having arms or arms as specified; used especially in combination\\na. (used of plants and animals) furnished with bristles and thorns"
+ },
+ {
+  "word": "asked",
+  "phonetic": "",
+  "translation": "n. 卖方要价",
+  "definition": "v inquire about\\nv make a request or demand for something to somebody\\nv direct or put; seek an answer to\\nv consider obligatory; request and expect\\nv address a question to and expect an answer from\\nv require as useful, just, or proper\\nv require or ask for as a price or condition"
+ },
+ {
+  "word": "before",
+  "phonetic": "bi'fɒ:",
+  "translation": "prep. 在...之前\\nconj. 在...之前\\nadv. 在前",
+  "definition": "r earlier in time; previously\\nr at or in the front"
+ },
+ {
+  "word": "better",
+  "phonetic": "'betә",
+  "translation": "a. 较好的\\nadv. 比较好",
+  "definition": "n. something superior in quality or condition or effect\\nn. a superior person having claim to precedence\\nn. the superior one of two alternatives\\nv. surpass in excellence"
+ },
+ {
+  "word": "big",
+  "phonetic": "big",
+  "translation": "a. 大的, 重要的\\nadv. 大量地",
+  "definition": "s. significant\\ns. loud and firm\\ns. conspicuous in position or importance\\ns. prodigious"
+ },
+ {
+  "word": "caught",
+  "phonetic": "kɒ:t",
+  "translation": "catch的过去式和过去分词",
+  "definition": "v discover or come upon accidentally, suddenly, or unexpectedly; catch somebody doing something or in a certain state\\nv perceive with the senses quickly, suddenly, or momentarily\\nv reach with a blow or hit in a particular spot\\nv take hold of so as to seize or restrain or stop the motion of\\nv succeed in catching or seizing, especially after a chase\\nv to hook or entangle\\nv attract and fix\\nv capture as if by hunting, snaring, or trapping\\nv reach in time\\nv get or regain something necessary, usually quickly or briefly\\nv catch up with and possibly overtake\\nv be struck or affected by\\nv check oneself during an action\\nv hear, usually without the knowledge of the speakers\\nv see or watch\\nv cause to become accidentally or suddenly caught, ensnared, or entangled\\nv detect a blunder or misstep\\nv grasp with the mind or develop an understanding of\\nv contract\\nv start burning\\nv perceive by hearing\\nv suffer from the receipt of\\nv attract; cause to be enamored\\nv apprehend and reproduce accurately\\nv take in and retain\\nv spread or be communicated\\nv be the catcher\\nv become aware of\\nv delay or hold up; prevent from proceeding on schedule or as planned"
+ },
+ {
+  "word": "cause",
+  "phonetic": "kɒ:z",
+  "translation": "n. 原因, 目标\\nvt. 引起, 使产生, 使遭受",
+  "definition": "n. events that provide the generative force that is the origin of something\\nn. a justification for something existing or happening\\nv. give rise to; cause to happen or occur, not always intentionally"
+ },
+ {
+  "word": "certainly",
+  "phonetic": "'sә:tәnli",
+  "translation": "adv. 确定地",
+  "definition": "r definitely or positively (`sure' is sometimes used informally for `surely')"
+ },
+ {
+  "word": "church",
+  "phonetic": "tʃә:tʃ",
+  "translation": "n. 教堂, 礼拜, 教会\\nvt. 使人接受宗教仪式\\na. 教堂的",
+  "definition": "n. one of the groups of Christians who have their own beliefs and forms of worship\\nn. a place for public (especially Christian) worship\\nn. the body of people who attend or belong to a particular local church\\nv. perform a special church rite or service for"
+ },
+ {
+  "word": "coming",
+  "phonetic": "'kʌmiŋ",
+  "translation": "n. 来临\\na. 就要来的, 接着的",
+  "definition": "n the act of drawing spatially closer to something\\nn arrival that has been awaited (especially of something momentous)\\nn the temporal property of becoming nearer in time\\nn the moment of most intense pleasure in sexual intercourse\\nv move toward, travel toward something or somebody or approach something or somebody\\nv reach a destination; arrive by movement or progress\\nv come to pass; arrive, as in due course\\nv reach or enter a state, relation, condition, use, or position\\nv to be the product or result\\nv be found or available; The furniture comes unassembled\"\\nv come forth\\nv be a native of\\nv extend or reach\\nv exist or occur in a certain point in a series\\nv cover a certain distance\\nv come under, be classified or included\\nv happen as a result\\nv add up in number or quantity\\nv develop into\\nv be received\\nv come to one's mind; suggest itself\\nv come from; be connected by a relationship of blood, for example\\nv proceed or get along\\nv experience orgasm\\nv have a certain priority\\ns of the relatively near future"
+ },
+ {
+  "word": "cup",
+  "phonetic": "kʌp",
+  "translation": "n. 杯子, 茶杯, 优胜杯\\nvt. 使成杯状, 为...拔火罐",
+  "definition": "n. a small open container usually used for drinking; usually has a handle\\nn. the quantity a cup will hold\\nn. any cup-shaped concavity\\nn. a United States liquid unit equal to 8 fluid ounces"
+ },
+ {
+  "word": "damaged",
+  "phonetic": "'dæmidʒid",
+  "translation": "a. 被损坏的\\n[建] 损伤了的, 损坏了的",
+  "definition": "a. harmed or injured or spoiled"
+ },
+ {
+  "word": "day",
+  "phonetic": "dei",
+  "translation": "n. 天, 日子, 白天, 工作日\\n[医] 日(一昼夜), 昼, 白天",
+  "definition": "n. time for Earth to make a complete rotation on its axis\\nn. some point or period in time\\nn. a day assigned to a particular purpose or observance\\nn. the time after sunrise and before sunset while it is light outside"
+ },
+ {
+  "word": "doing",
+  "phonetic": "'du:iŋ",
+  "translation": "n. 行为, 活动",
+  "definition": "v engage in\\nv carry out or perform an action\\nv get (something) done\\nv proceed or get along\\nv give rise to; cause to happen or occur, not always intentionally\\nv carry out or practice; as of jobs and professions\\nv be sufficient; be adequate, either in quality or quantity\\nv create or design, often in a certain way\\nv behave in a certain manner; show a certain behavior; conduct or comport oneself\\nv spend time in prison or in a labor camp\\nv carry on or function\\nv arrange attractively\\nv travel or traverse (a distance)"
+ },
+ {
+  "word": "downstairs",
+  "phonetic": "'daun'stєәz",
+  "translation": "n. 楼下\\na. 楼下的\\nadv. 在楼下",
+  "definition": "a. on or of lower floors of a building\\nr. on a floor below"
+ },
+ {
+  "word": "enough",
+  "phonetic": "i'nʌf",
+  "translation": "n. 充足, 够, 很多\\na. 充足的, 足够\\nadv. 足够\\ninterj. 够了",
+  "definition": "n. an adequate quantity; a quantity that is large enough to achieve a purpose\\nr. as much as necessary; (`plenty' is nonstandard) \"I've had plenty, thanks\""
+ },
+ {
+  "word": "equals",
+  "phonetic": "",
+  "translation": "n. （地位、实力等）相同或相等的人；对手；相等物（equal的复数形式）",
+  "definition": "n a person who is of equal standing with another in a group\\nv be identical or equivalent to\\nv be equal to in quality or ability\\nv make equal, uniform, corresponding, or matching"
+ },
+ {
+  "word": "ever",
+  "phonetic": "'evә",
+  "translation": "adv. 曾经, 究竟, 永远",
+  "definition": "r. at any time\\nr. (intensifier for adjectives) very"
+ },
+ {
+  "word": "everyone",
+  "phonetic": "'evriwʌn",
+  "translation": "pron. 每个人, 人人\\n[计] 系统中的一个组名",
+  "definition": "n. Everybody; -- commonly separated, every one."
+ },
+ {
+  "word": "figure",
+  "phonetic": "'figә",
+  "translation": "n. 数字, 价格, 图形, 形状\\nvt. 描绘, 表示, 演算, 认为\\nvi. 计算, 出现, 估计",
+  "definition": "n. a diagram or picture illustrating textual material\\nn. a model of a bodily form (especially of a person)\\nn. a combination of points and lines and planes that form a visible palpable shape\\nn. an amount of money expressed numerically"
+ },
+ {
+  "word": "glad",
+  "phonetic": "glæd",
+  "translation": "a. 高兴的, 喜欢的, 情愿的",
+  "definition": "a. showing or causing joy and pleasure; especially made happy\\ns. eagerly disposed to act or to be of service\\ns. feeling happy appreciation"
+ },
+ {
+  "word": "go",
+  "phonetic": "gou",
+  "translation": "vi. 去, 走, 达到, 运转, 查阅, 消失, 结束, 放弃, 花费, 流传, 趋于, 打算, 剩下\\nvt. 以...打赌, 对付, 忍受, 出产, 为被捕者出(保释金)\\nn. 去, 尝试, 进行",
+  "definition": "n. a time for working (after which you will be relieved by someone else)\\nn. a board game for two players who place counters on a grid; the object is to surround and so capture the opponent's counters\\nv. follow a procedure or take a course\\nv. move away from a place into another direction"
+ },
+ {
+  "word": "going",
+  "phonetic": "'gәuiŋ",
+  "translation": "n. 去, 离去, 工作情况, 地面状况, 行为\\na. 进行中的, 流行的, 成功的, 现存的",
+  "definition": "n. advancing toward a goal\\ns. in full operation"
+ },
+ {
+  "word": "good",
+  "phonetic": "gud",
+  "translation": "n. 善行, 好处, 利益\\na. 好的, 优良的, 上等的, 愉快的, 有益的, 好心的, 慈善的, 虔诚的",
+  "definition": "n. benefit\\nn. moral excellence or admirableness\\nn. that which is pleasing or valuable or useful\\na. having desirable or positive qualities especially those suitable for a thing specified"
+ },
+ {
+  "word": "grocer",
+  "phonetic": "'grәusә",
+  "translation": "n. 食品商",
+  "definition": "n. a retail merchant who sells foodstuffs (and some household supplies)"
+ },
+ {
+  "word": "hoping",
+  "phonetic": "",
+  "translation": "v. 希望（hope的ing形式）",
+  "definition": "v expect and wish\\nv be optimistic; be full of hope; have hopes\\nv intend with some possibility of fulfilment\\nv jump lightly\\nv move quickly from one place to another\\nv travel by means of an aircraft, bus, etc.\\nv traverse as if by a short airplane trip\\nv jump across\\nv make a jump forward or upward"
+ },
+ {
+  "word": "however",
+  "phonetic": "hau'evә",
+  "translation": "adv. 然而, 无论如何, 究竟怎样\\nconj. 然而, 可是",
+  "definition": "r. despite anything to the contrary (usually following a concession)\\nr. by contrast; on the other hand; the second, however, took hours\"\\nr. to whatever degree or extent\\nr. in whatever way or manner"
+ },
+ {
+  "word": "immediately",
+  "phonetic": "i'mi:diәtli",
+  "translation": "adv. 直接地, 立刻, 立即",
+  "definition": "r. without delay or hesitation; with no time intervening\\nr. near or close by\\nr. bearing an immediate relation"
+ },
+ {
+  "word": "lesson",
+  "phonetic": "'lesn",
+  "translation": "n. 课, 课业, 教训",
+  "definition": "n. a unit of instruction\\nn. a task assigned for individual study"
+ },
+ {
+  "word": "let",
+  "phonetic": "let",
+  "translation": "vt. 让, 假设, 出租, 排放, 妨碍\\nvi. 出租, 被承包\\nn. 出租屋, 障碍",
+  "definition": "n. a serve that strikes the net before falling into the receiver's court; the ball must be served again\\nv. make it possible through a specific action or lack of action for something to happen\\nv. actively cause something to happen\\nv. leave unchanged"
+ },
+ {
+  "word": "local",
+  "phonetic": "'lәukәl",
+  "translation": "a. 地方性的, 当地的, 局部的, 乡土的, 本地的\\nn. 当地居民, 本地新闻, 局部\\n[计] 本地的; 局部",
+  "definition": "n. public transport consisting of a bus or train that stops at all stations or stops\\na. relating to or applicable to or concerned with the administration of a city or town or district rather than a larger area\\na. of or belonging to or characteristic of a particular locality or neighborhood\\na. affecting only a restricted part or area of the body"
+ },
+ {
+  "word": "looking",
+  "phonetic": "'lukiŋ",
+  "translation": "a. 有…相貌的；有…样子的",
+  "definition": "n. the act of searching visually\\ns. appearing to be as specified; usually used as combining forms"
+ },
+ {
+  "word": "managed",
+  "phonetic": "",
+  "translation": "a. 与中央化计划及管制有关的；托管的",
+  "definition": "v be successful; achieve a goal\\nv be in charge of, act on, or dispose of\\nv come to terms with\\nv watch and direct\\nv achieve something by means of trickery or devious methods\\nv carry on or function\\nv handle effectively"
+ },
+ {
+  "word": "many",
+  "phonetic": "'meni",
+  "translation": "n. 多数, 多数人\\na. 许多的\\npron. 许多",
+  "definition": "a. a quantifier that can be used with count nouns and is often preceded by `as' or `too' or `so' or `that'; amounting to a large but indefinite number"
+ },
+ {
+  "word": "never",
+  "phonetic": "'nevә",
+  "translation": "adv. 从不, 决不, 不曾\\n[法] 永不, 决不, 从来没有",
+  "definition": "r. not ever; at no time in the past or future\\nr. not at all; certainly not; not in any circumstances"
+ },
+ {
+  "word": "pleased",
+  "phonetic": "pli:zd",
+  "translation": "a. 高兴的, 喜欢的, 满足的",
+  "definition": "a. experiencing or manifesting pleasure\\ns. feeling pleasurable satisfaction over something by which you measures your self-worth"
+ },
+ {
+  "word": "probably",
+  "phonetic": "'prɒbәbli",
+  "translation": "adv. 大概, 或许",
+  "definition": "r. with considerable certainty; without much doubt"
+ },
+ {
+  "word": "raising",
+  "phonetic": "'reiziŋ",
+  "translation": "[机] 起油",
+  "definition": "n. the properties acquired as a consequence of the way you were treated as a child\\ns. increasing in quantity or value"
+ },
+ {
+  "word": "recognized",
+  "phonetic": "",
+  "translation": "a. 经过验证的；公认的",
+  "definition": "s. provided with a secure reputation"
+ },
+ {
+  "word": "repair",
+  "phonetic": "ri'pєә",
+  "translation": "n. 修理, 补救, 修复\\nvt. 修理, 修补, 补救, 恢复, 补偿\\nvi. 修理, 修补, 补救, 恢复, 去, 常去, 集合",
+  "definition": "n. the act of putting something in working order again\\nn. a formal way of referring to the condition of something\\nv. restore by replacing a part or putting together what is torn or broken\\nv. move, travel, or proceed toward some place"
+ },
+ {
+  "word": "repaired",
+  "phonetic": "riˈpɛəd",
+  "translation": "v. 纠正( repair的过去式和过去分词 ); 补救",
+  "definition": "v restore by replacing a part or putting together what is torn or broken\\nv make amends for; pay compensation for\\nv move, travel, or proceed toward some place\\nv set straight or right\\nv give new life or energy to"
+ },
+ {
+  "word": "right",
+  "phonetic": "rait",
+  "translation": "n. 权利, 右边, 正义, 右派, 公正\\na. 正确的, 对的, 恰当的, 正常的, 正直的, 正面的, 右方的\\nadv. 正确地, 以有利结果, 一直, 直接, 向右\\nvt. 扶直, 整理, 纠正, 伸冤, 使昭雪\\nvi. 恢复平衡\\n[计] 右, 权利",
+  "definition": "n. an abstract idea of that which is due to a person or governmental body by law or tradition or nature; it is something that nobody can take away\"\\nn. location near or direction toward the right side; i.e. the side to the south when a person or object faces east\\nn. those who support political or social or economic conservatism; those who believe that things are better left unchanged\\nn. the hand that is on the right side of the body"
+ },
+ {
+  "word": "saw",
+  "phonetic": "sɒ:",
+  "translation": "n. 锯子, 谚语\\nvt. 锯, 锯开, 来回移动\\nvi. 拉锯, 移动\\nsee的过去式",
+  "definition": "n. hand tool having a toothed blade for cutting\\nv. cut with a saw"
+ },
+ {
+  "word": "sight",
+  "phonetic": "sait",
+  "translation": "n. 景观, 视力, 眼界, 阅读, 见解, 意见\\nvt. 看见, 瞄准\\nvi. 瞄准, 观看\\na. 即席的, 见票即付的",
+  "definition": "n. an instance of visual perception\\nn. anything that is seen\\nn. the ability to see; the visual faculty\\nn. a range of mental vision"
+ },
+ {
+  "word": "silent",
+  "phonetic": "'sailәnt",
+  "translation": "a. 沉默的, 安静的, 无声的, 静止的\\n[医] 静止的, 无症状的",
+  "definition": "s. marked by absence of sound\\ns. implied by or inferred from actions or statements\\ns. not made to sound\\ns. having a frequency below or above the range of human audibility"
+ },
+ {
+  "word": "since",
+  "phonetic": "sins",
+  "translation": "prep. 自...以后, 自...以来\\nadv. 自那时以后\\nconj. 既然, 自...以后, 自...以来",
+  "definition": "adv. From a definite past time until now; as, he went a month\\n   ago, and I have not seen him since.\\nadv. In the time past, counting backward from the present;\\n   before this or now; ago.\\nadv. When or that.\\nprep. From the time of; in or during the time subsequent to;\\n   subsequently to; after; -- usually with a past event or time for the\\n   object.\\nconj. Seeing that; because; considering; -- formerly followed\\n   by that."
+ },
+ {
+  "word": "start",
+  "phonetic": "stɑ:t",
+  "translation": "n. 惊起, 出发, 开端, 起点, 吃惊, 有利条件\\nvi. 开始, 出发, 启动, 跳起, 吃惊, 出现, 松动, 脱落, 起价, 参赛\\nvt. 使惊起, 开动, 发动, 启动, 开始, 创办, 提议, 使松动, 使脱落, 起用\\n[计] 起始",
+  "definition": "n. the beginning of anything\\nn. a turn to be a starter (in a game at the beginning)\\nn. a line indicating the location of the start of a race or a game\\nn. the advantage gained by beginning early (as in a race)"
+ },
+ {
+  "word": "still",
+  "phonetic": "stil",
+  "translation": "n. 蒸馏室, 寂静, 剧照\\nv. 蒸馏, (使)平静, (使)静止\\na. 静止的, 不动的, 静寂的, 不起泡的, 静物摄影的\\nadv. 仍然, 更, 静止地\\nconj. 然而, 但是",
+  "definition": "n. a static photograph (especially one taken from a movie and used for advertising purposes)\\nn. an apparatus used for the distillation of liquids; consists of a vessel in which a substance is vaporized by heat and a condenser where the vapor is condensed\\nv. lessen the intensity of or calm\\nv. make motionless"
+ },
+ {
+  "word": "stopped",
+  "phonetic": "stɔpt",
+  "translation": "v. 停止；停下来（stop的过去式和过去分词）",
+  "definition": "s. (of a nose) blocked"
+ },
+ {
+  "word": "struck",
+  "phonetic": "strʌk",
+  "translation": "a. 受罢工影响的\\nstrike的过去式和过去分词",
+  "definition": "v deliver a sharp blow, as with the hand, fist, or weapon\\nv have an emotional or cognitive impact upon\\nv hit against; come into sudden contact with\\nv make a strategic, offensive, assault against an enemy, opponent, or a target\\nv indicate (a certain time) by striking\\nv affect or afflict suddenly, usually adversely\\nv stop work in order to press demands\\nv touch or seem as if touching visually or audibly\\nv attain\\nv produce by manipulating keys or strings of musical instruments, also metaphorically\\nv cause to form (an electric arc) between electrodes of an arc lamp\\nv find unexpectedly\\nv produce by ignition or a blow\\nv remove by erasing or crossing out or as if by drawing a line\\nv cause to experience suddenly\\nv drive something violently into a location\\nv occupy or take on\\nv form by stamping, punching, or printing\\nv smooth with a strickle\\nv pierce with force\\nv arrive at after reckoning, deliberating, and weighing\\ns (used in combination) affected by something overwhelming"
+ },
+ {
+  "word": "tea",
+  "phonetic": "ti:",
+  "translation": "n. 茶, 茶叶\\n[医] 茶, 茶剂, 浸剂",
+  "definition": "n. a beverage made by steeping tea leaves in water\\nn. a light midafternoon meal of tea and sandwiches or cakes\\nn. a tropical evergreen shrub or small tree extensively cultivated in e.g. China and Japan and India; source of tea leaves\\nn. a reception or party at which tea is served"
+ },
+ {
+  "word": "that",
+  "phonetic": "ðæt",
+  "translation": "a. 那, 那个\\nconj. 以致, 因为\\npron. 那\\nadv. 那么, 那样",
+  "definition": "pron., a., conj., &  As a demonstrative pronoun (pl. Those),\\n   that usually points out, or refers to, a person or thing previously\\n   mentioned, or supposed to be understood. That, as a demonstrative, may\\n   precede the noun to which it refers; as, that which he has said is\\n   true; those in the basket are good apples.\\npron., a., conj., &  As an adjective, that has the same\\n   demonstrative force as the pronoun, but is followed by a noun.\\npron., a., conj., &  As a relative pronoun, that is\\n   equivalent to who or which, serving to point out, and make definite, a\\n   person or thing spoken of, or alluded to, before, and may be either\\n   singular or plural.\\npron., a., conj., &  As a conjunction, that retains much of\\n   its force as a demonstrative pronoun.\\npron., a., conj., &  To introduce a clause employed as the\\n   object of the preceding verb, or as the subject or predicate nominative\\n   of a verb.\\npron., a., conj., &  To introduce, a reason or cause; --\\n   equivalent to for that, in that, for the reason that, because.\\npron., a., conj., &  To introduce a purpose; -- usually\\n   followed by may, or might, and frequently preceded by so, in order, to\\n   the end, etc.\\npron., a., conj., &  To introduce a consequence, result, or\\n   effect; -- usually preceded by so or such, sometimes by that.\\npron., a., conj., &  In an elliptical sentence to introduce\\n   a dependent sentence expressing a wish, or a cause of surprise,\\n   indignation, or the like.\\npron., a., conj., &  As adverb: To such a degree; so; as, he\\n   was that frightened he could say nothing."
+ },
+ {
+  "word": "there",
+  "phonetic": "ðєә",
+  "translation": "adv. 在那里",
+  "definition": "n. a location other than here; that place\\nr. in or at that place\\nr. in that matter\\nr. to or toward that place; away from the speaker"
+ },
+ {
+  "word": "torch",
+  "phonetic": "tɒ:tʃ",
+  "translation": "n. 火把, 启发之物\\n[化] 火炬",
+  "definition": "n. a light usually carried in the hand; consists of some flammable substance\\nv. burn maliciously, as by arson"
+ },
+ {
+  "word": "torchlight",
+  "phonetic": "'tɒ:tʃlait",
+  "translation": "n. 火炬之光",
+  "definition": "n. light from a torch or torches"
+ },
+ {
+  "word": "tower",
+  "phonetic": "'tauә",
+  "translation": "n. 塔, 高楼, 堡垒\\nvi. 高耸, 翱翔",
+  "definition": "n. a structure taller than its diameter; can stand alone or be attached to a larger building"
+ },
+ {
+  "word": "trouble",
+  "phonetic": "'trʌbl",
+  "translation": "n. 烦恼, 麻烦, 困难, 动乱, 故障\\nvt. 困扰, 麻烦, 使烦恼, 折磨\\nvi. 烦恼, 费心",
+  "definition": "n. a source of difficulty\\nn. an event causing distress or pain\\nn. an effort that is inconvenient\\nn. an unwanted pregnancy"
+ },
+ {
+  "word": "trying",
+  "phonetic": "'traiiŋ",
+  "translation": "a. 难受的, 难堪的\\n[法] 裁决, 审判, 审理; 使人痛苦的, 难堪的, 难处的",
+  "definition": "s. hard to endure"
+ },
+ {
+  "word": "village",
+  "phonetic": "'vilidʒ",
+  "translation": "n. 村庄\\na. 乡村的, 村庄的",
+  "definition": "n. a community of people smaller than a town\\nn. a settlement smaller than a town"
+ },
+ {
+  "word": "watch",
+  "phonetic": "wɒtʃ",
+  "translation": "n. 观察, 手表, 看守, 守护, 监视, 值班人\\nvt. 看, 注视, 照顾, 看守, 守护, 监视\\nvi. 观看, 注视, 守侯",
+  "definition": "n. a small portable timepiece\\nn. a period of time (4 or 2 hours) during which some of a ship's crew are on duty\\nn. a purposeful surveillance to guard or observe\\nn. the period during which someone (especially a guard) is on duty"
+ },
+ {
+  "word": "we",
+  "phonetic": "wi:",
+  "translation": "pron. 我们",
+  "definition": "pl.  of I\\nobj. The plural nominative case of the pronoun of the first\\n   person; the word with which a person in speaking or writing denotes a\\n   number or company of which he is one, as the subject of an action\\n   expressed by a verb."
+ },
+ {
+  "word": "weeks",
+  "phonetic": "wi:ks",
+  "translation": "n. 威克斯（姓氏）",
+  "definition": "n any period of seven consecutive days\\nn hours or days of work in a calendar week\\nn a period of seven consecutive days starting on Sunday"
+ },
+ {
+  "word": "well",
+  "phonetic": "wel",
+  "translation": "n. 井, 泉水, 源泉, 好\\nv. 涌出\\na. 健康的, 良好的, 适宜的, 恰当的\\nadv. 很好地, 适当地, 好意地, 很, 完全\\ninterj. 好啦",
+  "definition": "n. a deep hole or shaft dug or drilled to obtain water or oil or gas or brine\\nn. a cavity or vessel used to contain liquid\\nn. an abundant source\\nn. an open shaft through the floors of a building (as for a stairway)"
+ },
+ {
+  "word": "went",
+  "phonetic": "went",
+  "translation": "go的过去式",
+  "definition": "v change location; move, travel, or proceed, also metaphorically\\nv follow a procedure or take a course\\nv move away from a place into another direction\\nv enter or assume a certain state or condition\\nv be awarded; be allotted\\nv have a particular form\\nv stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point\\nv follow a certain course\\nv be abolished or discarded\\nv be or continue to be in a certain condition\\nv make a certain noise or sound\\nv perform as expected when applied\\nv to be spent or finished\\nv progress by being changed\\nv continue to live through hardship or adversity\\nv pass, fare, or elapse; of a certain state of affairs or action\\nv pass from physical life and lose all bodily attributes and functions necessary to sustain life\\nv be in the right place or situation\\nv be ranked or compare\\nv begin or set in motion\\nv have a turn; make one's move in a game\\nv be contained in\\nv be sounded, played, or expressed\\nv blend or harmonize\\nv lead, extend, or afford access\\nv be the right size or shape; fit correctly or as desired\\nv go through in search of something; search through someone's belongings in an unauthorized way\\nv be spent\\nv give support (to) or make a choice (of) one out of a group or number\\nv stop operating or functioning"
+ },
+ {
+  "word": "whatever",
+  "phonetic": "hwɒt'evә",
+  "translation": "pron. 无论什么",
+  "definition": "s one or some or every or all without specification"
+ },
+ {
+  "word": "whom",
+  "phonetic": "hu:m",
+  "translation": "pron. 谁",
+  "definition": "pron. The objective case of who. See Who."
+ },
+ {
+  "word": "wilkins",
+  "phonetic": "'wilkinz",
+  "translation": "n. 威尔金斯（姓氏, 英国生物物理学家）",
+  "definition": "n. United States civil rights leader (1901-1981)\\nn. Australian who was the first to explore the Arctic by airplane (1888-1958)\\nn. English biochemist who helped discover the structure of DNA (1916-2004)"
+ },
+ {
+  "word": "woke",
+  "phonetic": "wәuk",
+  "translation": "wake的过去式和过去分词",
+  "definition": "v be awake, be alert, be there\\nv stop sleeping\\nv arouse or excite feelings and passions\\nv make aware of\\nv cause to become awake or conscious"
+ },
+ {
+  "word": "woken",
+  "phonetic": "'wәukәn",
+  "translation": "wake的过去分词",
+  "definition": "v be awake, be alert, be there\\nv stop sleeping\\nv arouse or excite feelings and passions\\nv make aware of\\nv cause to become awake or conscious"
+ },
+ {
+  "word": "years",
+  "phonetic": "",
+  "translation": "n. 年代；岁月；年；年龄",
+  "definition": "n a late time of life\\nn a prolonged period of time\\nn the time during which someone's life continues\\nn a period of time containing 365 (or 366) days\\nn a period of time occupying a regular part of a calendar year that is used for some particular activity\\nn the period of time that it takes for a planet (as, e.g., Earth or Mars) to make a complete revolution around the sun\\nn a body of students who graduate together"
+ },
+ {
+  "word": "you",
+  "phonetic": "ju:",
+  "translation": "pron. 你, 你们",
+  "definition": "dat. & obj. The pronoun of the second person, in the nominative,\\n   dative, and objective case, indicating the person or persons addressed.\\n   See the Note under Ye."
+ }
+]

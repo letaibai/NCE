@@ -1,0 +1,830 @@
+[
+ {
+  "word": "snails",
+  "phonetic": "",
+  "translation": "n. 腹足类；蜗牛；行动迟缓的人或动物（snail的复数）",
+  "definition": "n freshwater or marine or terrestrial gastropod mollusk usually having an external enclosing spiral shell\\nn edible terrestrial snail usually served in the shell with a sauce of melted butter and garlic\\nv gather snails"
+ },
+ {
+  "word": "robert",
+  "phonetic": "'rɔbәt",
+  "translation": "[法] 警察",
+  "definition": "n. United States parliamentary authority and author (in 1876) of Robert's Rules of Order (1837-1923)"
+ },
+ {
+  "word": "garden",
+  "phonetic": "'gɑ:dn",
+  "translation": "n. 花园, 果园, 菜园\\nvi. 栽培花木\\nvt. 造园\\na. 花园的, 普通的",
+  "definition": "n. a plot of ground where plants are cultivated\\nn. the flowers or vegetables or fruits or herbs that are cultivated in a garden\\nn. a yard or lawn adjoining a house\\nv. work in the garden"
+ },
+ {
+  "word": "bag",
+  "phonetic": "bæg",
+  "translation": "n. 袋子, 袋状物\\nvt. 使膨大, 装袋, 猎获",
+  "definition": "n. a flexible container with a single opening\\nn. the quantity of game taken in a particular period (usually by one person)\\nn. a container used for carrying money and small personal items or accessories (especially by women)\\nn. the quantity that a bag will hold"
+ },
+ {
+  "word": "idea",
+  "phonetic": "ai'diә",
+  "translation": "n. 主意, 办法, 理想, 思想, 概念, 意见\\n[医] 观念, 思想",
+  "definition": "n. the content of cognition; the main thing you are thinking about\\nn. a personal view"
+ },
+ {
+  "word": "people",
+  "phonetic": "'pi:pl",
+  "translation": "n. 人, 人民, 民族, 平民\\nvt. 使住满人, 居住于",
+  "definition": "n. (plural) any group of human beings (men or women or children) collectively\\nn. members of a family line\\nv. fill with people\\nv. furnish with people"
+ },
+ {
+  "word": "able",
+  "phonetic": "'eibl",
+  "translation": "a. 能干的, 能够的",
+  "definition": "a. (usually followed by `to') having the necessary means or skill or know-how or authority to do something\\ns. have the skills and qualifications to do things well\\ns. having inherent physical or mental ability or capacity\\ns. having a strong healthy body"
+ },
+ {
+  "word": "eaten",
+  "phonetic": "'i:tәn",
+  "translation": "eat的过去分词",
+  "definition": "v take in solid food\\nv eat a meal; take a meal\\nv take in food; used of animals only\\nv worry or cause anxiety in a persistent way\\nv use up (resources or materials)\\nv cause to deteriorate due to the action of water, air, or an acid"
+ },
+ {
+  "word": "great",
+  "phonetic": "greit",
+  "translation": "a. 大的, 非常的, 主要的, 重大的, 崇高的, 伟大的\\nadv. 顺利地, 得意地\\nn. 全部, 大人物, 大师",
+  "definition": "n. a person who has achieved distinction and honor in some field\\ns. relatively large in size or number or extent; larger than others of its kind\\ns. of major significance or importance\\ns. remarkable or out of the ordinary in degree or magnitude or effect"
+ },
+ {
+  "word": "hall",
+  "phonetic": "hɒ:l",
+  "translation": "n. 门厅, 走廊, 会堂",
+  "definition": "n. a large room for gatherings or entertainment\\nn. English writer whose novel about a lesbian relationship was banned in Britain for many years (1883-1943)\\nn. United States child psychologist whose theories of child psychology strongly influenced educational psychology (1844-1924)\\nn. United States chemist who developed an economical method of producing aluminum from bauxite (1863-1914)"
+ },
+ {
+  "word": "lives",
+  "phonetic": "laivz",
+  "translation": "life的复数",
+  "definition": "n a characteristic state or mode of living\\nn the experience of being alive; the course of human events and activities\\nn the course of existence of an individual; the actions and events that occur in living\\nn the condition of living or the state of being alive\\nn the period during which something is functional (as between birth and death)\\nn the period between birth and the present time\\nn the period from the present until death\\nn a living person\\nn animation and energy in action or expression\\nn living things collectively\\nn the organic phenomenon that distinguishes living organisms from nonliving ones\\nn an account of the series of events making up a person's life\\nn a motive for living\\nn a prison term lasting as long as the prisoner lives\\nv inhabit or live in; be an inhabitant of\\nv lead a certain kind of life; live in a certain style\\nv continue to live through hardship or adversity\\nv support oneself\\nv have life, be alive\\nv have firsthand knowledge of states, situations, emotions, or sensations\\nv pursue a positive and satisfying existence"
+ },
+ {
+  "word": "man",
+  "phonetic": "mæn",
+  "translation": "n. 男人, 人类, 人\\nvt. 为...配备人手, 操纵, 使振奋\\n[计] 城域网, 手册",
+  "definition": "n. an adult person who is male (as opposed to a woman)\\nn. the generic use of the word to refer to any human being\\nn. a male subordinate\\nn. an adult male person who has a manly character (virile and courageous competent)"
+ },
+ {
+  "word": "never",
+  "phonetic": "'nevә",
+  "translation": "adv. 从不, 决不, 不曾\\n[法] 永不, 决不, 从来没有",
+  "definition": "r. not ever; at no time in the past or future\\nr. not at all; certainly not; not in any circumstances"
+ },
+ {
+  "word": "one",
+  "phonetic": "wʌn",
+  "translation": "n. 一(个)\\npron. 一, 任何人\\nnum. 一, 一个\\na. 一致的, 完整的",
+  "definition": "n. the smallest whole number or a numeral representing this number\\nn. a single person or thing\\ns. used of a single unit or thing; not two or more\\ns. having the indivisible character of a unit"
+ },
+ {
+  "word": "paper",
+  "phonetic": "'peipә",
+  "translation": "n. 纸, 文件, 文章, 报纸, 证券, 证件\\nvt. 用纸糊, 贴壁纸于, 用纸包装\\nvi. 贴壁纸\\na. 纸做的, 纸上的",
+  "definition": "n. a material made of cellulose pulp derived mainly from wood or rags or certain grasses\\nn. a medium for written communication\\nn. a scholarly article describing the results of observations or stating hypotheses\\nv. cover with paper"
+ },
+ {
+  "word": "room",
+  "phonetic": "ru:m",
+  "translation": "n. 房间, 空位, 场所\\nvi. 住宿, 居住\\nvt. 留宿",
+  "definition": "n. an area within a building enclosed by walls and floor and ceiling\\nn. space for movement\\nn. opportunity for\\nn. the people who are present in a room"
+ },
+ {
+  "word": "since",
+  "phonetic": "sins",
+  "translation": "prep. 自...以后, 自...以来\\nadv. 自那时以后\\nconj. 既然, 自...以后, 自...以来",
+  "definition": "adv. From a definite past time until now; as, he went a month\\n   ago, and I have not seen him since.\\nadv. In the time past, counting backward from the present;\\n   before this or now; ago.\\nadv. When or that.\\nprep. From the time of; in or during the time subsequent to;\\n   subsequently to; after; -- usually with a past event or time for the\\n   object.\\nconj. Seeing that; because; considering; -- formerly followed\\n   by that."
+ },
+ {
+  "word": "snail",
+  "phonetic": "sneil",
+  "translation": "n. 蜗牛, 行动迟缓的人, 脑筋迟钝的人, 蜗形凸轮\\nvt. (蜗牛般)缓慢地打发(时间)\\nvi. 缓慢移动",
+  "definition": "n. freshwater or marine or terrestrial gastropod mollusk usually having an external enclosing spiral shell\\nv. gather snails"
+ },
+ {
+  "word": "years",
+  "phonetic": "",
+  "translation": "n. 年代；岁月；年；年龄",
+  "definition": "n a late time of life\\nn a prolonged period of time\\nn the time during which someone's life continues\\nn a period of time containing 365 (or 366) days\\nn a period of time occupying a regular part of a calendar year that is used for some particular activity\\nn the period of time that it takes for a planet (as, e.g., Earth or Mars) to make a complete revolution around the sun\\nn a body of students who graduate together"
+ },
+ {
+  "word": "abuse",
+  "phonetic": "ә'bju:s.ә'bju:z",
+  "translation": "n. 滥用, 虐待, 恶习, 辱骂\\nvt. 滥用, 辱骂, 虐待",
+  "definition": "n. a rude expression intended to offend or hurt\\nv. use foul or abusive language towards\\nv. use wrongly or improperly or excessively"
+ },
+ {
+  "word": "accepted",
+  "phonetic": "әk'septid",
+  "translation": "a. 公认的, 一般承认的\\n[经] 已承兑, 已认付",
+  "definition": "s. generally approved or compelling recognition"
+ },
+ {
+  "word": "acting",
+  "phonetic": "'æktiŋ",
+  "translation": "n. 演戏, 装腔作势\\na. 代理的, 演出用的, 起作用的",
+  "definition": "n. the performance of a part or role in a drama\\ns. serving temporarily especially as a substitute"
+ },
+ {
+  "word": "after",
+  "phonetic": "'ɑ:ftә",
+  "translation": "prep. 在...之后, 由于\\nconj. 在...之后\\nadv. 后来",
+  "definition": "s. located farther aft\\nr. behind or in the rear"
+ },
+ {
+  "word": "animal",
+  "phonetic": "'ænimәl",
+  "translation": "n. 动物\\n[医] 动物",
+  "definition": "n. a living organism characterized by voluntary movement\\ns. marked by the appetites and passions of the body"
+ },
+ {
+  "word": "another",
+  "phonetic": "ә'nʌðә",
+  "translation": "a. 另外的, 再一的, 不同的\\npron. 又一个, 另一个, 类似的另一个",
+  "definition": "s. any of various alternatives; some other"
+ },
+ {
+  "word": "appealed",
+  "phonetic": "",
+  "translation": "v. 呼吁（appeal的过去分词）；求助；诉请",
+  "definition": "imp. & p. p. of Appeal\\nimp. & p. p. of Appease"
+ },
+ {
+  "word": "asking",
+  "phonetic": "'ɑ:skiŋ",
+  "translation": "n. 请求",
+  "definition": "n the verbal act of requesting\\nv inquire about\\nv make a request or demand for something to somebody\\nv direct or put; seek an answer to\\nv consider obligatory; request and expect\\nv address a question to and expect an answer from\\nv require as useful, just, or proper\\nv require or ask for as a price or condition"
+ },
+ {
+  "word": "associate",
+  "phonetic": "ә'sәuʃieit",
+  "translation": "n. 同伴, 伙伴, 关联的事物\\nvt. 使联合, 使发生联系\\nvi. 交往\\n[计] 关联",
+  "definition": "n. a person who joins with others in some activity or endeavor\\nn. a person with subordinate membership in a society, institution, or commercial enterprise\\nn. any event that usually accompanies or is closely connected with another\\nv. make a logical or causal connection"
+ },
+ {
+  "word": "become",
+  "phonetic": "bi'kʌm",
+  "translation": "vi. 变成, 变得\\nvt. 适合",
+  "definition": "v. enter or assume a certain state or condition\\nv. undergo a change or development\\nv. come into existence\\nv. enhance the appearance of"
+ },
+ {
+  "word": "brought",
+  "phonetic": "brɒ:t",
+  "translation": "bring的过去式和过去分词",
+  "definition": "v take something or somebody with oneself somewhere\\nv cause to come into a particular state or condition\\nv cause to happen or to occur as a consequence\\nv go or come after and bring or take back\\nv bring into a different state\\nv be accompanied by\\nv advance or set forth in court\\nv bestow a quality on\\nv be sold for a certain price\\nv attract the attention of\\nv induce or persuade"
+ },
+ {
+  "word": "cannot",
+  "phonetic": "'kænɒt",
+  "translation": "aux. 无法, 不能",
+  "definition": " Am, is, or are, not able; -- written either as one word or\\n   two."
+ },
+ {
+  "word": "certain",
+  "phonetic": "'sә:tәn",
+  "translation": "a. 确定的, 某一个的, 必然的\\n[法] 确凿的, 无疑的, 可靠的",
+  "definition": "s. definite but not specified or identified\\na. having or feeling no doubt or uncertainty; confident and assured\\na. established beyond doubt or question; definitely known\\na. certain to occur; destined or inevitable"
+ },
+ {
+  "word": "collect",
+  "phonetic": "kә'lekt",
+  "translation": "v. 收集, 聚集, 集中, 搜集\\na. 由收到者付款的\\nadv. 由收到者付款地",
+  "definition": "n. a short prayer generally preceding the lesson in the Church of Rome or the Church of England\\nv. call for and obtain payment of\\nv. get or bring together\\nv. gather or collect"
+ },
+ {
+  "word": "collected",
+  "phonetic": "kә'lektid",
+  "translation": "a. 收集成的, 镇定的",
+  "definition": "a. brought together in one place\\ns. in full control of your faculties"
+ },
+ {
+  "word": "common",
+  "phonetic": "'kɒmәn",
+  "translation": "a. 通常的, 共同的, 通俗的, 公共的\\n[计] 公用块",
+  "definition": "a. belonging to or participated in by a community as a whole; public\\na. having no special distinction or quality; widely known or commonly encountered; average or ordinary or usual\\ns. common to or shared by two or more parties\\ns. commonly encountered"
+ },
+ {
+  "word": "complete",
+  "phonetic": "kәm'pli:t",
+  "translation": "a. 完全的, 十足的, 完成的\\nvt. 完成, 完工, 使圆满",
+  "definition": "v. come or bring to a finish or an end; others finished in over 4 hours\"\\nv. bring to a whole, with all the necessary parts or elements\\nv. complete a pass\\nv. write all the required information onto a form"
+ },
+ {
+  "word": "consider",
+  "phonetic": "kәn'sidŋ",
+  "translation": "v. 考虑, 思考, 认为",
+  "definition": "v. take into consideration for exemplifying purposes\\nv. show consideration for; take into account\\nv. think about carefully; weigh\\nv. regard or treat with consideration, respect, and esteem"
+ },
+ {
+  "word": "cooked",
+  "phonetic": "kukt",
+  "translation": "a. 精疲力竭的, 被揍得昏厥的, 未达到目的就完蛋的, 喝醉了的",
+  "definition": "a. having been prepared for eating by the application of heat"
+ },
+ {
+  "word": "countless",
+  "phonetic": "'kauntlis",
+  "translation": "a. 数不尽的, 无数的",
+  "definition": "s. too numerous to be counted"
+ },
+ {
+  "word": "countries",
+  "phonetic": "",
+  "translation": "国家（country的复数）",
+  "definition": "n a politically organized body of people under a single government\\nn the territory occupied by a nation\\nn the people who live in a nation or country\\nn an area outside of cities and towns\\nn a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography)"
+ },
+ {
+  "word": "country",
+  "phonetic": "'kʌntri",
+  "translation": "n. 国家, 乡村, 地区, 故乡\\na. 乡下的, 农村的\\n[计] DOS外部命令:用于设定国家代码, 包括日期时间及货币格式",
+  "definition": "n. the territory occupied by a nation\\nn. an area outside of cities and towns"
+ },
+ {
+  "word": "couple",
+  "phonetic": "'kʌpl",
+  "translation": "n. 对, 夫妇, 数个\\nvt. 使成双, 连接, 使成婚, 把...联系起来\\nvi. 结合, 成婚",
+  "definition": "n. a pair who associate with one another\\nn. a pair of people who live together\\nn. a small indefinite number\\nn. two items of the same kind"
+ },
+ {
+  "word": "course",
+  "phonetic": "kɒ:s",
+  "translation": "n. 课程, 路线, 过程, 一道菜, 道路\\nv. 追, (使)跑",
+  "definition": "n. education imparted in a series of lessons or meetings\\nn. a connected series of events or actions or developments\\nn. general line of orientation\\nn. a mode of action"
+ },
+ {
+  "word": "creature",
+  "phonetic": "'kri:tʃә",
+  "translation": "n. 人, 动物, 创造物, 生物",
+  "definition": "n. a human being; `wight' is an archaic term\\nn. a person who is controlled by others and is used to perform unpleasant or dishonest tasks for someone else"
+ },
+ {
+  "word": "day",
+  "phonetic": "dei",
+  "translation": "n. 天, 日子, 白天, 工作日\\n[医] 日(一昼夜), 昼, 白天",
+  "definition": "n. time for Earth to make a complete rotation on its axis\\nn. some point or period in time\\nn. a day assigned to a particular purpose or observance\\nn. the time after sunrise and before sunset while it is light outside"
+ },
+ {
+  "word": "decide",
+  "phonetic": "di'said",
+  "translation": "v. 决定, 判决",
+  "definition": "v. reach, make, or come to a decision about something\\nv. bring to an end; settle conclusively\\nv. cause to decide\\nv. influence or determine"
+ },
+ {
+  "word": "delicacy",
+  "phonetic": "'delikәsi",
+  "translation": "n. 细软, 精致, 精美的食品, 娇气, 微妙, 棘手, 娇弱, 灵敏, 灵巧",
+  "definition": "n. refined taste; tact\\nn. smallness of stature\\nn. subtly skillful handling of a situation"
+ },
+ {
+  "word": "delighted",
+  "phonetic": "di'laitid",
+  "translation": "a. 高兴的, 快乐的",
+  "definition": "s. greatly pleased"
+ },
+ {
+  "word": "despised",
+  "phonetic": "disˈpaizd",
+  "translation": "v. 鄙视, 看不起某人（某事）( despise的过去式和过去分词 )",
+  "definition": "s. treated with contempt"
+ },
+ {
+  "word": "dinner",
+  "phonetic": "'dinә",
+  "translation": "n. 晚餐, 正餐, 宴会",
+  "definition": "n. the main meal of the day served in the evening or at midday\\nn. a party of people assembled to have dinner together"
+ },
+ {
+  "word": "dish",
+  "phonetic": "diʃ",
+  "translation": "n. 盘子, 碟, 菜肴\\n[医] 皿, 碟",
+  "definition": "n. a piece of dishware normally used as a container for holding or serving food\\nn. a particular item of prepared food\\nn. the quantity that a dish will hold\\nn. directional antenna consisting of a parabolic reflector for microwave or radio frequency radiation"
+ },
+ {
+  "word": "dismay",
+  "phonetic": "dis'mei",
+  "translation": "n. 沮丧\\nvt. 使惊愕, 使气馁",
+  "definition": "v. fill with apprehension or alarm; cause to be unpleasantly surprised"
+ },
+ {
+  "word": "dozen",
+  "phonetic": "'dʌzn",
+  "translation": "n. 打, 十二个\\na. 一打的",
+  "definition": "n the cardinal number that is the sum of eleven and one\\ns denoting a quantity consisting of 12 items or units"
+ },
+ {
+  "word": "early",
+  "phonetic": "'ә:li",
+  "translation": "a. 早的, 早熟的\\nadv. 很早, 初",
+  "definition": "a. at or near the beginning of a period of time or course of events or before the usual or expected time\\na. being or occurring at an early stage of development\\ns. belonging to the distant past\\ns. very young"
+ },
+ {
+  "word": "eat",
+  "phonetic": "i:t",
+  "translation": "v. 吃, 腐蚀",
+  "definition": "v. take in solid food\\nv. eat a meal; take a meal\\nv. worry or cause anxiety in a persistent way"
+ },
+ {
+  "word": "equally",
+  "phonetic": "'i:kwәli",
+  "translation": "adv. 相等地, 同样地, 平等地",
+  "definition": "r. to the same degree (often followed by `as')"
+ },
+ {
+  "word": "escaped",
+  "phonetic": "",
+  "translation": "v. 避开；泄出；逃离, 逃脱（escape的过去式, 过去分词）",
+  "definition": "v run away from confinement\\nv fail to experience\\nv escape potentially unpleasant consequences; get away with a forbidden action\\nv be incomprehensible to; escape understanding by\\nv remove oneself from a familiar environment, usually for pleasure or diversion\\nv flee; take to one's heels; cut and run\\nv issue or leak, as from a small opening\\ns having escaped, especially from confinement"
+ },
+ {
+  "word": "ever",
+  "phonetic": "'evә",
+  "translation": "adv. 曾经, 究竟, 永远",
+  "definition": "r. at any time\\nr. (intensifier for adjectives) very"
+ },
+ {
+  "word": "everywhere",
+  "phonetic": "'evrihwєә",
+  "translation": "adv. 各处, 到处",
+  "definition": "r. to or in any or all places; (`everyplace' is used informally for `everywhere')"
+ },
+ {
+  "word": "fancy",
+  "phonetic": "'fænsi",
+  "translation": "n. 想象力, 幻想, 喜好\\na. 想象的, 精美的, 新奇的, 奇特的, 高价的, 特级的\\nvt. 想象, 设想, 相信, 喜爱\\nvi. 想象, 幻想",
+  "definition": "n. a kind of imagination that was held by Coleridge to be more casual and superficial than true imagination\\nv. have a fancy or particular liking or desire for\\na. not plain; decorative or ornamented"
+ },
+ {
+  "word": "fat",
+  "phonetic": "fæt",
+  "translation": "n. 脂肪, 脂油, 肥肉\\na. 肥的, 胖的, 油腻的\\nn. 文件分配表\\n[计] 文件分配表",
+  "definition": "n. a soft greasy substance occurring in organic tissue and consisting of a mixture of lipids (mostly triglycerides)\\na. having an (over)abundance of flesh\\ns. having a relatively large diameter\\ns. lucrative"
+ },
+ {
+  "word": "find",
+  "phonetic": "faind",
+  "translation": "vt. 发现, 感到, 找到, 认为, 得到\\nvi. 裁决\\nn. 发现\\n[计] 查找; DOS外部命令:在指定的文件或从键盘输入的文本行中\\n寻找指定的字符串, 将符合条件的行或行数输出到标准输出设备上",
+  "definition": "v. come upon, as if by accident; meet with\\nv. come upon after searching; find the location of something that was missed or lost\\nv. come to believe on the basis of emotion, intuitions, or indefinite grounds\\nv. obtain through effort or management"
+ },
+ {
+  "word": "flat",
+  "phonetic": "flæt",
+  "translation": "a. 平坦的, 单调的, 无力的, 浅的, 萧条的, 干脆的, 无聊的\\nadv. 平直地, 断然地\\nn. 扁平物, 平面, 平地, 平原, 平板车\\nv. (使)变平",
+  "definition": "n. a level tract of land\\nn. a shallow box in which seedlings are started\\nn. a musical notation indicating one half step lower than the note named\\nn. a deflated pneumatic tire"
+ },
+ {
+  "word": "followed",
+  "phonetic": "",
+  "translation": "a. 跟随的；服从的",
+  "definition": "v to travel behind, go after, come after\\nv be later in time\\nv come as a logical consequence; follow logically\\nv travel along a certain course\\nv act in accordance with someone's rules, commands, or wishes\\nv come after in time, as a result\\nv behave in accordance or in agreement with\\nv be next\\nv choose and follow; as of theories, ideas, policies, strategies or plans\\nv to bring something about at a later time than\\nv imitate in behavior; take as a model\\nv follow, discover, or ascertain the course of development of something\\nv follow with the eyes or the mind\\nv be the successor (of)\\nv perform an accompaniment to\\nv keep informed\\nv to be the product or result\\nv accept and follow the leadership or command or guidance of\\nv adhere to or practice\\nv work in a specific place, with a specific subject, or in a specific function\\nv keep under surveillance\\nv follow in or as if in pursuit\\nv grasp the meaning\\nv keep to"
+ },
+ {
+  "word": "food",
+  "phonetic": "fu:d",
+  "translation": "n. 食物, 养料\\n[医] 食物, 食品",
+  "definition": "n. any substance that can be metabolized by an animal to give energy and build tissue\\nn. any solid substance (as opposed to liquid) that is used as a source of nourishment\\nn. anything that provides mental stimulus for thinking"
+ },
+ {
+  "word": "foods",
+  "phonetic": "",
+  "translation": "n. 食品",
+  "definition": "n any substance that can be metabolized by an animal to give energy and build tissue\\nn any solid substance (as opposed to liquid) that is used as a source of nourishment\\nn anything that provides mental stimulus for thinking"
+ },
+ {
+  "word": "forgotten",
+  "phonetic": "fә'gɒtn",
+  "translation": "forget的过去分词",
+  "definition": "v dismiss from the mind; stop remembering\\nv be unable to remember\\nv forget to do something\\nv leave behind unintentionally\\ns not noticed inadvertently"
+ },
+ {
+  "word": "friend",
+  "phonetic": "frend",
+  "translation": "n. 朋友, 支持者, 赞助者\\n[法] 朋友, 友人, 赞助者",
+  "definition": "n. a person you know well and regard with affection and trust\\nn. a member of the Religious Society of Friends founded by George Fox (the Friends have never called themselves Quakers)"
+ },
+ {
+  "word": "frying",
+  "phonetic": "'fraɪɪŋ",
+  "translation": "v. 油炸, 油煎( fry的现在分词 ); 皮肤晒黑; 煎炸; 油发",
+  "definition": "n. cooking in fat or oil in a pan or griddle"
+ },
+ {
+  "word": "gift",
+  "phonetic": "gift",
+  "translation": "n. 礼物, 赠予, 天才\\nvt. 赋予",
+  "definition": "n. something acquired without compensation"
+ },
+ {
+  "word": "hand",
+  "phonetic": "hænd",
+  "translation": "n. 手, 爪, 指针, 掌握, 协助, 人手, 手艺, 手迹, 支配, 插手\\nvt. 交给, 支持, 搀扶",
+  "definition": "n. the (prehensile) extremity of the superior limb\\nn. ability\\nn. a position given by its location to the side of an object\\nn. the cards held in a card game by a given player at any given time"
+ },
+ {
+  "word": "happened",
+  "phonetic": "",
+  "translation": "v. 发生（happen的过去式, 过去分词）",
+  "definition": "v come to pass\\nv happen, occur, or be the case in the course of events or by chance\\nv chance to be or do something, without intention or causation\\nv come into being; become reality\\nv come upon, as if by accident; meet with"
+ },
+ {
+  "word": "heavy",
+  "phonetic": "'hevi",
+  "translation": "a. 重的, 巨大的, 沉重的, 笨重的, 过度的\\nadv. 沉重地\\nn. 重物, 严肃角色",
+  "definition": "n. an actor who plays villainous roles\\nn. a serious (or tragic) role in a play\\na. of comparatively great physical weight or density\\na. unusually great in degree or quantity or number"
+ },
+ {
+  "word": "hours",
+  "phonetic": "",
+  "translation": "n. 小时（hour的复数形式）",
+  "definition": "n. a period of time assigned for work\\nn. an indefinite period of time"
+ },
+ {
+  "word": "huge",
+  "phonetic": "hju:dʒ",
+  "translation": "a. 极大的, 巨大的, 无限的",
+  "definition": "s. unusually great in size or amount or degree or especially extent or scope"
+ },
+ {
+  "word": "illogical",
+  "phonetic": "i'lɒdʒikl",
+  "translation": "a. 不合逻辑的, 无缘由的\\n[法] 不合逻辑的, 无条理的, 说不通的",
+  "definition": "a. lacking in correct logical relation"
+ },
+ {
+  "word": "impulse",
+  "phonetic": "'impʌls",
+  "translation": "n. 冲动, 驱使, 刺激, 推动, 冲力, 建议, 脉冲\\nvt. 推动",
+  "definition": "n. the act of applying force suddenly"
+ },
+ {
+  "word": "instance",
+  "phonetic": "'instәns",
+  "translation": "n. 建议, 情况, 例子, 场合\\nvt. 引以为例, 举例说明",
+  "definition": "n an occurrence of something\\nn an item of information that is typical of a class or group\\nv clarify by giving an example of"
+ },
+ {
+  "word": "large",
+  "phonetic": "lɑ:dʒ",
+  "translation": "a. 大的, 大量的, 宽大的, 广博的\\nadv. 大大地, 夸大地",
+  "definition": "n. a garment size for a large person\\na. above average in size or number or quantity or magnitude or extent\\ns. fairly large or important in effect; influential\\ns. having broad power and range and scope"
+ },
+ {
+  "word": "learnt",
+  "phonetic": "lә:nt",
+  "translation": "learn的过去式和过去分词",
+  "definition": "v gain knowledge or skills\\nv get to know or become aware of, usually accidentally\\nv commit to memory; learn by heart\\nv be a student of a certain subject\\nv impart skills or knowledge to\\nv find out, learn, or determine with certainty, usually by making an inquiry or other effort"
+ },
+ {
+  "word": "left",
+  "phonetic": "left",
+  "translation": "a. 左边的, 左倾的, 左侧的, 左派的\\nadv. 在左面\\nn. 左, 左面, 左派\\nleave的过去式和过去分词",
+  "definition": "n. location near or direction toward the left side; i.e. the side to the north when a person or object faces east\\nn. those who support varying degrees of social or political or economic change designed to promote the public welfare\\nn. the hand that is on the left side of the body\\nn. a turn toward the side of the body that is on the north when the person is facing east"
+ },
+ {
+  "word": "little",
+  "phonetic": "'litl",
+  "translation": "n. 一点点, 少许, 一会儿, 短时间\\na. 小的, 很少的, 幼小的, 琐碎的, 短暂的, 矮小的\\nadv. 很少, 稍微, 完全不",
+  "definition": "n. a small amount or duration\\na. (quantifier used with mass nouns) small in quantity or degree; not much or almost none or (with `a') at least some\\ns. (of children and animals) young, immature\\ns. (of a voice) faint"
+ },
+ {
+  "word": "lived",
+  "phonetic": "livd. 'laivd",
+  "translation": "a. 有生命的",
+  "definition": "v inhabit or live in; be an inhabitant of\\nv lead a certain kind of life; live in a certain style\\nv continue to live through hardship or adversity\\nv support oneself\\nv have life, be alive\\nv have firsthand knowledge of states, situations, emotions, or sensations\\nv pursue a positive and satisfying existence"
+ },
+ {
+  "word": "living",
+  "phonetic": "'liviŋ",
+  "translation": "n. 生活, 生计, 生存\\na. 活的, 逼真的, 现存的",
+  "definition": "n. people who are still living\\na. pertaining to living persons\\ns. true to life; lifelike\\ns. (informal) absolute"
+ },
+ {
+  "word": "look",
+  "phonetic": "luk",
+  "translation": "n. 一看, 神色, 样子, 面容\\nvi. 看, 注意, 朝着, 显得\\nvt. 打量, 看上去与...一样, 以眼色(或脸色)显示, 期待",
+  "definition": "n. the act of directing the eyes toward something and perceiving it visually\\nn. physical appearance\\nv. perceive with attention; direct one's gaze towards\\nv. give a certain impression or have a certain outward aspect"
+ },
+ {
+  "word": "luxury",
+  "phonetic": "'lʌkʃәri",
+  "translation": "n. 奢侈, 豪华\\na. 奢侈的, 豪华的",
+  "definition": "n. something that is an indulgence rather than a necessity\\nn. wealth as evidenced by sumptuous living"
+ },
+ {
+  "word": "main",
+  "phonetic": "mein",
+  "translation": "n. 主要部分, 干线, 体力, 力量, 主群组\\na. 主要的, 重要的, 全力的\\n[计] 主群组",
+  "definition": "n. any very large body of (salt) water\\nn. a principal pipe in a system that distributes water or gas or electricity or that collects sewage\\ns. of force; of the greatest possible intensity"
+ },
+ {
+  "word": "many",
+  "phonetic": "'meni",
+  "translation": "n. 多数, 多数人\\na. 许多的\\npron. 许多",
+  "definition": "a. a quantifier that can be used with count nouns and is often preceded by `as' or `too' or `so' or `that'; amounting to a large but indefinite number"
+ },
+ {
+  "word": "meat",
+  "phonetic": "mi:t",
+  "translation": "n. 肉, 餐, 食物\\n[经] 肉类",
+  "definition": "n. the flesh of animals (including fishes and birds and snails) used as food"
+ },
+ {
+  "word": "mediterranean",
+  "phonetic": ".meditә'reiniәn",
+  "translation": "n. 地中海, 地中海民族\\na. 地中海的, 地中海民族的",
+  "definition": "n. the largest inland sea; between Europe and Africa and Asia\\na. of or relating to or characteristic of or located near the Mediterranean Sea"
+ },
+ {
+  "word": "much",
+  "phonetic": "mʌtʃ",
+  "translation": "n. 大量, 许多, 重要的事\\na. 很多的, 重要的\\nadv. 多, 甚, 几乎",
+  "definition": "n. a great amount or extent\\na. (quantifier used with mass nouns) great in quantity or degree or extent\\nr. to a great degree or extent\\nr. very"
+ },
+ {
+  "word": "normally",
+  "phonetic": "'nɒ:mәli",
+  "translation": "adv. 正规地, 合规则, 正常地",
+  "definition": "r. under normal conditions"
+ },
+ {
+  "word": "northern",
+  "phonetic": "'nɒ:ðәn",
+  "translation": "n. 北方人\\na. 北方的, 向北的, 自北方来的",
+  "definition": "n. a dialect of Middle English that developed into Scottish Lallans\\na. in or characteristic of a region of the United States north of (approximately) the Mason-Dixon line\\na. situated in or coming from regions of the north"
+ },
+ {
+  "word": "noticed",
+  "phonetic": "'nəʊtɪst",
+  "translation": "v. 注意（ notice的过去式和过去分词 ）; 觉察",
+  "definition": "imp. & p. p. of Notice"
+ },
+ {
+  "word": "number",
+  "phonetic": "'nʌmbә",
+  "translation": "n. 数, 数字, 数目, 号码\\nvt. 数, 计算, 共计\\nvi. 计算, 报数\\n[计] 数字",
+  "definition": "n. the property possessed by a sum or total or indefinite quantity of units or individuals\\nn. a concept of quantity involving zero and units\\nn. a select company of people\\nn. a numeral or string of numerals that is used for identification"
+ },
+ {
+  "word": "octopus",
+  "phonetic": "'ɒktәpәs",
+  "translation": "n. 章鱼",
+  "definition": "n. tentacles of octopus prepared as food\\nn. bottom-living cephalopod having a soft oval body with eight long tentacles"
+ },
+ {
+  "word": "parts",
+  "phonetic": "pɑ:ts",
+  "translation": "n. 零件, 部件",
+  "definition": "n. the local environment"
+ },
+ {
+  "word": "passage",
+  "phonetic": "'pæsidʒ",
+  "translation": "n. 通道, 通过, 移居, 航行, 一段, 走廊\\nvi. 通过, 经过, 航行, 横渡, 争吵\\nvt. (使)马以斜横步前进, 使传代",
+  "definition": "n. the act of passing from one state or place to the next\\nn. a section of text; particularly a section of medium length\\nn. a way through or along which someone or something may pass\\nn. a journey usually by ship"
+ },
+ {
+  "word": "plants",
+  "phonetic": "",
+  "translation": "n. 植物；工厂（plant的复数形式）",
+  "definition": "n buildings for carrying on industrial labor\\nn (botany) a living organism lacking the power of locomotion\\nn an actor situated in the audience whose acting is rehearsed but seems spontaneous to the audience\\nn something planted secretly for discovery by another\\nv put or set (seeds, seedlings, or plants) into the ground\\nv fix or set securely or deeply\\nv set up or lay the groundwork for\\nv place into a river\\nv place something or someone in a certain position in order to secretly observe or deceive\\nv put firmly in the mind"
+ },
+ {
+  "word": "pleased",
+  "phonetic": "pli:zd",
+  "translation": "a. 高兴的, 喜欢的, 满足的",
+  "definition": "a. experiencing or manifesting pleasure\\ns. feeling pleasurable satisfaction over something by which you measures your self-worth"
+ },
+ {
+  "word": "poison",
+  "phonetic": "'pɒizn",
+  "translation": "n. 毒药, 毒, 毒物, 有毒害的事物\\nvt. 毒害, 毒杀, 使中毒\\nvi. 放毒, 下毒",
+  "definition": "n. any substance that causes injury or illness or death of a living organism\\nn. anything that harms or destroys\\nv. spoil as if by poison\\nv. kill with poison"
+ },
+ {
+  "word": "possession",
+  "phonetic": "pә'zeʃәn",
+  "translation": "n. 拥有, 占有, 所有, 财产, 领土, 领地, 自制, 着迷\\n[经] 占有, 持有",
+  "definition": "n. the act of having and controlling property\\nn. anything owned or possessed\\nn. being controlled by passion or the supernatural\\nn. a territory that is controlled by a ruling state"
+ },
+ {
+  "word": "potatoes",
+  "phonetic": "",
+  "translation": "n. 马铃薯；土豆（potato的复数形式）",
+  "definition": "n an edible tuber native to South America; a staple food of Ireland\\nn annual native to South America having underground stolons bearing edible starchy tubers; widely cultivated as a garden vegetable; vines are poisonous"
+ },
+ {
+  "word": "practice",
+  "phonetic": "'præktis",
+  "translation": "n. 实践, 练习, 实行, 惯例, 习惯, 开业\\nv. 实践, 实行, 练习, 实习, 业务",
+  "definition": "n. a customary way of operation or behavior\\nn. translating an idea into action\\nn. the exercise of a profession\\nn. knowledge of how something is usually done"
+ },
+ {
+  "word": "praise",
+  "phonetic": "preiz",
+  "translation": "n. 赞美, 称赞, 崇拜\\nvt. 称赞, 赞美\\nvi. 赞扬, 表扬",
+  "definition": "n. an expression of approval and commendation\\nn. offering words of homage as an act of worship\\nv. express approval of"
+ },
+ {
+  "word": "prized",
+  "phonetic": "",
+  "translation": "a. 被看作最有价值的",
+  "definition": "v hold dear\\nv to move or force, especially in an effort to get something open\\nv regard highly; think much of"
+ },
+ {
+  "word": "put",
+  "phonetic": "put",
+  "translation": "vt. 放, 摆, 安置, 移动, 发射, 投掷, 写上, 表达, 使从事, 使受到, 驱使, 赋予\\nvi. 出发, 航行, 发芽\\nn. 掷, 股票出售权, 笨蛋\\na. 固定不动的\\n[计] 发送文件",
+  "definition": "v. put into a certain place or abstract location\\nv. cause to be in a certain state; cause to be in a certain relation\\nv. attribute or give\\nv. cause (someone) to undergo something"
+ },
+ {
+  "word": "quite",
+  "phonetic": "kwait",
+  "translation": "adv. 相当, 完全, 十分",
+  "definition": "r. to a degree (not used with a negative)\\nr. to the greatest extent; completely\\nr. of an unusually noticeable or exceptional or remarkable kind (not used with a negative)\\nr. actually or truly or to an extreme"
+ },
+ {
+  "word": "received",
+  "phonetic": "ri'si:vd",
+  "translation": "a. 被一般承认的, 公认的",
+  "definition": "s. widely accepted as true or worthy; surveys show otherwise\"- Economist"
+ },
+ {
+  "word": "reluctantly",
+  "phonetic": "rɪ'lʌktəntlɪ",
+  "translation": "adv. 不情愿地, 勉强地",
+  "definition": "r. with reluctance"
+ },
+ {
+  "word": "repulsive",
+  "phonetic": "ri'pʌlsiv",
+  "translation": "a. 排斥的, 可恶的, 击退的",
+  "definition": "a. possessing the ability to repel"
+ },
+ {
+  "word": "sad",
+  "phonetic": "sæd",
+  "translation": "a. 忧愁的, 悲哀的",
+  "definition": "a. experiencing or showing sorrow or unhappiness\\ns. of things that make you feel sad"
+ },
+ {
+  "word": "said",
+  "phonetic": "sed",
+  "translation": "a. 上述的\\nsay的过去式和过去分词",
+  "definition": "v express in words\\nv report or maintain\\nv express a supposition\\nv have or contain a certain wording or form\\nv give instructions to or direct somebody to do something with authority\\nv speak, pronounce, or utter in a certain way\\nv communicate or express nonverbally\\nv utter aloud\\nv state as one's opinion or judgement; declare\\nv recite or repeat a fixed text\\nv indicate\\ns being the one previously mentioned or spoken of"
+ },
+ {
+  "word": "saw",
+  "phonetic": "sɒ:",
+  "translation": "n. 锯子, 谚语\\nvt. 锯, 锯开, 来回移动\\nvi. 拉锯, 移动\\nsee的过去式",
+  "definition": "n. hand tool having a toothed blade for cutting\\nv. cut with a saw"
+ },
+ {
+  "word": "see",
+  "phonetic": "si:",
+  "translation": "vt. 看见, 查看, 参观, 游览, 理解, 知道, 同意\\nvi. 看, 观看, 注意, 知道, 考虑\\nn. 主教的职位",
+  "definition": "n. the seat within a bishop's diocese where his cathedral is located\\nv. perceive by sight or have the power to perceive by sight\\nv. deem to be\\nv. be careful or certain to do something; make certain of something"
+ },
+ {
+  "word": "several",
+  "phonetic": "'sevәrәl",
+  "translation": "a. 几个的, 一些的, 各自的\\npron. 几个",
+  "definition": "s. (used with count nouns) of an indefinite number more than 2 or 3 but not many\\ns. distinct and individual"
+ },
+ {
+  "word": "shower",
+  "phonetic": "'ʃauә",
+  "translation": "n. 阵雨, 淋浴, 一阵, 展出者, 显示者\\nvi. 淋浴, 下阵雨\\nvt. 淋湿, 倾注",
+  "definition": "n. a plumbing fixture that sprays water over you\\nn. washing yourself by standing upright under water sprayed from a nozzle\\nn. a brief period of precipitation\\nn. a sudden downpour (as of tears or sparks etc) likened to a rain shower"
+ },
+ {
+  "word": "stay",
+  "phonetic": "stei",
+  "translation": "n. 停留, 逗留, 制止, 延缓, 停止, 支柱, 支撑物, 支索\\nvt. 制止, 延缓, 坚持, 支持, 支撑, 用支索固定\\nvi. 停留, 逗留, 暂停, 坚持, 中止",
+  "definition": "n. continuing or remaining in a place or state\\nn. a judicial order forbidding some action until an event occurs or the order is lifted\\nn. a thin strip of metal or bone that is used to stiffen a garment (e.g. a corset)\\nn. (nautical) brace consisting of a heavy rope or wire cable used as a support for a mast or spar"
+ },
+ {
+  "word": "stick",
+  "phonetic": "stik",
+  "translation": "n. 棍, 棒, 刺, 枯枝, 茎, 条状物\\nvt. 插进, 刺入, 钉住, 伸出, 粘贴, 停止\\nvi. 粘住, 停留, 坚持, 陷住, 伸出",
+  "definition": "n. an implement consisting of a length of wood\\nn. a small thin branch of a tree\\nn. a lever used by a pilot to control the ailerons and elevators of an airplane\\nn. a rectangular quarter pound block of butter or margarine"
+ },
+ {
+  "word": "stomach",
+  "phonetic": "'stʌmәk",
+  "translation": "n. 胃, 食欲, 欲望, 肚子\\nvt. 吃下, 忍受",
+  "definition": "n. an enlarged and muscular saclike organ of the alimentary canal; the principal organ of digestion\\nn. an inclination or liking for things involving conflict or difficulty or unpleasantness\\nn. an appetite for food\\nv. bear to eat"
+ },
+ {
+  "word": "stroll",
+  "phonetic": "strәul",
+  "translation": "n. 闲逛, 漫步\\nv. 闲逛, 漫步",
+  "definition": "v. walk leisurely and with no apparent aim"
+ },
+ {
+  "word": "sudden",
+  "phonetic": "'sʌdn",
+  "translation": "n. 突然, 忽然\\na. 突然的, 意外的, 快速的",
+  "definition": "a. happening without warning or in a short space of time"
+ },
+ {
+  "word": "suddenly",
+  "phonetic": "'sʌdәnli",
+  "translation": "adv. 突然, 意外, 忽然, 迅速, 即席作成, 即刻, 急速",
+  "definition": "r. happening unexpectedly"
+ },
+ {
+  "word": "take",
+  "phonetic": "teik",
+  "translation": "vt. 拿, 取, 抓, 带领, 获得, 就座, 接受, 吃, 吸引, 采取, 乘, 需要, 花费\\nvi. 吃掉对方棋子, 抓住, 起作用, 依法获得财产\\nn. 拿, 取, 收成, 奏效",
+  "definition": "n. the act of photographing a scene or part of a scene without interruption\\nv. carry out\\nv. require (time or space)\\nv. get into one's hands, take physically"
+ },
+ {
+  "word": "taken",
+  "phonetic": "'teikәn",
+  "translation": "take的过去分词",
+  "definition": "s. be affected with an indisposition"
+ },
+ {
+  "word": "taking",
+  "phonetic": "'teikiŋ",
+  "translation": "n. 取得, 捕获, 进款\\na. 迷人的, 可爱的, 会传染的",
+  "definition": "n the act of someone who picks up or takes something\\nv carry out\\nv require (time or space)\\nv take somebody somewhere\\nv get into one's hands, take physically\\nv take on a certain form, attribute, or aspect\\nv interpret something in a certain way; convey a particular meaning or impression\\nv take something or somebody with oneself somewhere\\nv take into one's possession\\nv travel or go by means of a certain kind of transportation, or a certain route\\nv pick out, select, or choose from a number of alternatives\\nv receive willingly something given or offered\\nv assume, as of positions or roles\\nv take into consideration for exemplifying purposes\\nv require as useful, just, or proper\\nv experience or feel or submit to\\nv make a film or photograph of something\\nv remove something concrete, as by lifting, pushing, or taking off, or remove something abstract\\nv serve oneself to, or consume regularly\\nv accept or undergo, often unwillingly\\nv make use of or accept for some purpose\\nv take by force\\nv occupy or take on\\nv admit into a group or community\\nv ascertain or determine by measuring, computing or take a reading from a dial\\nv be a student of a certain subject\\nv take as an undesirable consequence of some event or state of affairs\\nv head into a specified direction\\nv point or cause to go (blows, weapons, or objects such as photographic equipment) towards\\nv be seized or affected in a specified way\\nv have with oneself; have on one's person\\nv engage for service under a term of contract\\nv receive or obtain regularly\\nv buy, select\\nv to get into a position of having, e.g., safety, comfort\\nv have sex with; archaic use\\nv lay claim to; as of an idea\\nv be designed to hold or take\\nv be capable of holding or containing\\nv develop a habit\\nv proceed along in a vehicle\\nv obtain by winning\\nv be stricken by an illness, fall victim to an illness\\ns very attractive; capturing interest"
+ },
+ {
+  "word": "talked",
+  "phonetic": "tɔːkt",
+  "translation": "n. 讲话, 交谈 talk的过去式\\nv. 说( talk的过去式和过去分词 ); 讨论; 说话; （用以强调款额、情况严重程度等）讲的是",
+  "definition": "imp. & p. p. of Talk"
+ },
+ {
+  "word": "took",
+  "phonetic": "tuk",
+  "translation": "take的过去式",
+  "definition": "v carry out\\nv require (time or space)\\nv take somebody somewhere\\nv get into one's hands, take physically\\nv take on a certain form, attribute, or aspect\\nv interpret something in a certain way; convey a particular meaning or impression\\nv take something or somebody with oneself somewhere\\nv take into one's possession\\nv travel or go by means of a certain kind of transportation, or a certain route\\nv pick out, select, or choose from a number of alternatives\\nv receive willingly something given or offered\\nv assume, as of positions or roles\\nv take into consideration for exemplifying purposes\\nv require as useful, just, or proper\\nv experience or feel or submit to\\nv make a film or photograph of something\\nv remove something concrete, as by lifting, pushing, or taking off, or remove something abstract\\nv serve oneself to, or consume regularly\\nv accept or undergo, often unwillingly\\nv make use of or accept for some purpose\\nv take by force\\nv occupy or take on\\nv admit into a group or community\\nv ascertain or determine by measuring, computing or take a reading from a dial\\nv be a student of a certain subject\\nv take as an undesirable consequence of some event or state of affairs\\nv head into a specified direction\\nv point or cause to go (blows, weapons, or objects such as photographic equipment) towards\\nv be seized or affected in a specified way\\nv have with oneself; have on one's person\\nv engage for service under a term of contract\\nv receive or obtain regularly\\nv buy, select\\nv to get into a position of having, e.g., safety, comfort\\nv have sex with; archaic use\\nv lay claim to; as of an idea\\nv be designed to hold or take\\nv be capable of holding or containing\\nv develop a habit\\nv proceed along in a vehicle\\nv obtain by winning\\nv be stricken by an illness, fall victim to an illness"
+ },
+ {
+  "word": "town",
+  "phonetic": "taun",
+  "translation": "n. 城镇, 市, 镇\\n[法] 城镇, 城市, 闹市",
+  "definition": "n. an urban area with a fixed boundary that is smaller than a city\\nn. the people living in a municipality smaller than a city\\nn. United States architect who was noted for his design and construction of truss bridges (1784-1844)"
+ },
+ {
+  "word": "truth",
+  "phonetic": "tru:θ",
+  "translation": "n. 事实, 实情\\n[法] 真实, 真相, 事实",
+  "definition": "n. a fact that has been verified\\nn. conformity to reality or actuality\\nn. a true statement\\nn. United States abolitionist and feminist who was freed from slavery and became a leading advocate of the abolition of slavery and for the rights of women (1797-1883)"
+ },
+ {
+  "word": "try",
+  "phonetic": "trai",
+  "translation": "n. 尝试, 试验, 审理, 审判\\nvt. 试, 尝试, 试验, 考验, 审问, 提炼\\nvi. 尝试, 试图",
+  "definition": "v. make an effort or attempt\\nv. give pain or trouble to\\nv. test the limits of\\nv. melt (fat or lard) in order to separate out impurities"
+ },
+ {
+  "word": "turn",
+  "phonetic": "tә:n",
+  "translation": "n. 转弯, 转动, 旋转, 翻转, 一圈, 顺次, 改动, 变化, 性格, 特色, 形状, 转折\\nvt. 使旋转, 转弯, 转动, 使转向, 驱赶, 阻挡, 兑换, 改写, 使作对, 绕过, 使流通\\nvi. 转动, 转弯, 转向, 翻转, 回转, 改变, 转身, 变成, 变质, 晕眩, 易脱手",
+  "definition": "n. the act of changing or reversing the direction of the course\\nn. (game) the activity of doing something in an agreed succession\\nn. an unforeseen development\\nn. the act of turning away or in the opposite direction"
+ },
+ {
+  "word": "understand",
+  "phonetic": ".ʌndә'stænd",
+  "translation": "vt. 理解, 了解, 领会, 听说, 懂\\nvi. 懂得, 认为",
+  "definition": "v. know and comprehend the nature or meaning of\\nv. perceive (an idea or situation) mentally\\nv. make sense of a language\\nv. believe to be the case"
+ },
+ {
+  "word": "various",
+  "phonetic": "'vєәriәs",
+  "translation": "a. 不同的, 各种的, 多方面的, 许多的, 个别的, 杂色的\\n[法] 不同的, 种种的, 各式各样的",
+  "definition": "s of many different kinds purposefully arranged but lacking any uniformity\\ns considered individually\\ns distinctly dissimilar or unlike\\ns having great diversity or variety"
+ },
+ {
+  "word": "walking",
+  "phonetic": "'wɒ:kiŋ",
+  "translation": "n. 步行, 步态\\na. 步行的, 步行用的",
+  "definition": "n the act of traveling by foot\\nv use one's feet to advance; advance by steps\\nv accompany or escort\\nv obtain a base on balls\\nv traverse or cover by walking\\nv give a base on balls to\\nv live or behave in a specified manner\\nv be or act in association with\\nv walk at a pace\\nv make walk\\nv take a walk; go for a walk; walk for pleasure\\ns close enough to be walked to"
+ },
+ {
+  "word": "went",
+  "phonetic": "went",
+  "translation": "go的过去式",
+  "definition": "v change location; move, travel, or proceed, also metaphorically\\nv follow a procedure or take a course\\nv move away from a place into another direction\\nv enter or assume a certain state or condition\\nv be awarded; be allotted\\nv have a particular form\\nv stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point\\nv follow a certain course\\nv be abolished or discarded\\nv be or continue to be in a certain condition\\nv make a certain noise or sound\\nv perform as expected when applied\\nv to be spent or finished\\nv progress by being changed\\nv continue to live through hardship or adversity\\nv pass, fare, or elapse; of a certain state of affairs or action\\nv pass from physical life and lose all bodily attributes and functions necessary to sustain life\\nv be in the right place or situation\\nv be ranked or compare\\nv begin or set in motion\\nv have a turn; make one's move in a game\\nv be contained in\\nv be sounded, played, or expressed\\nv blend or harmonize\\nv lead, extend, or afford access\\nv be the right size or shape; fit correctly or as desired\\nv go through in search of something; search through someone's belongings in an unauthorized way\\nv be spent\\nv give support (to) or make a choice (of) one out of a group or number\\nv stop operating or functioning"
+ },
+ {
+  "word": "wine",
+  "phonetic": "wain",
+  "translation": "n. 葡萄酒, 果酒, 暗红色\\nv. (请)喝酒",
+  "definition": "n. fermented juice (of grapes especially)\\nn. a red as dark as red wine\\nv. drink wine\\nv. treat to wine"
+ },
+ {
+  "word": "world",
+  "phonetic": "wә:ld",
+  "translation": "n. 世界, 地球, 宇宙, 万物, 世人, 人间, 领域, 世事, 世故, 社会生活, 大量\\n[法] 世界, 地球, 世人",
+  "definition": "n. people in general; especially a distinctive group of people with some shared interest\\nn. all of your experiences that determine how things appear to you\\nn. a part of the earth that can be considered separately\\nn. all of the living human inhabitants of the earth"
+ }
+]

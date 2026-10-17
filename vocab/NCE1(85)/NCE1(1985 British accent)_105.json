@@ -1,0 +1,245 @@
+[
+ {
+  "word": "want",
+  "phonetic": "wɒnt",
+  "translation": "n. 需要的东西, 缺乏, 贫困, 需要\\nvt. 要, 希望, 应该, 缺少\\nvi. 生活困苦, 需要, 缺少",
+  "definition": "v. have need of\\nv. hunt or look for; want for a particular reason\\nv. wish or demand the presence of\\nv. be without, lack; be deficient in"
+ },
+ {
+  "word": "sir",
+  "phonetic": "sә:",
+  "translation": "n. 先生, 阁下",
+  "definition": "n. term of address for a man\\nn. a title used before the name of knight or baronet"
+ },
+ {
+  "word": "come",
+  "phonetic": "kʌm",
+  "translation": "vi. 过来, 来, 到达, 出现, 开始\\ninterj. 喂",
+  "definition": "v. move toward, travel toward something or somebody or approach something or somebody\\nv. come to pass; arrive, as in due course\\nv. reach or enter a state, relation, condition, use, or position\\nv. to be the product or result"
+ },
+ {
+  "word": "miss",
+  "phonetic": "mis",
+  "translation": "n. 失误, 避免, 失败, 小姐\\nvt. 未得到, 未达到, 未听到, 未觉察, 逃脱, 遗漏, 错过, 思念\\nvi. 失败, 击不中",
+  "definition": "n. a failure to hit (or meet or find etc)\\nn. a form of address for an unmarried woman\\nv. fail to perceive or to catch with the senses or the mind\\nv. feel or suffer from the lack of"
+ },
+ {
+  "word": "simpson",
+  "phonetic": "'simpsn",
+  "translation": "n. 辛普森（姓氏）",
+  "definition": "n. United States divorcee whose marriage to Edward VIII created a constitutional crisis leading to his abdication\\nn. Scottish obstetrician and surgeon who pioneered in the use of ether and discovered the anesthetic effects of chloroform (1811-1870)"
+ },
+ {
+  "word": "tell",
+  "phonetic": "tel",
+  "translation": "vt. 告诉, 说, 吩咐, 断定, 知道\\nvi. 讲述, 泄密, 告发, 表明",
+  "definition": "n. a Swiss patriot who lived in the early 14th century and who was renowned for his skill as an archer; according to legend an Austrian governor compelled him to shoot an apple from his son's head with his crossbow (which he did successfully without mishap)\\nv. let something be known\\nv. narrate or give a detailed account of\\nv. discern or comprehend"
+ },
+ {
+  "word": "ah",
+  "phonetic": "ɑ:",
+  "translation": "interj. 啊, 哈",
+  "definition": "interj. An exclamation, expressive of surprise, pity, complaint,\\n   entreaty, contempt, threatening, delight, triumph, etc., according to\\n   the manner of utterance."
+ },
+ {
+  "word": "bob",
+  "phonetic": "bɒb",
+  "translation": "vt. 剪短, 敲击\\nvi. 振动, 上下跳动\\nn. 短发, 悬挂的饰品, 浮子, 摆动, 轻敲, 5便士",
+  "definition": "n. a hair style for women and children; a short haircut all around\\nn. a hanging weight, especially a metal ball on a string\\nn. a small float usually made of cork; attached to a fishing line\\nn. a short abrupt inclination (as of the head)"
+ },
+ {
+  "word": "d",
+  "phonetic": "di:",
+  "translation": "[计] 数据, 十进制, 数位, 位, 文档, 域\\n[医] 氘, 重氢",
+  "definition": "n. the 4th letter of the Roman alphabet"
+ },
+ {
+  "word": "dictionary",
+  "phonetic": "'dikʃәnәri",
+  "translation": "n. 字典, 词典\\n[计] 词典",
+  "definition": "n. a reference book containing an alphabetical list of words with information about them"
+ },
+ {
+  "word": "full",
+  "phonetic": "ful",
+  "translation": "n. 全部, 完整\\na. 充满的, 完全的, 丰富的, 完美的, 丰满的, 详尽的\\nadv. 完全地, 整整, 十分\\nvt. 把(衣服等)缝得宽松, 漂洗\\n[计] 完整",
+  "definition": "v. beat for the purpose of cleaning and thickening\\nv. make (a garment) fuller by pleating or gathering\\na. containing as much or as many as is possible or normal\\ns. complete in extent or degree and in every particular"
+ },
+ {
+  "word": "help",
+  "phonetic": "help",
+  "translation": "n. 帮忙, 帮助者, 补救办法, 有益的东西\\nvt. 帮助, 帮忙, 接济, 治疗, 款待\\nvi. 有用, 救命, 招待\\n[计] 帮助, 帮助程序; DOS外部命令: DOS命令的电子文件帮助程序",
+  "definition": "v. give help or assistance; be of service\\nv. improve the condition of\\nv. be of use\\nv. contribute to the furtherance of"
+ },
+ {
+  "word": "here",
+  "phonetic": "hiә",
+  "translation": "adv. 在这里, 此时, 这里\\nn. 这里",
+  "definition": "n. the present location; this place\\ns. being here now\\nr. in or at this place; where the speaker or writer is\\nr. in this circumstance or respect or on this point or detail"
+ },
+ {
+  "word": "hope",
+  "phonetic": "hәup",
+  "translation": "n. 希望, 信心, 期待\\nv. 希望, 期望, 信赖",
+  "definition": "n. a specific instance of feeling hopeful\\nn. the general feeling that some desire will be fulfilled\\nn. someone (or something) on which expectations are centered\\nn. United States comedian (born in England) who appeared in films with Bing Crosby (1903-2003)"
+ },
+ {
+  "word": "i",
+  "phonetic": "ai",
+  "translation": "pron. 我\\n[计] 电流, 中断, 指令, 指示符",
+  "definition": "n. the 9th letter of the Roman alphabet"
+ },
+ {
+  "word": "intelligent",
+  "phonetic": "in'telidʒәnt",
+  "translation": "a. 聪明的, 智能的, 了解的",
+  "definition": "a. having the capacity for thought and reason especially to a high degree\\ns. possessing sound knowledge\\ns. endowed with the capacity to reason"
+ },
+ {
+  "word": "it",
+  "phonetic": "it",
+  "translation": "pron. 它\\n[计] 信息论, 输入终端, 智能终端, 内捕获",
+  "definition": "n the branch of engineering that deals with the use of computers and telecommunications to retrieve and store and transmit information"
+ },
+ {
+  "word": "k",
+  "phonetic": "kei",
+  "translation": "[计] 键, 关键字, 千, 千字节\\n[医] 钾(19号元素)",
+  "definition": "n. the 11th letter of the Roman alphabet\\nn. street names for ketamine"
+ },
+ {
+  "word": "ks",
+  "phonetic": "",
+  "translation": "abbr. 韩国标准（Korean Standards）；敲缸传感器（Knock Sensor）；闸刀开关（knifeswitch）",
+  "definition": "n a state in midwestern United States\\nn the basic unit of thermodynamic temperature adopted under the Systeme International d'Unites\\nn a light soft silver-white metallic element of the alkali metal group; oxidizes rapidly in air and reacts violently with water; is abundant in nature in combined forms occurring in sea water and in carnallite and kainite and sylvite\\nn the cardinal number that is the product of 10 and 100\\nn a unit of information equal to 1000 bytes\\nn a unit of information equal to 1024 bytes\\nn the 11th letter of the Roman alphabet\\nn street names for ketamine"
+ },
+ {
+  "word": "l",
+  "phonetic": "el",
+  "translation": "n. 见习驾驶员\\n[计] 电感, 标记, 语言, 负载, 局部, 线路",
+  "definition": "n. the 12th letter of the Roman alphabet"
+ },
+ {
+  "word": "lesson",
+  "phonetic": "'lesn",
+  "translation": "n. 课, 课业, 教训",
+  "definition": "n. a unit of instruction\\nn. a task assigned for individual study"
+ },
+ {
+  "word": "letter",
+  "phonetic": "'letә",
+  "translation": "n. 信, 字母, 证书, 字面意义, 铅字, 学问, 出租人\\nvt. 写字母于, 在...上刻字母, 用字母标明\\nvi. 写印刷体字\\n[计] 字母",
+  "definition": "n. a written message addressed to a person or organization\\nn. the conventional characters of the alphabet used to represent speech\\nn. owner who lets another person use something (housing usually) for hire\\nn. a strictly literal interpretation (as distinct from the intention)"
+ },
+ {
+  "word": "little",
+  "phonetic": "'litl",
+  "translation": "n. 一点点, 少许, 一会儿, 短时间\\na. 小的, 很少的, 幼小的, 琐碎的, 短暂的, 矮小的\\nadv. 很少, 稍微, 完全不",
+  "definition": "n. a small amount or duration\\na. (quantifier used with mass nouns) small in quantity or degree; not much or almost none or (with `a') at least some\\ns. (of children and animals) young, immature\\ns. (of a voice) faint"
+ },
+ {
+  "word": "m",
+  "phonetic": "em",
+  "translation": "[计] 尾数, 主要, 媒体, 介质, 中等, 存储器, 方式, 分, 模, 乘法器, 兆, 毫\\n[医] 容积克分子(溶液), 容模的",
+  "definition": "n. the 13th letter of the Roman alphabet"
+ },
+ {
+  "word": "mistakes",
+  "phonetic": "misˈteiks",
+  "translation": "n. 错误( mistake的名词复数 ); 过失; 误解; （用词或数字上的）错误\\nv. 弄错, 误解( mistake的第三人称单数 ); 认不出; 误会; 看错",
+  "definition": "n a wrong action attributable to bad judgment or ignorance or inattention\\nn an understanding of something that is not correct\\nn part of a statement that is not correct\\nv identify incorrectly\\nv to make a mistake or be incorrect"
+ },
+ {
+  "word": "nri",
+  "phonetic": "",
+  "translation": "abbr. 神经根受累（nerve root involvement）"
+ },
+ {
+  "word": "office",
+  "phonetic": "'ɒfis",
+  "translation": "n. 办公室, 部, 公职, 职责\\n[化] 办公室",
+  "definition": "n. place of business where professional or clerical duties are performed\\nn. (of a government or government official) holding an office means being in power\\nn. professional or clerical workers in an office\\nn. a religious rite or service prescribed by ecclesiastical authorities"
+ },
+ {
+  "word": "one",
+  "phonetic": "wʌn",
+  "translation": "n. 一(个)\\npron. 一, 任何人\\nnum. 一, 一个\\na. 一致的, 完整的",
+  "definition": "n. the smallest whole number or a numeral representing this number\\nn. a single person or thing\\ns. used of a single unit or thing; not two or more\\ns. having the indivisible character of a unit"
+ },
+ {
+  "word": "present",
+  "phonetic": "'preznt",
+  "translation": "n. 现在, 礼品, 瞄准\\na. 现在的, 出席的\\nvt. 介绍, 引见, 赠送, 提出, 呈现, 上演\\nvi. 举枪瞄准",
+  "definition": "n. the period of time that is happening now; any continuous stretch of time including the moment of speech\\nn. something presented as a gift\\nn. a verb tense that expresses actions or states at the time of speaking\\nv. bring forward and present to the mind"
+ },
+ {
+  "word": "right",
+  "phonetic": "rait",
+  "translation": "n. 权利, 右边, 正义, 右派, 公正\\na. 正确的, 对的, 恰当的, 正常的, 正直的, 正面的, 右方的\\nadv. 正确地, 以有利结果, 一直, 直接, 向右\\nvt. 扶直, 整理, 纠正, 伸冤, 使昭雪\\nvi. 恢复平衡\\n[计] 右, 权利",
+  "definition": "n. an abstract idea of that which is due to a person or governmental body by law or tradition or nature; it is something that nobody can take away\"\\nn. location near or direction toward the right side; i.e. the side to the south when a person or object faces east\\nn. those who support political or social or economic conservatism; those who believe that things are better left unchanged\\nn. the hand that is on the right side of the body"
+ },
+ {
+  "word": "see",
+  "phonetic": "si:",
+  "translation": "vt. 看见, 查看, 参观, 游览, 理解, 知道, 同意\\nvi. 看, 观看, 注意, 知道, 考虑\\nn. 主教的职位",
+  "definition": "n. the seat within a bishop's diocese where his cathedral is located\\nv. perceive by sight or have the power to perceive by sight\\nv. deem to be\\nv. be careful or certain to do something; make certain of something"
+ },
+ {
+  "word": "sorry",
+  "phonetic": "'sɒri",
+  "translation": "a. 难过的, 悲哀的, 遗憾的",
+  "definition": "a feeling or expressing regret or sorrow or a sense of loss over something done or undone\\ns bad; unfortunate\\ns without merit\\ns causing dejection"
+ },
+ {
+  "word": "speak",
+  "phonetic": "spi:k",
+  "translation": "vi. 说, 说话, 演说, 发言\\nvt. 说, 讲, 说出",
+  "definition": "v. use language\\nv. make a characteristic or natural sound"
+ },
+ {
+  "word": "spel",
+  "phonetic": "",
+  "translation": "abbr. 斯巴沙星"
+ },
+ {
+  "word": "spell",
+  "phonetic": "spel",
+  "translation": "n. 符咒, 魅力, 轮值, 轮班, 工作时间, 一次发作\\nvt. 拼写, 拼成, 琢磨, 理解, 招致, 轮换, 迷住\\nvi. 轮换, 拼字",
+  "definition": "n. a verbal formula believed to have magical force\\nv. orally recite the letters of or give the spelling of\\nv. indicate or signify\\nv. write or name the letters that comprise the conventionally accepted form of (a word or part of a word)"
+ },
+ {
+  "word": "ste",
+  "phonetic": "",
+  "translation": "[计] 软件测试环境, 用户终端设备"
+ },
+ {
+  "word": "that",
+  "phonetic": "ðæt",
+  "translation": "a. 那, 那个\\nconj. 以致, 因为\\npron. 那\\nadv. 那么, 那样",
+  "definition": "pron., a., conj., &  As a demonstrative pronoun (pl. Those),\\n   that usually points out, or refers to, a person or thing previously\\n   mentioned, or supposed to be understood. That, as a demonstrative, may\\n   precede the noun to which it refers; as, that which he has said is\\n   true; those in the basket are good apples.\\npron., a., conj., &  As an adjective, that has the same\\n   demonstrative force as the pronoun, but is followed by a noun.\\npron., a., conj., &  As a relative pronoun, that is\\n   equivalent to who or which, serving to point out, and make definite, a\\n   person or thing spoken of, or alluded to, before, and may be either\\n   singular or plural.\\npron., a., conj., &  As a conjunction, that retains much of\\n   its force as a demonstrative pronoun.\\npron., a., conj., &  To introduce a clause employed as the\\n   object of the preceding verb, or as the subject or predicate nominative\\n   of a verb.\\npron., a., conj., &  To introduce, a reason or cause; --\\n   equivalent to for that, in that, for the reason that, because.\\npron., a., conj., &  To introduce a purpose; -- usually\\n   followed by may, or might, and frequently preceded by so, in order, to\\n   the end, etc.\\npron., a., conj., &  To introduce a consequence, result, or\\n   effect; -- usually preceded by so or such, sometimes by that.\\npron., a., conj., &  In an elliptical sentence to introduce\\n   a dependent sentence expressing a wish, or a cause of surprise,\\n   indignation, or the like.\\npron., a., conj., &  As adverb: To such a degree; so; as, he\\n   was that frightened he could say nothing."
+ },
+ {
+  "word": "type",
+  "phonetic": "taip",
+  "translation": "n. 类型, 样式, 典型, 榜样, 标志, 符号, 型, 式\\nvi. 打字\\nvt. 作为代表, 测定类型, 用打字机打\\n[计] 类型; 键入; DOS内部命令:在屏幕上显示指定文件的内容",
+  "definition": "n. a subdivision of a particular kind of thing\\nn. (biology) the taxonomic group whose characteristics are used to define the next higher taxon\\nn. printed characters\\nn. all of the tokens of the same symbol"
+ },
+ {
+  "word": "typed",
+  "phonetic": "",
+  "translation": "vt. 打字（type的过去式和过去分词）",
+  "definition": "v write by means of a keyboard with types\\nv identify as belonging to a certain type"
+ },
+ {
+  "word": "where",
+  "phonetic": "hwєә",
+  "translation": "adv. 在哪里\\npron. 哪里\\nn. 地点",
+  "definition": "pron. & conj. Whether.\\nadv. At or in what place; hence, in what situation, position,\\n   or circumstances; -- used interrogatively.\\nadv. At or in which place; at the place in which; hence, in the\\n   case or instance in which; -- used relatively.\\nadv. To what or which place; hence, to what goal, result, or\\n   issue; whither; -- used interrogatively and relatively; as, where are\\n   you going?\\nconj. Whereas.\\nn. Place; situation."
+ },
+ {
+  "word": "you",
+  "phonetic": "ju:",
+  "translation": "pron. 你, 你们",
+  "definition": "dat. & obj. The pronoun of the second person, in the nominative,\\n   dative, and objective case, indicating the person or persons addressed.\\n   See the Note under Ye."
+ }
+]

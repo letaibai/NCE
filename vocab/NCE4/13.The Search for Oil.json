@@ -1,0 +1,596 @@
+[
+ {
+  "word": "oil",
+  "phonetic": "ɒil",
+  "translation": "n. 油, 石油, 油画颜料\\nvt. 涂油于, 使融化成油状, 加油于\\nvi. 加燃油, 融化",
+  "definition": "n. a slippery or viscous liquid or liquefiable substance not miscible with water\\nn. oil paint containing pigment that is used by an artist\\nv. cover with oil, as if by rubbing"
+ },
+ {
+  "word": "drill",
+  "phonetic": "dril",
+  "translation": "n. 钻孔机, 钻子, 播种机, 粗斜纹布\\nv. 训练, 钻孔",
+  "definition": "n. a tool with a sharp point and cutting edges for making holes in hard materials (usually rotating rapidly or by repeated blows)\\nn. similar to the mandrill but smaller and less brightly colored\\nn. (military) the training of soldiers to march (as in ceremonial parades) or to perform the manual of arms\\nv. train in the military, e.g., in the use of weapons"
+ },
+ {
+  "word": "because",
+  "phonetic": "bi'kɒ:z",
+  "translation": "conj. 因为",
+  "definition": "conj. By or for the cause that; on this account that; for the\\n   reason that.\\nconj. In order that; that."
+ },
+ {
+  "word": "bit",
+  "phonetic": "bit",
+  "translation": "n. 少量, 马嚼子, 辅币\\nvt. 给马上嚼子, 控制\\nbite的过去式和过去分词\\n[计] 比特, 二进制数位, 机内测试",
+  "definition": "n. a small fragment of something broken off from the whole\\nn. piece of metal held in horse's mouth by reins and used to control the horse while riding\\nn. a unit of measurement of information (from binary + digit); the amount of information in a system having two equiprobable states\\nn. the part of a key that enters a lock and lifts the tumblers"
+ },
+ {
+  "word": "control",
+  "phonetic": "kәn'trәul",
+  "translation": "n. 控制, 管理, 克制, 控制器, 操纵装置\\nvt. 控制, 操纵, 抑制\\n[计] 控制; 控制器",
+  "definition": "n. power to direct or determine\\nn. a relation of constraint of one entity (thing or person or group) by another\\nn. (physiology) regulation or maintenance of a function or action or reflex etc\\nn. the activity of managing or exerting control over something"
+ },
+ {
+  "word": "cutting",
+  "phonetic": "'kʌtiŋ",
+  "translation": "n. 切断, 切下, 路堑\\n[化] 切屑",
+  "definition": "n. a part (sometimes a root or leaf or bud) removed from a plant to propagate a new plant through rooting or grafting\\nn. a piece cut off from the main part of something\\nn. the act of diluting something\\ns. (of speech) harsh or hurtful in tone or character"
+ },
+ {
+  "word": "gas",
+  "phonetic": "gæs",
+  "translation": "n. 气体, 汽油, 瓦斯\\n[化] 气体; 煤气; 瓦斯; 毒气",
+  "definition": "n. the state of matter distinguished from the solid and liquid states by: relatively low density and viscosity; relatively great expansion and contraction with changes in pressure and temperature; the ability to diffuse readily; and the spontaneous tendency to become distributed uniformly throughout any container\\nn. a fluid in the gaseous state having neither independent shape nor volume and being able to expand indefinitely\\nv. attack with gas; subject to gas fumes"
+ },
+ {
+  "word": "get",
+  "phonetic": "get",
+  "translation": "vt. 得到, 获得, 变成, 使得, 收获, 接通, 抓住, 染上\\nvi. 到达, 成为, 变得\\nn. (网球等)救球, 生殖, 幼兽\\n[计] 取得指令, 获取文件",
+  "definition": "n. a return on a shot that seemed impossible to reach and would normally have resulted in a point for the opponent\\nv. come into the possession of something concrete or abstract\\nv. cause to move; cause to be in a certain position or condition\\nv. succeed in catching or seizing, especially after a chase"
+ },
+ {
+  "word": "great",
+  "phonetic": "greit",
+  "translation": "a. 大的, 非常的, 主要的, 重大的, 崇高的, 伟大的\\nadv. 顺利地, 得意地\\nn. 全部, 大人物, 大师",
+  "definition": "n. a person who has achieved distinction and honor in some field\\ns. relatively large in size or number or extent; larger than others of its kind\\ns. of major significance or importance\\ns. remarkable or out of the ordinary in degree or magnitude or effect"
+ },
+ {
+  "word": "ground",
+  "phonetic": "graund",
+  "translation": "n. 土地, 战场, 场地, 地面, 范围\\na. 土地的, 地面上的\\nvt. 放在地上, 使搁浅, 打基础, 给...以训练\\nvi. 搁浅, 落地, 根据, 基于\\na. 磨过的\\ngrind的过去式和过去分词",
+  "definition": "n. a position to be won or defended in battle (or as if in battle)\\nn. a relatively homogeneous percept extending back of the figure on which attention is focused\\nn. a connection between an electrical device and a large conducting body, such as the earth (which is taken to be at zero voltage)\\nn. (art) the surface (as a wall or canvas) prepared to take the paint for a painting"
+ },
+ {
+  "word": "holes",
+  "phonetic": "",
+  "translation": "n. 小孔；破洞（hole的复数）",
+  "definition": "n an opening into or through something\\nn an opening deliberately made in or through something\\nn one playing period (from tee to green) on a golf course\\nn an unoccupied space\\nn a depression hollowed out of solid matter\\nn a fault\\nn informal terms for a difficult situation\\nn informal terms for the mouth\\nv hit the ball into the hole\\nv make holes in"
+ },
+ {
+  "word": "pipe",
+  "phonetic": "paip",
+  "translation": "n. 管, 导管, 输送管, 管状器官, 声带, 尖细的声音, 烟斗, 笛, 管乐器\\nvt. 以管输送, 吹哨子, 吹奏, 尖声唱\\nvi. 吹笛, 尖叫, 吹长哨发令\\n[计] 管道",
+  "definition": "n. a tube with a small bowl at one end; used for smoking tobacco\\nn. a long tube made of metal or plastic that is used to carry water or oil or gas etc.\\nn. a hollow cylindrical shape\\nn. a tubular wind instrument"
+ },
+ {
+  "word": "pressure",
+  "phonetic": "'preʃә",
+  "translation": "n. 压, 榨, 按, 强制, 压力, 压迫, 压强\\nvt. 迫使, 使增压, 密封",
+  "definition": "n. the force applied to a unit area of surface; measured in pascals (SI unit) or in dynes (cgs unit)\\nn. a force that compels\\nn. the somatic sensation that results from applying force to an area of skin\\nn. an oppressive condition of physical or mental or social or economic distress"
+ },
+ {
+  "word": "search",
+  "phonetic": "sә:tʃ",
+  "translation": "n. 搜寻, 查究\\nv. 搜寻, 搜查, 探求, 调查, 搜索\\n[计] 搜索, 路径检索程序",
+  "definition": "n. the activity of looking thoroughly in order to find something or someone\\nn. an investigation seeking answers\\nn. an operation that determines whether one or more of a set of items has a specified property\\nn. the examination of alternative hypotheses"
+ },
+ {
+  "word": "surface",
+  "phonetic": "'sә:fis",
+  "translation": "n. 面, 表面, 水面, 外表, 平面\\na. 表面的, 外观的, 肤浅的, 水面上的\\nvt. 使成平面, 使浮出水面\\nvi. 浮出水面, 呈现, 在地面上工作",
+  "definition": "n. the outer boundary of an artifact or a material layer constituting or resembling such a boundary\\nn. the extended two-dimensional outer boundary of a three-dimensional object\\nn. the outermost level of the land or sea\\nn. a superficial aspect as opposed to the real nature of something"
+ },
+ {
+  "word": "want",
+  "phonetic": "wɒnt",
+  "translation": "n. 需要的东西, 缺乏, 贫困, 需要\\nvt. 要, 希望, 应该, 缺少\\nvi. 生活困苦, 需要, 缺少",
+  "definition": "v. have need of\\nv. hunt or look for; want for a particular reason\\nv. wish or demand the presence of\\nv. be without, lack; be deficient in"
+ },
+ {
+  "word": "achieve",
+  "phonetic": "ә'tʃi:v",
+  "translation": "vt. 完成, 达到\\nvi. 如愿以偿",
+  "definition": "v. to gain with effort"
+ },
+ {
+  "word": "activity",
+  "phonetic": "æk'tiviti",
+  "translation": "n. 活动, 行动, 活跃, 活力\\n[计] 活动",
+  "definition": "n. any specific behavior\\nn. (chemistry) the capacity of a substance to take part in a chemical reaction"
+ },
+ {
+  "word": "avoid",
+  "phonetic": "ә'vɒid",
+  "translation": "vt. 避免, 防止, 撤消\\n[法] 避免, 回避, 躲开",
+  "definition": "v. stay clear from; keep away from; keep out of the way of someone or something\\nv. refrain from doing something"
+ },
+ {
+  "word": "block",
+  "phonetic": "blɒk",
+  "translation": "n. 街区, 木块, 石块, 块\\nvt. 阻塞, 封锁, 使成块状\\n[计] 块, 数据块",
+  "definition": "n. a solid piece of something (usually having flat rectangular sides)\\nn. a rectangular area in a city surrounded by streets and usually containing several buildings\\nn. a three-dimensional shape with six square or rectangular sides\\nn. a number or quantity of related things dealt with as a unit"
+ },
+ {
+  "word": "borings",
+  "phonetic": "",
+  "translation": "[机] 切屑",
+  "definition": "n the act of drilling\\nn the act of drilling a hole in the earth in the hope of producing petroleum\\nv cause to be bored\\nv make a hole, especially with a pointed power or hand tool"
+ },
+ {
+  "word": "bottom",
+  "phonetic": "'bɒtәm",
+  "translation": "n. 底部\\na. 底部的\\nvt. 给...装底, 查明真相\\nvi. 到达底部, 建立基础",
+  "definition": "n. the lower side of anything\\nn. the lowest part of anything\\nn. the second half of an inning; while the home team is at bat\\nn. a cargo ship"
+ },
+ {
+  "word": "circulate",
+  "phonetic": "'sә:kjuleit",
+  "translation": "v. (使)流通, (使)循环, (使)传播",
+  "definition": "v. cause to become widely known\\nv. cause be distributed\\nv. move through a space, circuit or system, returning to the starting point\\nv. cause to move in a circuit or system"
+ },
+ {
+  "word": "clean",
+  "phonetic": "kli:n",
+  "translation": "a. 干净的, 清白的, 简洁的\\nadv. 清洁地, 完全地\\nvt. 清理, 使干净, 出空\\nvi. 被搞干净\\nn. 打扫",
+  "definition": "v. make clean by removing dirt, filth, or unwanted substances from\\nv. remove unwanted substances from, such as feathers or pits\\nv. be cleanable\\nv. deprive wholly of money in a gambling game, robbery, etc."
+ },
+ {
+  "word": "controlled",
+  "phonetic": "kәn'trәuld",
+  "translation": "a. 受约束的, 克制的\\n[法] 受管制的, 受控制的, 受管辖的",
+  "definition": "a. restrained or managed or kept within certain bounds"
+ },
+ {
+  "word": "coring",
+  "phonetic": "'kɔ:riŋ",
+  "translation": "[机] 结晶偏析",
+  "definition": "v remove the core or center from"
+ },
+ {
+  "word": "cuts",
+  "phonetic": "",
+  "translation": "n. （分摊到的）份额；切口；近路（cut的复数）",
+  "definition": "n a share of the profits\\nn (film) an immediate transition from one shot to the next\\nn a trench resembling a furrow that was made by erosion or excavation\\nn a step on some scale\\nn a wound made by cutting\\nn a piece of meat that has been cut from an animal carcass\\nn a remark capable of wounding mentally\\nn a distinct selection of music from a recording or a compact disc\\nn the omission that is made when an editorial change shortens a written passage\\nn the style in which a garment is cut\\nn a canal made by erosion or excavation\\nn a refusal to recognize someone you know\\nn in baseball; a batter's attempt to hit a pitched ball\\nn (sports) a stroke that puts reverse spin on the ball\\nn the division of a deck of cards before dealing\\nn the act of penetrating or opening open with a sharp edge\\nn the act of cutting something into parts\\nn the act of shortening something by chopping off the ends\\nn the act of reducing the amount or number\\nn an unexcused absence from class\\nv separate with or as if with an instrument\\nv cut down on; make a reduction in\\nv turn sharply; change direction abruptly\\nv make an incision or separation\\nv discharge from a group\\nv form by probing, penetrating, or digging\\nv style and tailor in a certain fashion\\nv hit (a ball) with a spin so that it turns in the opposite direction\\nv make out and issue\\nv cut and assemble the components of\\nv intentionally fail to attend\\nv be able to manage or manage successfully\\nv give the appearance or impression of\\nv move (one's fist)\\nv pass directly and often in haste\\nv pass through or across\\nv make an abrupt change of image or sound\\nv stop filming\\nv make a recording of\\nv record a performance on (a medium)\\nv create by duplicating data\\nv form or shape by cutting or incising\\nv perform or carry out\\nv function as a cutting instrument\\nv allow incision or separation\\nv divide a deck of cards at random into two parts to make selection difficult\\nv cause to stop operating by disengaging a switch\\nv reap or harvest\\nv fell by sawing; hew\\nv penetrate injuriously\\nv refuse to acknowledge\\nv shorten as if by severing the edges or ends of\\nv weed out unwanted or unnecessary things\\nv dissolve by breaking down the fat of\\nv have a reducing effect\\nv cease, stop\\nv reduce in scope while retaining essential elements\\nv lessen the strength or flavor of a solution or mixture\\nv have grow through the gums\\nv grow through the gums\\nv cut off the testicles (of male animals such as horses)"
+ },
+ {
+  "word": "cylinder",
+  "phonetic": "'silindә",
+  "translation": "n. 圆筒, 圆筒状物, 汽缸, 柱面\\n[计] 柱面",
+  "definition": "n. a solid bounded by a cylindrical surface and two parallel planes (the bases)\\nn. a surface generated by rotating a parallel line around a fixed line\\nn. a chamber within which piston moves\\nn. a cylindrical container for oxygen or compressed air"
+ },
+ {
+  "word": "decided",
+  "phonetic": "di'saidid",
+  "translation": "a. 确定的, 坚决的",
+  "definition": "v reach, make, or come to a decision about something\\nv bring to an end; settle conclusively\\nv cause to decide\\nv influence or determine\\ns recognizable; marked"
+ },
+ {
+  "word": "deep",
+  "phonetic": "di:p",
+  "translation": "a. 深的\\nadv. 深入地\\nn. 深渊, 深处",
+  "definition": "n. the central and most intense or profound part\\nn. literary term for an ocean\\na. relatively deep or strong; affecting one deeply\\ns. marked by depth of thinking"
+ },
+ {
+  "word": "deepest",
+  "phonetic": "dipɪst",
+  "translation": "a. 深的（ deep的最高级 ）; 严重的; 深奥的; 有…深的",
+  "definition": "a relatively deep or strong; affecting one deeply\\ns marked by depth of thinking\\na having great spatial extension or penetration downward or inward from an outer surface or backward or laterally or outward from a center; sometimes used in combination\\ns very distant in time or space\\ns extreme\\ns having or denoting a low vocal or instrumental range\\ns strong; intense\\ns relatively thick from top to bottom\\ns extending relatively far inward\\ns (of darkness) very intense\\ns large in quantity or size\\ns with head or back bent low\\ns of an obscure nature\\ns difficult to penetrate; incomprehensible to one of ordinary understanding or knowledge\\ns exhibiting great cunning usually with secrecy"
+ },
+ {
+  "word": "deposits",
+  "phonetic": "diˈpɔzits",
+  "translation": "n. 存放( deposit的名词复数 ); 订金; 寄存处; 储蓄\\nv. 存放( deposit的第三人称单数 ); （尤指小心地或准确地）放置; 付（保证金）; （把硬币）放入（自动售货机）",
+  "definition": "n the phenomenon of sediment or gravel accumulating\\nn matter that has been deposited by some natural process\\nn the natural process of laying down a deposit of something\\nn money deposited in a bank or some similar institution\\nn a partial payment made at the time of purchase; the balance to be paid later\\nn money given as security for an article acquired for temporary use\\nn a payment given as a guarantee that an obligation will be met\\nn a facility where things can be deposited for storage or safekeeping\\nn the act of putting something somewhere\\nv put, fix, force, or implant\\nv put into a bank account\\nv put (something somewhere) firmly"
+ },
+ {
+  "word": "derrick",
+  "phonetic": "'derik",
+  "translation": "n. 起重机, 小偷\\n[化] 吊杆起重机; 人字起重机",
+  "definition": "n. a framework erected over an oil well to allow drill tubes to be raised and lowered\\nn. a simple crane having lifting tackle slung from a boom"
+ },
+ {
+  "word": "diameter",
+  "phonetic": "dai'æmitә",
+  "translation": "n. 直径\\n[医] 直经, 径",
+  "definition": "n. the length of a straight line passing through the center of a circle and connecting two points on the circumference\\nn. a straight line connecting the center of a circle with two points on its perimeter (or the center of a sphere with two points on its surface)"
+ },
+ {
+  "word": "done",
+  "phonetic": "dʌn",
+  "translation": "a. 完成了的, 好了的\\ndo的过去分词",
+  "definition": "s. having finished or arrived at completion\\ns. cooked until ready to serve"
+ },
+ {
+  "word": "drilling",
+  "phonetic": "'driliŋ",
+  "translation": "n. 演练\\n[医] 钻",
+  "definition": "n. the act of drilling"
+ },
+ {
+  "word": "either",
+  "phonetic": "'i:ðә",
+  "translation": "a. (两者之中)任一的, (两者之中)各一的\\npron. (两者之中)任一\\nconj. 或, 要么",
+  "definition": "r. after a negative statement used as an intensive meaning something like `likewise' or `also'"
+ },
+ {
+  "word": "endeavour",
+  "phonetic": "in'devә",
+  "translation": "n. 努力, 力图, 尽力\\nvi. 努力, 力图, 尽力",
+  "definition": "n a purposeful or industrious undertaking (especially one that requires effort or boldness)\\nn earnest and conscientious activity intended to do or accomplish something\\nv attempt by employing effort"
+ },
+ {
+  "word": "engine",
+  "phonetic": "'endʒin",
+  "translation": "n. 引擎, 发动机, 机车\\nvt. 安装发动机于",
+  "definition": "n. motor that converts thermal energy to mechanical work\\nn. something used to achieve a purpose\\nn. an instrument or machine that is used in warfare, such as a battering ram, catapult, artillery piece, etc."
+ },
+ {
+  "word": "every",
+  "phonetic": "'evri",
+  "translation": "a. 每一, 所有的",
+  "definition": "s. (used of count nouns) each and all of the members of a group considered singly and without exception\\ns. each and all of a series of entities or intervals as specified"
+ },
+ {
+  "word": "experience",
+  "phonetic": "ik'spiәriәns",
+  "translation": "n. 经历, 经验, 体验\\nvt. 经历, 经验, 体验",
+  "definition": "n. the accumulation of knowledge or skill that results from direct participation in events or activities\\nn. the content of direct observation or participation in an event\\nn. an event as apprehended\\nv. go or live through"
+ },
+ {
+  "word": "feet",
+  "phonetic": "fi:t",
+  "translation": "pl. 脚\\nn. 尺",
+  "definition": "n the part of the leg of a human being below the ankle joint\\nn a linear unit of length equal to 12 inches or a third of a yard\\nn the lower part of anything\\nn the pedal extremity of vertebrates other than human beings\\nn lowest support of a structure\\nn any of various organs of locomotion or attachment in invertebrates\\nn travel by walking\\nn a member of a surveillance team who works on foot or rides as a passenger\\nn an army unit consisting of soldiers who fight on foot\\nn (prosody) a group of 2 or 3 syllables forming the basic unit of poetic rhythm\\nn a support resembling a pedal extremity"
+ },
+ {
+  "word": "fitted",
+  "phonetic": "'fitid",
+  "translation": "a. [表]配备的, 放在合适地位的\\n[计] 拟定的",
+  "definition": "a. being the right size and shape to fit as desired"
+ },
+ {
+  "word": "flows",
+  "phonetic": "",
+  "translation": "n. 现金流量",
+  "definition": "n the motion characteristic of fluids (liquids or gases)\\nn the amount of fluid that flows in a given time\\nn the act of flowing or streaming; continuous progression\\nn any uninterrupted stream or discharge\\nn something that resembles a flowing stream in moving continuously\\nn dominant course (suggestive of running water) of successive events or ideas\\nn the monthly discharge of blood from the uterus of nonpregnant women from puberty to menopause\\nv move or progress freely as if in a stream\\nv move along, of liquids\\nv cause to flow\\nv be abundantly present\\nv fall or flow in a certain way\\nv cover or swamp with water\\nv undergo menstruation"
+ },
+ {
+  "word": "foot",
+  "phonetic": "fut",
+  "translation": "n. 脚, 步调, 英尺, 底部, 末尾, 步兵\\nvt. 走在...上, 给...换底, 支付\\nvi. 跳舞, 步行, 总计",
+  "definition": "n. the part of the leg of a human being below the ankle joint\\nn. a linear unit of length equal to 12 inches or a third of a yard\\nn. the lower part of anything\\nn. any of various organs of locomotion or attachment in invertebrates"
+ },
+ {
+  "word": "geologist",
+  "phonetic": "dʒi'ɔlәdʒist",
+  "translation": "n. 地质学家, 地质学者",
+  "definition": "n. a specialist in geology"
+ },
+ {
+  "word": "giant",
+  "phonetic": "'dʒaiәnt",
+  "translation": "n. 巨人, 大力士, 巨大怪物\\na. 庞大的, 巨大的",
+  "definition": "n. any creature of exceptional size\\nn. an unusually large enterprise\\nn. a very large person; impressive in size or qualities\\nn. someone or something that is abnormally large and powerful"
+ },
+ {
+  "word": "go",
+  "phonetic": "gou",
+  "translation": "vi. 去, 走, 达到, 运转, 查阅, 消失, 结束, 放弃, 花费, 流传, 趋于, 打算, 剩下\\nvt. 以...打赌, 对付, 忍受, 出产, 为被捕者出(保释金)\\nn. 去, 尝试, 进行",
+  "definition": "n. a time for working (after which you will be relieved by someone else)\\nn. a board game for two players who place counters on a grid; the object is to surround and so capture the opponent's counters\\nv. follow a procedure or take a course\\nv. move away from a place into another direction"
+ },
+ {
+  "word": "going",
+  "phonetic": "'gәuiŋ",
+  "translation": "n. 去, 离去, 工作情况, 地面状况, 行为\\na. 进行中的, 流行的, 成功的, 现存的",
+  "definition": "n. advancing toward a goal\\ns. in full operation"
+ },
+ {
+  "word": "gusher",
+  "phonetic": "'^ʌʃә(r)",
+  "translation": "[经] 喷油井, 自喷井",
+  "definition": "n. an oil well with a strong natural flow so that pumping is not necessary"
+ },
+ {
+  "word": "haul",
+  "phonetic": "hɒ:l",
+  "translation": "n. 用力拖拉, 拖运, 强拉, 捕获量, 拖运距离\\nvi. 拖, 拉, 改变方向, 改变主意\\nvt. 拖拉, 拖运",
+  "definition": "v. draw slowly or heavily\\nv. transport in a vehicle"
+ },
+ {
+  "word": "hole",
+  "phonetic": "hәul",
+  "translation": "n. 孔, 洞, 穴, 漏洞\\nvt. 挖洞, 掘坑\\nvi. 进洞, 凿洞",
+  "definition": "n. an opening into or through something\\nn. an opening deliberately made in or through something\\nn. one playing period (from tee to green) on a golf course\\nn. an unoccupied space"
+ },
+ {
+  "word": "idea",
+  "phonetic": "ai'diә",
+  "translation": "n. 主意, 办法, 理想, 思想, 概念, 意见\\n[医] 观念, 思想",
+  "definition": "n. the content of cognition; the main thing you are thinking about\\nn. a personal view"
+ },
+ {
+  "word": "improve",
+  "phonetic": "im'pru:v",
+  "translation": "vt. 改良, 提高...的价值, 改善, 利用\\nvi. 变得更好, 增加",
+  "definition": "v to make better\\nv get better"
+ },
+ {
+  "word": "know",
+  "phonetic": "nәu",
+  "translation": "v. 知道, 了解, 认识, 确信",
+  "definition": "n. the fact of being aware of information that is known to few people\\nv. be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about\\nv. know how to do or perform something\\nv. be aware of the truth of something; have a belief or faith in something; regard as true beyond any doubt"
+ },
+ {
+  "word": "largely",
+  "phonetic": "'lɑ:dʒli",
+  "translation": "adv. 大量地, 很多地, 大半地",
+  "definition": "r. in large part; mainly or chiefly\\nr. on a large scale"
+ },
+ {
+  "word": "lead",
+  "phonetic": "li:d. led",
+  "translation": "n. 铅, 铅条, 领导, 超前量, 领引, 榜样, 主角, 导线\\nvt. 引导, 带领, 领导, 指挥, 致使, 加铅于, 用铅包\\nvi. 领导, 带头, 导致, 用测深锤测深, 被铅覆盖\\na. 带头的, 最重要的",
+  "definition": "n. an advantage held by a competitor in a race\\nn. a soft heavy toxic malleable metallic element; bluish white when freshly cut but tarnishes readily to dull grey\\nn. evidence pointing to a possible solution\\nn. a position of leadership (especially in the phrase `take the lead')"
+ },
+ {
+  "word": "lengths",
+  "phonetic": "leŋθs",
+  "translation": "n. 长( length的复数形式 ); （持续）时间的长短; 一段; （马或船的）自身长度",
+  "definition": "n. the linear extent in space from one end to the other; the longest dimension of something that is fixed in place\\nn. continuance in time\\nn. the property of being the extent of something from beginning to end"
+ },
+ {
+  "word": "less",
+  "phonetic": "les",
+  "translation": "n. 较少, 较小\\na. 少的, 小的\\nadv. 较少, 较小, 较差\\n[计] 最低成本估算与调度法",
+  "definition": "a. (comparative of `little' usually used with mass nouns) a quantifier meaning not as great in amount or degree\\ns. (usually preceded by `no') lower in quality\\ns. (nonstandard in some uses but often idiomatic with measure phrases) fewer\\nr. used to form the comparative of some adjectives and adverbs"
+ },
+ {
+  "word": "lesson",
+  "phonetic": "'lesn",
+  "translation": "n. 课, 课业, 教训",
+  "definition": "n. a unit of instruction\\nn. a task assigned for individual study"
+ },
+ {
+  "word": "like",
+  "phonetic": "laik",
+  "translation": "a. 相似的, 同样的\\nvt. 喜欢, 愿意, 想\\nvi. 喜欢, 希望\\nn. 爱好, 同样的人(或物)\\nprep. 象, 如同\\nadv. 可能",
+  "definition": "n. a similar kind\\nn. a kind of person\\nv. find enjoyable or agreeable\\nv. be fond of"
+ },
+ {
+  "word": "lower",
+  "phonetic": "'lәuә",
+  "translation": "a. 低的, 下级的, 下层的\\nvi. 降低, 跌落, 减弱\\nvt. 放下, 降下, 减弱, 贬低",
+  "definition": "v. move something or somebody to a lower position\\nv. set lower\\nv. cause to drop or sink"
+ },
+ {
+  "word": "made",
+  "phonetic": "meid",
+  "translation": "a. 人工制成的, 成功的, 创造的\\nmake的过去式和过去分词",
+  "definition": "s. produced by a manufacturing process; rope and nails\"\\na. (of a bed) having the sheets and blankets set in order\\ns. successful or assured of success"
+ },
+ {
+  "word": "man",
+  "phonetic": "mæn",
+  "translation": "n. 男人, 人类, 人\\nvt. 为...配备人手, 操纵, 使振奋\\n[计] 城域网, 手册",
+  "definition": "n. an adult person who is male (as opposed to a woman)\\nn. the generic use of the word to refer to any human being\\nn. a male subordinate\\nn. an adult male person who has a manly character (virile and courageous competent)"
+ },
+ {
+  "word": "manner",
+  "phonetic": "'mænә",
+  "translation": "n. 样子, 礼貌, 风格\\n[法] 方式, 方法, 样式",
+  "definition": "n. how something is done or how it happens\\nn. a way of acting or behaving\\nn. a kind"
+ },
+ {
+  "word": "means",
+  "phonetic": "mi:nz",
+  "translation": "n. 方法, 手段, 工具, 财产, 收入\\n[经] 方法, 手段, 工具; 意谓",
+  "definition": "n. how a result is obtained or an end is achieved\\nn. an instrumentality for accomplishing some end\\nn. considerable capital (wealth or income)"
+ },
+ {
+  "word": "mineral",
+  "phonetic": "'minәrәl",
+  "translation": "n. 矿物, 无机物, 苏打水\\na. 矿物的, 似矿物的",
+  "definition": "n. solid homogeneous inorganic substances occurring in nature having a definite chemical composition\\na. relating to minerals\\ns. composed of matter other than plant or animal"
+ },
+ {
+  "word": "mining",
+  "phonetic": "'mainiŋ",
+  "translation": "n. 采矿\\n[经] 采矿, 采矿业",
+  "definition": "n. the act of extracting ores or coal etc from the earth\\nn. laying explosive mines in concealed places to destroy enemy personnel and equipment"
+ },
+ {
+  "word": "much",
+  "phonetic": "mʌtʃ",
+  "translation": "n. 大量, 许多, 重要的事\\na. 很多的, 重要的\\nadv. 多, 甚, 几乎",
+  "definition": "n. a great amount or extent\\na. (quantifier used with mass nouns) great in quantity or degree or extent\\nr. to a great degree or extent\\nr. very"
+ },
+ {
+  "word": "mud",
+  "phonetic": "mʌd",
+  "translation": "n. 泥, 诽谤\\nvt. 弄脏",
+  "definition": "n. water soaked soil; soft wet earth\\nn. slanderous remarks or charges\\nv. plaster with mud"
+ },
+ {
+  "word": "need",
+  "phonetic": "ni:d",
+  "translation": "n. 需要, 必须, 缺乏\\nvt. 需要, 必需\\nvi. 贫困, 有必要\\naux. 需要",
+  "definition": "n. a condition requiring relief\\nn. anything that is necessary but lacking\\nv. have or feel a need for"
+ },
+ {
+  "word": "needs",
+  "phonetic": "ni:dz",
+  "translation": "adv. （只与must连用）必须地",
+  "definition": "n a condition requiring relief\\nn anything that is necessary but lacking\\nn the psychological feature that arouses an organism to action toward a desired goal; the reason for the action; that which gives purpose and direction to behavior\\nn a state of extreme poverty or destitution\\nv require as useful, just, or proper\\nv have need of\\nv have or feel a need for\\nr in such a manner as could not be otherwise"
+ },
+ {
+  "word": "obtained",
+  "phonetic": "",
+  "translation": "v. 获得（obtain的过去分词）",
+  "definition": "v come into possession of\\nv receive a specified treatment (abstract)\\nv be valid, applicable, or true"
+ },
+ {
+  "word": "often",
+  "phonetic": "'ɒ:fn",
+  "translation": "adv. 时常, 常常",
+  "definition": "r. in many cases or instances"
+ },
+ {
+  "word": "oilmen",
+  "phonetic": "'ɒɪlmən",
+  "translation": "n. 石油商；石油工人",
+  "definition": "n a person who owns or operates oil wells\\nn a worker who produces or sells petroleum"
+ },
+ {
+  "word": "old",
+  "phonetic": "әuld",
+  "translation": "n. 以前, 往昔\\na. 老的, 旧的, 古老的, 年长的, 老练的",
+  "definition": "n. past times (especially in the phrase `in days of old')\\na. (used especially of persons) having lived for a relatively long time or attained a specific age\\na. of long duration; not new\\ns. (used for emphasis) very familiar"
+ },
+ {
+  "word": "particular",
+  "phonetic": "pә'tikjulә",
+  "translation": "n. 一项(或条、点), 个别项目, 详细说明\\na. 特别的, 独有的, 挑剔的, 详尽的",
+  "definition": "n. a fact about some part (as opposed to general)\\nn. (logic) a proposition that asserts something about some (but not all) members of a class\\ns. unique or specific to a person or thing or category\\ns. separate and distinct from others of the same group or category"
+ },
+ {
+  "word": "pushing",
+  "phonetic": "'puʃiŋ",
+  "translation": "a. 有精力的, 富有进取心的, 莽撞的",
+  "definition": "n the act of applying force in order to move something away\\nv move with force, \"He pushed the table into a corner\"\\nv press, drive, or impel (someone) to action or completion of an action\\nv make publicity for; try to sell (a product)\\nv strive and make an effort to reach a goal\\nv press against forcefully without moving\\nv approach a certain age or speed\\nv exert oneself continuously, vigorously, or obtrusively to gain an end or engage in a crusade for a certain cause or person; be an advocate for\\nv sell or promote the sale of (illegal goods such as drugs)\\nv move strenuously and with effort\\nv make strenuous pushing movements during birth to expel the baby"
+ },
+ {
+  "word": "put",
+  "phonetic": "put",
+  "translation": "vt. 放, 摆, 安置, 移动, 发射, 投掷, 写上, 表达, 使从事, 使受到, 驱使, 赋予\\nvi. 出发, 航行, 发芽\\nn. 掷, 股票出售权, 笨蛋\\na. 固定不动的\\n[计] 发送文件",
+  "definition": "v. put into a certain place or abstract location\\nv. cause to be in a certain state; cause to be in a certain relation\\nv. attribute or give\\nv. cause (someone) to undergo something"
+ },
+ {
+  "word": "reached",
+  "phonetic": "ri:tʃt",
+  "translation": "v. 到达( reach的过去式和过去分词 ); 联络; 伸出手臂, 延伸",
+  "definition": "imp. & p. p. of Reach"
+ },
+ {
+  "word": "rock",
+  "phonetic": "rɒk",
+  "translation": "n. 岩石, 岩礁, 石头, 基石, 暗礁, 摇动, 摇滚乐\\nvt. 摇摆, 摇动, 使摇晃, 使动摇\\nvi. 摇, 摇动",
+  "definition": "n. a lump or mass of hard consolidated mineral matter\\nn. material consisting of the aggregate of minerals like those making up the Earth's crust\\nn. United States gynecologist and devout Catholic who conducted the first clinical trials of the oral contraceptive pill (1890-1984)\\nn. (figurative) someone who is strong and stable and dependable"
+ },
+ {
+  "word": "rocks",
+  "phonetic": "",
+  "translation": "n. 岩石, 岩礁；岩石礁石（rock复数形式）",
+  "definition": "n a lump or mass of hard consolidated mineral matter\\nn material consisting of the aggregate of minerals like those making up the Earth's crust\\nn United States gynecologist and devout Catholic who conducted the first clinical trials of the oral contraceptive pill (1890-1984)\\nn (figurative) someone who is strong and stable and dependable\\nn hard bright-colored stick candy (typically flavored with peppermint)\\nn a genre of popular music originating in the 1950s; a blend of black rhythm-and-blues with white country-and-western\\nn pitching dangerously to one side\\nv move back and forth or sideways\\nv cause to move back and forth"
+ },
+ {
+  "word": "romantic",
+  "phonetic": "rәu'mæntik",
+  "translation": "a. 浪漫的, 风流的, 传奇性的, 夸大的, 空想的, 浪漫派的",
+  "definition": "n. a soulful or amorous idealist\\na. belonging to or characteristic of Romanticism or the Romantic Movement in the arts"
+ },
+ {
+  "word": "rotated",
+  "phonetic": "rəuˈteitid",
+  "translation": "v. （使某物）旋转[转动]( rotate的过去式和过去分词 ); （使某人或某物）轮流[按顺序循环]",
+  "definition": "s. turned in a circle around an axis"
+ },
+ {
+  "word": "sample",
+  "phonetic": "'sæmpl",
+  "translation": "n. 样品, 范例, 样本\\nvt. 抽样, 尝试\\n[计] 示例, 字样",
+  "definition": "n. a small part of something intended as representative of the whole\\nn. all or part of a natural object that is collected and preserved as an example of its class\\nv. take a sample of"
+ },
+ {
+  "word": "seen",
+  "phonetic": "si:n",
+  "translation": "see的过去分词",
+  "definition": "v perceive by sight or have the power to perceive by sight\\nv perceive (an idea or situation) mentally\\nv perceive or be contemporaneous with\\nv imagine; conceive of; see in one's mind\\nv deem to be\\nv get to know or become aware of, usually accidentally\\nv see or watch\\nv come together\\nv find out, learn, or determine with certainty, usually by making an inquiry or other effort\\nv be careful or certain to do something; make certain of something\\nv go to see for professional or business reasons\\nv go to see for a social visit\\nv go to see a place, as for entertainment\\nv take charge of or deal with\\nv receive as a specified guest\\nv date regularly; have a steady relationship with\\nv see and understand, have a good eye\\nv deliberate or decide\\nv observe as if with an eye\\nv observe, check out, and look over carefully or inspect\\nv go or live through\\nv accompany or escort\\nv match or meet\\nv make sense of; assign a meaning to"
+ },
+ {
+  "word": "send",
+  "phonetic": "send",
+  "translation": "vt. 发送, 使进入, 寄, 派遣, 发射, 使陷于\\nvi. 寄信, 派人, 播送\\nn. (船的)上升运动\\n[计] 发送",
+  "definition": "v. cause to go somewhere\\nv. to cause or order to be taken, directed, or transmitted to another place\\nv. transfer"
+ },
+ {
+  "word": "soon",
+  "phonetic": "su:n",
+  "translation": "adv. 不久, 早, 快, 宁可",
+  "definition": "r. in the near future"
+ },
+ {
+  "word": "stay",
+  "phonetic": "stei",
+  "translation": "n. 停留, 逗留, 制止, 延缓, 停止, 支柱, 支撑物, 支索\\nvt. 制止, 延缓, 坚持, 支持, 支撑, 用支索固定\\nvi. 停留, 逗留, 暂停, 坚持, 中止",
+  "definition": "n. continuing or remaining in a place or state\\nn. a judicial order forbidding some action until an event occurs or the order is lifted\\nn. a thin strip of metal or bone that is used to stiffen a garment (e.g. a corset)\\nn. (nautical) brace consisting of a heavy rope or wire cable used as a support for a mast or spar"
+ },
+ {
+  "word": "strata",
+  "phonetic": "'streitә",
+  "translation": "pl. 层, 地层, 阶层\\n[医] 层",
+  "definition": "n one of several parallel layers of material arranged one on top of another (such as a layer of tissue or cells in an organism or a layer of sedimentary rock)\\nn people having the same social, economic, or educational status\\nn an abstract place usually conceived as having depth"
+ },
+ {
+  "word": "strike",
+  "phonetic": "straik",
+  "translation": "n. 罢工, 打击, 殴打\\nvt. 打, 撞击, 冲击, 侵袭, 取消, 结算, 打掉, 罢工, 刺透, 使生根, 遇见\\nvi. 打, 打击, 抓, 罢工, 搏动, 触礁, 敲, 响, 穿透, 打动",
+  "definition": "n. a group's refusal to work in protest against low pay or bad work conditions\\nn. an attack that is intended to seize or inflict damage on or destroy an objective\\nn. a score in tenpins: knocking down all ten with the first ball\\nn. (baseball) a pitch that the batter swings at and misses, or that the batter hits into foul territory, or that the batter does not swing at but the umpire judges to be in the area over home plate and between the batter's knees and shoulders"
+ },
+ {
+  "word": "tackle",
+  "phonetic": "'tækl",
+  "translation": "n. 工具, 复滑车, 滑车, 装备, 扭倒\\nvt. 固定, 处理, 抓住\\nvi. 扭倒",
+  "definition": "n. the person who plays that position on a football team\\nn. (American football) a position on the line of scrimmage\\nn. (American football) grasping an opposing player with the intention of stopping by throwing to the ground\\nv. seize and throw down an opponent player, who usually carries the ball"
+ },
+ {
+  "word": "tall",
+  "phonetic": "tɒ:l",
+  "translation": "a. 高的, 长的, 夸大的\\nadv. 夸大地",
+  "definition": "n. a garment size for a tall person\\na. great in vertical dimension; high in stature\\ns. impressively difficult"
+ },
+ {
+  "word": "through",
+  "phonetic": "θru:",
+  "translation": "adv. 穿越, 从头至尾, 到底, 因为\\nprep. 经过, 穿过\\na. 对穿的, 直达的, 完结的",
+  "definition": "s. (of a route or journey etc.) continuing without requiring stops or changes\\nr. from beginning to end\\nr. over the whole distance\\nr. to completion"
+ },
+ {
+  "word": "top",
+  "phonetic": "tɒp",
+  "translation": "n. 顶部, 顶端, 极点, 上面, 上部, 顶篷, 最高地位, 首位, 陀螺\\na. 最高的, 顶上的, 头等的\\nvt. 盖, 加以顶, 高达, 超越\\nvi. 结束, 达到顶点, 高出\\n[计] TOP协议",
+  "definition": "n. the upper part of anything\\nn. the highest or uppermost side of anything\\nn. the first half of an inning; while the visiting team is at bat\\nn. the greatest possible intensity"
+ },
+ {
+  "word": "until",
+  "phonetic": "әn'til",
+  "translation": "prep. 直到, 在...以前\\nconj. 直到...时, 在...以前",
+  "definition": "prep. To; unto; towards; -- used of material objects.\\nprep. To; up to; till; before; -- used of time; as, he staid\\n   until evening; he will not come back until the end of the month.\\nconj. As far as; to the place or degree that; especially, up to\\n   the time that; till. See Till, conj."
+ },
+ {
+  "word": "usually",
+  "phonetic": "'ju:ʒuәli",
+  "translation": "adv. 通常, 大抵",
+  "definition": "r under normal conditions"
+ },
+ {
+  "word": "wastes",
+  "phonetic": "",
+  "translation": "n. 废物, 废料",
+  "definition": "n any materials unused and rejected as worthless or unwanted\\nn useless or profitless activity; using or expending or consuming thoughtlessly or carelessly\\nn the trait of wasting resources\\nn an uninhabited wilderness that is worthless for cultivation\\nn (law) reduction in the value of an estate caused by act or neglect\\nv spend thoughtlessly; throw away\\nv use inefficiently or inappropriately\\nv get rid of\\nv run off as waste\\nv get rid of (someone who may be a threat) by killing\\nv spend extravagantly\\nv lose vigor, health, or flesh, as through grief\\nv cause to grow thin or weak\\nv cause extensive destruction or ruin utterly\\nv become physically weaker"
+ },
+ {
+  "word": "water",
+  "phonetic": "'wɒ:tә",
+  "translation": "n. 水, 雨水, 海水, 水位, 水面, 流水\\nvt. 给...浇水, 供以水, 注入水, 使湿\\nvi. 流泪, 流口水, 加水\\na. 水的, 水上的, 水生的, 含水的",
+  "definition": "n. binary compound that occurs at room temperature as a clear colorless odorless tasteless liquid; freezes into ice below 0 degrees centigrade and boils above 100 degrees centigrade; widely used as a solvent\\nn. once thought to be one of four elements composing the universe (Empedocles)\\nn. a liquid necessary for the life of most animals and plants\\nv. supply with water, as with channels or ditches or streams"
+ }
+]

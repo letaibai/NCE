@@ -1,0 +1,298 @@
+[
+ {
+  "word": "d",
+  "phonetic": "di:",
+  "translation": "[计] 数据, 十进制, 数位, 位, 文档, 域\\n[医] 氘, 重氢",
+  "definition": "n. the 4th letter of the Roman alphabet"
+ },
+ {
+  "word": "l",
+  "phonetic": "el",
+  "translation": "n. 见习驾驶员\\n[计] 电感, 标记, 语言, 负载, 局部, 线路",
+  "definition": "n. the 12th letter of the Roman alphabet"
+ },
+ {
+  "word": "doctor",
+  "phonetic": "'dɒktә",
+  "translation": "n. 医生, 博士\\nvt. 授以博士学位, 诊断, 修改\\nvi. 行医",
+  "definition": "n. a licensed medical practitioner\\nn. children take the roles of physician or patient or nurse and pretend they are at the physician's office\\nn. a person who holds Ph.D. degree (or the equivalent) from an academic institution\\nv. give medical treatment to"
+ },
+ {
+  "word": "kt",
+  "phonetic": "",
+  "translation": "abbr. 千吨（kiloton）；[棋]马（knight）；节（knot）",
+  "definition": "n the unit of measurement for the proportion of gold in an alloy; 18-karat gold is 75% gold; 24-karat gold is pure gold"
+ },
+ {
+  "word": "bed",
+  "phonetic": "bed",
+  "translation": "n. 床, 睡眠处, 河床, 底座, 路基, 一层\\nvt. 提供宿处, 栽种, 安装\\nvi. 睡, 形成坚实的一层",
+  "definition": "n. a piece of furniture that provides a place to sleep\\nn. a plot of ground in which plants are growing\\nn. a depression forming the ground under a body of water\\nn. (geology) a stratum of rock (especially sedimentary rock)"
+ },
+ {
+  "word": "good",
+  "phonetic": "gud",
+  "translation": "n. 善行, 好处, 利益\\na. 好的, 优良的, 上等的, 愉快的, 有益的, 好心的, 慈善的, 虔诚的",
+  "definition": "n. benefit\\nn. moral excellence or admirableness\\nn. that which is pleasing or valuable or useful\\na. having desirable or positive qualities especially those suitable for a thing specified"
+ },
+ {
+  "word": "ill",
+  "phonetic": "il",
+  "translation": "n. 疾病, 坏事, 罪恶, 灾难\\na. 生病的, 邪恶的, 不吉利的, 敌意的, 不良的, 不顺利的\\nadv. 有害地, 不幸地, 几乎不",
+  "definition": "a. affected by an impairment of normal physical or mental function\\ns. resulting in suffering or adversity\\ns. distressing\\ns. indicating hostility or enmity"
+ },
+ {
+  "word": "k",
+  "phonetic": "kei",
+  "translation": "[计] 键, 关键字, 千, 千字节\\n[医] 钾(19号元素)",
+  "definition": "n. the 11th letter of the Roman alphabet\\nn. street names for ketamine"
+ },
+ {
+  "word": "matter",
+  "phonetic": "'mætә",
+  "translation": "n. 事件, 物质, 原因, 素材, 实体, 重要\\nvi. 有关系",
+  "definition": "n. a vaguely specified concern\\nn. that which has mass and occupies space\\nn. a problem\\nn. (used with negation) having consequence"
+ },
+ {
+  "word": "news",
+  "phonetic": "nju:z",
+  "translation": "n. 新闻, 消息, 报导\\n[法] 新闻, 消息, 新闻报导",
+  "definition": "n. information about recent and important events\\nn. information reported in a newspaper or news magazine\\nn. informal information of any kind that is not previously known to someone"
+ },
+ {
+  "word": "what",
+  "phonetic": "hwɒt",
+  "translation": "pron. 什么\\ninterj. 怎么, 多么\\na. 什么的\\nadv. 到什么程度",
+  "definition": "pron., a., & adv. As an interrogative pronoun, used in asking\\n   questions regarding either persons or things; as, what is this? what\\n   did you say? what poem is this? what child is lost?\\npron., a., & adv. As an exclamatory word: -- (a) Used absolutely\\n   or independently; -- often with a question following.\\npron., a., & adv. Used adjectively, meaning how remarkable, or\\n   how great; as, what folly! what eloquence! what courage!\\npron., a., & adv. Sometimes prefixed to adjectives in an\\n   adverbial sense, as nearly equivalent to how; as, what happy boys!\\npron., a., & adv. As a relative pronoun\\npron., a., & adv. Used substantively with the antecedent\\n   suppressed, equivalent to that which, or those [persons] who, or those\\n   [things] which; -- called a compound relative.\\npron., a., & adv. Used adjectively, equivalent to the . . .\\n   which; the sort or kind of . . . which; rarely, the . . . on, or at,\\n   which.\\npron., a., & adv. Used adverbially in a sense corresponding to\\n   the adjectival use; as, he picked what good fruit he saw.\\npron., a., & adv. Whatever; whatsoever; what thing soever; --\\n   used indefinitely.\\npron., a., & adv. Used adverbially, in part; partly; somewhat;\\n   -- with a following preposition, especially, with, and commonly with\\n   repetition.\\nn. Something; thing; stuff.\\ninterrog. adv. Why? For what purpose? On what account?"
+ },
+ {
+  "word": "z",
+  "phonetic": "zed; (?@) zi:",
+  "translation": "[计] 阻抗, 零, 零标志\\n[医] 原子序数",
+  "definition": "n. the 26th letter of the Roman alphabet"
+ },
+ {
+  "word": "ah",
+  "phonetic": "ɑ:",
+  "translation": "interj. 啊, 哈",
+  "definition": "interj. An exclamation, expressive of surprise, pity, complaint,\\n   entreaty, contempt, threatening, delight, triumph, etc., according to\\n   the manner of utterance."
+ },
+ {
+  "word": "b",
+  "phonetic": "bi:",
+  "translation": "[计] 基地址, 数据库, 基极, 二进制, 块, 字组, 布尔, 总线, 占线, 字节\\n[医] 硼(5号元素)",
+  "definition": "n. the 2nd letter of the Roman alphabet\\nn. the blood group whose red cells carry the B antigen"
+ },
+ {
+  "word": "bad",
+  "phonetic": "bæd",
+  "translation": "a. 坏的\\nn. 坏\\nadv. 坏地",
+  "definition": "n. that which is below standard or expectations as of ethics or decency\\na. having undesirable or negative qualities\\ns. very intense\\ns. feeling physical discomfort or pain (`tough' is occasionally used colloquially for `bad')"
+ },
+ {
+  "word": "because",
+  "phonetic": "bi'kɒ:z",
+  "translation": "conj. 因为",
+  "definition": "conj. By or for the cause that; on this account that; for the\\n   reason that.\\nconj. In order that; that."
+ },
+ {
+  "word": "call",
+  "phonetic": "kɒ:l",
+  "translation": "n. 呼叫, 访问, 打电话, 号召, 召集, 要求\\nvt. 呼叫, 召集, 打电话\\nvi. 叫喊, 访问, 叫牌\\n[计] 调用; 呼叫; DOS内部命令:在批处理文件中调用另一个批处理文件",
+  "definition": "n. a telephone connection\\nn. a special disposition (as if from a divine source) to pursue a particular course\\nn. a demand especially in the phrase \"the call of duty\"\\nn. a brief social visit"
+ },
+ {
+  "word": "cold",
+  "phonetic": "kәuld",
+  "translation": "n. 感冒, 寒冷\\na. 寒冷的, 冷淡的, 冷静的\\nadv. 完全地",
+  "definition": "n. a mild viral infection involving the nose and respiratory passages (but not the lungs)\\nn. the sensation produced by low temperatures\\na. having a low or inadequate temperature or feeling a sensation of coldness or having been made cold by e.g. ice or refrigeration\\na. extended meanings; especially of psychological coldness; without human warmth or emotion"
+ },
+ {
+  "word": "does",
+  "phonetic": "dʌz; dәz",
+  "translation": "v. 做；工作；有用（do的第三人称单数形式）",
+  "definition": "n the federal department responsible for maintaining a national energy policy of the United States; created in 1977\\nn mature female of mammals of which the male is called `buck'\\nv engage in\\nv carry out or perform an action\\nv get (something) done\\nv proceed or get along\\nv give rise to; cause to happen or occur, not always intentionally\\nv carry out or practice; as of jobs and professions\\nv be sufficient; be adequate, either in quality or quantity\\nv create or design, often in a certain way\\nv behave in a certain manner; show a certain behavior; conduct or comport oneself\\nv spend time in prison or in a labor camp\\nv carry on or function\\nv arrange attractively\\nv travel or traverse (a distance)"
+ },
+ {
+  "word": "f",
+  "phonetic": "ef",
+  "translation": "[计] 故障, 假, 法拉, 字段, 标记, 特征, 分数, 频率, 函数, 功能",
+  "definition": "n. the 6th letter of the Roman alphabet"
+ },
+ {
+  "word": "feels",
+  "phonetic": "",
+  "translation": "v. 觉得；体会；触摸（feel的第三人称单数）",
+  "definition": "n an intuitive awareness; \\nn the general atmosphere of a place or situation and the effect that it has on people\\nn a property perceived by touch\\nn manual stimulation of the genital area for sexual pleasure\\nv undergo an emotional sensation or be in a particular state of mind\\nv come to believe on the basis of emotion, intuitions, or indefinite grounds\\nv perceive by a physical sensation, e.g., coming from the skin or muscles\\nv be conscious of a physical, mental, or emotional state\\nv have a feeling or perception about oneself in reaction to someone's behavior or attitude\\nv undergo passive experience of:\"We felt the effects of inflation\"\\nv be felt or perceived in a certain way\\nv grope or feel in search of something\\nv examine by touch\\nv examine (a body part) by palpation\\nv find by testing or cautious exploration\\nv produce a certain impression\\nv pass one's hands over the sexual organs of"
+ },
+ {
+  "word": "fi",
+  "phonetic": "fai",
+  "translation": "[计] 格式标识码, 前端处理器接口\\n[化] 场电离"
+ },
+ {
+  "word": "he",
+  "phonetic": "hi:",
+  "translation": "pron. 他\\nn. 男孩, 男人, 雄性动物",
+  "definition": "n. the 5th letter of the Hebrew alphabet"
+ },
+ {
+  "word": "it",
+  "phonetic": "it",
+  "translation": "pron. 它\\n[计] 信息论, 输入终端, 智能终端, 内捕获",
+  "definition": "n the branch of engineering that deals with the use of computers and telecommunications to retrieve and store and transmit information"
+ },
+ {
+  "word": "ks",
+  "phonetic": "",
+  "translation": "abbr. 韩国标准（Korean Standards）；敲缸传感器（Knock Sensor）；闸刀开关（knifeswitch）",
+  "definition": "n a state in midwestern United States\\nn the basic unit of thermodynamic temperature adopted under the Systeme International d'Unites\\nn a light soft silver-white metallic element of the alkali metal group; oxidizes rapidly in air and reacts violently with water; is abundant in nature in combined forms occurring in sea water and in carnallite and kainite and sylvite\\nn the cardinal number that is the product of 10 and 100\\nn a unit of information equal to 1000 bytes\\nn a unit of information equal to 1024 bytes\\nn the 11th letter of the Roman alphabet\\nn street names for ketamine"
+ },
+ {
+  "word": "ld",
+  "phonetic": "",
+  "translation": "致死剂量"
+ },
+ {
+  "word": "lesson",
+  "phonetic": "'lesn",
+  "translation": "n. 课, 课业, 教训",
+  "definition": "n. a unit of instruction\\nn. a task assigned for individual study"
+ },
+ {
+  "word": "like",
+  "phonetic": "laik",
+  "translation": "a. 相似的, 同样的\\nvt. 喜欢, 愿意, 想\\nvi. 喜欢, 希望\\nn. 爱好, 同样的人(或物)\\nprep. 象, 如同\\nadv. 可能",
+  "definition": "n. a similar kind\\nn. a kind of person\\nv. find enjoyable or agreeable\\nv. be fond of"
+ },
+ {
+  "word": "looks",
+  "phonetic": "",
+  "translation": "n. 美貌",
+  "definition": "n the feelings expressed on a person's face\\nn the act of directing the eyes toward something and perceiving it visually\\nn physical appearance\\nn the general atmosphere of a place or situation and the effect that it has on people\\nv perceive with attention; direct one's gaze towards\\nv give a certain impression or have a certain outward aspect\\nv have a certain outward or facial expression\\nv search or seek\\nv be oriented in a certain direction, often with respect to another reference point; be opposite to\\nv take charge of or deal with\\nv convey by one's expression\\nv look forward to the probable occurrence of\\nv accord in appearance with\\nv have faith or confidence in"
+ },
+ {
+  "word": "lz",
+  "phonetic": "",
+  "translation": "abbr. 登陆区（Landing Zone）"
+ },
+ {
+  "word": "ma",
+  "phonetic": "mɑ:",
+  "translation": "n. 妈\\n[计] 存储器地址, 多路存取",
+  "definition": "n. informal terms for a mother"
+ },
+ {
+  "word": "mouth",
+  "phonetic": "mauθ",
+  "translation": "n. 嘴, 口, 口腔, 口状物\\nvi. 装腔作势说话, 做鬼脸\\nvt. 说出, 做作地说",
+  "definition": "n. the opening through which food is taken in and vocalizations emerge\\nn. the externally visible part of the oral cavity on the face and the system of organs surrounding the opening\\nn. an opening that resembles a mouth (as of a cave or a gorge)\\nn. the point where a stream issues into a larger body of water"
+ },
+ {
+  "word": "mr",
+  "phonetic": "'mistә(r)",
+  "translation": "先生\\n[计] 存储器回收程序, 多重请求",
+  "definition": "n a form of address for a man"
+ },
+ {
+  "word": "n",
+  "phonetic": "en",
+  "translation": "[计] 负的, 数, 编号, 纳\\n[医] 氮(7号元素), 当量的, 规度的(溶液)",
+  "definition": "n. the 14th letter of the Roman alphabet"
+ },
+ {
+  "word": "number",
+  "phonetic": "'nʌmbә",
+  "translation": "n. 数, 数字, 数目, 号码\\nvt. 数, 计算, 共计\\nvi. 计算, 报数\\n[计] 数字",
+  "definition": "n. the property possessed by a sum or total or indefinite quantity of units or individuals\\nn. a concept of quantity involving zero and units\\nn. a select company of people\\nn. a numeral or string of numerals that is used for identification"
+ },
+ {
+  "word": "open",
+  "phonetic": "'әupәn",
+  "translation": "n. 公开, 户外, 空旷\\na. 开着的, 开放的, 开阔的, 营业着的, 公开的, 悬而未决的\\nvt. 打开, 公开, 开放\\nvi. 展开, 开始, 展现\\n[计] 打开指令; 打开语句",
+  "definition": "n. a clear or unobstructed space or expanse of land or water\\nn. a tournament in which both professionals and amateurs may play\\nn. information that has become public\\nv. cause to open or to become open"
+ },
+ {
+  "word": "r",
+  "phonetic": "ɑ:(r)",
+  "translation": "[计] 半径, 比例, 读, 接收, 寄存器, 复位, 电阻, 程式",
+  "definition": "n. the 18th letter of the Roman alphabet"
+ },
+ {
+  "word": "remember",
+  "phonetic": "ri'membә",
+  "translation": "vt. 记得, 回忆起, 记住, 铭记, 纪念\\nvi. 记得",
+  "definition": "v. recall knowledge from memory; have a recollection\\nv. keep in mind for attention or consideration\\nv. recapture the past; indulge in memories\\nv. show appreciation to"
+ },
+ {
+  "word": "say",
+  "phonetic": "sei",
+  "translation": "vt. 说, 讲, 念, 说明, 指明\\nvi. 说, 讲\\nn. 意见, 发言权",
+  "definition": "n. the chance to speak\\nv. communicate or express nonverbally\\nv. utter aloud\\nv. state as one's opinion or judgement; declare"
+ },
+ {
+  "word": "school",
+  "phonetic": "sku:l",
+  "translation": "n. 学校, 鱼群, 门派, 学派\\nvt. 教育, 训练, 培养\\nvi. 成群地游",
+  "definition": "n. an educational institution\\nn. a building where young people receive education\\nn. the process of being formally educated at a school\\nn. a body of creative artists or writers or thinkers linked by a similar style or by similar teachers"
+ },
+ {
+  "word": "show",
+  "phonetic": "ʃәu",
+  "translation": "n. 显示, 表现, 展览, 卖弄, 炫耀, 外观, 演出, 洋相\\nvt. 表示, 显示, 展现, 陈列, 演出, 表明, 指出, 带领\\nvi. 露面, 显现, 演出\\n[计] 显示",
+  "definition": "n. the act of publicly exhibiting or entertaining\\nn. a social event involving a public performance or entertainment\\nv. give an exhibition of to an interested audience\\nv. make visible or noticeable"
+ },
+ {
+  "word": "stay",
+  "phonetic": "stei",
+  "translation": "n. 停留, 逗留, 制止, 延缓, 停止, 支柱, 支撑物, 支索\\nvt. 制止, 延缓, 坚持, 支持, 支撑, 用支索固定\\nvi. 停留, 逗留, 暂停, 坚持, 中止",
+  "definition": "n. continuing or remaining in a place or state\\nn. a judicial order forbidding some action until an event occurs or the order is lifted\\nn. a thin strip of metal or bone that is used to stiffen a garment (e.g. a corset)\\nn. (nautical) brace consisting of a heavy rope or wire cable used as a support for a mast or spar"
+ },
+ {
+  "word": "t",
+  "phonetic": "ti:",
+  "translation": "[计] 表, 终端, 测试, 磁道, 树, 真, 太, 万亿\\n[医] 温度, 胸的, 胸廓的, 眼球内压, 眼压, 垓, 千京, 兆兆",
+  "definition": "n. the 20th letter of the Roman alphabet"
+ },
+ {
+  "word": "tel",
+  "phonetic": "tel",
+  "translation": "abbr. 试验仪器清单（Test Equipment List）"
+ },
+ {
+  "word": "telephone",
+  "phonetic": "'telifәun",
+  "translation": "n. 电话, 电话机\\nv. 打电话",
+  "definition": "n. electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds\\nn. transmitting speech at a distance"
+ },
+ {
+  "word": "that",
+  "phonetic": "ðæt",
+  "translation": "a. 那, 那个\\nconj. 以致, 因为\\npron. 那\\nadv. 那么, 那样",
+  "definition": "pron., a., conj., &  As a demonstrative pronoun (pl. Those),\\n   that usually points out, or refers to, a person or thing previously\\n   mentioned, or supposed to be understood. That, as a demonstrative, may\\n   precede the noun to which it refers; as, that which he has said is\\n   true; those in the basket are good apples.\\npron., a., conj., &  As an adjective, that has the same\\n   demonstrative force as the pronoun, but is followed by a noun.\\npron., a., conj., &  As a relative pronoun, that is\\n   equivalent to who or which, serving to point out, and make definite, a\\n   person or thing spoken of, or alluded to, before, and may be either\\n   singular or plural.\\npron., a., conj., &  As a conjunction, that retains much of\\n   its force as a demonstrative pronoun.\\npron., a., conj., &  To introduce a clause employed as the\\n   object of the preceding verb, or as the subject or predicate nominative\\n   of a verb.\\npron., a., conj., &  To introduce, a reason or cause; --\\n   equivalent to for that, in that, for the reason that, because.\\npron., a., conj., &  To introduce a purpose; -- usually\\n   followed by may, or might, and frequently preceded by so, in order, to\\n   the end, etc.\\npron., a., conj., &  To introduce a consequence, result, or\\n   effect; -- usually preceded by so or such, sometimes by that.\\npron., a., conj., &  In an elliptical sentence to introduce\\n   a dependent sentence expressing a wish, or a cause of surprise,\\n   indignation, or the like.\\npron., a., conj., &  As adverb: To such a degree; so; as, he\\n   was that frightened he could say nothing."
+ },
+ {
+  "word": "tongue",
+  "phonetic": "tʌŋ",
+  "translation": "n. 舌, 语言能力, 讲话方式, 语言\\nvt. 舔, 斥责, 发...的音\\nvi. 使用舌头, 吹管乐器",
+  "definition": "n. a mobile mass of muscular tissue covered with mucous membrane and located in the oral cavity\\nn. any long thin projection that is transient\\nn. a manner of speaking\\nn. the tongue of certain animals used as meat"
+ },
+ {
+  "word": "week",
+  "phonetic": "wi:k",
+  "translation": "n. 星期, 周",
+  "definition": "n. any period of seven consecutive days\\nn. a period of seven consecutive days starting on Sunday"
+ },
+ {
+  "word": "where",
+  "phonetic": "hwєә",
+  "translation": "adv. 在哪里\\npron. 哪里\\nn. 地点",
+  "definition": "pron. & conj. Whether.\\nadv. At or in what place; hence, in what situation, position,\\n   or circumstances; -- used interrogatively.\\nadv. At or in which place; at the place in which; hence, in the\\n   case or instance in which; -- used relatively.\\nadv. To what or which place; hence, to what goal, result, or\\n   issue; whither; -- used interrogatively and relatively; as, where are\\n   you going?\\nconj. Whereas.\\nn. Place; situation."
+ },
+ {
+  "word": "williams",
+  "phonetic": "'wiljәmz",
+  "translation": "n. 威廉姆斯（男子名）",
+  "definition": "n. United States country singer and songwriter (1923-1953)\\nn. English philosopher credited with reviving the field of moral philosophy (1929-2003)\\nn. United States poet (1883-1963)"
+ }
+]

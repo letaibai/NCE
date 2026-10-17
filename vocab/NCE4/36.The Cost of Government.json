@@ -1,0 +1,734 @@
+[
+ {
+  "word": "business",
+  "phonetic": "'biznis",
+  "translation": "n. 生意, 事情, 业务, 商业, 商行, 职责\\n[经] 企业, 商业, 营业",
+  "definition": "n. a commercial or industrial enterprise and the people who constitute it\\nn. a rightful concern or responsibility\\nn. an immediate objective\\nn. the volume of commercial activity"
+ },
+ {
+  "word": "government",
+  "phonetic": "'gʌvәnmәnt",
+  "translation": "n. 政府, 内阁\\n[经] 政府, 政治, 政体",
+  "definition": "n. the organization that is the governing authority of a political unit\\nn. the act of governing; exercising authority\\nn. (government) the system or form by which a community or other political unit is governed"
+ },
+ {
+  "word": "nation",
+  "phonetic": "'neiʃәn",
+  "translation": "n. 国家, 民族\\n[法] 民族, 国家",
+  "definition": "n. the people who live in a nation or country\\nn. United States prohibitionist who raided saloons and destroyed bottles of liquor with a hatchet (1846-1911)\\nn. a federation of tribes (especially Native American tribes)"
+ },
+ {
+  "word": "administrative",
+  "phonetic": "әd'ministrәtiv",
+  "translation": "a. 管理的, 行政的\\n[法] 行政的, 管理的, 遗产管理的",
+  "definition": "a. of or relating to or responsible for administration"
+ },
+ {
+  "word": "low",
+  "phonetic": "lәu",
+  "translation": "n. 低点, 低价, 低, 牛叫声\\na. 低的, 消沉的, 低等的, 浅的, 卑贱的\\nadv. 低下地, 谦卑地, 低\\nvi. 牛叫",
+  "definition": "n. an air mass of lower pressure; often brings precipitation\\nn. British political cartoonist (born in New Zealand) who created the character Colonel Blimp (1891-1963)\\nn. a low level or position or degree\\na. less than normal in degree or intensity or amount"
+ },
+ {
+  "word": "overheads",
+  "phonetic": "",
+  "translation": "n. 企业的经常开支, 企业的日常管理费用",
+  "definition": "n the expense of maintaining property (e.g., paying property taxes and utilities and insurance); it does not include depreciation or the cost of financing or income taxes\\nn (computer science) the processing time required by a device prior to the execution of a command\\nn (computer science) the disk space required for information that is not data but is used for location and timing\\nn a transparency for use with an overhead projector\\nn (nautical) the top surface of an enclosed space on a ship\\nn a hard return hitting the tennis ball above your head"
+ },
+ {
+  "word": "cost",
+  "phonetic": "kɒst",
+  "translation": "n. 代价, 价值, 费用\\nvi. 花费\\nvt. 使失去, 值, 使花费",
+  "definition": "n. the total spent for goods or services including money and time and labor\\nv. be priced at\\nv. require to lose, suffer, or sacrifice"
+ },
+ {
+  "word": "correspondingly",
+  "phonetic": "",
+  "translation": "adv. 相应地, 相对地",
+  "definition": "r. in a corresponding manner"
+ },
+ {
+  "word": "costs",
+  "phonetic": "",
+  "translation": "n. 费用；诉讼费；损失（cost的复数）",
+  "definition": "n. pecuniary reimbursement to the winning party for the expenses of litigation"
+ },
+ {
+  "word": "disunited",
+  "phonetic": "ˌdɪsju:'naɪtɪd",
+  "translation": "a. 分裂的; 不和的\\nvt. 使分离(disunite的过去式)",
+  "definition": "v part; cease or break association with\\nv force, take, or pull apart\\ns having been divided; having the unity destroyed"
+ },
+ {
+  "word": "one",
+  "phonetic": "wʌn",
+  "translation": "n. 一(个)\\npron. 一, 任何人\\nnum. 一, 一个\\na. 一致的, 完整的",
+  "definition": "n. the smallest whole number or a numeral representing this number\\nn. a single person or thing\\ns. used of a single unit or thing; not two or more\\ns. having the indivisible character of a unit"
+ },
+ {
+  "word": "people",
+  "phonetic": "'pi:pl",
+  "translation": "n. 人, 人民, 民族, 平民\\nvt. 使住满人, 居住于",
+  "definition": "n. (plural) any group of human beings (men or women or children) collectively\\nn. members of a family line\\nv. fill with people\\nv. furnish with people"
+ },
+ {
+  "word": "resources",
+  "phonetic": "",
+  "translation": "n. 资源；物力（resource的复数）",
+  "definition": "n available source of wealth; a new or reserve supply that can be drawn upon when needed\\nn a source of aid or support that may be drawn upon when needed\\nn the ability to deal resourcefully with unusual problems"
+ },
+ {
+  "word": "trusted",
+  "phonetic": "",
+  "translation": "a. 可信的；受信任的",
+  "definition": "v have confidence or faith in\\nv allow without fear\\nv be confident about something\\nv expect and wish\\nv confer a trust upon\\nv extend credit to; I won't pay her debts anymore\"\\ns (of persons) worthy of trust or confidence"
+ },
+ {
+  "word": "after",
+  "phonetic": "'ɑ:ftә",
+  "translation": "prep. 在...之后, 由于\\nconj. 在...之后\\nadv. 后来",
+  "definition": "s. located farther aft\\nr. behind or in the rear"
+ },
+ {
+  "word": "armies",
+  "phonetic": "ˈɑ:miz",
+  "translation": "n. 军队( army的复数形式 ); 陆军; 大群; 大批",
+  "definition": "n. a permanent organization of the military land forces of a nation or state\\nn. a large number of people united for some specific purpose\\nn. the army of the United States of America; the agency that organizes and trains soldiers for land warfare"
+ },
+ {
+  "word": "behave",
+  "phonetic": "bi'heiv",
+  "translation": "vi. 举止端正, 行为规矩\\nvt. 检点(自己的)行为, 使表现好",
+  "definition": "v. behave in a certain manner\\nv. behave well or properly"
+ },
+ {
+  "word": "check",
+  "phonetic": "tʃek",
+  "translation": "n. 检查, 支票, 阻止物, 寄物牌, 象棋中将军\\nvt. 检查, 阻止, 核对, 寄存, 托运\\nvi. 逐项相符, 开支票\\n[计] 复选",
+  "definition": "n. a written order directing a bank to pay money\\nn. the bill in a restaurant\\nn. the act of inspecting or verifying\\nn. a mark left after a small piece has been chopped or broken off of something"
+ },
+ {
+  "word": "country",
+  "phonetic": "'kʌntri",
+  "translation": "n. 国家, 乡村, 地区, 故乡\\na. 乡下的, 农村的\\n[计] DOS外部命令:用于设定国家代码, 包括日期时间及货币格式",
+  "definition": "n. the territory occupied by a nation\\nn. an area outside of cities and towns"
+ },
+ {
+  "word": "development",
+  "phonetic": "di'velәpmәnt",
+  "translation": "n. 发展\\n[化] 展开",
+  "definition": "n. act of improving by expanding or enlarging or refining\\nn. a process in which something passes by degrees to a different stage (especially a more advanced or mature stage)\\nn. a recent event that has some relevance for the present situation\\nn. a district that has been developed to serve some purpose"
+ },
+ {
+  "word": "enterprise",
+  "phonetic": "'entәpraiz",
+  "translation": "n. 企业, 事业心, 进取心, 干事业\\n[计] 企业",
+  "definition": "n. a purposeful or industrious undertaking (especially one that requires effort or boldness)\\nn. an organization created for business ventures\\nn. readiness to embark on bold new ventures"
+ },
+ {
+  "word": "expense",
+  "phonetic": "ik'spens",
+  "translation": "n. 费用, 代价, 开支, 损失\\n[经] 费用, 开支, 将支出转为费用",
+  "definition": "n. amounts paid for goods and services that may be currently tax deductible (as opposed to capital expenditures)\\nn. a detriment or sacrifice\\nn. money spent to perform work and usually reimbursed by an employer\\nv. reduce the estimated value of something"
+ },
+ {
+  "word": "extent",
+  "phonetic": "ik'stent",
+  "translation": "n. 范围, 程度, 区域\\n[计] 范围",
+  "definition": "n. the point or degree to which something extends\\nn. the distance or area or volume over which something extends"
+ },
+ {
+  "word": "high",
+  "phonetic": "hai",
+  "translation": "n. 高度, 高处\\na. 高的, 高级的, 主要的, 高尚的, 高原的, 高音的, 昂贵的, 傲慢的\\nadv. 高度地, 奢侈地",
+  "definition": "n. a lofty level or position or degree\\nn. an air mass of higher than normal pressure\\nn. a state of sustained elation\\nn. a state of altered consciousness induced by alcohol or narcotics"
+ },
+ {
+  "word": "incur",
+  "phonetic": "in'kә:",
+  "translation": "vt. 招致, 蒙受, 遭遇\\n[经] 招致, 蒙受, 担负",
+  "definition": "v. make oneself subject to; bring upon oneself; become liable to"
+ },
+ {
+  "word": "interests",
+  "phonetic": "ˈintrists",
+  "translation": "n. 兴趣( interest的名词复数 ); 利益; 利息; 关注",
+  "definition": "n a sense of concern with and curiosity about someone or something\\nn a reason for wanting something done\\nn the power of attracting or holding one's attention (because it is unusual or exciting etc.)\\nn a fixed charge for borrowing money; usually a percentage of the amount borrowed\\nn (law) a right or legal share of something; a financial involvement with something\\nn (usually plural) a social group whose members control some field of activity and who have common aims\\nn a diversion that occupies one's time and thoughts (usually pleasantly)\\nv excite the curiosity of; engage the interest of\\nv be on the mind of\\nv be of importance or consequence"
+ },
+ {
+  "word": "job",
+  "phonetic": "dʒɒb",
+  "translation": "n. 工作, 零活, 职业, 事情\\nvi. 做零工, 打杂, 做股票经纪, 假公济私\\nvt. 代客买卖, 批发, 承包, 欺骗\\n[计] 作业",
+  "definition": "n. a specific piece of work required to be done as a duty or for a specific fee\\nn. a workplace; as in the expression \"on the job\"; \\nn. an object worked on; a result produced by working\\nn. the responsibility to do something"
+ },
+ {
+  "word": "keep",
+  "phonetic": "ki:p",
+  "translation": "n. 生计, 维持, 保持\\nvt. 保持, 保存, 遵守, 看守, 整理, 维持, 履行, 经营, 拘留, 记帐\\nvi. 保持, 继续不断",
+  "definition": "n. the main tower within the walls of a medieval castle or fortress\\nv. keep in a certain state, position, or activity; e.g., \"keep clean\"\\nv. retain possession of\\nv. look after; be the keeper of; have charge of"
+ },
+ {
+  "word": "loyal",
+  "phonetic": "'lɒiәl",
+  "translation": "a. 忠诚的, 忠实的, 忠贞的",
+  "definition": "a. steadfast in allegiance or duty"
+ },
+ {
+  "word": "man",
+  "phonetic": "mæn",
+  "translation": "n. 男人, 人类, 人\\nvt. 为...配备人手, 操纵, 使振奋\\n[计] 城域网, 手册",
+  "definition": "n. an adult person who is male (as opposed to a woman)\\nn. the generic use of the word to refer to any human being\\nn. a male subordinate\\nn. an adult male person who has a manly character (virile and courageous competent)"
+ },
+ {
+  "word": "manner",
+  "phonetic": "'mænә",
+  "translation": "n. 样子, 礼貌, 风格\\n[法] 方式, 方法, 样式",
+  "definition": "n. how something is done or how it happens\\nn. a way of acting or behaving\\nn. a kind"
+ },
+ {
+  "word": "order",
+  "phonetic": "'ɒ:dә",
+  "translation": "n. 次序, 规则, 命令\\nvi. 命令, 定货\\nvt. 整理, 命令, 定购\\nn. 顺序, 阶数\\n[计] 顺序, 阶数",
+  "definition": "n. (often plural) a command given by a superior (e.g., a military or law enforcement officer) that must be obeyed\\nn. a degree in a continuum of size or quantity\\nn. established customary state (especially of society)\\nn. a commercial document used to request someone to supply something in return for payment and providing specifications and quantities"
+ },
+ {
+  "word": "require",
+  "phonetic": "ri'kwaiә",
+  "translation": "vt. 需要, 命令, 要求\\n[法] 需要, 要求, 命令",
+  "definition": "v require as useful, just, or proper\\nv consider obligatory; request and expect\\nv make someone do something\\nv have need of"
+ },
+ {
+  "word": "responsible",
+  "phonetic": "ri'spɒnsәbl",
+  "translation": "a. 有责任的, 负责的, 责任重大的\\n[法] 应负责任的, 有责任的, 能履行责任的",
+  "definition": "a. worthy of or requiring responsibility or trust; or held accountable\\ns. being the agent or cause"
+ },
+ {
+  "word": "rise",
+  "phonetic": "raiz",
+  "translation": "n. 上升, 增加, 上涨, 高地, 升高, 出现\\nvi. 升起, 起身, 起立, 上升, 上涨, 增长, 高耸, 起义, 浮现\\nvt. 使飞起",
+  "definition": "n. a growth in strength or number or importance\\nn. the act of changing location in an upward direction\\nn. a movement upward\\nn. an increase in cost"
+ },
+ {
+  "word": "accordingly",
+  "phonetic": "ә'kɒ:diŋli",
+  "translation": "adv. 相应地, 因此, 于是",
+  "definition": "r. in accordance with"
+ },
+ {
+  "word": "act",
+  "phonetic": "ækt",
+  "translation": "n. 行动, 行为, 幕, 法案\\nvi. 行动, 表演, 假装, 见效, 表现, 担当\\nvt. 扮演, 装作\\n[计] 先进通信技术, 先进计算机工艺, 自动代码翻译技术",
+  "definition": "n. a legal document codifying the result of deliberations of a committee or society or legislative body\\nn. something that people do or cause to happen\\nn. a subdivision of a play or opera or ballet\\nn. a short theatrical performance that is part of a longer program"
+ },
+ {
+  "word": "actions",
+  "phonetic": "",
+  "translation": "n. 动作；行动（action的复数）",
+  "definition": "n something done (usually as opposed to something said)\\nn the state of being active\\nn a military engagement\\nn a process existing in or produced by nature (rather than by the intent of human beings)\\nn the series of events that form a plot\\nn the trait of being active and energetic and forceful\\nn the operating part that transmits power to a mechanism\\nn a judicial proceeding brought by one party against another; one party prosecutes another for a wrong done or for protection of a right or for prevention of a wrong\\nn an act by a government body or supranational organization\\nn the most important or interesting work or activity in a specific area or field\\nv institute legal proceedings against; file a suit against\\nv put in effect"
+ },
+ {
+  "word": "administering",
+  "phonetic": "",
+  "translation": "[法] 管理, 执行, 实施",
+  "definition": "v work in an administrative capacity; supervise or be in charge of\\nv perform (a church sacrament) ritually\\nv administer or bestow, as in small portions\\nv give or apply (medications)\\nv direct the taking of"
+ },
+ {
+  "word": "administration",
+  "phonetic": "әd.mini'streiʃәn",
+  "translation": "n. 行政, 管理, 政府机关\\n[化] 给药",
+  "definition": "n. a method of tending to or managing the affairs of a some group of people (especially the group's business affairs)\\nn. the persons (or committees or departments etc.) who make up a body for the purpose of administering something\\nn. the act of administering medication\\nn. the act of meting out justice according to the law"
+ },
+ {
+  "word": "administrators",
+  "phonetic": "",
+  "translation": "n. 管理员；完全程序（administrator的复数形式）",
+  "definition": "n someone who administers a business\\nn the party appointed by a probate court to distribute the estate of someone who dies without a will or without naming an executor\\nn someone who manages a government agency or department"
+ },
+ {
+  "word": "amount",
+  "phonetic": "ә'maunt",
+  "translation": "n. 总数, 总额\\nvi. 总计, 等同",
+  "definition": "n. the relative magnitude of something with reference to a criterion\\nv. be tantamount or equivalent to"
+ },
+ {
+  "word": "analogous",
+  "phonetic": "ә'nælәgәs",
+  "translation": "a. 类似的, 相似的\\n[医] 类似的, 类同的",
+  "definition": "s. similar or equivalent in some respects though otherwise dissimilar\\na. corresponding in function but not in evolutionary origin"
+ },
+ {
+  "word": "another",
+  "phonetic": "ә'nʌðә",
+  "translation": "a. 另外的, 再一的, 不同的\\npron. 又一个, 另一个, 类似的另一个",
+  "definition": "s. any of various alternatives; some other"
+ },
+ {
+  "word": "backward",
+  "phonetic": "'bækwәd",
+  "translation": "adv. 向后地, 相反地\\na. 向后的, 相反的\\n[计] 倒推",
+  "definition": "a. directed or facing toward the back or rear\\na. (used of temperament or behavior) marked by a retiring nature\\ns. retarded in intellectual development\\ns. having made less than normal progress"
+ },
+ {
+  "word": "because",
+  "phonetic": "bi'kɒ:z",
+  "translation": "conj. 因为",
+  "definition": "conj. By or for the cause that; on this account that; for the\\n   reason that.\\nconj. In order that; that."
+ },
+ {
+  "word": "best",
+  "phonetic": "best",
+  "translation": "a. 最好的\\nadv. 最好地\\nn. 最好的人",
+  "definition": "n. the supreme effort one can make\\nn. the person who is most outstanding or excellent; someone who tops all others\\nn. Canadian physiologist (born in the United States) who assisted F. G. Banting in research leading to the discovery of insulin (1899-1978)"
+ },
+ {
+  "word": "cannot",
+  "phonetic": "'kænɒt",
+  "translation": "aux. 无法, 不能",
+  "definition": " Am, is, or are, not able; -- written either as one word or\\n   two."
+ },
+ {
+  "word": "certain",
+  "phonetic": "'sә:tәn",
+  "translation": "a. 确定的, 某一个的, 必然的\\n[法] 确凿的, 无疑的, 可靠的",
+  "definition": "s. definite but not specified or identified\\na. having or feeling no doubt or uncertainty; confident and assured\\na. established beyond doubt or question; definitely known\\na. certain to occur; destined or inevitable"
+ },
+ {
+  "word": "checkers",
+  "phonetic": "'tʃekәz",
+  "translation": "n. 国际跳棋",
+  "definition": "n. a checkerboard game for two players who each have 12 pieces; the object is to jump over and so capture the opponent's pieces"
+ },
+ {
+  "word": "civil",
+  "phonetic": "'sivәl",
+  "translation": "a. 市民的, 公民的, 有礼貌的\\n[法] 公民的, 国民的, 民用的",
+  "definition": "s. applying to ordinary citizens as contrasted with the military\\na. not rude; marked by satisfactory (or especially minimal) adherence to social usages and sufficient but not noteworthy consideration for others\\na. of or occurring within the state or between or among citizens of the state\\na. of or relating to or befitting citizens as individuals"
+ },
+ {
+  "word": "comparing",
+  "phonetic": "",
+  "translation": "[计] 比较器",
+  "definition": "n the act of examining resemblances\\nv examine and note the similarities or differences of\\nv be comparable\\nv consider or describe as similar, equal, or analogous\\nv to form the comparative or superlative form on an adjective or adverb"
+ },
+ {
+  "word": "concerned",
+  "phonetic": "kәn'sә:nd",
+  "translation": "a. 关心的, 有关的, 参与的, 担心的",
+  "definition": "a. feeling or showing worry or solicitude\\ns. involved in or affected by or having a claim to or share in"
+ },
+ {
+  "word": "control",
+  "phonetic": "kәn'trәul",
+  "translation": "n. 控制, 管理, 克制, 控制器, 操纵装置\\nvt. 控制, 操纵, 抑制\\n[计] 控制; 控制器",
+  "definition": "n. power to direct or determine\\nn. a relation of constraint of one entity (thing or person or group) by another\\nn. (physiology) regulation or maintenance of a function or action or reflex etc\\nn. the activity of managing or exerting control over something"
+ },
+ {
+  "word": "developing",
+  "phonetic": "di'velәpiŋ",
+  "translation": "a. 发展中的\\n[计] 显影",
+  "definition": "s. relating to societies in which capital needed to industrialize is in short supply"
+ },
+ {
+  "word": "directly",
+  "phonetic": "di'rektli, dai'rektli",
+  "translation": "adv. 径直地, 直接地, 直率地, 正好地, 直截了当地, (非正式)立即, 马上\\nconj. 一...(就...), 一当...就...\\n[计] 直接的",
+  "definition": "r. without deviation\\nr. without anyone or anything intervening\\nr. in a forthright manner; candidly or frankly"
+ },
+ {
+  "word": "distribute",
+  "phonetic": "di'stribju:t",
+  "translation": "vt. 分配, 散布, 分发\\n[经] 分配, 分发",
+  "definition": "v. administer or bestow, as in small portions\\nv. make available\\nv. give to several people\\nv. spread throughout a given area"
+ },
+ {
+  "word": "dividends",
+  "phonetic": "'dɪvɪdendz",
+  "translation": "n. 红利( dividend的复数形式 ); 股息; 被除数; （足球彩票的）彩金",
+  "definition": "n. that part of the earnings of a corporation that is distributed to its shareholders; usually paid quarterly\\nn. a number to be divided by another number\\nn. a bonus; something extra (especially a share of a surplus)"
+ },
+ {
+  "word": "doing",
+  "phonetic": "'du:iŋ",
+  "translation": "n. 行为, 活动",
+  "definition": "v engage in\\nv carry out or perform an action\\nv get (something) done\\nv proceed or get along\\nv give rise to; cause to happen or occur, not always intentionally\\nv carry out or practice; as of jobs and professions\\nv be sufficient; be adequate, either in quality or quantity\\nv create or design, often in a certain way\\nv behave in a certain manner; show a certain behavior; conduct or comport oneself\\nv spend time in prison or in a labor camp\\nv carry on or function\\nv arrange attractively\\nv travel or traverse (a distance)"
+ },
+ {
+  "word": "earnings",
+  "phonetic": "'ә:niŋ",
+  "translation": "n. 所赚的钱, 工资, 收入\\n[经] 工资, 收入, 收益, 盈余",
+  "definition": "n the excess of revenues over outlays in a given period of time (including depreciation and other non-cash expenses)\\nn something that remunerates\\nv earn on some commercial or business transaction; earn as salary or wages\\nv acquire or deserve by one's efforts or actions"
+ },
+ {
+  "word": "economic",
+  "phonetic": ".i:kә'nɒmik",
+  "translation": "a. 经济上的, 实用的, 节省的\\n[经] 经济的",
+  "definition": "a. of or relating to an economy, the system of production and management of material wealth\\na. of or relating to the science of economics\\ns. using the minimum of time or resources necessary for effectiveness\\ns. concerned with worldly necessities of life (especially money)"
+ },
+ {
+  "word": "else",
+  "phonetic": "els",
+  "translation": "a. 别的, 其他的\\nadv. 另外, 否则, 不然",
+  "definition": "a. & pron. Other; one or something beside; as, Who else is\\n   coming? What else shall I give? Do you expect anything else?\\nadv. & conj. Besides; except that mentioned; in addition; as,\\n   nowhere else; no one else.\\nadv. & conj. Otherwise; in the other, or the contrary, case; if\\n   the facts were different."
+ },
+ {
+  "word": "everyone",
+  "phonetic": "'evriwʌn",
+  "translation": "pron. 每个人, 人人\\n[计] 系统中的一个组名",
+  "definition": "n. Everybody; -- commonly separated, every one."
+ },
+ {
+  "word": "exercise",
+  "phonetic": "'eksәsaiz",
+  "translation": "n. 行使, 执行, 运动, 练习, 作业\\nvt. 运用, 练习, 运动\\nvi. 练习, 锻炼",
+  "definition": "n. the activity of exerting your muscles in various ways to keep fit\\nn. systematic training by multiple repetitions\\nn. a task performed or problem solved in order to develop skill or understanding\\nn. (usually plural) a ceremony that involves processions and speeches"
+ },
+ {
+  "word": "expenses",
+  "phonetic": "",
+  "translation": "n. 开支, 经费, 费用\\n[法] 开支, 支出, 经费",
+  "definition": "n amounts paid for goods and services that may be currently tax deductible (as opposed to capital expenditures)\\nn a detriment or sacrifice\\nn money spent to perform work and usually reimbursed by an employer\\nv reduce the estimated value of something"
+ },
+ {
+  "word": "factor",
+  "phonetic": "'fæktә",
+  "translation": "n. 因素, 因数, 系数, 基因, 代理人\\n[计] 因式",
+  "definition": "n. anything that contributes causally to a result\\nn. any of the numbers (or symbols) that form a product when multiplied together\\nn. an independent variable in statistics\\nv. resolve into factors"
+ },
+ {
+  "word": "fall",
+  "phonetic": "fɒ:l",
+  "translation": "n. 落下, 瀑布, 采伐量, 下降, 落差, 降低, 堕落, 秋天\\nvi. 倒下, 落下, 来临, 失守, 阵亡, 下跌, 减弱, 倾斜, 垮台, 轮到, 变成, 降低\\na. 秋天的",
+  "definition": "n. the season when the leaves fall from the trees\\nn. the lapse of mankind into sinfulness because of the sin of Adam and Eve\\nn. a lapse into sin; a loss of innocence or of chastity\\nn. a sudden decline in strength or number or importance"
+ },
+ {
+  "word": "falls",
+  "phonetic": "fɔ:ls",
+  "translation": "n. 瀑布；陨石",
+  "definition": "n. the petals or sepals of a flower that bend downward (especially the outer perianth of an iris)"
+ },
+ {
+  "word": "firm",
+  "phonetic": "fә:m",
+  "translation": "n. 公司, 商号\\na. 坚定的, 坚强的, 牢固的, 结实的, 坚硬的, 坚挺的, 严格的, 确定的\\nvt. 使牢固, 使坚定\\nvi. 变稳固, 变坚实\\nadv. 稳固地",
+  "definition": "n. the members of a business organization that owns or operates one or more establishments\\ns. marked by firm determination or resolution; not shakable\\ns. not soft or yielding to pressure\\ns. strong and sure"
+ },
+ {
+  "word": "foremen",
+  "phonetic": "",
+  "translation": "[经管] 工长\\n工头",
+  "definition": "n a person who exercises control over workers\\nn a man who is foreperson of a jury"
+ },
+ {
+  "word": "forgotten",
+  "phonetic": "fә'gɒtn",
+  "translation": "forget的过去分词",
+  "definition": "v dismiss from the mind; stop remembering\\nv be unable to remember\\nv forget to do something\\nv leave behind unintentionally\\ns not noticed inadvertently"
+ },
+ {
+  "word": "future",
+  "phonetic": "'fju:tʃә",
+  "translation": "n. 未来, 将来\\na. 将来的, 未来的",
+  "definition": "n. the time yet to come\\nn. a verb tense that expresses actions or states in the future\\nn. bulk commodities bought or sold at an agreed price for delivery at a specified future date\\na. yet to be or coming"
+ },
+ {
+  "word": "having",
+  "phonetic": "'hæviŋ",
+  "translation": "n. 财产, 所有物",
+  "definition": "v have or possess, either in a concrete or an abstract sense\\nv have as a feature\\nv go through (mental or physical states or experiences)\\nv have ownership or possession of\\nv cause to move; cause to be in a certain position or condition\\nv serve oneself to, or consume regularly\\nv have a personal or business relationship with someone\\nv organize or be responsible for\\nv have left\\nv be confronted with\\nv undergo\\nv suffer from; be ill with\\nv cause to do; cause to act in a specified manner\\nv receive willingly something given or offered\\nv get something; come into possession of\\nv undergo (as of injuries and illnesses)\\nv achieve a point or goal\\nv cause to be born\\nv have sex with; archaic use"
+ },
+ {
+  "word": "hold",
+  "phonetic": "hәuld",
+  "translation": "n. 把握, 把持力, 柄, 控制, 掌握, 监禁\\nvt. 保存, 握住, 拿住, 占据, 持有, 拥有\\nvi. 支持, 持续, 有效\\nn. 保留\\n[计] 保留",
+  "definition": "n. power by which something or someone is affected or dominated\\nn. a stronghold\\nn. a cell in a jail or prison\\nv. have or hold in one's hands or grip"
+ },
+ {
+  "word": "illustrated",
+  "phonetic": "'ilәstreitid",
+  "translation": "n. 有插画的报章杂志",
+  "definition": "v clarify by giving an example of\\nv depict with an illustration\\nv supply with illustrations"
+ },
+ {
+  "word": "important",
+  "phonetic": "im'pɒ:tәnt",
+  "translation": "a. 重要的, 有地位的, 大量的, 显要的, 自负的\\n[计] 要点",
+  "definition": "a. of great significance or value\\ns. having or suggesting a consciousness of high position"
+ },
+ {
+  "word": "increases",
+  "phonetic": "inˈkri:siz",
+  "translation": "n. 增加量( increase的名词复数 )\\nv. 增加, 增大, 增多( increase的第三人称单数 ); 增强, 增进; [缝纫]放（针）; 增强",
+  "definition": "n a quantity that is added\\nn a change resulting in an increase\\nn a process of becoming larger or longer or more numerous or more important\\nn the amount by which something increases\\nn the act of increasing something\\nv become bigger or greater in amount\\nv make bigger or more"
+ },
+ {
+  "word": "initiative",
+  "phonetic": "i'niʃiәtiv",
+  "translation": "n. 主动行动, 首创精神, 主动权\\na. 自发的, 起始的",
+  "definition": "n readiness to embark on bold new ventures\\nn the first of a series of actions\\ns serving to set in motion"
+ },
+ {
+  "word": "invest",
+  "phonetic": "in'vest",
+  "translation": "vt. 投资, 花费, 笼罩, 授予\\nvi. 投资, 利用",
+  "definition": "v. make an investment\\nv. furnish with power or authority; of kings or emperors\\nv. provide with power and authority"
+ },
+ {
+  "word": "keeping",
+  "phonetic": "'ki:piŋ",
+  "translation": "n. 保管, 供养, 一致\\n[法] 保管, 保护, 管理",
+  "definition": "n. conformity or harmony"
+ },
+ {
+  "word": "kind",
+  "phonetic": "kaind",
+  "translation": "n. 种类, 性质, 方式\\na. 亲切的, 仁慈的, 和蔼的",
+  "definition": "n. a category of things distinguished by some common characteristic or quality\\na. having or showing a tender and considerate and helpful nature; used especially of persons and their behavior\\ns. agreeable, conducive to comfort\\ns. tolerant and forgiving under provocation"
+ },
+ {
+  "word": "left",
+  "phonetic": "left",
+  "translation": "a. 左边的, 左倾的, 左侧的, 左派的\\nadv. 在左面\\nn. 左, 左面, 左派\\nleave的过去式和过去分词",
+  "definition": "n. location near or direction toward the left side; i.e. the side to the north when a person or object faces east\\nn. those who support varying degrees of social or political or economic change designed to promote the public welfare\\nn. the hand that is on the left side of the body\\nn. a turn toward the side of the body that is on the north when the person is facing east"
+ },
+ {
+  "word": "less",
+  "phonetic": "les",
+  "translation": "n. 较少, 较小\\na. 少的, 小的\\nadv. 较少, 较小, 较差\\n[计] 最低成本估算与调度法",
+  "definition": "a. (comparative of `little' usually used with mass nouns) a quantifier meaning not as great in amount or degree\\ns. (usually preceded by `no') lower in quality\\ns. (nonstandard in some uses but often idiomatic with measure phrases) fewer\\nr. used to form the comparative of some adjectives and adverbs"
+ },
+ {
+  "word": "lesson",
+  "phonetic": "'lesn",
+  "translation": "n. 课, 课业, 教训",
+  "definition": "n. a unit of instruction\\nn. a task assigned for individual study"
+ },
+ {
+  "word": "line",
+  "phonetic": "lain",
+  "translation": "n. 列, 线, 绳, 电线, 线路, 路线, 航线, 作业线, 界线, 战线, 外形, 排, 家系\\nvt. 排成一行, 顺...排列, 划线于, 加衬里, 使有线条, 使起皱纹\\nvi. 排队\\n[计] 线路",
+  "definition": "n. a formation of people or things one beside another\\nn. a mark that is long relative to its width\\nn. a formation of people or things one behind another\\nn. a length (straight or curved) without breadth or thickness; the trace of a moving point"
+ },
+ {
+  "word": "looking",
+  "phonetic": "'lukiŋ",
+  "translation": "a. 有…相貌的；有…样子的",
+  "definition": "n. the act of searching visually\\ns. appearing to be as specified; usually used as combining forms"
+ },
+ {
+  "word": "managing",
+  "phonetic": "'mænidʒiŋ",
+  "translation": "a. 管理的, 节约的\\n[法] 管理的, 主管的, 善于经营的",
+  "definition": "v be successful; achieve a goal\\nv be in charge of, act on, or dispose of\\nv come to terms with\\nv watch and direct\\nv achieve something by means of trickery or devious methods\\nv carry on or function\\nv handle effectively"
+ },
+ {
+  "word": "meeting",
+  "phonetic": "'mi:tiŋ",
+  "translation": "n. 会议, 会面\\n[法] 会议, 会谈, 集会",
+  "definition": "n. a formally arranged gathering\\nn. a small informal social gathering\\nn. a casual or unexpected convergence\\nn. the social act of assembling for some common purpose"
+ },
+ {
+  "word": "money",
+  "phonetic": "'mʌni",
+  "translation": "n. 金钱, 一笔款, 财富, 货币, 金额\\n[经] 货币, 金钱, 财产",
+  "definition": "n. the most common medium of exchange; functions as legal tender\\nn. wealth reckoned in terms of money\\nn. the official currency issued by a government or national bank"
+ },
+ {
+  "word": "necessary",
+  "phonetic": "'nesisәri",
+  "translation": "a. 必要的；必然的；必需的",
+  "definition": "a. absolutely essential\\ns. unavoidably determined by prior circumstances"
+ },
+ {
+  "word": "police",
+  "phonetic": "pә'li:s",
+  "translation": "n. 警察, 警察当局, 治安\\nvt. 维持治安, 管辖",
+  "definition": "n. the force of policemen and officers"
+ },
+ {
+  "word": "poor",
+  "phonetic": "puә. pɒ:",
+  "translation": "a. 贫穷的, 贫乏的, 不幸的, 可怜的, 拙劣的, 卑鄙的\\n[经] 低劣的, 不良的",
+  "definition": "a. having little money or few possessions\\na. characterized by or indicating poverty\\na. lacking in specific resources, qualities or substances\\ns. unsatisfactory"
+ },
+ {
+  "word": "position",
+  "phonetic": "pә'ziʃәn",
+  "translation": "n. 位置, 地位, 身分, 形势, 姿势, 立场, 职位, 状态, 阵地\\nvt. 安置, 决定...的位置\\n[计] 位置",
+  "definition": "n. the particular portion of space occupied by something\\nn. a way of regarding situations or topics etc.\\nn. the arrangement of the body and its limbs\\nn. a job in an organization"
+ },
+ {
+  "word": "precisely",
+  "phonetic": "pri'saisli",
+  "translation": "adv. 精确地, 明确地, 刻板地, 拘泥地, 正好, 恰恰, 对, 正是如此, 确实如此, 不错",
+  "definition": "r. indicating exactness or preciseness\\nr. in a precise manner\\nr. just as it should be"
+ },
+ {
+  "word": "private",
+  "phonetic": "'praivit",
+  "translation": "a. 私人的, 秘密的, 私立的, 隐蔽的\\nn. 士兵, 隐士, 阴部\\n[计] 私人的",
+  "definition": "n. an enlisted man of the lowest rank in the Army or Marines\\na. confined to particular persons or groups or providing privacy\\ns. concerning things deeply private and personal"
+ },
+ {
+  "word": "progress",
+  "phonetic": "'prәugres",
+  "translation": "n. 进步, 发展, 前进\\nvi. 进步, 进行",
+  "definition": "n. the act of moving forward (as toward a goal)\\nn. a movement forward\\nv. develop in a positive way"
+ },
+ {
+  "word": "promotes",
+  "phonetic": "prəˈməuts",
+  "translation": "v. <正>促进( promote的第三人称单数 ); 提升; 推销; 使 （学生）升级",
+  "definition": "v contribute to the progress or growth of\\nv give a promotion to or assign to a higher position\\nv make publicity for; try to sell (a product)\\nv be changed for a superior chess or checker piece\\nv change a pawn for a better piece by advancing it to the eighth row, or change a checker piece for a more valuable piece by moving it to the row closest to your opponent"
+ },
+ {
+  "word": "purposes",
+  "phonetic": "",
+  "translation": "n. 目的；意志（purpose的复数形式）",
+  "definition": "n an anticipated outcome that is intended or that guides your planned actions\\nn what something is used for\\nn the quality of being determined to do or achieve something; firmness of purpose\\nv propose or intend\\nv reach a decision"
+ },
+ {
+  "word": "reduces",
+  "phonetic": "",
+  "translation": "v. 减少；降低；将…归纳；折合（reduce的第三人称单数形式）",
+  "definition": "v cut down on; make a reduction in\\nv make less complex\\nv bring to humbler or weaker state or condition\\nv simplify the form of a mathematical equation of expression by substituting one term for another\\nv lower in grade or rank or force somebody into an undignified situation\\nv be the essential element\\nv reduce in size; reduce physically\\nv lessen and make more modest\\nv make smaller\\nv to remove oxygen from a compound, or cause to react with hydrogen or form a hydride, or to undergo an increase in the number of electrons\\nv narrow or limit\\nv put down by force or intimidation\\nv undergo meiosis\\nv reposition (a broken bone after surgery) back to its normal site\\nv destress and thus weaken a sound when pronouncing it\\nv reduce in scope while retaining essential elements\\nv be cooked until very little liquid is left\\nv cook until very little liquid is left\\nv lessen the strength or flavor of a solution or mixture\\nv take off weight"
+ },
+ {
+  "word": "relied",
+  "phonetic": "riˈlaid",
+  "translation": "v. 信任( rely的过去式和过去分词 ); 信赖; 依赖; 依靠",
+  "definition": "imp. & p. p. of Rely"
+ },
+ {
+  "word": "report",
+  "phonetic": "ri'pɒ:t",
+  "translation": "n. 报告, 报道, 传说, 案情报告, 爆炸声, 成绩单\\nvt. 报告, 汇报, 转述, 报道, 揭发, 使报到\\nvi. 报告, 写报道, 报到\\n[计] 报告",
+  "definition": "n. a written document describing the findings of some individual or group\\nn. the act of informing by verbal report\\nn. a short account of the news\\nn. a sharp explosive sound (especially the sound of a gun firing)"
+ },
+ {
+  "word": "responsibilities",
+  "phonetic": "",
+  "translation": "n. 责任；职责（responsibility的复数）",
+  "definition": "n the social force that binds you to the courses of action demanded by that force; every opportunity, an obligation; every possession, a duty\"- John D.Rockefeller Jr\\nn the proper sphere or extent of your activities\\nn a form of trustworthiness; the trait of being answerable to someone for something or being responsible for one's conduct"
+ },
+ {
+  "word": "running",
+  "phonetic": "'rʌniŋ",
+  "translation": "n. 赛跑, 流出, 运转\\na. 流动的, 跑着的, 连续的",
+  "definition": "n. the state of being in operation\\nn. the act of administering or being in charge of something\\na. (of fluids) moving or issuing in a stream\\ns. continually repeated over a period of time"
+ },
+ {
+  "word": "servants",
+  "phonetic": "'sɜ:vənts",
+  "translation": "n. 仆人( servant的复数形式 ); 雇员; 奴仆般受制（或献身）于…的人; 服务于…的事物",
+  "definition": "n. a person working in the service of another (especially in the household)\\nn. in a subordinate position"
+ },
+ {
+  "word": "small",
+  "phonetic": "smɒ:l",
+  "translation": "a. 小的, 少的, 小型的, 低微的, 小气的, 细微的\\nadv. 些微地\\nn. 狭小部分",
+  "definition": "n. the slender part of the back\\nn. a garment size for a small person\\na. limited or below average in number or quantity or magnitude or extent\\ns. slight or limited; especially in degree or intensity or scope"
+ },
+ {
+  "word": "someone",
+  "phonetic": "'sʌmwʌn",
+  "translation": "pron. 有人, 某人",
+  "definition": "n a human being"
+ },
+ {
+  "word": "sphere",
+  "phonetic": "sfiә",
+  "translation": "n. 球, 球面, 球体, 天体, 地球仪, 范围\\nvt. 包围, 使成球体, 放入球内",
+  "definition": "n. a particular environment or walk of life\\nn. any spherically shaped artifact\\nn. the geographical area in which one nation is very influential\\nn. a solid figure bounded by a spherical surface (including the space it encloses)"
+ },
+ {
+  "word": "stay",
+  "phonetic": "stei",
+  "translation": "n. 停留, 逗留, 制止, 延缓, 停止, 支柱, 支撑物, 支索\\nvt. 制止, 延缓, 坚持, 支持, 支撑, 用支索固定\\nvi. 停留, 逗留, 暂停, 坚持, 中止",
+  "definition": "n. continuing or remaining in a place or state\\nn. a judicial order forbidding some action until an event occurs or the order is lifted\\nn. a thin strip of metal or bone that is used to stiffen a garment (e.g. a corset)\\nn. (nautical) brace consisting of a heavy rope or wire cable used as a support for a mast or spar"
+ },
+ {
+  "word": "sure",
+  "phonetic": "ʃuә",
+  "translation": "a. 确信, 必然的, 必定的\\nadv. 当然, 确实地, 无疑地",
+  "definition": "s. physically secure or dependable\\ns. (of persons) worthy of trust or confidence\\ns. infallible or unfailing\\ns. certain not to fail"
+ },
+ {
+  "word": "take",
+  "phonetic": "teik",
+  "translation": "vt. 拿, 取, 抓, 带领, 获得, 就座, 接受, 吃, 吸引, 采取, 乘, 需要, 花费\\nvi. 吃掉对方棋子, 抓住, 起作用, 依法获得财产\\nn. 拿, 取, 收成, 奏效",
+  "definition": "n. the act of photographing a scene or part of a scene without interruption\\nv. carry out\\nv. require (time or space)\\nv. get into one's hands, take physically"
+ },
+ {
+  "word": "therefore",
+  "phonetic": "'ðєәfɒ:",
+  "translation": "adv. 因此, 所以",
+  "definition": "r. (used to introduce a logical conclusion) from that fact or reason or as a result"
+ },
+ {
+  "word": "together",
+  "phonetic": "tә'geðә",
+  "translation": "adv. 一起, 共同, 彼此",
+  "definition": "s. mentally and emotionally stable\\nr. in contact with each other or in proximity\\nr. assembled in one place\\nr. in each other's company"
+ },
+ {
+  "word": "towards",
+  "phonetic": "tә'wɔ:dz",
+  "translation": "prep. 向, 对于, 为了",
+  "definition": "prep. In the direction of; to.\\nprep. With direction to, in a moral sense; with respect or\\n   reference to; regarding; concerning.\\nprep. Tending to; in the direction of; in behalf of.\\nprep. Near; about; approaching to.\\nadv. Near; at hand; in state of preparation.\\nprep. & adv. See Toward."
+ },
+ {
+  "word": "unduly",
+  "phonetic": ".ʌn'dju:li",
+  "translation": "adv. 不适当地, 过度地\\n[法] 过分的, 过度的, 不正当的",
+  "definition": "r. to an undue degree"
+ },
+ {
+  "word": "upon",
+  "phonetic": "ә'pɒn",
+  "translation": "prep. 在...之上, 迫近, 紧接着",
+  "definition": "prep. On; -- used in all the senses of that word, with which it\\n   is interchangeable."
+ },
+ {
+  "word": "used",
+  "phonetic": "'ju:st",
+  "translation": "a. 使用过的, 二手的, 习惯的",
+  "definition": "a. employed in accomplishing something"
+ },
+ {
+  "word": "watch",
+  "phonetic": "wɒtʃ",
+  "translation": "n. 观察, 手表, 看守, 守护, 监视, 值班人\\nvt. 看, 注视, 照顾, 看守, 守护, 监视\\nvi. 观看, 注视, 守侯",
+  "definition": "n. a small portable timepiece\\nn. a period of time (4 or 2 hours) during which some of a ship's crew are on duty\\nn. a purposeful surveillance to guard or observe\\nn. the period during which someone (especially a guard) is on duty"
+ },
+ {
+  "word": "way",
+  "phonetic": "wei",
+  "translation": "n. 路, 路线, 路途, 方法, 道路, 情形, 规模, 习惯, 行业, 方面\\nadv. 远远地, 非常",
+  "definition": "n. the condition of things generally\\nn. a course of conduct\\nn. any artifact consisting of a road or path affording passage from one place to another\\nn. a journey or passage"
+ },
+ {
+  "word": "what",
+  "phonetic": "hwɒt",
+  "translation": "pron. 什么\\ninterj. 怎么, 多么\\na. 什么的\\nadv. 到什么程度",
+  "definition": "pron., a., & adv. As an interrogative pronoun, used in asking\\n   questions regarding either persons or things; as, what is this? what\\n   did you say? what poem is this? what child is lost?\\npron., a., & adv. As an exclamatory word: -- (a) Used absolutely\\n   or independently; -- often with a question following.\\npron., a., & adv. Used adjectively, meaning how remarkable, or\\n   how great; as, what folly! what eloquence! what courage!\\npron., a., & adv. Sometimes prefixed to adjectives in an\\n   adverbial sense, as nearly equivalent to how; as, what happy boys!\\npron., a., & adv. As a relative pronoun\\npron., a., & adv. Used substantively with the antecedent\\n   suppressed, equivalent to that which, or those [persons] who, or those\\n   [things] which; -- called a compound relative.\\npron., a., & adv. Used adjectively, equivalent to the . . .\\n   which; the sort or kind of . . . which; rarely, the . . . on, or at,\\n   which.\\npron., a., & adv. Used adverbially in a sense corresponding to\\n   the adjectival use; as, he picked what good fruit he saw.\\npron., a., & adv. Whatever; whatsoever; what thing soever; --\\n   used indefinitely.\\npron., a., & adv. Used adverbially, in part; partly; somewhat;\\n   -- with a following preposition, especially, with, and commonly with\\n   repetition.\\nn. Something; thing; stuff.\\ninterrog. adv. Why? For what purpose? On what account?"
+ },
+ {
+  "word": "within",
+  "phonetic": "wi'ðin",
+  "translation": "n. 内部, 里头\\nadv. 在内部, 在内心里\\nprep. 在...之内",
+  "definition": "r on the inside"
+ },
+ {
+  "word": "without",
+  "phonetic": "wi'ðaut",
+  "translation": "prep. 没有, 不, 在...之外\\nadv. 在外面, 户外\\nn. 外面, 外部",
+  "definition": "prep. On or at the outside of; out of; not within; as,\\n   without doors.\\nprep. Out of the limits of; out of reach of; beyond.\\nprep. Not with; otherwise than with; in absence of,\\n   separation from, or destitution of; not with use or employment of;\\n   independently of; exclusively of; with omission; as, without labor;\\n   without damage.\\nconj. Unless; except; -- introducing a clause.\\nadv. On or art the outside; not on the inside; not within;\\n   outwardly; externally.\\nadv. Outside of the house; out of doors."
+ },
+ {
+  "word": "working",
+  "phonetic": "'wә:kiŋ",
+  "translation": "n. 工作, 运转, 劳动\\na. 工作的, 劳动的, 经营的, 抽搐的, 运转的",
+  "definition": "n. a mine or quarry that is being or has been worked\\ns. actively engaged in paid work\\ns. adequate for practical use; especially sufficient in strength or numbers to accomplish something\\ns. adopted as a temporary basis for further work"
+ }
+]

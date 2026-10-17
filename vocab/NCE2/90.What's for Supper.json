@@ -1,0 +1,457 @@
+[
+ {
+  "word": "fish",
+  "phonetic": "fiʃ",
+  "translation": "n. 鱼, 鱼肉, 鱼类, 接合板\\nvt. 钓, 钓鱼, 查出, 用接合板连接\\nvi. 捕鱼, 钓鱼, 用钩捞取, 摸索寻找",
+  "definition": "n. any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills\\nn. the flesh of fish used as food\\nv. seek indirectly\\nv. catch or try to catch fish or shellfish"
+ },
+ {
+  "word": "grow",
+  "phonetic": "grәu",
+  "translation": "vt. 种植, 使长满\\nvi. 生长, 变成, 发展",
+  "definition": "v. become larger, greater, or bigger; expand or gain\\nv. increase in size by natural process\\nv. cause to grow or develop\\nv. cultivate by growing, often involving improvements by means of agricultural techniques"
+ },
+ {
+  "word": "oil",
+  "phonetic": "ɒil",
+  "translation": "n. 油, 石油, 油画颜料\\nvt. 涂油于, 使融化成油状, 加油于\\nvi. 加燃油, 融化",
+  "definition": "n. a slippery or viscous liquid or liquefiable substance not miscible with water\\nn. oil paint containing pigment that is used by an artist\\nv. cover with oil, as if by rubbing"
+ },
+ {
+  "word": "rigs",
+  "phonetic": "riɡz",
+  "translation": "n. 船桅（或船帆等）的装置( rig的名词复数 ); 成套器械\\nv. 给（船、桅杆）装配帆及索具( rig的第三人称单数 ); 用临时替代材料迅速搭起; （用不正当手段）操纵; 垄断",
+  "definition": "n gear (including necessary machinery) for a particular enterprise\\nn a truck consisting of a tractor and trailer together\\nn formation of masts, spars, sails, etc., on a vessel\\nn a set of clothing (with accessories)\\nn gear used in fishing\\nn a vehicle with wheels drawn by one or more horses\\nn the act of swindling by some fraudulent scheme\\nv arrange the outcome of by means of deceit\\nv manipulate in a fraudulent manner\\nv connect or secure to\\nv equip with sails or masts"
+ },
+ {
+  "word": "water",
+  "phonetic": "'wɒ:tә",
+  "translation": "n. 水, 雨水, 海水, 水位, 水面, 流水\\nvt. 给...浇水, 供以水, 注入水, 使湿\\nvi. 流泪, 流口水, 加水\\na. 水的, 水上的, 水生的, 含水的",
+  "definition": "n. binary compound that occurs at room temperature as a clear colorless odorless tasteless liquid; freezes into ice below 0 degrees centigrade and boils above 100 degrees centigrade; widely used as a solvent\\nn. once thought to be one of four elements composing the universe (Empedocles)\\nn. a liquid necessary for the life of most animals and plants\\nv. supply with water, as with channels or ditches or streams"
+ },
+ {
+  "word": "divers",
+  "phonetic": "'daivәz",
+  "translation": "a. 各种不同的\\npron. 若干个, 好几个",
+  "definition": "s. many and different"
+ },
+ {
+  "word": "eat",
+  "phonetic": "i:t",
+  "translation": "v. 吃, 腐蚀",
+  "definition": "v. take in solid food\\nv. eat a meal; take a meal\\nv. worry or cause anxiety in a persistent way"
+ },
+ {
+  "word": "favourite",
+  "phonetic": "'feivәrit",
+  "translation": "n. 喜欢的事物\\na. 喜爱的, 宠爱的",
+  "definition": "n a competitor thought likely to win\\nn a special loved one\\nn something regarded with special favor or liking\\ns appealing to the general public\\ns preferred above all others and treated with partiality"
+ },
+ {
+  "word": "feet",
+  "phonetic": "fi:t",
+  "translation": "pl. 脚\\nn. 尺",
+  "definition": "n the part of the leg of a human being below the ankle joint\\nn a linear unit of length equal to 12 inches or a third of a yard\\nn the lower part of anything\\nn the pedal extremity of vertebrates other than human beings\\nn lowest support of a structure\\nn any of various organs of locomotion or attachment in invertebrates\\nn travel by walking\\nn a member of a surveillance team who works on foot or rides as a passenger\\nn an army unit consisting of soldiers who fight on foot\\nn (prosody) a group of 2 or 3 syllables forming the basic unit of poetic rhythm\\nn a support resembling a pedal extremity"
+ },
+ {
+  "word": "giant",
+  "phonetic": "'dʒaiәnt",
+  "translation": "n. 巨人, 大力士, 巨大怪物\\na. 庞大的, 巨大的",
+  "definition": "n. any creature of exceptional size\\nn. an unusually large enterprise\\nn. a very large person; impressive in size or qualities\\nn. someone or something that is abnormally large and powerful"
+ },
+ {
+  "word": "sea",
+  "phonetic": "si:",
+  "translation": "n. 海, 海洋, 海浪, 大量\\n[法] 海, 海洋",
+  "definition": "n. a division of an ocean or a large body of salt water partially enclosed by land\\nn. turbulent water with swells of considerable size"
+ },
+ {
+  "word": "warm",
+  "phonetic": "wɒ:m",
+  "translation": "a. 暖和的, 暖的, 温暖的, 热烈的, 兴奋的, 激烈的, 多情的, 色情的\\nvt. 使温暖, 弄热, 使兴奋, 使充满仇恨\\nvi. 变暖和, 变温暖, 取暖, 激动, 同情, 爱好\\nn. 暖, 保暖物",
+  "definition": "v. get warm or warmer\\nv. make warm or warmer\\na. having or producing a comfortable and agreeable degree of heat or imparting or maintaining heat\\na. psychologically warm; friendly and responsive"
+ },
+ {
+  "word": "work",
+  "phonetic": "wә:k",
+  "translation": "n. 工作, 劳动, 职业, 行为, 功, 作品, 成果, 产品, 工程\\nvi. 工作, 劳动, 做, 运转, 起作用, 被加工\\nvt. 使工作, 使转动, 开动, 使用, 经营, 使逐渐变得, 造成",
+  "definition": "n. activity directed toward making or doing something\\nn. a product produced or accomplished through the effort or activity or agency of a person or thing\\nn. (physics) a manifestation of energy; the transfer of energy from one physical system to another expressed as the product of a force and the distance through which it moves a body in the direction of that force\\nv. exert oneself by doing mental or physical work for a purpose or out of necessity"
+ },
+ {
+  "word": "absence",
+  "phonetic": "'æbsәns",
+  "translation": "n. 缺席, 缺乏, 没有\\n[医] 失神",
+  "definition": "n. the state of being absent\\nn. failure to be present\\nn. the time interval during which something or somebody is away\\nn. the occurrence of an abrupt, transient loss or impairment of consciousness (which is not subsequently remembered), sometimes with light twitching, fluttering eyelids, etc.; common in petit mal epilepsy"
+ },
+ {
+  "word": "always",
+  "phonetic": "'ɒ:lweiz",
+  "translation": "adv. 总是, 始终",
+  "definition": "r. at all times; all the time and on every occasion\\nr. at any time or in any event\\nr. forever; throughout all time"
+ },
+ {
+  "word": "around",
+  "phonetic": "ә'raund",
+  "translation": "prep. 包围, 在...周围, 四处\\nadv. 兜着圈子, 在附近, 到处",
+  "definition": "r. by a circular or circuitous route\\nr. in a circle or circular motion\\nr. to a particular destination either specified or understood\\nr. in circumference"
+ },
+ {
+  "word": "become",
+  "phonetic": "bi'kʌm",
+  "translation": "vi. 变成, 变得\\nvt. 适合",
+  "definition": "v. enter or assume a certain state or condition\\nv. undergo a change or development\\nv. come into existence\\nv. enhance the appearance of"
+ },
+ {
+  "word": "boats",
+  "phonetic": "",
+  "translation": "n. 船艇；船（boat的复数）",
+  "definition": "n a small vessel for travel on water\\nn a dish (often boat-shaped) for serving gravy or sauce\\nv ride in a boat on water"
+ },
+ {
+  "word": "britain",
+  "phonetic": "'britәn",
+  "translation": "n. 英国",
+  "definition": "n a monarchy in northwestern Europe occupying most of the British Isles; divided into England and Scotland and Wales and Northern Ireland; `Great Britain' is often used loosely to refer to the United Kingdom"
+ },
+ {
+  "word": "bumping",
+  "phonetic": "'bʌmpiŋ",
+  "translation": "[化] 暴沸; 迸沸\\n[医] ч沸",
+  "definition": "v knock against with force or violence\\nv come upon, as if by accident; meet with\\nv dance erotically or dance with the pelvis thrust forward\\nv assign to a lower position; reduce in rank\\nv remove or force from a position of dwelling previously occupied"
+ },
+ {
+  "word": "cages",
+  "phonetic": "keidʒz",
+  "translation": "n. 笼子( cage的名词复数 )",
+  "definition": "n an enclosure made or wire or metal bars in which birds or animals can be kept\\nn something that restricts freedom as a cage restricts movement\\nn United States composer of avant-garde music (1912-1992)\\nn the net that is the goal in ice hockey\\nn a movable screen placed behind home base to catch balls during batting practice\\nv confine in a cage"
+ },
+ {
+  "word": "caused",
+  "phonetic": "",
+  "translation": "v. 引起；使发生（cause的过去分词）",
+  "definition": "v give rise to; cause to happen or occur, not always intentionally\\nv cause to do; cause to act in a specified manner"
+ },
+ {
+  "word": "chips",
+  "phonetic": "tʃips",
+  "translation": "n. 炸土豆条；小木片；（作赌注用的）圆形筹码；缺口（chip的复数形式）",
+  "definition": "n strips of potato fried in deep fat\\nn a small fragment of something broken off from the whole\\nn a triangular wooden float attached to the end of a log line\\nn a piece of dried bovine dung\\nn a thin crisp slice of potato fried in deep fat\\nn a mark left after a small piece has been chopped or broken off of something\\nn a small disk-shaped counter used to represent money when gambling\\nn electronic equipment consisting of a small crystal of a silicon semiconductor fabricated to carry out a number of electronic functions in an integrated circuit\\nn (golf) a low running approach shot\\nn the act of chipping something\\nv break off (a piece from a whole)\\nv cut a nick into\\nv play a chip shot\\nv form by chipping\\nv break a small piece off from"
+ },
+ {
+  "word": "cod",
+  "phonetic": "kɒd",
+  "translation": "n. 鳕, 欺骗, 愚弄\\nv. 欺骗, 愚弄",
+  "definition": "n. lean white flesh of important North Atlantic food fish; usually baked or poached\\nn. major food fish of Arctic and cold-temperate waters"
+ },
+ {
+  "word": "comes",
+  "phonetic": "'kɔmis",
+  "translation": "v. 来自；从…来（come的三单形式）",
+  "definition": "n the thick white fluid containing spermatozoa that is ejaculated by the male genital tract\\nv move toward, travel toward something or somebody or approach something or somebody\\nv reach a destination; arrive by movement or progress\\nv come to pass; arrive, as in due course\\nv reach or enter a state, relation, condition, use, or position\\nv to be the product or result\\nv be found or available; The furniture comes unassembled\"\\nv come forth\\nv be a native of\\nv extend or reach\\nv exist or occur in a certain point in a series\\nv cover a certain distance\\nv come under, be classified or included\\nv happen as a result\\nv add up in number or quantity\\nv develop into\\nv be received\\nv come to one's mind; suggest itself\\nv come from; be connected by a relationship of blood, for example\\nv proceed or get along\\nv experience orgasm\\nv have a certain priority"
+ },
+ {
+  "word": "crews",
+  "phonetic": "",
+  "translation": "n. 一起工作的人, 一群做同一工作的人",
+  "definition": "n the men and women who man a vehicle (ship, aircraft, etc.)\\nn an organized group of workmen\\nn an informal body of friends\\nn the team of men manning a racing shell\\nv serve as a crew member on"
+ },
+ {
+  "word": "darkness",
+  "phonetic": "'dɑ:knis",
+  "translation": "n. 黑暗, 暗, 深色, 隐密, 模糊, 无知",
+  "definition": "n. an unilluminated area\\nn. having a dark or somber color\\nn. a swarthy complexion"
+ },
+ {
+  "word": "dish",
+  "phonetic": "diʃ",
+  "translation": "n. 盘子, 碟, 菜肴\\n[医] 皿, 碟",
+  "definition": "n. a piece of dishware normally used as a container for holding or serving food\\nn. a particular item of prepared food\\nn. the quantity that a dish will hold\\nn. directional antenna consisting of a parabolic reflector for microwave or radio frequency radiation"
+ },
+ {
+  "word": "eating",
+  "phonetic": "'i:tiŋ",
+  "translation": "n. 吃, 食物\\na. 侵蚀的, 腐蚀性的",
+  "definition": "n. the act of consuming food"
+ },
+ {
+  "word": "eats",
+  "phonetic": "i:ts",
+  "translation": "abbr. 设备准确度测试站（Equipment Accuracy Test Station）",
+  "definition": "n informal terms for a meal\\nv take in solid food\\nv eat a meal; take a meal\\nv take in food; used of animals only\\nv worry or cause anxiety in a persistent way\\nv use up (resources or materials)\\nv cause to deteriorate due to the action of water, air, or an acid"
+ },
+ {
+  "word": "expensive",
+  "phonetic": "ik'spensiv",
+  "translation": "a. 贵的, 奢华的, 费用浩大的, 乱化钱的\\n[经] 高价的, 昂贵的, 浪费的",
+  "definition": "a. high in price or charging high prices"
+ },
+ {
+  "word": "factors",
+  "phonetic": "",
+  "translation": "n. 因素（factor的复数）",
+  "definition": "n anything that contributes causally to a result\\nn an abstract part of something\\nn one of two or more integers that can be exactly divided into another integer\\nn a businessman who buys or sells for another in exchange for a commission\\nn any of the numbers (or symbols) that form a product when multiplied together\\nn an independent variable in statistics\\nn (genetics) a segment of DNA that is involved in producing a polypeptide chain; it can include regions preceding and following the coding DNA as well as introns between the exons; it is considered a unit of heredity\\nv resolve into factors\\nv be a contributing factor\\nv consider as relevant when making a decision"
+ },
+ {
+  "word": "fishing",
+  "phonetic": "'fiʃiŋ",
+  "translation": "n. 钓鱼, 鱼业\\na. 钓鱼的",
+  "definition": "n. the act of someone who fishes as a diversion\\nn. the occupation of catching fish for a living"
+ },
+ {
+  "word": "food",
+  "phonetic": "fu:d",
+  "translation": "n. 食物, 养料\\n[医] 食物, 食品",
+  "definition": "n. any substance that can be metabolized by an animal to give energy and build tissue\\nn. any solid substance (as opposed to liquid) that is used as a source of nourishment\\nn. anything that provides mental stimulus for thinking"
+ },
+ {
+  "word": "frequently",
+  "phonetic": "'fri:kwәntli",
+  "translation": "adv. 频繁, 经常地",
+  "definition": "r. many times at short intervals"
+ },
+ {
+  "word": "frightened",
+  "phonetic": "'frait(ә)nd",
+  "translation": "a. 受惊吓的, 受惊的, (非正式)害怕...的",
+  "definition": "s. made afraid"
+ },
+ {
+  "word": "hot",
+  "phonetic": "hɒt",
+  "translation": "a. 热的, 热心的, 辣的, 热情的, 激动的, 猛烈的, 紧迫的\\nadv. 热, 紧迫地",
+  "definition": "a. used of physical heat; having a high or higher than desirable temperature or giving off heat or feeling or causing a sensation of heat or burning\\ns. characterized by violent and forceful activity or movement; very intense\\na. extended meanings; especially of psychological heat; marked by intensity or vehemence especially of passion or enthusiasm\\ns. (color) bold and intense"
+ },
+ {
+  "word": "hundred",
+  "phonetic": "'hʌndrәd",
+  "translation": "n. 百, 百个东西\\nnum. 百, 百个\\na. 一百的, 许多的",
+  "definition": "n. ten 10s\\ns. being ten more than ninety"
+ },
+ {
+  "word": "killer",
+  "phonetic": "'kilә",
+  "translation": "n. (非正式)杀人者, 屠杀者, 猛兽, 致死(疾病), 杀手, 止痛药, 限制器, 瞄准器\\n[计] 删除程序; 断路器",
+  "definition": "n. someone who causes the death of a person or animal\\nn. a difficulty that is hard to deal with"
+ },
+ {
+  "word": "kind",
+  "phonetic": "kaind",
+  "translation": "n. 种类, 性质, 方式\\na. 亲切的, 仁慈的, 和蔼的",
+  "definition": "n. a category of things distinguished by some common characteristic or quality\\na. having or showing a tender and considerate and helpful nature; used especially of persons and their behavior\\ns. agreeable, conducive to comfort\\ns. tolerant and forgiving under provocation"
+ },
+ {
+  "word": "large",
+  "phonetic": "lɑ:dʒ",
+  "translation": "a. 大的, 大量的, 宽大的, 广博的\\nadv. 大大地, 夸大地",
+  "definition": "n. a garment size for a large person\\na. above average in size or number or quantity or magnitude or extent\\ns. fairly large or important in effect; influential\\ns. having broad power and range and scope"
+ },
+ {
+  "word": "learn",
+  "phonetic": "lә:n",
+  "translation": "vt. 学习；认识到；得知",
+  "definition": "v. gain knowledge or skills\\nv. get to know or become aware of, usually accidentally\\nv. be a student of a certain subject"
+ },
+ {
+  "word": "length",
+  "phonetic": "leŋθ",
+  "translation": "n. 长度, 长, 期间, 一段\\n[计] 记录长度; 块长; 字长",
+  "definition": "n. the linear extent in space from one end to the other; the longest dimension of something that is fixed in place\\nn. the property of being the extent of something from beginning to end\\nn. a section of something that is long and narrow"
+ },
+ {
+  "word": "like",
+  "phonetic": "laik",
+  "translation": "a. 相似的, 同样的\\nvt. 喜欢, 愿意, 想\\nvi. 喜欢, 希望\\nn. 爱好, 同样的人(或物)\\nprep. 象, 如同\\nadv. 可能",
+  "definition": "n. a similar kind\\nn. a kind of person\\nv. find enjoyable or agreeable\\nv. be fond of"
+ },
+ {
+  "word": "lovely",
+  "phonetic": "'lʌvli",
+  "translation": "a. 可爱的, 有趣的",
+  "definition": "s. appealing to the emotions as well as the eye"
+ },
+ {
+  "word": "made",
+  "phonetic": "meid",
+  "translation": "a. 人工制成的, 成功的, 创造的\\nmake的过去式和过去分词",
+  "definition": "s. produced by a manufacturing process; rope and nails\"\\na. (of a bed) having the sheets and blankets set in order\\ns. successful or assured of success"
+ },
+ {
+  "word": "monsters",
+  "phonetic": "'mɒnstəz",
+  "translation": "n. 怪物( monster的复数形式 ); 小恶魔; 恶棍; 坏人",
+  "definition": "n. an imaginary creature usually having various human and animal parts\\nn. someone or something that is abnormally large and powerful\\nn. a person or animal that is markedly unusual or deformed"
+ },
+ {
+  "word": "much",
+  "phonetic": "mʌtʃ",
+  "translation": "n. 大量, 许多, 重要的事\\na. 很多的, 重要的\\nadv. 多, 甚, 几乎",
+  "definition": "n. a great amount or extent\\na. (quantifier used with mass nouns) great in quantity or degree or extent\\nr. to a great degree or extent\\nr. very"
+ },
+ {
+  "word": "north",
+  "phonetic": "nɒ:θ",
+  "translation": "n. 北方, 北\\na. 北的, 北方的\\nadv. 向北方, 在北方",
+  "definition": "n. the region of the United States lying to the north of the Mason-Dixon line\\nn. the cardinal compass point that is at 0 or 360 degrees\\nn. a location in the northern part of a country, region, or city\\nn. the direction corresponding to the northward cardinal compass point"
+ },
+ {
+  "word": "now",
+  "phonetic": "nau",
+  "translation": "adv. 现在, 刚才, 目前\\nn. 现在\\na. 现在的\\nconj. 由于",
+  "definition": "n. the momentary present\\nr. in the historical present; at this point in the narration of a series of past events\\nr. used to preface a command or reproof or request\\nr. at the present moment"
+ },
+ {
+  "word": "oceans",
+  "phonetic": "",
+  "translation": "n. 海洋（ocean的复数形式）",
+  "definition": "n a large body of water constituting a principal part of the hydrosphere\\nn anything apparently limitless in quantity or volume"
+ },
+ {
+  "word": "often",
+  "phonetic": "'ɒ:fn",
+  "translation": "adv. 时常, 常常",
+  "definition": "r. in many cases or instances"
+ },
+ {
+  "word": "overboard",
+  "phonetic": "'әuvәbɒ:d",
+  "translation": "adv. 自船上落下, 在船外",
+  "definition": "r. to extremes\\nr. from on board a vessel into the water"
+ },
+ {
+  "word": "overfished",
+  "phonetic": "ˈəuvəfiʃt",
+  "translation": "v. 对（鱼、渔场）捕捞过度( overfish的过去式和过去分词 )"
+ },
+ {
+  "word": "pipes",
+  "phonetic": "paips",
+  "translation": "n. 管线, 管道；管子（pipe复数形式）",
+  "definition": "n a tube with a small bowl at one end; used for smoking tobacco\\nn a long tube made of metal or plastic that is used to carry water or oil or gas etc.\\nn a hollow cylindrical shape\\nn a tubular wind instrument\\nn the flues and stops on a pipe organ\\nv utter a shrill cry\\nv transport by pipeline\\nv play on a pipe\\nv trim with piping\\nv kill by firing a missile\\nv hit with a missile from a weapon\\nv defeat thoroughly"
+ },
+ {
+  "word": "plentiful",
+  "phonetic": "'plentiful",
+  "translation": "a. 许多的, 丰富的, 丰饶的",
+  "definition": "s. existing in great number or quantity"
+ },
+ {
+  "word": "protect",
+  "phonetic": "prә'tekt",
+  "translation": "vt. 防卫, 保护, 警戒\\n[法] 庇护, 保护, 警戒",
+  "definition": "v. shield from danger, injury, destruction, or damage\\nv. use tariffs to favor domestic industry"
+ },
+ {
+  "word": "repaired",
+  "phonetic": "riˈpɛəd",
+  "translation": "v. 纠正( repair的过去式和过去分词 ); 补救",
+  "definition": "v restore by replacing a part or putting together what is torn or broken\\nv make amends for; pay compensation for\\nv move, travel, or proceed toward some place\\nv set straight or right\\nv give new life or energy to"
+ },
+ {
+  "word": "result",
+  "phonetic": "ri'zʌlt",
+  "translation": "n. 结果, 成绩, 答案\\nvi. 产生, 结果, 致使\\n[计] 结果",
+  "definition": "n. something that results\\nv. issue or terminate (in a specified way, state, etc.); end\\nv. come about or follow as a consequence"
+ },
+ {
+  "word": "round",
+  "phonetic": "raund",
+  "translation": "n. 圆, 圆形物, 巡回, 循环, 一轮, 一回合, 一局, 范围, 轮唱\\na. 圆的, 球形的, 丰满的, 肥胖的, 完全的, 大概的, 完美的, 圆润的\\nprep. 围着, 附近, 绕过, 在...周围\\nadv. 围绕着, 在周围, 迂回地, 挨个, 朝反方向\\nvt. 弄圆, 使成圆形, 绕行, 完成, 围捕, 把...四舍五入\\nvi. 变圆, 发胖, 环行, 拐弯, 进展",
+  "definition": "n. a charge of ammunition for a single shot\\nn. (often plural) a series of professional calls (usually in a set order)\\nn. the usual activities in your day\\nn. the course along which communications spread"
+ },
+ {
+  "word": "sharks",
+  "phonetic": "ʃɑ:ks",
+  "translation": "n. 鲨鱼( shark的名词复数 ); 坑蒙拐骗的人, 诈骗者",
+  "definition": "n any of numerous elongate mostly marine carnivorous fishes with heterocercal caudal fins and tough skin covered with small toothlike scales\\nn a person who is ruthless and greedy and dishonest\\nn a person who is unusually skilled in certain ways\\nv play the shark; act with trickery\\nv hunt shark"
+ },
+ {
+  "word": "sizes",
+  "phonetic": "",
+  "translation": "n. 象素显示尺寸, 尺寸（size复数形式）",
+  "definition": "n the physical magnitude of something (how big it is)\\nn the property resulting from being one of a series of graduated measurements (as of clothing)\\nn any glutinous material used to fill pores in surfaces or to stiffen fabrics\\nn the actual state of affairs\\nn a large magnitude\\nv cover or stiffen or glaze a porous material with size or sizing (a glutinous substance)\\nv sort according to size\\nv make to a size; bring to a suitable size"
+ },
+ {
+  "word": "skate",
+  "phonetic": "skeit",
+  "translation": "n. 溜冰, 冰鞋\\nvi. 滑冰, 滑过",
+  "definition": "n. sports equipment that is worn on the feet to enable the wearer to glide along and to be propelled by the alternate actions of the legs\\nn. large edible rays having a long snout and thick tail with pectoral fins continuous with the head; swim by undulating the edges of the pectoral fins\\nv. move along on skates"
+ },
+ {
+  "word": "sometimes",
+  "phonetic": "'sʌmtaimz",
+  "translation": "adv. 有时, 时常, 往往",
+  "definition": "r. on certain occasions or in certain cases but not always; at other times for six months\""
+ },
+ {
+  "word": "special",
+  "phonetic": "'speʃәl",
+  "translation": "n. 专辑, 专车, 号外, 特别的东西, 负有特别任务的人员\\na. 特别的, 专门的, 特殊的, 额外的, 附加的, 特别亲密的",
+  "definition": "n. a special offering (usually temporary and at a reduced price) that is featured in advertising\\nn. a dish or meal given prominence in e.g. a restaurant\\nn. a television production that features a particular person or work or topic\\ns. for a special service or occasion"
+ },
+ {
+  "word": "supply",
+  "phonetic": "sә'plai",
+  "translation": "n. 补给, 供给, 供应品\\nvt. 补给, 供给, 提供, 补充\\nvi. 替代",
+  "definition": "n. an amount of something available for use\\nn. offering goods and services for sale\\nv. give something useful or necessary to"
+ },
+ {
+  "word": "surprise",
+  "phonetic": "sә'praiz",
+  "translation": "n. 惊奇, 奇袭, 诧异\\nvt. 使惊奇, 撞见, 奇袭",
+  "definition": "n. the astonishment you feel when something totally unexpected happens to you\\nn. a sudden unexpected event\\nn. the act of surprising someone\\nv. cause to be surprised"
+ },
+ {
+  "word": "terrifying",
+  "phonetic": "'tәrifaiiŋ",
+  "translation": "a. 令人恐惧的；骇人的；极大的",
+  "definition": "v fill with terror; frighten greatly\\ns causing extreme terror"
+ },
+ {
+  "word": "three",
+  "phonetic": "θri:",
+  "translation": "num. 三, 三个",
+  "definition": "n. the cardinal number that is the sum of one and one and one\\ns. being one more than two"
+ },
+ {
+  "word": "thrown",
+  "phonetic": "θrәun",
+  "translation": "throw的过去分词",
+  "definition": "s. caused to fall to the ground\\ns. twisted together; as of filaments spun into a thread"
+ },
+ {
+  "word": "total",
+  "phonetic": "'tәutl",
+  "translation": "a. 全体的, 总的, 全然的\\nvt. 计算...的总和, 共计为\\nvi. 合计\\nn. 总数, 全体, 合计\\nadv. 统统",
+  "definition": "v. add up in number or quantity\\nv. determine the sum of\\nv. damage beyond the point of repair"
+ },
+ {
+  "word": "twelve",
+  "phonetic": "twelv",
+  "translation": "num. 十二, 十二个",
+  "definition": "n. the cardinal number that is the sum of eleven and one\\ns. denoting a quantity consisting of 12 items or units"
+ },
+ {
+  "word": "unnatural",
+  "phonetic": ".ʌn'næʃәrәl",
+  "translation": "a. 不自然的, 反常的, 不近人情的\\n[法] 不自然的, 违背人道, 邪恶的",
+  "definition": "a. not in accordance with or determined by nature; contrary to nature"
+ },
+ {
+  "word": "varieties",
+  "phonetic": "vəˈraiətiz",
+  "translation": "n. 种种( variety的名词复数 ); 品种; 变化; （基于遗传差异的）变种",
+  "definition": "pl.  of Variety"
+ },
+ {
+  "word": "whales",
+  "phonetic": "hweilz",
+  "translation": "n. 鲸, 鲸鱼( whale的名词复数 )",
+  "definition": "n a very large person; impressive in size or qualities\\nn any of the larger cetacean mammals having a streamlined body and breathing through a blowhole on the head\\nv hunt for whales"
+ },
+ {
+  "word": "wits",
+  "phonetic": "",
+  "translation": "n. 机智, 智慧",
+  "definition": "n. the basic human power of intelligent thought and perception"
+ }
+]

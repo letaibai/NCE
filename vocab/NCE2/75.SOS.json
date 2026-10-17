@@ -1,0 +1,494 @@
+[
+ {
+  "word": "woman",
+  "phonetic": "'wumәn",
+  "translation": "n. 女人, 妇女, 女仆\\na. 女用的, 女性的, 妇女的\\nvt. 贬称...为女人, 使成女人腔",
+  "definition": "n. an adult female person (as opposed to a man)\\nn. a female person who plays a significant role (wife or mistress or girlfriend) in the life of a particular man"
+ },
+ {
+  "word": "children",
+  "phonetic": "'tʃildrәn",
+  "translation": "pl. 孩子, 孩子们",
+  "definition": "n a young person of either sex\\nn a human offspring (son or daughter) of any age\\nn an immature childish person\\nn a member of a clan or tribe"
+ },
+ {
+  "word": "get",
+  "phonetic": "get",
+  "translation": "vt. 得到, 获得, 变成, 使得, 收获, 接通, 抓住, 染上\\nvi. 到达, 成为, 变得\\nn. (网球等)救球, 生殖, 幼兽\\n[计] 取得指令, 获取文件",
+  "definition": "n. a return on a shot that seemed impossible to reach and would normally have resulted in a point for the opponent\\nv. come into the possession of something concrete or abstract\\nv. cause to move; cause to be in a certain position or condition\\nv. succeed in catching or seizing, especially after a chase"
+ },
+ {
+  "word": "nearest",
+  "phonetic": "",
+  "translation": "a. 最近的（near的最高级）",
+  "definition": "r. (superlative of `near' or `close') within the shortest distance"
+ },
+ {
+  "word": "pilot",
+  "phonetic": "'pailәt",
+  "translation": "n. 飞行员, 领航员, 航船者, 导向器, 驾驶仪, 向导, 领导人\\nvt. 领航, 驾驶, 引导, 试用\\na. 引导的, 控制的, 试点的\\n[计] 引导",
+  "definition": "n. someone who is licensed to operate an aircraft in flight\\nn. a person qualified to guide ships through difficult waters going into or out of a harbor"
+ },
+ {
+  "word": "plane",
+  "phonetic": "plein",
+  "translation": "n. 平面, 扁平物, 机翼, 飞机, 水准, 地位\\na. 平的, 平面的\\nvt. 将...刨平, 刨平, 掠过水面\\nvi. 翱翔, 乘飞机旅行, 刨掉",
+  "definition": "n. (mathematics) an unbounded two-dimensional shape\\nn. a level of existence or development\\nn. a power tool for smoothing or shaping wood\\nn. a carpenter's hand tool with an adjustable blade for smoothing or shaping wood"
+ },
+ {
+  "word": "signal",
+  "phonetic": "'signl",
+  "translation": "n. 信号, 暗号, 近因, 导火线\\nvt. 向...作信号, 标志, 用信号通知\\nvi. 发信号\\na. 作为信号的, 显著的\\n[计] 信号",
+  "definition": "n. any nonverbal action or gesture that encodes a message\\nn. any incitement to action\\nn. an electric quantity (voltage or current or field strength) whose modulation represents coded information about the source from which it comes\\ns. notably out of the ordinary"
+ },
+ {
+  "word": "snow",
+  "phonetic": "snәu",
+  "translation": "n. 雪, 积雪, 下雪, 雪花形干扰\\nvi. 下雪, 似雪般落下\\nvt. 使雪白, 用雪覆盖, 使像雪般落下",
+  "definition": "n. precipitation falling from clouds in the form of ice crystals\\nn. a layer of snowflakes (white crystals of frozen water) covering the ground\\nn. English writer of novels about moral dilemmas in academe (1905-1980)\\nv. fall as snow"
+ },
+ {
+  "word": "ago",
+  "phonetic": "ә'gәu",
+  "translation": "adv. 以前",
+  "definition": "s. gone by; or in the past\\nr. in the past"
+ },
+ {
+  "word": "arrived",
+  "phonetic": "a'raivd",
+  "translation": "v. 抵达；抵港（arrive的过去式）\\na. 已到达的",
+  "definition": "imp. & p. p. of Arrive"
+ },
+ {
+  "word": "away",
+  "phonetic": "ә'wei",
+  "translation": "adv. 离去",
+  "definition": "s. not present; having left\\na. used of an opponent's ground\\ns. (of a baseball pitch) on the far side of home plate from the batter\\nr. from a particular thing or place or position (`forth' is obsolete)"
+ },
+ {
+  "word": "baby",
+  "phonetic": "'beibi",
+  "translation": "n. 婴孩\\n[医] 婴儿",
+  "definition": "n. a very young child (birth to 1 year) who has not yet begun to walk or talk\\nn. the youngest member of a group (not necessarily young)\\nn. an unborn child; a human fetus\\nn. (slang) sometimes used as a term of address for attractive young women"
+ },
+ {
+  "word": "bed",
+  "phonetic": "bed",
+  "translation": "n. 床, 睡眠处, 河床, 底座, 路基, 一层\\nvt. 提供宿处, 栽种, 安装\\nvi. 睡, 形成坚实的一层",
+  "definition": "n. a piece of furniture that provides a place to sleep\\nn. a plot of ground in which plants are growing\\nn. a depression forming the ground under a body of water\\nn. (geology) a stratum of rock (especially sedimentary rock)"
+ },
+ {
+  "word": "before",
+  "phonetic": "bi'fɒ:",
+  "translation": "prep. 在...之前\\nconj. 在...之前\\nadv. 在前",
+  "definition": "r earlier in time; previously\\nr at or in the front"
+ },
+ {
+  "word": "case",
+  "phonetic": "keis",
+  "translation": "n. 情形, 情况, 箱, 容器, 事实, 病例, 案例, 框子\\nvt. 装箱, 包盖",
+  "definition": "n. an occurrence of something\\nn. the actual state of things\\nn. a portable container for carrying several objects\\nn. a person requiring professional services"
+ },
+ {
+  "word": "clothes",
+  "phonetic": "klәuðz",
+  "translation": "n. 衣服",
+  "definition": "n clothing in general\\nv provide with clothes or put clothes on\\nv furnish with power or authority; of kings or emperors\\nv cover as if with clothing"
+ },
+ {
+  "word": "cold",
+  "phonetic": "kәuld",
+  "translation": "n. 感冒, 寒冷\\na. 寒冷的, 冷淡的, 冷静的\\nadv. 完全地",
+  "definition": "n. a mild viral infection involving the nose and respiratory passages (but not the lungs)\\nn. the sensation produced by low temperatures\\na. having a low or inadequate temperature or feeling a sensation of coldness or having been made cold by e.g. ice or refrigeration\\na. extended meanings; especially of psychological coldness; without human warmth or emotion"
+ },
+ {
+  "word": "course",
+  "phonetic": "kɒ:s",
+  "translation": "n. 课程, 路线, 过程, 一道菜, 道路\\nv. 追, (使)跑",
+  "definition": "n. education imparted in a series of lessons or meetings\\nn. a connected series of events or actions or developments\\nn. general line of orientation\\nn. a mode of action"
+ },
+ {
+  "word": "covering",
+  "phonetic": "'kʌvәriŋ",
+  "translation": "n. 覆盖物, 掩蔽物\\na. 掩护的, 掩盖的\\n[计] 覆盖",
+  "definition": "n. a natural object that covers or envelops\\nn. an artifact that covers something else (usually to protect or shelter or conceal it)\\nn. the act of protecting something by covering it"
+ },
+ {
+  "word": "crash",
+  "phonetic": "kræʃ",
+  "translation": "n. 哗啦声, 猛撞, 崩溃, 粗布\\nv. 撞碎, 破碎, (使)...坠毁\\na. 速成的\\n[计] 崩溃",
+  "definition": "n. a serious accident (usually involving one or more vehicles)\\nn. a sudden large decline of business or the prices of stocks (especially one that causes additional failures)\\nn. the act of colliding with something\\nn. (computer science) an event that causes a computer system to become inoperative"
+ },
+ {
+  "word": "crashed",
+  "phonetic": "kræʃt",
+  "translation": "a. 失事的",
+  "definition": "v fall or come down violently\\nv move with, or as if with, a crashing noise\\nv undergo damage or destruction on impact\\nv move violently as through a barrier\\nv break violently or noisily; smash; \\nv occupy, usually uninvited\\nv make a sudden loud sound\\nv enter uninvited; informal\\nv cause to crash\\nv hurl or thrust violently\\nv undergo a sudden and severe downturn\\nv stop operating\\nv sleep in a convenient place"
+ },
+ {
+  "word": "dark",
+  "phonetic": "dɑ:k",
+  "translation": "n. 黑暗, 夜, 黄昏, 模糊\\na. 黑暗的, 暗的, 深色的, 隐密的, 模糊的, 无知的",
+  "definition": "n. absence of light or illumination\\nn. an unenlightened state\\na. devoid of or deficient in light or brightness; shadowed or black\\na. (used of color) having a dark hue"
+ },
+ {
+  "word": "daughters",
+  "phonetic": "",
+  "translation": "n. 女儿们（歌曲名）；枕边杀机（电影名）",
+  "definition": "n a female human offspring"
+ },
+ {
+  "word": "during",
+  "phonetic": "'djuәriŋ",
+  "translation": "prep. 在...的时候",
+  "definition": "prep. In the time of; as long as the action or existence of;\\n   as, during life; during the space of a year."
+ },
+ {
+  "word": "early",
+  "phonetic": "'ә:li",
+  "translation": "a. 早的, 早熟的\\nadv. 很早, 初",
+  "definition": "a. at or near the beginning of a period of time or course of events or before the usual or expected time\\na. being or occurring at an early stage of development\\ns. belonging to the distant past\\ns. very young"
+ },
+ {
+  "word": "even",
+  "phonetic": "'i:vәn",
+  "translation": "a. 平坦的, 相等的, 连贯的, 均等的, 公平的, 偶数的, 平均的, 平衡的, 恰好的\\nvt. 使平坦, 使相等\\nvi. 变平, 成为相等\\nadv. 甚至, 实际上, 完全, 十分\\nn. 偶数, 偶校验\\n[计] 偶数, 偶校验",
+  "definition": "v. become even or more even\\nv. make even or more even\\na. divisible by two\\ns. equal in degree or extent or amount; or equally matched or balanced"
+ },
+ {
+  "word": "find",
+  "phonetic": "faind",
+  "translation": "vt. 发现, 感到, 找到, 认为, 得到\\nvi. 裁决\\nn. 发现\\n[计] 查找; DOS外部命令:在指定的文件或从键盘输入的文本行中\\n寻找指定的字符串, 将符合条件的行或行数输出到标准输出设备上",
+  "definition": "v. come upon, as if by accident; meet with\\nv. come upon after searching; find the location of something that was missed or lost\\nv. come to believe on the basis of emotion, intuitions, or indefinite grounds\\nv. obtain through effort or management"
+ },
+ {
+  "word": "flew",
+  "phonetic": "flu:",
+  "translation": "fly的过去式",
+  "definition": "v travel through the air; be airborne\\nv move quickly or suddenly\\nv operate an airplane\\nv transport by aeroplane\\nv cause to fly or float\\nv be dispersed or disseminated\\nv change quickly from one emotional state to another\\nv pass away rapidly\\nv travel in an airplane\\nv display in the air or cause to float\\nv run away quickly\\nv travel over (an area of land or sea) in an aircraft\\nv hit a fly\\nv decrease rapidly and disappear"
+ },
+ {
+  "word": "fortunately",
+  "phonetic": "'fɒitʃәnitli",
+  "translation": "adv. 幸运地, 幸亏",
+  "definition": "r. by good fortune"
+ },
+ {
+  "word": "got",
+  "phonetic": "gɒt",
+  "translation": "get的过去式和过去分词\\n[化] 谷草转氨酶; 谷氨酸草酰乙酸转氨酶",
+  "definition": "v come into the possession of something concrete or abstract\\nv enter or assume a certain state or condition\\nv cause to move; cause to be in a certain position or condition\\nv receive a specified treatment (abstract)\\nv reach a destination; arrive by movement or progress\\nv go or come after and bring or take back\\nv go through (mental or physical states or experiences)\\nv take vengeance on or get even\\nv achieve a point or goal\\nv cause to do; cause to act in a specified manner\\nv succeed in catching or seizing, especially after a chase\\nv come to have or undergo a change of (physical features and attributes)\\nv be stricken by an illness, fall victim to an illness\\nv communicate with a place or person; establish communication with, as if by telephone\\nv give certain properties to something\\nv move into a desired direction of discourse\\nv grasp with the mind or develop an understanding of\\nv attract and fix\\nv reach with a blow or hit in a particular spot\\nv reach by calculation\\nv acquire as a result of some effort or action\\nv purchase\\nv perceive by hearing\\nv suffer from the receipt of\\nv receive as a retribution or punishment\\nv leave immediately; used usually in the imperative form\\nv reach and board\\nv irritate\\nv evoke an emotional response\\nv apprehend and reproduce accurately\\nv earn or achieve a base by being walked by the pitcher\\nv overcome or destroy\\nv be a mystery or bewildering to\\nv take the first step or steps in carrying out an action\\nv undergo (as of injuries and illnesses)\\nv make children"
+ },
+ {
+  "word": "grew",
+  "phonetic": "gru:",
+  "translation": "grow的过去式",
+  "definition": "v pass into a condition gradually, take on a specific property or attribute; become\\nv become larger, greater, or bigger; expand or gain\\nv increase in size by natural process\\nv cause to grow or develop\\nv develop and reach maturity; undergo maturation\\nv come into existence; take on form or shape\\nv cultivate by growing, often involving improvements by means of agricultural techniques\\nv come to have or undergo a change of (physical features and attributes)\\nv grow emotionally or mature\\nv become attached by or as if by the process of growth"
+ },
+ {
+  "word": "ground",
+  "phonetic": "graund",
+  "translation": "n. 土地, 战场, 场地, 地面, 范围\\na. 土地的, 地面上的\\nvt. 放在地上, 使搁浅, 打基础, 给...以训练\\nvi. 搁浅, 落地, 根据, 基于\\na. 磨过的\\ngrind的过去式和过去分词",
+  "definition": "n. a position to be won or defended in battle (or as if in battle)\\nn. a relatively homogeneous percept extending back of the figure on which attention is focused\\nn. a connection between an electrical device and a large conducting body, such as the earth (which is taken to be at zero voltage)\\nn. (art) the surface (as a wall or canvas) prepared to take the paint for a painting"
+ },
+ {
+  "word": "heard",
+  "phonetic": "hә:d",
+  "translation": "hear的过去式和过去分词",
+  "definition": "s. detected or perceived by the sense of hearing"
+ },
+ {
+  "word": "helicopter",
+  "phonetic": "'helikɒptә",
+  "translation": "n. 直升机\\nvt. 由直升机运送\\nvi. 乘直升机",
+  "definition": "n. an aircraft without wings that obtains its lift from the rotation of overhead blades"
+ },
+ {
+  "word": "help",
+  "phonetic": "help",
+  "translation": "n. 帮忙, 帮助者, 补救办法, 有益的东西\\nvt. 帮助, 帮忙, 接济, 治疗, 款待\\nvi. 有用, 救命, 招待\\n[计] 帮助, 帮助程序; DOS外部命令: DOS命令的电子文件帮助程序",
+  "definition": "v. give help or assistance; be of service\\nv. improve the condition of\\nv. be of use\\nv. contribute to the furtherance of"
+ },
+ {
+  "word": "herself",
+  "phonetic": "hә:'self",
+  "translation": "pron. 她自己, 她亲自",
+  "definition": "pron. An emphasized form of the third person feminine\\n   pronoun; -- used as a subject with she; as, she herself will bear the\\n   blame; also used alone in the predicate, either in the nominative or\\n   objective case; as, it is herself; she blames herself.\\npron. Her own proper, true, or real character; hence, her\\n   right, or sane, mind; as, the woman was deranged, but she is now\\n   herself again; she has come to herself."
+ },
+ {
+  "word": "idea",
+  "phonetic": "ai'diә",
+  "translation": "n. 主意, 办法, 理想, 思想, 概念, 意见\\n[医] 观念, 思想",
+  "definition": "n. the content of cognition; the main thing you are thinking about\\nn. a personal view"
+ },
+ {
+  "word": "inside",
+  "phonetic": "'in'said",
+  "translation": "n. 内部, 内脏, 内幕\\na. 内部的, 秘密的, 户内的\\nadv. 在里面\\nprep. 在...之内",
+  "definition": "n. the region that is inside of something\\nn. the inner or enclosed surface of something\\na. relating to or being on the side closer to the center or within a defined space\\ns. being or applying to the inside of a building"
+ },
+ {
+  "word": "kept",
+  "phonetic": "kept",
+  "translation": "keep的过去式和过去分词",
+  "definition": "v keep in a certain state, position, or activity; e.g., \"keep clean\"\\nv continue a certain state, condition, or activity\\nv retain possession of\\nv stop (someone or something) from doing something or being in a certain state\\nv conform one's action or practice to\\nv stick to correctly or closely\\nv look after; be the keeper of; have charge of\\nv maintain by writing regular records\\nv supply with room and board\\nv allow to remain in a place or position or maintain a property or feature\\nv supply with necessities and support\\nv fail to spoil or rot\\nv behave as expected during of holidays or rites\\nv keep under control; keep in check\\nv maintain in safety from injury, harm, or danger\\nv raise\\nv retain rights to\\nv store or keep customarily\\nv have as a supply\\nv maintain for use and service\\nv hold and prevent from leaving\\nv prevent (food) from rotting\\na (especially of promises or contracts) not violated or disregarded"
+ },
+ {
+  "word": "killed",
+  "phonetic": "'kild",
+  "translation": "a. 被杀死的, 被屠宰的, 镇静的",
+  "definition": "v cause to die; put to death, usually intentionally or knowingly\\nv thwart the passage of\\nv end or extinguish by forceful means\\nv be fatal\\nv be the source of great pain for\\nv overwhelm with hilarity, pleasure, or admiration\\nv hit with so much force as to make a return impossible, in racket games\\nv hit with great force\\nv deprive of life\\nv cause the death of, without intention\\nv drink down entirely\\nv mark for deletion, rub off, or erase\\nv tire out completely\\nv cause to cease operating\\nv destroy a vitally essential quality of or in"
+ },
+ {
+  "word": "knew",
+  "phonetic": "nju:",
+  "translation": "know的过去式",
+  "definition": "v be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about\\nv know how to do or perform something\\nv be aware of the truth of something; have a belief or faith in something; regard as true beyond any doubt\\nv be familiar or acquainted with a person or an object\\nv have firsthand knowledge of states, situations, emotions, or sensations\\nv accept (someone) to be what is claimed or accept his power and authority\\nv have fixed in the mind\\nv have sexual intercourse with\\nv know the nature or character of\\nv be able to distinguish, recognize as being different\\nv perceive as familiar"
+ },
+ {
+  "word": "lay",
+  "phonetic": "lei",
+  "translation": "vt. 放置, 产, 铺设, 布置, 提出, 平息\\nvi. 下蛋, 打赌\\nn. 位置, 层, 隐藏处\\na. 世俗的, 外行的\\nlie的过去式",
+  "definition": "v. put in a horizontal position\\nv. prepare or position for action or operation\\nv. lay eggs\\nv. impose as a duty, burden, or punishment"
+ },
+ {
+  "word": "letters",
+  "phonetic": "",
+  "translation": "n. 字母；书信；读者投书栏（letter的复数）",
+  "definition": "n. the literary culture\\nn. scholarly attainment"
+ },
+ {
+  "word": "light",
+  "phonetic": "lait",
+  "translation": "n. 光, 光亮, 灯, 日光, 发光体, 光源, 杰出人物, 火花, 眼光\\na. 轻的, 少量的, 轻微的, 轻快的, 轻浮的, 明亮的, 淡色的, 容易的\\nvt. 点燃, 照亮\\nvi. 点着, 变亮, 突降, 偶然碰到\\nadv. 轻地",
+  "definition": "n. (physics) electromagnetic radiation that can produce a visual sensation\\nn. any device serving as a source of illumination\\nn. a particular perspective or aspect of a situation\\nn. an illuminated area"
+ },
+ {
+  "word": "long",
+  "phonetic": "lɒŋ",
+  "translation": "a. 长的, 长久的, 冗长的, 做多头的\\nvi. 渴望, 热望, 极想\\nadv. 长久, 始终\\nn. 长时间, 长信号, 长整型\\n[计] 长, 长整型",
+  "definition": "a. primarily temporal sense; being or indicating a relatively great or greater than average duration or passage of time or a duration as specified\\na. primarily spatial sense; of relatively great or greater than average spatial extension or extension as specified\\ns. of relatively great height\\na. holding securities or commodities in expectation of a rise in prices"
+ },
+ {
+  "word": "message",
+  "phonetic": "'mesidʒ",
+  "translation": "n. 消息, 通讯, 讯息, 教训, 预言, 广告词\\nvt. 通知\\nvi. 通报, 报告, 报信\\n[计] 报文; 消息; 信息",
+  "definition": "n. a communication (usually brief) that is written or spoken or signaled\\nn. what a communication that is about something is about\\nv. send a message to\\nv. send as a message"
+ },
+ {
+  "word": "middle",
+  "phonetic": "'midl",
+  "translation": "n. 中央, 中间, 腰部\\na. 中央的, 中庸的, 中间的",
+  "definition": "n. an intermediate part or section\\nn. the middle area of the human torso (usually in front)\\nn. time between the beginning and the end of a temporal period\\nv. put in the middle"
+ },
+ {
+  "word": "miles",
+  "phonetic": "",
+  "translation": "n. 英里（1英里约合1609米, mile的复数形式）",
+  "definition": "n a unit of length equal to 1,760 yards or 5,280 feet; exactly 1609.344 meters\\nn a unit of length used in navigation; exactly 1,852 meters; historically based on the distance spanned by one minute of arc in latitude\\nn a large distance\\nn a former British unit of length once used in navigation; equivalent to 6,000 feet (1828.8 meters)\\nn a former British unit of length equivalent to 6,080 feet (1,853.184 meters); 800 feet longer than a statute mile\\nn an ancient Roman unit of length equivalent to 1620 yards\\nn a Swedish unit of length equivalent to 10 km\\nn a footrace extending one mile"
+ },
+ {
+  "word": "morning",
+  "phonetic": "'mɒ:niŋ",
+  "translation": "n. 早晨, 早上, 初期",
+  "definition": "n. the time period between dawn and noon"
+ },
+ {
+  "word": "mountains",
+  "phonetic": "",
+  "translation": "n. 山脉；山区；山岳（mountain的复数）",
+  "definition": "n a land mass that projects well above its surroundings; higher than a hill\\nn (often followed by `of') a large number or amount or extent"
+ },
+ {
+  "word": "near",
+  "phonetic": "niә",
+  "translation": "a. 近的, 近亲的, 近似的\\nadv. 接近, 亲近\\nprep. 靠近, 近似于\\nv. 接近, 走近",
+  "definition": "a. not far distant in time or space or degree or circumstances\\ns. being on the left side\\ns. closely resembling the genuine article\\nr. near in time or place or relationship"
+ },
+ {
+  "word": "next",
+  "phonetic": "'nekst",
+  "translation": "n. 下一个\\na. 下一个的, 其次的, 贴近的\\nadv. 然后, 下次, 次于\\n[计] 近邻干扰",
+  "definition": "r. at the time or occasion immediately following"
+ },
+ {
+  "word": "night",
+  "phonetic": "nait",
+  "translation": "n. 夜, 夜晚, 晚上, 黑暗, 夜晚的工作\\n[法] 夜, 黑夜, 黑暗",
+  "definition": "n. the time after sunset and before sunrise while it is dark outside\\nn. a period of ignorance or backwardness or gloom\\nn. the period spent sleeping\\nn. the dark part of the diurnal cycle considered a time unit"
+ },
+ {
+  "word": "overhead",
+  "phonetic": "'әuvәhed",
+  "translation": "n. 经常开支, 普通用费, 天花板\\na. 在头上的, 高架的\\nadv. 在头顶上, 在空中, 在高处, 从头到脚全部没入地\\n[计] 总开销; 额外开销",
+  "definition": "n. (nautical) the top surface of an enclosed space on a ship\\nn. a hard return hitting the tennis ball above your head\\na. located or originating from above\\nr. above your head; in the sky"
+ },
+ {
+  "word": "passenger",
+  "phonetic": "'pæsindʒә",
+  "translation": "n. 乘客, 旅客\\n[经] 乘客, 旅客",
+  "definition": "n. a traveler riding in a vehicle (a boat or bus or car or plane or train etc) who is not operating it"
+ },
+ {
+  "word": "passengers",
+  "phonetic": "'pæsndʒɚ",
+  "translation": "n. 乘客( passenger的名词复数 ); 旅客; 白吃饭的人; 闲散人员",
+  "definition": "n a traveler riding in a vehicle (a boat or bus or car or plane or train etc) who is not operating it"
+ },
+ {
+  "word": "passing",
+  "phonetic": "'pæsiŋ",
+  "translation": "n. 通过, 逝去, 死, 流逝\\na. 经过的, 流逝的, 目前的, 短暂的, 及格的, 仓促的",
+  "definition": "n. euphemistic expressions for death\\nn. the motion of one object relative to another\\nn. the end of something\\nn. going by something that is moving in order to get in front of it"
+ },
+ {
+  "word": "planes",
+  "phonetic": "",
+  "translation": "n. 位面\\n[计] 位面",
+  "definition": "n an aircraft that has a fixed wing and is powered by propellers or jets\\nn (mathematics) an unbounded two-dimensional shape\\nn a level of existence or development\\nn a power tool for smoothing or shaping wood\\nn a carpenter's hand tool with an adjustable blade for smoothing or shaping wood\\nv cut or remove with or as if with a plane\\nv travel on the surface of water\\nv make even or smooth, with or as with a carpenter's plane\\nv have the will and intention to carry out some action\\nv make plans for something\\nv make or work out a plan for; devise\\nv make a design of; plan out in systematic, often graphic form"
+ },
+ {
+  "word": "put",
+  "phonetic": "put",
+  "translation": "vt. 放, 摆, 安置, 移动, 发射, 投掷, 写上, 表达, 使从事, 使受到, 驱使, 赋予\\nvi. 出发, 航行, 发芽\\nn. 掷, 股票出售权, 笨蛋\\na. 固定不动的\\n[计] 发送文件",
+  "definition": "v. put into a certain place or abstract location\\nv. cause to be in a certain state; cause to be in a certain relation\\nv. attribute or give\\nv. cause (someone) to undergo something"
+ },
+ {
+  "word": "radio",
+  "phonetic": "'reidiәu",
+  "translation": "n. 无线电, 收音机, 无线电报, 无线电广播, 无线电台\\nv. 用无线电发送",
+  "definition": "n. medium for communication\\nn. a communication system based on broadcasting electromagnetic waves\\nv. transmit messages via radio waves\\na. indicating radiation or radioactivity"
+ },
+ {
+  "word": "rescue",
+  "phonetic": "'reskju:",
+  "translation": "n. 援救, 解救, 营救\\nvt. 援救, 救出, 营救",
+  "definition": "n. recovery or preservation from loss or danger\\nv. free from harm or evil\\nv. take forcibly from legal custody"
+ },
+ {
+  "word": "saw",
+  "phonetic": "sɒ:",
+  "translation": "n. 锯子, 谚语\\nvt. 锯, 锯开, 来回移动\\nvi. 拉锯, 移动\\nsee的过去式",
+  "definition": "n. hand tool having a toothed blade for cutting\\nv. cut with a saw"
+ },
+ {
+  "word": "scene",
+  "phonetic": "si:n",
+  "translation": "n. 场, 情景, 镜头, 发生地点, 道具, 布景, 景色\\n[化] 现场",
+  "definition": "n. the place where some action occurs\\nn. an incident (real or imaginary)\\nn. a consecutive series of pictures that constitutes a unit of action in a film\\nn. a subdivision of an act of a play"
+ },
+ {
+  "word": "send",
+  "phonetic": "send",
+  "translation": "vt. 发送, 使进入, 寄, 派遣, 发射, 使陷于\\nvi. 寄信, 派人, 播送\\nn. (船的)上升运动\\n[计] 发送",
+  "definition": "v. cause to go somewhere\\nv. to cause or order to be taken, directed, or transmitted to another place\\nv. transfer"
+ },
+ {
+  "word": "sent",
+  "phonetic": "sent",
+  "translation": "send的过去式和过去分词",
+  "definition": "n. 100 senti equal 1 kroon in Estonia\\na. caused or enabled to go or be conveyed or transmitted"
+ },
+ {
+  "word": "small",
+  "phonetic": "smɒ:l",
+  "translation": "a. 小的, 少的, 小型的, 低微的, 小气的, 细微的\\nadv. 些微地\\nn. 狭小部分",
+  "definition": "n. the slender part of the back\\nn. a garment size for a small person\\na. limited or below average in number or quantity or magnitude or extent\\ns. slight or limited; especially in degree or intensity or scope"
+ },
+ {
+  "word": "sos",
+  "phonetic": "esәj'es",
+  "translation": "紧急呼救信号\\n[计] 独立操作系统",
+  "definition": "n. an internationally recognized distress signal in radio code"
+ },
+ {
+  "word": "stamped",
+  "phonetic": "stæmpt",
+  "translation": "a. 盖上邮戳的；铭刻的；顿足的",
+  "definition": "v walk heavily\\nv to mark, or produce an imprint in or on something\\nv reveal clearly as having a certain character\\nv affix a stamp to\\nv treat or classify according to a mental stereotype\\nv destroy or extinguish as if by stamping with the foot\\nv form or cut out with a mold, form, or die\\nv crush or grind with a heavy instrument\\nv raise in a relief"
+ },
+ {
+  "word": "suitcase",
+  "phonetic": "'sju:tkeis",
+  "translation": "n. 手提箱",
+  "definition": "n a portable rectangular container for carrying clothes"
+ },
+ {
+  "word": "survivors",
+  "phonetic": "sə'vaɪvəz",
+  "translation": "n. 幸存者, 残存者, 生还者( survivor的复数形式 )",
+  "definition": "n. one who lives through affliction\\nn. one who outlives another\\nn. an animal that survives in spite of adversity"
+ },
+ {
+  "word": "terribly",
+  "phonetic": "'terәbli",
+  "translation": "adv. 可怕地, 甚为, 非常",
+  "definition": "r. used as intensifiers\\nr. in a terrible manner"
+ },
+ {
+  "word": "thick",
+  "phonetic": "θik",
+  "translation": "a. 厚的, 粗壮的, 浓的, 迟钝的, 浑浊的, 多雾的, 过分的, 口齿不清的\\nadv. 厚地, 密地, 浓浓地\\nn. 最浓处, 最厚处, 最密集处\\n[计] 暗, 粗线",
+  "definition": "a. not thin; of a specific thickness or of relatively great extent from one surface to the opposite usually in the smallest of the three solid dimensions\\ns. having component parts closely crowded together\\na. relatively dense in consistency\\ns. (of darkness) very intense"
+ },
+ {
+  "word": "time",
+  "phonetic": "taim",
+  "translation": "n. 时间, 时侯, 时机, 时期, 期限, 次数, 节拍, 暂停, 规定时间\\nvt. 测定...的时间, 记录...的时间, 计时, 定时\\na. 时间的, 记时的, 定时的, 定期的, 分期的\\n[计] DOS内部命令:用于显示或设定系统的时间",
+  "definition": "n. an instance or single occasion for some event\\nn. a period of time considered as a resource under your control and sufficient to accomplish something\\nn. an indefinite period (usually marked by specific attributes or activities)\\nn. a suitable moment"
+ },
+ {
+  "word": "town",
+  "phonetic": "taun",
+  "translation": "n. 城镇, 市, 镇\\n[法] 城镇, 城市, 闹市",
+  "definition": "n. an urban area with a fixed boundary that is smaller than a city\\nn. the people living in a municipality smaller than a city\\nn. United States architect who was noted for his design and construction of truss bridges (1784-1844)"
+ },
+ {
+  "word": "tried",
+  "phonetic": "traid",
+  "translation": "a. 试验过的, 可靠的\\n[法] 已经审讯的, 已经查验的",
+  "definition": "v make an effort or attempt\\nv put to the test, as for its quality, or give experimental use to\\nv put on trial or hear a case and sit as the judge at the trial of\\nv take a sample of\\nv examine or hear (evidence or a case) by judicial process\\nv give pain or trouble to\\nv test the limits of\\nv melt (fat or lard) in order to separate out impurities\\nv put on a garment in order to see whether it fits and looks nice\\ns tested and proved useful or correct\\ns tested and proved to be reliable"
+ },
+ {
+  "word": "turned",
+  "phonetic": "",
+  "translation": "a. 变质的；被转动的；[金属加工]车削的",
+  "definition": "a. moved around an axis or center"
+ },
+ {
+  "word": "two",
+  "phonetic": "tu:",
+  "translation": "num. 二, 二个",
+  "definition": "n. the cardinal number that is the sum of one and one or a numeral representing this number\\ns. being one more than one"
+ },
+ {
+  "word": "unhurt",
+  "phonetic": "'ʌn'hә:t",
+  "translation": "a. 没有受害的, 没有负伤的",
+  "definition": "s not injured\\ns free from danger or injury"
+ },
+ {
+  "word": "village",
+  "phonetic": "'vilidʒ",
+  "translation": "n. 村庄\\na. 乡村的, 村庄的",
+  "definition": "n. a community of people smaller than a town\\nn. a settlement smaller than a town"
+ },
+ {
+  "word": "winter",
+  "phonetic": "'wintә",
+  "translation": "n. 冬季, 萧条期, 衰退期\\na. 冬天的\\nvt. 使度过冬天\\nvi. 过冬",
+  "definition": "n. the coldest season of the year; in the northern hemisphere it extends from the winter solstice to the vernal equinox\\nv. spend the winter"
+ },
+ {
+  "word": "wondered",
+  "phonetic": "",
+  "translation": "vt. 对…感到好奇（wonder的过去式与过去分词形式）",
+  "definition": "imp. & p. p. of Wonder\\na. Having performed wonders; able to perform wonderful\\n   things."
+ },
+ {
+  "word": "young",
+  "phonetic": "jʌŋ",
+  "translation": "a. 年轻的, 无经验的, 朝气蓬勃的\\nn. 青年们, 幼小动物, 崽",
+  "definition": "n. any immature animal\\nn. United States film and television actress (1913-2000)\\nn. United States civil rights leader (1921-1971)\\nn. British physicist and Egyptologist; he revived the wave theory of light and proposed a three-component theory of color vision; he also played an important role in deciphering the hieroglyphics on the Rosetta Stone (1773-1829)"
+ }
+]

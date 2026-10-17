@@ -1,0 +1,673 @@
+[
+ {
+  "word": "children",
+  "phonetic": "'tʃildrәn",
+  "translation": "pl. 孩子, 孩子们",
+  "definition": "n a young person of either sex\\nn a human offspring (son or daughter) of any age\\nn an immature childish person\\nn a member of a clan or tribe"
+ },
+ {
+  "word": "employment",
+  "phonetic": "im'plɒimәnt",
+  "translation": "n. 雇用, 职业, 工作\\n[经] 职业, 雇用, 职工招请",
+  "definition": "n. the state of being employed or having a job\\nn. the occupation for which you are paid\\nn. the act of giving someone a job"
+ },
+ {
+  "word": "home",
+  "phonetic": "hәum",
+  "translation": "n. 家, 避难所, 故乡\\na. 家庭的, 国内的, 打中目标的\\nadv. 在家, 在本国, 打中目标地\\n[计] 返回始位",
+  "definition": "n. where you live at a particular time\\nn. the country or state or city where you live\\nn. place where something began and flourished\\nn. an environment offering affection and security"
+ },
+ {
+  "word": "mother",
+  "phonetic": "'mʌðә",
+  "translation": "n. 母亲, 修女院长\\nvt. 产生, 照看, 收养",
+  "definition": "n. a woman who has given birth to a child (also used as a term of address to your mother)\\nn. a stringy slimy substance consisting of yeast cells and bacteria; forms during fermentation and is added to cider or wine to produce vinegar\\nn. a term of address for an elderly woman\\nn. a term of address for a mother superior"
+ },
+ {
+  "word": "father",
+  "phonetic": "'fɑ:ðә",
+  "translation": "n. 父亲, 祖先, 长辈, 神父, 创始者\\nvt. 当...的父亲, 保护, 创作, 发明, 培养",
+  "definition": "n. a male parent (also used as a term of address to your father)\\nn. `Father' is a term of address for priests in some churches (especially the Roman Catholic Church or the Orthodox Catholic Church); `Padre' is frequently used in the military\\nn. a person who holds an important or distinguished position in some organization\\nn. God when considered as the first person in the Trinity"
+ },
+ {
+  "word": "become",
+  "phonetic": "bi'kʌm",
+  "translation": "vi. 变成, 变得\\nvt. 适合",
+  "definition": "v. enter or assume a certain state or condition\\nv. undergo a change or development\\nv. come into existence\\nv. enhance the appearance of"
+ },
+ {
+  "word": "bought",
+  "phonetic": "bɒ:t",
+  "translation": "a. 买来的\\nbuy的过去式和过去分词",
+  "definition": "v obtain by purchase; acquire by means of a financial transaction\\nv make illegal payments to in exchange for favors or influence\\nv be worth or be capable of buying\\nv acquire by trade or sacrifice or exchange\\nv accept as true"
+ },
+ {
+  "word": "economic",
+  "phonetic": ".i:kә'nɒmik",
+  "translation": "a. 经济上的, 实用的, 节省的\\n[经] 经济的",
+  "definition": "a. of or relating to an economy, the system of production and management of material wealth\\na. of or relating to the science of economics\\ns. using the minimum of time or resources necessary for effectiveness\\ns. concerned with worldly necessities of life (especially money)"
+ },
+ {
+  "word": "go",
+  "phonetic": "gou",
+  "translation": "vi. 去, 走, 达到, 运转, 查阅, 消失, 结束, 放弃, 花费, 流传, 趋于, 打算, 剩下\\nvt. 以...打赌, 对付, 忍受, 出产, 为被捕者出(保释金)\\nn. 去, 尝试, 进行",
+  "definition": "n. a time for working (after which you will be relieved by someone else)\\nn. a board game for two players who place counters on a grid; the object is to surround and so capture the opponent's counters\\nv. follow a procedure or take a course\\nv. move away from a place into another direction"
+ },
+ {
+  "word": "less",
+  "phonetic": "les",
+  "translation": "n. 较少, 较小\\na. 少的, 小的\\nadv. 较少, 较小, 较差\\n[计] 最低成本估算与调度法",
+  "definition": "a. (comparative of `little' usually used with mass nouns) a quantifier meaning not as great in amount or degree\\ns. (usually preceded by `no') lower in quality\\ns. (nonstandard in some uses but often idiomatic with measure phrases) fewer\\nr. used to form the comparative of some adjectives and adverbs"
+ },
+ {
+  "word": "much",
+  "phonetic": "mʌtʃ",
+  "translation": "n. 大量, 许多, 重要的事\\na. 很多的, 重要的\\nadv. 多, 甚, 几乎",
+  "definition": "n. a great amount or extent\\na. (quantifier used with mass nouns) great in quantity or degree or extent\\nr. to a great degree or extent\\nr. very"
+ },
+ {
+  "word": "now",
+  "phonetic": "nau",
+  "translation": "adv. 现在, 刚才, 目前\\nn. 现在\\na. 现在的\\nconj. 由于",
+  "definition": "n. the momentary present\\nr. in the historical present; at this point in the narration of a series of past events\\nr. used to preface a command or reproof or request\\nr. at the present moment"
+ },
+ {
+  "word": "school",
+  "phonetic": "sku:l",
+  "translation": "n. 学校, 鱼群, 门派, 学派\\nvt. 教育, 训练, 培养\\nvi. 成群地游",
+  "definition": "n. an educational institution\\nn. a building where young people receive education\\nn. the process of being formally educated at a school\\nn. a body of creative artists or writers or thinkers linked by a similar style or by similar teachers"
+ },
+ {
+  "word": "seldom",
+  "phonetic": "'seldәm",
+  "translation": "a. 不常的, 稀少的\\nadv. 很少, 不常",
+  "definition": "r not often"
+ },
+ {
+  "word": "unusual",
+  "phonetic": ".ʌn'ju:ʒu:l",
+  "translation": "a. 不寻常的, 罕见的, 与众不同的",
+  "definition": "a. not usual or common or ordinary\\ns. not commonly encountered"
+ },
+ {
+  "word": "work",
+  "phonetic": "wә:k",
+  "translation": "n. 工作, 劳动, 职业, 行为, 功, 作品, 成果, 产品, 工程\\nvi. 工作, 劳动, 做, 运转, 起作用, 被加工\\nvt. 使工作, 使转动, 开动, 使用, 经营, 使逐渐变得, 造成",
+  "definition": "n. activity directed toward making or doing something\\nn. a product produced or accomplished through the effort or activity or agency of a person or thing\\nn. (physics) a manifestation of energy; the transfer of energy from one physical system to another expressed as the product of a force and the distance through which it moves a body in the direction of that force\\nv. exert oneself by doing mental or physical work for a purpose or out of necessity"
+ },
+ {
+  "word": "works",
+  "phonetic": "",
+  "translation": "n. 工程, 工厂, 工事, 活动部件, 机件, 著作, 作品, 善行, 德行\\n[机] 工厂, 工场",
+  "definition": "n. performance of moral or religious acts\\nn. the internal mechanism of a device"
+ },
+ {
+  "word": "accrue",
+  "phonetic": "ә'kru:",
+  "translation": "vi. 自然增加, 产生\\n[经] 应计, 产生, 出现",
+  "definition": "v. grow by addition\\nv. come into the possession of"
+ },
+ {
+  "word": "acquires",
+  "phonetic": "əˈkwaiəz",
+  "translation": "v. 获得( acquire的第三人称单数 ); （使用探测器）捕获（目标）; 取得; （计算机、机器人等）捕捉",
+  "definition": "v come into the possession of something concrete or abstract\\nv take on a certain form, attribute, or aspect\\nv come to have or undergo a change of (physical features and attributes)\\nv locate (a moving entity) by means of a tracking system such as radar\\nv win something through one's efforts\\nv gain knowledge or skills\\nv gain through experience"
+ },
+ {
+  "word": "advantages",
+  "phonetic": "",
+  "translation": "n. 优势；特点；有利；[经] 利益（advantage的复数）\\nv. 促进（advantage的三单形式）；有利于",
+  "definition": "n the quality of having a superior or more favorable position\\nn (tennis) first point scored after deuce\\nn benefit resulting from some event or action\\nv give an advantage to"
+ },
+ {
+  "word": "areas",
+  "phonetic": "",
+  "translation": "n. 区域, 领域；面积（area的复数形式）",
+  "definition": "n a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography)\\nn a subject of study\\nn a part of an animal that has a special function or is supplied by a given artery or nerve\\nn a particular environment or walk of life\\nn a part of a structure having some specific characteristic or function\\nn the extent of a 2-dimensional surface enclosed within a boundary"
+ },
+ {
+  "word": "arrives",
+  "phonetic": "əˈraivz",
+  "translation": "v. 到达, 来( arrive的第三人称单数 ); 发生",
+  "definition": "v reach a destination; arrive by movement or progress\\nv succeed in a big way; get to the top"
+ },
+ {
+  "word": "baked",
+  "phonetic": "'beikid",
+  "translation": "a. 烘焙的；烤的",
+  "definition": "s. (bread and pastries) cooked by dry heat (as in an oven)"
+ },
+ {
+  "word": "baker",
+  "phonetic": "'beikә",
+  "translation": "n. 面包师\\n[医] 烤箱(骨科用)",
+  "definition": "n. someone who bakes commercially\\nn. someone who bakes bread or cake"
+ },
+ {
+  "word": "beginning",
+  "phonetic": "bi'giniŋ",
+  "translation": "n. 开始",
+  "definition": "n. the event consisting of the start of something\\nn. the time at which something is supposed to begin\\nn. the first part or section of something\\nn. the place where something begins, where it springs into being"
+ },
+ {
+  "word": "boys",
+  "phonetic": "",
+  "translation": "n. 男孩子们；小伙子们（boy的复数）",
+  "definition": "n a youthful male person\\nn a friendly informal reference to a grown man\\nn a male human offspring\\nn (ethnic slur) offensive and disparaging term for Black man"
+ },
+ {
+  "word": "bread",
+  "phonetic": "bred",
+  "translation": "n. 面包, 生计, 食物\\nvt. 裹以面包屑",
+  "definition": "n. food made from dough of flour or meal and usually raised with yeast or baking powder and then baked\\nv. cover with bread crumbs"
+ },
+ {
+  "word": "canned",
+  "phonetic": "kænd",
+  "translation": "a. 罐装的, 录音的, 一稿数用的, 刻板的, 被囚的\\n[机] 洋铁罐的, 罐头的",
+  "definition": "s. recorded for broadcast\\ns. sealed in a can or jar"
+ },
+ {
+  "word": "canteen",
+  "phonetic": "kæn'ti:n",
+  "translation": "n. 水壶, 军中俱乐部, 临时流动餐馆, 小卖部",
+  "definition": "n. a flask for carrying water; used by soldiers or travelers\\nn. sells food and personal items to personnel at an institution or school or camp etc.\\nn. a restaurant outside; often for soldiers or policemen\\nn. a recreation room in an institution"
+ },
+ {
+  "word": "century",
+  "phonetic": "'sentʃuri",
+  "translation": "n. 世纪, 百年",
+  "definition": "n. a period of 100 years"
+ },
+ {
+  "word": "child",
+  "phonetic": "tʃaild",
+  "translation": "n. 孩子, 产物, 追随者\\n[医] 儿童",
+  "definition": "n. a young person of either sex\\nn. a human offspring (son or daughter) of any age\\nn. an immature childish person\\nn. a member of a clan or tribe"
+ },
+ {
+  "word": "choice",
+  "phonetic": "tʃɒis",
+  "translation": "n. 选择, 精选品, 选择权\\na. 精选的, 挑三拣四的, 上等的\\n[计] DOS内部命令:在批处理文件中\\n该命令用于提示用户作出选择, 决定批处理文件的流程",
+  "definition": "n. the person or thing chosen or selected\\nn. the act of choosing or selecting\\ns. of superior grade\\ns. appealing to refined taste"
+ },
+ {
+  "word": "clothes",
+  "phonetic": "klәuðz",
+  "translation": "n. 衣服",
+  "definition": "n clothing in general\\nv provide with clothes or put clothes on\\nv furnish with power or authority; of kings or emperors\\nv cover as if with clothing"
+ },
+ {
+  "word": "cooked",
+  "phonetic": "kukt",
+  "translation": "a. 精疲力竭的, 被揍得昏厥的, 未达到目的就完蛋的, 喝醉了的",
+  "definition": "a. having been prepared for eating by the application of heat"
+ },
+ {
+  "word": "customary",
+  "phonetic": "'kʌstәmәri",
+  "translation": "a. 习惯的, 惯常的\\n[经] 通常的, 习惯的",
+  "definition": "s. in accordance with convention or custom"
+ },
+ {
+  "word": "delivered",
+  "phonetic": "di'livәd",
+  "translation": "a. 业已交货",
+  "definition": "v deliver (a speech, oration, or idea)\\nv bring to a destination, make a delivery\\nv to surrender someone or something to another\\nv free from harm or evil\\nv hand over to the authorities of another country\\nv pass down\\nv utter (an exclamation, noise, etc.)\\nv save from sins\\nv carry out or perform\\nv relinquish possession or control over\\nv throw or hurl from the mound to the batter, as in baseball\\nv cause to be born"
+ },
+ {
+  "word": "dining",
+  "phonetic": "'dainiŋ",
+  "translation": "n. 正餐, 宴会",
+  "definition": "n. the act of eating dinner"
+ },
+ {
+  "word": "dominant",
+  "phonetic": "'dɒminәnt",
+  "translation": "a. 占优势的, 支配的\\n[医] 优性的, 显性的",
+  "definition": "n. (music) the fifth note of the diatonic scale\\na. exercising influence or control\\na. (of genes) producing the same phenotype whether its allele is identical or dissimilar"
+ },
+ {
+  "word": "doorstep",
+  "phonetic": "'dɒ:step",
+  "translation": "n. 门阶",
+  "definition": "n the sill of a door; a horizontal piece of wood or stone that forms the bottom of a doorway and offers support when passing through a doorway"
+ },
+ {
+  "word": "doubled",
+  "phonetic": "",
+  "translation": "v. 两倍；加倍努力；快步走（double的过去式和过去分词）",
+  "definition": "v increase twofold\\nv hit a two-base hit\\nv bend over or curl up, usually with laughter or pain\\nv do double duty; serve two purposes or have two functions\\nv bridge: make a demand for (a card or suit)\\nv make or do or perform again\\ns twice as great or many"
+ },
+ {
+  "word": "drawing",
+  "phonetic": "'drɒ:iŋ",
+  "translation": "n. 图画, 制图, 拉\\n[计] 绘图",
+  "definition": "n. an illustration that is drawn by hand and published in a book, magazine, or newspaper\\nn. a representation of forms or objects on a surface by means of lines\\nn. the creation of artistic pictures or diagrams\\nn. act of getting or draining something such as electricity or a liquid from a source"
+ },
+ {
+  "word": "earner",
+  "phonetic": "'ә:nә",
+  "translation": "n. 赚钱的人",
+  "definition": "n. someone who earn wages in return for their labor"
+ },
+ {
+  "word": "earning",
+  "phonetic": "'ә:niŋ",
+  "translation": "n. 收入（earn的现在分词）",
+  "definition": "v earn on some commercial or business transaction; earn as salary or wages\\nv acquire or deserve by one's efforts or actions"
+ },
+ {
+  "word": "earns",
+  "phonetic": "ə:nz",
+  "translation": "v. 赚得( earn的第三人称单数 ); 挣钱; 生（利）; 获（利）",
+  "definition": "v earn on some commercial or business transaction; earn as salary or wages\\nv acquire or deserve by one's efforts or actions"
+ },
+ {
+  "word": "education",
+  "phonetic": ".edju'keiʃәn",
+  "translation": "n. 教育, 训练, 教育学\\n[医] 教育, 训练",
+  "definition": "n. the activities of educating or instructing; activities that impart knowledge or skill\\nn. knowledge acquired by learning and instruction\\nn. the gradual process of acquiring knowledge\\nn. the profession of teaching (especially at a school or college or university)"
+ },
+ {
+  "word": "ever",
+  "phonetic": "'evә",
+  "translation": "adv. 曾经, 究竟, 永远",
+  "definition": "r. at any time\\nr. (intensifier for adjectives) very"
+ },
+ {
+  "word": "factor",
+  "phonetic": "'fæktә",
+  "translation": "n. 因素, 因数, 系数, 基因, 代理人\\n[计] 因式",
+  "definition": "n. anything that contributes causally to a result\\nn. any of the numbers (or symbols) that form a product when multiplied together\\nn. an independent variable in statistics\\nv. resolve into factors"
+ },
+ {
+  "word": "fairly",
+  "phonetic": "'fєәli",
+  "translation": "adv. 美观地, 公平地, 相当地, 清楚地",
+  "definition": "r. without favoring one party, in a fair evenhanded manner\\nr. in conformity with the rules or laws and without fraud or cheating"
+ },
+ {
+  "word": "feeling",
+  "phonetic": "'fi:liŋ",
+  "translation": "n. 摸, 触觉, 知觉, 感觉, 情绪, 同情\\na. 有同情心的, 有感觉的, 仁慈的, 动人的",
+  "definition": "n. the experiencing of affective and emotional states\\nn. a physical sensation that you experience\\nn. an intuitive understanding of something"
+ },
+ {
+  "word": "figure",
+  "phonetic": "'figә",
+  "translation": "n. 数字, 价格, 图形, 形状\\nvt. 描绘, 表示, 演算, 认为\\nvi. 计算, 出现, 估计",
+  "definition": "n. a diagram or picture illustrating textual material\\nn. a model of a bodily form (especially of a person)\\nn. a combination of points and lines and planes that form a visible palpable shape\\nn. an amount of money expressed numerically"
+ },
+ {
+  "word": "follow",
+  "phonetic": "'fɒlәu",
+  "translation": "vt. 跟随, 沿行, 遵循, 追求\\nvi. 跟随, 接着\\nn. 跟随, 追随",
+  "definition": "v. to travel behind, go after, come after\\nv. come as a logical consequence; follow logically\\nv. travel along a certain course\\nv. come after in time, as a result"
+ },
+ {
+  "word": "food",
+  "phonetic": "fu:d",
+  "translation": "n. 食物, 养料\\n[医] 食物, 食品",
+  "definition": "n. any substance that can be metabolized by an animal to give energy and build tissue\\nn. any solid substance (as opposed to liquid) that is used as a source of nourishment\\nn. anything that provides mental stimulus for thinking"
+ },
+ {
+  "word": "girls",
+  "phonetic": "",
+  "translation": "n. 女孩（girl的复数）",
+  "definition": "n a young woman\\nn a youthful female person\\nn a female human offspring\\nn a girl or young woman with whom a man is romantically involved\\nn a friendly informal reference to a grown woman"
+ },
+ {
+  "word": "good",
+  "phonetic": "gud",
+  "translation": "n. 善行, 好处, 利益\\na. 好的, 优良的, 上等的, 愉快的, 有益的, 好心的, 慈善的, 虔诚的",
+  "definition": "n. benefit\\nn. moral excellence or admirableness\\nn. that which is pleasing or valuable or useful\\na. having desirable or positive qualities especially those suitable for a thing specified"
+ },
+ {
+  "word": "great",
+  "phonetic": "greit",
+  "translation": "a. 大的, 非常的, 主要的, 重大的, 崇高的, 伟大的\\nadv. 顺利地, 得意地\\nn. 全部, 大人物, 大师",
+  "definition": "n. a person who has achieved distinction and honor in some field\\ns. relatively large in size or number or extent; larger than others of its kind\\ns. of major significance or importance\\ns. remarkable or out of the ordinary in degree or magnitude or effect"
+ },
+ {
+  "word": "greet",
+  "phonetic": "gri:t",
+  "translation": "vt. 问候, 致敬, 欢迎, 映入眼帘",
+  "definition": "v. express greetings upon meeting someone\\nv. send greetings to\\nv. react to in a certain way\\nv. be perceived by"
+ },
+ {
+  "word": "having",
+  "phonetic": "'hæviŋ",
+  "translation": "n. 财产, 所有物",
+  "definition": "v have or possess, either in a concrete or an abstract sense\\nv have as a feature\\nv go through (mental or physical states or experiences)\\nv have ownership or possession of\\nv cause to move; cause to be in a certain position or condition\\nv serve oneself to, or consume regularly\\nv have a personal or business relationship with someone\\nv organize or be responsible for\\nv have left\\nv be confronted with\\nv undergo\\nv suffer from; be ill with\\nv cause to do; cause to act in a specified manner\\nv receive willingly something given or offered\\nv get something; come into possession of\\nv undergo (as of injuries and illnesses)\\nv achieve a point or goal\\nv cause to be born\\nv have sex with; archaic use"
+ },
+ {
+  "word": "independence",
+  "phonetic": ".indi'pendәns",
+  "translation": "n. 独立, 自立, 自主\\n[医] 自主性, 独立性",
+  "definition": "n. freedom from control or influence of another or others\\nn. the successful ending of the American Revolution\\nn. a city in western Missouri; the beginning of the Santa Fe Trail"
+ },
+ {
+  "word": "last",
+  "phonetic": "lɑ:st",
+  "translation": "a. 最后的, 末尾的, 最近的\\nvi. 持续, 支持, 维持\\nvt. 使维持, 够...用\\nadv. 最后, 后来\\nn. 最后, 末尾, 鞋楦头",
+  "definition": "n. the last or lowest in an ordering or series\\nn. a person's dying act; the final thing a person can do\\nn. a unit of weight equal to 4,000 pounds\\nn. a unit of capacity for grain equal to 80 bushels"
+ },
+ {
+  "word": "laundry",
+  "phonetic": "'lɒ:ndri",
+  "translation": "n. 洗衣店, 洗好的衣服, 洗涤\\n[机] 洗衣作, 洗衣店, 洗衣房",
+  "definition": "n. garments or white goods that can be cleaned by laundering\\nn. workplace where clothes are washed and ironed"
+ },
+ {
+  "word": "leicester",
+  "phonetic": "'lestә",
+  "translation": "莱斯特(英国城市)",
+  "definition": "n. an industrial city in Leicestershire in central England; built on the site of a Roman settlement"
+ },
+ {
+  "word": "life",
+  "phonetic": "laif",
+  "translation": "n. 生活, 生命, 人生, 世事, 生物, 寿命, 一生, 生命力, 灵魂, 无期徒刑\\n[医] 生活, 生存, 生命, 寿命",
+  "definition": "n. a characteristic state or mode of living\\nn. the experience of being alive; the course of human events and activities\\nn. the course of existence of an individual; the actions and events that occur in living\\nn. the period during which something is functional (as between birth and death)"
+ },
+ {
+  "word": "long",
+  "phonetic": "lɒŋ",
+  "translation": "a. 长的, 长久的, 冗长的, 做多头的\\nvi. 渴望, 热望, 极想\\nadv. 长久, 始终\\nn. 长时间, 长信号, 长整型\\n[计] 长, 长整型",
+  "definition": "a. primarily temporal sense; being or indicating a relatively great or greater than average duration or passage of time or a duration as specified\\na. primarily spatial sense; of relatively great or greater than average spatial extension or extension as specified\\ns. of relatively great height\\na. holding securities or commodities in expectation of a rise in prices"
+ },
+ {
+  "word": "lose",
+  "phonetic": "lu:z",
+  "translation": "vt. 遗失, 损失, 丢失, 使失去, 错过, 浪费, 迷失, 使迷路, 输去, 使沉溺于\\nvi. 受损失, 失败",
+  "definition": "v. fail to keep or to maintain; cease to have, either physically or in an abstract sense\\nv. fail to win\\nv. suffer the loss of a person through death or removal\\nv. miss from one's possessions; lose sight of"
+ },
+ {
+  "word": "many",
+  "phonetic": "'meni",
+  "translation": "n. 多数, 多数人\\na. 许多的\\npron. 许多",
+  "definition": "a. a quantifier that can be used with count nouns and is often preceded by `as' or `too' or `so' or `that'; amounting to a large but indefinite number"
+ },
+ {
+  "word": "married",
+  "phonetic": "'mærid",
+  "translation": "a. 已婚的, 婚姻的\\n[法] 结了婚的, 有配偶的, 夫妇的",
+  "definition": "n. a person who is married\\na. joined in matrimony"
+ },
+ {
+  "word": "meals",
+  "phonetic": "",
+  "translation": "n. 膳食；谷类（meal的复数）",
+  "definition": "n the food served and eaten at one time\\nn any of the occasions for eating food that occur by custom or habit at more or less fixed times\\nn coarsely ground foodstuff; especially seeds of various cereal grasses or pulse"
+ },
+ {
+  "word": "milk",
+  "phonetic": "milk",
+  "translation": "n. 奶, 乳状物\\nvt. 挤乳, 榨取\\nvi. 产乳",
+  "definition": "n. a white nutritious liquid secreted by mammals and used as food by human beings\\nn. produced by mammary glands of female mammals for feeding their young\\nn. a river that rises in the Rockies in northwestern Montana and flows eastward to become a tributary of the Missouri River\\nn. any of several nutritive milklike liquids"
+ },
+ {
+  "word": "money",
+  "phonetic": "'mʌni",
+  "translation": "n. 金钱, 一笔款, 财富, 货币, 金额\\n[经] 货币, 金钱, 财产",
+  "definition": "n. the most common medium of exchange; functions as legal tender\\nn. wealth reckoned in terms of money\\nn. the official currency issued by a government or national bank"
+ },
+ {
+  "word": "mothers",
+  "phonetic": "",
+  "translation": "n. 母亲；根源（mother的复数）",
+  "definition": "n a woman who has given birth to a child (also used as a term of address to your mother)\\nn a stringy slimy substance consisting of yeast cells and bacteria; forms during fermentation and is added to cider or wine to produce vinegar\\nn a term of address for an elderly woman\\nn a term of address for a mother superior\\nn a condition that is the inspiration for an activity or situation\\nv care for like a mother\\nv make children"
+ },
+ {
+  "word": "number",
+  "phonetic": "'nʌmbә",
+  "translation": "n. 数, 数字, 数目, 号码\\nvt. 数, 计算, 共计\\nvi. 计算, 报数\\n[计] 数字",
+  "definition": "n. the property possessed by a sum or total or indefinite quantity of units or individuals\\nn. a concept of quantity involving zero and units\\nn. a select company of people\\nn. a numeral or string of numerals that is used for identification"
+ },
+ {
+  "word": "o",
+  "phonetic": "әu",
+  "translation": "interj. 啊, 唉, 哎呀, 哦\\nn. 零\\n[计] 操作, 运算, 输出",
+  "definition": "n. the 15th letter of the Roman alphabet\\nn. the blood group whose red cells carry neither the A nor B antigens"
+ },
+ {
+  "word": "occupation",
+  "phonetic": ".ɒkju'peiʃәn",
+  "translation": "n. 职业, 占有, 占有期, 占领, 占领军\\n[经] 占有, 占用, 职业",
+  "definition": "n. the principal activity in your life that you do to earn money\\nn. the control of a country by military forces of a foreign power\\nn. any activity that occupies a person's attention\\nn. the act of occupying or taking possession of a building"
+ },
+ {
+  "word": "often",
+  "phonetic": "'ɒ:fn",
+  "translation": "adv. 时常, 常常",
+  "definition": "r. in many cases or instances"
+ },
+ {
+  "word": "older",
+  "phonetic": "'әuldә",
+  "translation": "a. 年长的；较旧的",
+  "definition": "s advanced in years; (`aged' is pronounced as two syllables)\\ns used of the older of two persons of the same name especially used to distinguish a father from his son\\ns skilled through long experience\\na (used especially of persons) having lived for a relatively long time or attained a specific age\\na of long duration; not new\\ns (used for emphasis) very familiar\\ns skilled through long experience\\ns belonging to some prior time\\ns (used informally especially for emphasis)\\ns of a very early stage in development\\ns just preceding something else in time or order"
+ },
+ {
+  "word": "parents",
+  "phonetic": "",
+  "translation": "n. 父母；双亲（parent的复数）",
+  "definition": "n a father or mother; one who begets or one who gives birth to or nurtures and raises a child; a relative who plays the role of guardian\\nn an organism (plant or animal) from which younger ones are obtained\\nv bring up"
+ },
+ {
+  "word": "passage",
+  "phonetic": "'pæsidʒ",
+  "translation": "n. 通道, 通过, 移居, 航行, 一段, 走廊\\nvi. 通过, 经过, 航行, 横渡, 争吵\\nvt. (使)马以斜横步前进, 使传代",
+  "definition": "n. the act of passing from one state or place to the next\\nn. a section of text; particularly a section of medium length\\nn. a way through or along which someone or something may pass\\nn. a journey usually by ship"
+ },
+ {
+  "word": "place",
+  "phonetic": "pleis",
+  "translation": "n. 地方, 地点, 位置, 住所, 座位, 地位, 处境, 特权, 空间, 余地, 职务, 位\\nvt. 放置, 寄予, 认出, 评定, 任命\\nvi. 名次列前",
+  "definition": "n. any area set aside for a particular purpose\\nn. an abstract mental location\\nn. a general vicinity\\nn. a particular situation"
+ },
+ {
+  "word": "practice",
+  "phonetic": "'præktis",
+  "translation": "n. 实践, 练习, 实行, 惯例, 习惯, 开业\\nv. 实践, 实行, 练习, 实习, 业务",
+  "definition": "n. a customary way of operation or behavior\\nn. translating an idea into action\\nn. the exercise of a profession\\nn. knowledge of how something is usually done"
+ },
+ {
+  "word": "preserved",
+  "phonetic": "",
+  "translation": "a. 喝醉的\\n[计] 保留的",
+  "definition": "a. prevented from decaying or spoiling and prepared for future use\\na. kept intact or in a particular condition"
+ },
+ {
+  "word": "prevents",
+  "phonetic": "",
+  "translation": "v. 预防；阻止（prevent的第三人称单数）",
+  "definition": "v keep from happening or arising; make impossible\\nv stop (someone or something) from doing something or being in a certain state"
+ },
+ {
+  "word": "pursue",
+  "phonetic": "pә'sju:",
+  "translation": "vt. 追赶, 追踪, 追随, 追求, 实行, 继续, 从事\\nvi. 追赶, 继续",
+  "definition": "v. follow in or as if in pursuit\\nv. carry further or advance"
+ },
+ {
+  "word": "rarely",
+  "phonetic": "'rєәli",
+  "translation": "adv. 很少地, 罕有地",
+  "definition": "r. not often"
+ },
+ {
+  "word": "readymade",
+  "phonetic": "",
+  "translation": "n. <准备好>杂志, 美国"
+ },
+ {
+  "word": "restaurant",
+  "phonetic": "'restәrɒŋ",
+  "translation": "n. 餐馆, 饭店",
+  "definition": "n. a building where people go to eat"
+ },
+ {
+  "word": "return",
+  "phonetic": "ri'tә:n",
+  "translation": "n. 回来, 返回, 来回票, 归还, 报答, 利润率, 报告书\\na. 返回的, 回程的, 报答的, 反向的, 重现的, 复原的\\nvi. 返回, 归还, 回来\\nvt. 归还, 还, 回报, 产生, 反射, 报告, 申报, 退回\\n[计] 返回",
+  "definition": "n. a coming to or returning home\\nn. the occurrence of a change in direction back in the opposite direction\\nn. the act of going back to a prior location\\nn. the income or profit arising from such transactions as the sale of land or other property"
+ },
+ {
+  "word": "room",
+  "phonetic": "ru:m",
+  "translation": "n. 房间, 空位, 场所\\nvi. 住宿, 居住\\nvt. 留宿",
+  "definition": "n. an area within a building enclosed by walls and floor and ceiling\\nn. space for movement\\nn. opportunity for\\nn. the people who are present in a room"
+ },
+ {
+  "word": "see",
+  "phonetic": "si:",
+  "translation": "vt. 看见, 查看, 参观, 游览, 理解, 知道, 同意\\nvi. 看, 观看, 注意, 知道, 考虑\\nn. 主教的职位",
+  "definition": "n. the seat within a bishop's diocese where his cathedral is located\\nv. perceive by sight or have the power to perceive by sight\\nv. deem to be\\nv. be careful or certain to do something; make certain of something"
+ },
+ {
+  "word": "smith",
+  "phonetic": "smiθ",
+  "translation": "n. 铁匠, 金属品工匠\\n[机] 锻造工, 上手",
+  "definition": "n. Rhodesian statesman who declared independence of Zimbabwe from Great Britain (born in 1919)\\nn. United States sculptor (1906-1965)\\nn. United States singer noted for her rendition of patriotic songs (1909-1986)"
+ },
+ {
+  "word": "something",
+  "phonetic": "'sʌmθiŋ",
+  "translation": "pron. 某事, 某物",
+  "definition": "n. Anything unknown, undetermined, or not specifically\\n   designated; a certain indefinite thing; an indeterminate or unknown\\n   event; an unspecified task, work, or thing.\\nn. A part; a portion, more or less; an indefinite quantity\\n   or degree; a little.\\nn. A person or thing importance.\\nadv. In some degree; somewhat; to some extent; at some\\n   distance."
+ },
+ {
+  "word": "soon",
+  "phonetic": "su:n",
+  "translation": "adv. 不久, 早, 快, 宁可",
+  "definition": "r. in the near future"
+ },
+ {
+  "word": "still",
+  "phonetic": "stil",
+  "translation": "n. 蒸馏室, 寂静, 剧照\\nv. 蒸馏, (使)平静, (使)静止\\na. 静止的, 不动的, 静寂的, 不起泡的, 静物摄影的\\nadv. 仍然, 更, 静止地\\nconj. 然而, 但是",
+  "definition": "n. a static photograph (especially one taken from a movie and used for advertising purposes)\\nn. an apparatus used for the distillation of liquids; consists of a vessel in which a substance is vaporized by heat and a condenser where the vapor is condensed\\nv. lessen the intensity of or calm\\nv. make motionless"
+ },
+ {
+  "word": "substantial",
+  "phonetic": "sәb'stænʃәl",
+  "translation": "n. 重要材料(或事物), 有实际价值的东西\\na. 实质上的, 物质的, 有内容的, 结实的",
+  "definition": "s. having a firm basis in reality and being therefore important, meaningful, or considerable\\na. having substance or capable of being treated as fact; not imaginary"
+ },
+ {
+  "word": "textile",
+  "phonetic": "'tekstail",
+  "translation": "n. 纺织品, 纺织业\\na. 织的, 纺织的",
+  "definition": "a. of or relating to fabrics or fabric making"
+ },
+ {
+  "word": "therefore",
+  "phonetic": "'ðєәfɒ:",
+  "translation": "adv. 因此, 所以",
+  "definition": "r. (used to introduce a logical conclusion) from that fact or reason or as a result"
+ },
+ {
+  "word": "today",
+  "phonetic": "tә'dei",
+  "translation": "n. 今天, 当今, 现在\\nadv. 今天, 当今",
+  "definition": "n. the present time or age\\nn. the day that includes the present moment (as opposed to yesterday or tomorrow)\\nr. on this day as distinct from yesterday or tomorrow"
+ },
+ {
+  "word": "towns",
+  "phonetic": "",
+  "translation": "n. 汤斯",
+  "definition": "n an urban area with a fixed boundary that is smaller than a city\\nn the people living in a municipality smaller than a city\\nn an administrative division of a county\\nn United States architect who was noted for his design and construction of truss bridges (1784-1844)"
+ },
+ {
+  "word": "trade",
+  "phonetic": "treid",
+  "translation": "n. 贸易, 商业, 交易, 生意, 职业, 顾客, 信风\\nvi. 进行交易, 做买卖, 经商, 对换, 购物\\nvt. 用...进行交换",
+  "definition": "n. the commercial exchange (buying and selling on domestic or international markets) of goods and services\\nn. the skilled practice of a practical occupation\\nn. the business given to a commercial establishment by its customers\\nv. engage in the trade of"
+ },
+ {
+  "word": "trained",
+  "phonetic": "treind",
+  "translation": "a. 训练过的, 受过培训的；培训",
+  "definition": "a. shaped or conditioned or disciplined by training; often used as a combining form"
+ },
+ {
+  "word": "used",
+  "phonetic": "'ju:st",
+  "translation": "a. 使用过的, 二手的, 习惯的",
+  "definition": "a. employed in accomplishing something"
+ },
+ {
+  "word": "value",
+  "phonetic": "'vælju:",
+  "translation": "n. 价值, 价格, 购买力, 评价, 估价, 计算结果\\nvt. 评价, 估价, 重视\\n[计] 计算结果",
+  "definition": "n. a numerical quantity measured or assigned or computed\\nn. the quality (positive or negative) that renders something desirable or valuable\\nn. the amount (of money or goods or services) that is considered to be a fair equivalent for something else\\nn. relative darkness or lightness of a color"
+ },
+ {
+  "word": "w",
+  "phonetic": "'dʌb(ә)lju:",
+  "translation": "[计] 等待, 写, 字\\n[医] 钨(74号元素)",
+  "definition": "n. the 23rd letter of the Roman alphabet"
+ },
+ {
+  "word": "wage",
+  "phonetic": "weidʒ",
+  "translation": "n. 工资, 报应, 报偿\\nvt. 开展, 进行\\nvi. 进行",
+  "definition": "n. something that remunerates"
+ },
+ {
+  "word": "wages",
+  "phonetic": "",
+  "translation": "n. 工资, 报酬, 薪金, 工钱, 报应, 报答, 年产额\\n[化] 工资",
+  "definition": "n. a recompense for worthy acts or retribution for wrongdoing"
+ },
+ {
+  "word": "washing",
+  "phonetic": "'wɒʃiŋ",
+  "translation": "n. 洗涤, 浸, 洗涤物\\n[机] 涂浆, 洗涤",
+  "definition": "n the work of cleansing (usually with soap and water)\\nn garments or white goods that can be cleaned by laundering\\nv clean with some chemical process\\nv cleanse (one's body) with soap and water\\nv cleanse with a cleaning agent, such as soap, and water\\nv move by or as if by water\\nv be capable of being washed\\nv admit to testing or proof\\nv separate dirt or gravel from (precious minerals)\\nv apply a thin coating of paint, metal, etc., to\\nv remove by the application of water or other liquid and soap or some other cleaning agent\\nv form by erosion\\nv make moist\\nv wash or flow against\\nv to cleanse (itself or another animal) by licking"
+ },
+ {
+  "word": "wide",
+  "phonetic": "waid",
+  "translation": "a. 宽的, 广阔的, 普遍的, 宽阔的, 广泛的, 一般的\\nadv. 广阔地, 遍及各处地, 广泛地\\nn. 大千世界",
+  "definition": "a. having great (or a certain) extent from one side to the other\\na. great in degree\\ns. having ample fabric\\ns. not on target"
+ },
+ {
+  "word": "widespread",
+  "phonetic": "'waidspred",
+  "translation": "a. 充分伸展的, 广布的, 普及的, 流传广的",
+  "definition": "s. widely circulated or diffused"
+ },
+ {
+  "word": "women",
+  "phonetic": "'wimin",
+  "translation": "pl. 女人",
+  "definition": "n an adult female person (as opposed to a man)\\nn a female person who plays a significant role (wife or mistress or girlfriend) in the life of a particular man\\nn a human female employed to do housework\\nn women as a class"
+ },
+ {
+  "word": "working",
+  "phonetic": "'wә:kiŋ",
+  "translation": "n. 工作, 运转, 劳动\\na. 工作的, 劳动的, 经营的, 抽搐的, 运转的",
+  "definition": "n. a mine or quarry that is being or has been worked\\ns. actively engaged in paid work\\ns. adequate for practical use; especially sufficient in strength or numbers to accomplish something\\ns. adopted as a temporary basis for further work"
+ },
+ {
+  "word": "workshop",
+  "phonetic": "'wә:kʃɒp",
+  "translation": "n. 工场, 车间, 研讨会\\n[计] 讨论会; 专题研究组",
+  "definition": "n. small workplace where handcrafts or manufacturing are done\\nn. a brief intensive course for a small group; emphasizes problem solving"
+ },
+ {
+  "word": "years",
+  "phonetic": "",
+  "translation": "n. 年代；岁月；年；年龄",
+  "definition": "n a late time of life\\nn a prolonged period of time\\nn the time during which someone's life continues\\nn a period of time containing 365 (or 366) days\\nn a period of time occupying a regular part of a calendar year that is used for some particular activity\\nn the period of time that it takes for a planet (as, e.g., Earth or Mars) to make a complete revolution around the sun\\nn a body of students who graduate together"
+ },
+ {
+  "word": "young",
+  "phonetic": "jʌŋ",
+  "translation": "a. 年轻的, 无经验的, 朝气蓬勃的\\nn. 青年们, 幼小动物, 崽",
+  "definition": "n. any immature animal\\nn. United States film and television actress (1913-2000)\\nn. United States civil rights leader (1921-1971)\\nn. British physicist and Egyptologist; he revived the wave theory of light and proposed a three-component theory of color vision; he also played an important role in deciphering the hieroglyphics on the Rosetta Stone (1773-1829)"
+ }
+]
