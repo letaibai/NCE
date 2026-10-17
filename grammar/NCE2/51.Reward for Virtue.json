@@ -2,22 +2,106 @@
  "expand": [
   {
    "title": "易混淆词Raise & Rise",
-   "lines": [
-    "raise rise lie lay laid lay lie beat win 不规则动词",
-    "raise（靠外力升起）作动词时只能作 及物vt. 动词 (即它必须跟宾语。它可以表示“举起，往上提，使…升高”等含义) Will those who agree with me please raise their hands? Why did they raise prices? Heavy rains have raised the level of the river this year.",
-    "rise (自主升起)作动词时通常为 不及物vi. 动词 (表示“起立，起床，（日、月等）升起”等含义) You’re still in bed and the sun has already risen ! All the students rose when the teacher came into the classroom.",
-    "lie 说谎(规则变化) lied lied lying",
-    "躺/处于；位于 lay lain lying",
-    "lay lie 的过去式",
-    "放置、摆放/产卵;下蛋 laid laid laying",
-    "lay（laid，laid） vt. 置，搁，下蛋，准备 lie（ lay ，lain） vi. 躺，平卧",
-    "I laid your clothes on the bed so you could put them away. If you can’t cook the dinner, you can at least lay the table. Are you going to spend the whole morning lying in bed?",
-    "I lay in bed till 10 o' clock last Sunday morning. It is nice to get up in the morning, but it's nicer to lie in bed. Lay those parcels on the floor, please. Haven' t you laid the table yet?",
-    "beat vt. 打败，战胜，胜过，超过 win vt. 在…获胜（成功），赢得，获得，夺得",
-    "They beat their enemy, though they were fewer in number. I beat you. 我打败了你。表示一个球队打败另一个球队也用 beat。 Who won the race/ the war?beat 后面接对手，win 不能接对手。",
-    "原型 (do) 过去式 (did) 过去分词 (done) 现在分词 (doing)",
-    "forbid forbade forbidden forbidding",
-    "lead led led"
+   "parts": [
+    {
+     "text": "raise rise lie lay laid lay lie beat win 不规则动词"
+    },
+    {
+     "table": {
+      "headers": [
+       "raise（靠外力升起）作动词时只能作 及物vt. 动词 (即它必须跟宾语。它可以表示“举起，往上提，使…升高”等含义)",
+       "rise (自主升起)作动词时通常为 不及物vi. 动词 (表示“起立，起床，（日、月等）升起”等含义)"
+      ],
+      "rows": [
+       [
+        "Will those who agree with me please raise their hands? Why did they raise prices? Heavy rains have raised the level of the river this year."
+       ],
+       [
+        "You’re still in bed and the sun has already risen ! All the students rose when the teacher came into the classroom."
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "lie",
+       "lay"
+      ],
+      "rows": [
+       [
+        "说谎(规则变化)",
+        "lied lied lying"
+       ],
+       [
+        "躺/处于；位于",
+        "lay lain lying"
+       ],
+       [
+        "lie 的过去式"
+       ],
+       [
+        "放置、摆放/产卵;下蛋",
+        "laid laid laying"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "lay（laid，laid） vt. 置，搁，下蛋，准备",
+       "lie（ lay ，lain） vi. 躺，平卧"
+      ],
+      "rows": [
+       [
+        "I laid your clothes on the bed so you could put them away. If you can’t cook the dinner, you can at least lay the table.",
+        "Are you going to spend the whole morning lying in bed?"
+       ],
+       [
+        "I lay in bed till 10 o' clock last Sunday morning. It is nice to get up in the morning, but it's nicer to lie in bed. Lay those parcels on the floor, please. Haven' t you laid the table yet?"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "beat vt. 打败，战胜，胜过，超过",
+       "win vt. 在…获胜（成功），赢得，获得，夺得"
+      ],
+      "rows": [
+       [
+        "They beat their enemy, though they were fewer in number. I beat you. 我打败了你。表示一个球队打败另一个球队也用 beat。",
+        "Who won the race/ the war?beat 后面接对手，win 不能接对手。"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "原型 (do)",
+       "过去式 (did)",
+       "过去分词 (done)",
+       "现在分词 (doing)"
+      ],
+      "rows": [
+       [
+        "forbid",
+        "forbade",
+        "forbidden",
+        "forbidding"
+       ],
+       [
+        "lead",
+        "led",
+        "led",
+        ""
+       ]
+      ]
+     }
+    }
    ]
   }
  ]

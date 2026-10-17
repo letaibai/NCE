@@ -2,52 +2,173 @@
  "grammar": [
   {
    "title": "与 put 有关的短语动词",
-   "lines": [
-    "put up with 容忍，忍受 I can’t believe that he can put up with this.",
-    "put up 搭建，搭建； They put up their tent in the middle of a field.",
-    "安排住宿 为…提供膳宿，夜宿 It’s raining heavily. We must put them up tonight.雨下得很大，我们今晚必须为他们安排住宿。",
-    "put out 扑灭 They put out the fire and crept into their tent. Father is putting out the fire he lit in the garden.",
-    "put on 穿上 I ’m putting on my coat.",
-    "put away 把…收好，放好 Your room is untidy, put your things away. I have put away all my clothes. Mrs. Bowers told her children to put their toys away and go to bed.",
-    "put off 推迟，拖延 Don’t put your exercises off until tomorrow. The meeting has been put off. I have put off my trip to Japan until next month.",
-    "put down = write down 记下，写下，记录下 Have you put down the boss’s words?",
-    "原型 (do) 过去式 (did) 过去分词 (done)",
-    "smell smelled smelled",
-    "smelt smelt",
-    "creep crept crept",
-    "sleep slept slept",
-    "wake woke woke",
-    "leap leaped leaped",
-    "leapt leapt",
-    "wind wound wound"
+   "parts": [
+    {
+     "table": {
+      "headers": [
+       "put up with",
+       "put up",
+       "put out",
+       "put on",
+       "put away",
+       "put off",
+       "put down = write down"
+      ],
+      "rows": [
+       [
+        "容忍，忍受",
+        "I can’t believe that he can put up with this."
+       ],
+       [
+        "搭建，搭建；",
+        "They put up their tent in the middle of a field."
+       ],
+       [
+        "安排住宿 为…提供膳宿，夜宿",
+        "It’s raining heavily. We must put them up tonight.雨下得很大，我们今晚必须为他们安排住宿。"
+       ],
+       [
+        "扑灭",
+        "They put out the fire and crept into their tent. Father is putting out the fire he lit in the garden."
+       ],
+       [
+        "穿上",
+        "I ’m putting on my coat."
+       ],
+       [
+        "把…收好，放好",
+        "Your room is untidy, put your things away. I have put away all my clothes. Mrs. Bowers told her children to put their toys away and go to bed."
+       ],
+       [
+        "推迟，拖延",
+        "Don’t put your exercises off until tomorrow. The meeting has been put off. I have put off my trip to Japan until next month."
+       ],
+       [
+        "记下，写下，记录下",
+        "Have you put down the boss’s words?"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "原型 (do)",
+       "过去式 (did)",
+       "过去分词 (done)"
+      ],
+      "rows": [
+       [
+        "smell",
+        "smelled",
+        "smelled"
+       ],
+       [
+        "smelt",
+        "smelt"
+       ],
+       [
+        "creep",
+        "crept",
+        "crept"
+       ],
+       [
+        "sleep",
+        "slept",
+        "slept"
+       ],
+       [
+        "wake",
+        "woke",
+        "woke"
+       ],
+       [
+        "leap",
+        "leaped",
+        "leaped"
+       ],
+       [
+        "leapt",
+        "leapt"
+       ],
+       [
+        "wind",
+        "wound",
+        "wound"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "与公园相关的词汇 Park Vocabulary",
-   "lines": [
-    "balloon: The boy was holding a red balloon.",
-    "bench: The man was sitting on a bench, reading his newspaper.",
-    "boat: We could see several boats in the middle of the pond.",
-    "bush: There was a large bush with beautiful green leaves.",
-    "dust bin (UK): I finished my banana and threw the peel in the dust bin.",
-    "fence: There was a metal fence surrounding the park.",
-    "flowers: We saw many colourful flowers when we were at the park.",
-    "fountain: There water came up through the fountain and into the pool below.",
-    "gate: We opened the gate and entered the park.",
-    "grass: We sat down on the grass and drank our coffee.",
-    "mat: We put our mat down on the grass, and then we sat down.",
-    "path: There was a path leading from one side of the park to the other.",
-    "pet: Many people like to walk their pets in the park, and mostly they are dogs.",
-    "picnic: As it was a sunny day, we decided to have a picnic in the park.",
-    "pond: The water in the pond was very cold.",
-    "puddle: After the rain, there were lots of puddles on the ground.",
-    "skateboard: We watched the boy riding his skateboard through the park.",
-    "statue: There was a statue of a man in the middle of the park.",
-    "swan: There were many white swans swimming in the lake.",
-    "trash can (US): I finished my banana and threw the peel in the trash can.",
-    "tree: We sat in the park and looked up at the tall trees."
+   "parts": [
+    {
+     "text": "balloon: The boy was holding a red balloon."
+    },
+    {
+     "text": "bench: The man was sitting on a bench, reading his newspaper."
+    },
+    {
+     "text": "boat: We could see several boats in the middle of the pond."
+    },
+    {
+     "text": "bush: There was a large bush with beautiful green leaves."
+    },
+    {
+     "text": "dust bin (UK): I finished my banana and threw the peel in the dust bin."
+    },
+    {
+     "text": "fence: There was a metal fence surrounding the park."
+    },
+    {
+     "text": "flowers: We saw many colourful flowers when we were at the park."
+    },
+    {
+     "text": "fountain: There water came up through the fountain and into the pool below."
+    },
+    {
+     "text": "gate: We opened the gate and entered the park."
+    },
+    {
+     "text": "grass: We sat down on the grass and drank our coffee."
+    },
+    {
+     "text": "mat: We put our mat down on the grass, and then we sat down."
+    },
+    {
+     "text": "path: There was a path leading from one side of the park to the other."
+    },
+    {
+     "text": "pet: Many people like to walk their pets in the park, and mostly they are dogs."
+    },
+    {
+     "text": "picnic: As it was a sunny day, we decided to have a picnic in the park."
+    },
+    {
+     "text": "pond: The water in the pond was very cold."
+    },
+    {
+     "text": "puddle: After the rain, there were lots of puddles on the ground."
+    },
+    {
+     "text": "skateboard: We watched the boy riding his skateboard through the park."
+    },
+    {
+     "text": "statue: There was a statue of a man in the middle of the park."
+    },
+    {
+     "text": "swan: There were many white swans swimming in the lake."
+    },
+    {
+     "text": "trash can (US): I finished my banana and threw the peel in the trash can."
+    },
+    {
+     "text": "tree: We sat in the park and looked up at the tall trees."
+    }
    ]
   }
  ]

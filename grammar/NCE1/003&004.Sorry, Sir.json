@@ -2,74 +2,290 @@
  "grammar": [
   {
    "title": "否定句",
-   "lines": [
-    "重要的英语基础知识补充 在英语中，我们将单词分为了名词（noun）、动词（verb）、形容词（adjective）等共10个词性用于描述一个单词在句子中的不同作用和功能。词性对于理解和构建正确的句子结构非常重要，一个单词的词性决定了其在句子中的意思、位置、变化方式等，在西方语言体系中，非常看重词性。同样的一个单词，由于词性的不同，也会代表着不同的意思，如：fall (名词： 秋天 ，动词： 掉落 )，water（名词： 水 ，动词： 浇水 ）,fine（形容词： 美好的 ，动、名词： 罚款 ） 以下是一些帮助您区分英语单词词性的方法 口语缩写( 发音 同时产生变化，书面语通常使用完整表达)",
-    "单词分类 缩写 用法 示例(选中单词将弹出解释)",
-    "实 词 名词（Noun） n. 描述人、地点、事物、想法、抽象概念等 book（书）、table（桌子）、happiness（幸福）",
-    "动词（Verb） v. 描述行动、状态或存在 run（跑）、sing（唱歌）、exist（存在）",
-    "形容词（Adjective） adj. 描述人或事物的特征或性质 beautiful（美丽的）、happy（快乐的）、smart（聪明的）",
-    "副词（Adverb） adv. 描述动词、形容词、其他副词等的程度、方式、频率等 quickly（快速地）、very（非常）、often（经常）、abroad (在国外)",
-    "代词（Pronoun） pron. 替代名词或指示特定的人、事物等 he（他）、she（她）、I（我）、you (你)、it(它)",
-    "数词（Numeral） num. 描述数量或顺序 one（一）、first（第一）、twenty（二十）",
-    "虚 词 连词（Conjunction） conj. 用于连接句子、短语或单词 and（和）、but（但是）、or（或者）",
-    "冠词（Article） art. 限定名词 a/an（一个）、the（那个）、无冠词",
-    "介词（Preposition） prep. 描述名词和其他成分之间的关系，如时间、空间等 in（在…里面）、on（在…上面）、with（带着、伴随着有...）",
-    "感叹词（Interjection） interj. 表示惊奇、喜悦、痛苦等情感 oh（哦）、wow（哇）、alas（唉）",
-    "特定后缀或前缀：有些单词可以通过其特定的后缀或前缀组成，从而推测出其词性。例如，以“-er”结尾的单词通常是动词变成名词的情况，如“sing”（动词）和“singer”（名词）。",
-    "上下文：词汇的上下文可以帮助我们确定单词的含义和词性。例如，如果这个单词出现在一个描述人的句子中，那么它很可能是一个名词或形容词。",
-    "词性标志：在一些辞典或语法书中，会使用符号或简写来标记不同的词性。例如，在某些词典中，“n.”表示名词，“v.”表示动词，“adj.”表示形容词。",
-    "语法规则：英语的语法规则也可以帮助我们识别单词的词性。例如，形容词通常位于名词前面，副词通常位于动词后面等等。",
-    "记忆词汇表：您可以创建一个自己的词汇表并将每个单词及其相应的词性列出来，以帮助您更好地记忆它们。",
-    "肯定句(你 是 一个学生) 否定句(你 不是 一个学生)",
-    "I am happy. （我很快乐） I am not happy. 在be动词后加not",
-    "I like coffee.（我喜欢咖啡） I do n't like coffee. 借用助动词do+not",
-    "He can swim.（他会游泳） He can not swim. 情态动词后直接加not",
-    "There is some milk. 有一些牛奶 There is no milk left. 使用具有否定意义的词语或短语",
-    "They are not my books ⇔ They are n't my books.",
-    "You are not Tom. ⇔ You are n’t Tom.",
-    "She is not here. ⇔ She is n’t here.",
-    "I am not Linda. = I ’m not Linda. 注意缩写位置",
-    "is not = isn't 第三人称单数 This is my name. → This is n't my name. 这不是我的名字 This is my car. → This is not my car. 这不是我的车 This is my ____. → This isn't my ____. 这不是我的...",
-    "I am not = I'm not 第一人称 I am a man. → I 'm not a boy. 我是一个男子汉，不是一个小孩子。 I am a teacher. → I am not a teacher. 我不是老师 I 'm angry. = I 'm not happy. 我生气了/不高兴了。",
-    "are not = aren't 复数&第二人称 You are my friend. → You are not my friend. 你是/不是我的朋友。 They are my classmates. → They are n't my classmates. 他们是/不是我的同学。"
+   "parts": [
+    {
+     "text": "重要的英语基础知识补充 在英语中，我们将单词分为了名词（noun）、动词（verb）、形容词（adjective）等共10个词性用于描述一个单词在句子中的不同作用和功能。词性对于理解和构建正确的句子结构非常重要，一个单词的词性决定了其在句子中的意思、位置、变化方式等，在西方语言体系中，非常看重词性。同样的一个单词，由于词性的不同，也会代表着不同的意思，如：fall (名词： 秋天 ，动词： 掉落 )，water（名词： 水 ，动词： 浇水 ）,fine（形容词： 美好的 ，动、名词： 罚款 ） 以下是一些帮助您区分英语单词词性的方法 口语缩写( 发音 同时产生变化，书面语通常使用完整表达)"
+    },
+    {
+     "table": {
+      "headers": [
+       "单词分类",
+       "缩写",
+       "用法",
+       "示例(选中单词将弹出解释)",
+       "实 词",
+       "虚 词"
+      ],
+      "rows": [
+       [
+        "名词（Noun）",
+        "n.",
+        "描述人、地点、事物、想法、抽象概念等",
+        "book（书）、table（桌子）、happiness（幸福）"
+       ],
+       [
+        "动词（Verb）",
+        "v.",
+        "描述行动、状态或存在",
+        "run（跑）、sing（唱歌）、exist（存在）"
+       ],
+       [
+        "形容词（Adjective）",
+        "adj.",
+        "描述人或事物的特征或性质",
+        "beautiful（美丽的）、happy（快乐的）、smart（聪明的）"
+       ],
+       [
+        "副词（Adverb）",
+        "adv.",
+        "描述动词、形容词、其他副词等的程度、方式、频率等",
+        "quickly（快速地）、very（非常）、often（经常）、abroad (在国外)"
+       ],
+       [
+        "代词（Pronoun）",
+        "pron.",
+        "替代名词或指示特定的人、事物等",
+        "he（他）、she（她）、I（我）、you (你)、it(它)"
+       ],
+       [
+        "数词（Numeral）",
+        "num.",
+        "描述数量或顺序",
+        "one（一）、first（第一）、twenty（二十）"
+       ],
+       [
+        "连词（Conjunction）",
+        "conj.",
+        "用于连接句子、短语或单词",
+        "and（和）、but（但是）、or（或者）"
+       ],
+       [
+        "冠词（Article）",
+        "art.",
+        "限定名词",
+        "a/an（一个）、the（那个）、无冠词"
+       ],
+       [
+        "介词（Preposition）",
+        "prep.",
+        "描述名词和其他成分之间的关系，如时间、空间等",
+        "in（在…里面）、on（在…上面）、with（带着、伴随着有...）"
+       ],
+       [
+        "感叹词（Interjection）",
+        "interj.",
+        "表示惊奇、喜悦、痛苦等情感",
+        "oh（哦）、wow（哇）、alas（唉）"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "特定后缀或前缀：有些单词可以通过其特定的后缀或前缀组成，从而推测出其词性。例如，以“-er”结尾的单词通常是动词变成名词的情况，如“sing”（动词）和“singer”（名词）。"
+    },
+    {
+     "text": "上下文：词汇的上下文可以帮助我们确定单词的含义和词性。例如，如果这个单词出现在一个描述人的句子中，那么它很可能是一个名词或形容词。"
+    },
+    {
+     "text": "词性标志：在一些辞典或语法书中，会使用符号或简写来标记不同的词性。例如，在某些词典中，“n.”表示名词，“v.”表示动词，“adj.”表示形容词。"
+    },
+    {
+     "text": "语法规则：英语的语法规则也可以帮助我们识别单词的词性。例如，形容词通常位于名词前面，副词通常位于动词后面等等。"
+    },
+    {
+     "text": "记忆词汇表：您可以创建一个自己的词汇表并将每个单词及其相应的词性列出来，以帮助您更好地记忆它们。"
+    },
+    {
+     "table": {
+      "headers": [
+       "肯定句(你 是 一个学生)",
+       "否定句(你 不是 一个学生)"
+      ],
+      "rows": [
+       [
+        "I am happy. （我很快乐）",
+        "I am not happy. 在be动词后加not"
+       ],
+       [
+        "I like coffee.（我喜欢咖啡）",
+        "I do n't like coffee. 借用助动词do+not"
+       ],
+       [
+        "He can swim.（他会游泳）",
+        "He can not swim. 情态动词后直接加not"
+       ],
+       [
+        "There is some milk. 有一些牛奶",
+        "There is no milk left. 使用具有否定意义的词语或短语"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "They are not my books ⇔ They are n't my books."
+    },
+    {
+     "text": "You are not Tom. ⇔ You are n’t Tom."
+    },
+    {
+     "text": "She is not here. ⇔ She is n’t here."
+    },
+    {
+     "text": "I am not Linda. = I ’m not Linda. 注意缩写位置"
+    },
+    {
+     "table": {
+      "headers": [
+       "is not = isn't 第三人称单数",
+       "I am not = I'm not 第一人称",
+       "are not = aren't 复数&第二人称"
+      ],
+      "rows": [
+       [
+        "This is my name. → This is n't my name. 这不是我的名字 This is my car. → This is not my car. 这不是我的车 This is my ____. → This isn't my ____. 这不是我的..."
+       ],
+       [
+        "I am a man. → I 'm not a boy. 我是一个男子汉，不是一个小孩子。 I am a teacher. → I am not a teacher. 我不是老师 I 'm angry. = I 'm not happy. 我生气了/不高兴了。"
+       ],
+       [
+        "You are my friend. → You are not my friend. 你是/不是我的朋友。 They are my classmates. → They are n't my classmates. 他们是/不是我的同学。"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "美式与英式发音的区别",
-   "lines": [
-    "美式 英语和 英式 英语在发音上有一些区别 需要注意的是，这只是一些常见的发音差异，实际上在美式英语和英式英语之间还存在许多细微的差别。此外，这些差异在不同地区和口音下也可能有所变化。 Is this your…? 这是你的 … 吗 ？ \"Is this your...?\" 是一个常见的句型，用于询问某物是否属于对方。这个句型可以根据具体情况进行填充。 句子中的\"this\"代表着提问者 手边 所指的物品(that 则为离手较远的物品)，\"your\"表示所询问的物品是否 属于 对方。根据具体语境，可以更换\"this\"为其他指示代词或名词来适应不同的问句。",
-    "发音差异 美式英语中，有时会将 \"r\" 音更清晰地发出 \"car\" 发为 /kɑr/；而在英式英语中，\"r\" 音可能会被弱化或省略",
-    "元音发音 一些元音发音也存在差异 在美式英语中，\"a\" 在单词 \"dance\" 中发音为 /æ/，而在英式英语中发音更接近 /ɑː/，这也影响了其他含有该元音的单词的发音。",
-    "辅音发音 某些辅音的发音也不同 在美式英语中，\"t\" 和 \"r\" 在单词 \"water\" 中分别发音为 /wɔːtɚ/，而在英式英语中为 /wɔːtə/。",
-    "重音位置 有些单词的重音位置在美式英语和英式英语中也会有所不同 \"advertisement\" 在美式英语中重音在第三个音节，读作 /ˌædvərˈtaɪzmənt/，而在英式英语中重音在第四个音节，读作 /ədˈvɜːtɪsmənt/。",
-    "Is this your bag?（这是你的包吗？） ⇒ No, it isn't.",
-    "Is this your car?（这是你的车吗？） ⇒ Yes, it is.",
-    "Is this her book?（这是她的书吗？）⇒ Yes, it is.",
-    "Is that his house?（那是他的房子吗？）⇒ No, it isn't."
+   "parts": [
+    {
+     "text": "美式 英语和 英式 英语在发音上有一些区别 需要注意的是，这只是一些常见的发音差异，实际上在美式英语和英式英语之间还存在许多细微的差别。此外，这些差异在不同地区和口音下也可能有所变化。 Is this your…? 这是你的 … 吗 ？ \"Is this your...?\" 是一个常见的句型，用于询问某物是否属于对方。这个句型可以根据具体情况进行填充。 句子中的\"this\"代表着提问者 手边 所指的物品(that 则为离手较远的物品)，\"your\"表示所询问的物品是否 属于 对方。根据具体语境，可以更换\"this\"为其他指示代词或名词来适应不同的问句。"
+    },
+    {
+     "table": {
+      "headers": [
+       "发音差异 美式英语中，有时会将 \"r\" 音更清晰地发出",
+       "元音发音 一些元音发音也存在差异",
+       "辅音发音 某些辅音的发音也不同",
+       "重音位置 有些单词的重音位置在美式英语和英式英语中也会有所不同"
+      ],
+      "rows": [
+       [
+        "\"car\" 发为 /kɑr/；而在英式英语中，\"r\" 音可能会被弱化或省略"
+       ],
+       [
+        "在美式英语中，\"a\" 在单词 \"dance\" 中发音为 /æ/，而在英式英语中发音更接近 /ɑː/，这也影响了其他含有该元音的单词的发音。"
+       ],
+       [
+        "在美式英语中，\"t\" 和 \"r\" 在单词 \"water\" 中分别发音为 /wɔːtɚ/，而在英式英语中为 /wɔːtə/。"
+       ],
+       [
+        "\"advertisement\" 在美式英语中重音在第三个音节，读作 /ˌædvərˈtaɪzmənt/，而在英式英语中重音在第四个音节，读作 /ədˈvɜːtɪsmənt/。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Is this your bag?（这是你的包吗？） ⇒ No, it isn't."
+    },
+    {
+     "text": "Is this your car?（这是你的车吗？） ⇒ Yes, it is."
+    },
+    {
+     "text": "Is this her book?（这是她的书吗？）⇒ Yes, it is."
+    },
+    {
+     "text": "Is that his house?（那是他的房子吗？）⇒ No, it isn't."
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "英文字母何时需要大写？",
-   "lines": [
-    "自然拼音 英文字母何时需要 大写 ？",
-    "字母 音标 例词",
-    "G / g / gas, get",
-    "H / h / hat, him",
-    "I / ɪ / city, big",
-    "J / ʤ / jet, jelly",
-    "K / k / kill, kiss",
-    "L / l / lot, let, girl, small",
-    "句首大写 在句子的开头，第一个字母通常需要大写 \"Hello, how are you?\"（你好，你好吗？）",
-    "专有名词 人名、地名、国家名、组织机构名称等专有名词的首字母通常需要大写 \"John Smith\"（约翰·史密斯）、\"New York City\"（纽约市）、\"Apple Inc.\"（苹果公司）",
-    "标题和标题词 书籍、文章、报告等的标题中的每个重要单词的首字母通常需要大写 \"The Great Gatsby\"（了不起的盖茨比）、\"Introduction to Biology\"（生物学导论）",
-    "缩略词和首字母缩写词 缩略词和首字母缩写词的所有字母通常都会大写 \"NASA\"（美国国家航空航天局）、\"DVD\"（数字化视频光盘）",
-    "强调或特殊用途 在某些情况下，为了强调或表示特殊用途，单词的某些字母可能会被大写 \"LIFE is beautiful.\"（生活很美好）、\"the Internet of Things (IoT)\"（物联网）",
-    "字母 I 在表示 “我”的时候 I am a student.我是一个学生。",
-    "尊称的首字母 Mr. Lee 李先生 ⁄ Miss Lee 李小姐 ⁄ Mrs.Bird 鸟太太"
+   "parts": [
+    {
+     "text": "自然拼音 英文字母何时需要 大写 ？"
+    },
+    {
+     "table": {
+      "headers": [
+       "字母",
+       "音标",
+       "例词"
+      ],
+      "rows": [
+       [
+        "G",
+        "/ g /",
+        "gas, get"
+       ],
+       [
+        "H",
+        "/ h /",
+        "hat, him"
+       ],
+       [
+        "I",
+        "/ ɪ /",
+        "city, big"
+       ],
+       [
+        "J",
+        "/ ʤ /",
+        "jet, jelly"
+       ],
+       [
+        "K",
+        "/ k /",
+        "kill, kiss"
+       ],
+       [
+        "L",
+        "/ l /",
+        "lot, let, girl, small"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "句首大写 在句子的开头，第一个字母通常需要大写",
+       "专有名词 人名、地名、国家名、组织机构名称等专有名词的首字母通常需要大写",
+       "标题和标题词 书籍、文章、报告等的标题中的每个重要单词的首字母通常需要大写",
+       "缩略词和首字母缩写词 缩略词和首字母缩写词的所有字母通常都会大写",
+       "强调或特殊用途 在某些情况下，为了强调或表示特殊用途，单词的某些字母可能会被大写",
+       "字母 I 在表示 “我”的时候",
+       "尊称的首字母"
+      ],
+      "rows": [
+       [
+        "\"Hello, how are you?\"（你好，你好吗？）"
+       ],
+       [
+        "\"John Smith\"（约翰·史密斯）、\"New York City\"（纽约市）、\"Apple Inc.\"（苹果公司）"
+       ],
+       [
+        "\"The Great Gatsby\"（了不起的盖茨比）、\"Introduction to Biology\"（生物学导论）"
+       ],
+       [
+        "\"NASA\"（美国国家航空航天局）、\"DVD\"（数字化视频光盘）"
+       ],
+       [
+        "\"LIFE is beautiful.\"（生活很美好）、\"the Internet of Things (IoT)\"（物联网）"
+       ],
+       [
+        "I am a student.我是一个学生。"
+       ],
+       [
+        "Mr. Lee 李先生 ⁄ Miss Lee 李小姐 ⁄ Mrs.Bird 鸟太太"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],

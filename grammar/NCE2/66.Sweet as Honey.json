@@ -2,30 +2,87 @@
  "sentences": [
   {
    "title": "集合名词",
-   "lines": [
-    "集合名词表示的是由若干个体组成的集合体，如 family（家庭，一家人），team（队），crew（船、飞机等上的全体工作人员），audience（观众），government（政府），staff 全体职员/教员），class（班，班级）等。 复数(强调全部成员时) 单数(强调群体时)",
-    "The team are all highly talented young people. 全队人员都是天赋极高的年轻人.",
-    "The audience were spellbound by the magic of the performance.观众们被表演的魅力迷住了.",
-    "My family are watching TV. 如果要强调组成集体的每个人，则后面的动词用复数。",
-    "The national team is travelling to London tomorrow. 国家代表队将于明天去伦敦",
-    "The audience is made up of school children. 观众是由学校的学生组成的",
-    "My family is happy. 如果要强调作为整体的集体，则后面的动词用单数"
+   "parts": [
+    {
+     "text": "集合名词表示的是由若干个体组成的集合体，如 family（家庭，一家人），team（队），crew（船、飞机等上的全体工作人员），audience（观众），government（政府），staff 全体职员/教员），class（班，班级）等。 复数(强调全部成员时) 单数(强调群体时)"
+    },
+    {
+     "text": "The team are all highly talented young people. 全队人员都是天赋极高的年轻人."
+    },
+    {
+     "text": "The audience were spellbound by the magic of the performance.观众们被表演的魅力迷住了."
+    },
+    {
+     "text": "My family are watching TV. 如果要强调组成集体的每个人，则后面的动词用复数。"
+    },
+    {
+     "text": "The national team is travelling to London tomorrow. 国家代表队将于明天去伦敦"
+    },
+    {
+     "text": "The audience is made up of school children. 观众是由学校的学生组成的"
+    },
+    {
+     "text": "My family is happy. 如果要强调作为整体的集体，则后面的动词用单数"
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "have 使役动词",
-   "lines": [
-    "使役动词 （使某人去做；使某事被做...） 本课不规则动词",
-    "have + 名词/宾语代词 + done 使役式表示对某物（或某人）… I have my wallet lost / stolen . 我丢了钱包 While I’m away, I’ll have you looked after. 我不在的时候，我会让人照顾你的。",
-    "have sth. done 的另一个意思是“遭遇不幸” I have my leg broken . 我摔断了腿",
-    "had sth. done 过去使... The French authorities had the plane packaged and moved in parts back to France. She asked somebody to value her house. → She had her house valued .",
-    "will + have sth. done 将来使 Now a group of enthusiasts are going to have the plane restored . He will ask somebody to paint the house for him. → He will have the house painted .",
-    "will need to have sth. done 将需要使 It has four Rolls-Royce Merlin engines, but the group will need to have only three of them rebuilt . I must ask someone to photocopy this letter. → I must have this letter photocopied . Sally will have to ask someone to repair her car. → Sally will have to have her car repaired .",
-    "原型 (Base Form) 过去式 (Past Tense) 过去分词 (Past Participle)",
-    "rebuild rebuilt rebuilt",
-    "build built built"
+   "parts": [
+    {
+     "text": "使役动词 （使某人去做；使某事被做...） 本课不规则动词"
+    },
+    {
+     "table": {
+      "headers": [
+       "have + 名词/宾语代词 + done 使役式表示对某物（或某人）…",
+       "have sth. done 的另一个意思是“遭遇不幸”",
+       "had sth. done 过去使...",
+       "will + have sth. done 将来使",
+       "will need to have sth. done 将需要使"
+      ],
+      "rows": [
+       [
+        "I have my wallet lost / stolen . 我丢了钱包 While I’m away, I’ll have you looked after. 我不在的时候，我会让人照顾你的。"
+       ],
+       [
+        "I have my leg broken . 我摔断了腿"
+       ],
+       [
+        "The French authorities had the plane packaged and moved in parts back to France. She asked somebody to value her house. → She had her house valued ."
+       ],
+       [
+        "Now a group of enthusiasts are going to have the plane restored . He will ask somebody to paint the house for him. → He will have the house painted ."
+       ],
+       [
+        "It has four Rolls-Royce Merlin engines, but the group will need to have only three of them rebuilt . I must ask someone to photocopy this letter. → I must have this letter photocopied . Sally will have to ask someone to repair her car. → Sally will have to have her car repaired ."
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "原型 (Base Form)",
+       "过去式 (Past Tense)",
+       "过去分词 (Past Participle)"
+      ],
+      "rows": [
+       [
+        "rebuild",
+        "rebuilt",
+        "rebuilt"
+       ],
+       [
+        "build",
+        "built",
+        "built"
+       ]
+      ]
+     }
+    }
    ]
   }
  ]

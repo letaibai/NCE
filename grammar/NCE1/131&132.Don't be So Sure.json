@@ -2,96 +2,437 @@
  "grammar": [
   {
    "title": "推测和事实的区分",
-   "lines": [
-    "may be & maybe 和区别 might 可以 （语气比may更婉转） might be 可能性一般小于 may be 本册出现的情态动词 must、can、could、may、might、had better、have to、need 情态动词是动词",
-    "对比 一般现在时 一般过去时",
-    "推测 I guess his girlfriend must be pretty . 情态动词表推测 I guess he must have been busy yesterday. 一般过去时的情态动词表推测",
-    "事实 Yes, his girlfriend is pretty. 一般现在时(重读is表强调) Yes, he was busy yesterday. 推测与事实的对比，都是一般过去时。",
-    "对比 过去进行时 现在进行时",
-    "推测 I guess he may have been having a date at 8:00 last night. 过去进行时的情态动词表推测 I guess he can’t be sleeping now. 我猜他现在不可能睡着了。",
-    "事实 Yes, he was having a date at 8:00 last night. 以过去进行时方式回复事实 No, he is not sleeping now. 是的，他现在没有睡觉。",
-    "may = can 可以 may 可能 may not 有可能不会",
-    "May I have a look at it? = Can I have a look at it? You may go now. = You can go now. He may come tomorrow. 他明天可能会来( 可以 ) He can come tomorrow. 他可以明天来 It may rain tonight. 今晚可能下雨( 可以 你是龙王啊？ ) She may not take my advice. 她可能不接受我的意见(并不表示完全不可能) They may not believe me. 他们可能不相信我(并不表示完全不可能)",
-    "maybe adv. 也许,可能,大概 may be (短语) 表示对现在存在着的状态的一种 可能 性推测",
-    "Maybe it is Tim's shirt. Maybe I am wrong. Perhaps it is Tim's shirt. Perhaps I am wrong. It may be true. 这可能是真的吧 She may be at home. 她可能在家吧(推测)。 He may be ill. 他可能生病了(推测)。 She may be over forty years old. 她可能超过40岁了(推测)。 It may be cheaper. 这可能便宜吧(推测) It is maybe true 或许是真的 She is maybe at home. 她可能在家的(不确定)。 He is maybe ill. 他可能在生病(带有怀疑) 。 She is maybe over forty years old.强调在某种程度上认可她的年龄超过四十。 It is maybe cheaper. 强调在某种程度上认可它更便宜",
-    "可能性的程度",
-    "might < may",
-    "He might come tomorrow(可能会来吧). He may come tomorrow(可能会来).",
-    "It might rain tonight.(可能会下雨吧). It may rain tonight.(可能会下雨).",
-    "We might not go anywhere.(可能哪儿也去不了). We may not go anywhere.(可能哪儿都去不了).",
-    "正式程度和礼貌性",
-    "Might > May",
-    "Might I have a look at it? May I have a look at it?",
-    "Might I come in? May I come in?",
-    "might be may be",
-    "It might be true. It may be true.",
-    "He might be ill He may be ill.",
-    "情态动词 陈述句 否定 情态动词 + not 疑问问 情态动词移到句首",
-    "must He must go ing home now. 必须 He mustn't go ing home now. 不允许 Must he go home now?",
-    "can She can come ing now. 能够 She can't come ing now. 不能 Can she come now?",
-    "could I could answer sixteen of the questions. 可以 I couldn't answer sixteen of the questions. 不可以 Could you answer all the questions?",
-    "may We may go abroad. 可能 We may not go abroad. 可能不 May I have a look at it, please?",
-    "might He might come s tomorrow.可能..吧 He might not come s tomorrow.可能不..吧 Might I have a look at it, please?",
-    "had better We had better go back to the station now. 最好... We had better not go back to the station now. 最好不... We had better go back to the station now. 没有变的必要",
-    "have to I have to water the garden every day. 不得不... I don't have to water the garden every day. 不需要... I have to water the garden every day. 原句",
-    "need I needn't go to work today. 可替代must的否定。 I needn't go to work today. 这里是must的委婉否定(不需要)。 Do you have to water the garden every day? 需要助动词",
-    "一般现在时 一般过去时",
-    "can 能力 I can't swim 我现在不会 could 能够 I couldn't swim 我以前不会",
-    "may 可以 You may come in. 你可以(现在)可以进来 He may be ill. 他(现在)可能生病了 might 当初可以 I asked the teacher if I might come in. 我(当时)问老师我(当时)是否可以进来 I thought he might be ill. 我(当时)想他(当时)可能病了。",
-    "have to 必须 I have to study English. 一般现在 He has to study English. 三单 I had to stay up late last night. 过去式 I will have to leave tomorrow.将来时 must 必须(无时态) I must study English. He must study English. I must stay up late last night. I must leave tomorrow."
+   "parts": [
+    {
+     "text": "may be & maybe 和区别 might 可以 （语气比may更婉转） might be 可能性一般小于 may be 本册出现的情态动词 must、can、could、may、might、had better、have to、need 情态动词是动词"
+    },
+    {
+     "table": {
+      "headers": [
+       "对比",
+       "一般现在时",
+       "一般过去时"
+      ],
+      "rows": [
+       [
+        "推测",
+        "I guess his girlfriend must be pretty . 情态动词表推测",
+        "I guess he must have been busy yesterday. 一般过去时的情态动词表推测"
+       ],
+       [
+        "事实",
+        "Yes, his girlfriend is pretty. 一般现在时(重读is表强调)",
+        "Yes, he was busy yesterday. 推测与事实的对比，都是一般过去时。"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "对比",
+       "过去进行时",
+       "现在进行时"
+      ],
+      "rows": [
+       [
+        "推测",
+        "I guess he may have been having a date at 8:00 last night. 过去进行时的情态动词表推测",
+        "I guess he can’t be sleeping now. 我猜他现在不可能睡着了。"
+       ],
+       [
+        "事实",
+        "Yes, he was having a date at 8:00 last night. 以过去进行时方式回复事实",
+        "No, he is not sleeping now. 是的，他现在没有睡觉。"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "may = can 可以",
+       "may 可能",
+       "may not 有可能不会"
+      ],
+      "rows": [
+       [
+        "May I have a look at it? = Can I have a look at it? You may go now. = You can go now.",
+        "He may come tomorrow. 他明天可能会来( 可以 ) He can come tomorrow. 他可以明天来 It may rain tonight. 今晚可能下雨( 可以 你是龙王啊？ )",
+        "She may not take my advice. 她可能不接受我的意见(并不表示完全不可能) They may not believe me. 他们可能不相信我(并不表示完全不可能)"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "maybe adv. 也许,可能,大概",
+       "may be (短语) 表示对现在存在着的状态的一种 可能 性推测"
+      ],
+      "rows": [
+       [
+        "Maybe it is Tim's shirt. Maybe I am wrong.",
+        "Perhaps it is Tim's shirt. Perhaps I am wrong.",
+        "It may be true. 这可能是真的吧 She may be at home. 她可能在家吧(推测)。 He may be ill. 他可能生病了(推测)。 She may be over forty years old. 她可能超过40岁了(推测)。 It may be cheaper. 这可能便宜吧(推测)",
+        "It is maybe true 或许是真的 She is maybe at home. 她可能在家的(不确定)。 He is maybe ill. 他可能在生病(带有怀疑) 。 She is maybe over forty years old.强调在某种程度上认可她的年龄超过四十。 It is maybe cheaper. 强调在某种程度上认可它更便宜"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "可能性的程度",
+       "might <",
+       "may",
+       "正式程度和礼貌性",
+       "Might",
+       "> May"
+      ],
+      "rows": [
+       [
+        "He might come tomorrow(可能会来吧).",
+        "He may come tomorrow(可能会来)."
+       ],
+       [
+        "It might rain tonight.(可能会下雨吧).",
+        "It may rain tonight.(可能会下雨)."
+       ],
+       [
+        "We might not go anywhere.(可能哪儿也去不了).",
+        "We may not go anywhere.(可能哪儿都去不了)."
+       ],
+       [
+        "Might I have a look at it?",
+        "May I have a look at it?"
+       ],
+       [
+        "Might I come in?",
+        "May I come in?"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "might be",
+       "may be"
+      ],
+      "rows": [
+       [
+        "It might be true.",
+        "It may be true."
+       ],
+       [
+        "He might be ill",
+        "He may be ill."
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "情态动词",
+       "陈述句",
+       "否定 情态动词 + not",
+       "疑问问 情态动词移到句首"
+      ],
+      "rows": [
+       [
+        "must",
+        "He must go ing home now. 必须",
+        "He mustn't go ing home now. 不允许",
+        "Must he go home now?"
+       ],
+       [
+        "can",
+        "She can come ing now. 能够",
+        "She can't come ing now. 不能",
+        "Can she come now?"
+       ],
+       [
+        "could",
+        "I could answer sixteen of the questions. 可以",
+        "I couldn't answer sixteen of the questions. 不可以",
+        "Could you answer all the questions?"
+       ],
+       [
+        "may",
+        "We may go abroad. 可能",
+        "We may not go abroad. 可能不",
+        "May I have a look at it, please?"
+       ],
+       [
+        "might",
+        "He might come s tomorrow.可能..吧",
+        "He might not come s tomorrow.可能不..吧",
+        "Might I have a look at it, please?"
+       ],
+       [
+        "had better",
+        "We had better go back to the station now. 最好...",
+        "We had better not go back to the station now. 最好不...",
+        "We had better go back to the station now. 没有变的必要"
+       ],
+       [
+        "have to",
+        "I have to water the garden every day. 不得不...",
+        "I don't have to water the garden every day. 不需要...",
+        "I have to water the garden every day. 原句"
+       ],
+       [
+        "need",
+        "I needn't go to work today. 可替代must的否定。",
+        "I needn't go to work today. 这里是must的委婉否定(不需要)。",
+        "Do you have to water the garden every day? 需要助动词"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "一般现在时",
+       "一般过去时"
+      ],
+      "rows": [
+       [
+        "can 能力",
+        "I can't swim 我现在不会",
+        "could 能够",
+        "I couldn't swim 我以前不会"
+       ],
+       [
+        "may 可以",
+        "You may come in. 你可以(现在)可以进来 He may be ill. 他(现在)可能生病了",
+        "might 当初可以",
+        "I asked the teacher if I might come in. 我(当时)问老师我(当时)是否可以进来 I thought he might be ill. 我(当时)想他(当时)可能病了。"
+       ],
+       [
+        "have to 必须",
+        "I have to study English. 一般现在 He has to study English. 三单 I had to stay up late last night. 过去式 I will have to leave tomorrow.将来时",
+        "must 必须(无时态)",
+        "I must study English. He must study English. I must stay up late last night. I must leave tomorrow."
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "推测的时态练习",
-   "lines": [
-    "He may be...他可能是⋯(一般现在时 +非动词) Where 's Harry? - He may be in his room. I'm not sure. Why is he late? - He may be busy.I'm not sure. What is he doing ? - He may be reading .I'm not sure. 现在进行时",
-    "He may have been...他可能已经…（一般过去时） Why was he late? - He may have been busy.I'm not sure.",
-    "He may go to... 他可能要..(一般将来时) Where will he go? - He may go to the cinema.I'm not sure.",
-    "He may have been doing .. 他过去正在...(过去进行时) What was he doing ? - He may have been reading .I'm not sure."
+   "parts": [
+    {
+     "table": {
+      "headers": [
+       "He may be...他可能是⋯(一般现在时 +非动词)",
+       "He may have been...他可能已经…（一般过去时）",
+       "He may go to... 他可能要..(一般将来时)",
+       "He may have been doing .. 他过去正在...(过去进行时)"
+      ],
+      "rows": [
+       [
+        "Where 's Harry? - He may be in his room. I'm not sure. Why is he late? - He may be busy.I'm not sure. What is he doing ? - He may be reading .I'm not sure. 现在进行时"
+       ],
+       [
+        "Why was he late? - He may have been busy.I'm not sure."
+       ],
+       [
+        "Where will he go? - He may go to the cinema.I'm not sure."
+       ],
+       [
+        "What was he doing ? - He may have been reading .I'm not sure."
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "度假住酒店的短语表达",
-   "lines": [
-    "度假的动词短语 预定机票、酒店 酒店入住 房间确定 前台询问 客房用语",
-    "英文表达 中文翻译",
-    "have a holiday/vacation 度假/假期",
-    "spend a holiday/vacation 度个假",
-    "go for a holiday/vacation 去度假",
-    "take a holiday/vacation 休假",
-    "be on a holiday/vacation 在度假",
-    "英文表达 中文翻译",
-    "book the air tickets to... 预定去...的机票",
-    "book the hotel... 预定酒店...",
-    "英文表达 中文翻译",
-    "I’d like to check in. 我想登记入住。",
-    "I made a reservation here. 我有预定。",
-    "英文表达 中文翻译",
-    "Double Room 双人房",
-    "Single Room 单人间",
-    "Queen Bed Room / King Bed Room 大床房",
-    "Twin Room 双床房",
-    "Garden-View Room 园景房",
-    "Lake-View Room 湖景房",
-    "Ocean-View Room 海景房",
-    "英文表达 中文翻译",
-    "What is the check-out time? 什么时候退房？",
-    "Is breakfast included? 这个包含早餐吗？",
-    "May I have a wake-up call? 早晨能叫醒我吗？",
-    "Could I have another room key? 我能再要一张门卡吗？",
-    "英文表达 中文翻译",
-    "a shower 淋浴",
-    "a shampoo 洗发水",
-    "a body lotion 沐浴露",
-    "a comb 梳子",
-    "a kettle 电热壶",
-    "a hair dryer 电吹风",
-    "a TV 电视机",
-    "a key 钥匙"
+   "parts": [
+    {
+     "text": "度假的动词短语 预定机票、酒店 酒店入住 房间确定 前台询问 客房用语"
+    },
+    {
+     "table": {
+      "headers": [
+       "英文表达",
+       "中文翻译"
+      ],
+      "rows": [
+       [
+        "have a holiday/vacation",
+        "度假/假期"
+       ],
+       [
+        "spend a holiday/vacation",
+        "度个假"
+       ],
+       [
+        "go for a holiday/vacation",
+        "去度假"
+       ],
+       [
+        "take a holiday/vacation",
+        "休假"
+       ],
+       [
+        "be on a holiday/vacation",
+        "在度假"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "英文表达",
+       "中文翻译"
+      ],
+      "rows": [
+       [
+        "book the air tickets to...",
+        "预定去...的机票"
+       ],
+       [
+        "book the hotel...",
+        "预定酒店..."
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "英文表达",
+       "中文翻译"
+      ],
+      "rows": [
+       [
+        "I’d like to check in.",
+        "我想登记入住。"
+       ],
+       [
+        "I made a reservation here.",
+        "我有预定。"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "英文表达",
+       "中文翻译"
+      ],
+      "rows": [
+       [
+        "Double Room",
+        "双人房"
+       ],
+       [
+        "Single Room",
+        "单人间"
+       ],
+       [
+        "Queen Bed Room / King Bed Room",
+        "大床房"
+       ],
+       [
+        "Twin Room",
+        "双床房"
+       ],
+       [
+        "Garden-View Room",
+        "园景房"
+       ],
+       [
+        "Lake-View Room",
+        "湖景房"
+       ],
+       [
+        "Ocean-View Room",
+        "海景房"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "英文表达",
+       "中文翻译"
+      ],
+      "rows": [
+       [
+        "What is the check-out time?",
+        "什么时候退房？"
+       ],
+       [
+        "Is breakfast included?",
+        "这个包含早餐吗？"
+       ],
+       [
+        "May I have a wake-up call?",
+        "早晨能叫醒我吗？"
+       ],
+       [
+        "Could I have another room key?",
+        "我能再要一张门卡吗？"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "英文表达",
+       "中文翻译"
+      ],
+      "rows": [
+       [
+        "a shower",
+        "淋浴"
+       ],
+       [
+        "a shampoo",
+        "洗发水"
+       ],
+       [
+        "a body lotion",
+        "沐浴露"
+       ],
+       [
+        "a comb",
+        "梳子"
+       ],
+       [
+        "a kettle",
+        "电热壶"
+       ],
+       [
+        "a hair dryer",
+        "电吹风"
+       ],
+       [
+        "a TV",
+        "电视机"
+       ],
+       [
+        "a key",
+        "钥匙"
+       ]
+      ]
+     }
+    }
    ]
   }
  ]

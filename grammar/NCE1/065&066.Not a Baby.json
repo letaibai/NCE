@@ -2,59 +2,225 @@
  "grammar": [
   {
    "title": "反身代词",
-   "lines": [
-    "英语中为什么有反身代词？ 反身代词的用法",
-    "人称 主格代词 反身代词 主格代词 反身代词",
-    "单数 复数",
-    "第一人称 I myself we ourselves",
-    "第二人称 you yourself you yourselves",
-    "第三人称 he himself they themselves",
-    "she herself",
-    "it itself",
-    "强调 主语&宾语 不言而喻的宾语",
-    "He himself sent me a gift.他亲自送我一件礼物。 I see Obama himself. 我见了奥巴马本人。 Take good care of yourself. Enjoy yourself.",
-    "介词 + 反身代词 动词 + 反身代词",
-    "by oneself 独自、依靠自己 enjoy oneself 玩的开心、过的愉快",
-    "I’m going to swim by myself. He’s going to learn English by himself. They always enjoy themselves. Come on, enjoy yourself, let yourself go!",
-    "between oneself 私 下 help oneself 随意",
-    "It’s just between ourselves. Help yourselves, please."
+   "parts": [
+    {
+     "text": "英语中为什么有反身代词？ 反身代词的用法"
+    },
+    {
+     "table": {
+      "headers": [
+       "人称",
+       "主格代词",
+       "反身代词"
+      ],
+      "rows": [
+       [
+        "主格代词",
+        "反身代词"
+       ],
+       [
+        "单数",
+        "复数"
+       ],
+       [
+        "第一人称",
+        "I",
+        "myself",
+        "we",
+        "ourselves"
+       ],
+       [
+        "第二人称",
+        "you",
+        "yourself",
+        "you",
+        "yourselves"
+       ],
+       [
+        "第三人称",
+        "he",
+        "himself",
+        "they",
+        "themselves"
+       ],
+       [
+        "she",
+        "herself"
+       ],
+       [
+        "it",
+        "itself"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "强调 主语&宾语",
+       "不言而喻的宾语"
+      ],
+      "rows": [
+       [
+        "He himself sent me a gift.他亲自送我一件礼物。 I see Obama himself. 我见了奥巴马本人。",
+        "Take good care of yourself. Enjoy yourself."
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "介词 + 反身代词",
+       "动词 + 反身代词",
+       "between oneself 私 下",
+       "help oneself 随意"
+      ],
+      "rows": [
+       [
+        "by oneself 独自、依靠自己",
+        "enjoy oneself 玩的开心、过的愉快"
+       ],
+       [
+        "I’m going to swim by myself. He’s going to learn English by himself.",
+        "They always enjoy themselves. Come on, enjoy yourself, let yourself go!"
+       ],
+       [
+        "It’s just between ourselves.",
+        "Help yourselves, please."
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "What’s the time? 时间的读法",
-   "lines": [
-    "具体时间",
-    "时间 past prep. 在…...之后、超过 to prep. 差",
-    "3:00 → three o’clock - -",
-    "7:30 → seven thirty half past seven ✓ half to eight",
-    "4:20 → four twenty twenty past four ✓ forty to five",
-    "11:40 → eleven forty forty past eleven twenty to twelve ✓",
-    "10:15 → ten fifteen fifteen past ten / a quarter past ten ✓ three quarter s to eleven",
-    "2:45 → two forty-five forty-five past two / three quarter s past two fifteen to three / a quarter to three ✓",
-    "2:55（两点五十五分） 7:30（七点三十分） 11:50（十一点五十分）",
-    "two fifty-five seven thirty eleven fifty",
-    "five to three half to eight ten to twelve",
-    "fifty-five past two thirty past seven / half past seven fifty past eleven",
-    "two quarters past seven"
+   "parts": [
+    {
+     "text": "具体时间"
+    },
+    {
+     "table": {
+      "headers": [
+       "时间",
+       "past prep. 在…...之后、超过",
+       "to prep. 差"
+      ],
+      "rows": [
+       [
+        "3:00 → three o’clock",
+        "-",
+        "-"
+       ],
+       [
+        "7:30 → seven thirty",
+        "half past seven ✓",
+        "half to eight"
+       ],
+       [
+        "4:20 → four twenty",
+        "twenty past four ✓",
+        "forty to five"
+       ],
+       [
+        "11:40 → eleven forty",
+        "forty past eleven",
+        "twenty to twelve ✓"
+       ],
+       [
+        "10:15 → ten fifteen",
+        "fifteen past ten / a quarter past ten ✓",
+        "three quarter s to eleven"
+       ],
+       [
+        "2:45 → two forty-five",
+        "forty-five past two / three quarter s past two",
+        "fifteen to three / a quarter to three ✓"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "2:55（两点五十五分）",
+       "7:30（七点三十分）",
+       "11:50（十一点五十分）"
+      ],
+      "rows": [
+       [
+        "two fifty-five",
+        "seven thirty",
+        "eleven fifty"
+       ],
+       [
+        "five to three",
+        "half to eight",
+        "ten to twelve"
+       ],
+       [
+        "fifty-five past two",
+        "thirty past seven / half past seven",
+        "fifty past eleven"
+       ],
+       [
+        "",
+        "two quarters past seven",
+        ""
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "时间与介词的搭配",
-   "lines": [
-    "需加介词的情况(表示“时间”是“名词”时就需要加上相应的介词) Where do you come from? I come from France. § 不需用介词的情况(表示“时间”是“副词”时不需要加介词) 副词无需介词的情况：today \\ tomorrow \\ yesterday \\ this… \\ that… \\ next… \\ last…",
-    "at + 点(具体时间点) on + 天(某一天) in + 月、季、年(较宽泛的时间范围)",
-    "I often meet him at ten o’clock. I’m going to arrive at 10:00 on Friday. I am going to see him at ten o’clock. His birthday is on May 1st. She must get up early on Monday. Invited me to dinner on my birthday. They come back in May. It’s cold in winter and hot in summer. It often rains in November.",
-    "I always go to work in the morning.",
-    "What is the climate like in your country?",
-    "It’s cold in winter and hot in summer.",
-    "It’s sunny today.",
-    "I’m going to meet some friends tomorrow.",
-    "He is going to go abroad next year.",
-    "He is free this month."
+   "parts": [
+    {
+     "text": "需加介词的情况(表示“时间”是“名词”时就需要加上相应的介词) Where do you come from? I come from France. § 不需用介词的情况(表示“时间”是“副词”时不需要加介词) 副词无需介词的情况：today \\ tomorrow \\ yesterday \\ this… \\ that… \\ next… \\ last…"
+    },
+    {
+     "table": {
+      "headers": [
+       "at + 点(具体时间点)",
+       "on + 天(某一天)",
+       "in + 月、季、年(较宽泛的时间范围)"
+      ],
+      "rows": [
+       [
+        "I often meet him at ten o’clock. I’m going to arrive at 10:00 on Friday. I am going to see him at ten o’clock.",
+        "His birthday is on May 1st. She must get up early on Monday. Invited me to dinner on my birthday.",
+        "They come back in May. It’s cold in winter and hot in summer. It often rains in November."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "I always go to work in the morning."
+    },
+    {
+     "text": "What is the climate like in your country?"
+    },
+    {
+     "text": "It’s cold in winter and hot in summer."
+    },
+    {
+     "text": "It’s sunny today."
+    },
+    {
+     "text": "I’m going to meet some friends tomorrow."
+    },
+    {
+     "text": "He is going to go abroad next year."
+    },
+    {
+     "text": "He is free this month."
+    }
    ]
   }
  ]

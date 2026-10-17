@@ -2,141 +2,597 @@
  "grammar": [
   {
    "title": "详细介绍",
-   "lines": [
-    "Harry used to consider it a great joke to go into expensive cosmetic shops and make outrageous requests for goods that do not exist . expensive adj.高档的 cosmetics n. [pl.] 化妆品 （瓶瓶罐罐的化妆品） make a … request for … 要求得到某事 He would invent fanciful names on the spot. would = used to do 类似，都可以表示过去习惯性的动作 Used to 用于故事开头： We are less credulous than we used to be. In the 19th century, a novelist would bring his story to a conclusion by presenting his readers with a series of coincidences ― most of them wildly improbable . do sth. on the spot = do sth. immediately 当场（立刻）做某事 On entering a shop, he would ask for a new perfume called 'Scented Shadow' or for 'insoluble bath cubes'. on prep. as soon as 刚一…（做时间状语） insoluble adj. cannot be dissolved; not soluble 不能溶解的 If a shop assistant told him she had not heard of it , he would pretend to be considerably put out. put out adj. [Br.E.] [never before noun] annoyed 气愤的，不悦的（ 做表语 ） He loved to be told that one of his imaginary products was temporarily out of stock and he would faithfully promise to call again at some future date, but of course he never did . imaginary adj. 虚构的 temporarily adv. 暂时，临时 in / out of stock（商店中）有/无现货的 faithfully adv. 忠诚地，诚恳地 call v. [Br.E.] to stop at a house or other place for a short time to see sb. or do sth. 在某处短暂停留以拜访某人或做某事 at a … date a time in the past or future 在过去或未来的某时 How Harry managed to keep a straight face during these performances is quite beyond me . keep a straight face stop oneself from smiling and laughing 板着脸，忍住不笑 be beyond sb. to be too difficult for someone to understand 无法理解",
-    "The expensive shops in a famous arcade near Piccadilly were just opening .",
-    "A woman in jeans stood at the window of an expensive shop .",
-    "One day, he walked into an expensive shop after having been caught in a particularly heavy shower .",
-    "Lipstick and hair conditioner are cosmetics. 习惯复数，但做定语时使用单数",
-    "make-up / makeup n. [U] 化妆品（擦到脸上的化妆品） She doesn't wear makeup. girls in heavy make-up",
-    "cosmic adj. 宇宙的（等于cosmical） cosmos n. 宇宙 comic adj. 喜剧的；滑稽的；有趣的 comet n. [天] 彗星",
-    "make repeated requests for help",
-    "They have made an urgent request for international aid.",
-    "issue a … appeal for … （非常诚挚的）呼吁、恳求 The police have issued a new appeal for information.",
-    "make a … appeal for … The girl's family have made a public appeal for help to try and catch her killer.",
-    "One day in a week he would spend a whole day in silence.",
-    "We used to work in the same office and we would often have coffee together. would 不能用在故事开头，往往在故事开头用 used to do，而后面换为 would do",
-    "Harry used to consider it a great joke to go into expensive cosmetic shops and make outrageous requests for goods that do not exist. He would invent fanciful names on the spot. On entering a shop, he would ask for a new perfume called 'Scented Shadow' or for 'insoluble bath cubes'. If a shop assistant told him she had not heard of it, he would pretend to be considerably put out. He loved to be told that one of his imaginary products was temporarily out of stock and he would faithfully promise to call again at some future date, but of course he never did.",
-    "He had to make a decision on the spot.",
-    "To my surprise, he gave me the money immediately .",
-    "What was your reaction on seeing him?",
-    "The curtain went up on the final act of the play and revealed the aristocrat sitting alone behind bars in his dark cell.",
-    "in prep. during the act or process of 在…过程中（做时间状语） He tripped in racing for the bus. In the last act, a gaoler would always come on to the stage with a letter which he would hand to the prisoner . In seeking independence, they do not sacrifice their human dignity .",
-    "Carotenes are insoluble in water and soluble in oils and fats. 胡萝卜素不溶于水，但溶于油和脂肪。",
-    "Flaxseed's Linum usitatissimum are high in insoluble dietary fibre. 亚麻子粉富含不溶性纤维。",
-    "It is an almost insoluble problem. 这几乎是一个不可解决的问题。",
-    "dissolve v.解散，解除；消失；溶解 Heat gently until the sugar dissolves. 微微加热直到糖溶解。",
-    "soluble adj.可溶解的 Uranium is soluble in sea water. 铀可在海水中溶解。",
-    "He seemed a bit put out at not having been invited.",
-    "The boys felt tired, so they put out the fire and crept into their tent . 扑灭(火， 做动词 )",
-    "Lots of children have imaginary friends. 许多孩子都有假想的朋友。",
-    "Many children invent an imaginary friend. 很多儿童都有一个假想朋友。",
-    "The equator is an imaginary line around the middle of the earth. 赤道是一条假想的环绕地球腰部的线。",
-    "imaginative adj. 富于想象力的 You need to be more flexible and imaginative in your approach. 你的方法必须更加灵活，更富有想象力。",
-    "unimaginative adj.缺乏想象力的 Children who play truant from school are unimaginative .",
-    "fantasy n./v. 幻想，想象 The film is more of an ironic fantasy than a horror story. 这部电影比较像是讽刺的幻想故事，而不是恐怖片。",
-    "To make matters worse, the room is rather small, so I have temporarily put my books on the floor .",
-    "Only an exceptionally heavy snowfall might temporarily dislocate railway services .",
-    "We regret this service is temporarily unavailable. 我们很抱歉暂时不能提供这一服务。",
-    "permanently adv. 长期，永久 The blast left him with permanently impaired hearing. 爆炸造成了他永久性听力损伤。",
-    "Have you any grey pullovers in stock?",
-    "I'm sorry, that swimsuit is temporarily out of stock in your size.",
-    "Sold out 售罄 The stores are sometimes sold out of certain groceries. 这些店铺的某些杂货有时会脱销。",
-    "He had served the family faithfully for 40 years.",
-    "Ann faithfully promised never to tell my secret.",
-    "faith n.信任，信心 faithful adj.忠实的，忠诚的 faithfulness n.忠诚；诚实 faithless adj.不忠实的；无信的",
-    "She called for a chat. 她来吹水（粤语“吹牛”）",
-    "In the letter he was asked to call at the station .",
-    "call in at sth. 到某个地方短暂停留 Will you call in at the supermarket for some eggs and milk? After crossing the equator, the captain called in at a port to have a new rudder fitted, but by now the Thermopylae was over 500 miles ahead .",
-    "The exact details of the plan will be worked out at a later date.",
-    "Johnson had agreed at an earlier date to take on the role of chairman.",
-    "The election is scheduled to take place at an unspecified date in the autumn.",
-    "Brian looked ridiculous in leather trousers, and I was desperately trying to keep a straight face.",
-    "straight-faced adj. 板着脸的 We laughed, but Chris was straight-faced and seemed a little offended by the joke.",
-    "Why people are prepared to tolerate a four-hour journey each day for the dubious privilege of living in the country is beyond me.",
-    "be quite beyond sb. 某人完全不能理解 It's quite beyond me why anyone would want to marry him .",
-    "be completely beyond sb. 某人完全不能理解 The system was complicated and completely beyond the learners."
+   "parts": [
+    {
+     "text": "Harry used to consider it a great joke to go into expensive cosmetic shops and make outrageous requests for goods that do not exist . expensive adj.高档的 cosmetics n. [pl.] 化妆品 （瓶瓶罐罐的化妆品） make a … request for … 要求得到某事 He would invent fanciful names on the spot. would = used to do 类似，都可以表示过去习惯性的动作 Used to 用于故事开头： We are less credulous than we used to be. In the 19th century, a novelist would bring his story to a conclusion by presenting his readers with a series of coincidences ― most of them wildly improbable . do sth. on the spot = do sth. immediately 当场（立刻）做某事 On entering a shop, he would ask for a new perfume called 'Scented Shadow' or for 'insoluble bath cubes'. on prep. as soon as 刚一…（做时间状语） insoluble adj. cannot be dissolved; not soluble 不能溶解的 If a shop assistant told him she had not heard of it , he would pretend to be considerably put out. put out adj. [Br.E.] [never before noun] annoyed 气愤的，不悦的（ 做表语 ） He loved to be told that one of his imaginary products was temporarily out of stock and he would faithfully promise to call again at some future date, but of course he never did . imaginary adj. 虚构的 temporarily adv. 暂时，临时 in / out of stock（商店中）有/无现货的 faithfully adv. 忠诚地，诚恳地 call v. [Br.E.] to stop at a house or other place for a short time to see sb. or do sth. 在某处短暂停留以拜访某人或做某事 at a … date a time in the past or future 在过去或未来的某时 How Harry managed to keep a straight face during these performances is quite beyond me . keep a straight face stop oneself from smiling and laughing 板着脸，忍住不笑 be beyond sb. to be too difficult for someone to understand 无法理解"
+    },
+    {
+     "text": "The expensive shops in a famous arcade near Piccadilly were just opening ."
+    },
+    {
+     "text": "A woman in jeans stood at the window of an expensive shop ."
+    },
+    {
+     "text": "One day, he walked into an expensive shop after having been caught in a particularly heavy shower ."
+    },
+    {
+     "text": "Lipstick and hair conditioner are cosmetics. 习惯复数，但做定语时使用单数"
+    },
+    {
+     "table": {
+      "headers": [
+       "make-up / makeup n. [U] 化妆品（擦到脸上的化妆品）"
+      ],
+      "rows": [
+       [
+        "She doesn't wear makeup. girls in heavy make-up"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [],
+      "rows": [
+       [
+        "cosmic adj. 宇宙的（等于cosmical）",
+        "cosmos n. 宇宙",
+        "comic adj. 喜剧的；滑稽的；有趣的",
+        "comet n. [天] 彗星"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "make repeated requests for help"
+    },
+    {
+     "text": "They have made an urgent request for international aid."
+    },
+    {
+     "table": {
+      "headers": [
+       "issue a … appeal for …",
+       "make a … appeal for …"
+      ],
+      "rows": [
+       [
+        "（非常诚挚的）呼吁、恳求",
+        "The police have issued a new appeal for information."
+       ],
+       [
+        "The girl's family have made a public appeal for help to try and catch her killer."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "One day in a week he would spend a whole day in silence."
+    },
+    {
+     "text": "We used to work in the same office and we would often have coffee together. would 不能用在故事开头，往往在故事开头用 used to do，而后面换为 would do"
+    },
+    {
+     "text": "Harry used to consider it a great joke to go into expensive cosmetic shops and make outrageous requests for goods that do not exist. He would invent fanciful names on the spot. On entering a shop, he would ask for a new perfume called 'Scented Shadow' or for 'insoluble bath cubes'. If a shop assistant told him she had not heard of it, he would pretend to be considerably put out. He loved to be told that one of his imaginary products was temporarily out of stock and he would faithfully promise to call again at some future date, but of course he never did."
+    },
+    {
+     "text": "He had to make a decision on the spot."
+    },
+    {
+     "text": "To my surprise, he gave me the money immediately ."
+    },
+    {
+     "text": "What was your reaction on seeing him?"
+    },
+    {
+     "text": "The curtain went up on the final act of the play and revealed the aristocrat sitting alone behind bars in his dark cell."
+    },
+    {
+     "table": {
+      "headers": [
+       "in prep. during the act or process of 在…过程中（做时间状语）"
+      ],
+      "rows": [
+       [
+        "He tripped in racing for the bus. In the last act, a gaoler would always come on to the stage with a letter which he would hand to the prisoner . In seeking independence, they do not sacrifice their human dignity ."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Carotenes are insoluble in water and soluble in oils and fats. 胡萝卜素不溶于水，但溶于油和脂肪。"
+    },
+    {
+     "text": "Flaxseed's Linum usitatissimum are high in insoluble dietary fibre. 亚麻子粉富含不溶性纤维。"
+    },
+    {
+     "text": "It is an almost insoluble problem. 这几乎是一个不可解决的问题。"
+    },
+    {
+     "table": {
+      "headers": [
+       "dissolve v.解散，解除；消失；溶解",
+       "soluble adj.可溶解的"
+      ],
+      "rows": [
+       [
+        "Heat gently until the sugar dissolves. 微微加热直到糖溶解。"
+       ],
+       [
+        "Uranium is soluble in sea water. 铀可在海水中溶解。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "He seemed a bit put out at not having been invited."
+    },
+    {
+     "text": "The boys felt tired, so they put out the fire and crept into their tent . 扑灭(火， 做动词 )"
+    },
+    {
+     "text": "Lots of children have imaginary friends. 许多孩子都有假想的朋友。"
+    },
+    {
+     "text": "Many children invent an imaginary friend. 很多儿童都有一个假想朋友。"
+    },
+    {
+     "text": "The equator is an imaginary line around the middle of the earth. 赤道是一条假想的环绕地球腰部的线。"
+    },
+    {
+     "table": {
+      "headers": [
+       "imaginative adj. 富于想象力的",
+       "unimaginative adj.缺乏想象力的",
+       "fantasy n./v. 幻想，想象"
+      ],
+      "rows": [
+       [
+        "You need to be more flexible and imaginative in your approach. 你的方法必须更加灵活，更富有想象力。"
+       ],
+       [
+        "Children who play truant from school are unimaginative ."
+       ],
+       [
+        "The film is more of an ironic fantasy than a horror story. 这部电影比较像是讽刺的幻想故事，而不是恐怖片。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "To make matters worse, the room is rather small, so I have temporarily put my books on the floor ."
+    },
+    {
+     "text": "Only an exceptionally heavy snowfall might temporarily dislocate railway services ."
+    },
+    {
+     "text": "We regret this service is temporarily unavailable. 我们很抱歉暂时不能提供这一服务。"
+    },
+    {
+     "table": {
+      "headers": [
+       "permanently adv. 长期，永久"
+      ],
+      "rows": [
+       [
+        "The blast left him with permanently impaired hearing. 爆炸造成了他永久性听力损伤。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Have you any grey pullovers in stock?"
+    },
+    {
+     "text": "I'm sorry, that swimsuit is temporarily out of stock in your size."
+    },
+    {
+     "table": {
+      "headers": [
+       "Sold out 售罄"
+      ],
+      "rows": [
+       [
+        "The stores are sometimes sold out of certain groceries. 这些店铺的某些杂货有时会脱销。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "He had served the family faithfully for 40 years."
+    },
+    {
+     "text": "Ann faithfully promised never to tell my secret."
+    },
+    {
+     "table": {
+      "headers": [],
+      "rows": [
+       [
+        "faith n.信任，信心",
+        "faithful adj.忠实的，忠诚的",
+        "faithfulness n.忠诚；诚实",
+        "faithless adj.不忠实的；无信的"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "She called for a chat. 她来吹水（粤语“吹牛”）"
+    },
+    {
+     "text": "In the letter he was asked to call at the station ."
+    },
+    {
+     "table": {
+      "headers": [
+       "call in at sth. 到某个地方短暂停留"
+      ],
+      "rows": [
+       [
+        "Will you call in at the supermarket for some eggs and milk? After crossing the equator, the captain called in at a port to have a new rudder fitted, but by now the Thermopylae was over 500 miles ahead ."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The exact details of the plan will be worked out at a later date."
+    },
+    {
+     "text": "Johnson had agreed at an earlier date to take on the role of chairman."
+    },
+    {
+     "text": "The election is scheduled to take place at an unspecified date in the autumn."
+    },
+    {
+     "text": "Brian looked ridiculous in leather trousers, and I was desperately trying to keep a straight face."
+    },
+    {
+     "table": {
+      "headers": [
+       "straight-faced adj. 板着脸的"
+      ],
+      "rows": [
+       [
+        "We laughed, but Chris was straight-faced and seemed a little offended by the joke."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Why people are prepared to tolerate a four-hour journey each day for the dubious privilege of living in the country is beyond me."
+    },
+    {
+     "table": {
+      "headers": [
+       "be quite beyond sb. 某人完全不能理解",
+       "be completely beyond sb. 某人完全不能理解"
+      ],
+      "rows": [
+       [
+        "It's quite beyond me why anyone would want to marry him ."
+       ],
+       [
+        "The system was complicated and completely beyond the learners."
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "详细介绍",
-   "lines": [
-    "Harry does not need to be prompted to explain how he bought his precious bottle of mud . prompt v.to encourage sb. to speak by asking them questions or suggesting words that they could say 提问或提示以鼓励某人说 One day, he went to an exclusive shop in London and asked for 'Myrolite'. exclusive adj. 含义1：very expensive, and therefore available only to wealthy people 高级的，高档的 The shop assistant looked puzzled and Harry repeated the word, slowly stressing each syllable. stress v.to pronounce a word or part of a word so that it sounds louder or more forceful 重读 When the woman shook her head in bewilderment, Harry went on to explain that 'myrolite' was a hard, amber-like substance which could be used to remove freckles . in bewilderment = in confusion = in puzzlement = in perplexity 迷惑 This explanation evidently conveyed something to the woman who searched shelf after shelf . convey sth. to sb. 向某人传达或表达… 定语从句充当并列句 § sth. after sth. （一个又一个） She produced all sorts of weird concoctions, but none of them met with Harry's requirements . produce v. if you produce an object, you bring it out or present it, so that people can see or consider it 出示，拿出 all sorts / kinds / types of sth. 各种各样的，各式各样的… concoction n. sth. that has been made out of several things mixed together 调制品，混合物 requirement n. (usually requirements) [pl.] something that you need or want 所需的（或所要的）东西 When Harry put on his act of being mildly annoyed, the assistant promised to order some for him. put on an act 装模作样 Intoxicated by his success, Harry then asked for perfumed mud. Intoxicated adj.喝醉的；极度兴奋的 v.沉醉 He expected the assistant to look at him in blank astonishment. blank adj. showing no feeling, understanding or interest 茫然的(脸是空白的) However, it was his turn to be surprised, for the woman's eyes immediately lit up and she fetched several bottles which she placed on the counter for Harry to inspect . it is one’s turn (to do sth.) 轮到某人做某事 light up if someone’s face or eyes light up, they show pleasure, excitement etc.（因喜悦、兴奋等脸上或眼中）露出光彩 定语从句充当并列句 For once, Harry had to admit defeat. (just) for once used to say that sth. unusual happens, especially when you wish it would happen more often 这一回，这一次 accept / admit / concede defeat 认输 He picked up what seemed to be the smallest bottle and discreetly asked the price. discreet adj.careful not to cause embarrassment or attract too much attention, especially by keeping something secret 言行小心谨慎的 He was glad to get away with a mere ￡20 and he beat a hasty retreat, clutching the precious bottle under his arm. a mere … 仅仅… beat a (hasty) retreat leave a place quickly in order to avoid an embarrassing or dangerous situation 赶紧走了 clutch v.to hold something tightly because you do not want to lose it 紧紧抓住 From then on, Harry decided that this little game he had invented might prove to be expensive . from then on 从那以后 decide 不一定译为“决定”，而常常译为“（在考虑之后）确定，断定，认为”，尤其是其后加 that 引导的宾语从句时。 The curious bottle which now adorns the bookcase in his study was his first and last purchase of rare cosmetics. adorn v. (fml.) to decorate sth. 装饰",
-    "'And then what happened?' he prompted.",
-    "The speaker was hesitant and had to be prompted occasionally by the chairman.",
-    "add v.补充说到 She gazed at it for some time then added, \"You don't need bookcases at all...\"",
-    "an exclusive store / restaurant / neighborhood",
-    "inclusive adj.包容广阔的 → exclusive adj.不含…的；排外的；排斥的",
-    "import v./n. 进口 → export v./n.出口",
-    "input v./n.输入、投入 → output v./n.产出、输出",
-    "exclusive adj. 含义2：独家的 Newspapers and magazines offered the family huge sums for the exclusive rights to publish stories and photographs .",
-    "The word 'machine' is stressed on the second syllable.",
-    "She looked at him in bewilderment.",
-    "Matt stared at her in confusion.",
-    "She frowned in puzzlement.",
-    "Jane looked about in perplexity.",
-    "Please convey my good wishes to your parents.",
-    "If you see James, do convey my apologies to him.",
-    "The poem perfectly conveys to the reader the poet’s feelings.",
-    "This explanation evidently conveyed something to the woman and she searched shelf after shelf.",
-    "This explanation evidently conveyed something to the woman who searched shelf after shelf.",
-    "But when the train dawdled at station after station, I began to wonder .",
-    "He fired shot after shot. 一枪又一枪",
-    "Shelley sent him letter after letter to explain the delay. 一封又一封",
-    "They sent regiment after regiment to attack us.",
-    "In factory after factory we were shown machines built by the workers themselves.",
-    "… shelf after shelf … He searched the book shelf after shelf. 他一个书架接一个书架地找那本书。",
-    "day after day She hates doing the same work day after day. 她讨厌日复一日做同样的工作。",
-    "week after week Week after week the drought continued. 干旱持续了好多个星期。",
-    "year after year Regulars return year after year. 常客年年都回来。",
-    "time after time Burns had escaped from jail time after time. 伯恩斯屡次越狱逃跑。",
-    "Produce your ticket!",
-    "They made no effort to hide their amusement whenever I produced a packet of sweets from my pocket .",
-    "all sorts of silly jokes",
-    "all sorts of weird concoctions",
-    "all sorts of indignities",
-    "sth. of all sorts / kinds / types 各种各样的，各式各样的… vehicles of all kinds",
-    "a concoction of honey, yogurt, oats, and apples",
-    "The new computer system will meet (with) all our requirements.",
-    "comply with / fulfill / meet (with) / satisfy / suit one’s requirements 满足了某人的需要 She must be made to comply with the rules. 必须让她遵守规则。",
-    "He wasn’t really angry; he just put on an act.",
-    "put on sth. 假装 put on a smile 假笑 put on airs 假装摆架子 put on an injured expression 装出受伤",
-    "He appeared intoxicated, police said. 他看上去好像是喝醉了，警察说。",
-    "My cousins seem to have become intoxicated by their success. 我的堂兄弟们好象已经被他们的成功陶醉了。",
-    "Steve looked blank and said he had no idea what I was talking about.",
-    "blank astonishment （惊讶得）目瞪口呆 a look of blank astonishment",
-    "It's your turn.",
-    "It's our turn to drive the kids to school this week.",
-    "His eyes lit up with laughter.",
-    "Her face lit up with pleasure.",
-    "Suddenly, I saw the Officer's face light up .",
-    "… she fetched several bottles and she placed them on the counter for Harry to inspect.",
-    "… she fetched several bottles which she placed on the counter for Harry to inspect.",
-    "Be honest for once.",
-    "Just for once, let me make my own decision.",
-    "For once Colin was speechless.",
-    "She is very determined, and will never admit defeat.",
-    "The prime minister conceded defeat and resigned.",
-    "After he was arrested, the man admitted hiding in the box before the plane left London .",
-    "When he asked if Mr. Lane lived there, the policeman on duty told him that since his defeat, the ex-Prime Minister had gone abroad .",
-    "The family made discreet enquiries about his background.",
-    "They are very good assistants, very discreet — they wouldn't go shouting to the press about anything they discovered while working for you.",
-    "a mere 后跟单数名词时 = only a / an It went direct from my local station and the journey lasted a mere (=only an) hour and 17 minutes . He's a mere (=only a) child. He's not a mere (=only a) boxer: he's world champion.",
-    "a mere = only 在其他情况下 A mere (=Only) 2% of their budget has been spent on publicity. He has often described to me how he picked up a masterpiece for a mere (=only) £50. Glancing at his map, he informed us that the next village was a mere (=only) twenty miles away .",
-    "The cat beat a hasty retreat when it saw the dog was coming. （避免危险）赶紧溜了",
-    "I saw my aunt coming and beat a hasty retreat.（避免尴尬）赶紧跑了",
-    "She was clutching a bottle of champagne.",
-    "From then on he never trusted her again.从那时起，他再也不信任她了。",
-    "She left in 1984 and from then on he lived alone. 她于1984年离去，从那时起他便独自一人生活。",
-    "I stopped pretending from then on. 从那时起，我不再装了。",
-    "from now on 从今往后 Perhaps it would be best not to see much of you from now on. 或许从现在开始最好少和你见面。",
-    "The pie committee decided that the best way to transport the dish would be by canal, so they insured it for the trip.",
-    "From then on, Harry decided that this little game he had invented might prove to be expensive.",
-    "I decided that I must have taken a wrong turning somewhere.",
-    "Her first impulse was to go round all the rooms looking for the thieves, but then she decided that at her age it might be more prudent to have someone with her, so she went to fetch the porter from his basement.",
-    "The walls were adorned with paintings."
+   "parts": [
+    {
+     "text": "Harry does not need to be prompted to explain how he bought his precious bottle of mud . prompt v.to encourage sb. to speak by asking them questions or suggesting words that they could say 提问或提示以鼓励某人说 One day, he went to an exclusive shop in London and asked for 'Myrolite'. exclusive adj. 含义1：very expensive, and therefore available only to wealthy people 高级的，高档的 The shop assistant looked puzzled and Harry repeated the word, slowly stressing each syllable. stress v.to pronounce a word or part of a word so that it sounds louder or more forceful 重读 When the woman shook her head in bewilderment, Harry went on to explain that 'myrolite' was a hard, amber-like substance which could be used to remove freckles . in bewilderment = in confusion = in puzzlement = in perplexity 迷惑 This explanation evidently conveyed something to the woman who searched shelf after shelf . convey sth. to sb. 向某人传达或表达… 定语从句充当并列句 § sth. after sth. （一个又一个） She produced all sorts of weird concoctions, but none of them met with Harry's requirements . produce v. if you produce an object, you bring it out or present it, so that people can see or consider it 出示，拿出 all sorts / kinds / types of sth. 各种各样的，各式各样的… concoction n. sth. that has been made out of several things mixed together 调制品，混合物 requirement n. (usually requirements) [pl.] something that you need or want 所需的（或所要的）东西 When Harry put on his act of being mildly annoyed, the assistant promised to order some for him. put on an act 装模作样 Intoxicated by his success, Harry then asked for perfumed mud. Intoxicated adj.喝醉的；极度兴奋的 v.沉醉 He expected the assistant to look at him in blank astonishment. blank adj. showing no feeling, understanding or interest 茫然的(脸是空白的) However, it was his turn to be surprised, for the woman's eyes immediately lit up and she fetched several bottles which she placed on the counter for Harry to inspect . it is one’s turn (to do sth.) 轮到某人做某事 light up if someone’s face or eyes light up, they show pleasure, excitement etc.（因喜悦、兴奋等脸上或眼中）露出光彩 定语从句充当并列句 For once, Harry had to admit defeat. (just) for once used to say that sth. unusual happens, especially when you wish it would happen more often 这一回，这一次 accept / admit / concede defeat 认输 He picked up what seemed to be the smallest bottle and discreetly asked the price. discreet adj.careful not to cause embarrassment or attract too much attention, especially by keeping something secret 言行小心谨慎的 He was glad to get away with a mere ￡20 and he beat a hasty retreat, clutching the precious bottle under his arm. a mere … 仅仅… beat a (hasty) retreat leave a place quickly in order to avoid an embarrassing or dangerous situation 赶紧走了 clutch v.to hold something tightly because you do not want to lose it 紧紧抓住 From then on, Harry decided that this little game he had invented might prove to be expensive . from then on 从那以后 decide 不一定译为“决定”，而常常译为“（在考虑之后）确定，断定，认为”，尤其是其后加 that 引导的宾语从句时。 The curious bottle which now adorns the bookcase in his study was his first and last purchase of rare cosmetics. adorn v. (fml.) to decorate sth. 装饰"
+    },
+    {
+     "text": "'And then what happened?' he prompted."
+    },
+    {
+     "text": "The speaker was hesitant and had to be prompted occasionally by the chairman."
+    },
+    {
+     "table": {
+      "headers": [
+       "add v.补充说到"
+      ],
+      "rows": [
+       [
+        "She gazed at it for some time then added, \"You don't need bookcases at all...\""
+       ]
+      ]
+     }
+    },
+    {
+     "text": "an exclusive store / restaurant / neighborhood"
+    },
+    {
+     "text": "inclusive adj.包容广阔的 → exclusive adj.不含…的；排外的；排斥的"
+    },
+    {
+     "text": "import v./n. 进口 → export v./n.出口"
+    },
+    {
+     "text": "input v./n.输入、投入 → output v./n.产出、输出"
+    },
+    {
+     "table": {
+      "headers": [
+       "exclusive adj. 含义2：独家的"
+      ],
+      "rows": [
+       [
+        "Newspapers and magazines offered the family huge sums for the exclusive rights to publish stories and photographs ."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The word 'machine' is stressed on the second syllable."
+    },
+    {
+     "text": "She looked at him in bewilderment."
+    },
+    {
+     "text": "Matt stared at her in confusion."
+    },
+    {
+     "text": "She frowned in puzzlement."
+    },
+    {
+     "text": "Jane looked about in perplexity."
+    },
+    {
+     "text": "Please convey my good wishes to your parents."
+    },
+    {
+     "text": "If you see James, do convey my apologies to him."
+    },
+    {
+     "text": "The poem perfectly conveys to the reader the poet’s feelings."
+    },
+    {
+     "text": "This explanation evidently conveyed something to the woman and she searched shelf after shelf."
+    },
+    {
+     "text": "This explanation evidently conveyed something to the woman who searched shelf after shelf."
+    },
+    {
+     "text": "But when the train dawdled at station after station, I began to wonder ."
+    },
+    {
+     "text": "He fired shot after shot. 一枪又一枪"
+    },
+    {
+     "text": "Shelley sent him letter after letter to explain the delay. 一封又一封"
+    },
+    {
+     "text": "They sent regiment after regiment to attack us."
+    },
+    {
+     "text": "In factory after factory we were shown machines built by the workers themselves."
+    },
+    {
+     "table": {
+      "headers": [
+       "… shelf after shelf …",
+       "day after day",
+       "week after week",
+       "year after year",
+       "time after time"
+      ],
+      "rows": [
+       [
+        "He searched the book shelf after shelf. 他一个书架接一个书架地找那本书。"
+       ],
+       [
+        "She hates doing the same work day after day. 她讨厌日复一日做同样的工作。"
+       ],
+       [
+        "Week after week the drought continued. 干旱持续了好多个星期。"
+       ],
+       [
+        "Regulars return year after year. 常客年年都回来。"
+       ],
+       [
+        "Burns had escaped from jail time after time. 伯恩斯屡次越狱逃跑。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Produce your ticket!"
+    },
+    {
+     "text": "They made no effort to hide their amusement whenever I produced a packet of sweets from my pocket ."
+    },
+    {
+     "text": "all sorts of silly jokes"
+    },
+    {
+     "text": "all sorts of weird concoctions"
+    },
+    {
+     "text": "all sorts of indignities"
+    },
+    {
+     "table": {
+      "headers": [
+       "sth. of all sorts / kinds / types 各种各样的，各式各样的…"
+      ],
+      "rows": [
+       [
+        "vehicles of all kinds"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "a concoction of honey, yogurt, oats, and apples"
+    },
+    {
+     "text": "The new computer system will meet (with) all our requirements."
+    },
+    {
+     "table": {
+      "headers": [
+       "comply with / fulfill / meet (with) / satisfy / suit one’s requirements 满足了某人的需要"
+      ],
+      "rows": [
+       [
+        "She must be made to comply with the rules. 必须让她遵守规则。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "He wasn’t really angry; he just put on an act."
+    },
+    {
+     "table": {
+      "headers": [
+       "put on sth. 假装"
+      ],
+      "rows": [
+       [
+        "put on a smile 假笑 put on airs 假装摆架子 put on an injured expression 装出受伤"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "He appeared intoxicated, police said. 他看上去好像是喝醉了，警察说。"
+    },
+    {
+     "text": "My cousins seem to have become intoxicated by their success. 我的堂兄弟们好象已经被他们的成功陶醉了。"
+    },
+    {
+     "text": "Steve looked blank and said he had no idea what I was talking about."
+    },
+    {
+     "table": {
+      "headers": [
+       "blank astonishment （惊讶得）目瞪口呆"
+      ],
+      "rows": [
+       [
+        "a look of blank astonishment"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "It's your turn."
+    },
+    {
+     "text": "It's our turn to drive the kids to school this week."
+    },
+    {
+     "text": "His eyes lit up with laughter."
+    },
+    {
+     "text": "Her face lit up with pleasure."
+    },
+    {
+     "text": "Suddenly, I saw the Officer's face light up ."
+    },
+    {
+     "text": "… she fetched several bottles and she placed them on the counter for Harry to inspect."
+    },
+    {
+     "text": "… she fetched several bottles which she placed on the counter for Harry to inspect."
+    },
+    {
+     "text": "Be honest for once."
+    },
+    {
+     "text": "Just for once, let me make my own decision."
+    },
+    {
+     "text": "For once Colin was speechless."
+    },
+    {
+     "text": "She is very determined, and will never admit defeat."
+    },
+    {
+     "text": "The prime minister conceded defeat and resigned."
+    },
+    {
+     "text": "After he was arrested, the man admitted hiding in the box before the plane left London ."
+    },
+    {
+     "text": "When he asked if Mr. Lane lived there, the policeman on duty told him that since his defeat, the ex-Prime Minister had gone abroad ."
+    },
+    {
+     "text": "The family made discreet enquiries about his background."
+    },
+    {
+     "text": "They are very good assistants, very discreet — they wouldn't go shouting to the press about anything they discovered while working for you."
+    },
+    {
+     "table": {
+      "headers": [
+       "a mere 后跟单数名词时 = only a / an",
+       "a mere = only 在其他情况下"
+      ],
+      "rows": [
+       [
+        "It went direct from my local station and the journey lasted a mere (=only an) hour and 17 minutes . He's a mere (=only a) child. He's not a mere (=only a) boxer: he's world champion."
+       ],
+       [
+        "A mere (=Only) 2% of their budget has been spent on publicity. He has often described to me how he picked up a masterpiece for a mere (=only) £50. Glancing at his map, he informed us that the next village was a mere (=only) twenty miles away ."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The cat beat a hasty retreat when it saw the dog was coming. （避免危险）赶紧溜了"
+    },
+    {
+     "text": "I saw my aunt coming and beat a hasty retreat.（避免尴尬）赶紧跑了"
+    },
+    {
+     "text": "She was clutching a bottle of champagne."
+    },
+    {
+     "text": "From then on he never trusted her again.从那时起，他再也不信任她了。"
+    },
+    {
+     "text": "She left in 1984 and from then on he lived alone. 她于1984年离去，从那时起他便独自一人生活。"
+    },
+    {
+     "text": "I stopped pretending from then on. 从那时起，我不再装了。"
+    },
+    {
+     "table": {
+      "headers": [
+       "from now on 从今往后"
+      ],
+      "rows": [
+       [
+        "Perhaps it would be best not to see much of you from now on. 或许从现在开始最好少和你见面。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The pie committee decided that the best way to transport the dish would be by canal, so they insured it for the trip."
+    },
+    {
+     "text": "From then on, Harry decided that this little game he had invented might prove to be expensive."
+    },
+    {
+     "text": "I decided that I must have taken a wrong turning somewhere."
+    },
+    {
+     "text": "Her first impulse was to go round all the rooms looking for the thieves, but then she decided that at her age it might be more prudent to have someone with her, so she went to fetch the porter from his basement."
+    },
+    {
+     "text": "The walls were adorned with paintings."
+    }
    ]
   }
  ]

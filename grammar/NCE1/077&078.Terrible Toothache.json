@@ -2,56 +2,183 @@
  "grammar": [
   {
    "title": "否定疑问句",
-   "lines": [
-    "否定疑问句构成 否定疑问句的意思是 疑问+否定 构成的，即：一般疑问句的疑问词+not 的缩略式 何时用？(翻译：“难道，难道不…”) 组织步骤 ① 变：一般疑问句+ not 缩略式 ② 直接说（先看词性，再看人称）",
-    "Are you ok? → Aren’t you ok?",
-    "Do you know that? → Don’t you know that?",
-    "Can you wait ? → Can ’t you wait ?",
-    "A. Aren’t you lucky ！ 表达强调",
-    "B. Don’t you love me? 表达情绪",
-    "Is she beautiful? ⇒ Isn’t she beautiful? 难道她不漂亮吗？",
-    "Does she have a boyfriend? ⇒ Doesn’t she have a boyfriend? 难道她没有男朋友吗？",
-    "Did you have a date yesterday? ⇒ Didn’t you have a date yesterday?难道你昨天没去约会？",
-    "Can you be tender? ⇒ Can’t you be tender? 难道你就不能温柔一点吗？",
-    "Don’t you understand ? 难道你不懂吗？(一般现在时)",
-    "Didn’t she cook ? 难道她没做饭？(一般过去时)",
-    "Isn’t he cool? 难道他不帅？(一般现在时)",
-    "Wasn’t he late? 难道他没迟到？(一般过去时)",
-    "Didn’t you sleep ? 难道你没睡着 ？(一般过去时)",
-    "Aren’t you lucky ! 你们真幸运啊！(一般现在时)"
+   "parts": [
+    {
+     "text": "否定疑问句构成 否定疑问句的意思是 疑问+否定 构成的，即：一般疑问句的疑问词+not 的缩略式 何时用？(翻译：“难道，难道不…”) 组织步骤 ① 变：一般疑问句+ not 缩略式 ② 直接说（先看词性，再看人称）"
+    },
+    {
+     "text": "Are you ok? → Aren’t you ok?"
+    },
+    {
+     "text": "Do you know that? → Don’t you know that?"
+    },
+    {
+     "text": "Can you wait ? → Can ’t you wait ?"
+    },
+    {
+     "text": "A. Aren’t you lucky ！ 表达强调"
+    },
+    {
+     "text": "B. Don’t you love me? 表达情绪"
+    },
+    {
+     "text": "Is she beautiful? ⇒ Isn’t she beautiful? 难道她不漂亮吗？"
+    },
+    {
+     "text": "Does she have a boyfriend? ⇒ Doesn’t she have a boyfriend? 难道她没有男朋友吗？"
+    },
+    {
+     "text": "Did you have a date yesterday? ⇒ Didn’t you have a date yesterday?难道你昨天没去约会？"
+    },
+    {
+     "text": "Can you be tender? ⇒ Can’t you be tender? 难道你就不能温柔一点吗？"
+    },
+    {
+     "text": "Don’t you understand ? 难道你不懂吗？(一般现在时)"
+    },
+    {
+     "text": "Didn’t she cook ? 难道她没做饭？(一般过去时)"
+    },
+    {
+     "text": "Isn’t he cool? 难道他不帅？(一般现在时)"
+    },
+    {
+     "text": "Wasn’t he late? 难道他没迟到？(一般过去时)"
+    },
+    {
+     "text": "Didn’t you sleep ? 难道你没睡着 ？(一般过去时)"
+    },
+    {
+     "text": "Aren’t you lucky ! 你们真幸运啊！(一般现在时)"
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "一般现在时变为一般过去时",
-   "lines": [
-    "一般现在时(三单) § 一般过去时 §",
-    "She buys a new car every year. She bought a new car last year.",
-    "She airs the room every day. She aired it this morning.",
-    "He often loses his pen. He lost his pen this morning.",
-    "She always listens to the news. She listened to the news yesterday.",
-    "She empties this basket every day. She emptied it yesterday."
+   "parts": [
+    {
+     "table": {
+      "headers": [
+       "一般现在时(三单) §",
+       "一般过去时 §"
+      ],
+      "rows": [
+       [
+        "She buys a new car every year.",
+        "She bought a new car last year."
+       ],
+       [
+        "She airs the room every day.",
+        "She aired it this morning."
+       ],
+       [
+        "He often loses his pen.",
+        "He lost his pen this morning."
+       ],
+       [
+        "She always listens to the news.",
+        "She listened to the news yesterday."
+       ],
+       [
+        "She empties this basket every day.",
+        "She emptied it yesterday."
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "美式与英式里的名词差异",
-   "lines": [
-    "美式🇺🇸 英式🇬🇧 中文🇨🇳 示例",
-    "movie film 电影 I watched a movie.",
-    "pants trousers 裤子 He wore blue pants.",
-    "football soccer 足球 We played soccer.",
-    "vacation holiday 假期 I went on vacation.",
-    "subway underground 地铁 I took the subway.",
-    "zipper zip 拉链 The zipper is broken.",
-    "truck lorry 卡车 The truck is big.",
-    "stove cooker 炉子 She cooked on the stove.",
-    "sneakers trainers 运动鞋 He bought new sneakers.",
-    "eraser rubber 橡皮擦 Use the eraser to erase.",
-    "sidewalk pavement 人行道 They walked on the sidewalk.",
-    "fries chips 薯条 I ordered fries."
+   "parts": [
+    {
+     "table": {
+      "headers": [
+       "美式🇺🇸",
+       "英式🇬🇧",
+       "中文🇨🇳",
+       "示例"
+      ],
+      "rows": [
+       [
+        "movie",
+        "film",
+        "电影",
+        "I watched a movie."
+       ],
+       [
+        "pants",
+        "trousers",
+        "裤子",
+        "He wore blue pants."
+       ],
+       [
+        "football",
+        "soccer",
+        "足球",
+        "We played soccer."
+       ],
+       [
+        "vacation",
+        "holiday",
+        "假期",
+        "I went on vacation."
+       ],
+       [
+        "subway",
+        "underground",
+        "地铁",
+        "I took the subway."
+       ],
+       [
+        "zipper",
+        "zip",
+        "拉链",
+        "The zipper is broken."
+       ],
+       [
+        "truck",
+        "lorry",
+        "卡车",
+        "The truck is big."
+       ],
+       [
+        "stove",
+        "cooker",
+        "炉子",
+        "She cooked on the stove."
+       ],
+       [
+        "sneakers",
+        "trainers",
+        "运动鞋",
+        "He bought new sneakers."
+       ],
+       [
+        "eraser",
+        "rubber",
+        "橡皮擦",
+        "Use the eraser to erase."
+       ],
+       [
+        "sidewalk",
+        "pavement",
+        "人行道",
+        "They walked on the sidewalk."
+       ],
+       [
+        "fries",
+        "chips",
+        "薯条",
+        "I ordered fries."
+       ]
+      ]
+     }
+    }
    ]
   }
  ]

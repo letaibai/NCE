@@ -2,93 +2,444 @@
  "grammar": [
   {
    "title": "被动语态",
-   "lines": [
-    "什么是被动语态 被动语态是一种句子结构，用来强调 动作的接受者 或受事者，而不是动作的执行者。在被动语态中，动作的 接受者 成为句子的 主语 ，而动作的执行者通常以介词 \"by\" 引出或省略不提。 被动语态常用于 被动语态的构成: be + done 被动语态与时态关系非常紧密， be 代表了时态，会随着时间变化而变化 ，done 表示被动的 。 被动语态的时态 § 一般现在 V.S. 一般过去 何使用被动语态",
-    "主动语态(除了被动全是主动) 被动语态",
-    "She washes the car.（她洗车。） The car is washed by her.（车被她洗了。）",
-    "强调 未知 隐藏 客观",
-    "当重要性在于动作的承受者而不是执行者时 当执行者未知或不重要时 当想避免指责或隐藏具体执行者时 当描述普遍规律或客观事实时",
-    "The cake was eaten by her. The house was built . The job was done. Gravity was discovered by Newton. 万有引力被牛顿发现了。",
-    "原型 现在时 (三单) 过去时 现在分词 过去分词",
-    "be am/ is /are was/were being been",
-    "do do es did doing done",
-    "become become s became becoming become",
-    "seem seem s seemed seeming seemed",
-    "appear appear s appeared appearing appeared",
-    "feel feel s felt feeling felt",
-    "look look s looked looking looked",
-    "sound sound s sounded sounding sounded",
-    "taste taste s tasted tasting tasted",
-    "smell smell s smelled smelling smelled",
-    "remain remain s remained remaining remained",
-    "stay stay s stayed staying stayed",
-    "turn turn s turned turning turned",
-    "get get s got/gotten getting gotten",
-    "时态 结构 例句",
-    "一般现在时 is/am/are + done He is killed . 他被杀了。",
-    "一般过去时 was/were + done He was killed last night. 他昨晚被杀。",
-    "过去进行时 was/were + being + done He was being killed last night.他昨晚正在被杀。",
-    "现在完成时 has/have + been + done He has been killed .他已经被杀了。",
-    "过去完成时 had + been + done He had been killed before.他曾经被杀过。",
-    "将来时 will + be + done He will be killed .他将会被杀。",
-    "过去将来时 would + be + done He would be killed .他曾经会被杀。",
-    "现在进行时 is/am/are + being + done He is being killed .他正在被杀。",
-    "过去完成进行时 had + been + being + done He had been being killed .他过去一直被杀。",
-    "时态 例句",
-    "一般现在时 The watch is broken. 手表坏了(主系表)",
-    "It is visited by hundreds of people every day here. 这里每天迎接成百上千的游客。",
-    "No man is born wise or learned. 没有人是生而知",
-    "一般过去时 Her wallet was lost yesterday. 她的钱包昨天丢了。",
-    "The cars were repaired last week.这几辆车是上周修好的。",
-    "Her son was taken to school. 她儿子被送到学校",
-    "I was invited to his birthday party yesterday. 我昨天被邀请去参加了他的生日聚会。",
-    "不知道 动作 的发出者 It is broken.",
-    "强调 动作 的发出者He breaks it.&It is broken by him.",
-    "没必要提出 动作 的发出者 A new building was built.",
-    "惯用的被动语态 He was born in 1984.",
-    "be born ... (出生：bear-bore-born) He was born in 1984.",
-    "be hurt ...(受伤：hurt-hurt-hurt) I am hurt .",
-    "be dressed in...(打扮：dress-dressed-dressed) The lady is dressed in a large funny hat."
+   "parts": [
+    {
+     "text": "什么是被动语态 被动语态是一种句子结构，用来强调 动作的接受者 或受事者，而不是动作的执行者。在被动语态中，动作的 接受者 成为句子的 主语 ，而动作的执行者通常以介词 \"by\" 引出或省略不提。 被动语态常用于 被动语态的构成: be + done 被动语态与时态关系非常紧密， be 代表了时态，会随着时间变化而变化 ，done 表示被动的 。 被动语态的时态 § 一般现在 V.S. 一般过去 何使用被动语态"
+    },
+    {
+     "table": {
+      "headers": [
+       "主动语态(除了被动全是主动)",
+       "被动语态"
+      ],
+      "rows": [
+       [
+        "She washes the car.（她洗车。）",
+        "The car is washed by her.（车被她洗了。）"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "强调",
+       "未知",
+       "隐藏",
+       "客观"
+      ],
+      "rows": [
+       [
+        "当重要性在于动作的承受者而不是执行者时",
+        "当执行者未知或不重要时",
+        "当想避免指责或隐藏具体执行者时",
+        "当描述普遍规律或客观事实时"
+       ],
+       [
+        "The cake was eaten by her.",
+        "The house was built .",
+        "The job was done.",
+        "Gravity was discovered by Newton. 万有引力被牛顿发现了。"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "原型",
+       "现在时 (三单)",
+       "过去时",
+       "现在分词",
+       "过去分词"
+      ],
+      "rows": [
+       [
+        "be",
+        "am/ is /are",
+        "was/were",
+        "being",
+        "been"
+       ],
+       [
+        "do",
+        "do es",
+        "did",
+        "doing",
+        "done"
+       ],
+       [
+        "become",
+        "become s",
+        "became",
+        "becoming",
+        "become"
+       ],
+       [
+        "seem",
+        "seem s",
+        "seemed",
+        "seeming",
+        "seemed"
+       ],
+       [
+        "appear",
+        "appear s",
+        "appeared",
+        "appearing",
+        "appeared"
+       ],
+       [
+        "feel",
+        "feel s",
+        "felt",
+        "feeling",
+        "felt"
+       ],
+       [
+        "look",
+        "look s",
+        "looked",
+        "looking",
+        "looked"
+       ],
+       [
+        "sound",
+        "sound s",
+        "sounded",
+        "sounding",
+        "sounded"
+       ],
+       [
+        "taste",
+        "taste s",
+        "tasted",
+        "tasting",
+        "tasted"
+       ],
+       [
+        "smell",
+        "smell s",
+        "smelled",
+        "smelling",
+        "smelled"
+       ],
+       [
+        "remain",
+        "remain s",
+        "remained",
+        "remaining",
+        "remained"
+       ],
+       [
+        "stay",
+        "stay s",
+        "stayed",
+        "staying",
+        "stayed"
+       ],
+       [
+        "turn",
+        "turn s",
+        "turned",
+        "turning",
+        "turned"
+       ],
+       [
+        "get",
+        "get s",
+        "got/gotten",
+        "getting",
+        "gotten"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "时态",
+       "结构",
+       "例句"
+      ],
+      "rows": [
+       [
+        "一般现在时",
+        "is/am/are + done",
+        "He is killed . 他被杀了。"
+       ],
+       [
+        "一般过去时",
+        "was/were + done",
+        "He was killed last night. 他昨晚被杀。"
+       ],
+       [
+        "过去进行时",
+        "was/were + being + done",
+        "He was being killed last night.他昨晚正在被杀。"
+       ],
+       [
+        "现在完成时",
+        "has/have + been + done",
+        "He has been killed .他已经被杀了。"
+       ],
+       [
+        "过去完成时",
+        "had + been + done",
+        "He had been killed before.他曾经被杀过。"
+       ],
+       [
+        "将来时",
+        "will + be + done",
+        "He will be killed .他将会被杀。"
+       ],
+       [
+        "过去将来时",
+        "would + be + done",
+        "He would be killed .他曾经会被杀。"
+       ],
+       [
+        "现在进行时",
+        "is/am/are + being + done",
+        "He is being killed .他正在被杀。"
+       ],
+       [
+        "过去完成进行时",
+        "had + been + being + done",
+        "He had been being killed .他过去一直被杀。"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "时态",
+       "例句",
+       "一般现在时",
+       "一般过去时"
+      ],
+      "rows": [
+       [
+        "The watch is broken. 手表坏了(主系表)"
+       ],
+       [
+        "It is visited by hundreds of people every day here. 这里每天迎接成百上千的游客。"
+       ],
+       [
+        "No man is born wise or learned. 没有人是生而知"
+       ],
+       [
+        "Her wallet was lost yesterday. 她的钱包昨天丢了。"
+       ],
+       [
+        "The cars were repaired last week.这几辆车是上周修好的。"
+       ],
+       [
+        "Her son was taken to school. 她儿子被送到学校"
+       ],
+       [
+        "I was invited to his birthday party yesterday. 我昨天被邀请去参加了他的生日聚会。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "不知道 动作 的发出者 It is broken."
+    },
+    {
+     "text": "强调 动作 的发出者He breaks it.&It is broken by him."
+    },
+    {
+     "text": "没必要提出 动作 的发出者 A new building was built."
+    },
+    {
+     "text": "惯用的被动语态 He was born in 1984."
+    },
+    {
+     "table": {
+      "headers": [
+       "be born ... (出生：bear-bore-born)",
+       "be hurt ...(受伤：hurt-hurt-hurt)",
+       "be dressed in...(打扮：dress-dressed-dressed)"
+      ],
+      "rows": [
+       [
+        "He was born in 1984."
+       ],
+       [
+        "I am hurt ."
+       ],
+       [
+        "The lady is dressed in a large funny hat."
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "动词 +ed与+ing的不同意思",
-   "lines": [
-    "快速理解：过去分词(ed)是自己的感受（I'm excited. 我兴奋），现在分词(ing) 是给别人的感受(I'm exciting. 我让别人兴奋)。 更多类型的词汇 worried ['wʌrid] adj. 担心，担忧的 regularly ['reɡjələli] adv. 经常的、定期的",
-    "interest ed 感兴趣的 She is very interested in learning new languages. 她对学习新语言非常感兴趣 interest ing 令人 感兴趣的 The book I'm reading is very interesting. 我正在读的那本书非常有趣",
-    "mov ed 感动的 Her speech at the conference was so powerful, it really moved me. 她在会议上的演讲非常有力，真让我感动 mov ing 令人 感动的 The movie's ending was incredibly moving. 电影的结局非常感人",
-    "surpris ed 惊讶的 I was surprised to see him at the party. 我在派对上见到他感到很惊讶 surpris ing 令人 惊讶的 The news of their engagement was quite surprising. 他们的订婚消息相当令人惊讶",
-    "excit ed 兴奋的 He was excited about his upcoming vacation. 他对即将到来的假期感到兴奋 excit ing 令人 兴奋的 The roller coaster ride was thrilling and exciting. 坐过山车的经历令人兴奋刺激",
-    "单词 \"-ed\" 形容词 \"-ing\" 形容词",
-    "amuse amused amusing",
-    "annoy annoyed annoying",
-    "depress depressed depressing",
-    "embarrass embarrassed embarrassing",
-    "exhaust exhausted exhausting",
-    "frustrate frustrated frustrating",
-    "interest interested interesting",
-    "Don't be worried about the exam.",
-    "worry v. 担心，担忧 Don’t worry about the exam.",
-    "It’s important to exercise regularly. 强调定期的",
-    "usually 通常 I usually get the bus to work. 我通常坐公共汽车上班。"
+   "parts": [
+    {
+     "text": "快速理解：过去分词(ed)是自己的感受（I'm excited. 我兴奋），现在分词(ing) 是给别人的感受(I'm exciting. 我让别人兴奋)。 更多类型的词汇 worried ['wʌrid] adj. 担心，担忧的 regularly ['reɡjələli] adv. 经常的、定期的"
+    },
+    {
+     "table": {
+      "headers": [
+       "interest ed 感兴趣的",
+       "interest ing 令人 感兴趣的",
+       "mov ed 感动的",
+       "mov ing 令人 感动的",
+       "surpris ed 惊讶的",
+       "surpris ing 令人 惊讶的",
+       "excit ed 兴奋的",
+       "excit ing 令人 兴奋的"
+      ],
+      "rows": [
+       [
+        "She is very interested in learning new languages. 她对学习新语言非常感兴趣",
+        "The book I'm reading is very interesting. 我正在读的那本书非常有趣"
+       ],
+       [
+        "Her speech at the conference was so powerful, it really moved me. 她在会议上的演讲非常有力，真让我感动",
+        "The movie's ending was incredibly moving. 电影的结局非常感人"
+       ],
+       [
+        "I was surprised to see him at the party. 我在派对上见到他感到很惊讶",
+        "The news of their engagement was quite surprising. 他们的订婚消息相当令人惊讶"
+       ],
+       [
+        "He was excited about his upcoming vacation. 他对即将到来的假期感到兴奋",
+        "The roller coaster ride was thrilling and exciting. 坐过山车的经历令人兴奋刺激"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "单词",
+       "\"-ed\" 形容词",
+       "\"-ing\" 形容词"
+      ],
+      "rows": [
+       [
+        "amuse",
+        "amused",
+        "amusing"
+       ],
+       [
+        "annoy",
+        "annoyed",
+        "annoying"
+       ],
+       [
+        "depress",
+        "depressed",
+        "depressing"
+       ],
+       [
+        "embarrass",
+        "embarrassed",
+        "embarrassing"
+       ],
+       [
+        "exhaust",
+        "exhausted",
+        "exhausting"
+       ],
+       [
+        "frustrate",
+        "frustrated",
+        "frustrating"
+       ],
+       [
+        "interest",
+        "interested",
+        "interesting"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Don't be worried about the exam."
+    },
+    {
+     "table": {
+      "headers": [
+       "worry v. 担心，担忧"
+      ],
+      "rows": [
+       [
+        "Don’t worry about the exam."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "It’s important to exercise regularly. 强调定期的"
+    },
+    {
+     "table": {
+      "headers": [
+       "usually 通常"
+      ],
+      "rows": [
+       [
+        "I usually get the bus to work. 我通常坐公共汽车上班。"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "被动语态否定与疑问句",
-   "lines": [
-    "陈述句 否定句 be + not+ done 疑问句 be 提前",
-    "The letter was sent out. The letter was not sent out. Was the letter sent out?",
-    "The room was cleaned. The room was not cleaned. Was the room cleaned?",
-    "This seat is taken . 这位置有人了",
-    "The tea is served . 茶已经准备好了",
-    "Your coffee is served . 你的咖啡已备好",
-    "Lost time is never found again. 岁月流逝，一去不返。",
-    "A liar is not believed when he speaks the truth. 说谎者即使讲真话也没人相信。",
-    "Rome is not built in a day. 冰冻三尺非一日之寒。"
+   "parts": [
+    {
+     "table": {
+      "headers": [
+       "陈述句",
+       "否定句 be + not+ done",
+       "疑问句 be 提前"
+      ],
+      "rows": [
+       [
+        "The letter was sent out.",
+        "The letter was not sent out.",
+        "Was the letter sent out?"
+       ],
+       [
+        "The room was cleaned.",
+        "The room was not cleaned.",
+        "Was the room cleaned?"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "This seat is taken . 这位置有人了"
+    },
+    {
+     "text": "The tea is served . 茶已经准备好了"
+    },
+    {
+     "text": "Your coffee is served . 你的咖啡已备好"
+    },
+    {
+     "text": "Lost time is never found again. 岁月流逝，一去不返。"
+    },
+    {
+     "text": "A liar is not believed when he speaks the truth. 说谎者即使讲真话也没人相信。"
+    },
+    {
+     "text": "Rome is not built in a day. 冰冻三尺非一日之寒。"
+    }
    ]
   }
  ],

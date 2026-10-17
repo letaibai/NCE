@@ -2,77 +2,287 @@
  "grammar": [
   {
    "title": "一般现在时态",
-   "lines": [
-    "三单(第三人称单数) 识别三单(所有可以使用She、He、It代表的名词)",
-    "一般现在时（Simple Present Tense）",
-    "结构 主语 + is/am/are + 非动词 主语 + 动词",
-    "习惯的动作或者经常的状态 (描述一个经常或持续存在的状态、动作或习惯) I 'm at home . 我在家 She drinks coffee every morning.（她每天早上喝咖啡。）",
-    "真理 (陈述普遍认为是真实的事实或真理) The sun is round . 太阳是圆的 The sun rises in the east.（太阳从东方升起。）",
-    "非三单主语 + 动词原形 三单主语 + 动词+s/es (同名词变复数)",
-    "第一人称(I、we)、第二人称(you)、第三人称复数(they、teachers、dogs、cats...) 第三人称单数（she、he、it）、特定名词（Lucy、Sam、Mr. Lee）、代词（this book、that student） 地名（Beijing）、名词所有格（my uncle）、专有名词（President Trump）、职业（the teacher）、亲属（her husband）...",
-    "He love s his girlfriend very much.（他非常爱他的女朋友。）",
-    "Jim and Lily walk to school every day.（吉姆和莉莉每天步行去学校。）",
-    "They drink beer every night.（他们每晚喝啤酒。）",
-    "My dog watch es TV at night.（我的狗晚上看电视。）",
-    "The student go es to school on foot.（这名学生步行去学校。）",
-    "Sam and I eat together.（山姆和我一起吃饭。）",
-    "肯定句 一般疑问句 否定句",
-    "They drink beer every night. Do they drink beer every night? They don't drink beer every night.",
-    "He love s his girlfriend very much. Does he love his girlfriend very much? He doesn't love his girlfriend very much."
+   "parts": [
+    {
+     "text": "三单(第三人称单数) 识别三单(所有可以使用She、He、It代表的名词)"
+    },
+    {
+     "table": {
+      "headers": [
+       "一般现在时（Simple Present Tense）"
+      ],
+      "rows": [
+       [
+        "结构",
+        "主语 + is/am/are + 非动词",
+        "主语 + 动词"
+       ],
+       [
+        "习惯的动作或者经常的状态 (描述一个经常或持续存在的状态、动作或习惯)",
+        "I 'm at home . 我在家",
+        "She drinks coffee every morning.（她每天早上喝咖啡。）"
+       ],
+       [
+        "真理 (陈述普遍认为是真实的事实或真理)",
+        "The sun is round . 太阳是圆的",
+        "The sun rises in the east.（太阳从东方升起。）"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "非三单主语 + 动词原形",
+       "三单主语 + 动词+s/es (同名词变复数)"
+      ],
+      "rows": [
+       [
+        "第一人称(I、we)、第二人称(you)、第三人称复数(they、teachers、dogs、cats...)",
+        "第三人称单数（she、he、it）、特定名词（Lucy、Sam、Mr. Lee）、代词（this book、that student） 地名（Beijing）、名词所有格（my uncle）、专有名词（President Trump）、职业（the teacher）、亲属（her husband）..."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "He love s his girlfriend very much.（他非常爱他的女朋友。）"
+    },
+    {
+     "text": "Jim and Lily walk to school every day.（吉姆和莉莉每天步行去学校。）"
+    },
+    {
+     "text": "They drink beer every night.（他们每晚喝啤酒。）"
+    },
+    {
+     "text": "My dog watch es TV at night.（我的狗晚上看电视。）"
+    },
+    {
+     "text": "The student go es to school on foot.（这名学生步行去学校。）"
+    },
+    {
+     "text": "Sam and I eat together.（山姆和我一起吃饭。）"
+    },
+    {
+     "table": {
+      "headers": [
+       "肯定句",
+       "一般疑问句",
+       "否定句"
+      ],
+      "rows": [
+       [
+        "They drink beer every night.",
+        "Do they drink beer every night?",
+        "They don't drink beer every night."
+       ],
+       [
+        "He love s his girlfriend very much.",
+        "Does he love his girlfriend very much?",
+        "He doesn't love his girlfriend very much."
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "一般现在时的否定练习",
-   "lines": [
-    "先看词性，再看人称",
-    "单词 中文含义 音标",
-    "tomato🍅 西红柿 /tə'mɑːtəʊ/ /tə'meɪtoʊ/",
-    "potato🥔 土豆 /pə'teɪtəʊ/",
-    "cabbage🥬 卷心菜 /'kæbɪdʒ/",
-    "lettuce🥬 莴苣；生菜 /'letɪs/",
-    "pea🌱 豌豆 /piː/",
-    "bean🌰 豆角 /biːn/",
-    "pear🍐 梨 /peə(r)/",
-    "grape🍇 葡萄 /ɡreɪp/",
-    "peach🍑 桃子 /piːtʃ/",
-    "strawberry🍓 草莓 /'strɔːbəri/",
-    "watermelon🍉 西瓜 /'wɔːtərˌmelən/",
-    "请使用上面的单词套用下面的句型：",
-    "He likes ... 他喜欢⋯⋯",
-    "But he doesn't like... 但是他不喜欢...",
-    "也可以替换人称为She likes... , But she doesn't like...",
-    "完整 缩写 § 含义 用于...",
-    "are not aren't 不是 非动词否定",
-    "is not isn't",
-    "cannot can't 不能 情态动词否定",
-    "do not don't 不做 实义动词否定",
-    "does not doesn't",
-    "He like s coffee, but I don’t.",
-    "She like s tea, but he do es n’t.",
-    "He is eating some bread, but she isn’t.",
-    "She can type very well, but he can’t.",
-    "They are working hard, but we aren’t.",
-    "He is reading a magazine, but I am not."
+   "parts": [
+    {
+     "text": "先看词性，再看人称"
+    },
+    {
+     "table": {
+      "headers": [
+       "单词",
+       "中文含义",
+       "音标"
+      ],
+      "rows": [
+       [
+        "tomato🍅",
+        "西红柿",
+        "/tə'mɑːtəʊ/ /tə'meɪtoʊ/"
+       ],
+       [
+        "potato🥔",
+        "土豆",
+        "/pə'teɪtəʊ/"
+       ],
+       [
+        "cabbage🥬",
+        "卷心菜",
+        "/'kæbɪdʒ/"
+       ],
+       [
+        "lettuce🥬",
+        "莴苣；生菜",
+        "/'letɪs/"
+       ],
+       [
+        "pea🌱",
+        "豌豆",
+        "/piː/"
+       ],
+       [
+        "bean🌰",
+        "豆角",
+        "/biːn/"
+       ],
+       [
+        "pear🍐",
+        "梨",
+        "/peə(r)/"
+       ],
+       [
+        "grape🍇",
+        "葡萄",
+        "/ɡreɪp/"
+       ],
+       [
+        "peach🍑",
+        "桃子",
+        "/piːtʃ/"
+       ],
+       [
+        "strawberry🍓",
+        "草莓",
+        "/'strɔːbəri/"
+       ],
+       [
+        "watermelon🍉",
+        "西瓜",
+        "/'wɔːtərˌmelən/"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "请使用上面的单词套用下面的句型："
+    },
+    {
+     "text": "He likes ... 他喜欢⋯⋯"
+    },
+    {
+     "text": "But he doesn't like... 但是他不喜欢..."
+    },
+    {
+     "text": "也可以替换人称为She likes... , But she doesn't like..."
+    },
+    {
+     "table": {
+      "headers": [
+       "完整",
+       "缩写 §",
+       "含义",
+       "用于..."
+      ],
+      "rows": [
+       [
+        "are not",
+        "aren't",
+        "不是",
+        "非动词否定"
+       ],
+       [
+        "is not",
+        "isn't"
+       ],
+       [
+        "cannot",
+        "can't",
+        "不能",
+        "情态动词否定"
+       ],
+       [
+        "do not",
+        "don't",
+        "不做",
+        "实义动词否定"
+       ],
+       [
+        "does not",
+        "doesn't"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "He like s coffee, but I don’t."
+    },
+    {
+     "text": "She like s tea, but he do es n’t."
+    },
+    {
+     "text": "He is eating some bread, but she isn’t."
+    },
+    {
+     "text": "She can type very well, but he can’t."
+    },
+    {
+     "text": "They are working hard, but we aren’t."
+    },
+    {
+     "text": "He is reading a magazine, but I am not."
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "一千以上的数词",
-   "lines": [
-    "one thousand 一千 在美式数学表达中，很多人会被教导不要在整数中间加 \"and\"。 因为在美式英语里，\"and\" 通常代表小数点。7000.09 会读作 \"Seven thousand and nine hundredths\"。 注：只要涉及到 21 ~ 99之间的数字，必须加连字符 “-”； thirty-two； thirty-three；thirty-six；twenty-three；ninety-nine",
-    "数字 英文表达",
-    "1423 one thousand four hundred and twenty-three",
-    "5736 five thousand seven hundred and thirty-six",
-    "4042 four thousand and forty-two",
-    "7009 seven thousand nine 美式惯用",
-    "5416 five thousand four hundred and sixteen",
-    "3200 three thousand two hundred",
-    "4833 four thousand eight hundred and thirty-three",
-    "9006 nine thousand and six 英式惯用",
-    "1832 one thousand eight hundred and thirty-two"
+   "parts": [
+    {
+     "text": "one thousand 一千 在美式数学表达中，很多人会被教导不要在整数中间加 \"and\"。 因为在美式英语里，\"and\" 通常代表小数点。7000.09 会读作 \"Seven thousand and nine hundredths\"。 注：只要涉及到 21 ~ 99之间的数字，必须加连字符 “-”； thirty-two； thirty-three；thirty-six；twenty-three；ninety-nine"
+    },
+    {
+     "table": {
+      "headers": [
+       "数字",
+       "英文表达"
+      ],
+      "rows": [
+       [
+        "1423",
+        "one thousand four hundred and twenty-three"
+       ],
+       [
+        "5736",
+        "five thousand seven hundred and thirty-six"
+       ],
+       [
+        "4042",
+        "four thousand and forty-two"
+       ],
+       [
+        "7009",
+        "seven thousand nine 美式惯用"
+       ],
+       [
+        "5416",
+        "five thousand four hundred and sixteen"
+       ],
+       [
+        "3200",
+        "three thousand two hundred"
+       ],
+       [
+        "4833",
+        "four thousand eight hundred and thirty-three"
+       ],
+       [
+        "9006",
+        "nine thousand and six 英式惯用"
+       ],
+       [
+        "1832",
+        "one thousand eight hundred and thirty-two"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],

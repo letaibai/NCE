@@ -2,96 +2,400 @@
  "grammar": [
   {
    "title": "现在完成时态",
-   "lines": [
-    "现在完成(过去发生，影响现在) 一般过去(过去发生，无关现在)",
-    "He has got married. 他已经结婚了。 He got married in 2010. 他2010 年结的婚。",
-    "I have graduated . 我已经毕业了。 I graduated in 2006. 我2006 年毕业的。",
-    "I have finished Book1. 我已经学完一册了。 I finished Book1 last week. 我上周学完一册的。",
-    "I have been to New York. 我去过纽约。 I went to New York in 2010. 我2010年去了纽约。",
-    "我做过的事，与现在产生了关联(持续状态) 只能告诉你我做过什么事(瞬间状态)"
+   "parts": [
+    {
+     "table": {
+      "headers": [
+       "现在完成(过去发生，影响现在)",
+       "一般过去(过去发生，无关现在)"
+      ],
+      "rows": [
+       [
+        "He has got married. 他已经结婚了。",
+        "He got married in 2010. 他2010 年结的婚。"
+       ],
+       [
+        "I have graduated . 我已经毕业了。",
+        "I graduated in 2006. 我2006 年毕业的。"
+       ],
+       [
+        "I have finished Book1. 我已经学完一册了。",
+        "I finished Book1 last week. 我上周学完一册的。"
+       ],
+       [
+        "I have been to New York. 我去过纽约。",
+        "I went to New York in 2010. 我2010年去了纽约。"
+       ],
+       [
+        "我做过的事，与现在产生了关联(持续状态)",
+        "只能告诉你我做过什么事(瞬间状态)"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "动词的变化",
-   "lines": [
-    "现在完成(引起话题) ↔ 一般过去(具体谈论)",
-    "Have you met Mrs. Jones yet?",
-    "Yes. I have .",
-    "When did you meet her?",
-    "I met her two weeks ago.",
-    "Has the boss left yet? 引起话题",
-    "Yes, he has . 具体谈论",
-    "When did he leave ?",
-    "He left ten minutes ago.",
-    "Have you had breakfast yet?",
-    "Yes, we have .",
-    "When did you have it?",
-    "We had it at half past seven .",
-    "Has she found her pen yet?",
-    "Yes. she has .",
-    "When did she find it?",
-    "She found it an hour ago .",
-    "动词 do 过去时 did 过去分词 done 现在分词 doing 中文",
-    "过去时与过去分词无变化的 §",
-    "read read read reading 读",
-    "cut cut cut cutting 切,割",
-    "let let let letting 让",
-    "put put put putting 放",
-    "cost cost cost costing 花费,值",
-    "set set set setting 落下、安置",
-    "hurt hurt hurt hurting 使…伤痛",
-    "ew → wn 规律变化的",
-    "fly flew flown flying 飞",
-    "draw drew drawn drawing 画",
-    "grow grew grown growing 生长",
-    "know knew known knowing 知道",
-    "i → a → u 规律变化",
-    "begin began begun beginning 开始",
-    "drink drank drunk drinking 喝",
-    "sing sang sung singing 唱",
-    "swim swam swum swimming 游泳",
-    "ring rang rung ringing 打电话",
-    "ee → el,ep,ef",
-    "feel felt felt feeling 感觉",
-    "keep kept kept keeping 保持",
-    "leave left left leaving 离开",
-    "sleep slept slept sleeping 睡觉",
-    "sweep swept swept sweeping 打扫",
-    "aught",
-    "catch caught caught catching 抓",
-    "teach taught taught teaching 教",
-    "meet met met meeting 遇见",
-    "get got got getting 得到",
-    "hold held held holding 举行",
-    "sit sat sat sitting 坐",
-    "win won won winning 赢",
-    "build built built building 建造",
-    "send sent sent sending 送,寄",
-    "spend spent spent spending 花费",
-    "make made made making 制造",
-    "hear heard heard hearing 听见"
+   "parts": [
+    {
+     "text": "现在完成(引起话题) ↔ 一般过去(具体谈论)"
+    },
+    {
+     "text": "Have you met Mrs. Jones yet?"
+    },
+    {
+     "text": "Yes. I have ."
+    },
+    {
+     "text": "When did you meet her?"
+    },
+    {
+     "text": "I met her two weeks ago."
+    },
+    {
+     "text": "Has the boss left yet? 引起话题"
+    },
+    {
+     "text": "Yes, he has . 具体谈论"
+    },
+    {
+     "text": "When did he leave ?"
+    },
+    {
+     "text": "He left ten minutes ago."
+    },
+    {
+     "text": "Have you had breakfast yet?"
+    },
+    {
+     "text": "Yes, we have ."
+    },
+    {
+     "text": "When did you have it?"
+    },
+    {
+     "text": "We had it at half past seven ."
+    },
+    {
+     "text": "Has she found her pen yet?"
+    },
+    {
+     "text": "Yes. she has ."
+    },
+    {
+     "text": "When did she find it?"
+    },
+    {
+     "text": "She found it an hour ago ."
+    },
+    {
+     "table": {
+      "headers": [
+       "动词 do",
+       "过去时 did",
+       "过去分词 done",
+       "现在分词 doing",
+       "中文"
+      ],
+      "rows": [
+       [
+        "过去时与过去分词无变化的 §"
+       ],
+       [
+        "read",
+        "read",
+        "read",
+        "reading",
+        "读"
+       ],
+       [
+        "cut",
+        "cut",
+        "cut",
+        "cutting",
+        "切,割"
+       ],
+       [
+        "let",
+        "let",
+        "let",
+        "letting",
+        "让"
+       ],
+       [
+        "put",
+        "put",
+        "put",
+        "putting",
+        "放"
+       ],
+       [
+        "cost",
+        "cost",
+        "cost",
+        "costing",
+        "花费,值"
+       ],
+       [
+        "set",
+        "set",
+        "set",
+        "setting",
+        "落下、安置"
+       ],
+       [
+        "hurt",
+        "hurt",
+        "hurt",
+        "hurting",
+        "使…伤痛"
+       ],
+       [
+        "ew → wn 规律变化的"
+       ],
+       [
+        "fly",
+        "flew",
+        "flown",
+        "flying",
+        "飞"
+       ],
+       [
+        "draw",
+        "drew",
+        "drawn",
+        "drawing",
+        "画"
+       ],
+       [
+        "grow",
+        "grew",
+        "grown",
+        "growing",
+        "生长"
+       ],
+       [
+        "know",
+        "knew",
+        "known",
+        "knowing",
+        "知道"
+       ],
+       [
+        "i → a → u 规律变化"
+       ],
+       [
+        "begin",
+        "began",
+        "begun",
+        "beginning",
+        "开始"
+       ],
+       [
+        "drink",
+        "drank",
+        "drunk",
+        "drinking",
+        "喝"
+       ],
+       [
+        "sing",
+        "sang",
+        "sung",
+        "singing",
+        "唱"
+       ],
+       [
+        "swim",
+        "swam",
+        "swum",
+        "swimming",
+        "游泳"
+       ],
+       [
+        "ring",
+        "rang",
+        "rung",
+        "ringing",
+        "打电话"
+       ],
+       [
+        "ee → el,ep,ef"
+       ],
+       [
+        "feel",
+        "felt",
+        "felt",
+        "feeling",
+        "感觉"
+       ],
+       [
+        "keep",
+        "kept",
+        "kept",
+        "keeping",
+        "保持"
+       ],
+       [
+        "leave",
+        "left",
+        "left",
+        "leaving",
+        "离开"
+       ],
+       [
+        "sleep",
+        "slept",
+        "slept",
+        "sleeping",
+        "睡觉"
+       ],
+       [
+        "sweep",
+        "swept",
+        "swept",
+        "sweeping",
+        "打扫"
+       ],
+       [
+        "aught"
+       ],
+       [
+        "catch",
+        "caught",
+        "caught",
+        "catching",
+        "抓"
+       ],
+       [
+        "teach",
+        "taught",
+        "taught",
+        "teaching",
+        "教"
+       ],
+       [
+        "meet",
+        "met",
+        "met",
+        "meeting",
+        "遇见"
+       ],
+       [
+        "get",
+        "got",
+        "got",
+        "getting",
+        "得到"
+       ],
+       [
+        "hold",
+        "held",
+        "held",
+        "holding",
+        "举行"
+       ],
+       [
+        "sit",
+        "sat",
+        "sat",
+        "sitting",
+        "坐"
+       ],
+       [
+        "win",
+        "won",
+        "won",
+        "winning",
+        "赢"
+       ],
+       [
+        "build",
+        "built",
+        "built",
+        "building",
+        "建造"
+       ],
+       [
+        "send",
+        "sent",
+        "sent",
+        "sending",
+        "送,寄"
+       ],
+       [
+        "spend",
+        "spent",
+        "spent",
+        "spending",
+        "花费"
+       ],
+       [
+        "make",
+        "made",
+        "made",
+        "making",
+        "制造"
+       ],
+       [
+        "hear",
+        "heard",
+        "heard",
+        "hearing",
+        "听见"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "has / have been 或 has / have gone",
-   "lines": [
-    "Sam： Sally and Tim are on holiday, aren't they?",
-    "Where have they gone ?",
-    "Sue：To Florida, again.",
-    "Sam： How many times have they been there?",
-    "Sue： This is their third visit.",
-    "Harry: I saw you in Annabel's Restaurant last night.",
-    "Diana: No, it wasn't me.",
-    "I have never been there.",
-    "Alan: Where's Tony?",
-    "Mary: He's got a headache so he has gone to bed.",
-    "Steve: Can I speak to Jill, please?",
-    "Lynn: She's out, I'm afraid.",
-    "She has gone to the cinema this evening."
+   "parts": [
+    {
+     "text": "Sam： Sally and Tim are on holiday, aren't they?"
+    },
+    {
+     "text": "Where have they gone ?"
+    },
+    {
+     "text": "Sue：To Florida, again."
+    },
+    {
+     "text": "Sam： How many times have they been there?"
+    },
+    {
+     "text": "Sue： This is their third visit."
+    },
+    {
+     "text": "Harry: I saw you in Annabel's Restaurant last night."
+    },
+    {
+     "text": "Diana: No, it wasn't me."
+    },
+    {
+     "text": "I have never been there."
+    },
+    {
+     "text": "Alan: Where's Tony?"
+    },
+    {
+     "text": "Mary: He's got a headache so he has gone to bed."
+    },
+    {
+     "text": "Steve: Can I speak to Jill, please?"
+    },
+    {
+     "text": "Lynn: She's out, I'm afraid."
+    },
+    {
+     "text": "She has gone to the cinema this evening."
+    }
    ]
   }
  ]

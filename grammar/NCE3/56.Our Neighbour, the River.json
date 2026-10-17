@@ -2,179 +2,672 @@
  "grammar": [
   {
    "title": "传统",
-   "lines": [
-    "We have special river birthday parties in the summer. special adj.特殊的,专门的，特设的 Sometimes we go upstream to a favourite backwater, sometimes we have our party at the boathouse , which a predecessor of ours at the farm built in the meadow hard by the deepest pool for swimming and diving . go / row / sail up stream 逆流而上 a predecessor of ours 我们的一个前辈（工作上的、事物的前身） hard by … (fml.) adv. very near to …离得非常近 In a heat wave we choose a midnight birthday party and that is the most exciting of all. heat wave 酷暑时期 天气热、冷 地道表达 We welcome the seasons by the riverside , crowning the youngest girl with flowers in the spring , holding a summer festival on Midsummer Eve , giving thanks for the harvest in the autumn, and throwing a holly wreath into the current in the winter. We welcome the seasons… 庆祝四季到来 Thanksgiving Day the fourth Thursday in November 感恩节 The holidays were to be replaced by specially called Days of Fasting and Days of Thanksgiving, in response to events that the Puritans viewed as acts of special providence. Unexpected disasters or threats of judgement from on high called for Days of Fasting. 表达“感谢” I give thanks to my mother for supporting me all the time. I give thanks to my math teacher for not flunking me.",
-    "You're very special to me, darling. 你对我来说很特别，亲爱的。",
-    "So you didn't notice anything special about him? 这么说你没有注意到他的特别之处？",
-    "Due to his wife's illness, he returned to the State Department as special adviser to the president. 由于妻子的病，他返回国务院做了总统的特派顾问。",
-    "Every anxious person will have his or her own special problems or fears. 每个焦虑的人都将有他/她自己特有的问题或担心。",
-    "Learning is like rowing upstream: not to advance is to drop back.",
-    "We need to go upstream to find the source of the river. 我们需要顺流而上找到河流的源头。",
-    "The team had to row upstream against the current to reach the dock. 队员们不得不逆流划船才能到达码头。",
-    "They decided to sail upstream to explore the hidden waterfalls. 他们决定顺流而上探索隐藏的瀑布。",
-    "go / row / sail down stream 顺流而下 （upstairs & downstairs） Let's go downstream to see where the river leads. 我们顺流而下去看看河流通向哪里。 The team enjoyed rowing downstream with the current. 队员们顺流而下划船，感到很愉快。 They decided to sail downstream for a relaxing afternoon. 他们决定顺流而下航行，享受一个轻松的下午。",
-    "The doughboy was a predecessor of the doughnut. 油炸面团是甜甜圈的前身。",
-    "This is the predecessor of Chinese drama. 这是中国戏剧的前身。",
-    "This is the Royal Belgium, the predecessor of the coffee pot. 而这，就是比利时皇家咖啡壶的前身。",
-    "one of our predecessors 课文写法替换 Read more about the experience of our predecessors. You'll make greater progress. 多看看前人的经验之谈，你会有更大的进步。",
-    "The cafeteria stands hard by our dormitory.",
-    "There is a little city hard by in which there is a garden of tulip - trees. 附近有一座小城，里头有一处郁金香树的花园。",
-    "Finally, on the fourth day, the heat wave broke. 最后，在第四天，热浪爆发了。",
-    "Did you forget the heat wave of last summer? 你忘记了去年的酷暑了吗？",
-    "This summer, people flocked to the swimming pool to keep cool during the heat wave. 今年夏天，人们成群结队来到泳池纳凉，躲避热浪。",
-    "cold spell 严寒时期 We are going to have a cold spell, I hear. 听说寒流要来了。",
-    "It’s a boiling / scorching / sizzling hot day. 特別热",
-    "It’s a bitterly / biting / freezing cold day. 特別冷",
-    "We celebrate the arrival of the seasons. 课文写法替换",
-    "Christmas is a Western festival. Visit fireworks to celebrate the arrival of the New Year!圣诞节是西方的节日。回访礼花来庆祝新的一年的到来！",
-    "Welcome back to the second season of The Walking Dead . 欢迎大家回到🧟‍♀️《行尸走肉》🧟‍♂️第二季。",
-    "Midsummer Eve 仲夏夜 Some of his best known works are Midsummer Eve and Night With Her Train of Stars. 其广为人知的作品为《仲夏夜》与《夜神与她的一列群星》。",
-    "Mid-Autumn Festival 中秋节 Mid-Autumn Festival is a special time for families and it is celebrated on the 15th day of the eighth lunar month. 中秋节对家庭来说是一个特别的日子，它在农历八月十五庆祝。",
-    "Dragon Boat Festival 端午节 People enjoy eating zongzi on the Dragon Boat Festival. 在端午节的时候人们喜欢吃粽子。",
-    "the Puritans 清教徒",
-    "the Mayflower 五月花号",
-    "Columbus 哥伦布",
-    "American Indians / Native Americans 印第安人",
-    "the Pilgrims 新移民；朝圣者；朝圣客",
-    "the Pilgrim Fathers 清教徒前辈移民；清教徒们；移民先驱",
-    "roast turkey 🦃",
-    "apple pie 🥧"
+   "parts": [
+    {
+     "text": "We have special river birthday parties in the summer. special adj.特殊的,专门的，特设的 Sometimes we go upstream to a favourite backwater, sometimes we have our party at the boathouse , which a predecessor of ours at the farm built in the meadow hard by the deepest pool for swimming and diving . go / row / sail up stream 逆流而上 a predecessor of ours 我们的一个前辈（工作上的、事物的前身） hard by … (fml.) adv. very near to …离得非常近 In a heat wave we choose a midnight birthday party and that is the most exciting of all. heat wave 酷暑时期 天气热、冷 地道表达 We welcome the seasons by the riverside , crowning the youngest girl with flowers in the spring , holding a summer festival on Midsummer Eve , giving thanks for the harvest in the autumn, and throwing a holly wreath into the current in the winter. We welcome the seasons… 庆祝四季到来 Thanksgiving Day the fourth Thursday in November 感恩节 The holidays were to be replaced by specially called Days of Fasting and Days of Thanksgiving, in response to events that the Puritans viewed as acts of special providence. Unexpected disasters or threats of judgement from on high called for Days of Fasting. 表达“感谢” I give thanks to my mother for supporting me all the time. I give thanks to my math teacher for not flunking me."
+    },
+    {
+     "text": "You're very special to me, darling. 你对我来说很特别，亲爱的。"
+    },
+    {
+     "text": "So you didn't notice anything special about him? 这么说你没有注意到他的特别之处？"
+    },
+    {
+     "text": "Due to his wife's illness, he returned to the State Department as special adviser to the president. 由于妻子的病，他返回国务院做了总统的特派顾问。"
+    },
+    {
+     "text": "Every anxious person will have his or her own special problems or fears. 每个焦虑的人都将有他/她自己特有的问题或担心。"
+    },
+    {
+     "text": "Learning is like rowing upstream: not to advance is to drop back."
+    },
+    {
+     "text": "We need to go upstream to find the source of the river. 我们需要顺流而上找到河流的源头。"
+    },
+    {
+     "text": "The team had to row upstream against the current to reach the dock. 队员们不得不逆流划船才能到达码头。"
+    },
+    {
+     "text": "They decided to sail upstream to explore the hidden waterfalls. 他们决定顺流而上探索隐藏的瀑布。"
+    },
+    {
+     "table": {
+      "headers": [
+       "go / row / sail down stream 顺流而下 （upstairs & downstairs）"
+      ],
+      "rows": [
+       [
+        "Let's go downstream to see where the river leads. 我们顺流而下去看看河流通向哪里。 The team enjoyed rowing downstream with the current. 队员们顺流而下划船，感到很愉快。 They decided to sail downstream for a relaxing afternoon. 他们决定顺流而下航行，享受一个轻松的下午。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The doughboy was a predecessor of the doughnut. 油炸面团是甜甜圈的前身。"
+    },
+    {
+     "text": "This is the predecessor of Chinese drama. 这是中国戏剧的前身。"
+    },
+    {
+     "text": "This is the Royal Belgium, the predecessor of the coffee pot. 而这，就是比利时皇家咖啡壶的前身。"
+    },
+    {
+     "table": {
+      "headers": [
+       "one of our predecessors 课文写法替换"
+      ],
+      "rows": [
+       [
+        "Read more about the experience of our predecessors. You'll make greater progress. 多看看前人的经验之谈，你会有更大的进步。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The cafeteria stands hard by our dormitory."
+    },
+    {
+     "text": "There is a little city hard by in which there is a garden of tulip - trees. 附近有一座小城，里头有一处郁金香树的花园。"
+    },
+    {
+     "text": "Finally, on the fourth day, the heat wave broke. 最后，在第四天，热浪爆发了。"
+    },
+    {
+     "text": "Did you forget the heat wave of last summer? 你忘记了去年的酷暑了吗？"
+    },
+    {
+     "text": "This summer, people flocked to the swimming pool to keep cool during the heat wave. 今年夏天，人们成群结队来到泳池纳凉，躲避热浪。"
+    },
+    {
+     "table": {
+      "headers": [
+       "cold spell 严寒时期"
+      ],
+      "rows": [
+       [
+        "We are going to have a cold spell, I hear. 听说寒流要来了。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "It’s a boiling / scorching / sizzling hot day. 特別热"
+    },
+    {
+     "text": "It’s a bitterly / biting / freezing cold day. 特別冷"
+    },
+    {
+     "text": "We celebrate the arrival of the seasons. 课文写法替换"
+    },
+    {
+     "text": "Christmas is a Western festival. Visit fireworks to celebrate the arrival of the New Year!圣诞节是西方的节日。回访礼花来庆祝新的一年的到来！"
+    },
+    {
+     "text": "Welcome back to the second season of The Walking Dead . 欢迎大家回到🧟‍♀️《行尸走肉》🧟‍♂️第二季。"
+    },
+    {
+     "table": {
+      "headers": [
+       "Midsummer Eve 仲夏夜",
+       "Mid-Autumn Festival 中秋节",
+       "Dragon Boat Festival 端午节"
+      ],
+      "rows": [
+       [
+        "Some of his best known works are Midsummer Eve and Night With Her Train of Stars. 其广为人知的作品为《仲夏夜》与《夜神与她的一列群星》。"
+       ],
+       [
+        "Mid-Autumn Festival is a special time for families and it is celebrated on the 15th day of the eighth lunar month. 中秋节对家庭来说是一个特别的日子，它在农历八月十五庆祝。"
+       ],
+       [
+        "People enjoy eating zongzi on the Dragon Boat Festival. 在端午节的时候人们喜欢吃粽子。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "the Puritans 清教徒"
+    },
+    {
+     "text": "the Mayflower 五月花号"
+    },
+    {
+     "text": "Columbus 哥伦布"
+    },
+    {
+     "text": "American Indians / Native Americans 印第安人"
+    },
+    {
+     "text": "the Pilgrims 新移民；朝圣者；朝圣客"
+    },
+    {
+     "text": "the Pilgrim Fathers 清教徒前辈移民；清教徒们；移民先驱"
+    },
+    {
+     "text": "roast turkey 🦃"
+    },
+    {
+     "text": "apple pie 🥧"
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "现实情况",
-   "lines": [
-    "After a long period of rain the river may overflow its banks. a long period of 长时间的..、长期的... This is a rare occurrence as our climate seldom goes to extremes. This is a rare occurrence… 正式表达（名词更庄严） a rare / common / regular / everyday occurrence …发生（修饰名词） go to extremes 走极端 Our climate is usually moderate. 课文写法替换 We are lucky in that only the lower fields , which make up a very small proportion of our farm, are affected by flooding, but other farms are less favourably sited, and flooding can sometimes spell disaster for their owners. a high / large proportion / percentage of … 大部分、大多数 spell v. to cause sth.bad to happen in the future 招致，导致 spell disaster / trouble / danger for … 招致…",
-    "This crisis might last for a long period of time.此次危机可能会持续很长一段时间。",
-    "She died after a long period of increasing frailty. 她日益虚弱，经过一段长时间后去世了。",
-    "There followed a long period of confusion and muddle. 接下来是很长一段时间的困惑和混乱。",
-    "She returned to work after a long period of incapacity. 她病了很长一段时间之后回去工作了。",
-    "Be sure to do some eye exercises to relax your eyes after you study for a long period of time. 在长时间学习后，一定要做眼保健操来放松眼睛。",
-    "This is a rare occurrence as our climate seldom goes to extremes. 由于这里的气候很少出现极端，所以这是很罕见的情况。",
-    "However, this is a fairly rare occurrence, and it only wastes a little memory. 不过，这种情况极少发生，而且它只会浪费少量内存。",
-    "Vandalism used to be a rare occurrence here. 过去这里很少发生故意破坏公物的事。",
-    "This rarely / seldom occurs. 不正式表达(动词) This situation rarely occurs. 该情况很少发生。",
-    "Laughter was a rare occurrence in his classroom.",
-    "Unfortunately, computer errors are a common occurrence.",
-    "Street-fights are an everyday occurrence in this area of the city.",
-    "Editors of newspapers and magazines often go to extremes to provide their readers with unimportant facts and statistics .",
-    "It's not such a new idea, but I carried it to extremes. 这不是什么新想法，但我却把它发挥到了极致。",
-    "However, be careful not to go to extremes. 然而，要注意不要走极端。",
-    "She tends to go to extremes. 她这个人比较偏激。",
-    "seldom go to extremes 很少走极端 They seldom go to extremes in their views. 他们在看法上很少走极端。",
-    "A large percentage of students passed the exam with excellent scores.大部分学生以优异成绩通过了考试。",
-    "A large proportion of old people live alone. 一大部分老人都是独居。",
-    "A high percentage of the female staff are part-time workers. 女职员中，兼职工作的人占很高的比例。",
-    "A high proportion of five-year-olds have teeth in poor condition. 五岁儿童牙齿不健康的比例高。",
-    "a small / tiny proportion / percentage of … 小部分 Only a tiny / small proportion / percentage of the population lives in rural areas. 只有很少一部分人口居住在农村地区。",
-    "a majority of … 大多数 A majority of the team supports the new strategy. 团队的大多数人支持这个新策略。",
-    "a vast/ great / overwhelming majority of … （绝大多数） The overwhelming majority of voters are in favor of the new policy. 绝大多数选民支持新政策。",
-    "a minority of … 少数 A minority of employees disagreed with the decision. 少数员工不同意这个决定。",
-    "a small / tiny minority of … 极少数 Only a tiny minority of participants had complaints about the event. 只有极少数参与者对活动提出了不满。",
-    "If the irrigation plan goes ahead, it could spell disaster for the birds. 如果该灌溉计划继续的话，这对鸟类可能预示着灾难。",
-    "There has been a long spell of dry weather. 干旱天气已持续很长一段时间了。",
-    "The lack of rain could spell disaster for farmers.",
-    "This cold weather could spell trouble for gardeners.",
-    "Ignoring climate change could spell disaster for future generations. 忽视气候变化可能会为未来几代人带来灾难。"
+   "parts": [
+    {
+     "text": "After a long period of rain the river may overflow its banks. a long period of 长时间的..、长期的... This is a rare occurrence as our climate seldom goes to extremes. This is a rare occurrence… 正式表达（名词更庄严） a rare / common / regular / everyday occurrence …发生（修饰名词） go to extremes 走极端 Our climate is usually moderate. 课文写法替换 We are lucky in that only the lower fields , which make up a very small proportion of our farm, are affected by flooding, but other farms are less favourably sited, and flooding can sometimes spell disaster for their owners. a high / large proportion / percentage of … 大部分、大多数 spell v. to cause sth.bad to happen in the future 招致，导致 spell disaster / trouble / danger for … 招致…"
+    },
+    {
+     "text": "This crisis might last for a long period of time.此次危机可能会持续很长一段时间。"
+    },
+    {
+     "text": "She died after a long period of increasing frailty. 她日益虚弱，经过一段长时间后去世了。"
+    },
+    {
+     "text": "There followed a long period of confusion and muddle. 接下来是很长一段时间的困惑和混乱。"
+    },
+    {
+     "text": "She returned to work after a long period of incapacity. 她病了很长一段时间之后回去工作了。"
+    },
+    {
+     "text": "Be sure to do some eye exercises to relax your eyes after you study for a long period of time. 在长时间学习后，一定要做眼保健操来放松眼睛。"
+    },
+    {
+     "text": "This is a rare occurrence as our climate seldom goes to extremes. 由于这里的气候很少出现极端，所以这是很罕见的情况。"
+    },
+    {
+     "text": "However, this is a fairly rare occurrence, and it only wastes a little memory. 不过，这种情况极少发生，而且它只会浪费少量内存。"
+    },
+    {
+     "text": "Vandalism used to be a rare occurrence here. 过去这里很少发生故意破坏公物的事。"
+    },
+    {
+     "table": {
+      "headers": [
+       "This rarely / seldom occurs. 不正式表达(动词)"
+      ],
+      "rows": [
+       [
+        "This situation rarely occurs. 该情况很少发生。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Laughter was a rare occurrence in his classroom."
+    },
+    {
+     "text": "Unfortunately, computer errors are a common occurrence."
+    },
+    {
+     "text": "Street-fights are an everyday occurrence in this area of the city."
+    },
+    {
+     "text": "Editors of newspapers and magazines often go to extremes to provide their readers with unimportant facts and statistics ."
+    },
+    {
+     "text": "It's not such a new idea, but I carried it to extremes. 这不是什么新想法，但我却把它发挥到了极致。"
+    },
+    {
+     "text": "However, be careful not to go to extremes. 然而，要注意不要走极端。"
+    },
+    {
+     "text": "She tends to go to extremes. 她这个人比较偏激。"
+    },
+    {
+     "table": {
+      "headers": [
+       "seldom go to extremes 很少走极端"
+      ],
+      "rows": [
+       [
+        "They seldom go to extremes in their views. 他们在看法上很少走极端。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "A large percentage of students passed the exam with excellent scores.大部分学生以优异成绩通过了考试。"
+    },
+    {
+     "text": "A large proportion of old people live alone. 一大部分老人都是独居。"
+    },
+    {
+     "text": "A high percentage of the female staff are part-time workers. 女职员中，兼职工作的人占很高的比例。"
+    },
+    {
+     "text": "A high proportion of five-year-olds have teeth in poor condition. 五岁儿童牙齿不健康的比例高。"
+    },
+    {
+     "table": {
+      "headers": [
+       "a small / tiny proportion / percentage of … 小部分",
+       "a majority of … 大多数",
+       "a vast/ great / overwhelming majority of … （绝大多数）",
+       "a minority of … 少数",
+       "a small / tiny minority of … 极少数"
+      ],
+      "rows": [
+       [
+        "Only a tiny / small proportion / percentage of the population lives in rural areas. 只有很少一部分人口居住在农村地区。"
+       ],
+       [
+        "A majority of the team supports the new strategy. 团队的大多数人支持这个新策略。"
+       ],
+       [
+        "The overwhelming majority of voters are in favor of the new policy. 绝大多数选民支持新政策。"
+       ],
+       [
+        "A minority of employees disagreed with the decision. 少数员工不同意这个决定。"
+       ],
+       [
+        "Only a tiny minority of participants had complaints about the event. 只有极少数参与者对活动提出了不满。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "If the irrigation plan goes ahead, it could spell disaster for the birds. 如果该灌溉计划继续的话，这对鸟类可能预示着灾难。"
+    },
+    {
+     "text": "There has been a long spell of dry weather. 干旱天气已持续很长一段时间了。"
+    },
+    {
+     "text": "The lack of rain could spell disaster for farmers."
+    },
+    {
+     "text": "This cold weather could spell trouble for gardeners."
+    },
+    {
+     "text": "Ignoring climate change could spell disaster for future generations. 忽视气候变化可能会为未来几代人带来灾难。"
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "发洪水举例",
-   "lines": [
-    "One bad winter we watched the river creep up the lower meadows. creep v. 蹑手蹑脚地走 Curiosity swallowed him. 拟人 All the cattle had been moved into stalls and we stood to lose little. stall n.an enclosed area in a building for an animal such as a horse or cow 牲口棚，马厩，牛棚 stand to do sth. to be likely to do or have something 可能… little adv. 后置修饰 lose；几乎不(hardly) We were , however, worried about our nearest neighbours, whose farm was low lying and who were newcomers to the district . low adv. 这里指地势低地 As the floods had put the telephone out of order, we could not find out how they were managing . put … out of order 使…出故障 be out of order 出故障了、坏了 So let us begin anew—remembering on both sides that civility is not a sign of weakness, and sincerity is always subject to proof. Let us never negotiate out of fear, but let us never fear to negotiate. ——John F. Kennedy From an attic window we could get a sweeping view of the river where their land joined ours , and at the most critical juncture we took turns in watching that point. … get a sweeping view 俯瞰 critical juncture 紧要关头 …, when the flood was at its height … 课文写法替换 …, at the height of the flood … the height of ... …的顶峰状态 take turns (in) doing sth. 轮流… The first sign of disaster was a dead sheep floating down. sign n.迹象、征兆 Next came a horse, swimming bravely, but we were afraid that the strength of the current would prevent its landing anywhere before it became exhausted . 全部倒装（把全部谓语置于主语之前。） 表示位置或次序的状语置于句首，只要满足两个条件，要用全部倒装。这种倒装主要目的是为了突出句末的主语。 不能倒装 prevent its landing 阻止它(文中的马)的登陆 Suddenly a raft appeared , looking rather like Noah's ark, carrying the whole family, a few hens, the dogs, a cat, and a bird in a cage. Noah’s ark 诺亚方舟 We realized that they must have become unduly frightened by the rising flood, for their house , which had sound foundations, would have stood stoutly even if it had been almost submerged . sound adj. in good condition and not damaged in any way 完好的 stout = sturdy adj.strong and thick 粗壮的，结实的 The men of our family waded down through our flooded meadows with boat hooks, in the hope of being able to grapple a corner of the raft and pull it out of the current towards our bank. wade n/v. 跋涉（涉水）；可涉水而过的地方 in the hope of / that … 有这样地希望…（引出同位语） grapple v. to take a firm hold of sb./sth. and struggle with them 紧紧抓住，扭住，扭打 We still think it a miracle that they were able to do so . miracle n.奇迹，不可思议的事",
-    "Nevertheless, I managed to creep down into the living-room for two days before anyone found me out .",
-    "Back I go to the hotel and creep up to my room. 我回到旅馆，蹑手蹑脚地进了房间。",
-    "The boys felt tired, so they put out the fire and crept into their tent .",
-    "A gentle breeze caressed my cheeks and soothed my heart.",
-    "...market stalls selling local fruits. …出售当地水果的市场摊位。",
-    "With the balcony blocked off, patrons filled most of the stalls. 楼厅包厢被封闭了，赞助人几乎坐满了舞台前方的座位。",
-    "She went into the shower stall, turned on the water, and grabbed the soap. 她走进淋浴间，打开水，抓起香皂。",
-    "That was ill done, Hans, you should have led the calf, and put it in the stall. 这样做是不对的，汉斯，你应该牵着小牛，把它放到牲口棚里去。",
-    "You stand to make a lot from this deal. 你很可能会从这笔生意中大赚一笔。",
-    "I stand to be corrected. 我讲得不对，请予修正。",
-    "I could stand to lose a few pounds, too. 这样我还可以减掉几磅。",
-    "If so, then you can probably stand to be a little nicer. 如果是这样，那么你就很可能要变得再友好一点了。",
-    "stand to gain / lose / win … 有可能会… Many small companies stand to lose financially if the new law is introduced.",
-    "As always, he said little. 他和平时一样，少言寡语。",
-    "He uttered little indecipherable sounds. 他声音很小，听不清楚。",
-    "She had little maternal instinct. 她几乎没有母性。",
-    "The plane flew low.",
-    "A plane passed low overhead. 一架飞机从头上低空飞过。",
-    "He hit his head on the low ceiling. 他的头碰了低矮的天花板。",
-    "The sun was low in the sky. 太阳低挂在天空。",
-    "lowly adj. humble 卑微地、谦卑的 a lowly servant",
-    "But recall that today's drives have very large caches and can put write operations out of order.但是，考虑一下，现在的磁盘都有很大的缓存，可被乱序写入。",
-    "He keeps fiddling with the dials on the radio, he is sure to put it out of order. 他老是玩弄收音机上的刻度盘，一定会把它弄坏的。",
-    "put … in order 修好了 I must put my affairs in order. 我必须整理整理我的事务。",
-    "put … right 修好了 When lights fuse, furniture gets rickety, pipes get clogged, or vacuum cleaners fail to operate, some women assume that their husbands will somehow put things right .",
-    "The bell had been out of order for many years.",
-    "The toilets are all out of order. 这些抽水马桶都坏了。",
-    "The phone is out of order. 电话坏了。",
-    "That lathe went out of order at times. 那台车床有时发生故障。",
-    "put … out of business 使…破产 The economic crisis put many small companies out of business. 经济危机使许多小公司破产。",
-    "put … out of work 使…失业 The factory closure put hundreds of workers out of work. 工厂关闭使数百名工人失业。",
-    "… out of … 在…之外 I am out of patience. 失去耐心 I am out of anger. 超出愤怒 The TV is out of repair. 没法修",
-    "出于… out of sympathy / pity 出于同情 out of interest 出于兴趣 out of respect 出于敬意 out of conscience 出于良心 out of necessity 出于必要 out of desperation 出于绝望",
-    "… find out how they were managing to deal with it.课文补全（managed to do）",
-    "From an attic window, we could get a sweeping view of the river where their land joined ours. 从阁楼的窗口，我们可以一览无遗地眺望他们的土地与我们衔接处的河面。",
-    "The observation deck in the sphere offers a sweeping view of the city. 球型观景台能将整座城市尽收眼底。",
-    "… get a bird's eye view 俯瞰 From the top of the mountain, we could get a bird's-eye view of the town. 我们可以从山顶鸟瞰这座城镇。",
-    "We are at a critical juncture. 我们正处在一个关键的时刻。",
-    "This is a critical juncture. 此时，是一个临界点。",
-    "The Six-Party Talks are now at a critical juncture. 目前，六方会谈处于关键阶段。",
-    "Today marks a critical juncture in our endeavor. 今天是我们一切努力的关键时刻。",
-    "August is the height of summer.",
-    "The storm is at its height.",
-    "The height of the mountain did not discourage them. 山高并没有使他们泄气。",
-    "There is only one computer, so we have to take turns (in) using it.",
-    "The male and female birds take turns in sitting on the eggs. 雄鸟和雌鸟轮流伏窝。",
-    "She told them to take turns to ride the bike. 她告诉他们轮流骑自行车。",
-    "take turns to do sth. 轮流做某事 There is only one computer, so we have to take turns to use it.",
-    "They are prepared to hand back a hundred prisoners of war a day as a sign of good will. 作为一种友好的表示，他们准备一天遣返100名战犯。",
-    "His face and movements rarely betrayed a sign of nerves. 他的表情和行为很少流露出紧张的迹象。",
-    "The snow showed no sign of melting. 雪没有一点融化的迹象。",
-    "indication He searched Hill's impassive face for some indication that he understood. 他在希尔没有表情的脸上搜寻着一些他理解的迹象。",
-    "omen Her appearance at this moment is an omen of disaster. 她此时的出现是灾难的预兆。",
-    "a good omen It's a good omen and we can only get better. 这是一个好兆头，我们会发挥的更好。",
-    "a bad omen The superstitious regard it as a bad omen. 迷信的人认为那是一种恶兆。",
-    "主语不是代词 Now comes your turn. On the hill stands a temple. In came Miss Green.",
-    "谓语动词不是及物动词 There are two people. There once stood a little village.",
-    "表语置于句首 Happy is he who has a sound mind in a sound body. Gone are the days when my heart was young and gay.",
-    "Off he went. 主语不能是代词",
-    "On the hill John saw Mary. 谓语是及物动词",
-    "… prevent it from landing anywhere … 课文写法替换",
-    "the Genesis 创世纪",
-    "the New Testament 新约 (Christians 写的)",
-    "the Old Testament 旧约(Jews 写的)",
-    "deluge 大洪水",
-    "The floor was completely sound. Is the building structurally sound?",
-    "When we bought the house, it was structurally sound. 当我们买下这房子时，其结构完好无损。",
-    "Although the car is basically sound, I was worried about certain areas. 虽然这辆汽车基本状况完好，但我担心某几个部分。",
-    "stout boots for climbing",
-    "a stout walking-stick",
-    "She was a short, sturdy woman in her early sixties. 她是一位六十出头、矮小结实的女人。",
-    "It was a good table too, sturdily constructed of elm. 它也是一张很好的桌子，榆木做的，很结实。",
-    "Her mother came to find them, wading across a river to reach them. 她的母亲蹚过河来找他们。",
-    "The lake was not frozen sufficiently to bear her, but it was low enough that she could wade through it. 湖面尚未完全结冰，不足以承受她的重量，但水位又足够低，她还是能够趟过湖去的。",
-    "Sometimes they had to wade waist-deep through mud. 有时他们得通过齐腰深的泥浆。",
-    "trek n/v. 艰苦跋涉(翻山) They trekked from shop to shop in search of white knee-high socks. 他们疲惫地奔波于一家又一家商店，寻找高到膝盖的白色长筒袜。",
-    "Police are carrying out a house-to-house search in the hope of finding the missing girl.",
-    "The men of our family waded down through our flooded meadows with boathooks, in the hope of being (=because they hope to be) able to grapple a corner of the raft and pull it out of the current towards our bank.",
-    "The Swedes were the first to recognize that public officials like civil servants, police officers, health inspectors or tax-collectors can make mistakes or act over-zealously in the belief (=because they believe) that they are serving the public .",
-    "In the lift her thoughts were on lunch and a good rest; but when she got out at her own floor, both were forgotten in her sudden discovery (=because she suddenly discovered) that her front door was open .",
-    "They leave unwanted objects in drawers, cupboards and attics for years, in the belief that (=because they believe that) they may one day need just those very things .",
-    "Young men who have reason to fear that they will be killed in battle may justifiably feel bitter in the thought (=because they think) that they have cheated of the best things that life has to offer .",
-    "… in the hope that they would be able to … 希望能够... She applied for the scholarship in the hope that she would be able to study abroad. 她申请了奖学金，希望能够出国学习。",
-    "They managed to grapple him to the ground.",
-    "He was grappling with an alligator in a lagoon. 他当时正与环礁湖里的一只鳄鱼搏斗。",
-    "Passers-by grappled with the man after the attack. 袭击之后过路人便与这男人扭打起来。",
-    "It is a miracle no one was killed. 没有人死亡真是个奇迹。",
-    "Short of a miracle, we're certain to lose. 除非发生奇迹，否则我们输定了。",
-    "The transformation has been nothing short of a miracle. 这种变化堪称奇迹。"
+   "parts": [
+    {
+     "text": "One bad winter we watched the river creep up the lower meadows. creep v. 蹑手蹑脚地走 Curiosity swallowed him. 拟人 All the cattle had been moved into stalls and we stood to lose little. stall n.an enclosed area in a building for an animal such as a horse or cow 牲口棚，马厩，牛棚 stand to do sth. to be likely to do or have something 可能… little adv. 后置修饰 lose；几乎不(hardly) We were , however, worried about our nearest neighbours, whose farm was low lying and who were newcomers to the district . low adv. 这里指地势低地 As the floods had put the telephone out of order, we could not find out how they were managing . put … out of order 使…出故障 be out of order 出故障了、坏了 So let us begin anew—remembering on both sides that civility is not a sign of weakness, and sincerity is always subject to proof. Let us never negotiate out of fear, but let us never fear to negotiate. ——John F. Kennedy From an attic window we could get a sweeping view of the river where their land joined ours , and at the most critical juncture we took turns in watching that point. … get a sweeping view 俯瞰 critical juncture 紧要关头 …, when the flood was at its height … 课文写法替换 …, at the height of the flood … the height of ... …的顶峰状态 take turns (in) doing sth. 轮流… The first sign of disaster was a dead sheep floating down. sign n.迹象、征兆 Next came a horse, swimming bravely, but we were afraid that the strength of the current would prevent its landing anywhere before it became exhausted . 全部倒装（把全部谓语置于主语之前。） 表示位置或次序的状语置于句首，只要满足两个条件，要用全部倒装。这种倒装主要目的是为了突出句末的主语。 不能倒装 prevent its landing 阻止它(文中的马)的登陆 Suddenly a raft appeared , looking rather like Noah's ark, carrying the whole family, a few hens, the dogs, a cat, and a bird in a cage. Noah’s ark 诺亚方舟 We realized that they must have become unduly frightened by the rising flood, for their house , which had sound foundations, would have stood stoutly even if it had been almost submerged . sound adj. in good condition and not damaged in any way 完好的 stout = sturdy adj.strong and thick 粗壮的，结实的 The men of our family waded down through our flooded meadows with boat hooks, in the hope of being able to grapple a corner of the raft and pull it out of the current towards our bank. wade n/v. 跋涉（涉水）；可涉水而过的地方 in the hope of / that … 有这样地希望…（引出同位语） grapple v. to take a firm hold of sb./sth. and struggle with them 紧紧抓住，扭住，扭打 We still think it a miracle that they were able to do so . miracle n.奇迹，不可思议的事"
+    },
+    {
+     "text": "Nevertheless, I managed to creep down into the living-room for two days before anyone found me out ."
+    },
+    {
+     "text": "Back I go to the hotel and creep up to my room. 我回到旅馆，蹑手蹑脚地进了房间。"
+    },
+    {
+     "text": "The boys felt tired, so they put out the fire and crept into their tent ."
+    },
+    {
+     "text": "A gentle breeze caressed my cheeks and soothed my heart."
+    },
+    {
+     "text": "...market stalls selling local fruits. …出售当地水果的市场摊位。"
+    },
+    {
+     "text": "With the balcony blocked off, patrons filled most of the stalls. 楼厅包厢被封闭了，赞助人几乎坐满了舞台前方的座位。"
+    },
+    {
+     "text": "She went into the shower stall, turned on the water, and grabbed the soap. 她走进淋浴间，打开水，抓起香皂。"
+    },
+    {
+     "text": "That was ill done, Hans, you should have led the calf, and put it in the stall. 这样做是不对的，汉斯，你应该牵着小牛，把它放到牲口棚里去。"
+    },
+    {
+     "text": "You stand to make a lot from this deal. 你很可能会从这笔生意中大赚一笔。"
+    },
+    {
+     "text": "I stand to be corrected. 我讲得不对，请予修正。"
+    },
+    {
+     "text": "I could stand to lose a few pounds, too. 这样我还可以减掉几磅。"
+    },
+    {
+     "text": "If so, then you can probably stand to be a little nicer. 如果是这样，那么你就很可能要变得再友好一点了。"
+    },
+    {
+     "table": {
+      "headers": [
+       "stand to gain / lose / win … 有可能会…"
+      ],
+      "rows": [
+       [
+        "Many small companies stand to lose financially if the new law is introduced."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "As always, he said little. 他和平时一样，少言寡语。"
+    },
+    {
+     "text": "He uttered little indecipherable sounds. 他声音很小，听不清楚。"
+    },
+    {
+     "text": "She had little maternal instinct. 她几乎没有母性。"
+    },
+    {
+     "text": "The plane flew low."
+    },
+    {
+     "text": "A plane passed low overhead. 一架飞机从头上低空飞过。"
+    },
+    {
+     "text": "He hit his head on the low ceiling. 他的头碰了低矮的天花板。"
+    },
+    {
+     "text": "The sun was low in the sky. 太阳低挂在天空。"
+    },
+    {
+     "table": {
+      "headers": [
+       "lowly adj. humble 卑微地、谦卑的"
+      ],
+      "rows": [
+       [
+        "a lowly servant"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "But recall that today's drives have very large caches and can put write operations out of order.但是，考虑一下，现在的磁盘都有很大的缓存，可被乱序写入。"
+    },
+    {
+     "text": "He keeps fiddling with the dials on the radio, he is sure to put it out of order. 他老是玩弄收音机上的刻度盘，一定会把它弄坏的。"
+    },
+    {
+     "table": {
+      "headers": [
+       "put … in order 修好了",
+       "put … right 修好了"
+      ],
+      "rows": [
+       [
+        "I must put my affairs in order. 我必须整理整理我的事务。"
+       ],
+       [
+        "When lights fuse, furniture gets rickety, pipes get clogged, or vacuum cleaners fail to operate, some women assume that their husbands will somehow put things right ."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The bell had been out of order for many years."
+    },
+    {
+     "text": "The toilets are all out of order. 这些抽水马桶都坏了。"
+    },
+    {
+     "text": "The phone is out of order. 电话坏了。"
+    },
+    {
+     "text": "That lathe went out of order at times. 那台车床有时发生故障。"
+    },
+    {
+     "table": {
+      "headers": [
+       "put … out of business 使…破产",
+       "put … out of work 使…失业"
+      ],
+      "rows": [
+       [
+        "The economic crisis put many small companies out of business. 经济危机使许多小公司破产。"
+       ],
+       [
+        "The factory closure put hundreds of workers out of work. 工厂关闭使数百名工人失业。"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "… out of …",
+       "在…之外",
+       "出于…"
+      ],
+      "rows": [
+       [
+        "I am out of patience. 失去耐心 I am out of anger. 超出愤怒 The TV is out of repair. 没法修"
+       ],
+       [
+        "out of sympathy / pity 出于同情 out of interest 出于兴趣 out of respect 出于敬意 out of conscience 出于良心 out of necessity 出于必要 out of desperation 出于绝望"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "… find out how they were managing to deal with it.课文补全（managed to do）"
+    },
+    {
+     "text": "From an attic window, we could get a sweeping view of the river where their land joined ours. 从阁楼的窗口，我们可以一览无遗地眺望他们的土地与我们衔接处的河面。"
+    },
+    {
+     "text": "The observation deck in the sphere offers a sweeping view of the city. 球型观景台能将整座城市尽收眼底。"
+    },
+    {
+     "table": {
+      "headers": [
+       "… get a bird's eye view 俯瞰"
+      ],
+      "rows": [
+       [
+        "From the top of the mountain, we could get a bird's-eye view of the town. 我们可以从山顶鸟瞰这座城镇。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "We are at a critical juncture. 我们正处在一个关键的时刻。"
+    },
+    {
+     "text": "This is a critical juncture. 此时，是一个临界点。"
+    },
+    {
+     "text": "The Six-Party Talks are now at a critical juncture. 目前，六方会谈处于关键阶段。"
+    },
+    {
+     "text": "Today marks a critical juncture in our endeavor. 今天是我们一切努力的关键时刻。"
+    },
+    {
+     "text": "August is the height of summer."
+    },
+    {
+     "text": "The storm is at its height."
+    },
+    {
+     "text": "The height of the mountain did not discourage them. 山高并没有使他们泄气。"
+    },
+    {
+     "text": "There is only one computer, so we have to take turns (in) using it."
+    },
+    {
+     "text": "The male and female birds take turns in sitting on the eggs. 雄鸟和雌鸟轮流伏窝。"
+    },
+    {
+     "text": "She told them to take turns to ride the bike. 她告诉他们轮流骑自行车。"
+    },
+    {
+     "table": {
+      "headers": [
+       "take turns to do sth. 轮流做某事"
+      ],
+      "rows": [
+       [
+        "There is only one computer, so we have to take turns to use it."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "They are prepared to hand back a hundred prisoners of war a day as a sign of good will. 作为一种友好的表示，他们准备一天遣返100名战犯。"
+    },
+    {
+     "text": "His face and movements rarely betrayed a sign of nerves. 他的表情和行为很少流露出紧张的迹象。"
+    },
+    {
+     "text": "The snow showed no sign of melting. 雪没有一点融化的迹象。"
+    },
+    {
+     "table": {
+      "headers": [
+       "indication",
+       "omen",
+       "a good omen",
+       "a bad omen"
+      ],
+      "rows": [
+       [
+        "He searched Hill's impassive face for some indication that he understood. 他在希尔没有表情的脸上搜寻着一些他理解的迹象。"
+       ],
+       [
+        "Her appearance at this moment is an omen of disaster. 她此时的出现是灾难的预兆。"
+       ],
+       [
+        "It's a good omen and we can only get better. 这是一个好兆头，我们会发挥的更好。"
+       ],
+       [
+        "The superstitious regard it as a bad omen. 迷信的人认为那是一种恶兆。"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "主语不是代词",
+       "谓语动词不是及物动词",
+       "表语置于句首"
+      ],
+      "rows": [
+       [
+        "Now comes your turn. On the hill stands a temple. In came Miss Green."
+       ],
+       [
+        "There are two people. There once stood a little village."
+       ],
+       [
+        "Happy is he who has a sound mind in a sound body. Gone are the days when my heart was young and gay."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Off he went. 主语不能是代词"
+    },
+    {
+     "text": "On the hill John saw Mary. 谓语是及物动词"
+    },
+    {
+     "text": "… prevent it from landing anywhere … 课文写法替换"
+    },
+    {
+     "text": "the Genesis 创世纪"
+    },
+    {
+     "text": "the New Testament 新约 (Christians 写的)"
+    },
+    {
+     "text": "the Old Testament 旧约(Jews 写的)"
+    },
+    {
+     "text": "deluge 大洪水"
+    },
+    {
+     "text": "The floor was completely sound. Is the building structurally sound?"
+    },
+    {
+     "text": "When we bought the house, it was structurally sound. 当我们买下这房子时，其结构完好无损。"
+    },
+    {
+     "text": "Although the car is basically sound, I was worried about certain areas. 虽然这辆汽车基本状况完好，但我担心某几个部分。"
+    },
+    {
+     "text": "stout boots for climbing"
+    },
+    {
+     "text": "a stout walking-stick"
+    },
+    {
+     "text": "She was a short, sturdy woman in her early sixties. 她是一位六十出头、矮小结实的女人。"
+    },
+    {
+     "text": "It was a good table too, sturdily constructed of elm. 它也是一张很好的桌子，榆木做的，很结实。"
+    },
+    {
+     "text": "Her mother came to find them, wading across a river to reach them. 她的母亲蹚过河来找他们。"
+    },
+    {
+     "text": "The lake was not frozen sufficiently to bear her, but it was low enough that she could wade through it. 湖面尚未完全结冰，不足以承受她的重量，但水位又足够低，她还是能够趟过湖去的。"
+    },
+    {
+     "text": "Sometimes they had to wade waist-deep through mud. 有时他们得通过齐腰深的泥浆。"
+    },
+    {
+     "table": {
+      "headers": [
+       "trek n/v. 艰苦跋涉(翻山)"
+      ],
+      "rows": [
+       [
+        "They trekked from shop to shop in search of white knee-high socks. 他们疲惫地奔波于一家又一家商店，寻找高到膝盖的白色长筒袜。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Police are carrying out a house-to-house search in the hope of finding the missing girl."
+    },
+    {
+     "text": "The men of our family waded down through our flooded meadows with boathooks, in the hope of being (=because they hope to be) able to grapple a corner of the raft and pull it out of the current towards our bank."
+    },
+    {
+     "text": "The Swedes were the first to recognize that public officials like civil servants, police officers, health inspectors or tax-collectors can make mistakes or act over-zealously in the belief (=because they believe) that they are serving the public ."
+    },
+    {
+     "text": "In the lift her thoughts were on lunch and a good rest; but when she got out at her own floor, both were forgotten in her sudden discovery (=because she suddenly discovered) that her front door was open ."
+    },
+    {
+     "text": "They leave unwanted objects in drawers, cupboards and attics for years, in the belief that (=because they believe that) they may one day need just those very things ."
+    },
+    {
+     "text": "Young men who have reason to fear that they will be killed in battle may justifiably feel bitter in the thought (=because they think) that they have cheated of the best things that life has to offer ."
+    },
+    {
+     "table": {
+      "headers": [
+       "… in the hope that they would be able to … 希望能够..."
+      ],
+      "rows": [
+       [
+        "She applied for the scholarship in the hope that she would be able to study abroad. 她申请了奖学金，希望能够出国学习。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "They managed to grapple him to the ground."
+    },
+    {
+     "text": "He was grappling with an alligator in a lagoon. 他当时正与环礁湖里的一只鳄鱼搏斗。"
+    },
+    {
+     "text": "Passers-by grappled with the man after the attack. 袭击之后过路人便与这男人扭打起来。"
+    },
+    {
+     "text": "It is a miracle no one was killed. 没有人死亡真是个奇迹。"
+    },
+    {
+     "text": "Short of a miracle, we're certain to lose. 除非发生奇迹，否则我们输定了。"
+    },
+    {
+     "text": "The transformation has been nothing short of a miracle. 这种变化堪称奇迹。"
+    }
    ]
   }
  ]

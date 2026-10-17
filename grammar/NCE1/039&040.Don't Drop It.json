@@ -2,78 +2,254 @@
  "grammar": [
   {
    "title": "说“不” - 否定形式",
-   "lines": [
-    "Don’t（Do not） + v. （动词） \"Don't\"（不要）+ 动词",
-    "结构：is not / am not / are not",
-    "肯定句 否定句",
-    "It is my name.（这是我的名字。） It is not my name.（这不是我的名字。）",
-    "She is pretty.（她很漂亮。） She is not pretty.（她不漂亮。）",
-    "You are busy.（你很忙。） You are not busy.（你不忙。）",
-    "I am listening.（我在听。） I am not listening.（我没在听。）",
-    "在前面的学习过程中我们是直接在Be动词上加 not 完成了否定句的变换。假如我们的句子中没有 is/am/are的时候，我们需要怎么做呢？",
-    "如果你需要去否定一个 实义动词 ，就需要一个助动词Don't = Do not 来帮助实现。",
-    "Do it!（做吧！）→ Don't do it!（别做！）",
-    "Come in!（进来！）→ Don't come in!（别进来！）",
-    "Don't smoke !（不要抽烟！）",
-    "Don't litter !（不要乱扔垃圾！）",
-    "Don't fall !（不要摔倒！）",
-    "Don't enter !（不要进入！）",
-    "Don't drop it!（别摔了！）",
-    "Don't do that!（别这么做！）",
-    "Don't put it there!（别放那儿！）",
-    "Don't work !（不要工作啦！）",
-    "Don't drive !（不要开车啦！）",
-    "Don't swim here!（不要在这里游泳！）",
-    "Don't cook !（不要做饭啦！）",
-    "I am not there!（我不在那儿！）",
-    "I am not doing that!（我不会这么做！）",
-    "Don't open the window!（不要开窗！）",
-    "Tips : not 通常与动词搭配，而 No 则与名词搭配。",
-    "助动词\"Do\"是英语中一个非常常用且多功能的词，它有多种用法和含义。",
-    "用于构成否定句和疑问句 否定句：例如，\"I do not like coffee.\"（我不喜欢咖啡。） 疑问句：例如，\" Do you like coffee?\"（你喜欢咖啡吗？）",
-    "用于强调 强调句：例如，\"I do enjoy playing basketball.\"（我 确实 喜欢打篮球。） 强调疑问句：例如，\" Do you really love me?\"（你真的爱我吗？）",
-    "用于替代动词 替代动词：例如，\"I don't know what to do .\"（我不知道该做什么。）",
-    "用于进行时态和完成时态 进行时态：例如，\"She is doing her homework.\"（她正在做她的作业。） 完成时态：例如，\"He has done his job.\"（他已经完成了他的工作。）"
+   "parts": [
+    {
+     "text": "Don’t（Do not） + v. （动词） \"Don't\"（不要）+ 动词"
+    },
+    {
+     "table": {
+      "headers": [
+       "结构：is not / am not / are not"
+      ],
+      "rows": [
+       [
+        "肯定句",
+        "否定句"
+       ],
+       [
+        "It is my name.（这是我的名字。）",
+        "It is not my name.（这不是我的名字。）"
+       ],
+       [
+        "She is pretty.（她很漂亮。）",
+        "She is not pretty.（她不漂亮。）"
+       ],
+       [
+        "You are busy.（你很忙。）",
+        "You are not busy.（你不忙。）"
+       ],
+       [
+        "I am listening.（我在听。）",
+        "I am not listening.（我没在听。）"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "在前面的学习过程中我们是直接在Be动词上加 not 完成了否定句的变换。假如我们的句子中没有 is/am/are的时候，我们需要怎么做呢？"
+    },
+    {
+     "text": "如果你需要去否定一个 实义动词 ，就需要一个助动词Don't = Do not 来帮助实现。"
+    },
+    {
+     "text": "Do it!（做吧！）→ Don't do it!（别做！）"
+    },
+    {
+     "text": "Come in!（进来！）→ Don't come in!（别进来！）"
+    },
+    {
+     "text": "Don't smoke !（不要抽烟！）"
+    },
+    {
+     "text": "Don't litter !（不要乱扔垃圾！）"
+    },
+    {
+     "text": "Don't fall !（不要摔倒！）"
+    },
+    {
+     "text": "Don't enter !（不要进入！）"
+    },
+    {
+     "text": "Don't drop it!（别摔了！）"
+    },
+    {
+     "text": "Don't do that!（别这么做！）"
+    },
+    {
+     "text": "Don't put it there!（别放那儿！）"
+    },
+    {
+     "text": "Don't work !（不要工作啦！）"
+    },
+    {
+     "text": "Don't drive !（不要开车啦！）"
+    },
+    {
+     "text": "Don't swim here!（不要在这里游泳！）"
+    },
+    {
+     "text": "Don't cook !（不要做饭啦！）"
+    },
+    {
+     "text": "I am not there!（我不在那儿！）"
+    },
+    {
+     "text": "I am not doing that!（我不会这么做！）"
+    },
+    {
+     "text": "Don't open the window!（不要开窗！）"
+    },
+    {
+     "text": "Tips : not 通常与动词搭配，而 No 则与名词搭配。"
+    },
+    {
+     "text": "助动词\"Do\"是英语中一个非常常用且多功能的词，它有多种用法和含义。"
+    },
+    {
+     "table": {
+      "headers": [
+       "用于构成否定句和疑问句",
+       "用于强调",
+       "用于替代动词",
+       "用于进行时态和完成时态"
+      ],
+      "rows": [
+       [
+        "否定句：例如，\"I do not like coffee.\"（我不喜欢咖啡。）",
+        "疑问句：例如，\" Do you like coffee?\"（你喜欢咖啡吗？）"
+       ],
+       [
+        "强调句：例如，\"I do enjoy playing basketball.\"（我 确实 喜欢打篮球。）",
+        "强调疑问句：例如，\" Do you really love me?\"（你真的爱我吗？）"
+       ],
+       [
+        "替代动词：例如，\"I don't know what to do .\"（我不知道该做什么。）"
+       ],
+       [
+        "进行时态：例如，\"She is doing her homework.\"（她正在做她的作业。）",
+        "完成时态：例如，\"He has done his job.\"（他已经完成了他的工作。）"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "going to 练习",
-   "lines": [
-    "接双宾语 What are you going to do with…? I’m going to give / show / send / take …",
-    "单词 词性 中文含义 音标 例句",
-    "show v. 给…看 /ʃəʊ/ Can you show me how to do it?",
-    "send v. 寄送，派遣 /send/ I will send you the documents by email.",
-    "take v. 带给 /teɪk/ Don't forget to take your umbrella.",
-    "show sb. sth. = show sth. to sb.",
-    "send sb. sth. = send sth. to sb.",
-    "take sb. sth. = take sth. to sb.",
-    "一般将来时 ：主语 + is/am/are + going to + do ∴ 主语 + will + do",
-    "What are you going to do with the dress? 你打算怎么处理这件裙子？",
-    "I'm going to give it to my daughter. 我打算把它送给我的女儿。",
-    "What are you going to do with the flowers? 你打算怎么处理这些鲜花？",
-    "I'm going to give them to my grandmother. 我打算把它们送给我的奶奶。",
-    "What are you going to do with the newspaper? 你打算怎么处理这份报纸？",
-    "I'm going to take it to my father. 我打算把它带给我的父亲。",
-    "What are you going to do with the picture? 你打算怎么处理这张照片？",
-    "I'm going to send it to my mother. 我打算把它寄给我的母亲。"
+   "parts": [
+    {
+     "text": "接双宾语 What are you going to do with…? I’m going to give / show / send / take …"
+    },
+    {
+     "table": {
+      "headers": [
+       "单词",
+       "词性",
+       "中文含义",
+       "音标",
+       "例句"
+      ],
+      "rows": [
+       [
+        "show",
+        "v.",
+        "给…看",
+        "/ʃəʊ/",
+        "Can you show me how to do it?"
+       ],
+       [
+        "send",
+        "v.",
+        "寄送，派遣",
+        "/send/",
+        "I will send you the documents by email."
+       ],
+       [
+        "take",
+        "v.",
+        "带给",
+        "/teɪk/",
+        "Don't forget to take your umbrella."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "show sb. sth. = show sth. to sb."
+    },
+    {
+     "text": "send sb. sth. = send sth. to sb."
+    },
+    {
+     "text": "take sb. sth. = take sth. to sb."
+    },
+    {
+     "text": "一般将来时 ：主语 + is/am/are + going to + do ∴ 主语 + will + do"
+    },
+    {
+     "text": "What are you going to do with the dress? 你打算怎么处理这件裙子？"
+    },
+    {
+     "text": "I'm going to give it to my daughter. 我打算把它送给我的女儿。"
+    },
+    {
+     "text": "What are you going to do with the flowers? 你打算怎么处理这些鲜花？"
+    },
+    {
+     "text": "I'm going to give them to my grandmother. 我打算把它们送给我的奶奶。"
+    },
+    {
+     "text": "What are you going to do with the newspaper? 你打算怎么处理这份报纸？"
+    },
+    {
+     "text": "I'm going to take it to my father. 我打算把它带给我的父亲。"
+    },
+    {
+     "text": "What are you going to do with the picture? 你打算怎么处理这张照片？"
+    },
+    {
+     "text": "I'm going to send it to my mother. 我打算把它寄给我的母亲。"
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "交通法规的英文表达",
-   "lines": [
-    "Don’t + v. ↔ No + n. 结论：Don't 否定动词，No 否定名词！ Don't 语气更强烈一些，可翻译为：不准; No 语气弱一点，可翻译为：不要",
-    "Don't + v. 禁止动作 No + n. 不允许某个事物或概念",
-    "Don't eat too much candy.（不要吃太多糖果。） No smoking allowed in this area.（本区域禁止吸烟。）",
-    "Don't forget to call me.（别忘了给我打电话。） No pets allowed in the building.（楼内不允许携带宠物。）",
-    "Don't smoke! 禁止吸烟 No smoking! 不要吸烟",
-    "Don't turn left.禁止左转 No left turn.不许左转",
-    "Don't turn right.禁止右转 No right turn.不许右转",
-    "Don't make a U-turn.禁止调头 No U-turn.不准调头",
-    "Don't park.禁止停车 No parking.不准停车"
+   "parts": [
+    {
+     "text": "Don’t + v. ↔ No + n. 结论：Don't 否定动词，No 否定名词！ Don't 语气更强烈一些，可翻译为：不准; No 语气弱一点，可翻译为：不要"
+    },
+    {
+     "table": {
+      "headers": [
+       "Don't + v. 禁止动作",
+       "No + n. 不允许某个事物或概念"
+      ],
+      "rows": [
+       [
+        "Don't eat too much candy.（不要吃太多糖果。）",
+        "No smoking allowed in this area.（本区域禁止吸烟。）"
+       ],
+       [
+        "Don't forget to call me.（别忘了给我打电话。）",
+        "No pets allowed in the building.（楼内不允许携带宠物。）"
+       ],
+       [
+        "Don't smoke! 禁止吸烟",
+        "No smoking! 不要吸烟"
+       ],
+       [
+        "Don't turn left.禁止左转",
+        "No left turn.不许左转"
+       ],
+       [
+        "Don't turn right.禁止右转",
+        "No right turn.不许右转"
+       ],
+       [
+        "Don't make a U-turn.禁止调头",
+        "No U-turn.不准调头"
+       ],
+       [
+        "Don't park.禁止停车",
+        "No parking.不准停车"
+       ]
+      ]
+     }
+    }
    ]
   }
  ]

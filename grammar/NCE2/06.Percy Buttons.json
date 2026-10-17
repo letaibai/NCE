@@ -2,88 +2,328 @@
  "grammar": [
   {
    "title": "冠词 a/an,the",
-   "lines": [
-    "a/an 取决于音标（不是首字母） 定冠词 the （特指） 零冠词 (some、any、...) 在母语国家的文章里，只要能表示“特指”的情况，不管是“这个、这些、那个、那些”一律使用的\"The\"。The 的使用频率远远高过了this\\that;these\\those。 表示某个确定的人或事物或者上文已提到过的人或事物， 则要用定冠词 the（ 有时相当于this/that/these/those）,可数名词单/复数或不可数名词均可。 在姓名、地名、国名（非复合词）以及月份、星期等前面不加任何冠词。在文章当中第一次出现名词的时候往往用 a 和 an 修饰, 第二次出现的时候用the。",
-    "a book / a teacher / a chair",
-    "an apple / an orange / an excuse",
-    "a useful tool",
-    "an honest man",
-    "a one-eyed man",
-    "a European country",
-    "不定冠词 a/an (泛指)",
-    "不明确的对象 I am hungry.I want an apple.",
-    "首次提到的对象 I saw a dog in Bridge Street yesterday.",
-    "a/an 接 可数 名词 单数 ，当表示不确定的某个人或物时，用不定冠词 a/an（单数, 可数名词）",
-    "明确的对象 I want the apple in your hand. 元音前读 [ði]",
-    "再次提到的对象 The dog was really cute. 辅音前读 [ðə]",
-    "the 接 可数 名词 单复数 及 不可数 名词，可表示“这个、这些、那个、那些”，地道的英语应该将This\\That\\These\\Those 尽量的替换为The(the water;the apple s ;the egg)",
-    "当名词不可数或者名词复数时可以省略冠词。",
-    "I want apples. / I want some apples.强调吃很多",
-    "接不可数名词和可数名词 复数 ，一般姓名前一般不能加冠词，表示“某某一类人当中 (具有这种特征当中的一个”，加不定冠词 a/ an Mr. Zhang 张先生这类人)",
-    "在表示一种笼统概念（某某一类/一种东西）的陈述句中可以省略 a 和 some",
-    "A tiger is a dangerous animal.",
-    "Tigers are dangerous.",
-    "Salt is necessary for / to us all.",
-    "初次提及(a/an) 再次出现(the)",
-    "A man is walking towards me. The man is carrying a parcel. → The parcel is full of meat.",
-    "I have just drunk a glass of milk. Milk is very refreshing. 不可数名词可以省略冠词",
-    "I ate an apple. Apples are delicious. 可数名词复数时可省略(泛指苹果这一个分类)",
-    "She always buys flour, sugar and tea at the grocer's.（flour、sugar、tea不可数）"
+   "parts": [
+    {
+     "text": "a/an 取决于音标（不是首字母） 定冠词 the （特指） 零冠词 (some、any、...) 在母语国家的文章里，只要能表示“特指”的情况，不管是“这个、这些、那个、那些”一律使用的\"The\"。The 的使用频率远远高过了this\\that;these\\those。 表示某个确定的人或事物或者上文已提到过的人或事物， 则要用定冠词 the（ 有时相当于this/that/these/those）,可数名词单/复数或不可数名词均可。 在姓名、地名、国名（非复合词）以及月份、星期等前面不加任何冠词。在文章当中第一次出现名词的时候往往用 a 和 an 修饰, 第二次出现的时候用the。"
+    },
+    {
+     "text": "a book / a teacher / a chair"
+    },
+    {
+     "text": "an apple / an orange / an excuse"
+    },
+    {
+     "text": "a useful tool"
+    },
+    {
+     "text": "an honest man"
+    },
+    {
+     "text": "a one-eyed man"
+    },
+    {
+     "text": "a European country"
+    },
+    {
+     "table": {
+      "headers": [
+       "不定冠词 a/an (泛指)"
+      ],
+      "rows": [
+       [
+        "不明确的对象",
+        "I am hungry.I want an apple."
+       ],
+       [
+        "首次提到的对象",
+        "I saw a dog in Bridge Street yesterday."
+       ],
+       [
+        "a/an 接 可数 名词 单数 ，当表示不确定的某个人或物时，用不定冠词 a/an（单数, 可数名词）"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [],
+      "rows": [
+       [
+        "明确的对象",
+        "I want the apple in your hand. 元音前读 [ði]"
+       ],
+       [
+        "再次提到的对象",
+        "The dog was really cute. 辅音前读 [ðə]"
+       ],
+       [
+        "the 接 可数 名词 单复数 及 不可数 名词，可表示“这个、这些、那个、那些”，地道的英语应该将This\\That\\These\\Those 尽量的替换为The(the water;the apple s ;the egg)"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [],
+      "rows": [
+       [
+        "当名词不可数或者名词复数时可以省略冠词。"
+       ],
+       [
+        "I want apples. / I want some apples.强调吃很多"
+       ],
+       [
+        "接不可数名词和可数名词 复数 ，一般姓名前一般不能加冠词，表示“某某一类人当中 (具有这种特征当中的一个”，加不定冠词 a/ an Mr. Zhang 张先生这类人)"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "在表示一种笼统概念（某某一类/一种东西）的陈述句中可以省略 a 和 some"
+    },
+    {
+     "text": "A tiger is a dangerous animal."
+    },
+    {
+     "text": "Tigers are dangerous."
+    },
+    {
+     "text": "Salt is necessary for / to us all."
+    },
+    {
+     "table": {
+      "headers": [
+       "初次提及(a/an)",
+       "再次出现(the)"
+      ],
+      "rows": [
+       [
+        "A man is walking towards me.",
+        "The man is carrying a parcel. → The parcel is full of meat."
+       ],
+       [
+        "I have just drunk a glass of milk.",
+        "Milk is very refreshing. 不可数名词可以省略冠词"
+       ],
+       [
+        "I ate an apple.",
+        "Apples are delicious. 可数名词复数时可省略(泛指苹果这一个分类)"
+       ],
+       [
+        "She always buys flour, sugar and tea at the grocer's.（flour、sugar、tea不可数）"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "常见的动词短语",
-   "lines": [
-    "某些动词的后面加上介词或副词以后就会改变词义, 这种新的组合称作短语动词",
-    "动词 动词短语 例句",
-    "put(放) put on (穿上，戴上) She put on her coat and left.（她穿上了外套离开了。）",
-    "take(拿走) take off (脱掉，摘掉) He took off his shoes before entering the house.（他脱掉鞋子进屋。）",
-    "look（看） look at (看) She looked at herself in the mirror.（她在镜子里看着自己。）",
-    "look for (寻找) I'm looking for my keys.（我在找我的钥匙。）",
-    "look after (照顾) Can you look after my cat while I'm on vacation?（我度假期间你能照顾我的猫吗？）",
-    "look out (当心) Look out! There's a car coming.（当心！有辆车过来了。）",
-    "look out of (向外看) She looked out of the window and saw a beautiful garden.（她朝窗外看，看到了一个美丽的花园。）",
-    "call（呼叫） call at (去取某物、去接某人) I will call at the store to pick up some groceries.（我会去商店取一些杂货。）",
-    "call on (去拜访) Let's call on our neighbors and say hello.（让我们去拜访邻居并问好。）",
-    "call in (去...处) He called in sick and didn't go to work.（他请病假没有去上班。）",
-    "call back (回电话) I missed his call, so I'll call him back later.（我错过了他的电话，所以我等会儿给他回电话。）",
-    "call for (需要) The situation calls for immediate action.（这种情况需要立即采取行动。）",
-    "knock(敲) knock at (敲门) He knocked at the door and waited for someone to answer.（他敲了敲门，等待着有人开门。）",
-    "knock off(下班、打折) We will knock off work at 5 pm today.（我们今天下午5点下班。）",
-    "The store knocked 10% off the price.（商店对价格打了9折。）",
-    "knock sth. off (把...撞倒) He accidentally knocked the vase off the table.（他不小心把花瓶从桌子上撞到地上。）",
-    "knock over (撞倒) A car knocked the boy over.（一辆车把男孩撞倒了。）",
-    "knock out (打晕) He didn't know how to fight, but he knocked the boxer out.（他不懂得如何打架，但他把拳击手打晕了。）"
+   "parts": [
+    {
+     "text": "某些动词的后面加上介词或副词以后就会改变词义, 这种新的组合称作短语动词"
+    },
+    {
+     "table": {
+      "headers": [
+       "动词",
+       "动词短语",
+       "例句",
+       "put(放)",
+       "take(拿走)",
+       "look（看）",
+       "call（呼叫）",
+       "knock(敲)"
+      ],
+      "rows": [
+       [
+        "put on (穿上，戴上)",
+        "She put on her coat and left.（她穿上了外套离开了。）"
+       ],
+       [
+        "take off (脱掉，摘掉)",
+        "He took off his shoes before entering the house.（他脱掉鞋子进屋。）"
+       ],
+       [
+        "look at (看)",
+        "She looked at herself in the mirror.（她在镜子里看着自己。）"
+       ],
+       [
+        "look for (寻找)",
+        "I'm looking for my keys.（我在找我的钥匙。）"
+       ],
+       [
+        "look after (照顾)",
+        "Can you look after my cat while I'm on vacation?（我度假期间你能照顾我的猫吗？）"
+       ],
+       [
+        "look out (当心)",
+        "Look out! There's a car coming.（当心！有辆车过来了。）"
+       ],
+       [
+        "look out of (向外看)",
+        "She looked out of the window and saw a beautiful garden.（她朝窗外看，看到了一个美丽的花园。）"
+       ],
+       [
+        "call at (去取某物、去接某人)",
+        "I will call at the store to pick up some groceries.（我会去商店取一些杂货。）"
+       ],
+       [
+        "call on (去拜访)",
+        "Let's call on our neighbors and say hello.（让我们去拜访邻居并问好。）"
+       ],
+       [
+        "call in (去...处)",
+        "He called in sick and didn't go to work.（他请病假没有去上班。）"
+       ],
+       [
+        "call back (回电话)",
+        "I missed his call, so I'll call him back later.（我错过了他的电话，所以我等会儿给他回电话。）"
+       ],
+       [
+        "call for (需要)",
+        "The situation calls for immediate action.（这种情况需要立即采取行动。）"
+       ],
+       [
+        "knock at (敲门)",
+        "He knocked at the door and waited for someone to answer.（他敲了敲门，等待着有人开门。）"
+       ],
+       [
+        "knock off(下班、打折)",
+        "We will knock off work at 5 pm today.（我们今天下午5点下班。）"
+       ],
+       [
+        "The store knocked 10% off the price.（商店对价格打了9折。）"
+       ],
+       [
+        "knock sth. off (把...撞倒)",
+        "He accidentally knocked the vase off the table.（他不小心把花瓶从桌子上撞到地上。）"
+       ],
+       [
+        "knock over (撞倒)",
+        "A car knocked the boy over.（一辆车把男孩撞倒了。）"
+       ],
+       [
+        "knock out (打晕)",
+        "He didn't know how to fight, but he knocked the boxer out.（他不懂得如何打架，但他把拳击手打晕了。）"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "词本无意、意由境生",
-   "lines": [
-    "put 放 look 看 knock 敲",
-    "原型 过去式 过去分词 现在分词",
-    "stand stood stood",
-    "sing sang sung",
-    "give gave given giving",
-    "eat ate eaten",
-    "drink drank drunk",
-    "put put put putting",
-    "tell told told",
-    "know knew known",
-    "I put your book on the shelf. 我把你的书 放到了 架子上",
-    "I put on my hat and left the house. 我把我的帽子 放到了 脑袋上然后离开了房子(说人话: 戴上 帽子出门去)",
-    "Come and look at my photograph album. 过来 看 我的相册",
-    "I am looking for my pen. I lost it this morning.我正在为了(for)我的钢笔 看 ；早上丢了(说人话:我在 找 笔)",
-    "Will you look after the children for me please?你可以跟在孩子们后面(after) 看 (look)吗为了我(for me)，请?(说人话:能请你帮我 照看 孩子吗？)",
-    "A beggar knocked at my door. 一个乞丐 敲 在了(knocked at)我的门上（说人话:一个乞丐敲了我的门）",
-    "A car knocked the boy over. 一辆车 敲了 这个男孩并越过 (说人话：一辆汽车把那个男孩 撞倒 了。)",
-    "In the fight, the thief knocked the policeman out.在打斗中，这个小偷 敲了 这个警察，并 出去（out）了。 （说人话:小偷把警察 打昏 了。）",
-    "knock off 同词不同意 I knocked the vase off the table and broke it. 碰掉了",
-    "He finishes his work and always knocks off at 6:00. 下班了",
-    "The shop assistant knocked 10% off the bill. 打折、减免"
+   "parts": [
+    {
+     "text": "put 放 look 看 knock 敲"
+    },
+    {
+     "table": {
+      "headers": [
+       "原型",
+       "过去式",
+       "过去分词",
+       "现在分词"
+      ],
+      "rows": [
+       [
+        "stand",
+        "stood",
+        "stood",
+        ""
+       ],
+       [
+        "sing",
+        "sang",
+        "sung",
+        ""
+       ],
+       [
+        "give",
+        "gave",
+        "given",
+        "giving"
+       ],
+       [
+        "eat",
+        "ate",
+        "eaten",
+        ""
+       ],
+       [
+        "drink",
+        "drank",
+        "drunk",
+        ""
+       ],
+       [
+        "put",
+        "put",
+        "put",
+        "putting"
+       ],
+       [
+        "tell",
+        "told",
+        "told",
+        ""
+       ],
+       [
+        "know",
+        "knew",
+        "known",
+        ""
+       ]
+      ]
+     }
+    },
+    {
+     "text": "I put your book on the shelf. 我把你的书 放到了 架子上"
+    },
+    {
+     "text": "I put on my hat and left the house. 我把我的帽子 放到了 脑袋上然后离开了房子(说人话: 戴上 帽子出门去)"
+    },
+    {
+     "text": "Come and look at my photograph album. 过来 看 我的相册"
+    },
+    {
+     "text": "I am looking for my pen. I lost it this morning.我正在为了(for)我的钢笔 看 ；早上丢了(说人话:我在 找 笔)"
+    },
+    {
+     "text": "Will you look after the children for me please?你可以跟在孩子们后面(after) 看 (look)吗为了我(for me)，请?(说人话:能请你帮我 照看 孩子吗？)"
+    },
+    {
+     "text": "A beggar knocked at my door. 一个乞丐 敲 在了(knocked at)我的门上（说人话:一个乞丐敲了我的门）"
+    },
+    {
+     "text": "A car knocked the boy over. 一辆车 敲了 这个男孩并越过 (说人话：一辆汽车把那个男孩 撞倒 了。)"
+    },
+    {
+     "text": "In the fight, the thief knocked the policeman out.在打斗中，这个小偷 敲了 这个警察，并 出去（out）了。 （说人话:小偷把警察 打昏 了。）"
+    },
+    {
+     "table": {
+      "headers": [
+       "knock off 同词不同意"
+      ],
+      "rows": [
+       [
+        "I knocked the vase off the table and broke it. 碰掉了"
+       ],
+       [
+        "He finishes his work and always knocks off at 6:00. 下班了"
+       ],
+       [
+        "The shop assistant knocked 10% off the bill. 打折、减免"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],

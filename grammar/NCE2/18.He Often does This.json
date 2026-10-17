@@ -2,52 +2,198 @@
  "grammar": [
   {
    "title": "have 的用法",
-   "lines": [
-    "have 作为实义动词 have 完全做为动词时（实义动词时），还可以表示 eat，drink，enjoy，take 等意思(have dinner，have a cigarette，have coffee，have a holiday，have a good time，have a swim，have a rest)，这时它是“行为类动词”可以用于包括进行时的各种时态。当 have 用于表示这些含义时，它必须与助动词 do 、 does 等连用以构成疑问句或否定句。 have 作为助动词",
-    "have = have got 拥有/具有 体验/经历 动作/行为",
-    "I have a car.（我有一辆车。） She has three cats.（她养了三只猫。） They had a great time at the party.（他们在派对上过得很愉快。） She had a terrible headache.（她头疼得厉害。） We often have lunch together.（我们经常一起吃午饭。） He had a sip of water.（他喝了一小口水。）",
-    "have/has/had + done 各种完成时 have/has/had been + doing 各种完成进行时",
-    "I have finished my homework.（我已经完成了作业。） They have gone to the store.（他们已经去商店了。） She has been studying all day.（她一整天都在学习。） They have been waiting for hours.（他们已经等了几个小时了。）",
-    "标准否定句 英国英语中特例",
-    "I don’t have a pen/a headache. I haven’t a pen /a headache.",
-    "have = have got 有 have = have got 得病 have to == have got to 不得不，必须",
-    "I have a pen. I have got a pen I have a headache. I have got a headache. We have got to be at the airport by 6 AM. （我们必须在早上6点前到达机场。） You have got to study hard to pass the exam. （你必须努力学习才能通过考试。） They have to wear uniforms at school. （他们在学校必须穿制服。）",
-    "have/has had 现在完成时 had had 过去完成时",
-    "I have had breakfast already.（我已经吃过早饭了。） She has had a long day.（她度过了漫长的一天。） I realized that I had had the wrong key all along.（我意识到我一直拿错了钥匙。） By the time I arrived, they had already had their dinner.（我到达的时候，他们已经吃过晚饭了。）"
+   "parts": [
+    {
+     "text": "have 作为实义动词 have 完全做为动词时（实义动词时），还可以表示 eat，drink，enjoy，take 等意思(have dinner，have a cigarette，have coffee，have a holiday，have a good time，have a swim，have a rest)，这时它是“行为类动词”可以用于包括进行时的各种时态。当 have 用于表示这些含义时，它必须与助动词 do 、 does 等连用以构成疑问句或否定句。 have 作为助动词"
+    },
+    {
+     "table": {
+      "headers": [
+       "have = have got 拥有/具有",
+       "体验/经历",
+       "动作/行为"
+      ],
+      "rows": [
+       [
+        "I have a car.（我有一辆车。） She has three cats.（她养了三只猫。）",
+        "They had a great time at the party.（他们在派对上过得很愉快。） She had a terrible headache.（她头疼得厉害。）",
+        "We often have lunch together.（我们经常一起吃午饭。） He had a sip of water.（他喝了一小口水。）"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "have/has/had + done 各种完成时",
+       "have/has/had been + doing 各种完成进行时"
+      ],
+      "rows": [
+       [
+        "I have finished my homework.（我已经完成了作业。） They have gone to the store.（他们已经去商店了。）",
+        "She has been studying all day.（她一整天都在学习。） They have been waiting for hours.（他们已经等了几个小时了。）"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "标准否定句",
+       "英国英语中特例"
+      ],
+      "rows": [
+       [
+        "I don’t have a pen/a headache.",
+        "I haven’t a pen /a headache."
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "have = have got 有",
+       "have = have got 得病",
+       "have to == have got to 不得不，必须"
+      ],
+      "rows": [
+       [
+        "I have a pen. I have got a pen",
+        "I have a headache. I have got a headache.",
+        "We have got to be at the airport by 6 AM. （我们必须在早上6点前到达机场。） You have got to study hard to pass the exam. （你必须努力学习才能通过考试。） They have to wear uniforms at school. （他们在学校必须穿制服。）"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "have/has had 现在完成时",
+       "had had 过去完成时"
+      ],
+      "rows": [
+       [
+        "I have had breakfast already.（我已经吃过早饭了。） She has had a long day.（她度过了漫长的一天。）",
+        "I realized that I had had the wrong key all along.（我意识到我一直拿错了钥匙。） By the time I arrived, they had already had their dinner.（我到达的时候，他们已经吃过晚饭了。）"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "在下面哪几句话中可用 have got 来代替 have?",
-   "lines": [
-    "have or have got 只能表示“拥有 / 状态 / 义务”时 have got才可用，但不能表示“动作”。 当 have 表示“拥有/状态”时，英式英语里可以用 have got 替换；但当 have 表示“做某事、经历、固定搭配或动作”时，绝对不能用 have got。 Beside VS. Beside s beside 表示位置（在……旁边），而 besides 表示“除此之外 / 另外”，强调补充或附加信息。",
-    "He had a drink before dinner. (不可使用 have got × 代替) have = 喝",
-    "Mrs. Sullivan has a lot of money. ✓ 有钱 Mrs. Sullivan has got a lot of money. ✓ 有钱",
-    "He had to leave early. ✓ He ha s got to leave early. ✓",
-    "We have had a long conversation. (不可使用 have got × 代替) have = 进行",
-    "My mother has a headache. ✓ 患病 My mother has got a headache. ✓ 患病",
-    "They had a good time at the party. (不可使用 have got × 代替) have a good / long time 过的愉快(固定短语)",
-    "This sock has a hole in it. ✓ This sock ha s got a hole in it. ✓",
-    "She has to be patient with him. ✓ Sb. has got to be patient 有耐心",
-    "I have a bath every day. (不可使用 have got × 代替) have a swim 游泳 ; have a bath 冲澡",
-    "This room has four windows. ✓ This room has got four windows. ✓",
-    "He has a farm. ✓ He has got a farm. ✓",
-    "We had a letter from Jill yesterday. (不可使用 have got × 代替) have a letter from == receive a letter from 收到",
-    "Beside pron. 在…旁边，在…附近 Beside s adv. 而且，并且，此外； pron. 除…之外（还）",
-    "Come and sit beside us. He crouched down beside her. He went and sat beside her. She has so much else to do besides. 此外，她还有许多其他事要做。 I’m quite busy today. Besides, I’ve got a bad cold. 此外 There were a lot of people at the party besides us.除了我们之外"
+   "parts": [
+    {
+     "text": "have or have got 只能表示“拥有 / 状态 / 义务”时 have got才可用，但不能表示“动作”。 当 have 表示“拥有/状态”时，英式英语里可以用 have got 替换；但当 have 表示“做某事、经历、固定搭配或动作”时，绝对不能用 have got。 Beside VS. Beside s beside 表示位置（在……旁边），而 besides 表示“除此之外 / 另外”，强调补充或附加信息。"
+    },
+    {
+     "table": {
+      "headers": [],
+      "rows": [
+       [
+        "He had a drink before dinner. (不可使用 have got × 代替)",
+        "have = 喝"
+       ],
+       [
+        "Mrs. Sullivan has a lot of money. ✓ 有钱",
+        "Mrs. Sullivan has got a lot of money. ✓ 有钱"
+       ],
+       [
+        "He had to leave early. ✓",
+        "He ha s got to leave early. ✓"
+       ],
+       [
+        "We have had a long conversation. (不可使用 have got × 代替)",
+        "have = 进行"
+       ],
+       [
+        "My mother has a headache. ✓ 患病",
+        "My mother has got a headache. ✓ 患病"
+       ],
+       [
+        "They had a good time at the party. (不可使用 have got × 代替)",
+        "have a good / long time 过的愉快(固定短语)"
+       ],
+       [
+        "This sock has a hole in it. ✓",
+        "This sock ha s got a hole in it. ✓"
+       ],
+       [
+        "She has to be patient with him. ✓",
+        "Sb. has got to be patient 有耐心"
+       ],
+       [
+        "I have a bath every day. (不可使用 have got × 代替)",
+        "have a swim 游泳 ; have a bath 冲澡"
+       ],
+       [
+        "This room has four windows. ✓",
+        "This room has got four windows. ✓"
+       ],
+       [
+        "He has a farm. ✓",
+        "He has got a farm. ✓"
+       ],
+       [
+        "We had a letter from Jill yesterday. (不可使用 have got × 代替)",
+        "have a letter from == receive a letter from 收到"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "Beside pron. 在…旁边，在…附近",
+       "Beside s adv. 而且，并且，此外； pron. 除…之外（还）"
+      ],
+      "rows": [
+       [
+        "Come and sit beside us. He crouched down beside her. He went and sat beside her.",
+        "She has so much else to do besides. 此外，她还有许多其他事要做。 I’m quite busy today. Besides, I’ve got a bad cold. 此外 There were a lot of people at the party besides us.除了我们之外"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "give 常用含义是“给予，交给”",
-   "lines": [
-    "gave away 赠送 He gave away all his books to the library.",
-    "give in 上交，呈交；屈服，让步，投降 Give in your examination papers after you’ve finished. You can do what you like. I will never give in.",
-    "give up doing sth. 放弃，抛弃 He gave up drinking a few years ago.",
-    "give up 交出，让出 Jack has given up the watch he stole last week. Three of our officers gave themselves up to the enemy. 我方的三名军官向敌人投降了。",
-    "give back 归还 I lent him some books last month and he has given them back to me this morning."
+   "parts": [
+    {
+     "table": {
+      "headers": [
+       "gave away 赠送",
+       "give in 上交，呈交；屈服，让步，投降",
+       "give up doing sth. 放弃，抛弃",
+       "give up 交出，让出",
+       "give back 归还"
+      ],
+      "rows": [
+       [
+        "He gave away all his books to the library."
+       ],
+       [
+        "Give in your examination papers after you’ve finished. You can do what you like. I will never give in."
+       ],
+       [
+        "He gave up drinking a few years ago."
+       ],
+       [
+        "Jack has given up the watch he stole last week. Three of our officers gave themselves up to the enemy. 我方的三名军官向敌人投降了。"
+       ],
+       [
+        "I lent him some books last month and he has given them back to me this morning."
+       ]
+      ]
+     }
+    }
    ]
   }
  ],

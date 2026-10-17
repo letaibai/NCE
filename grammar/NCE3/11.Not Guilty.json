@@ -2,93 +2,358 @@
  "grammar": [
   {
    "title": "用亲身体验论证",
-   "lines": [
-    "'Have you anything to declare? he asked, looking me in the eye. look sb in the eye(s) / face to look straight at sb without feeling embarrassed or ashamed 直视(不礼貌) ‘No,’ I answered confidently. 'Would you mind unlocking this suitcase please?' Do you mind if I smoke here? I'm afraid this is a non-smoking office. The Officer went through the case with great care . with great care 名词有更多的限定(更庄严正式) = very carefully All the things I had packed so carefully were soon in a dreadful mess. things［pl.］personal belongings 私人财物 I felt sure I would never be able to close the case again . 形容词补足语从句 Suddenly, I saw the Officer's face light up. light up if someone's face or eyes light up, they show pleasure, excitement etc. （因喜悦、兴奋等脸上或眼中）露出光彩 He had spotted a tiny bottle at the bottom of my case and he pounced on it with delight.",
-    "Can you look me in the eye and tell me you're not lying? 直视我并告诉我没有撒谎",
-    "I'll never be able to look her in the face again! 没脸见她",
-    "confidently → with confidence 名词更庄严",
-    "Would you mind would / do you mind doing 请求对方做某事 Would you mind waiting outside?",
-    "would / do you mind my / our doing 请求对方允许自己做某事 'Would you mind my coming with you?' he asked, before I had finished speaking . Would you mind my smoking here?",
-    "do you mind if（真实语气：一般现在时） Do you mind if I smoke here?",
-    "would you mind if（虚拟语气：一般过去时） Would you mind if I smoked here?",
-    "回答方式 No, not at all. 不介意 Not at all. Certainly not. Of course not. No, that's quite all right. Not at all, I'd be happy / glad to. Go ahead. 请便 I wish you wouldn't. You'd better not. I'm sorry, but ... I'm afraid ...",
-    "He had spotted a tiny bottle at the bottom of my case and he pounced on it with delight (= delightedly).",
-    "Then I added with a smile (=smilingly).",
-    "'No', I answered confidently (= with confidence).",
-    "His few material possessions make it possible for him to move from place to place with ease (=easily) .",
-    "She faced the difficulty with calmness (=calmly).",
-    "I looked at her with curiosity (=curiously).",
-    "She spoke to me with tenderness (=tenderly).",
-    "I greeted Philip with enthusiasm (=enthusiastically).",
-    "The gang picked their victims at random (=randomly). 介词会变",
-    "I met an old friend in town by accident (=accidentally).不全都是with",
-    "The negotiations were conducted in secret (=secretly).",
-    "It's unprofessional to criticize your colleagues in public (publicly).",
-    "The chest contained the personal belongings of a seaman, Alan Fielding. NCE3-32",
-    "pack v.打包 Kelly packed her things before dinner. 打包 私人财物 He was still packing his suitcase when the taxi came. 打包进箱子",
-    "unpack v.拆包、解包 He told me to unpack my things and then come down to dinner . I unpacked my bags as soon as I arrived.",
-    "in a mess 乱糟糟，一团糟 in a dreadful / a terrible / an awful / an appalling mess Jem's house is always in an awful mess.",
-    "in (a state of) disorder 处于(混乱的)状态 Everything was in disorder, but nothing seemed to be missing. The whole office was in a state of disorder.",
-    "in (a state of) chaos 大规模的混乱 The kitchen was in chaos. Without it, nothing could ever be brought to a conclusion;everything would be in a state of chaos.",
-    "I'm glad the bell is working again .",
-    "'It's working all right, but I'm afraid that at one o'clock it will strike thirteen times and there's nothing I can do about it .'",
-    "When a passing tanker rescued them five days later, both men were genuinely sorry that they had to leave . §",
-    "His eyes lit up with laughter. 他笑得两眼放光。",
-    "Her face lit up with pleasure.她高兴得容光焕发。",
-    "pounce (on sth) vi. 猛扑 The lion crouched ready to pounce. The hawk pounced on its prey.",
-    "plunge (into sth) vi.（猛的）跳下去、坠落 The order to abandon ship was given and hundreds of people plunged into the icy water.",
-    "charge (at sth) vi.猛冲 Bruce charged at it, but in the middle, the car came to a grinding halt. NCE3-39",
-    "delighted / delightedly 感到高兴的（地） delightful / delightfully 令人高兴的（地）",
-    "Robert was delighted to see me and equally pleased with my little gift . My wife was delighted that things had returned to normal once more . Indeed they can have a delightful surprise when they find something useful which they did not know they owned. NCE3-59 The old view of Galileo was delightfully uncomplicated. NCE4-32"
+   "parts": [
+    {
+     "text": "'Have you anything to declare? he asked, looking me in the eye. look sb in the eye(s) / face to look straight at sb without feeling embarrassed or ashamed 直视(不礼貌) ‘No,’ I answered confidently. 'Would you mind unlocking this suitcase please?' Do you mind if I smoke here? I'm afraid this is a non-smoking office. The Officer went through the case with great care . with great care 名词有更多的限定(更庄严正式) = very carefully All the things I had packed so carefully were soon in a dreadful mess. things［pl.］personal belongings 私人财物 I felt sure I would never be able to close the case again . 形容词补足语从句 Suddenly, I saw the Officer's face light up. light up if someone's face or eyes light up, they show pleasure, excitement etc. （因喜悦、兴奋等脸上或眼中）露出光彩 He had spotted a tiny bottle at the bottom of my case and he pounced on it with delight."
+    },
+    {
+     "text": "Can you look me in the eye and tell me you're not lying? 直视我并告诉我没有撒谎"
+    },
+    {
+     "text": "I'll never be able to look her in the face again! 没脸见她"
+    },
+    {
+     "text": "confidently → with confidence 名词更庄严"
+    },
+    {
+     "table": {
+      "headers": [
+       "Would you mind",
+       "回答方式"
+      ],
+      "rows": [
+       [
+        "would / do you mind doing 请求对方做某事",
+        "Would you mind waiting outside?"
+       ],
+       [
+        "would / do you mind my / our doing 请求对方允许自己做某事",
+        "'Would you mind my coming with you?' he asked, before I had finished speaking . Would you mind my smoking here?"
+       ],
+       [
+        "do you mind if（真实语气：一般现在时）",
+        "Do you mind if I smoke here?"
+       ],
+       [
+        "would you mind if（虚拟语气：一般过去时）",
+        "Would you mind if I smoked here?"
+       ],
+       [
+        "No, not at all. 不介意 Not at all. Certainly not. Of course not. No, that's quite all right. Not at all, I'd be happy / glad to. Go ahead. 请便",
+        "I wish you wouldn't. You'd better not. I'm sorry, but ... I'm afraid ..."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "He had spotted a tiny bottle at the bottom of my case and he pounced on it with delight (= delightedly)."
+    },
+    {
+     "text": "Then I added with a smile (=smilingly)."
+    },
+    {
+     "text": "'No', I answered confidently (= with confidence)."
+    },
+    {
+     "text": "His few material possessions make it possible for him to move from place to place with ease (=easily) ."
+    },
+    {
+     "text": "She faced the difficulty with calmness (=calmly)."
+    },
+    {
+     "text": "I looked at her with curiosity (=curiously)."
+    },
+    {
+     "text": "She spoke to me with tenderness (=tenderly)."
+    },
+    {
+     "text": "I greeted Philip with enthusiasm (=enthusiastically)."
+    },
+    {
+     "text": "The gang picked their victims at random (=randomly). 介词会变"
+    },
+    {
+     "text": "I met an old friend in town by accident (=accidentally).不全都是with"
+    },
+    {
+     "text": "The negotiations were conducted in secret (=secretly)."
+    },
+    {
+     "text": "It's unprofessional to criticize your colleagues in public (publicly)."
+    },
+    {
+     "text": "The chest contained the personal belongings of a seaman, Alan Fielding. NCE3-32"
+    },
+    {
+     "table": {
+      "headers": [
+       "pack v.打包",
+       "unpack v.拆包、解包"
+      ],
+      "rows": [
+       [
+        "Kelly packed her things before dinner. 打包 私人财物 He was still packing his suitcase when the taxi came. 打包进箱子"
+       ],
+       [
+        "He told me to unpack my things and then come down to dinner . I unpacked my bags as soon as I arrived."
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "in a mess 乱糟糟，一团糟",
+       "in (a state of) disorder 处于(混乱的)状态",
+       "in (a state of) chaos 大规模的混乱"
+      ],
+      "rows": [
+       [
+        "in a dreadful / a terrible / an awful / an appalling mess Jem's house is always in an awful mess."
+       ],
+       [
+        "Everything was in disorder, but nothing seemed to be missing. The whole office was in a state of disorder."
+       ],
+       [
+        "The kitchen was in chaos. Without it, nothing could ever be brought to a conclusion;everything would be in a state of chaos."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "I'm glad the bell is working again ."
+    },
+    {
+     "text": "'It's working all right, but I'm afraid that at one o'clock it will strike thirteen times and there's nothing I can do about it .'"
+    },
+    {
+     "text": "When a passing tanker rescued them five days later, both men were genuinely sorry that they had to leave . §"
+    },
+    {
+     "text": "His eyes lit up with laughter. 他笑得两眼放光。"
+    },
+    {
+     "text": "Her face lit up with pleasure.她高兴得容光焕发。"
+    },
+    {
+     "table": {
+      "headers": [
+       "pounce (on sth) vi. 猛扑",
+       "plunge (into sth) vi.（猛的）跳下去、坠落",
+       "charge (at sth) vi.猛冲"
+      ],
+      "rows": [
+       [
+        "The lion crouched ready to pounce. The hawk pounced on its prey."
+       ],
+       [
+        "The order to abandon ship was given and hundreds of people plunged into the icy water."
+       ],
+       [
+        "Bruce charged at it, but in the middle, the car came to a grinding halt. NCE3-39"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "delighted / delightedly 感到高兴的（地）",
+       "delightful / delightfully 令人高兴的（地）"
+      ],
+      "rows": [
+       [
+        "Robert was delighted to see me and equally pleased with my little gift . My wife was delighted that things had returned to normal once more .",
+        "Indeed they can have a delightful surprise when they find something useful which they did not know they owned. NCE3-59 The old view of Galileo was delightfully uncomplicated. NCE4-32"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "揭露现实情况（带着趣味与幽默）",
-   "lines": [
-    "'Perfume, eh?' he asked sarcastically. eh interj. used for asking someone to agree with you. ‘You should have declared that. should / ought to have done 应该做却没做(责备语气) Perfume is not exempt from import duty.’ be exempt from sth. 免于、免除 'But it isn't perfume,’ I said. 'It's hair gel.’ hair gel a thick liquid substance which is put in the hair to help the hair keep a particular shape or style. Then I added with a smile, 'It's a strange mixture I make myself.’ add v. 补充说、接着说 to say more about something that has just been said. do sth with a smile / laugh / sneer / shock / sigh / start ... 带着...做某事 oneself 与 by oneself作状语时的区别 As I expected , he did not believe me. AS引导的非限制性定语从句 （唯一可放首句的） \" Try it!' I said encouragingly. try it 试一下 The Officer unscrewed the cap and put the bottle to his nostrils. He was greeted by an unpleasant smell which convinced him that I was telling the truth . be greeted by...（of sights,sounds or smells) to be the first thing that you see, hear or smell at a particular time 首先看到的、听到的、闻到的是⋯⋯ tell the truth 说实话 A few minutes later, I was able to hurry away with precious chalk marks (being) on my baggage. 独立主格 hurry v. 匆忙，急忙；催促",
-    "Pretty good, eh?",
-    "sarcastically adj.讽刺地；挖苦地 ironically 写作替换 'Perfume, eh?' he asked ironically.",
-    "with (heavy) sarcasm. 'Perfume, eh?' he asked with (heavy) sarcasm.",
-    "with (heavy) irony. 'Perfume, eh?' he asked with (heavy) irony.",
-    "He should have known that the police would never allow this sort of thing .",
-    "A policeman approached Jimmy and told him he ought to have gone along a side street as Jumbo was holding up the traffic. 责备",
-    "How I regretted the hours wasted in the woods and fields, the days when I had played and should have studied. 自责",
-    "Children are exempt from the charges. 儿童免费(票)",
-    "Currently, developing nations are exempt from certain restrictions on carbon emissions. 免除",
-    "import duty 进口税 Can you help calculate our import duty? 你能帮我们算一下进口税吗？",
-    "customs duty 关税 No Customs duty should be imposed on domestic value added. 没有关税应该增加国内增值税。",
-    "tariff 关税，关税表 These days, it is differences in national regulations, far more than tariffs, that put sand in the wheels of trade between rich countries. NCE4-8",
-    "income / property / sales / inheritance tax 生活中的税 I wouldn't be in favour of income tax cuts. 我不会支持削减所得税。",
-    "I have nothing to add to my earlier statement.",
-    "He added that a student had dressed up as a policeman and was playing all sorts of silly jokes on people. NCE3-40 add that + 从句",
-    "'Oh, that,' he said with a smile as if he were talking about an old friend.",
-    "Looking round, I realized with a shock that I was the only passenger left on the bus .",
-    "'Oh, is it?' said the sheriff with a sneer .",
-    "One night, however, our vicar woke up with a start: the clock was striking the hours !",
-    "She slowly sat down with a sigh and closed her eyes. 一边叹气、一边...",
-    "oneself 强调“亲自”，并非他人代劳 Lesson 46 Do it yourself DIY would not hear of the suggestion and said that I would fix it myself. NCE3-46",
-    "by oneself = alone 强调“独自“，没有他人陪伴或帮助 They are living by themselves (=alone). One can't play tennis by oneself (=alone).",
-    "As I soon learnt , he was English himself!",
-    "Anyway, as Brian pointed out , it is the easiest thing in the world to give up smoking.",
-    "Things can go wrong on a big scale, as a number of people recently discovered in Parramatta, a suburb of Sydney . NCE3-33",
-    "try it give it a try.",
-    "give it a shot,",
-    "have a try.",
-    "screw v.拧上 n.螺丝 unscrew v.拧下、拧松",
-    "screw a bulb in 把灯泡拧进去（安装灯泡） screw a screw in 把螺丝拧进去(打螺丝) unscrew a screw （out） 拆螺丝 She unscrewed the cap of her water bottle and gave him a drink.",
-    "I woke up and was greeted by bird song.",
-    "When she opened the door she was greeted by complete disorder.",
-    "convince sb. of sth. 使某人相信某事 Thomas, she sensed, could convince anyone of anything. 她觉得，托马斯能说服任何人相信任何事。",
-    "convince sb. that ... The experts were now fully convinced that the animal was a puma, but where had it come from ？",
-    "tell a lie / story / joke ...",
-    "She hurried away in the opposite direction. 匆忙离开",
-    "He hurried forward to meet him. 匆忙向前",
-    "We hurried upstairs to see what was going on.匆忙上楼",
-    "With this, he hurried off the stage . hurry + 介词短语",
-    "She hurried down the corridor as fast as she could. 匆忙沿走廊下去",
-    "More than 100 men hurried to the scene to donate their blood. 匆忙赶到现场"
+   "parts": [
+    {
+     "text": "'Perfume, eh?' he asked sarcastically. eh interj. used for asking someone to agree with you. ‘You should have declared that. should / ought to have done 应该做却没做(责备语气) Perfume is not exempt from import duty.’ be exempt from sth. 免于、免除 'But it isn't perfume,’ I said. 'It's hair gel.’ hair gel a thick liquid substance which is put in the hair to help the hair keep a particular shape or style. Then I added with a smile, 'It's a strange mixture I make myself.’ add v. 补充说、接着说 to say more about something that has just been said. do sth with a smile / laugh / sneer / shock / sigh / start ... 带着...做某事 oneself 与 by oneself作状语时的区别 As I expected , he did not believe me. AS引导的非限制性定语从句 （唯一可放首句的） \" Try it!' I said encouragingly. try it 试一下 The Officer unscrewed the cap and put the bottle to his nostrils. He was greeted by an unpleasant smell which convinced him that I was telling the truth . be greeted by...（of sights,sounds or smells) to be the first thing that you see, hear or smell at a particular time 首先看到的、听到的、闻到的是⋯⋯ tell the truth 说实话 A few minutes later, I was able to hurry away with precious chalk marks (being) on my baggage. 独立主格 hurry v. 匆忙，急忙；催促"
+    },
+    {
+     "text": "Pretty good, eh?"
+    },
+    {
+     "table": {
+      "headers": [
+       "sarcastically adj.讽刺地；挖苦地"
+      ],
+      "rows": [
+       [
+        "ironically 写作替换",
+        "'Perfume, eh?' he asked ironically."
+       ],
+       [
+        "with (heavy) sarcasm.",
+        "'Perfume, eh?' he asked with (heavy) sarcasm."
+       ],
+       [
+        "with (heavy) irony.",
+        "'Perfume, eh?' he asked with (heavy) irony."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "He should have known that the police would never allow this sort of thing ."
+    },
+    {
+     "text": "A policeman approached Jimmy and told him he ought to have gone along a side street as Jumbo was holding up the traffic. 责备"
+    },
+    {
+     "text": "How I regretted the hours wasted in the woods and fields, the days when I had played and should have studied. 自责"
+    },
+    {
+     "text": "Children are exempt from the charges. 儿童免费(票)"
+    },
+    {
+     "text": "Currently, developing nations are exempt from certain restrictions on carbon emissions. 免除"
+    },
+    {
+     "table": {
+      "headers": [
+       "import duty 进口税",
+       "customs duty 关税",
+       "tariff 关税，关税表",
+       "income / property / sales / inheritance tax 生活中的税"
+      ],
+      "rows": [
+       [
+        "Can you help calculate our import duty? 你能帮我们算一下进口税吗？"
+       ],
+       [
+        "No Customs duty should be imposed on domestic value added. 没有关税应该增加国内增值税。"
+       ],
+       [
+        "These days, it is differences in national regulations, far more than tariffs, that put sand in the wheels of trade between rich countries. NCE4-8"
+       ],
+       [
+        "I wouldn't be in favour of income tax cuts. 我不会支持削减所得税。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "I have nothing to add to my earlier statement."
+    },
+    {
+     "text": "He added that a student had dressed up as a policeman and was playing all sorts of silly jokes on people. NCE3-40 add that + 从句"
+    },
+    {
+     "text": "'Oh, that,' he said with a smile as if he were talking about an old friend."
+    },
+    {
+     "text": "Looking round, I realized with a shock that I was the only passenger left on the bus ."
+    },
+    {
+     "text": "'Oh, is it?' said the sheriff with a sneer ."
+    },
+    {
+     "text": "One night, however, our vicar woke up with a start: the clock was striking the hours !"
+    },
+    {
+     "text": "She slowly sat down with a sigh and closed her eyes. 一边叹气、一边..."
+    },
+    {
+     "table": {
+      "headers": [
+       "oneself 强调“亲自”，并非他人代劳",
+       "by oneself = alone 强调“独自“，没有他人陪伴或帮助"
+      ],
+      "rows": [
+       [
+        "Lesson 46 Do it yourself DIY would not hear of the suggestion and said that I would fix it myself. NCE3-46"
+       ],
+       [
+        "They are living by themselves (=alone). One can't play tennis by oneself (=alone)."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "As I soon learnt , he was English himself!"
+    },
+    {
+     "text": "Anyway, as Brian pointed out , it is the easiest thing in the world to give up smoking."
+    },
+    {
+     "text": "Things can go wrong on a big scale, as a number of people recently discovered in Parramatta, a suburb of Sydney . NCE3-33"
+    },
+    {
+     "text": "try it give it a try."
+    },
+    {
+     "text": "give it a shot,"
+    },
+    {
+     "text": "have a try."
+    },
+    {
+     "table": {
+      "headers": [
+       "screw v.拧上 n.螺丝",
+       "unscrew v.拧下、拧松"
+      ],
+      "rows": [
+       [
+        "screw a bulb in 把灯泡拧进去（安装灯泡） screw a screw in 把螺丝拧进去(打螺丝)",
+        "unscrew a screw （out） 拆螺丝 She unscrewed the cap of her water bottle and gave him a drink."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "I woke up and was greeted by bird song."
+    },
+    {
+     "text": "When she opened the door she was greeted by complete disorder."
+    },
+    {
+     "table": {
+      "headers": [
+       "convince sb. of sth. 使某人相信某事",
+       "convince sb. that ..."
+      ],
+      "rows": [
+       [
+        "Thomas, she sensed, could convince anyone of anything. 她觉得，托马斯能说服任何人相信任何事。"
+       ],
+       [
+        "The experts were now fully convinced that the animal was a puma, but where had it come from ？"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "tell a lie / story / joke ..."
+    },
+    {
+     "text": "She hurried away in the opposite direction. 匆忙离开"
+    },
+    {
+     "text": "He hurried forward to meet him. 匆忙向前"
+    },
+    {
+     "text": "We hurried upstairs to see what was going on.匆忙上楼"
+    },
+    {
+     "text": "With this, he hurried off the stage . hurry + 介词短语"
+    },
+    {
+     "text": "She hurried down the corridor as fast as she could. 匆忙沿走廊下去"
+    },
+    {
+     "text": "More than 100 men hurried to the scene to donate their blood. 匆忙赶到现场"
+    }
    ]
   }
  ]

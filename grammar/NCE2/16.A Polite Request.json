@@ -2,60 +2,280 @@
  "grammar": [
   {
    "title": "条件句（Conditional sentences）",
-   "lines": [
-    "状语从句 § If 条件状语从句 (If + 从句，主句) * 真实条件句/虚拟条件句 英文里的特殊规则在 真实条件句 里，要 假设将来 ，还是得需要使用 (从句)一般现在时 + (主句)一般将来时。 规律总结：If 假设过去使用过去时，假设现在使用现在时，假设将来也是使用的现在时，但主句要成立则全部为相应的将来时。 误解“主将从现”，即遇到条件句主句为一般将来时，从句使用一般现在时只是大多数的情况，并不是绝对的情况。要根据上下文灵活使用。 不规则动词的变化",
-    "状语从句（Adverbial Clauses）是一种用来修饰主句的从句， 以一个句子做状语，表达描述性信息 。它提供了关于时间、地点、原因、条件、目的、方式等方面的 描述 信息，以增加句子的复杂性和详细性。",
-    "类型 引导词 示例",
-    "时间状语从句 when ; while ; since ; as ; before ; till ; until ; as soon as … I will call you when I get home.",
-    "地点状语从句 where ; Wherever Where you find water, you can find life. Wherever you go, I will follow you.",
-    "原因状语从句 beacause ; since ; as ; for … He didn't come to the party because he was feeling sick.",
-    "条件状语从句 if;unless If it rains tomorrow, we will stay at home.主将从现",
-    "目的状语从句 so that … ; in order that … She took extra lessons so that she could improve her English.",
-    "方式状语从句 like ; as ; as if… He speaks as if he knows everything. 天上知道完，地下知一半",
-    "结果状语从句 so/such … that … ; so that … (所以) The one with the money got such a fright that he dropped the bag .",
-    "比较状语从句 than ; as People are not so honest as they once were.",
-    "让步状语从句 though ; although ; even though ; even if … for even though it was still summer, it rained continually and it was often bitterly cold .",
-    "这些副词引导的从句可以在主句之前、之后或中间出现，具体位置取决于句子结构和所要表达的含义。",
-    "If + 从句 如果 A从句 主句 那么 就B主句",
-    "If he is sleeping,从句：如果他在在睡觉， don't wake him up. 主句：不要叫醒他",
-    "if you don't hurry(条件,你再不快点的情况下). You will miss the train(主句,你将会错过火车),",
-    "You can post these letters if you want to. 主句、从句位置可以互换 If it’s fine tomorrow, we can/may go out. 从句 + 主句 Please let me know if you cant’t come. 主句 + 从句",
-    "if 引导的条件从句指能够发生、可能发生或可能发生过的事件。如果认为将来的事件很可能会发生(真实条件句)， 那么 if 从句中要用一般现在时（有时也用其他形式的现在时），主句中用 will（或 shall）加动词形式或其他形式的将来时。",
-    "条件句的主句中的 will 表示肯定如此或几乎可以肯定会如此。如果觉得其“肯定”程度达不到使用 will 的程度，或者如果想表达建议等其他意思，就可以用别的情态助动词来代替 will；条件句中的主句还可以用祈使语气等表示请求、建议等。",
-    "格式 真实条件句 虚拟条件句",
-    "形式 零条件句 If +从句 (现在时)，主句(现在时) 二型条件句 If + 从句 (过去时)，主句 would/could/might + 动词原形",
-    "说明 表达普遍真理或事实 表达与事实相反的情况或不太可能发生的情况",
-    "关键字 always, usually, often, sometimes, if if, wish, were, had",
-    "例句 If it rains , the ground gets wet. If I had a million dollars, I would travel the world .",
-    "形式 一般条件句 If + 从句 (现在时)，主句(将来时) 三型条件句 If + 从句 (过去完成时)，主句 would/could/might + have + 过去分词",
-    "说明 表达可能发生的情况 表达对过去事件的遗憾、虚拟的情况以及无法改变的事实",
-    "关键字 when, unless should, could, might",
-    "例句 If it rains tomorrow, I will stay at home. If I had studied harder, I would have passed the exam.",
-    "形式 混合条件句 If + 从句 (过去完成时)，主句 would/could/might + 动词原形",
-    "说明 表达对过去事件的影响在现在的结果。",
-    "关键字 should, could, might",
-    "例句 If it hadn't rained , we would be having a picnic now.",
-    "一般现在时 一般将来时",
-    "If he is out,假设现在， If he is working, I will call him tomorrow.描述将来 I won't disturb him.",
-    "we will stay at home. ✓ 描述将来 If it rains tomorrow,假设将来",
-    "If it will rain tomorrow, we will stay at home. X 真实条件句假设将来描述将来，主将从现",
-    "一般过去时 过去将来时",
-    "If tall chimneys were built above sea level § ,假设过去 the tunnel would be well-ventilated.描述过去将来",
-    "真实条件句 IF从句 主句 使用率",
-    "假设过去 过去的各种时态 过去将来时 5%",
-    "假设现在 现在的各种时态 一般将来时 5%",
-    "假设将来 一般现在时(替代将来) 90%",
-    "I shall see him, if he is here next week. 主将从现",
-    "If he plays well, he will get into the school team.主将从现",
-    "If they have time the day after tomorrow, they will fly to London to have a meeting with us.主将从现",
-    "If you make a mistake, correct it. 祈使句",
-    "If you like him, you may tell him. 情态动词",
-    "If she enjoys concerts, why do es n't she come with us? 疑问句",
-    "顺序问题：If 引导的是条件从句，要实现的是主句，所以不管是If在句首还是句中，它总是引导的是从句。",
-    "If you park your car in the wrong place, a traffic policeman will soon find it. 如果你把车停在错误的地方，交通警察不久将会找到它。",
-    "A traffic policeman will soon find it , if you park your car in the wrong place . 【倒着翻译】",
-    "原型 过去式 过去分词 现在分词",
-    "let let let letting"
+   "parts": [
+    {
+     "text": "状语从句 § If 条件状语从句 (If + 从句，主句) * 真实条件句/虚拟条件句 英文里的特殊规则在 真实条件句 里，要 假设将来 ，还是得需要使用 (从句)一般现在时 + (主句)一般将来时。 规律总结：If 假设过去使用过去时，假设现在使用现在时，假设将来也是使用的现在时，但主句要成立则全部为相应的将来时。 误解“主将从现”，即遇到条件句主句为一般将来时，从句使用一般现在时只是大多数的情况，并不是绝对的情况。要根据上下文灵活使用。 不规则动词的变化"
+    },
+    {
+     "text": "状语从句（Adverbial Clauses）是一种用来修饰主句的从句， 以一个句子做状语，表达描述性信息 。它提供了关于时间、地点、原因、条件、目的、方式等方面的 描述 信息，以增加句子的复杂性和详细性。"
+    },
+    {
+     "table": {
+      "headers": [
+       "类型",
+       "引导词",
+       "示例"
+      ],
+      "rows": [
+       [
+        "时间状语从句",
+        "when ; while ; since ; as ; before ; till ; until ; as soon as …",
+        "I will call you when I get home."
+       ],
+       [
+        "地点状语从句",
+        "where ; Wherever",
+        "Where you find water, you can find life. Wherever you go, I will follow you."
+       ],
+       [
+        "原因状语从句",
+        "beacause ; since ; as ; for …",
+        "He didn't come to the party because he was feeling sick."
+       ],
+       [
+        "条件状语从句",
+        "if;unless",
+        "If it rains tomorrow, we will stay at home.主将从现"
+       ],
+       [
+        "目的状语从句",
+        "so that … ; in order that …",
+        "She took extra lessons so that she could improve her English."
+       ],
+       [
+        "方式状语从句",
+        "like ; as ; as if…",
+        "He speaks as if he knows everything. 天上知道完，地下知一半"
+       ],
+       [
+        "结果状语从句",
+        "so/such … that … ; so that … (所以)",
+        "The one with the money got such a fright that he dropped the bag ."
+       ],
+       [
+        "比较状语从句",
+        "than ; as",
+        "People are not so honest as they once were."
+       ],
+       [
+        "让步状语从句",
+        "though ; although ; even though ; even if …",
+        "for even though it was still summer, it rained continually and it was often bitterly cold ."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "这些副词引导的从句可以在主句之前、之后或中间出现，具体位置取决于句子结构和所要表达的含义。"
+    },
+    {
+     "table": {
+      "headers": [
+       "If + 从句 如果 A从句",
+       "主句 那么 就B主句"
+      ],
+      "rows": [
+       [
+        "If he is sleeping,从句：如果他在在睡觉，",
+        "don't wake him up. 主句：不要叫醒他"
+       ],
+       [
+        "if you don't hurry(条件,你再不快点的情况下).",
+        "You will miss the train(主句,你将会错过火车),"
+       ],
+       [
+        "You can post these letters if you want to. 主句、从句位置可以互换 If it’s fine tomorrow, we can/may go out. 从句 + 主句 Please let me know if you cant’t come. 主句 + 从句"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "if 引导的条件从句指能够发生、可能发生或可能发生过的事件。如果认为将来的事件很可能会发生(真实条件句)， 那么 if 从句中要用一般现在时（有时也用其他形式的现在时），主句中用 will（或 shall）加动词形式或其他形式的将来时。"
+    },
+    {
+     "text": "条件句的主句中的 will 表示肯定如此或几乎可以肯定会如此。如果觉得其“肯定”程度达不到使用 will 的程度，或者如果想表达建议等其他意思，就可以用别的情态助动词来代替 will；条件句中的主句还可以用祈使语气等表示请求、建议等。"
+    },
+    {
+     "table": {
+      "headers": [
+       "格式",
+       "真实条件句",
+       "虚拟条件句"
+      ],
+      "rows": [
+       [
+        "形式",
+        "零条件句",
+        "If +从句 (现在时)，主句(现在时)",
+        "二型条件句",
+        "If + 从句 (过去时)，主句 would/could/might + 动词原形"
+       ],
+       [
+        "说明",
+        "表达普遍真理或事实",
+        "表达与事实相反的情况或不太可能发生的情况"
+       ],
+       [
+        "关键字",
+        "always, usually, often, sometimes, if",
+        "if, wish, were, had"
+       ],
+       [
+        "例句",
+        "If it rains , the ground gets wet.",
+        "If I had a million dollars, I would travel the world ."
+       ],
+       [
+        "形式",
+        "一般条件句",
+        "If + 从句 (现在时)，主句(将来时)",
+        "三型条件句",
+        "If + 从句 (过去完成时)，主句 would/could/might + have + 过去分词"
+       ],
+       [
+        "说明",
+        "表达可能发生的情况",
+        "表达对过去事件的遗憾、虚拟的情况以及无法改变的事实"
+       ],
+       [
+        "关键字",
+        "when, unless",
+        "should, could, might"
+       ],
+       [
+        "例句",
+        "If it rains tomorrow, I will stay at home.",
+        "If I had studied harder, I would have passed the exam."
+       ],
+       [
+        "形式",
+        "混合条件句",
+        "If + 从句 (过去完成时)，主句 would/could/might + 动词原形"
+       ],
+       [
+        "说明",
+        "表达对过去事件的影响在现在的结果。"
+       ],
+       [
+        "关键字",
+        "should, could, might"
+       ],
+       [
+        "例句",
+        "If it hadn't rained , we would be having a picnic now."
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "一般现在时",
+       "一般将来时"
+      ],
+      "rows": [
+       [
+        "If he is out,假设现在， If he is working,",
+        "I will call him tomorrow.描述将来 I won't disturb him."
+       ],
+       [
+        "we will stay at home. ✓ 描述将来",
+        "If it rains tomorrow,假设将来"
+       ],
+       [
+        "If it will rain tomorrow, we will stay at home. X 真实条件句假设将来描述将来，主将从现"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "一般过去时",
+       "过去将来时"
+      ],
+      "rows": [
+       [
+        "If tall chimneys were built above sea level § ,假设过去",
+        "the tunnel would be well-ventilated.描述过去将来"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "真实条件句",
+       "IF从句",
+       "主句",
+       "使用率"
+      ],
+      "rows": [
+       [
+        "假设过去",
+        "过去的各种时态",
+        "过去将来时",
+        "5%"
+       ],
+       [
+        "假设现在",
+        "现在的各种时态",
+        "一般将来时",
+        "5%"
+       ],
+       [
+        "假设将来",
+        "一般现在时(替代将来)",
+        "90%"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "I shall see him, if he is here next week. 主将从现"
+    },
+    {
+     "text": "If he plays well, he will get into the school team.主将从现"
+    },
+    {
+     "text": "If they have time the day after tomorrow, they will fly to London to have a meeting with us.主将从现"
+    },
+    {
+     "text": "If you make a mistake, correct it. 祈使句"
+    },
+    {
+     "text": "If you like him, you may tell him. 情态动词"
+    },
+    {
+     "text": "If she enjoys concerts, why do es n't she come with us? 疑问句"
+    },
+    {
+     "text": "顺序问题：If 引导的是条件从句，要实现的是主句，所以不管是If在句首还是句中，它总是引导的是从句。"
+    },
+    {
+     "text": "If you park your car in the wrong place, a traffic policeman will soon find it. 如果你把车停在错误的地方，交通警察不久将会找到它。"
+    },
+    {
+     "text": "A traffic policeman will soon find it , if you park your car in the wrong place . 【倒着翻译】"
+    },
+    {
+     "table": {
+      "headers": [
+       "原型",
+       "过去式",
+       "过去分词",
+       "现在分词"
+      ],
+      "rows": [
+       [
+        "let",
+        "let",
+        "let",
+        "letting"
+       ]
+      ]
+     }
+    }
    ]
   }
  ]

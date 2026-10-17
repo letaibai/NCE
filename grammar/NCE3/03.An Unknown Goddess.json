@@ -2,81 +2,360 @@
  "grammar": [
   {
    "title": "层层深入，迫近主 题（古城一庙宇一殿堂一神像）",
-   "lines": [
-    "The temple which the archaeologists explored was used as a place of worship from the fifteenth century B.C. until Roman times. in times of ... 在…时期；在…时候；在…情况下 In the most sacred room of the temple, clay fragments of fifteen statues were found . statue /ˈstæ tʃ uː/ n.雕像 Each of these represented a goddess and had , at one time, been painted . The body of one statue was found among remains dating from the fifteenth century B.C. Its missing head happened to be among remains of the fifth century B.C.",
-    "be used as § ... 被用作：作为某种用途或功能的使用对象。 act / serve / function as ... （主动）",
-    "The wooden box is used as a seat. Art may be used as a vehicle for propaganda.艺术可以用作宣传的工具。 The wooden box act s / serve s / function s as a seat. She serve s as an impressive reminder of the great ships of the past. NCE3-25",
-    "In times of peace, when business was bad, Hawkwood and his men would march into a citystate ... NCE3-14 (in times of peace / war)",
-    "times 次数 many \\ three \\ several times I've been there several times. 我到那儿去过过好几次",
-    "乘以 Four times six \\ 3 times 3 4 times 6 is 24. 4乘以6等于24。",
-    "时代 in modern / recent / ancient / prehistoric times The situation is unprecedented in modern times. 这种情况在现代还没有出现过。",
-    "age 年代、时代，时期 the Ice \\ Stone \\ modern \\ computer age Some of the rings go back almost ten thousand years to the end of the Ice Age.有些年轮可以追溯到近一万年前的冰河时代末期。",
-    "年龄，年纪；寿命 at the age of 在…岁时 At the age of five he showed exceptional talent as a musician. 他五岁时就表现出非凡的音乐才能。",
-    "era 时代，年代，纪元 the steam-engine era 蒸汽机时代 His death marked the end of an era. 他的去世标志着一个时代的结束（mark the end of an era） It marked the end of the great tradition of ships with sails and the beginning of a new era. NCE3-25 (mark the beginning of a new era)",
-    "t + j = tʃ don' t y ou; won' t y ou; las t y ear; si tu ation",
-    "d + j = dʒ di d y ou; woul d y ou; gra du ate; cre du lous",
-    "s + j = ʃ thi s y ear;Ble ss y ou;I promi s e y ou",
-    "z + j = ʒ May I u se y our book? How' s y our father?",
-    "represent v. 代表；为…代言（辩护） stand for 代表、支持，拥护、忍受，容忍",
-    "A lawyer was appointed to represent the child.一位律师被指定为这个孩子的代表律师。 Honey, this gold ring stands for / represents my love for you.",
-    "on behalf of sb. 代表某人、公司等 on one's behalf 代表某人；为某人行事或发言",
-    "On behalf of the entire company, I would like to thank you for all your work. Unfortunately, George cannot be with us today so I am pleased to accept this award on his behalf.",
-    "date from ... (主动)追溯、从某个时候就有了... The prosperity of the Silk Road dates from / dates back to / can be traced back to the distant Han Dynasty.",
-    "date back to ...(主动)追溯到...起源或制作时间 The tradition could date back to 300 BC. 这一传统可追溯到公元前300年。",
-    "can be traced back to ...(被动)可以追溯到... Tea-drinking in China can be traced back to the Zhou Dynasty.在中国，饮茶可以追溯到周朝。",
-    "happen + to do 碰巧做某事 We happened to take the same train.",
-    "+ that + 从句 It happened that we took the same train.",
-    "sth. happen to sb . 某事情发生在某人身上 A car accident happened to him.",
-    "chance 写作替换 + to do 碰巧做某事 We chanced to take the same train.",
-    "+ that + 从句 It chanced that we took the same train.",
-    "by chance 碰巧地、偶然地 We took the same train by chance / by accident / accidentally.",
-    "by accident 偶然地、意外地",
-    "accidentally adv.意外地，偶然地； 意外失误地",
-    "as it happen (习语)碰巧 As it happened, we took the same train.",
-    "as luck would have it (口语)碰巧；真幸运 As luck would have it, we took the same train.",
-    "W: You do look cold. What happened?",
-    "M: I've been standing outside in Arctic temperatures for over an hour waiting for a bus.",
-    "W: Over an hour, but I thought your apartment was only a ten-minute bus ride to campus.",
-    "M: Under normal conditions, but the bus was delayed because of the weather and when I stepped into a drugstore to call home for a ride, the bus went by. As luck would have it, there was no one at home, so l had to wait another forty five minutes for the next bus.",
-    "W:That's Murphy's law, isn't it. What was it said \"If anything can go wrong, it will.\" Well, we still get twenty minutes to gather our wits together."
+   "parts": [
+    {
+     "text": "The temple which the archaeologists explored was used as a place of worship from the fifteenth century B.C. until Roman times. in times of ... 在…时期；在…时候；在…情况下 In the most sacred room of the temple, clay fragments of fifteen statues were found . statue /ˈstæ tʃ uː/ n.雕像 Each of these represented a goddess and had , at one time, been painted . The body of one statue was found among remains dating from the fifteenth century B.C. Its missing head happened to be among remains of the fifth century B.C."
+    },
+    {
+     "table": {
+      "headers": [
+       "be used as § ... 被用作：作为某种用途或功能的使用对象。",
+       "act / serve / function as ... （主动）"
+      ],
+      "rows": [
+       [
+        "The wooden box is used as a seat. Art may be used as a vehicle for propaganda.艺术可以用作宣传的工具。",
+        "The wooden box act s / serve s / function s as a seat. She serve s as an impressive reminder of the great ships of the past. NCE3-25"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "In times of peace, when business was bad, Hawkwood and his men would march into a citystate ... NCE3-14 (in times of peace / war)"
+    },
+    {
+     "table": {
+      "headers": [
+       "times",
+       "age",
+       "era"
+      ],
+      "rows": [
+       [
+        "次数",
+        "many \\ three \\ several times",
+        "I've been there several times. 我到那儿去过过好几次"
+       ],
+       [
+        "乘以",
+        "Four times six \\ 3 times 3",
+        "4 times 6 is 24. 4乘以6等于24。"
+       ],
+       [
+        "时代",
+        "in modern / recent / ancient / prehistoric times",
+        "The situation is unprecedented in modern times. 这种情况在现代还没有出现过。"
+       ],
+       [
+        "年代、时代，时期",
+        "the Ice \\ Stone \\ modern \\ computer age",
+        "Some of the rings go back almost ten thousand years to the end of the Ice Age.有些年轮可以追溯到近一万年前的冰河时代末期。"
+       ],
+       [
+        "年龄，年纪；寿命",
+        "at the age of 在…岁时",
+        "At the age of five he showed exceptional talent as a musician. 他五岁时就表现出非凡的音乐才能。"
+       ],
+       [
+        "时代，年代，纪元",
+        "the steam-engine era 蒸汽机时代",
+        "His death marked the end of an era. 他的去世标志着一个时代的结束（mark the end of an era） It marked the end of the great tradition of ships with sails and the beginning of a new era. NCE3-25 (mark the beginning of a new era)"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "t + j = tʃ",
+       "d + j = dʒ",
+       "s + j = ʃ",
+       "z + j = ʒ"
+      ],
+      "rows": [
+       [
+        "don' t y ou; won' t y ou; las t y ear; si tu ation"
+       ],
+       [
+        "di d y ou; woul d y ou; gra du ate; cre du lous"
+       ],
+       [
+        "thi s y ear;Ble ss y ou;I promi s e y ou"
+       ],
+       [
+        "May I u se y our book? How' s y our father?"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "represent v. 代表；为…代言（辩护）",
+       "stand for 代表、支持，拥护、忍受，容忍",
+       "on behalf of sb. 代表某人、公司等",
+       "on one's behalf 代表某人；为某人行事或发言"
+      ],
+      "rows": [
+       [
+        "A lawyer was appointed to represent the child.一位律师被指定为这个孩子的代表律师。",
+        "Honey, this gold ring stands for / represents my love for you."
+       ],
+       [
+        "On behalf of the entire company, I would like to thank you for all your work.",
+        "Unfortunately, George cannot be with us today so I am pleased to accept this award on his behalf."
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "date from ... (主动)追溯、从某个时候就有了...",
+       "date back to ...(主动)追溯到...起源或制作时间",
+       "can be traced back to ...(被动)可以追溯到..."
+      ],
+      "rows": [
+       [
+        "The prosperity of the Silk Road dates from / dates back to / can be traced back to the distant Han Dynasty."
+       ],
+       [
+        "The tradition could date back to 300 BC. 这一传统可追溯到公元前300年。"
+       ],
+       [
+        "Tea-drinking in China can be traced back to the Zhou Dynasty.在中国，饮茶可以追溯到周朝。"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "happen",
+       "sth. happen to sb .",
+       "chance 写作替换",
+       "by chance",
+       "by accident",
+       "accidentally",
+       "as it happen",
+       "as luck would have it"
+      ],
+      "rows": [
+       [
+        "+ to do 碰巧做某事",
+        "We happened to take the same train."
+       ],
+       [
+        "+ that + 从句",
+        "It happened that we took the same train."
+       ],
+       [
+        "某事情发生在某人身上",
+        "A car accident happened to him."
+       ],
+       [
+        "+ to do 碰巧做某事",
+        "We chanced to take the same train."
+       ],
+       [
+        "+ that + 从句",
+        "It chanced that we took the same train."
+       ],
+       [
+        "碰巧地、偶然地",
+        "We took the same train by chance / by accident / accidentally."
+       ],
+       [
+        "偶然地、意外地"
+       ],
+       [
+        "adv.意外地，偶然地； 意外失误地"
+       ],
+       [
+        "(习语)碰巧",
+        "As it happened, we took the same train."
+       ],
+       [
+        "(口语)碰巧；真幸运",
+        "As luck would have it, we took the same train."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "W: You do look cold. What happened?"
+    },
+    {
+     "text": "M: I've been standing outside in Arctic temperatures for over an hour waiting for a bus."
+    },
+    {
+     "text": "W: Over an hour, but I thought your apartment was only a ten-minute bus ride to campus."
+    },
+    {
+     "text": "M: Under normal conditions, but the bus was delayed because of the weather and when I stepped into a drugstore to call home for a ride, the bus went by. As luck would have it, there was no one at home, so l had to wait another forty five minutes for the next bus."
+    },
+    {
+     "text": "W:That's Murphy's law, isn't it. What was it said \"If anything can go wrong, it will.\" Well, we still get twenty minutes to gather our wits together."
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "揭示谜底 ，故事高潮（身首异处，摩登女郎）",
-   "lines": [
-    "This head must have been found in Classical times and carefully preserved. It was very old and precious even then. When the archaeologists reconstructed the fragments, they were amazed to find that the goddess turned out to be a very modern-looking woman . turn out to be 竟然是、原来是 adj. + doing 构词法 She stood three feet high and her hands rested on her hips. She was wearing a full-length skirt which swept the ground . She stood three feet high = She is three feet high. 主系表 rested on 依赖于，依靠于 Despite her great age, she was very graceful indeed, but, so far, the archaeologists have been unable to discover her identity. 尾声，意犹未尽（身份未知） 副词 → 连接 引导让步状语从句（使用同位语从句解释说明）",
-    "preserve keep sth. in good condition preserve one's eyesight / food",
-    "conserve keep sth. in a certain quantity from decreasing. conserve wildlife / resources",
-    "reserve Reserved sth. for future use Reserve your energy for the climb tomorrow. I reserve the right to disagree. 我保留不同意的权利。 reserve a table for 2 预定 reserve a table for dinner",
-    "preci ous nerv ous anxi ous delici ous",
-    "Eric's girlfriend turned out to be his half-sister.",
-    "And it turns out he's a classmate of Philip's.",
-    "No one could have foreseen things would turn out this way. 没人能预料到事情会变成这样。",
-    "amaze v.使惊奇，使惊愕 Your progress will amaze everyone. 你的进步会让每个人吃惊。",
-    "astound vt.使惊骇，使震惊 The police were astounded when Mrs. Ramsay told them what she had done. NCE3-19",
-    "surprise v.使（某人）吃惊；意外发现 So it comes as a surprise to learn that giant fish are terrifying the divers on North Sea oil rigs .",
-    "astonish v.使吃惊，使惊讶 He was astonished at what he found.A man was lying in the box on top of a pile of wooden goods .",
-    "modern-looking Several of the modern-looking buildings turn out to be made of wood, straw and mud.那些现代的建筑物实际是由木头、稻草和泥土建造的。",
-    "nteresting-looking an interesting-looking carved dagger NCE3-34",
-    "good-looking She's strikingly good-looking. 她非常漂亮。",
-    "hard-working Those women are very hard-working .",
-    "easy-going He was easy-going and good-natured. 他随和且脾气好。",
-    "The tower stands 15 meters (high).",
-    "The boy weighs 50 kilos. 主系表",
-    "The carpet measures 5 meters long.",
-    "Her hands rested on her hips.叉腰",
-    "Her face rested on her hands. 托腮",
-    "His head rested on my shoulder.他的头靠在我的肩上。",
-    "He rested on his pickaxe for a while.他在他的镐上倚靠了一会儿。",
-    "让步副词 让步状语从句",
-    "despite though 、even though",
-    "in spite of although",
-    "notwithstanding while",
-    "in spite of the fact that ...",
-    "despite the fact that ...",
-    "Despite the fact that the bottle is tinted a delicate shade of green, an observant visitor would soon notice that it is filled with what looks like a thick, grayish substance. NCE3-52"
+   "parts": [
+    {
+     "text": "This head must have been found in Classical times and carefully preserved. It was very old and precious even then. When the archaeologists reconstructed the fragments, they were amazed to find that the goddess turned out to be a very modern-looking woman . turn out to be 竟然是、原来是 adj. + doing 构词法 She stood three feet high and her hands rested on her hips. She was wearing a full-length skirt which swept the ground . She stood three feet high = She is three feet high. 主系表 rested on 依赖于，依靠于 Despite her great age, she was very graceful indeed, but, so far, the archaeologists have been unable to discover her identity. 尾声，意犹未尽（身份未知） 副词 → 连接 引导让步状语从句（使用同位语从句解释说明）"
+    },
+    {
+     "table": {
+      "headers": [
+       "preserve",
+       "conserve",
+       "reserve"
+      ],
+      "rows": [
+       [
+        "keep sth. in good condition",
+        "preserve one's eyesight / food"
+       ],
+       [
+        "keep sth. in a certain quantity from decreasing.",
+        "conserve wildlife / resources"
+       ],
+       [
+        "Reserved sth. for future use",
+        "Reserve your energy for the climb tomorrow. I reserve the right to disagree. 我保留不同意的权利。 reserve a table for 2 预定 reserve a table for dinner"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [],
+      "rows": [
+       [
+        "preci ous",
+        "nerv ous",
+        "anxi ous",
+        "delici ous"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Eric's girlfriend turned out to be his half-sister."
+    },
+    {
+     "text": "And it turns out he's a classmate of Philip's."
+    },
+    {
+     "text": "No one could have foreseen things would turn out this way. 没人能预料到事情会变成这样。"
+    },
+    {
+     "table": {
+      "headers": [
+       "amaze v.使惊奇，使惊愕",
+       "astound vt.使惊骇，使震惊",
+       "surprise v.使（某人）吃惊；意外发现",
+       "astonish v.使吃惊，使惊讶"
+      ],
+      "rows": [
+       [
+        "Your progress will amaze everyone. 你的进步会让每个人吃惊。"
+       ],
+       [
+        "The police were astounded when Mrs. Ramsay told them what she had done. NCE3-19"
+       ],
+       [
+        "So it comes as a surprise to learn that giant fish are terrifying the divers on North Sea oil rigs ."
+       ],
+       [
+        "He was astonished at what he found.A man was lying in the box on top of a pile of wooden goods ."
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "modern-looking",
+       "nteresting-looking",
+       "good-looking",
+       "hard-working",
+       "easy-going"
+      ],
+      "rows": [
+       [
+        "Several of the modern-looking buildings turn out to be made of wood, straw and mud.那些现代的建筑物实际是由木头、稻草和泥土建造的。"
+       ],
+       [
+        "an interesting-looking carved dagger NCE3-34"
+       ],
+       [
+        "She's strikingly good-looking. 她非常漂亮。"
+       ],
+       [
+        "Those women are very hard-working ."
+       ],
+       [
+        "He was easy-going and good-natured. 他随和且脾气好。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The tower stands 15 meters (high)."
+    },
+    {
+     "text": "The boy weighs 50 kilos. 主系表"
+    },
+    {
+     "text": "The carpet measures 5 meters long."
+    },
+    {
+     "text": "Her hands rested on her hips.叉腰"
+    },
+    {
+     "text": "Her face rested on her hands. 托腮"
+    },
+    {
+     "text": "His head rested on my shoulder.他的头靠在我的肩上。"
+    },
+    {
+     "text": "He rested on his pickaxe for a while.他在他的镐上倚靠了一会儿。"
+    },
+    {
+     "table": {
+      "headers": [
+       "让步副词",
+       "让步状语从句"
+      ],
+      "rows": [
+       [
+        "despite",
+        "though 、even though"
+       ],
+       [
+        "in spite of",
+        "although"
+       ],
+       [
+        "notwithstanding",
+        "while"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "in spite of the fact that ..."
+    },
+    {
+     "text": "despite the fact that ..."
+    },
+    {
+     "text": "Despite the fact that the bottle is tinted a delicate shade of green, an observant visitor would soon notice that it is filled with what looks like a thick, grayish substance. NCE3-52"
+    }
    ]
   }
  ]

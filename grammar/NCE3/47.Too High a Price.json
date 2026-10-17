@@ -2,166 +2,624 @@
  "grammar": [
   {
    "title": "话峰一转",
-   "lines": [
-    "Rubbish, however, is only part of the problem of polluting our planet. part of 之前没有形容词修饰时，通常不加不定冠词 “a” The need to produce ever-increasing quantities of cheap food leads to a different kind of pollution. ever increasing 不断增加 造句：the need to satisfy people’s ever-increasing demands for material and cultural life 满足人们不断增长的物质和文化生活需求的需要 leads to 导致；通向 Industrialized farming methods produce cheap meat products: beef, pork and chicken. farming n.养殖 produce cheap meat products 写作：押韵 The use of pesticides and fertilizers produces cheap grain and vegetables. The use of ...的使用 grain and vegetables 谷物和蔬菜 The price we pay for cheap food may be already too high: Mad Cow Disease (BSE) in cattle, salmonella in chicken and eggs, and listeria in dairy products. … be the price sb. pay for … 某个东西是某人为某事付出的代价 the price sb. pay for ... BSE 疯牛病（bovine spongiform encephalopathy） dairy 奶制品 The price we pay for overpopulation may be already too high: unemployment, pollution of all kinds, and the ever-increasing crime.我们为人口过多付出的代价可能已经太高了：失业现象，各种各样的污染，以及越来越多的犯罪。 And if you think you 'll abandon meat and become a vegetarian , you have the choice of very expensive organically-grown vegetables or a steady diet of pesticides every time you think you 're eating fresh salads and vegetables, or just having an innocent glass of water ! have the choice of A or B 在A和B之间选一个 organically-grown 有机栽培的 steady adj.稳定的，持续的 every time (when) ... （every time可以看作连词，也可以看作名词time做状语加when引导的定语从句）每当 innocent adj. harmless, innocuous 无害的、无毒的 造句: If you think you’ll abandon the car, you have the choice of the extraordinarily slow buses or the over-crowded subway.如果你想放弃开车, 那么你可以两者选一: 或者是慢得出奇的公共汽车,或者是过分拥挤的地铁。",
-    "Justice is part of the complex machinery of the law .",
-    "Part of the building was destroyed in the fire.",
-    "Falling over is part of learning how to ski.",
-    "This idyllic pastoral scene is only part of the picture .",
-    "Memory loss is a normal part of the aging process. 前面有形容词限定时，需要加冠词",
-    "… so vast is the number of planets, that intelligent life is bound to be a natural part of the universe .",
-    "… evidence that steadily accumulates → … the ever-accumulating evidence",
-    "the world that steadily changes → the ever-changing world 不断变化的世界",
-    "the knowledge that steadily grows → the ever-growing knowledge 不断增长的知识",
-    "the economy that steadily develops → the ever-developing economy 不断发展的经济",
-    "the market that steadily expands → the ever-expanding market 不断扩大的市场",
-    "the reform that steadily deepens → the ever-deepening reform 不断深化的改革",
-    "the resources that steadily dwindle → the ever-dwindling resources 日益减少的资源",
-    "Hundreds of steps lead to the high wall which surrounds the president's palace .",
-    "This led to yet another angry argument .",
-    "... that international sporting contests lead to orgies of hatred, one could deduce it from general principles .",
-    "pig farming",
-    "cattle farming",
-    "chicken farming",
-    "poultry farming 家禽养殖",
-    "livestock farming 家畜养殖",
-    "farm v.养殖 farmed fish、farmed shrimp",
-    "assist burglars to burgle",
-    "live a ... life",
-    "sing a song",
-    "breathe one’s last breath",
-    "die a glorious death 死得光荣",
-    "名词 可数 不可数",
-    "chicken 小鸡 鸡肉（ eat chicken）",
-    "lamb 羊羔 羔羊肉",
-    "turkey 火鸡 火鸡肉",
-    "duck 鸭子 鸭子肉",
-    "lobster 龙虾 龙虾肉",
-    "The use of gloves was not introduced until 1860, when the Marquis of Queensberry drew up the first set of rules .",
-    "... and its effects are reinforced by the use of endearing epithets .",
-    "Notices forbidding the open-air drying of clothes, or the use of water points for car washing ...",
-    "Fruit and Vegetables 水果和蔬菜",
-    "Fruits and Vegetables Grain Bread 蔬果谷物面包",
-    "Flower and grain eaten vegetables 花果类",
-    "Pollution is the price we pay for an overpopulated, over-industrialized planet.",
-    "Responsibility is the price every man must pay for freedom.责任是每个人必须为自由付出的代价。",
-    "The precious information came at a price.",
-    "The precious information came at a heavy price..",
-    "She is determined to have a child at any price...",
-    "at the expense of ... 以损害…为代价 Military strength is often achieved at the expense of a country’s economic health. The Roosevelt Administration believed that rebuilding the nation’s soil was in the national interest and was not simply a plan to help farmers at the expense of other citizens.",
-    "AIDS abbr.获得性免疫缺陷综合征，艾滋病（acquired immune deficiency syndrome）",
-    "总体(天生为复数)",
-    "cattle people police",
-    "dairy products",
-    "dairy cattle",
-    "Dairy Queen 奶品皇后（DQ 美国著名的冰淇淋连锁品牌）",
-    "diary 日记 keep a diary",
-    "angle / angel",
-    "altitude / latitude",
-    "aboard / abroad",
-    "When you have the choice of being right or being kind, choose kind.当你可以选择正确或善良的时候，选择善良。",
-    "You have the choice of deciding who you're friends with.你可以选择和谁成为朋友。",
-    "After choosing your filter, you have the choice of adding a caption.选完滤镜之后，你可以选择加上说明文字。",
-    "organically-grown vegetables 有机蔬菜",
-    "organically-grown produce 有机农产品",
-    "environment-friendly 环保的 environment-friendly products",
-    "a steady job / income",
-    "a steady relationship",
-    "a steady boyfriend / girlfriend",
-    "a steady decline / increase",
-    "= whenever ...",
-    "= no matter when ...",
-    "The accused was found innocent. 被告被判定无罪。",
-    "I'm convinced that she's innocent. 我坚信她是清白无辜的。",
-    "He insisted (that) he was innocent. 他坚持说他是无辜的。",
-    "I am convinced that she is innocent. 我坚信她是清白无辜的。"
+   "parts": [
+    {
+     "text": "Rubbish, however, is only part of the problem of polluting our planet. part of 之前没有形容词修饰时，通常不加不定冠词 “a” The need to produce ever-increasing quantities of cheap food leads to a different kind of pollution. ever increasing 不断增加 造句：the need to satisfy people’s ever-increasing demands for material and cultural life 满足人们不断增长的物质和文化生活需求的需要 leads to 导致；通向 Industrialized farming methods produce cheap meat products: beef, pork and chicken. farming n.养殖 produce cheap meat products 写作：押韵 The use of pesticides and fertilizers produces cheap grain and vegetables. The use of ...的使用 grain and vegetables 谷物和蔬菜 The price we pay for cheap food may be already too high: Mad Cow Disease (BSE) in cattle, salmonella in chicken and eggs, and listeria in dairy products. … be the price sb. pay for … 某个东西是某人为某事付出的代价 the price sb. pay for ... BSE 疯牛病（bovine spongiform encephalopathy） dairy 奶制品 The price we pay for overpopulation may be already too high: unemployment, pollution of all kinds, and the ever-increasing crime.我们为人口过多付出的代价可能已经太高了：失业现象，各种各样的污染，以及越来越多的犯罪。 And if you think you 'll abandon meat and become a vegetarian , you have the choice of very expensive organically-grown vegetables or a steady diet of pesticides every time you think you 're eating fresh salads and vegetables, or just having an innocent glass of water ! have the choice of A or B 在A和B之间选一个 organically-grown 有机栽培的 steady adj.稳定的，持续的 every time (when) ... （every time可以看作连词，也可以看作名词time做状语加when引导的定语从句）每当 innocent adj. harmless, innocuous 无害的、无毒的 造句: If you think you’ll abandon the car, you have the choice of the extraordinarily slow buses or the over-crowded subway.如果你想放弃开车, 那么你可以两者选一: 或者是慢得出奇的公共汽车,或者是过分拥挤的地铁。"
+    },
+    {
+     "text": "Justice is part of the complex machinery of the law ."
+    },
+    {
+     "text": "Part of the building was destroyed in the fire."
+    },
+    {
+     "text": "Falling over is part of learning how to ski."
+    },
+    {
+     "text": "This idyllic pastoral scene is only part of the picture ."
+    },
+    {
+     "text": "Memory loss is a normal part of the aging process. 前面有形容词限定时，需要加冠词"
+    },
+    {
+     "text": "… so vast is the number of planets, that intelligent life is bound to be a natural part of the universe ."
+    },
+    {
+     "text": "… evidence that steadily accumulates → … the ever-accumulating evidence"
+    },
+    {
+     "text": "the world that steadily changes → the ever-changing world 不断变化的世界"
+    },
+    {
+     "text": "the knowledge that steadily grows → the ever-growing knowledge 不断增长的知识"
+    },
+    {
+     "text": "the economy that steadily develops → the ever-developing economy 不断发展的经济"
+    },
+    {
+     "text": "the market that steadily expands → the ever-expanding market 不断扩大的市场"
+    },
+    {
+     "text": "the reform that steadily deepens → the ever-deepening reform 不断深化的改革"
+    },
+    {
+     "text": "the resources that steadily dwindle → the ever-dwindling resources 日益减少的资源"
+    },
+    {
+     "text": "Hundreds of steps lead to the high wall which surrounds the president's palace ."
+    },
+    {
+     "text": "This led to yet another angry argument ."
+    },
+    {
+     "text": "... that international sporting contests lead to orgies of hatred, one could deduce it from general principles ."
+    },
+    {
+     "text": "pig farming"
+    },
+    {
+     "text": "cattle farming"
+    },
+    {
+     "text": "chicken farming"
+    },
+    {
+     "text": "poultry farming 家禽养殖"
+    },
+    {
+     "text": "livestock farming 家畜养殖"
+    },
+    {
+     "table": {
+      "headers": [
+       "farm v.养殖"
+      ],
+      "rows": [
+       [
+        "farmed fish、farmed shrimp"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "assist burglars to burgle"
+    },
+    {
+     "text": "live a ... life"
+    },
+    {
+     "text": "sing a song"
+    },
+    {
+     "text": "breathe one’s last breath"
+    },
+    {
+     "text": "die a glorious death 死得光荣"
+    },
+    {
+     "table": {
+      "headers": [
+       "名词",
+       "可数",
+       "不可数",
+       "chicken",
+       "lamb",
+       "turkey",
+       "duck",
+       "lobster"
+      ],
+      "rows": [
+       [
+        "小鸡",
+        "鸡肉（ eat chicken）"
+       ],
+       [
+        "羊羔",
+        "羔羊肉"
+       ],
+       [
+        "火鸡",
+        "火鸡肉"
+       ],
+       [
+        "鸭子",
+        "鸭子肉"
+       ],
+       [
+        "龙虾",
+        "龙虾肉"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The use of gloves was not introduced until 1860, when the Marquis of Queensberry drew up the first set of rules ."
+    },
+    {
+     "text": "... and its effects are reinforced by the use of endearing epithets ."
+    },
+    {
+     "text": "Notices forbidding the open-air drying of clothes, or the use of water points for car washing ..."
+    },
+    {
+     "text": "Fruit and Vegetables 水果和蔬菜"
+    },
+    {
+     "text": "Fruits and Vegetables Grain Bread 蔬果谷物面包"
+    },
+    {
+     "text": "Flower and grain eaten vegetables 花果类"
+    },
+    {
+     "text": "Pollution is the price we pay for an overpopulated, over-industrialized planet."
+    },
+    {
+     "text": "Responsibility is the price every man must pay for freedom.责任是每个人必须为自由付出的代价。"
+    },
+    {
+     "text": "The precious information came at a price."
+    },
+    {
+     "text": "The precious information came at a heavy price.."
+    },
+    {
+     "text": "She is determined to have a child at any price..."
+    },
+    {
+     "table": {
+      "headers": [
+       "at the expense of ... 以损害…为代价"
+      ],
+      "rows": [
+       [
+        "Military strength is often achieved at the expense of a country’s economic health. The Roosevelt Administration believed that rebuilding the nation’s soil was in the national interest and was not simply a plan to help farmers at the expense of other citizens."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "AIDS abbr.获得性免疫缺陷综合征，艾滋病（acquired immune deficiency syndrome）"
+    },
+    {
+     "table": {
+      "headers": [
+       "总体(天生为复数)"
+      ],
+      "rows": [
+       [
+        "cattle",
+        "people",
+        "police"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "dairy products"
+    },
+    {
+     "text": "dairy cattle"
+    },
+    {
+     "text": "Dairy Queen 奶品皇后（DQ 美国著名的冰淇淋连锁品牌）"
+    },
+    {
+     "table": {
+      "headers": [
+       "diary 日记"
+      ],
+      "rows": [
+       [
+        "keep a diary"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "angle / angel"
+    },
+    {
+     "text": "altitude / latitude"
+    },
+    {
+     "text": "aboard / abroad"
+    },
+    {
+     "text": "When you have the choice of being right or being kind, choose kind.当你可以选择正确或善良的时候，选择善良。"
+    },
+    {
+     "text": "You have the choice of deciding who you're friends with.你可以选择和谁成为朋友。"
+    },
+    {
+     "text": "After choosing your filter, you have the choice of adding a caption.选完滤镜之后，你可以选择加上说明文字。"
+    },
+    {
+     "text": "organically-grown vegetables 有机蔬菜"
+    },
+    {
+     "text": "organically-grown produce 有机农产品"
+    },
+    {
+     "table": {
+      "headers": [
+       "environment-friendly 环保的"
+      ],
+      "rows": [
+       [
+        "environment-friendly products"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "a steady job / income"
+    },
+    {
+     "text": "a steady relationship"
+    },
+    {
+     "text": "a steady boyfriend / girlfriend"
+    },
+    {
+     "text": "a steady decline / increase"
+    },
+    {
+     "text": "= whenever ..."
+    },
+    {
+     "text": "= no matter when ..."
+    },
+    {
+     "text": "The accused was found innocent. 被告被判定无罪。"
+    },
+    {
+     "text": "I'm convinced that she's innocent. 我坚信她是清白无辜的。"
+    },
+    {
+     "text": "He insisted (that) he was innocent. 他坚持说他是无辜的。"
+    },
+    {
+     "text": "I am convinced that she is innocent. 我坚信她是清白无辜的。"
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "引出真正的主角",
-   "lines": [
-    "However, there is an even more insidious kind of pollution that particularly affects urban areas and invades our daily lives , and that is noise. There is an even more insidious kind of aggression that particularly affects people’s mode of thought and invades local tradition , and that is cultural aggression.有一种更为隐蔽有害的侵略, 它尤其影响人们的思维模式并侵犯当地的传统, 那就是文化侵略。 Burglar alarms going off at any time of the day or night serve only to annoy passers-by and actually assist burglars to burgle. go off 发出巨大的声音 serve to do 发挥某个作用 Car alarms constantly scream at us in the street and are a source of profound irritation. scream at sb. 对某人大喊大叫 a source of 来源 A recent survey of the effects of noise revealed (surprisingly? ) that dogs barking incessantly in the night rated the highest form of noise pollution on a scale ranging from 1 to 7 . survey / poll / opinion poll 民意测验 rate v.评定… on a scale 在这样一个级别里面 （书上翻译有误） range from A to B 在A到B的范围内 The survey revealed a large number of sources of noise that we really dislike . reveal v.揭示，透露；表明，证明；展示... Lawn mowers whining on a summer's day, late-night parties in apartment blocks, noisy neighbours, vehicles of all kinds, especially large container trucks thundering through quiet villages, planes and helicopters flying overhead, large radios carried round in public places and played at maximum volume. apartment block 公寓大楼 New technology has also made its own contribution to noise. contribution to sth. 某事的贡献 A lot of people object to mobile phones, especially when they are used in public places like restaurant or on public transport. object to + n. 反对某事 support / back + n. 支持某事 public transport 公共交通工具 Loud conversations on mobile phones invade our thoughts or interrupt the pleasure of meeting friends for a quiet chat. on mobile phones on = 使用 mobile phone 手机 The noise pollution survey revealed a rather surprising and possibly amusing old-fashioned source of noise. rather adv.颇，相当、而不是 It turned out to be snoring! turn out 结果是，最后是、被证明是，原来是 Men were found to be the worst offenders. worst offender 罪魁祸首 It was revealed that 20% of men in their mid-thirties snore . mid-thirties 三十岁中期 This figure rises to a staggering 60% of men in their 60s. rise / increase / jump / soar / rocket / spiral to... 上升到 Against these figures, it was found that only 5% of women snore regularly , while the rest are constantly woken or kept awake by their trumpeting partners. against … 与…相比 A as against B is as C against D Whatever the source of noise, one thing is certain: silence, it seems , has become a golden memory. whatever 引导让步状语从句时，常省略 be 动词。 a golden memory 金子般的回忆",
-    "The alarm clock went off.",
-    "The gun went off accidentally.",
-    "The bomb went off at midnight.",
-    "ring 门铃、电话响 The phone / doorbell rang.",
-    "strike 当当当的响 The clock was striking the hours. The clock began to strike twelve.",
-    "blare 车喇叭声音 The silence was suddenly broken when a large car, with its headlights on and its horn blaring, roared down the arcade .",
-    "roar / thunder 呼啸的声音 We heard a lion roar.我们听见了狮子的吼声。 Thunder grumbled in the distance.远处雷声隆隆。",
-    "whine 机器轰鸣声 They growl, and they whine, but no barking. 它们只是嚎叫、哀鸣，但并不吠叫。",
-    "His death serves to remind us how dangerous using drugs can be.",
-    "serve as ... 某个东西发挥某个作用 She serves as an impressive reminder of the great ships of the past .",
-    "Jewish Mother: Don't scream at me. 母亲： 别对我吵吵。",
-    "Now you should scream at me, or curse me, or hit me.现在你必须对我吼叫，或者是，诅咒我，打我。",
-    "..., but uncles and aunts are always a source of extra income .",
-    "I have an analytical approach to every survey.我对每项调查都采用一种分析的方法。",
-    "The final result of the poll will be known tomorrow.投票结果将于明天公布。",
-    "The opinion poll suggests a clean sweep for the Democrats.民意测验表明民主党有可能大获全胜。",
-    "census （官方的）统计；人口普查；人口调查 the Fifth National Census",
-    "investigation （正式的）调查，侦查 the investigation of the case / market ...",
-    "The essay rates a low grade.",
-    "His pulse rate dropped suddenly. 他的脉搏速率突然下降。",
-    "The crime rate is rising. 犯罪率正在上升。",
-    "The earthquake measured 8.0 on the Richter scale.",
-    "The students rate the teachers on a scale of 1 to 5.",
-    "The team contained ten players whose ages ranged from 10 to 16 / ranged between 10 and 16.",
-    "range between A and B 在A到B的范围内变化 First, it lowered the policy rate from 0.1% to a range between 0% and 0.1%. 首先，它把自己的基准利率从0.1%下调至在0%到0.1%之间波动的区间内。",
-    "In spite of this, many people are confident that 'The Revealer' may reveal something of value fairly soon .",
-    "She has refused to reveal the whereabouts of her daughter. 她已拒绝透露她女儿的行踪。",
-    "In the principal room, a grey carpet was removed to reveal the original pine floor. 在主房间里，一块灰色的地毯被挪开了，使原有的松木地板露了出来。",
-    "office block 办公大楼",
-    "He walked around the block three times. 他绕着这个街区走了3圈。",
-    "American economists have made important contributions to the field of financial and corporate economics. 美国经济学家在金融社团经济学领域做出了重要贡献。",
-    "Instead, he made a generous contribution to help the community.相反，他为帮助社区做出了慷慨的贡献。",
-    "The school sees its job as preparing students to make a contribution to society. 这所学校以培养能为社会做贡献的学生为己任。",
-    "A lot of people will object to the book. 很多人会反对这本书。",
-    "I really object to being charged for parking. 我非常反对收停车费。",
-    "Working people everywhere object to paying taxes. 各地劳动人民都反对纳税。",
-    "oppose + n. 反对某事 I would oppose changing the law. 我将反对改变这个法规。 More people favour a single European currency than oppose it. 支持欧洲单一货币的人比反对的多。 This party would bitterly oppose the re-introduction of the death penalty. 本党会强烈反对恢复死刑。",
-    "protest (against) + n. 示威、抗议 They were protesting soaring prices. 他们在抗议不断飞涨的物价。 The campaign provided a channel for protest against the war.这场运动是反对战争的一种方式。 The opposition now seems too weak to stage any serious protests against the government. 反对党现在似乎太弱小，无力针对政府组织什么重大的抗议。",
-    "boycott + n. 抵制某事 The main opposition parties are boycotting the elections. 主要的反对党派正在联合抵制选举。",
-    "The vice president insisted that he supported the hard-working people of New York. 副总统坚持认为他支持勤劳的纽约人民。",
-    "The president gave his full support to the reforms. 该总统对改革予以了全力的支持。",
-    "His defence says it has found a new witness to back his claim that he is a victim of mistaken identity. 他的辩词称已经找到一位新的证人来证实他是弄错了的身份的受害者。",
-    "The company is compiling a dossier of evidence to back its allegations. 公司正在搜集证明材料来支持自己的指控。",
-    "be behind + n. 支持某人某事 Who is behind the scenes? 谁是幕后人？ He had the state's judicial power behind him. 他有国家司法力量在其背后支持他。",
-    "stand by + n. 支持某人某事 I wouldn't break the law for a friend, but I would stand by her if she did. 我不会为朋友而违法，但如果她犯了法我会继续支持她。",
-    "advocate / endorse + n. 公开支持、公开鼓吹 He is a strident advocate of nuclear power.他是发展核能的坚定拥护者。 I wholeheartedly endorse his remarks.我真诚地赞同他的话。",
-    "= public transportation 【美】",
-    "= buses, trains etc.",
-    "She is on the phone / computer.",
-    "She is playing a piece of music on the piano.",
-    "= cell / cellular phone",
-    "The problem was psychological rather than physiological. 这是个心理而不是生理问题。",
-    "I grew up in rather unusual circumstances. 我在相当不寻常的环境中长大。",
-    "I'm afraid it's a rather long story. 我恐怕这是个相当长的故事。",
-    "She turned out to be an organizer par excellence. 结果表明她是一个非常出色的组织者。",
-    "He ran a lot of tests and it turned out I had an infection called mycoplasma. 他进行了许多化验，结果证明我感染了支原体病毒。",
-    "I was positive things were going to turn out fine. 我当时就确信事情最终会好起来。",
-    "Cosgrave's forecast turned out to be completely wrong. 科斯格累夫的预测被发现是完全错误的。",
-    "The worst offender—a coffee from Starbucks—had 561 calories. 最恶劣的罪魁祸首——星巴克咖啡——含有561卡路里的热量。",
-    "early thirties 三十岁早期（出头）",
-    "late thirties 三十岁晚期",
-    "The temperature is expected to rise to 30°C by the afternoon.预计下午气温将上升到30摄氏度。",
-    "The population of the city has increased to over 1 million.这座城市的人口已增加到一百多万。",
-    "The stock price jumped to $50 per share after the announcement.公告发布后，股价跳升至每股50美元。",
-    "The eagle soared to great heights above the mountains.老鹰飞升到山脉上方的高空。",
-    "Sales rocketed to a new high during the holiday season.销量在假期期间飙升至新高。",
-    "The situation spiraled to a critical point quickly.情况迅速恶化到一个关键点。",
-    "fall / drop / plunge / dive / plummet to ... 下降到 The temperature will fall to 10°C tonight.今晚气温将降至10摄氏度。 The value of the currency dropped to a record low last month.上个月，货币价值跌至历史最低点。 The car plunged to the bottom of the ravine.汽车坠落到峡谷底部。 The plane dived to a lower altitude before stabilizing.飞机俯冲到较低的高度后才稳定下来。 The stock market plummeted to its lowest level in years.股市暴跌至多年来的最低水平。",
-    "Against last year's performance, this year's results are much better.与去年的表现相比，今年的结果要好得多。",
-    "= compared to / with ... = in / by comparison to / with ... = in / by contrast to / with ...",
-    "compared to / with … Compared to other cities, this one has a lower crime rate.与其他城市相比，这里的犯罪率较低。",
-    "in / by comparison to / with … By comparison with their competitors, their prices are much lower.与竞争对手相比，他们的价格要低得多。",
-    "in / by contrast to / with … In contrast to his brother, he is much more outgoing.与他的兄弟相比，他更外向。",
-    "His knowledge as against hers is as experience against youth. 他的知识与她的相比，就如同经验与年轻相比。",
-    "A as against B is as C against D A和B相比就如同C和D相比一样 The military power of the US, as against that of DPRK, is as the strength of an elephant against that of a mouse.",
-    "Whatever the source of noise (is), one thing is certain : ......",
-    "After all, whatever her faults (are), she is your mother.",
-    "The country is always beautiful whatever the season (is).",
-    "a golden opportunity 金子般的机会"
+   "parts": [
+    {
+     "text": "However, there is an even more insidious kind of pollution that particularly affects urban areas and invades our daily lives , and that is noise. There is an even more insidious kind of aggression that particularly affects people’s mode of thought and invades local tradition , and that is cultural aggression.有一种更为隐蔽有害的侵略, 它尤其影响人们的思维模式并侵犯当地的传统, 那就是文化侵略。 Burglar alarms going off at any time of the day or night serve only to annoy passers-by and actually assist burglars to burgle. go off 发出巨大的声音 serve to do 发挥某个作用 Car alarms constantly scream at us in the street and are a source of profound irritation. scream at sb. 对某人大喊大叫 a source of 来源 A recent survey of the effects of noise revealed (surprisingly? ) that dogs barking incessantly in the night rated the highest form of noise pollution on a scale ranging from 1 to 7 . survey / poll / opinion poll 民意测验 rate v.评定… on a scale 在这样一个级别里面 （书上翻译有误） range from A to B 在A到B的范围内 The survey revealed a large number of sources of noise that we really dislike . reveal v.揭示，透露；表明，证明；展示... Lawn mowers whining on a summer's day, late-night parties in apartment blocks, noisy neighbours, vehicles of all kinds, especially large container trucks thundering through quiet villages, planes and helicopters flying overhead, large radios carried round in public places and played at maximum volume. apartment block 公寓大楼 New technology has also made its own contribution to noise. contribution to sth. 某事的贡献 A lot of people object to mobile phones, especially when they are used in public places like restaurant or on public transport. object to + n. 反对某事 support / back + n. 支持某事 public transport 公共交通工具 Loud conversations on mobile phones invade our thoughts or interrupt the pleasure of meeting friends for a quiet chat. on mobile phones on = 使用 mobile phone 手机 The noise pollution survey revealed a rather surprising and possibly amusing old-fashioned source of noise. rather adv.颇，相当、而不是 It turned out to be snoring! turn out 结果是，最后是、被证明是，原来是 Men were found to be the worst offenders. worst offender 罪魁祸首 It was revealed that 20% of men in their mid-thirties snore . mid-thirties 三十岁中期 This figure rises to a staggering 60% of men in their 60s. rise / increase / jump / soar / rocket / spiral to... 上升到 Against these figures, it was found that only 5% of women snore regularly , while the rest are constantly woken or kept awake by their trumpeting partners. against … 与…相比 A as against B is as C against D Whatever the source of noise, one thing is certain: silence, it seems , has become a golden memory. whatever 引导让步状语从句时，常省略 be 动词。 a golden memory 金子般的回忆"
+    },
+    {
+     "text": "The alarm clock went off."
+    },
+    {
+     "text": "The gun went off accidentally."
+    },
+    {
+     "text": "The bomb went off at midnight."
+    },
+    {
+     "table": {
+      "headers": [
+       "ring 门铃、电话响",
+       "strike 当当当的响",
+       "blare 车喇叭声音",
+       "roar / thunder 呼啸的声音",
+       "whine 机器轰鸣声"
+      ],
+      "rows": [
+       [
+        "The phone / doorbell rang."
+       ],
+       [
+        "The clock was striking the hours. The clock began to strike twelve."
+       ],
+       [
+        "The silence was suddenly broken when a large car, with its headlights on and its horn blaring, roared down the arcade ."
+       ],
+       [
+        "We heard a lion roar.我们听见了狮子的吼声。 Thunder grumbled in the distance.远处雷声隆隆。"
+       ],
+       [
+        "They growl, and they whine, but no barking. 它们只是嚎叫、哀鸣，但并不吠叫。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "His death serves to remind us how dangerous using drugs can be."
+    },
+    {
+     "table": {
+      "headers": [
+       "serve as ... 某个东西发挥某个作用"
+      ],
+      "rows": [
+       [
+        "She serves as an impressive reminder of the great ships of the past ."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Jewish Mother: Don't scream at me. 母亲： 别对我吵吵。"
+    },
+    {
+     "text": "Now you should scream at me, or curse me, or hit me.现在你必须对我吼叫，或者是，诅咒我，打我。"
+    },
+    {
+     "text": "..., but uncles and aunts are always a source of extra income ."
+    },
+    {
+     "text": "I have an analytical approach to every survey.我对每项调查都采用一种分析的方法。"
+    },
+    {
+     "text": "The final result of the poll will be known tomorrow.投票结果将于明天公布。"
+    },
+    {
+     "text": "The opinion poll suggests a clean sweep for the Democrats.民意测验表明民主党有可能大获全胜。"
+    },
+    {
+     "table": {
+      "headers": [
+       "census （官方的）统计；人口普查；人口调查",
+       "investigation （正式的）调查，侦查"
+      ],
+      "rows": [
+       [
+        "the Fifth National Census"
+       ],
+       [
+        "the investigation of the case / market ..."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The essay rates a low grade."
+    },
+    {
+     "text": "His pulse rate dropped suddenly. 他的脉搏速率突然下降。"
+    },
+    {
+     "text": "The crime rate is rising. 犯罪率正在上升。"
+    },
+    {
+     "text": "The earthquake measured 8.0 on the Richter scale."
+    },
+    {
+     "text": "The students rate the teachers on a scale of 1 to 5."
+    },
+    {
+     "text": "The team contained ten players whose ages ranged from 10 to 16 / ranged between 10 and 16."
+    },
+    {
+     "table": {
+      "headers": [
+       "range between A and B 在A到B的范围内变化"
+      ],
+      "rows": [
+       [
+        "First, it lowered the policy rate from 0.1% to a range between 0% and 0.1%. 首先，它把自己的基准利率从0.1%下调至在0%到0.1%之间波动的区间内。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "In spite of this, many people are confident that 'The Revealer' may reveal something of value fairly soon ."
+    },
+    {
+     "text": "She has refused to reveal the whereabouts of her daughter. 她已拒绝透露她女儿的行踪。"
+    },
+    {
+     "text": "In the principal room, a grey carpet was removed to reveal the original pine floor. 在主房间里，一块灰色的地毯被挪开了，使原有的松木地板露了出来。"
+    },
+    {
+     "text": "office block 办公大楼"
+    },
+    {
+     "text": "He walked around the block three times. 他绕着这个街区走了3圈。"
+    },
+    {
+     "text": "American economists have made important contributions to the field of financial and corporate economics. 美国经济学家在金融社团经济学领域做出了重要贡献。"
+    },
+    {
+     "text": "Instead, he made a generous contribution to help the community.相反，他为帮助社区做出了慷慨的贡献。"
+    },
+    {
+     "text": "The school sees its job as preparing students to make a contribution to society. 这所学校以培养能为社会做贡献的学生为己任。"
+    },
+    {
+     "text": "A lot of people will object to the book. 很多人会反对这本书。"
+    },
+    {
+     "text": "I really object to being charged for parking. 我非常反对收停车费。"
+    },
+    {
+     "text": "Working people everywhere object to paying taxes. 各地劳动人民都反对纳税。"
+    },
+    {
+     "table": {
+      "headers": [
+       "oppose + n. 反对某事",
+       "protest (against) + n. 示威、抗议",
+       "boycott + n. 抵制某事"
+      ],
+      "rows": [
+       [
+        "I would oppose changing the law. 我将反对改变这个法规。 More people favour a single European currency than oppose it. 支持欧洲单一货币的人比反对的多。 This party would bitterly oppose the re-introduction of the death penalty. 本党会强烈反对恢复死刑。"
+       ],
+       [
+        "They were protesting soaring prices. 他们在抗议不断飞涨的物价。 The campaign provided a channel for protest against the war.这场运动是反对战争的一种方式。 The opposition now seems too weak to stage any serious protests against the government. 反对党现在似乎太弱小，无力针对政府组织什么重大的抗议。"
+       ],
+       [
+        "The main opposition parties are boycotting the elections. 主要的反对党派正在联合抵制选举。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The vice president insisted that he supported the hard-working people of New York. 副总统坚持认为他支持勤劳的纽约人民。"
+    },
+    {
+     "text": "The president gave his full support to the reforms. 该总统对改革予以了全力的支持。"
+    },
+    {
+     "text": "His defence says it has found a new witness to back his claim that he is a victim of mistaken identity. 他的辩词称已经找到一位新的证人来证实他是弄错了的身份的受害者。"
+    },
+    {
+     "text": "The company is compiling a dossier of evidence to back its allegations. 公司正在搜集证明材料来支持自己的指控。"
+    },
+    {
+     "table": {
+      "headers": [
+       "be behind + n. 支持某人某事",
+       "stand by + n. 支持某人某事",
+       "advocate / endorse + n. 公开支持、公开鼓吹"
+      ],
+      "rows": [
+       [
+        "Who is behind the scenes? 谁是幕后人？ He had the state's judicial power behind him. 他有国家司法力量在其背后支持他。"
+       ],
+       [
+        "I wouldn't break the law for a friend, but I would stand by her if she did. 我不会为朋友而违法，但如果她犯了法我会继续支持她。"
+       ],
+       [
+        "He is a strident advocate of nuclear power.他是发展核能的坚定拥护者。 I wholeheartedly endorse his remarks.我真诚地赞同他的话。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "= public transportation 【美】"
+    },
+    {
+     "text": "= buses, trains etc."
+    },
+    {
+     "text": "She is on the phone / computer."
+    },
+    {
+     "text": "She is playing a piece of music on the piano."
+    },
+    {
+     "text": "= cell / cellular phone"
+    },
+    {
+     "text": "The problem was psychological rather than physiological. 这是个心理而不是生理问题。"
+    },
+    {
+     "text": "I grew up in rather unusual circumstances. 我在相当不寻常的环境中长大。"
+    },
+    {
+     "text": "I'm afraid it's a rather long story. 我恐怕这是个相当长的故事。"
+    },
+    {
+     "text": "She turned out to be an organizer par excellence. 结果表明她是一个非常出色的组织者。"
+    },
+    {
+     "text": "He ran a lot of tests and it turned out I had an infection called mycoplasma. 他进行了许多化验，结果证明我感染了支原体病毒。"
+    },
+    {
+     "text": "I was positive things were going to turn out fine. 我当时就确信事情最终会好起来。"
+    },
+    {
+     "text": "Cosgrave's forecast turned out to be completely wrong. 科斯格累夫的预测被发现是完全错误的。"
+    },
+    {
+     "text": "The worst offender—a coffee from Starbucks—had 561 calories. 最恶劣的罪魁祸首——星巴克咖啡——含有561卡路里的热量。"
+    },
+    {
+     "text": "early thirties 三十岁早期（出头）"
+    },
+    {
+     "text": "late thirties 三十岁晚期"
+    },
+    {
+     "text": "The temperature is expected to rise to 30°C by the afternoon.预计下午气温将上升到30摄氏度。"
+    },
+    {
+     "text": "The population of the city has increased to over 1 million.这座城市的人口已增加到一百多万。"
+    },
+    {
+     "text": "The stock price jumped to $50 per share after the announcement.公告发布后，股价跳升至每股50美元。"
+    },
+    {
+     "text": "The eagle soared to great heights above the mountains.老鹰飞升到山脉上方的高空。"
+    },
+    {
+     "text": "Sales rocketed to a new high during the holiday season.销量在假期期间飙升至新高。"
+    },
+    {
+     "text": "The situation spiraled to a critical point quickly.情况迅速恶化到一个关键点。"
+    },
+    {
+     "table": {
+      "headers": [
+       "fall / drop / plunge / dive / plummet to ... 下降到"
+      ],
+      "rows": [
+       [
+        "The temperature will fall to 10°C tonight.今晚气温将降至10摄氏度。 The value of the currency dropped to a record low last month.上个月，货币价值跌至历史最低点。 The car plunged to the bottom of the ravine.汽车坠落到峡谷底部。 The plane dived to a lower altitude before stabilizing.飞机俯冲到较低的高度后才稳定下来。 The stock market plummeted to its lowest level in years.股市暴跌至多年来的最低水平。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Against last year's performance, this year's results are much better.与去年的表现相比，今年的结果要好得多。"
+    },
+    {
+     "text": "= compared to / with ... = in / by comparison to / with ... = in / by contrast to / with ..."
+    },
+    {
+     "table": {
+      "headers": [
+       "compared to / with …",
+       "in / by comparison to / with …",
+       "in / by contrast to / with …"
+      ],
+      "rows": [
+       [
+        "Compared to other cities, this one has a lower crime rate.与其他城市相比，这里的犯罪率较低。"
+       ],
+       [
+        "By comparison with their competitors, their prices are much lower.与竞争对手相比，他们的价格要低得多。"
+       ],
+       [
+        "In contrast to his brother, he is much more outgoing.与他的兄弟相比，他更外向。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "His knowledge as against hers is as experience against youth. 他的知识与她的相比，就如同经验与年轻相比。"
+    },
+    {
+     "table": {
+      "headers": [
+       "A as against B is as C against D A和B相比就如同C和D相比一样"
+      ],
+      "rows": [
+       [
+        "The military power of the US, as against that of DPRK, is as the strength of an elephant against that of a mouse."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Whatever the source of noise (is), one thing is certain : ......"
+    },
+    {
+     "text": "After all, whatever her faults (are), she is your mother."
+    },
+    {
+     "text": "The country is always beautiful whatever the season (is)."
+    },
+    {
+     "text": "a golden opportunity 金子般的机会"
+    }
    ]
   }
  ]

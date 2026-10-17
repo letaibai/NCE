@@ -2,134 +2,488 @@
  "grammar": [
   {
    "title": "对于伽利略的看法",
-   "lines": [
-    "The old view of Galileo was delightfully uncomplicated. the view of Galileo 对于伽利略的看法 delightfully 令人高兴地 He was , above all, a man who experimented : who despised the prejudice and book learning of the Aristotelians , who put his questions to nature instead of to the ancients , and who drew his conclusions fearlessly . A man's ability may be great or small, but if he has this spirit, he is a man who is noble-minded, who is purę, who is of moral integrity, who is above vulgar interests, and who is of value to the people. 一个人的能力或许有强有弱，但只要他具备这种精神，他就是一位品德高尚、纯洁无暇、具有道德操守、不为低俗利益所动、对人民有价值的人。 —毛泽东 prejudice n. [U, C] an unreasonable dislike of or preference for a person, group, custom, etc., especially when it is based on their race, religion, sex, etc. 偏见；成见 put questions to 向…提问 介词后接副词或介词短语 (preposition with adverb or prepositional phrase) 介词短语可以做介词的宾语 Aristotle 亚里士多德 He shares with Plato and Socrates the distinction of being the most famous of ancient philosophers. He is also the tutor of Alexander the Great. He is the author of works on logic, metaphysics, ethics, natural science, politics, and poetics. And he profoundly influenced western thought. Aristotle proposed a finite, spherical universe, with the earth as its center. He also held that heavier bodies fall faster than lighter ones. He had been the first to turn a telescope to the sky, and he had seen their evidence enough to overthrow Aristotle and Ptolemy together. Ptolemy 托勒密 He based his astronomy on the belief that all heavenly bodies revolve around the earth.His astronomical theories and explanations dominated scientific thought until the 16th century when Copernicus, a Polish astronomer, advanced the theory the earth and other planets revolve around the sun, disrupting the Ptolemaic astronomy. He was the man who climbed the Leaning Tower of Pisa and dropped various weights from the top , who rolled balls down inclined planes, and then generalized the results of his many experiments into the famous law of free fall . inclined plane 倾斜面 generalize sthA. into sthB. 把A归纳总结出B Leaning Tower of Pisa 比萨斜塔 Started in 1173, the Leaning Tower of Pisa in Italy is an example of Romanesque architecture. It is actually the bell tower of the cathedral of Pisa. Legend has it that Galileo once carried out experiments at the leaning tower which showed that the velocity of moving bodies of the same composition, but of different weights, do not attain the proportion of their weights as Aristotle decreed, but move with the same velocity.",
-    "The view of Galileo was shaped by his revolutionary discoveries. 对伽利略的看法因他的革命性发现而形成。",
-    "Historians now challenge the view of Galileo as a simple rebel. 历史学家现在质疑对伽利略作为简单叛逆者的看法。",
-    "The view of Galileo in his time was one of controversy and genius. 在他那个时代，对伽利略的看法是充满争议和天才的。",
-    "Galileo’s view 伽利略的看法 Galileo’s view of the universe challenged the Church’s doctrine. 伽利略对宇宙的看法挑战了教会的教义。",
-    "my view of the situation 我对局势的看法 My view of the situation is that we need immediate action. 我对局势的看法是我们需要立即采取行动。",
-    "The old view of Galileo was delightfully uncomplicated. 对伽利略的旧看法令人高兴地简单。",
-    "The garden was delightfully peaceful in the morning. 花园在早晨令人高兴地宁静。",
-    "Her speech was delightfully engaging and humorous. 她的演讲令人高兴地引人入胜且幽默。",
-    "delightedly 感到高兴地 I delightedly accepted the gift. 我高兴地接受了礼物。",
-    "Pride and Prejudice 《傲慢与偏见》",
-    "He despised the prejudice and book learning of the Aristotelians. 他鄙视亚里士多德学派的偏见和书本知识。",
-    "Prejudice against women limited their opportunities in science. 对女性的偏见限制了她们在科学领域的机会。",
-    "Overcoming prejudice is essential for a fair society. 克服偏见是建立公平社会的关键。",
-    "prejudice against 对…的偏见 There was widespread prejudice against women in academia. 学术界对女性存在广泛的偏见。",
-    "be prejudiced against 对…有偏见 Some scholars were prejudiced against his theories. 一些学者对他的理论有偏见。 Some people may be prejudiced against those from different cultural backgrounds. 有些人可能对来自不同文化背景的人存有偏见。",
-    "bias against ... 对…的偏见 He has a bias against Scottish products. 他对苏格兰产品有偏见。",
-    "bias in favor of / toward(s) 对…偏心/偏向/偏袒 The teacher showed a bias in favor of certain students. 老师对某些学生表现出偏心。 The test results seem to be biased in favor of students with strong memory skills. 测试结果似乎更偏向于记忆力强的学生。",
-    "be biased against ... 对…有偏见/歧视 The referee was accused of being biased against the home team. 裁判被指责对主队有偏见。",
-    "be partiality to / toward(s)… 对…偏心 The teacher shows partiality to him. 老师对他偏心。",
-    "be partial to / toward(s) 对…偏心/偏爱/袒护 She was partial to classical music over modern genres. 她偏爱古典音乐而非现代音乐。 I must admit I am partial to classical music over pop music. 我必须承认，比起流行音乐，我更偏爱古典音乐。",
-    "He put his questions to nature instead of the ancients. 他向自然提问，而不是向古人提问。",
-    "The scientist put questions to the data to uncover new insights. 科学家通过向数据提问发现了新的见解。",
-    "She put questions to the expert during the lecture. 她在讲座中向专家提问。",
-    "副词做宾语 There is a fine view from here . I heard them calling me from below . They have just returned from abroad . I live near here . there was a slight trembling sound from below .",
-    "T owards midday, a girl heard a muffled cry coming from behind one of the walls .",
-    "The weather has been fine except in the north.",
-    "He studies in the evening instead of during the day .",
-    "More and more people live in towns and cities instead of in villages. .",
-    "We didn’t meet until after the show .",
-    "The weather has been fine except in the north .",
-    "I took my watch from under the pillow .",
-    "He picked up the gun from behind the counter .",
-    "Greek philosopher and scientist",
-    "Ancient Greek astronomer, mathematician, and geographer",
-    "He rolled balls down an inclined plane to study motion. 他在倾斜面上滚下球来研究运动。",
-    "The inclined plane was used to demonstrate principles of physics. 倾斜面被用来展示物理原理。",
-    "Students built an inclined plane for their science experiment. 学生们为科学实验搭建了一个倾斜面。",
-    "He generalized the results of his experiments into the law of free fall. 他将实验结果归纳为自由落体定律。",
-    "Scientists generalized their findings into a new theory. 科学家们将他们的发现归纳成一个新理论。",
-    "She generalized her observations into a broader hypothesis. 她将观察结果归纳为一个更广泛的假设。"
+   "parts": [
+    {
+     "text": "The old view of Galileo was delightfully uncomplicated. the view of Galileo 对于伽利略的看法 delightfully 令人高兴地 He was , above all, a man who experimented : who despised the prejudice and book learning of the Aristotelians , who put his questions to nature instead of to the ancients , and who drew his conclusions fearlessly . A man's ability may be great or small, but if he has this spirit, he is a man who is noble-minded, who is purę, who is of moral integrity, who is above vulgar interests, and who is of value to the people. 一个人的能力或许有强有弱，但只要他具备这种精神，他就是一位品德高尚、纯洁无暇、具有道德操守、不为低俗利益所动、对人民有价值的人。 —毛泽东 prejudice n. [U, C] an unreasonable dislike of or preference for a person, group, custom, etc., especially when it is based on their race, religion, sex, etc. 偏见；成见 put questions to 向…提问 介词后接副词或介词短语 (preposition with adverb or prepositional phrase) 介词短语可以做介词的宾语 Aristotle 亚里士多德 He shares with Plato and Socrates the distinction of being the most famous of ancient philosophers. He is also the tutor of Alexander the Great. He is the author of works on logic, metaphysics, ethics, natural science, politics, and poetics. And he profoundly influenced western thought. Aristotle proposed a finite, spherical universe, with the earth as its center. He also held that heavier bodies fall faster than lighter ones. He had been the first to turn a telescope to the sky, and he had seen their evidence enough to overthrow Aristotle and Ptolemy together. Ptolemy 托勒密 He based his astronomy on the belief that all heavenly bodies revolve around the earth.His astronomical theories and explanations dominated scientific thought until the 16th century when Copernicus, a Polish astronomer, advanced the theory the earth and other planets revolve around the sun, disrupting the Ptolemaic astronomy. He was the man who climbed the Leaning Tower of Pisa and dropped various weights from the top , who rolled balls down inclined planes, and then generalized the results of his many experiments into the famous law of free fall . inclined plane 倾斜面 generalize sthA. into sthB. 把A归纳总结出B Leaning Tower of Pisa 比萨斜塔 Started in 1173, the Leaning Tower of Pisa in Italy is an example of Romanesque architecture. It is actually the bell tower of the cathedral of Pisa. Legend has it that Galileo once carried out experiments at the leaning tower which showed that the velocity of moving bodies of the same composition, but of different weights, do not attain the proportion of their weights as Aristotle decreed, but move with the same velocity."
+    },
+    {
+     "text": "The view of Galileo was shaped by his revolutionary discoveries. 对伽利略的看法因他的革命性发现而形成。"
+    },
+    {
+     "text": "Historians now challenge the view of Galileo as a simple rebel. 历史学家现在质疑对伽利略作为简单叛逆者的看法。"
+    },
+    {
+     "text": "The view of Galileo in his time was one of controversy and genius. 在他那个时代，对伽利略的看法是充满争议和天才的。"
+    },
+    {
+     "table": {
+      "headers": [
+       "Galileo’s view 伽利略的看法",
+       "my view of the situation 我对局势的看法"
+      ],
+      "rows": [
+       [
+        "Galileo’s view of the universe challenged the Church’s doctrine. 伽利略对宇宙的看法挑战了教会的教义。"
+       ],
+       [
+        "My view of the situation is that we need immediate action. 我对局势的看法是我们需要立即采取行动。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The old view of Galileo was delightfully uncomplicated. 对伽利略的旧看法令人高兴地简单。"
+    },
+    {
+     "text": "The garden was delightfully peaceful in the morning. 花园在早晨令人高兴地宁静。"
+    },
+    {
+     "text": "Her speech was delightfully engaging and humorous. 她的演讲令人高兴地引人入胜且幽默。"
+    },
+    {
+     "table": {
+      "headers": [
+       "delightedly 感到高兴地"
+      ],
+      "rows": [
+       [
+        "I delightedly accepted the gift. 我高兴地接受了礼物。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Pride and Prejudice 《傲慢与偏见》"
+    },
+    {
+     "text": "He despised the prejudice and book learning of the Aristotelians. 他鄙视亚里士多德学派的偏见和书本知识。"
+    },
+    {
+     "text": "Prejudice against women limited their opportunities in science. 对女性的偏见限制了她们在科学领域的机会。"
+    },
+    {
+     "text": "Overcoming prejudice is essential for a fair society. 克服偏见是建立公平社会的关键。"
+    },
+    {
+     "table": {
+      "headers": [
+       "prejudice against 对…的偏见",
+       "be prejudiced against 对…有偏见",
+       "bias against ... 对…的偏见",
+       "bias in favor of / toward(s) 对…偏心/偏向/偏袒",
+       "be biased against ... 对…有偏见/歧视",
+       "be partiality to / toward(s)… 对…偏心",
+       "be partial to / toward(s) 对…偏心/偏爱/袒护"
+      ],
+      "rows": [
+       [
+        "There was widespread prejudice against women in academia. 学术界对女性存在广泛的偏见。"
+       ],
+       [
+        "Some scholars were prejudiced against his theories. 一些学者对他的理论有偏见。 Some people may be prejudiced against those from different cultural backgrounds. 有些人可能对来自不同文化背景的人存有偏见。"
+       ],
+       [
+        "He has a bias against Scottish products. 他对苏格兰产品有偏见。"
+       ],
+       [
+        "The teacher showed a bias in favor of certain students. 老师对某些学生表现出偏心。 The test results seem to be biased in favor of students with strong memory skills. 测试结果似乎更偏向于记忆力强的学生。"
+       ],
+       [
+        "The referee was accused of being biased against the home team. 裁判被指责对主队有偏见。"
+       ],
+       [
+        "The teacher shows partiality to him. 老师对他偏心。"
+       ],
+       [
+        "She was partial to classical music over modern genres. 她偏爱古典音乐而非现代音乐。 I must admit I am partial to classical music over pop music. 我必须承认，比起流行音乐，我更偏爱古典音乐。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "He put his questions to nature instead of the ancients. 他向自然提问，而不是向古人提问。"
+    },
+    {
+     "text": "The scientist put questions to the data to uncover new insights. 科学家通过向数据提问发现了新的见解。"
+    },
+    {
+     "text": "She put questions to the expert during the lecture. 她在讲座中向专家提问。"
+    },
+    {
+     "table": {
+      "headers": [
+       "副词做宾语"
+      ],
+      "rows": [
+       [
+        "There is a fine view from here . I heard them calling me from below . They have just returned from abroad . I live near here . there was a slight trembling sound from below ."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "T owards midday, a girl heard a muffled cry coming from behind one of the walls ."
+    },
+    {
+     "text": "The weather has been fine except in the north."
+    },
+    {
+     "text": "He studies in the evening instead of during the day ."
+    },
+    {
+     "text": "More and more people live in towns and cities instead of in villages. ."
+    },
+    {
+     "text": "We didn’t meet until after the show ."
+    },
+    {
+     "text": "The weather has been fine except in the north ."
+    },
+    {
+     "text": "I took my watch from under the pillow ."
+    },
+    {
+     "text": "He picked up the gun from behind the counter ."
+    },
+    {
+     "text": "Greek philosopher and scientist"
+    },
+    {
+     "text": "Ancient Greek astronomer, mathematician, and geographer"
+    },
+    {
+     "text": "He rolled balls down an inclined plane to study motion. 他在倾斜面上滚下球来研究运动。"
+    },
+    {
+     "text": "The inclined plane was used to demonstrate principles of physics. 倾斜面被用来展示物理原理。"
+    },
+    {
+     "text": "Students built an inclined plane for their science experiment. 学生们为科学实验搭建了一个倾斜面。"
+    },
+    {
+     "text": "He generalized the results of his experiments into the law of free fall. 他将实验结果归纳为自由落体定律。"
+    },
+    {
+     "text": "Scientists generalized their findings into a new theory. 科学家们将他们的发现归纳成一个新理论。"
+    },
+    {
+     "text": "She generalized her observations into a broader hypothesis. 她将观察结果归纳为一个更广泛的假设。"
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "当代人对伽利略的看法",
-   "lines": [
-    "But a closer study of the evidence, supported by a deeper sense of the period, and particularly by a new consciousness of the philosophical undercurrents in the scientific revolution, has profoundly modified this view of Galileo. be supported by 被…所支撑、基于…支撑 sense n. understanding / consciousness 认识、意识 profoundly adv. deeply; extremely 深刻地、极大地 modify v. 调整；稍作修改；使更适合 Today, although the old Galileo lives on in many popular writings, among historians of science a new and more sophisticated picture has emerged . live 存在 picture 心目中的形象 At the same time our sympathy for Galileo's opponents has grown somewhat. sympathy for 对…的同情 opponent n. adversary; antagonist 对手、反对者 His telescopic observations are justly immortal; they aroused great interest at the time, they had important theoretical consequences, and they provided a striking demonstration of the potentialit ies hidden in instruments and apparatus. just adj.公正的；正义的；正当的；合理的 consequence n.The consequences of something are the results or effects of it. 结果;后果；影响 potential/potentialities 潜力 apparatus n. [U] the tools or other pieces of equipment that are needed for a particular activity or task (精密)仪器；器械；装置 But can we blame those who looked and failed to see what Galileo saw , if we remember that to use a telescope at the limit of its powers calls for long experience and intimate familiarity with one's instrument ? power n.倍数 call for [idiom] 需要 In this era of rapid social and technological change leading to increasing life complexity and psychological displacement , unforeseen and kaleidoscopic challenges facing persons in most professions and academic fields call for a balance in which there are both imagination and knowledg e. Gre写作范文 rhetorical question 修辞疑问句(But can we blame those who ...) 答在问中；不是陈述句，语气比陈述句更重；一般出现在文章或段落末尾；激起读者深思；避免陈述句的说教语气。 They tell us, sir, that we are weak; unable to cope with so formidable an adversary. But when shall we be stronger? Will it be the next week, or the next year? Will it be when we are totally disarmed, and when a British guard shall be stationed in every house? Shall we gather strength by irresolution and inaction? Shall we acquire the means of effectual resistance by lying supinely on our backs and hugging the delusive phantom of hope, until our enemies shall have bound us hand and foot? ——Patrick Henry, March 23, 1775 ‘Give Me Liberty Or Give Me Death’ Was the philosopher who refused to look through Galileo's telescope more culpable than those who alleged that the spiral nebulae observed with Lord Rosse's great telescope in the 1840s were scratches left by the grinder? allege （未提出证据）断言、指称 We can perhaps forgive those who said the moons of Jupiter were produced by Galileo's spyglass if we recall that in his day , as for centuries before, curved glass was the popular contrivance for producing not truth but illusion, untruth ; and if a single curved glass would distort nature, how much more would a pair of them? …, as curved glass was the popular contrivance for producing not truth but illusion, untruth for centuries before, curved glass was the popular contrivance for producing not truth but illusion, untruth; … （方式状语从句，主谓省略）补全 as for centuries before 如同几个世纪之前 curved glass 曲面镜",
-    "…, based on a deeper sense of the period. 替换写法",
-    "Her argument was supported by extensive research data. 她的论点得到了广泛研究数据的支撑。",
-    "The project was supported by generous funding from the government. 该项目得到了政府慷慨资助的支撑。",
-    "be based on 基于 The theory is based on years of observation. 这一理论基于多年的观察。",
-    "She has a strong sense of justice. 她有很强的正义感。",
-    "His sense of responsibility drove him to act. 他的责任感促使他采取行动。",
-    "Citizenship is about the sense of nationhood. 公民身份涉及国家意识。",
-    "She was profoundly influenced by her mother. 她深受母亲的影响。",
-    "His speech profoundly impacted the audience. 他的演讲极大地影响了听众。",
-    "The discovery profoundly changed scientific thought. 这一发现深刻地改变了科学思想。",
-    "The mediator attempted to get both sides to modify their position. 调解人试图让双方调整立场。",
-    "They had to modify the design to meet safety standards. 他们不得不修改设计以符合安全标准。",
-    "She modified her approach based on feedback. 她根据反馈调整了方法。",
-    "Where do the knives live in your kitchen? 你厨房里的刀具存放在哪里？",
-    "Old traditions still live in rural communities. 古老的传统依然存在于农村社区。",
-    "His legacy lives on in modern science. 他的遗产在现代科学中继续存在。",
-    "Can you form a picture of what I described to you? 你能想象出我描述的情景吗？",
-    "Most of us have formed an unrealistic picture of life on a desert island .",
-    "A new picture of Galileo has emerged among historians. 历史学家中形成了对伽利略的新形象。",
-    "She expressed sympathy for the victims of the disaster. 她对灾难受害者表达了同情。",
-    "He felt deep sympathy for those who suffered. 他对受苦的人深感同情。",
-    "We expressed our sympathy for her loss. 我们对她的损失表示了同情。",
-    "desire for 对…的欲望 Perhaps it is the desire for solitude that lures people to the depths of the earth. 或许是对独处的渴望吸引人们深入地下。",
-    "appetite for 对…的欲望 She has a strong appetite for adventure. 她对冒险有强烈的渴望。",
-    "lust for 对…的强烈欲望 His lust for power drove his decisions. 他对权力的强烈欲望驱使了他的决定。",
-    "longing for 对…的渴望 They felt a deep longing for peace. 他们对和平有深深的渴望。",
-    "yearning for 渴望 Her yearning for home grew stronger each day. 她对家的渴望每天都在增强。",
-    "craving for 强烈的愿望 He had a craving for success in his career. 他对事业成功的强烈愿望驱使着他。",
-    "hunger/thirst for 对…的渴望 She has a thirst for knowledge. 她对知识有强烈的渴望。",
-    "love/affection for 对…的爱 His love for science inspired his students. 他对科学的热爱激励了他的学生。",
-    "zest/passion/enthusiasm for 对…的热情 Her enthusiasm for teaching was contagious. 她对教学的热情很有感染力。",
-    "pity/compassion for 对…的同情 They showed compassion for the refugees. 他们对难民表现出同情。",
-    "She faced a tough opponent in the debate. 她在辩论中面对一个强大的对手。",
-    "The politician’s opponents criticized his policies. 这位政治家的反对者批评了他的政策。",
-    "The wrestler put his opponent into a head hold. 那位摔跤手给对手来了个头部擒拿。",
-    "She received a just reward for her efforts. 她因努力获得了公正的回报。",
-    "The decision was seen as just by all parties. 所有相关方认为这个决定是公正的。",
-    "Everyone deserves a just trial in a court of law. 每个人在法庭上都应当获得公正的审判。",
-    "a just reward / punishment 应得的奖赏/惩罚 The long prison sentence was considered a just punishment for his crimes. 长期的监禁被认为是他犯罪应得的惩罚。",
-    "The consequences of climate change are far-reaching. 气候变化的后果影响深远。",
-    "They ignored the ecological consequences of their actions. 他们忽视了自己行为的生态后果。",
-    "ecological consequences 生态后果",
-    "It is true that China is still a developing country, but she is full of potential / potentialities. 中国仍是一个发展中国家，但她充满潜力。",
-    "The new technology has vast potentialities for innovation. 这项新技术具有巨大的创新潜力。",
-    "His work revealed the potential of scientific inquiry. 他的工作揭示了科学探究的潜力。",
-    "The laboratory apparatus was carefully calibrated. 实验室仪器经过了精确校准。",
-    "A new piece of apparatus improved their experiments. 一件新的器械改进了他们的实验。",
-    "laboratory apparatus 实验室器械/仪器 Students must learn how to handle various types of laboratory apparatus safely. 学生们必须学会如何安全地操作各种实验室仪器。",
-    "a piece of apparatus 一件器械/一套装置 The technician is busy repairing a piece of apparatus in the physics lab. 技术员正忙着修理物理实验室里的一件仪器。",
-    "A 200-power microscope revealed tiny details. 一台200倍的显微镜揭示了微小细节。",
-    "Galileo used a 32-power telescope for his observations. 伽利略使用32倍的望远镜进行观测。",
-    "The new power settings enhanced the telescope’s clarity. 新的倍数设置提升了望远镜的清晰度。",
-    "This sort of work calls for a high level of concentration. 这种工作需要高度的专注。",
-    "The quality is variable, so careful selection is called for. 质量参差不齐，因此需要谨慎选择。",
-    "In this era, challenges call for a balance of imagination and knowledge. 在这个时代，挑战需要想象力与知识的平衡。",
-    "need 需要 What are the qualities that are needed for the job? 这份工作需要哪些素质？",
-    "require 需要 A lot of patience is required to look after a disabled child. 照顾残疾儿童需要很多耐心。",
-    "demand 需要 This task demands a high level of skill. 这项任务需要高水平的技能。",
-    "it takes sth. to do sth. 做某事需要 It takes stamina to be a long-distance runner. 做长跑运动员需要耐力。 It takes a lot of patience to look after a disabled child. Anyone can be passionate, but it takes real lovers to be silly. —— Rose Franken Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius and a lot of courage to move in the opposite direction. —— Albert Einstein",
-    "entail sth. / doing 需要、使…成为必须 entail sb. doing 需要某人做某事 The job entails a lot of hard work. 这份工作需要很多努力。 The journey entails changing trains twice. I’ll never accept parole because that entails me accepting guilt.",
-    "involve (doing) sth. 需要... Community service can involve anything from gardening to helping in old people's homes. Jane was on a diet which involved eating nothing but fruit. That is perhaps why sculpture has been described as the most difficult of all arts; certainly it is more difficult than the arts which involve appreciation of flat forms, shape in only two dimensions .",
-    "necessitate sth. 需要... A prolonged drought necessitated the introduction of water rationing. 长期干旱使得水资源配给成为必要。",
-    "What is the use of studying grammar if we can’t put it into practice? 如果我们不能将语法应用于实践，学习语法有什么用？",
-    "O, wind, if winter comes, can spring be far behind? ‘Ode to the West Wind’ —— P. B. Shelley风啊，如果冬天来了，春天还会远吗？",
-    "We often speak of tramps with contempt and put them in the same class as beggars, but how many of us can honestly say that we have not felt a little envious of their simple way of life and their freedom from care?",
-    "Could any spectacle, for instance, be more grimly whimsical than that of gunners using science to shatter men's bodies while, close at hand, surgeons use it to restore them?",
-    "Who among us has not dreamed of that?",
-    "He alleged that they had hired an assassin to dispose of him. 他声称他们雇佣了刺客来除掉他。",
-    "They alleged the results were falsified, but provided no proof. 他们声称结果是伪造的，但没有提供证据。",
-    "She alleged misconduct in the organization. 她指称组织内存在不当行为。",
-    "On the occasions when they have pushed to shore an unconscious human being they have much more likely done it out of curiosity or for sport, as (they have done it out of curiosity or for sport) in riding the bow waves of a ship . 状语从句的省略",
-    "It is almost always due to some very special circumstances that traces of land animals survive, as traces of land animals survive by falling into inaccessible caves, or into an ice crevasse, like the Siberian mammoths, when the whole animal is sometimes preserved, as the whole animal is preserved in a refrigerator . 主语成分省略",
-    "As for centuries before, traditions shaped their worldview. 如同几个世纪之前，传统塑造了他们的世界观。",
-    "Superstitions, as for centuries before, influenced their decisions. 如同几个世纪之前，迷信影响了他们的决定。",
-    "The curved glass in the telescope distorted early observations. 望远镜中的曲面镜扭曲了早期的观测。",
-    "Advances in curved glass improved optical instruments. 曲面镜的进步改善了光学仪器。",
-    "convex lens 凸透镜 The convex lens focused light for clearer images. 凸透镜聚焦光线以获得更清晰的图像。",
-    "concave lens 凹透镜 A concave lens was used to correct vision. 凹透镜被用来矫正视力。"
+   "parts": [
+    {
+     "text": "But a closer study of the evidence, supported by a deeper sense of the period, and particularly by a new consciousness of the philosophical undercurrents in the scientific revolution, has profoundly modified this view of Galileo. be supported by 被…所支撑、基于…支撑 sense n. understanding / consciousness 认识、意识 profoundly adv. deeply; extremely 深刻地、极大地 modify v. 调整；稍作修改；使更适合 Today, although the old Galileo lives on in many popular writings, among historians of science a new and more sophisticated picture has emerged . live 存在 picture 心目中的形象 At the same time our sympathy for Galileo's opponents has grown somewhat. sympathy for 对…的同情 opponent n. adversary; antagonist 对手、反对者 His telescopic observations are justly immortal; they aroused great interest at the time, they had important theoretical consequences, and they provided a striking demonstration of the potentialit ies hidden in instruments and apparatus. just adj.公正的；正义的；正当的；合理的 consequence n.The consequences of something are the results or effects of it. 结果;后果；影响 potential/potentialities 潜力 apparatus n. [U] the tools or other pieces of equipment that are needed for a particular activity or task (精密)仪器；器械；装置 But can we blame those who looked and failed to see what Galileo saw , if we remember that to use a telescope at the limit of its powers calls for long experience and intimate familiarity with one's instrument ? power n.倍数 call for [idiom] 需要 In this era of rapid social and technological change leading to increasing life complexity and psychological displacement , unforeseen and kaleidoscopic challenges facing persons in most professions and academic fields call for a balance in which there are both imagination and knowledg e. Gre写作范文 rhetorical question 修辞疑问句(But can we blame those who ...) 答在问中；不是陈述句，语气比陈述句更重；一般出现在文章或段落末尾；激起读者深思；避免陈述句的说教语气。 They tell us, sir, that we are weak; unable to cope with so formidable an adversary. But when shall we be stronger? Will it be the next week, or the next year? Will it be when we are totally disarmed, and when a British guard shall be stationed in every house? Shall we gather strength by irresolution and inaction? Shall we acquire the means of effectual resistance by lying supinely on our backs and hugging the delusive phantom of hope, until our enemies shall have bound us hand and foot? ——Patrick Henry, March 23, 1775 ‘Give Me Liberty Or Give Me Death’ Was the philosopher who refused to look through Galileo's telescope more culpable than those who alleged that the spiral nebulae observed with Lord Rosse's great telescope in the 1840s were scratches left by the grinder? allege （未提出证据）断言、指称 We can perhaps forgive those who said the moons of Jupiter were produced by Galileo's spyglass if we recall that in his day , as for centuries before, curved glass was the popular contrivance for producing not truth but illusion, untruth ; and if a single curved glass would distort nature, how much more would a pair of them? …, as curved glass was the popular contrivance for producing not truth but illusion, untruth for centuries before, curved glass was the popular contrivance for producing not truth but illusion, untruth; … （方式状语从句，主谓省略）补全 as for centuries before 如同几个世纪之前 curved glass 曲面镜"
+    },
+    {
+     "text": "…, based on a deeper sense of the period. 替换写法"
+    },
+    {
+     "text": "Her argument was supported by extensive research data. 她的论点得到了广泛研究数据的支撑。"
+    },
+    {
+     "text": "The project was supported by generous funding from the government. 该项目得到了政府慷慨资助的支撑。"
+    },
+    {
+     "table": {
+      "headers": [
+       "be based on 基于"
+      ],
+      "rows": [
+       [
+        "The theory is based on years of observation. 这一理论基于多年的观察。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "She has a strong sense of justice. 她有很强的正义感。"
+    },
+    {
+     "text": "His sense of responsibility drove him to act. 他的责任感促使他采取行动。"
+    },
+    {
+     "text": "Citizenship is about the sense of nationhood. 公民身份涉及国家意识。"
+    },
+    {
+     "text": "She was profoundly influenced by her mother. 她深受母亲的影响。"
+    },
+    {
+     "text": "His speech profoundly impacted the audience. 他的演讲极大地影响了听众。"
+    },
+    {
+     "text": "The discovery profoundly changed scientific thought. 这一发现深刻地改变了科学思想。"
+    },
+    {
+     "text": "The mediator attempted to get both sides to modify their position. 调解人试图让双方调整立场。"
+    },
+    {
+     "text": "They had to modify the design to meet safety standards. 他们不得不修改设计以符合安全标准。"
+    },
+    {
+     "text": "She modified her approach based on feedback. 她根据反馈调整了方法。"
+    },
+    {
+     "text": "Where do the knives live in your kitchen? 你厨房里的刀具存放在哪里？"
+    },
+    {
+     "text": "Old traditions still live in rural communities. 古老的传统依然存在于农村社区。"
+    },
+    {
+     "text": "His legacy lives on in modern science. 他的遗产在现代科学中继续存在。"
+    },
+    {
+     "text": "Can you form a picture of what I described to you? 你能想象出我描述的情景吗？"
+    },
+    {
+     "text": "Most of us have formed an unrealistic picture of life on a desert island ."
+    },
+    {
+     "text": "A new picture of Galileo has emerged among historians. 历史学家中形成了对伽利略的新形象。"
+    },
+    {
+     "text": "She expressed sympathy for the victims of the disaster. 她对灾难受害者表达了同情。"
+    },
+    {
+     "text": "He felt deep sympathy for those who suffered. 他对受苦的人深感同情。"
+    },
+    {
+     "text": "We expressed our sympathy for her loss. 我们对她的损失表示了同情。"
+    },
+    {
+     "table": {
+      "headers": [
+       "desire for 对…的欲望",
+       "appetite for 对…的欲望",
+       "lust for 对…的强烈欲望",
+       "longing for 对…的渴望",
+       "yearning for 渴望",
+       "craving for 强烈的愿望",
+       "hunger/thirst for 对…的渴望",
+       "love/affection for 对…的爱",
+       "zest/passion/enthusiasm for 对…的热情",
+       "pity/compassion for 对…的同情"
+      ],
+      "rows": [
+       [
+        "Perhaps it is the desire for solitude that lures people to the depths of the earth. 或许是对独处的渴望吸引人们深入地下。"
+       ],
+       [
+        "She has a strong appetite for adventure. 她对冒险有强烈的渴望。"
+       ],
+       [
+        "His lust for power drove his decisions. 他对权力的强烈欲望驱使了他的决定。"
+       ],
+       [
+        "They felt a deep longing for peace. 他们对和平有深深的渴望。"
+       ],
+       [
+        "Her yearning for home grew stronger each day. 她对家的渴望每天都在增强。"
+       ],
+       [
+        "He had a craving for success in his career. 他对事业成功的强烈愿望驱使着他。"
+       ],
+       [
+        "She has a thirst for knowledge. 她对知识有强烈的渴望。"
+       ],
+       [
+        "His love for science inspired his students. 他对科学的热爱激励了他的学生。"
+       ],
+       [
+        "Her enthusiasm for teaching was contagious. 她对教学的热情很有感染力。"
+       ],
+       [
+        "They showed compassion for the refugees. 他们对难民表现出同情。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "She faced a tough opponent in the debate. 她在辩论中面对一个强大的对手。"
+    },
+    {
+     "text": "The politician’s opponents criticized his policies. 这位政治家的反对者批评了他的政策。"
+    },
+    {
+     "text": "The wrestler put his opponent into a head hold. 那位摔跤手给对手来了个头部擒拿。"
+    },
+    {
+     "text": "She received a just reward for her efforts. 她因努力获得了公正的回报。"
+    },
+    {
+     "text": "The decision was seen as just by all parties. 所有相关方认为这个决定是公正的。"
+    },
+    {
+     "text": "Everyone deserves a just trial in a court of law. 每个人在法庭上都应当获得公正的审判。"
+    },
+    {
+     "table": {
+      "headers": [
+       "a just reward / punishment 应得的奖赏/惩罚"
+      ],
+      "rows": [
+       [
+        "The long prison sentence was considered a just punishment for his crimes. 长期的监禁被认为是他犯罪应得的惩罚。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The consequences of climate change are far-reaching. 气候变化的后果影响深远。"
+    },
+    {
+     "text": "They ignored the ecological consequences of their actions. 他们忽视了自己行为的生态后果。"
+    },
+    {
+     "text": "ecological consequences 生态后果"
+    },
+    {
+     "text": "It is true that China is still a developing country, but she is full of potential / potentialities. 中国仍是一个发展中国家，但她充满潜力。"
+    },
+    {
+     "text": "The new technology has vast potentialities for innovation. 这项新技术具有巨大的创新潜力。"
+    },
+    {
+     "text": "His work revealed the potential of scientific inquiry. 他的工作揭示了科学探究的潜力。"
+    },
+    {
+     "text": "The laboratory apparatus was carefully calibrated. 实验室仪器经过了精确校准。"
+    },
+    {
+     "text": "A new piece of apparatus improved their experiments. 一件新的器械改进了他们的实验。"
+    },
+    {
+     "table": {
+      "headers": [
+       "laboratory apparatus 实验室器械/仪器",
+       "a piece of apparatus 一件器械/一套装置"
+      ],
+      "rows": [
+       [
+        "Students must learn how to handle various types of laboratory apparatus safely. 学生们必须学会如何安全地操作各种实验室仪器。"
+       ],
+       [
+        "The technician is busy repairing a piece of apparatus in the physics lab. 技术员正忙着修理物理实验室里的一件仪器。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "A 200-power microscope revealed tiny details. 一台200倍的显微镜揭示了微小细节。"
+    },
+    {
+     "text": "Galileo used a 32-power telescope for his observations. 伽利略使用32倍的望远镜进行观测。"
+    },
+    {
+     "text": "The new power settings enhanced the telescope’s clarity. 新的倍数设置提升了望远镜的清晰度。"
+    },
+    {
+     "text": "This sort of work calls for a high level of concentration. 这种工作需要高度的专注。"
+    },
+    {
+     "text": "The quality is variable, so careful selection is called for. 质量参差不齐，因此需要谨慎选择。"
+    },
+    {
+     "text": "In this era, challenges call for a balance of imagination and knowledge. 在这个时代，挑战需要想象力与知识的平衡。"
+    },
+    {
+     "table": {
+      "headers": [
+       "need 需要",
+       "require 需要",
+       "demand 需要",
+       "it takes sth. to do sth. 做某事需要",
+       "entail sth. / doing 需要、使…成为必须 entail sb. doing 需要某人做某事",
+       "involve (doing) sth. 需要...",
+       "necessitate sth. 需要..."
+      ],
+      "rows": [
+       [
+        "What are the qualities that are needed for the job? 这份工作需要哪些素质？"
+       ],
+       [
+        "A lot of patience is required to look after a disabled child. 照顾残疾儿童需要很多耐心。"
+       ],
+       [
+        "This task demands a high level of skill. 这项任务需要高水平的技能。"
+       ],
+       [
+        "It takes stamina to be a long-distance runner. 做长跑运动员需要耐力。 It takes a lot of patience to look after a disabled child. Anyone can be passionate, but it takes real lovers to be silly. —— Rose Franken Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius and a lot of courage to move in the opposite direction. —— Albert Einstein"
+       ],
+       [
+        "The job entails a lot of hard work. 这份工作需要很多努力。 The journey entails changing trains twice. I’ll never accept parole because that entails me accepting guilt."
+       ],
+       [
+        "Community service can involve anything from gardening to helping in old people's homes. Jane was on a diet which involved eating nothing but fruit. That is perhaps why sculpture has been described as the most difficult of all arts; certainly it is more difficult than the arts which involve appreciation of flat forms, shape in only two dimensions ."
+       ],
+       [
+        "A prolonged drought necessitated the introduction of water rationing. 长期干旱使得水资源配给成为必要。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "What is the use of studying grammar if we can’t put it into practice? 如果我们不能将语法应用于实践，学习语法有什么用？"
+    },
+    {
+     "text": "O, wind, if winter comes, can spring be far behind? ‘Ode to the West Wind’ —— P. B. Shelley风啊，如果冬天来了，春天还会远吗？"
+    },
+    {
+     "text": "We often speak of tramps with contempt and put them in the same class as beggars, but how many of us can honestly say that we have not felt a little envious of their simple way of life and their freedom from care?"
+    },
+    {
+     "text": "Could any spectacle, for instance, be more grimly whimsical than that of gunners using science to shatter men's bodies while, close at hand, surgeons use it to restore them?"
+    },
+    {
+     "text": "Who among us has not dreamed of that?"
+    },
+    {
+     "text": "He alleged that they had hired an assassin to dispose of him. 他声称他们雇佣了刺客来除掉他。"
+    },
+    {
+     "text": "They alleged the results were falsified, but provided no proof. 他们声称结果是伪造的，但没有提供证据。"
+    },
+    {
+     "text": "She alleged misconduct in the organization. 她指称组织内存在不当行为。"
+    },
+    {
+     "text": "On the occasions when they have pushed to shore an unconscious human being they have much more likely done it out of curiosity or for sport, as (they have done it out of curiosity or for sport) in riding the bow waves of a ship . 状语从句的省略"
+    },
+    {
+     "text": "It is almost always due to some very special circumstances that traces of land animals survive, as traces of land animals survive by falling into inaccessible caves, or into an ice crevasse, like the Siberian mammoths, when the whole animal is sometimes preserved, as the whole animal is preserved in a refrigerator . 主语成分省略"
+    },
+    {
+     "text": "As for centuries before, traditions shaped their worldview. 如同几个世纪之前，传统塑造了他们的世界观。"
+    },
+    {
+     "text": "Superstitions, as for centuries before, influenced their decisions. 如同几个世纪之前，迷信影响了他们的决定。"
+    },
+    {
+     "text": "The curved glass in the telescope distorted early observations. 望远镜中的曲面镜扭曲了早期的观测。"
+    },
+    {
+     "text": "Advances in curved glass improved optical instruments. 曲面镜的进步改善了光学仪器。"
+    },
+    {
+     "table": {
+      "headers": [
+       "convex lens 凸透镜",
+       "concave lens 凹透镜"
+      ],
+      "rows": [
+       [
+        "The convex lens focused light for clearer images. 凸透镜聚焦光线以获得更清晰的图像。"
+       ],
+       [
+        "A concave lens was used to correct vision. 凹透镜被用来矫正视力。"
+       ]
+      ]
+     }
+    }
    ]
   }
  ]

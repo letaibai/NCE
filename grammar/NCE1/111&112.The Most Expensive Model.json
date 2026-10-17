@@ -2,54 +2,205 @@
  "grammar": [
   {
    "title": "比较级 & 最高级 & 同级比较",
-   "lines": [
-    "多音节词的比较级&最高级 as…as 同级比较 § 同否比较的否定",
-    "原级 比较级 最高级 适合规则",
-    "old older the oldest 一般情况直接加er,est",
-    "big bigger the biggest 辅+元+辅 (汉堡包结构)，双写最后一个辅音字母加 er, est",
-    "fat fatter the fattest",
-    "thin thinner the thinnest",
-    "late later the latest 以 e 结尾, 直接加 r, st",
-    "happy happier the happiest 辅音字母加 y 结尾,变 y 为 i,加 er, est",
-    "多音节原级 比较级 最高级",
-    "bea / uti / ful more ... the most ...",
-    "ex / pen / sive",
-    "im / por / tant",
-    "in / tere / sting",
-    "She is more beautiful than before. 她比从前更漂亮。",
-    "His hairdo is more fashionable than before. 他的发型比从前时尚。",
-    "The office building s in HK are the most expensive . 香港的写字楼是最贵的。",
-    "as + 形容词\\副词 + as",
-    "as cool as… 一样的帅气 as happy as… 一样的开心 as interesting as… 一样的有趣 as expensive as… 一样的贵",
-    "Mr. Wu is as cool as Mr. Wang. 他俩一样的帅气。 She is as happy as me. This book is as interesting as the movie. 这本书和那部电影一样有趣。 This watch is as expensive as the car. 这块手表和那辆车一样贵。",
-    "not as + 形容词\\副词 + as",
-    "A not as cool as B A 不及 B 帅气",
-    "as happy as A 不及 B 开心",
-    "as interesting as A 不及 B 有趣",
-    "She is not as fat as she was before. 她不像以前那样胖。",
-    "as young as before. 她不像从前那么年轻。"
+   "parts": [
+    {
+     "text": "多音节词的比较级&最高级 as…as 同级比较 § 同否比较的否定"
+    },
+    {
+     "table": {
+      "headers": [
+       "原级",
+       "比较级",
+       "最高级",
+       "适合规则"
+      ],
+      "rows": [
+       [
+        "old",
+        "older",
+        "the oldest",
+        "一般情况直接加er,est"
+       ],
+       [
+        "big",
+        "bigger",
+        "the biggest",
+        "辅+元+辅 (汉堡包结构)，双写最后一个辅音字母加 er, est"
+       ],
+       [
+        "fat",
+        "fatter",
+        "the fattest"
+       ],
+       [
+        "thin",
+        "thinner",
+        "the thinnest"
+       ],
+       [
+        "late",
+        "later",
+        "the latest",
+        "以 e 结尾, 直接加 r, st"
+       ],
+       [
+        "happy",
+        "happier",
+        "the happiest",
+        "辅音字母加 y 结尾,变 y 为 i,加 er, est"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "多音节原级",
+       "比较级",
+       "最高级"
+      ],
+      "rows": [
+       [
+        "bea / uti / ful",
+        "more ...",
+        "the most ..."
+       ],
+       [
+        "ex / pen / sive"
+       ],
+       [
+        "im / por / tant"
+       ],
+       [
+        "in / tere / sting"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "She is more beautiful than before. 她比从前更漂亮。"
+    },
+    {
+     "text": "His hairdo is more fashionable than before. 他的发型比从前时尚。"
+    },
+    {
+     "text": "The office building s in HK are the most expensive . 香港的写字楼是最贵的。"
+    },
+    {
+     "table": {
+      "headers": [
+       "as + 形容词\\副词 + as"
+      ],
+      "rows": [
+       [
+        "as cool as… 一样的帅气",
+        "as happy as… 一样的开心",
+        "as interesting as… 一样的有趣",
+        "as expensive as… 一样的贵"
+       ],
+       [
+        "Mr. Wu is as cool as Mr. Wang. 他俩一样的帅气。",
+        "She is as happy as me.",
+        "This book is as interesting as the movie. 这本书和那部电影一样有趣。",
+        "This watch is as expensive as the car. 这块手表和那辆车一样贵。"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "not as + 形容词\\副词 + as",
+       "not",
+       "not"
+      ],
+      "rows": [
+       [
+        "A",
+        "as cool as",
+        "B",
+        "A 不及 B 帅气"
+       ],
+       [
+        "as happy as",
+        "A 不及 B 开心"
+       ],
+       [
+        "as interesting as",
+        "A 不及 B 有趣"
+       ],
+       [
+        "She is",
+        "as fat as",
+        "she was before.",
+        "她不像以前那样胖。"
+       ],
+       [
+        "as young as",
+        "before.",
+        "她不像从前那么年轻。"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "How do they compare？它们的比较级和最高级是什么？",
-   "lines": [
-    "同级比较 同级比较否定",
-    "The green apple is as sweet as the red one.(一样) The man is as tall as the lady.(一样) The man is as short as the other man.(一样) This television is not as expensive as the other one. (不及) This bag is not as new as the other one.(不及) The box is not as heavy as the other one.(不及)",
-    "原级 adj. 比较级 more + adj. 最高级 the most + adj. + 范围",
-    "This test is difficult. This test is more difficult . This is the most difficult test I have ever done !",
-    "This book is interesting. This book is less interesting . This is the least interesting book I have ever read ."
+   "parts": [
+    {
+     "table": {
+      "headers": [
+       "同级比较",
+       "同级比较否定"
+      ],
+      "rows": [
+       [
+        "The green apple is as sweet as the red one.(一样) The man is as tall as the lady.(一样) The man is as short as the other man.(一样)",
+        "This television is not as expensive as the other one. (不及) This bag is not as new as the other one.(不及) The box is not as heavy as the other one.(不及)"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "原级 adj.",
+       "比较级 more + adj.",
+       "最高级 the most + adj. + 范围"
+      ],
+      "rows": [
+       [
+        "This test is difficult.",
+        "This test is more difficult .",
+        "This is the most difficult test I have ever done !"
+       ],
+       [
+        "This book is interesting.",
+        "This book is less interesting .",
+        "This is the least interesting book I have ever read ."
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "你比她难看",
-   "lines": [
-    "The old lady is uglier than you(are). 那老太太长的比你还难看呢。",
-    "She is not as ugly as you(are). 她没有你难看。",
-    "You are uglier than she (is). 你比她难看。"
+   "parts": [
+    {
+     "text": "The old lady is uglier than you(are). 那老太太长的比你还难看呢。"
+    },
+    {
+     "text": "She is not as ugly as you(are). 她没有你难看。"
+    },
+    {
+     "text": "You are uglier than she (is). 你比她难看。"
+    }
    ]
   }
  ]

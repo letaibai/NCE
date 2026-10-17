@@ -2,94 +2,303 @@
  "grammar": [
   {
    "title": "情况",
-   "lines": [
-    "This is what the sculptor must do . sculptor’s task 雕塑家的任务 He must strive continually to think of, and use, form in its full spatial completeness. strive v.try very hard to obtain or achieve sth. （为获得或实现某事物） 努力，奋斗 think of 想象某事物 He gets the solid shape, as it were , inside his head -- he thinks of it, whatever its size (is) , as if he were holding it completely enclosed in the hollow of his hand. as it were / so to speak 好像 whatever 无论什么(引导让步状语从句时，常省略 be 动词) as if / as though 好像 从句中表达与事实相反或可能性很小时，可以用虚拟语气。与现在事实相反用一般过去时（be 动词一般用 were），与过去事实相反用过去完成时，与未来趋势相反用 would / should / could / might + 动词原形 hollow n.a place in something that is at a slightly lower level than its surface 凹陷处 He mentally visualizes a complex form from all round itself; he knows while he looks at one side what the other side is like ; he identifies himself with its centre of gravity, its mass, its weight; he realizes its volume as the space that the shape displaces in the air . from all round 副词和介词短语都可以作介词的宾语 identify … with … 把…与…联系起来;把…和…等同起来 displace v.to take the place of sb. or sth. 代替，取代",
-    "The sculptor’s task is to envision form in three dimensions. 雕塑家的任务是想象三维形式。",
-    "A sculptor’s task requires immense creativity and precision. 雕塑家的任务需要巨大的创造力和精确性。",
-    "The sculptor’s task involves understanding spatial relationships. 雕塑家的任务包括理解空间关系。",
-    "We strive to be accurate, but some mistakes are inevitable. 我们努力做到准确，但一些错误不可避免。",
-    "Women were striving for more freedom in that era. 那个时代的女性为争取更多自由而努力。",
-    "women who were striving for more freedom",
-    "He strives to perfect his craft every day. 他每天努力完善自己的技艺。",
-    "strive to do sth. 努力去做某事 She strives to do her best in every project. 她努力在每个项目中做到最好。",
-    "strive for 为了…而努力 They strive for equality in their community. 他们为社区的平等而努力。",
-    "Just think of the expense! 想想那笔开销吧！",
-    "He must think of form in its full spatial completeness. 他必须想象形式在完整的空间存在。",
-    "Can you think of a better solution? 你能想到更好的解决方案吗？",
-    "imagine sth. 想象某事物 She could imagine the sculpture in vivid detail. 她能生动地想象雕塑的细节。",
-    "They will be able, as it were, to see and hear us in action . 他们好像能看到和听到我们在行动。",
-    "It is said that the nerve poison is the more primitive of the two, that the blood poison is, so to speak, a newer product from an improved formula .",
-    "He gets the shape, as it were, inside his head. 他好像在脑海中构想了形状。",
-    "Whatever the source of noise (is) , one thing is certain . 无论噪音来源是什么，有一件事是确定的。",
-    "Whatever her faults (are) , she is your mother. 无论她有什么缺点，她是你的母亲。",
-    "The country is beautiful whatever the season (is) . 无论什么季节，这个国家都很美。",
-    "It is as if a single unimportant event set up a chain of reactions.",
-    "It's as if they were in some sense cosmic beings in violent and lovely contrast with us suburban creatures .",
-    "…, but I do not turn for protection to dreary clichés about respect of elders, as if mere age were a reason for respect.",
-    "Gesticulating wildly, the man acted as if he found my offer outrageous, but he eventually reduced the price to ₤10.",
-    "Speculations about its nature have been going on for literally thousands of years, and one odd finding that makes the problem puzzling is that it looks very much as if sleeping is not simply a matter of giving the body a rest.",
-    "He thinks of it, as if he were holding it in his hand. 他想象它，好像正握在手中。",
-    "Don’t act as if you were the only pebble on the beach. 不要表现得好像你是唯一重要的人。",
-    "It looks as though it might rain. 看起来好像要下雨了。",
-    "Don’t act as if you were the only pebble on the beach. 不要自视太高",
-    "As if this were not enough to reduce you to tears, your husband arrives, unexpectedly bringing three guests to dinner.",
-    "I felt as if I had stumbled into a nightmare country, as you sometimes do in dreams.",
-    "It looks as if it might rain.",
-    "as if / as though 虚拟语气为进行时 (一般都用were doing 的形式) 'Oh, that,' he said with a smile as if he were talking about an old friend. Suddenly, the knocking turned to a forceful banging, as if someone were hitting the door with a metal rod. (The Da Vinci Code) It looks as if he were talking to someone invisible.",
-    "The dog found a hollow in the ground to hide from the wind. 狗在地面上找到一个凹陷处躲避风。",
-    "She held the small bird in the hollow of her hand. 她将小鸟握在手的凹陷处。",
-    "He envisioned the shape in the hollow of his mind. 他在脑海的凹陷处想象形状。",
-    "Towards midday, a girl heard a muffled cry coming from behind one of the walls.",
-    "I took my watch from under the pillow.",
-    "We didn’t meet until after the show.",
-    "The weather has been fine except in the north.",
-    "there was a slight trembling sound from below",
-    "There is a fine view from here.",
-    "I heard them calling me from below.",
-    "They have just returned from abroad.",
-    "He picked up the gun from behind the counter.",
-    "I live near here.",
-    "When I returned from abroad recently, a particularly officious young Customs Officer clearly regarded me as a smuggler.",
-    "Suddenly, there was a slight trembling sound from below, and the captain went down to see what had happened.",
-    "Before long, biscuits of all shapes and sizes began arriving at the factory.",
-    "After crossing the equator, the captain called in at a port to have a new rudder fitted, but by now the Thermopylae was over five hundred miles ahead.",
-    "The statue was admired from all round the gallery. 这座雕像从画廊的四周被欣赏。",
-    "She examined the object from all round to understand its structure. 她从四周检查物体以理解其结构。",
-    "One cannot identify happiness with wealth. 不能将幸福与财富等同起来。",
-    "Never identify opinions with facts. 永远不要将观点与事实等同。",
-    "He refused to identify himself with the new political party. 他拒绝将自己与新政党联系起来。",
-    "The politician is too closely identified with the former government to become a minister in ours.",
-    "Gradually factory workers have been displaced by machines. 工厂工人逐渐被机器取代。",
-    "The new technology displaced older methods. 新技术取代了旧方法。",
-    "Modern designs have displaced traditional styles in architecture. 现代设计取代了建筑中的传统风格。"
+   "parts": [
+    {
+     "text": "This is what the sculptor must do . sculptor’s task 雕塑家的任务 He must strive continually to think of, and use, form in its full spatial completeness. strive v.try very hard to obtain or achieve sth. （为获得或实现某事物） 努力，奋斗 think of 想象某事物 He gets the solid shape, as it were , inside his head -- he thinks of it, whatever its size (is) , as if he were holding it completely enclosed in the hollow of his hand. as it were / so to speak 好像 whatever 无论什么(引导让步状语从句时，常省略 be 动词) as if / as though 好像 从句中表达与事实相反或可能性很小时，可以用虚拟语气。与现在事实相反用一般过去时（be 动词一般用 were），与过去事实相反用过去完成时，与未来趋势相反用 would / should / could / might + 动词原形 hollow n.a place in something that is at a slightly lower level than its surface 凹陷处 He mentally visualizes a complex form from all round itself; he knows while he looks at one side what the other side is like ; he identifies himself with its centre of gravity, its mass, its weight; he realizes its volume as the space that the shape displaces in the air . from all round 副词和介词短语都可以作介词的宾语 identify … with … 把…与…联系起来;把…和…等同起来 displace v.to take the place of sb. or sth. 代替，取代"
+    },
+    {
+     "text": "The sculptor’s task is to envision form in three dimensions. 雕塑家的任务是想象三维形式。"
+    },
+    {
+     "text": "A sculptor’s task requires immense creativity and precision. 雕塑家的任务需要巨大的创造力和精确性。"
+    },
+    {
+     "text": "The sculptor’s task involves understanding spatial relationships. 雕塑家的任务包括理解空间关系。"
+    },
+    {
+     "text": "We strive to be accurate, but some mistakes are inevitable. 我们努力做到准确，但一些错误不可避免。"
+    },
+    {
+     "text": "Women were striving for more freedom in that era. 那个时代的女性为争取更多自由而努力。"
+    },
+    {
+     "text": "women who were striving for more freedom"
+    },
+    {
+     "text": "He strives to perfect his craft every day. 他每天努力完善自己的技艺。"
+    },
+    {
+     "table": {
+      "headers": [
+       "strive to do sth. 努力去做某事",
+       "strive for 为了…而努力"
+      ],
+      "rows": [
+       [
+        "She strives to do her best in every project. 她努力在每个项目中做到最好。"
+       ],
+       [
+        "They strive for equality in their community. 他们为社区的平等而努力。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Just think of the expense! 想想那笔开销吧！"
+    },
+    {
+     "text": "He must think of form in its full spatial completeness. 他必须想象形式在完整的空间存在。"
+    },
+    {
+     "text": "Can you think of a better solution? 你能想到更好的解决方案吗？"
+    },
+    {
+     "table": {
+      "headers": [
+       "imagine sth. 想象某事物"
+      ],
+      "rows": [
+       [
+        "She could imagine the sculpture in vivid detail. 她能生动地想象雕塑的细节。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "They will be able, as it were, to see and hear us in action . 他们好像能看到和听到我们在行动。"
+    },
+    {
+     "text": "It is said that the nerve poison is the more primitive of the two, that the blood poison is, so to speak, a newer product from an improved formula ."
+    },
+    {
+     "text": "He gets the shape, as it were, inside his head. 他好像在脑海中构想了形状。"
+    },
+    {
+     "text": "Whatever the source of noise (is) , one thing is certain . 无论噪音来源是什么，有一件事是确定的。"
+    },
+    {
+     "text": "Whatever her faults (are) , she is your mother. 无论她有什么缺点，她是你的母亲。"
+    },
+    {
+     "text": "The country is beautiful whatever the season (is) . 无论什么季节，这个国家都很美。"
+    },
+    {
+     "text": "It is as if a single unimportant event set up a chain of reactions."
+    },
+    {
+     "text": "It's as if they were in some sense cosmic beings in violent and lovely contrast with us suburban creatures ."
+    },
+    {
+     "text": "…, but I do not turn for protection to dreary clichés about respect of elders, as if mere age were a reason for respect."
+    },
+    {
+     "text": "Gesticulating wildly, the man acted as if he found my offer outrageous, but he eventually reduced the price to ₤10."
+    },
+    {
+     "text": "Speculations about its nature have been going on for literally thousands of years, and one odd finding that makes the problem puzzling is that it looks very much as if sleeping is not simply a matter of giving the body a rest."
+    },
+    {
+     "text": "He thinks of it, as if he were holding it in his hand. 他想象它，好像正握在手中。"
+    },
+    {
+     "text": "Don’t act as if you were the only pebble on the beach. 不要表现得好像你是唯一重要的人。"
+    },
+    {
+     "text": "It looks as though it might rain. 看起来好像要下雨了。"
+    },
+    {
+     "text": "Don’t act as if you were the only pebble on the beach. 不要自视太高"
+    },
+    {
+     "text": "As if this were not enough to reduce you to tears, your husband arrives, unexpectedly bringing three guests to dinner."
+    },
+    {
+     "text": "I felt as if I had stumbled into a nightmare country, as you sometimes do in dreams."
+    },
+    {
+     "text": "It looks as if it might rain."
+    },
+    {
+     "table": {
+      "headers": [
+       "as if / as though 虚拟语气为进行时 (一般都用were doing 的形式)"
+      ],
+      "rows": [
+       [
+        "'Oh, that,' he said with a smile as if he were talking about an old friend. Suddenly, the knocking turned to a forceful banging, as if someone were hitting the door with a metal rod. (The Da Vinci Code) It looks as if he were talking to someone invisible."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The dog found a hollow in the ground to hide from the wind. 狗在地面上找到一个凹陷处躲避风。"
+    },
+    {
+     "text": "She held the small bird in the hollow of her hand. 她将小鸟握在手的凹陷处。"
+    },
+    {
+     "text": "He envisioned the shape in the hollow of his mind. 他在脑海的凹陷处想象形状。"
+    },
+    {
+     "text": "Towards midday, a girl heard a muffled cry coming from behind one of the walls."
+    },
+    {
+     "text": "I took my watch from under the pillow."
+    },
+    {
+     "text": "We didn’t meet until after the show."
+    },
+    {
+     "text": "The weather has been fine except in the north."
+    },
+    {
+     "text": "there was a slight trembling sound from below"
+    },
+    {
+     "text": "There is a fine view from here."
+    },
+    {
+     "text": "I heard them calling me from below."
+    },
+    {
+     "text": "They have just returned from abroad."
+    },
+    {
+     "text": "He picked up the gun from behind the counter."
+    },
+    {
+     "text": "I live near here."
+    },
+    {
+     "text": "When I returned from abroad recently, a particularly officious young Customs Officer clearly regarded me as a smuggler."
+    },
+    {
+     "text": "Suddenly, there was a slight trembling sound from below, and the captain went down to see what had happened."
+    },
+    {
+     "text": "Before long, biscuits of all shapes and sizes began arriving at the factory."
+    },
+    {
+     "text": "After crossing the equator, the captain called in at a port to have a new rudder fitted, but by now the Thermopylae was over five hundred miles ahead."
+    },
+    {
+     "text": "The statue was admired from all round the gallery. 这座雕像从画廊的四周被欣赏。"
+    },
+    {
+     "text": "She examined the object from all round to understand its structure. 她从四周检查物体以理解其结构。"
+    },
+    {
+     "text": "One cannot identify happiness with wealth. 不能将幸福与财富等同起来。"
+    },
+    {
+     "text": "Never identify opinions with facts. 永远不要将观点与事实等同。"
+    },
+    {
+     "text": "He refused to identify himself with the new political party. 他拒绝将自己与新政党联系起来。"
+    },
+    {
+     "text": "The politician is too closely identified with the former government to become a minister in ours."
+    },
+    {
+     "text": "Gradually factory workers have been displaced by machines. 工厂工人逐渐被机器取代。"
+    },
+    {
+     "text": "The new technology displaced older methods. 新技术取代了旧方法。"
+    },
+    {
+     "text": "Modern designs have displaced traditional styles in architecture. 现代设计取代了建筑中的传统风格。"
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "结论",
-   "lines": [
-    "And the sensitive observer of sculpture must also learn to feel shape simply as shape, not as description or reminiscence. feel shape as shape 感受形状本身 He must , for example, perceive an egg as a simple single solid shape quite apart from its significance as food, or from the literary idea that it will become a bird. perceive … as … 把…当做是…认为…是… apart from 除了/脱离 And so with solids such as a shell, a nut, a plum, a pear, a tadpole, a mushroom, a mountain peak, a kidney, a carrot, a tree-trunk, a bird, a bud, a lark, a ladybird, a bulrush, a bone. solids 立体物体 From these he can go on to appreciate more complex forms or combinations of several forms. go on to do sth. 继续 做下一件事（完成某事后）",
-    "Artists are trained to feel shape as shape without external associations. 艺术家被训练去感受形状本身，不带外部联想。",
-    "To appreciate sculpture, one must feel shape as shape purely. 要欣赏雕塑，必须纯粹地感受形状本身。",
-    "She did not perceive herself as disabled. 她并未把自己视为残疾人。",
-    "Computers were often perceived as a threat. 计算机常被视为一种威胁。",
-    "Even as a young woman, she had been perceived as a future chief executive. 即使在年轻时，她也被认为是一位未来的首席执行官。",
-    "Apart from anything else I was starving. 别的不说，我快饿死了。",
-    "She keeps herself apart from other people.她与其他人保持距离。",
-    "Her elegant style sets her apart from other journalists. 她的典雅风格使她与其他记者截然不同。",
-    "apart from = except for 除了… I've finished apart from the last question.",
-    "apart from = besides 除了…（还…） Apart from their house in London, they also have a villa in Spain.",
-    "apart from = separate from 脱离开… There can be no knowledge apart from practice. You can hardly consider the one apart from the other.",
-    "He must feel solids like a shell as solids. 他必须将贝壳等立体物体感受为立体物体。",
-    "The sculptor studies solids such as a nut or a bone. 雕塑家研究像坚果或骨头这样的立体物体。",
-    "Understanding solids like a tree-trunk is key to sculpture. 理解像树干这样的立体物体是雕塑的关键。",
-    "What proportion of people who are HIV-positive go on to develop AIDS?",
-    "The book goes on to describe his experiences in the army. 这本书继续描述他在军队中的经历。",
-    "After finishing the basics, she went on to learn advanced techniques. 完成基础后，她继续学习高级技术。",
-    "He went on to explore more complex forms of art. 他继续探索更复杂的艺术形式。",
-    "go on with sth. 继续做 同 一件事 Please go on with what you're doing and don't let us interrupt you. 请继续做你的事，不要让我们打断你。",
-    "go on doing sth. 持续 做某事 Actors are required to go on repeating the same lines night after night . 演员需要夜复一夜地持续重复相同的台词。"
+   "parts": [
+    {
+     "text": "And the sensitive observer of sculpture must also learn to feel shape simply as shape, not as description or reminiscence. feel shape as shape 感受形状本身 He must , for example, perceive an egg as a simple single solid shape quite apart from its significance as food, or from the literary idea that it will become a bird. perceive … as … 把…当做是…认为…是… apart from 除了/脱离 And so with solids such as a shell, a nut, a plum, a pear, a tadpole, a mushroom, a mountain peak, a kidney, a carrot, a tree-trunk, a bird, a bud, a lark, a ladybird, a bulrush, a bone. solids 立体物体 From these he can go on to appreciate more complex forms or combinations of several forms. go on to do sth. 继续 做下一件事（完成某事后）"
+    },
+    {
+     "text": "Artists are trained to feel shape as shape without external associations. 艺术家被训练去感受形状本身，不带外部联想。"
+    },
+    {
+     "text": "To appreciate sculpture, one must feel shape as shape purely. 要欣赏雕塑，必须纯粹地感受形状本身。"
+    },
+    {
+     "text": "She did not perceive herself as disabled. 她并未把自己视为残疾人。"
+    },
+    {
+     "text": "Computers were often perceived as a threat. 计算机常被视为一种威胁。"
+    },
+    {
+     "text": "Even as a young woman, she had been perceived as a future chief executive. 即使在年轻时，她也被认为是一位未来的首席执行官。"
+    },
+    {
+     "text": "Apart from anything else I was starving. 别的不说，我快饿死了。"
+    },
+    {
+     "text": "She keeps herself apart from other people.她与其他人保持距离。"
+    },
+    {
+     "text": "Her elegant style sets her apart from other journalists. 她的典雅风格使她与其他记者截然不同。"
+    },
+    {
+     "table": {
+      "headers": [
+       "apart from = except for 除了…",
+       "apart from = besides 除了…（还…）",
+       "apart from = separate from 脱离开…"
+      ],
+      "rows": [
+       [
+        "I've finished apart from the last question."
+       ],
+       [
+        "Apart from their house in London, they also have a villa in Spain."
+       ],
+       [
+        "There can be no knowledge apart from practice. You can hardly consider the one apart from the other."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "He must feel solids like a shell as solids. 他必须将贝壳等立体物体感受为立体物体。"
+    },
+    {
+     "text": "The sculptor studies solids such as a nut or a bone. 雕塑家研究像坚果或骨头这样的立体物体。"
+    },
+    {
+     "text": "Understanding solids like a tree-trunk is key to sculpture. 理解像树干这样的立体物体是雕塑的关键。"
+    },
+    {
+     "text": "What proportion of people who are HIV-positive go on to develop AIDS?"
+    },
+    {
+     "text": "The book goes on to describe his experiences in the army. 这本书继续描述他在军队中的经历。"
+    },
+    {
+     "text": "After finishing the basics, she went on to learn advanced techniques. 完成基础后，她继续学习高级技术。"
+    },
+    {
+     "text": "He went on to explore more complex forms of art. 他继续探索更复杂的艺术形式。"
+    },
+    {
+     "table": {
+      "headers": [
+       "go on with sth. 继续做 同 一件事",
+       "go on doing sth. 持续 做某事"
+      ],
+      "rows": [
+       [
+        "Please go on with what you're doing and don't let us interrupt you. 请继续做你的事，不要让我们打断你。"
+       ],
+       [
+        "Actors are required to go on repeating the same lines night after night . 演员需要夜复一夜地持续重复相同的台词。"
+       ]
+      ]
+     }
+    }
    ]
   }
  ]

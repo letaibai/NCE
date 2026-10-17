@@ -2,124 +2,604 @@
  "grammar": [
   {
    "title": "时态总复习",
-   "lines": [
-    "一般现在时态 （动词三单） 现在进行时态 （现在分词） 现在完成时态 （过去分词） 过去分词有很多 不规则动词 ，而且非常的常用，需要 单独记忆 ，这也是为什么 现在完成时 是所有时态中 最难的 原因之一。过去式与过去分词的区别 只有 【 不规则动词 】，其它是一样的。 一般过去时态 (动词过去式) 有约200多个常用的 不规则动词 需要单独去记忆。 过去式与过去分词的区别只有不规则动词，其它是一样的。 过去进行时态(现在分词) 过去完成时态（过去分词） 对比现在完成时可以发现只是将has/have 变成了had而以。这是因为这是我们立足点不同，立足到现在，就是现在完成时，立足去过去，就是过去完成时。 一般将来时态（动词原型） 过去将来时态 把上面的“ 一般将来时 ”向前推一个时态，变成了“ 过去将来时 ”。 He was 20 years old at that time.In three years, he would be 23 years old.那年他 20 岁了，三年后他是 23 岁。 站在了“那年”这个时间点向前推“三年”，现在可能是24岁? 60年？80岁？一切以“那年”为基准。He told me he would come to Beijing.",
-    "何时用 结构 示例 (Examples)",
-    "描述经常的状态 主语 + is \\ am \\ are + 非动词 They are very bad.",
-    "描述习惯的动作 主语 + do (v.原型) They often cheat in the exams.",
-    "描述真理 主语 + is \\am\\ are + 非动词 主语 + do (v.原型) The earth is round. The sun rises in the east.",
-    "主语 + v. (先看词性，再看人称。) 陈述句 否定句 疑问句",
-    "主语(非三单) + do Jim and Lily walk to school every day. They drink beer every night. Jim and Lily don't walk to school every day. They don't drink beer every night. Are you a teacher? Do they drink beer every night?",
-    "主语(三单) + does He loves his girlfriend very much. My dog watches TV at night. He doesn't love his girlfriend very much. My dog doesn't watch TV at night. Is he an IT worker? Does he love his girlfriend very much?",
-    "何时用 结构 示例 (Examples)",
-    "此时此刻正在 主语 + is \\am\\ are + doing be是帮助doing的助动词，非系动词 I am working.",
-    "陈述句 否定句(is/am/are + not) 疑问句(is/am/are提前)",
-    "They are running . They are not running . Are they running ? No, they are not.",
-    "何时用 结构 示例 (Examples)",
-    "全部/部分完成 主语 + has\\have + done I have aired the room.(全部) He has watched the movie.(全部) They have lived in Beijing for ten years.(部分)",
-    "表示持续 主语 + has\\have + been + 非动词 She has been studying all day.",
-    "陈述句 否定句(have/has + not) 一般疑问句(have/has 提前)",
-    "She has been studying all day. She has not been studying all day. Has she been studying all day?",
-    "You have aired the room. You have not aired the room. Have you aired the room?",
-    "He has watched the movie. He has not watched the movie. Has he watched the movie?",
-    "They have lived in Beijing for ten years. They have not lived in Beijing for ten years. Have they lived in Beijing for ten years?",
-    "“ 现在完成时 ”与 “ 过去完成时 ”极容易混淆，请注意其区别，have + done，had + done.",
-    "何时用 结构 示例 (Examples)",
-    "过去经常的状态 主语 + was\\were I/He was (I、三单时) happy yesterday. You/They were (复数:your、They等) happy yesterday.",
-    "过去习惯的动作 主语 + did (v. 过去式) I/she/he/they/you cooked dinner last night.",
-    "陈述句 否定句(didn't + v.) 一般疑问句(助动词did)",
-    "I studied in the US in 2010. I didn't study in the US in 2010. Did I study in the US in 2010?",
-    "The bus stopped just now. The bus didn't stop just now. Did the bus stop just now?",
-    "I/He was happy yesterday. I/He wasn't happy yesterday. Was I/He happy yesterday?",
-    "何时用 结构 示例 (Examples)",
-    "过去某一时刻、时段正发生的动作 主语 + was\\were + doing I was working at 10:00 last night.",
-    "陈述句 否定句(was/were + not) 一般疑问句(was/were 提前)",
-    "She was doing her homework at 10:00 last night. She was not doing her homework at 10:00 last night. Was she doing her homework at 10:00 last night?",
-    "They were having a date from 7:00-9:06 yesterday. They were not having a date from 7:00-9:06 yesterday. Were they having a date from 7:00-9:06 yesterday?",
-    "何时用 结构 示例 (Examples)",
-    "过去某一时刻之前发生的动作、状态 主语 + had + done She had done her homework before 10:00 last night.",
-    "表示过去持续 主语 + had + been + 非动词 He had been studying for hours.",
-    "现在完成时 过去完成时(通常搭配一般过去时使用)",
-    "She has done her homework. 她已完成作业 She had done her homework when her mother came home.",
-    "陈述句 一般疑问句(had 提前) 否定句(had + not)",
-    "She had been studying all day. Had she been studying all day? She had not been studying all day.",
-    "You had aired the room. Had you aired the room? You had not aired the room.",
-    "He had watched the movie. Had he watched the movie? He had not watched the movie.",
-    "They had lived in Beijing for ten years. Had they lived in Beijing for ten years? They had not lived in Beijing for ten years.",
-    "何时用 结构 示例 (Examples)",
-    "表示计划、打算或即将要发生的事 主语 + is/am/are + going to It's going to be fine tomorrow.",
-    "主语 + will\\shall + v. You will be late. I shall be late.",
-    "原句 一般疑问句(will、be提前) 否定句(will、be + not)",
-    "He will come on time. Will he come on time? He will not come on time.",
-    "The woman is going to talk to you. Is the woman going to talk to you? The woman is not going to talk to you.",
-    "He will show his true colors someday. Will he show his true colors someday? He will not show his true colors someday.",
-    "You will be late. Will you be late? You will not be late.",
-    "The woman is going to talk to you. Is the woman going to talk to you? The woman is not going to talk to you.",
-    "何时用 结构 示例 (Examples)",
-    "表示过去的计划、打算或即将发生的 主语 + was/were + going to It was going to be fine tomorrow.",
-    "主语 + would + v. You would be late. I would be late.",
-    "句子 一般将来时 过去将来时",
-    "肯定句 I will go to the beach tomorrow. He said he would come to the party.",
-    "一般疑问句 Will you come with us? Would you like some tea?",
-    "否定句 He will not attend the meeting. She should not have gone there."
+   "parts": [
+    {
+     "text": "一般现在时态 （动词三单） 现在进行时态 （现在分词） 现在完成时态 （过去分词） 过去分词有很多 不规则动词 ，而且非常的常用，需要 单独记忆 ，这也是为什么 现在完成时 是所有时态中 最难的 原因之一。过去式与过去分词的区别 只有 【 不规则动词 】，其它是一样的。 一般过去时态 (动词过去式) 有约200多个常用的 不规则动词 需要单独去记忆。 过去式与过去分词的区别只有不规则动词，其它是一样的。 过去进行时态(现在分词) 过去完成时态（过去分词） 对比现在完成时可以发现只是将has/have 变成了had而以。这是因为这是我们立足点不同，立足到现在，就是现在完成时，立足去过去，就是过去完成时。 一般将来时态（动词原型） 过去将来时态 把上面的“ 一般将来时 ”向前推一个时态，变成了“ 过去将来时 ”。 He was 20 years old at that time.In three years, he would be 23 years old.那年他 20 岁了，三年后他是 23 岁。 站在了“那年”这个时间点向前推“三年”，现在可能是24岁? 60年？80岁？一切以“那年”为基准。He told me he would come to Beijing."
+    },
+    {
+     "table": {
+      "headers": [
+       "何时用",
+       "结构",
+       "示例 (Examples)"
+      ],
+      "rows": [
+       [
+        "描述经常的状态",
+        "主语 + is \\ am \\ are + 非动词",
+        "They are very bad."
+       ],
+       [
+        "描述习惯的动作",
+        "主语 + do (v.原型)",
+        "They often cheat in the exams."
+       ],
+       [
+        "描述真理",
+        "主语 + is \\am\\ are + 非动词 主语 + do (v.原型)",
+        "The earth is round. The sun rises in the east."
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "主语 + v. (先看词性，再看人称。)",
+       "陈述句",
+       "否定句",
+       "疑问句"
+      ],
+      "rows": [
+       [
+        "主语(非三单) + do",
+        "Jim and Lily walk to school every day. They drink beer every night.",
+        "Jim and Lily don't walk to school every day. They don't drink beer every night.",
+        "Are you a teacher? Do they drink beer every night?"
+       ],
+       [
+        "主语(三单) + does",
+        "He loves his girlfriend very much. My dog watches TV at night.",
+        "He doesn't love his girlfriend very much. My dog doesn't watch TV at night.",
+        "Is he an IT worker? Does he love his girlfriend very much?"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "何时用",
+       "结构",
+       "示例 (Examples)"
+      ],
+      "rows": [
+       [
+        "此时此刻正在",
+        "主语 + is \\am\\ are + doing be是帮助doing的助动词，非系动词",
+        "I am working."
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "陈述句",
+       "否定句(is/am/are + not)",
+       "疑问句(is/am/are提前)"
+      ],
+      "rows": [
+       [
+        "They are running .",
+        "They are not running .",
+        "Are they running ? No, they are not."
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "何时用",
+       "结构",
+       "示例 (Examples)"
+      ],
+      "rows": [
+       [
+        "全部/部分完成",
+        "主语 + has\\have + done",
+        "I have aired the room.(全部) He has watched the movie.(全部) They have lived in Beijing for ten years.(部分)"
+       ],
+       [
+        "表示持续",
+        "主语 + has\\have + been + 非动词",
+        "She has been studying all day."
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "陈述句",
+       "否定句(have/has + not)",
+       "一般疑问句(have/has 提前)"
+      ],
+      "rows": [
+       [
+        "She has been studying all day.",
+        "She has not been studying all day.",
+        "Has she been studying all day?"
+       ],
+       [
+        "You have aired the room.",
+        "You have not aired the room.",
+        "Have you aired the room?"
+       ],
+       [
+        "He has watched the movie.",
+        "He has not watched the movie.",
+        "Has he watched the movie?"
+       ],
+       [
+        "They have lived in Beijing for ten years.",
+        "They have not lived in Beijing for ten years.",
+        "Have they lived in Beijing for ten years?"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "“ 现在完成时 ”与 “ 过去完成时 ”极容易混淆，请注意其区别，have + done，had + done."
+    },
+    {
+     "table": {
+      "headers": [
+       "何时用",
+       "结构",
+       "示例 (Examples)"
+      ],
+      "rows": [
+       [
+        "过去经常的状态",
+        "主语 + was\\were",
+        "I/He was (I、三单时) happy yesterday. You/They were (复数:your、They等) happy yesterday."
+       ],
+       [
+        "过去习惯的动作",
+        "主语 + did (v. 过去式)",
+        "I/she/he/they/you cooked dinner last night."
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "陈述句",
+       "否定句(didn't + v.)",
+       "一般疑问句(助动词did)"
+      ],
+      "rows": [
+       [
+        "I studied in the US in 2010.",
+        "I didn't study in the US in 2010.",
+        "Did I study in the US in 2010?"
+       ],
+       [
+        "The bus stopped just now.",
+        "The bus didn't stop just now.",
+        "Did the bus stop just now?"
+       ],
+       [
+        "I/He was happy yesterday.",
+        "I/He wasn't happy yesterday.",
+        "Was I/He happy yesterday?"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "何时用",
+       "结构",
+       "示例 (Examples)"
+      ],
+      "rows": [
+       [
+        "过去某一时刻、时段正发生的动作",
+        "主语 + was\\were + doing",
+        "I was working at 10:00 last night."
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "陈述句",
+       "否定句(was/were + not)",
+       "一般疑问句(was/were 提前)"
+      ],
+      "rows": [
+       [
+        "She was doing her homework at 10:00 last night.",
+        "She was not doing her homework at 10:00 last night.",
+        "Was she doing her homework at 10:00 last night?"
+       ],
+       [
+        "They were having a date from 7:00-9:06 yesterday.",
+        "They were not having a date from 7:00-9:06 yesterday.",
+        "Were they having a date from 7:00-9:06 yesterday?"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "何时用",
+       "结构",
+       "示例 (Examples)"
+      ],
+      "rows": [
+       [
+        "过去某一时刻之前发生的动作、状态",
+        "主语 + had + done",
+        "She had done her homework before 10:00 last night."
+       ],
+       [
+        "表示过去持续",
+        "主语 + had + been + 非动词",
+        "He had been studying for hours."
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "现在完成时",
+       "过去完成时(通常搭配一般过去时使用)"
+      ],
+      "rows": [
+       [
+        "She has done her homework. 她已完成作业",
+        "She had done her homework when her mother came home."
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "陈述句",
+       "一般疑问句(had 提前)",
+       "否定句(had + not)"
+      ],
+      "rows": [
+       [
+        "She had been studying all day.",
+        "Had she been studying all day?",
+        "She had not been studying all day."
+       ],
+       [
+        "You had aired the room.",
+        "Had you aired the room?",
+        "You had not aired the room."
+       ],
+       [
+        "He had watched the movie.",
+        "Had he watched the movie?",
+        "He had not watched the movie."
+       ],
+       [
+        "They had lived in Beijing for ten years.",
+        "Had they lived in Beijing for ten years?",
+        "They had not lived in Beijing for ten years."
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "何时用",
+       "结构",
+       "示例 (Examples)"
+      ],
+      "rows": [
+       [
+        "表示计划、打算或即将要发生的事",
+        "主语 + is/am/are + going to",
+        "It's going to be fine tomorrow."
+       ],
+       [
+        "主语 + will\\shall + v.",
+        "You will be late. I shall be late."
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "原句",
+       "一般疑问句(will、be提前)",
+       "否定句(will、be + not)"
+      ],
+      "rows": [
+       [
+        "He will come on time.",
+        "Will he come on time?",
+        "He will not come on time."
+       ],
+       [
+        "The woman is going to talk to you.",
+        "Is the woman going to talk to you?",
+        "The woman is not going to talk to you."
+       ],
+       [
+        "He will show his true colors someday.",
+        "Will he show his true colors someday?",
+        "He will not show his true colors someday."
+       ],
+       [
+        "You will be late.",
+        "Will you be late?",
+        "You will not be late."
+       ],
+       [
+        "The woman is going to talk to you.",
+        "Is the woman going to talk to you?",
+        "The woman is not going to talk to you."
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "何时用",
+       "结构",
+       "示例 (Examples)"
+      ],
+      "rows": [
+       [
+        "表示过去的计划、打算或即将发生的",
+        "主语 + was/were + going to",
+        "It was going to be fine tomorrow."
+       ],
+       [
+        "主语 + would + v.",
+        "You would be late. I would be late."
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "句子",
+       "一般将来时",
+       "过去将来时"
+      ],
+      "rows": [
+       [
+        "肯定句",
+        "I will go to the beach tomorrow.",
+        "He said he would come to the party."
+       ],
+       [
+        "一般疑问句",
+        "Will you come with us?",
+        "Would you like some tea?"
+       ],
+       [
+        "否定句",
+        "He will not attend the meeting.",
+        "She should not have gone there."
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "情态动词转述练习",
-   "lines": [
-    "为了加深情态动词的转述练习，在转述翻译里加上“ 当时/曾经 ”。She told me she might retire. 她 当时/曾经 告诉我她要退休。",
-    "原句(第一者) 没听清(第二者) 转述(第三者)",
-    "I will leave the day after tomorrow. What did he say ? He said he would leave the day after tomorrow.",
-    "Sam will open the window. What did she say ? She said Sam would open the window.",
-    "We will change some money. What did they say ? They said they would change some money.",
-    "It will snow tomorrow. What did she say ? She said it would snow tomorrow.",
-    "They can afford it. What did they tell you? They told me they could afford it.",
-    "I can understand French. What did he tell you? He told me he could understand French.",
-    "I can finish it. What did he tell you? He told me he could finish it.",
-    "I may retire . What did she tell you? She told me she might retire.",
-    "We may arrive tomorrow. What did they say ? They said they might arrive tomorrow.",
-    "原句(第一者) 没听清(第二者) 转述(第三者)",
-    "Penny will open the window. What did he say ? He said Penny would open the window. 他( 当时 )说佩妮会打开窗户。",
-    "I can understand English. What did he tell you? He told me he could understand English. 他( 曾经 )告诉我他能听懂英语。",
-    "They may arrive tomorrow. What did they say ? They said they might arrive tomorrow. 他们( 当时 )说他们可能明天到。"
+   "parts": [
+    {
+     "text": "为了加深情态动词的转述练习，在转述翻译里加上“ 当时/曾经 ”。She told me she might retire. 她 当时/曾经 告诉我她要退休。"
+    },
+    {
+     "table": {
+      "headers": [],
+      "rows": [
+       [
+        "原句(第一者)",
+        "没听清(第二者)",
+        "转述(第三者)"
+       ],
+       [
+        "I will leave the day after tomorrow.",
+        "What did he say ?",
+        "He said he would leave the day after tomorrow."
+       ],
+       [
+        "Sam will open the window.",
+        "What did she say ?",
+        "She said Sam would open the window."
+       ],
+       [
+        "We will change some money.",
+        "What did they say ?",
+        "They said they would change some money."
+       ],
+       [
+        "It will snow tomorrow.",
+        "What did she say ?",
+        "She said it would snow tomorrow."
+       ],
+       [
+        "They can afford it.",
+        "What did they tell you?",
+        "They told me they could afford it."
+       ],
+       [
+        "I can understand French.",
+        "What did he tell you?",
+        "He told me he could understand French."
+       ],
+       [
+        "I can finish it.",
+        "What did he tell you?",
+        "He told me he could finish it."
+       ],
+       [
+        "I may retire .",
+        "What did she tell you?",
+        "She told me she might retire."
+       ],
+       [
+        "We may arrive tomorrow.",
+        "What did they say ?",
+        "They said they might arrive tomorrow."
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [],
+      "rows": [
+       [
+        "原句(第一者)",
+        "没听清(第二者)",
+        "转述(第三者)"
+       ],
+       [
+        "Penny will open the window.",
+        "What did he say ?",
+        "He said Penny would open the window. 他( 当时 )说佩妮会打开窗户。"
+       ],
+       [
+        "I can understand English.",
+        "What did he tell you?",
+        "He told me he could understand English. 他( 曾经 )告诉我他能听懂英语。"
+       ],
+       [
+        "They may arrive tomorrow.",
+        "What did they say ?",
+        "They said they might arrive tomorrow. 他们( 当时 )说他们可能明天到。"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "入住酒店",
-   "lines": [
-    "酒店 five-star hotel,five stars hotel 五星级酒店",
-    "resort 度假村",
-    "预订酒店 Book a hotel",
-    "Make a hotel reservation",
-    "办理入住手续 Check in at the hotel",
-    "Register at the hotel",
-    "Do I need to pay a deposit？我需要付押金吗？",
-    "Do you offer pick-up service? 请问有接车服务吗？",
-    "酒店房型 Single room 单人间",
-    "Double room 双人间",
-    "Twin room 双床间",
-    "Suite 套房",
-    "办理入住手续时需要提供的信息 Full name 全名",
-    "Passport/ID card number 护照/身份证号码",
-    "Contact information 联系方式",
-    "Credit card information 信用卡信息",
-    "付款方式 Pay by cash 现金支付",
-    "Pay by credit card 信用卡支付",
-    "Pay in advance 预付款",
-    "酒店设施和服务 Reception desk 前台",
-    "Room service 客房服务",
-    "Restaurant 餐厅",
-    "Fitness center/gym 健身中心/健身房",
-    "Swimming pool 游泳池",
-    "Wi-Fi 无线网络",
-    "房间号码 Room number 房间号码",
-    "Floor 楼层",
-    "办理退房手续 Check out of the hotel",
-    "Settle the bill/check-out process"
+   "parts": [
+    {
+     "table": {
+      "headers": [
+       "酒店",
+       "预订酒店",
+       "办理入住手续",
+       "酒店房型",
+       "办理入住手续时需要提供的信息",
+       "付款方式",
+       "酒店设施和服务",
+       "房间号码",
+       "办理退房手续"
+      ],
+      "rows": [
+       [
+        "five-star hotel,five stars hotel 五星级酒店"
+       ],
+       [
+        "resort 度假村"
+       ],
+       [
+        "Book a hotel"
+       ],
+       [
+        "Make a hotel reservation"
+       ],
+       [
+        "Check in at the hotel"
+       ],
+       [
+        "Register at the hotel"
+       ],
+       [
+        "Do I need to pay a deposit？我需要付押金吗？"
+       ],
+       [
+        "Do you offer pick-up service? 请问有接车服务吗？"
+       ],
+       [
+        "Single room 单人间"
+       ],
+       [
+        "Double room 双人间"
+       ],
+       [
+        "Twin room 双床间"
+       ],
+       [
+        "Suite 套房"
+       ],
+       [
+        "Full name 全名"
+       ],
+       [
+        "Passport/ID card number 护照/身份证号码"
+       ],
+       [
+        "Contact information 联系方式"
+       ],
+       [
+        "Credit card information 信用卡信息"
+       ],
+       [
+        "Pay by cash 现金支付"
+       ],
+       [
+        "Pay by credit card 信用卡支付"
+       ],
+       [
+        "Pay in advance 预付款"
+       ],
+       [
+        "Reception desk 前台"
+       ],
+       [
+        "Room service 客房服务"
+       ],
+       [
+        "Restaurant 餐厅"
+       ],
+       [
+        "Fitness center/gym 健身中心/健身房"
+       ],
+       [
+        "Swimming pool 游泳池"
+       ],
+       [
+        "Wi-Fi 无线网络"
+       ],
+       [
+        "Room number 房间号码"
+       ],
+       [
+        "Floor 楼层"
+       ],
+       [
+        "Check out of the hotel"
+       ],
+       [
+        "Settle the bill/check-out process"
+       ]
+      ]
+     }
+    }
    ]
   }
  ]

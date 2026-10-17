@@ -2,82 +2,275 @@
  "grammar": [
   {
    "title": "大致情况",
-   "lines": [
-    "One of the most colourful figures in boxing history was Daniel Mendoza, who was born in 1764. colorful 本句中表 interesting, exciting, vivid figure 本句中的意思 character, personality The use of gloves was not introduced until 1860 , when the Marquis of Queensberry drew up the first set of rules . The use of gloves 手套的使用（use 做名词更庄严） introduce v. 开始推行；开始采用 draw up 起草 造句：The liberation of the Chinese people was not achieved until 1949 , when Chairman Mao proclaimed the foundation of the People's Republic of China . 直到毛主席1949年宣布中华人民共和国成立，中国人民才获得了解放。 Though he was technically a prizefighter, Mendoza did much to change crude prizefighting into a sport, for he brought science to the game. 重要信息放主句（名字）、从句用代词(he) change ... into ... 改变…成… exchange ... for ... 交换…为… 造句：Though it is technically a book, the Bible does much to change the crude world into a civilized one, for it brings faith to humanity.尽管严格地说只是一本书，但圣经在把这个粗鄙的世界变成一个文明世界方面却做出了很大贡献，因为它给人类带来了信仰。 In his day, Mendoza enjoyed tremendous popularity. somebody's day 某人走运之日、得意之时 enjoy tremendous popularity 享有极高的声望、盛誉 He was adored by rich and poor alike. rich and poor = the rich + and poor 并称时去掉\"the\" alike 一样的、同样的 in the same way",
-    "Besides, they make the school lively and colorful. 此外，他们使学校生动多彩。",
-    "Some present the lives of colorful mathematicians. 其中一些展示了丰富多彩的数学家的生活。",
-    "The traditional wedding is a long and colorful affair. 传统的婚礼是一件持续时间长而华美的喜事。",
-    "Someone who is referred to as a figure of a particular kind is a person who is well-known and important in some way. 重要人物",
-    "The movement is supported by key figures in the three main political parties. 这场运动由3个主要政党的重要人物支持。",
-    "I just wanna be a person, not a personality.",
-    "You can use my laptop freely. v. 使用",
-    "The use of my laptop is welcome. n. (欢迎)使用(无灵主语)",
-    "The bar is for the use of members only. 酒吧仅供会员使用。",
-    "The use of the correct materials was crucial. 使用合适材料是重要的。",
-    "He said the use of force would be inadmissible. 他说使用武力是万万不可的。",
-    "I'd like the use of your living room, if I may. 如果可以，我想用用你的起居室。",
-    "New safety measures will be introduced next month. 被采用",
-    "I've drawn up a list of candidates that I'd like to interview.",
-    "do much / a lot / a great deal to ... 在某方面作用非凡、有很大贡献 I didn't do much, just a bit of running around. 我没干多少，就是跑跑腿儿。",
-    "do little to ... 在某方面没有什么贡献（基本没用） In general, employers do little to help the single working mother. 总的来说，雇主很少帮助那些工作的单身妈妈们。",
-    "do nothing to ... 一无是处、啥用也没有 He could do nothing to disturb them. 他做什么都打搅不了她们。",
-    "She could change into a different outfit in two minutes.她能在两分钟内换上一套不同的衣服。",
-    "For example, farmers brought a bag of grain in exchange for a ticket.例如，农民带了一袋粮食来换取一张票。",
-    "Every dog has his day. 凡人皆有得意日、瓦片也有翻身时、狗也有走运的一天",
-    "Don't be disappointed: your day will come.",
-    "Jay Chou enjoys tremendous popularity among the young.",
-    "young and old 年轻人和老年人",
-    "the rich and powerful 权贵（有钱有势的一种人）",
-    "The climate here is always hot, summer and winter alike.（东亚、中东地区的气候）"
+   "parts": [
+    {
+     "text": "One of the most colourful figures in boxing history was Daniel Mendoza, who was born in 1764. colorful 本句中表 interesting, exciting, vivid figure 本句中的意思 character, personality The use of gloves was not introduced until 1860 , when the Marquis of Queensberry drew up the first set of rules . The use of gloves 手套的使用（use 做名词更庄严） introduce v. 开始推行；开始采用 draw up 起草 造句：The liberation of the Chinese people was not achieved until 1949 , when Chairman Mao proclaimed the foundation of the People's Republic of China . 直到毛主席1949年宣布中华人民共和国成立，中国人民才获得了解放。 Though he was technically a prizefighter, Mendoza did much to change crude prizefighting into a sport, for he brought science to the game. 重要信息放主句（名字）、从句用代词(he) change ... into ... 改变…成… exchange ... for ... 交换…为… 造句：Though it is technically a book, the Bible does much to change the crude world into a civilized one, for it brings faith to humanity.尽管严格地说只是一本书，但圣经在把这个粗鄙的世界变成一个文明世界方面却做出了很大贡献，因为它给人类带来了信仰。 In his day, Mendoza enjoyed tremendous popularity. somebody's day 某人走运之日、得意之时 enjoy tremendous popularity 享有极高的声望、盛誉 He was adored by rich and poor alike. rich and poor = the rich + and poor 并称时去掉\"the\" alike 一样的、同样的 in the same way"
+    },
+    {
+     "text": "Besides, they make the school lively and colorful. 此外，他们使学校生动多彩。"
+    },
+    {
+     "text": "Some present the lives of colorful mathematicians. 其中一些展示了丰富多彩的数学家的生活。"
+    },
+    {
+     "text": "The traditional wedding is a long and colorful affair. 传统的婚礼是一件持续时间长而华美的喜事。"
+    },
+    {
+     "text": "Someone who is referred to as a figure of a particular kind is a person who is well-known and important in some way. 重要人物"
+    },
+    {
+     "text": "The movement is supported by key figures in the three main political parties. 这场运动由3个主要政党的重要人物支持。"
+    },
+    {
+     "text": "I just wanna be a person, not a personality."
+    },
+    {
+     "text": "You can use my laptop freely. v. 使用"
+    },
+    {
+     "text": "The use of my laptop is welcome. n. (欢迎)使用(无灵主语)"
+    },
+    {
+     "text": "The bar is for the use of members only. 酒吧仅供会员使用。"
+    },
+    {
+     "text": "The use of the correct materials was crucial. 使用合适材料是重要的。"
+    },
+    {
+     "text": "He said the use of force would be inadmissible. 他说使用武力是万万不可的。"
+    },
+    {
+     "text": "I'd like the use of your living room, if I may. 如果可以，我想用用你的起居室。"
+    },
+    {
+     "text": "New safety measures will be introduced next month. 被采用"
+    },
+    {
+     "text": "I've drawn up a list of candidates that I'd like to interview."
+    },
+    {
+     "table": {
+      "headers": [
+       "do much / a lot / a great deal to ... 在某方面作用非凡、有很大贡献",
+       "do little to ... 在某方面没有什么贡献（基本没用）",
+       "do nothing to ... 一无是处、啥用也没有"
+      ],
+      "rows": [
+       [
+        "I didn't do much, just a bit of running around. 我没干多少，就是跑跑腿儿。"
+       ],
+       [
+        "In general, employers do little to help the single working mother. 总的来说，雇主很少帮助那些工作的单身妈妈们。"
+       ],
+       [
+        "He could do nothing to disturb them. 他做什么都打搅不了她们。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "She could change into a different outfit in two minutes.她能在两分钟内换上一套不同的衣服。"
+    },
+    {
+     "text": "For example, farmers brought a bag of grain in exchange for a ticket.例如，农民带了一袋粮食来换取一张票。"
+    },
+    {
+     "text": "Every dog has his day. 凡人皆有得意日、瓦片也有翻身时、狗也有走运的一天"
+    },
+    {
+     "text": "Don't be disappointed: your day will come."
+    },
+    {
+     "text": "Jay Chou enjoys tremendous popularity among the young."
+    },
+    {
+     "text": "young and old 年轻人和老年人"
+    },
+    {
+     "text": "the rich and powerful 权贵（有钱有势的一种人）"
+    },
+    {
+     "text": "The climate here is always hot, summer and winter alike.（东亚、中东地区的气候）"
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "细枝末节（详细且重要的信息）",
-   "lines": [
-    "Mendoza rose to fame swiftly after a boxing match when he was only fourteen years old . rise to fame 声名鹊起(固定搭配，当单词记) make a name for oneself 成名 become famous overnight 一夜成名 This attracted the attention of Richard Humphries who was then the most eminent boxer in England . He offered to train Mendoza and his young pupil was quick to learn. offer to do 主动提出做某事 pupil 小学生、门徒(apprentice 徒弟) In fact, Mendoza soon became so successful that Humphries turned against him . § turn (sb.) against ... 使(某人)反对…(反目成仇) ... soon became so successful that Humphries became jealous of him. 嫉妒 ... soon became so successful as to arouse Humphries' jealousy. 激起了妒嫉 The two men quarrelled bitterly and it was clear that the argument could only be settled by a fight . A match was held at Stilton, where both men fought for an hour. A match was held at Stilton, and both men fought for an hour there. 使用并列句啰嗦 The public bet a great deal of money on Mendoza, but he was defeated . win 赢得了(奖金、奖牌)，宾语不能是对方的人、队伍 Mendoza met Humphries in the ring on a later occasion and he lost for a second time. ring 术语 （有上下文）boxing ring on / upon the occasion of 在...的场合上、中、下（不能用in） for a second time = for another time 本文中（又一次，看前面有几次,换second即可） It was not until his third match in 1790 that he finally beat Humphries and became Champion of England. 强调句 it was not until ... that ... and ... 强调时间 造句： It was not until the foundation of the People's Republic of China in 1949 that the Chinese people were finally liberated and became masters of the country.直到1949年中华人民共和国成立 中国人民才最终获得了解放并且成了国家的主人。 造句： It was not until 1949 , when Chairman Mao proclaimed the foundation of the People's Republic of China, that the Chinese people were finally liberated and became masters of the country.直到1949年毛主席宣布中华人民 共和国成立，中国人民才最终获得了解放并且成了国家的主人。 Meanwhile , he founded a highly successful Academy and even Lord Byron became one of his pupils. highly successful 非常成功的 He earned enormous sums of money and was paid as much as £ 100 for a single appearance. Despite this, he was so extravagant that he was always in debt. ..., he was so extravagant that he always owed people money. 替换 \"How much do I owe you?\" \"Well, that'll be 18 dollars and 70 cents. No charge for the cleanup. It's on the house.\" After he was defeated by a boxer called Gentleman Jackson, he was quickly forgotten . He was sent to prison for failing to pay his debts and died in poverty in 1836. 本文体裁：传记（biography） A biography is defined as a written account of the series of events that make up a person's life.",
-    "She first rose to fame as a singer at the age of 16.",
-    "The rise to fame was swift.",
-    "He soon made a name for himself and came to be known to the Italians as Giovanni Acuto .",
-    "With the success of their first record, they became famous overnight.",
-    "attract / draw / catch / capture / arrest one's attention. 名词短（代词） To draw his attention, she got all duded up for the ball and finally achieved what she wished. 为引起他的注意，她盛装参加舞会，最终她如愿以偿。",
-    "the attention of sb. 名词长（名词） I jumped on the wall to grab the attention of the crowd. 我跳上墙头以引起众人的注意。",
-    "In times of peace, when business was bad, Hawkwood and his men would march into a city-state and, after burning down a few farms, would offer to go away if protection money was paid to them .",
-    "They raised their offer to $500. 他们将出价抬高到500元。",
-    "Amy was a pupil in Grade Three.艾米是一名三年级的学生。",
-    "The painting is by a pupil of Rembrandt.这幅画为伦勃朗的一位弟子所作。",
-    "The wicked woman is trying to turn the boy against his father. 儿子与他父亲反目",
-    "It is / was clear that ... It was clear that the letter had deeply distressed her.这封信显然使她极为悲伤。",
-    "obvious The rope had been cut, so it was obvious that the lamb had been stolen . It was obvious that he was very embarrassed .",
-    "apparent It was apparent that he was ill.很明显他生病了。 It was apparent that they all understood.显然他们都明白了。 It was apparent that she didn't hear what I said.很明显，她没听见我说的话。",
-    "He was defeated. (被动)击败 The public bet a great deal of money on Mendoza, but he was defeated.",
-    "beaten.(被)打败 It was not until his third match in 1790 that he finally beat Humphries and became Champion of England.",
-    "he failed. （主动）输了 Mendoza met Humphries in the ring on a later occasion and he lost for a second time.",
-    "he lost.（主动）输了",
-    "We finally won that team . 不能赢得了球队（球队是我们的了~）",
-    "We finally beat that team.",
-    "We finally defeated that team.",
-    "We finally won the game. 赢得比赛",
-    "We finally won the prize. 赢得奖金",
-    "By this time, however, three men had come into the ring and they quickly dragged the drunk to safety .",
-    "on / upon the occasion of his daughter's wedding",
-    "Everyone went to the funeral, for the 'ghost' was none other than Eric Cox, a third brother who was supposed to have died as a young man .",
-    "Sir James Clark Ross had obtained a sounding of over 2,400 fathoms in 1839, but it was not until 1869 , when H.M.S. Porcupine was put at the disposal of the Royal Society for several cruises, that a series of deep soundings was obtained in the Atlantic and the first samples were collected by dredging the bottom. NCE4-30 it was not until ..., when ..., that ... and ...",
-    "A famous actor in a highly successful play was once cast in the role of an aristocrat who had been imprisoned in the Bastille for twenty years .",
-    "I owe you (one). 谢谢你～（用于朋友间，这次算我欠你的）",
-    "How much do I owe you? 我欠你多少钱（我应该给你多少钱啊～）",
-    "主动 被动",
-    "send sb. to prison be sent to prison",
-    "jail / gaol sb. be jailed / gaoled",
-    "put sb. in prison be put in prison",
-    "lock up sb. be locked up",
-    "imprison sb. be imprisoned",
-    "incarcerate sb. 书面语 be incarcerated",
-    "Date and place of birth and death (and Family information) 基本信息",
-    "Lifetime accomplishments 取得成就",
-    "Major events of life 重要事件",
-    "Effects / impact on society, historical significance 后人评价、总结"
+   "parts": [
+    {
+     "text": "Mendoza rose to fame swiftly after a boxing match when he was only fourteen years old . rise to fame 声名鹊起(固定搭配，当单词记) make a name for oneself 成名 become famous overnight 一夜成名 This attracted the attention of Richard Humphries who was then the most eminent boxer in England . He offered to train Mendoza and his young pupil was quick to learn. offer to do 主动提出做某事 pupil 小学生、门徒(apprentice 徒弟) In fact, Mendoza soon became so successful that Humphries turned against him . § turn (sb.) against ... 使(某人)反对…(反目成仇) ... soon became so successful that Humphries became jealous of him. 嫉妒 ... soon became so successful as to arouse Humphries' jealousy. 激起了妒嫉 The two men quarrelled bitterly and it was clear that the argument could only be settled by a fight . A match was held at Stilton, where both men fought for an hour. A match was held at Stilton, and both men fought for an hour there. 使用并列句啰嗦 The public bet a great deal of money on Mendoza, but he was defeated . win 赢得了(奖金、奖牌)，宾语不能是对方的人、队伍 Mendoza met Humphries in the ring on a later occasion and he lost for a second time. ring 术语 （有上下文）boxing ring on / upon the occasion of 在...的场合上、中、下（不能用in） for a second time = for another time 本文中（又一次，看前面有几次,换second即可） It was not until his third match in 1790 that he finally beat Humphries and became Champion of England. 强调句 it was not until ... that ... and ... 强调时间 造句： It was not until the foundation of the People's Republic of China in 1949 that the Chinese people were finally liberated and became masters of the country.直到1949年中华人民共和国成立 中国人民才最终获得了解放并且成了国家的主人。 造句： It was not until 1949 , when Chairman Mao proclaimed the foundation of the People's Republic of China, that the Chinese people were finally liberated and became masters of the country.直到1949年毛主席宣布中华人民 共和国成立，中国人民才最终获得了解放并且成了国家的主人。 Meanwhile , he founded a highly successful Academy and even Lord Byron became one of his pupils. highly successful 非常成功的 He earned enormous sums of money and was paid as much as £ 100 for a single appearance. Despite this, he was so extravagant that he was always in debt. ..., he was so extravagant that he always owed people money. 替换 \"How much do I owe you?\" \"Well, that'll be 18 dollars and 70 cents. No charge for the cleanup. It's on the house.\" After he was defeated by a boxer called Gentleman Jackson, he was quickly forgotten . He was sent to prison for failing to pay his debts and died in poverty in 1836. 本文体裁：传记（biography） A biography is defined as a written account of the series of events that make up a person's life."
+    },
+    {
+     "text": "She first rose to fame as a singer at the age of 16."
+    },
+    {
+     "text": "The rise to fame was swift."
+    },
+    {
+     "text": "He soon made a name for himself and came to be known to the Italians as Giovanni Acuto ."
+    },
+    {
+     "text": "With the success of their first record, they became famous overnight."
+    },
+    {
+     "table": {
+      "headers": [],
+      "rows": [
+       [
+        "attract / draw / catch / capture / arrest",
+        "one's attention. 名词短（代词）",
+        "To draw his attention, she got all duded up for the ball and finally achieved what she wished. 为引起他的注意，她盛装参加舞会，最终她如愿以偿。"
+       ],
+       [
+        "the attention of sb. 名词长（名词）",
+        "I jumped on the wall to grab the attention of the crowd. 我跳上墙头以引起众人的注意。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "In times of peace, when business was bad, Hawkwood and his men would march into a city-state and, after burning down a few farms, would offer to go away if protection money was paid to them ."
+    },
+    {
+     "text": "They raised their offer to $500. 他们将出价抬高到500元。"
+    },
+    {
+     "text": "Amy was a pupil in Grade Three.艾米是一名三年级的学生。"
+    },
+    {
+     "text": "The painting is by a pupil of Rembrandt.这幅画为伦勃朗的一位弟子所作。"
+    },
+    {
+     "text": "The wicked woman is trying to turn the boy against his father. 儿子与他父亲反目"
+    },
+    {
+     "table": {
+      "headers": [
+       "It is / was",
+       "clear",
+       "that ...",
+       "obvious",
+       "apparent"
+      ],
+      "rows": [
+       [
+        "It was clear that the letter had deeply distressed her.这封信显然使她极为悲伤。"
+       ],
+       [
+        "The rope had been cut, so it was obvious that the lamb had been stolen . It was obvious that he was very embarrassed ."
+       ],
+       [
+        "It was apparent that he was ill.很明显他生病了。 It was apparent that they all understood.显然他们都明白了。 It was apparent that she didn't hear what I said.很明显，她没听见我说的话。"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "He was",
+       "defeated. (被动)击败",
+       "beaten.(被)打败",
+       "he failed. （主动）输了",
+       "he lost.（主动）输了"
+      ],
+      "rows": [
+       [
+        "The public bet a great deal of money on Mendoza, but he was defeated."
+       ],
+       [
+        "It was not until his third match in 1790 that he finally beat Humphries and became Champion of England."
+       ],
+       [
+        "Mendoza met Humphries in the ring on a later occasion and he lost for a second time."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "We finally won that team . 不能赢得了球队（球队是我们的了~）"
+    },
+    {
+     "text": "We finally beat that team."
+    },
+    {
+     "text": "We finally defeated that team."
+    },
+    {
+     "text": "We finally won the game. 赢得比赛"
+    },
+    {
+     "text": "We finally won the prize. 赢得奖金"
+    },
+    {
+     "text": "By this time, however, three men had come into the ring and they quickly dragged the drunk to safety ."
+    },
+    {
+     "text": "on / upon the occasion of his daughter's wedding"
+    },
+    {
+     "text": "Everyone went to the funeral, for the 'ghost' was none other than Eric Cox, a third brother who was supposed to have died as a young man ."
+    },
+    {
+     "text": "Sir James Clark Ross had obtained a sounding of over 2,400 fathoms in 1839, but it was not until 1869 , when H.M.S. Porcupine was put at the disposal of the Royal Society for several cruises, that a series of deep soundings was obtained in the Atlantic and the first samples were collected by dredging the bottom. NCE4-30 it was not until ..., when ..., that ... and ..."
+    },
+    {
+     "text": "A famous actor in a highly successful play was once cast in the role of an aristocrat who had been imprisoned in the Bastille for twenty years ."
+    },
+    {
+     "text": "I owe you (one). 谢谢你～（用于朋友间，这次算我欠你的）"
+    },
+    {
+     "text": "How much do I owe you? 我欠你多少钱（我应该给你多少钱啊～）"
+    },
+    {
+     "table": {
+      "headers": [
+       "主动",
+       "被动"
+      ],
+      "rows": [
+       [
+        "send sb. to prison",
+        "be sent to prison"
+       ],
+       [
+        "jail / gaol sb.",
+        "be jailed / gaoled"
+       ],
+       [
+        "put sb. in prison",
+        "be put in prison"
+       ],
+       [
+        "lock up sb.",
+        "be locked up"
+       ],
+       [
+        "imprison sb.",
+        "be imprisoned"
+       ],
+       [
+        "incarcerate sb. 书面语",
+        "be incarcerated"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Date and place of birth and death (and Family information) 基本信息"
+    },
+    {
+     "text": "Lifetime accomplishments 取得成就"
+    },
+    {
+     "text": "Major events of life 重要事件"
+    },
+    {
+     "text": "Effects / impact on society, historical significance 后人评价、总结"
+    }
    ]
   }
  ]

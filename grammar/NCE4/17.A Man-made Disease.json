@@ -2,108 +2,430 @@
  "grammar": [
   {
    "title": "情况",
-   "lines": [
-    "Later it was found that there was a type of mosquito which acted as the carrier of this disease and passed it on to the rabbits . act as 作为、当...来用、有这个功能、效果 carrier [化学] 载体；运送者；带菌者 pass sth. on to sb. 把...转交给...；（派生）传染 / 传播疾病 So while the rest of the world was trying to get rid of mosquitoes, Australia was encouraging this one. get rid of ... = dispose of ... 打发走；除掉（干掉、清除掉、完全杀光...） encourage v.促进，助长 It effectively spread the disease all over the continent and drastically reduced the rabbit population. all over 遍布了... drastic (adj.) extreme and sudden 极端的；急剧的；严厉的；猛烈的 It later became apparent that rabbits were developing a degree of resistance to this disease , so that the rabbit population was unlikely to be completely exterminated. became apparent ... 明显看出(文言)... it is / was clear / obvious / apparent / evident that ... 显然... develop a degree of resistance to ... 对...产生一定程度的抗药性/抵抗力 The medicine effectively restrained the growth of the tumor, which, in the course of time, however, developed a degree of resistance to it . 该药有效地抑制了肿瘤的生长，但是，经过一段时间，肿瘤对该药产生了一定程度的抗药性。 There were hopes, however, that the problem of the rabbit would become manageable . there be + 无灵主语 地道句式 There is probably an element of truth in this argument, but they ignore a more basic fact that the freedom of the press is often abused. 考研真题 Albert Einstein once attributed the creativity in a famous scientist to the fact that he never went to school. There is undoubtedly a truth in his observation, but such a truth is not criticism of schools. manageable adj. easy to control or deal with 易管理的；易控制的；易办的",
-    "The old barn now serves as a community center. 充当社区中心",
-    "He acted as if he had never lived in England before. acted as if 表现得...、假装...",
-    "Alfred the Great acted as his own spy, visiting Danish camps disguised as a minstrel .",
-    "During the negotiation, the ambassador act as a neutral mediator. 在谈判期间，大使充当了中立调解人的角色。",
-    "serve as … 担任；充当；用作… The old lighthouse now serve as a museum for maritime history. 这座古老的灯塔现在被用作海洋历史博物馆。",
-    "function as … 起…作用；职能是… The small room has to function as both an office and a guest bedroom. 这个小房间必须同时用作办公室和客卧。",
-    "be used as … 被用作… Recycled plastic bottles can be used as material for new clothing. 回收的塑料瓶可以被用作新衣服的材料。",
-    "Mosquitoes can carry diseases like malaria.",
-    "This substance can act as a carrier for the medication.",
-    "His father accused him of acting as a carrier for some drug pushers. 他父亲指责他为某些毒贩子充当毒品运送人。",
-    "carry a disease 携带疾病 We continually wage war on them, for they contaminate our food, carry diseases, or devour our crops .",
-    "I’ll pass your complaints on to my superiors.",
-    "He passed his cold on to me.",
-    "Some animals can transmit a disease to humans. 将疾病传播给人类",
-    "Please pass this message on to your manager. 请把这条消息转交给你的经理。",
-    "pass sth. on 传染（疾病） Make sure you wash your hands frequently so you don't pass the flu on. 确保你勤洗手，这样你就不会把流感传染出去。",
-    "communicate / transmit a disease to … 把疾病传染给… The virus can communicate / transmit a disease to other people through contact. 这种病毒可以通过接触把疾病传染给其他人。",
-    "It took me over half an hour to get rid of him .",
-    "There is no quicker method of disposing of patients than by giving them what they are asking for , ... 打发走...",
-    "I used weedkiller to get rid of the weeds in the garden.",
-    "dispose of ... 处理掉；除掉 The president ruthlessly disposed of his rivals.无情地除掉了他的对手",
-    "Poor hygiene encourages the spread of disease. 促进疾病的传播",
-    "The warm weather encourages plant growth. 促进植物生长",
-    "The good news spread throughout the country.",
-    "Traditional custom, taken the world over, is a mass of detailed behaviour more astonishing than what any one person can ever evolve in individual actions, no matter how aberrant .",
-    "We traveled all over the country during our summer vacation. 我们在暑假期间跑遍了全国各地。",
-    "around 在…周围；到处 The good news quickly spread around the small town. 这个好消息很快就在这个小镇上传开了。",
-    "throughout 遍及；在…整个期间 The company has offices throughout Europe and Asia. 这家公司在整个欧洲和亚洲都有办事处。",
-    "over the continent 遍及整个大陆 The new style of music has gained popularity over the continent. 这种新的音乐风格在整个大陆上获得了欢迎。",
-    "We need to take drastic measures to solve the problem.",
-    "There were drastic cuts in government spending.",
-    "drastically adv.（动作或变化）猛烈地，力度大地 ；极其，非常 The size of the army was drastically cut.",
-    "It soon became clear / obvious / apparent / evident that she did not have a genuine interest in her job.",
-    "It quickly became evident that the initial plan was flawed.",
-    "it was obvious that ... 显然是... The rope had been cut, so it was obvious that the lamb had been stolen .",
-    "Bacteria have developed a resistance to many antibiotics. 对许多抗生素产生了抗药性",
-    "Of course, New York is the ideal place for such an interesting study, because there is no shortage of tall buildings .",
-    "This greatly reduced the speed of the ship, for there was a danger that if she travelled too quickly, this rudder would be torn away as well .",
-    "Perhaps there is an element of truth in both these pictures, but few of us have had the opportunity to find out .",
-    "Apparently, there is a good deal of truth in this idea . 显然，这个想法很有道理。",
-    "There is no denying that he is talented. 不可否认的是他很有天赋.",
-    "There is no question that the earth is round. 毫无疑问地球是圆的.",
-    "There is every likelihood that he will win. 他很有可能会赢...",
-    "there is always hope that … 总是会有…的希望 There is always hope that the two sides will reach a peace agreement. 总是会有双方达成和平协议的希望。",
-    "there is no denying that ... 不可否认的是… There is no denying that social media has changed the way we communicate. 不可否认的是，社交媒体改变了我们的交流方式。",
-    "there is no doubt / question that ... 毫无疑问的是… There is no doubt / question that hard work leads to success. 毫无疑问的是，努力工作会带来成功。",
-    "there is every likelihood that ... 很有可能的是… Given the strong sales figures, there is every likelihood that the company will expand. 鉴于强劲的销售数据，公司很有可能会扩张。",
-    "there is little likelihood that ... 不大可能的是… After the recent delays, there is little likelihood that the project will finish on time. 在最近的延误之后，该项目不大可能按时完成。",
-    "there is a truth in … 有道理；具有真实性 There is undoubtedly a truth in his observation, but such a truth is not criticism of schools. 他的观察无疑是有道理的，但这种道理并非是对学校的批评。",
-    "My hair is more manageable since I had it cut.",
-    "The workload is now manageable with the new staff."
+   "parts": [
+    {
+     "text": "Later it was found that there was a type of mosquito which acted as the carrier of this disease and passed it on to the rabbits . act as 作为、当...来用、有这个功能、效果 carrier [化学] 载体；运送者；带菌者 pass sth. on to sb. 把...转交给...；（派生）传染 / 传播疾病 So while the rest of the world was trying to get rid of mosquitoes, Australia was encouraging this one. get rid of ... = dispose of ... 打发走；除掉（干掉、清除掉、完全杀光...） encourage v.促进，助长 It effectively spread the disease all over the continent and drastically reduced the rabbit population. all over 遍布了... drastic (adj.) extreme and sudden 极端的；急剧的；严厉的；猛烈的 It later became apparent that rabbits were developing a degree of resistance to this disease , so that the rabbit population was unlikely to be completely exterminated. became apparent ... 明显看出(文言)... it is / was clear / obvious / apparent / evident that ... 显然... develop a degree of resistance to ... 对...产生一定程度的抗药性/抵抗力 The medicine effectively restrained the growth of the tumor, which, in the course of time, however, developed a degree of resistance to it . 该药有效地抑制了肿瘤的生长，但是，经过一段时间，肿瘤对该药产生了一定程度的抗药性。 There were hopes, however, that the problem of the rabbit would become manageable . there be + 无灵主语 地道句式 There is probably an element of truth in this argument, but they ignore a more basic fact that the freedom of the press is often abused. 考研真题 Albert Einstein once attributed the creativity in a famous scientist to the fact that he never went to school. There is undoubtedly a truth in his observation, but such a truth is not criticism of schools. manageable adj. easy to control or deal with 易管理的；易控制的；易办的"
+    },
+    {
+     "text": "The old barn now serves as a community center. 充当社区中心"
+    },
+    {
+     "text": "He acted as if he had never lived in England before. acted as if 表现得...、假装..."
+    },
+    {
+     "text": "Alfred the Great acted as his own spy, visiting Danish camps disguised as a minstrel ."
+    },
+    {
+     "text": "During the negotiation, the ambassador act as a neutral mediator. 在谈判期间，大使充当了中立调解人的角色。"
+    },
+    {
+     "table": {
+      "headers": [
+       "serve as … 担任；充当；用作…",
+       "function as … 起…作用；职能是…",
+       "be used as … 被用作…"
+      ],
+      "rows": [
+       [
+        "The old lighthouse now serve as a museum for maritime history. 这座古老的灯塔现在被用作海洋历史博物馆。"
+       ],
+       [
+        "The small room has to function as both an office and a guest bedroom. 这个小房间必须同时用作办公室和客卧。"
+       ],
+       [
+        "Recycled plastic bottles can be used as material for new clothing. 回收的塑料瓶可以被用作新衣服的材料。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Mosquitoes can carry diseases like malaria."
+    },
+    {
+     "text": "This substance can act as a carrier for the medication."
+    },
+    {
+     "text": "His father accused him of acting as a carrier for some drug pushers. 他父亲指责他为某些毒贩子充当毒品运送人。"
+    },
+    {
+     "table": {
+      "headers": [
+       "carry a disease 携带疾病"
+      ],
+      "rows": [
+       [
+        "We continually wage war on them, for they contaminate our food, carry diseases, or devour our crops ."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "I’ll pass your complaints on to my superiors."
+    },
+    {
+     "text": "He passed his cold on to me."
+    },
+    {
+     "text": "Some animals can transmit a disease to humans. 将疾病传播给人类"
+    },
+    {
+     "text": "Please pass this message on to your manager. 请把这条消息转交给你的经理。"
+    },
+    {
+     "table": {
+      "headers": [
+       "pass sth. on 传染（疾病）",
+       "communicate / transmit a disease to … 把疾病传染给…"
+      ],
+      "rows": [
+       [
+        "Make sure you wash your hands frequently so you don't pass the flu on. 确保你勤洗手，这样你就不会把流感传染出去。"
+       ],
+       [
+        "The virus can communicate / transmit a disease to other people through contact. 这种病毒可以通过接触把疾病传染给其他人。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "It took me over half an hour to get rid of him ."
+    },
+    {
+     "text": "There is no quicker method of disposing of patients than by giving them what they are asking for , ... 打发走..."
+    },
+    {
+     "text": "I used weedkiller to get rid of the weeds in the garden."
+    },
+    {
+     "table": {
+      "headers": [
+       "dispose of ... 处理掉；除掉"
+      ],
+      "rows": [
+       [
+        "The president ruthlessly disposed of his rivals.无情地除掉了他的对手"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Poor hygiene encourages the spread of disease. 促进疾病的传播"
+    },
+    {
+     "text": "The warm weather encourages plant growth. 促进植物生长"
+    },
+    {
+     "text": "The good news spread throughout the country."
+    },
+    {
+     "text": "Traditional custom, taken the world over, is a mass of detailed behaviour more astonishing than what any one person can ever evolve in individual actions, no matter how aberrant ."
+    },
+    {
+     "text": "We traveled all over the country during our summer vacation. 我们在暑假期间跑遍了全国各地。"
+    },
+    {
+     "table": {
+      "headers": [
+       "around 在…周围；到处",
+       "throughout 遍及；在…整个期间",
+       "over the continent 遍及整个大陆"
+      ],
+      "rows": [
+       [
+        "The good news quickly spread around the small town. 这个好消息很快就在这个小镇上传开了。"
+       ],
+       [
+        "The company has offices throughout Europe and Asia. 这家公司在整个欧洲和亚洲都有办事处。"
+       ],
+       [
+        "The new style of music has gained popularity over the continent. 这种新的音乐风格在整个大陆上获得了欢迎。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "We need to take drastic measures to solve the problem."
+    },
+    {
+     "text": "There were drastic cuts in government spending."
+    },
+    {
+     "table": {
+      "headers": [
+       "drastically adv.（动作或变化）猛烈地，力度大地 ；极其，非常"
+      ],
+      "rows": [
+       [
+        "The size of the army was drastically cut."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "It soon became clear / obvious / apparent / evident that she did not have a genuine interest in her job."
+    },
+    {
+     "text": "It quickly became evident that the initial plan was flawed."
+    },
+    {
+     "table": {
+      "headers": [
+       "it was obvious that ... 显然是..."
+      ],
+      "rows": [
+       [
+        "The rope had been cut, so it was obvious that the lamb had been stolen ."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Bacteria have developed a resistance to many antibiotics. 对许多抗生素产生了抗药性"
+    },
+    {
+     "text": "Of course, New York is the ideal place for such an interesting study, because there is no shortage of tall buildings ."
+    },
+    {
+     "text": "This greatly reduced the speed of the ship, for there was a danger that if she travelled too quickly, this rudder would be torn away as well ."
+    },
+    {
+     "text": "Perhaps there is an element of truth in both these pictures, but few of us have had the opportunity to find out ."
+    },
+    {
+     "text": "Apparently, there is a good deal of truth in this idea . 显然，这个想法很有道理。"
+    },
+    {
+     "text": "There is no denying that he is talented. 不可否认的是他很有天赋."
+    },
+    {
+     "text": "There is no question that the earth is round. 毫无疑问地球是圆的."
+    },
+    {
+     "text": "There is every likelihood that he will win. 他很有可能会赢..."
+    },
+    {
+     "table": {
+      "headers": [
+       "there is always hope that … 总是会有…的希望",
+       "there is no denying that ... 不可否认的是…",
+       "there is no doubt / question that ... 毫无疑问的是…",
+       "there is every likelihood that ... 很有可能的是…",
+       "there is little likelihood that ... 不大可能的是…",
+       "there is a truth in … 有道理；具有真实性"
+      ],
+      "rows": [
+       [
+        "There is always hope that the two sides will reach a peace agreement. 总是会有双方达成和平协议的希望。"
+       ],
+       [
+        "There is no denying that social media has changed the way we communicate. 不可否认的是，社交媒体改变了我们的交流方式。"
+       ],
+       [
+        "There is no doubt / question that hard work leads to success. 毫无疑问的是，努力工作会带来成功。"
+       ],
+       [
+        "Given the strong sales figures, there is every likelihood that the company will expand. 鉴于强劲的销售数据，公司很有可能会扩张。"
+       ],
+       [
+        "After the recent delays, there is little likelihood that the project will finish on time. 在最近的延误之后，该项目不大可能按时完成。"
+       ],
+       [
+        "There is undoubtedly a truth in his observation, but such a truth is not criticism of schools. 他的观察无疑是有道理的，但这种道理并非是对学校的批评。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "My hair is more manageable since I had it cut."
+    },
+    {
+     "text": "The workload is now manageable with the new staff."
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "结论",
-   "lines": [
-    "Ironically, Europe, which had bequeathed the rabbit as a pest to Australia, acquired this man-made disease as a pestilence. rabbit as a pest ... disease as a pest ilence 写作的语言游戏 bequeath sth. to sb. 把某物遗赠给某人 A French physician decided to get rid of the wild rabbits on his own estate and introduced myxomatosis. introduce 引入、引进 It did not , however, remain within the confines of this estate. confine s 范围 / 在...范围之内 / 在...范围之外 It spread through France, where wild rabbits are not generally regarded as a pest but as a sport and a useful food supply, and it spread to Britain where wild rabbits are regarded as a pest but where domesticated rabbits, equally susceptible to the disease, are the basis of a profitable fur industry . sport n.[C] an activity that people do in the countryside, especially hunting or fishing （狩猎，钓鱼等）乡间活动，消遣 domesticated adj.domesticated animals are able to work for people or live with them as pets 家养的，驯化的 不规则复数变化形式 拉丁词复数 on the basis of ... 在...的基础之上 The question became one of whether Man could control the disease he had invented . one of 其中之一",
-    "As a vice tolerated in youth, it would later rise as a viciousness corrupting his entire character. （vice 小恶习 → viciousness 恶毒 / 凶残 / 嚣张的恶）",
-    "As a rage that seized his heart, it returned as a rapture that carried him beyond reason. 同源词根 rapt- / -rapere：抓取、带走",
-    "As a humble request at first, it later weighed upon him as a humiliation he could not forget. 同根 humilis：低下、地面",
-    "As an ardent hope in his youth, it lingered as an ardor that burned long after the dream had faded. 同源词：来自 ardere：燃烧",
-    "As a frugal habit in childhood, it endured as a frugality shaping every decision of his adult life. 同源：frux / frug- 果实、成果 → 引申为节俭",
-    "In her will, she chose to bequeath her entire library to her godson. 在她的遗嘱中，她选择把她的整个图书馆遗赠给她的教子。",
-    "She bequeathed her entire estate to charity. 将她的全部遗产遗赠给了慈善机构",
-    "The treasure I bequeath and leave entirely to my sole heir. 此项宝藏吾全部遗赠与吾之惟一继承人。",
-    "inherit sth. from sb. 从某人那里继承某物 (v.) He didn't inherit the family fortune from his father, but rather his passion for music. 他没有从父亲那里继承家族财产，而是继承了他对音乐的热情。",
-    "The government plans to introduce a new tax system.",
-    "We introduce fragment identifiers for the speakers. 我们为演讲者引入了片段标识符。",
-    "The government is having to introduce some difficult changes, particularly in moving over to a market economy. 政府将不得不引入一些艰难的变革，特别是在转向市场经济的过程中。",
-    "The open sea was deep and mysterious, and anyone who gave more than a passing thought to the bottom confines of the oceans probably assumed that the sea bed was flat .",
-    "We must work within the confines of the law / within the confines of the farm.",
-    "The universe extends beyond the confines of human knowledge.",
-    "within the confines of … 在…范围之内；在…界限之内 All building work must remain strictly within the confines of the farm boundary. 所有建筑工程必须严格保持在农场的界限之内。",
-    "beyond the confines of … 在…范围之外；超出…界限 The exploration team ventured beyond the confines of human knowledge. 探索队冒险进入了人类知识的范围之外。",
-    "Hunting is a popular sport in this region.",
-    "Modern alpinists try to climb mountains by a route which will give them good sport , ... [U] fun or amusement 乐趣，消遣，好玩",
-    "He enjoys field sports like fishing.",
-    "Domesticated animals such as sheep and horses are common here.",
-    "While agriculturalists rely on domesticated plants, pastoralists rely on domesticated animals. 农民依靠种植作物为生，而牧民则依赖于驯养牲畜。",
-    "They were domesticated some thousands of years after this. 之后辣椒被驯化了数千年的时间。",
-    "wild adj.野生的 Wild boar are numerous in the valleys. 这些山谷里有无数的野猪。",
-    "The research established a solid basis for further study. ⇒ These bases are vital for the structure.",
-    "the Earth's axis. ⇒ drawing the x and y axes.",
-    "She is writing her doctoral thesis. ⇒ discussing various theses.",
-    "basis / bases 基础；根据 (单数/复数) The negotiation proceeded on a mutual basis, which later became the five bases for the agreement. 谈判在相互理解的基础上进行，这后来成为了协议的五个基础。",
-    "axis / axes 轴；轴线 (单数/复数) The Earth rotates on its own axis, and the graph has two primary axes. 地球绕着自己的轴线自转，而图表有两个主轴。",
-    "thesis / theses 论题；论文 (单数/复数) He spent a year writing his master's thesis, presenting ten supporting theses. 他花了一年的时间写硕士论文，提出了十个支持性的论题。",
-    "ellipsis / ellipses 省略号 (单数/复数) An ellipsis is used to indicate missing words; a page may contain several ellipses. 省略号用来表示缺失的词语；一页中可能包含数个省略号。",
-    "analysis / analyses 分析 (单数/复数) A careful financial analysis was required, and the team presented three different analyses. 需要进行仔细的财务分析，团队提出了三种不同的分析。",
-    "diagnosis / diagnoses 诊断 (单数/复数) The doctor provided a precise diagnosis after reviewing many patient diagnoses. 医生在查阅了许多病人的诊断书后，提供了一个精确的诊断。",
-    "hypothesis / hypotheses 假设；假说 (单数/复数) The study aims to test one main hypothesis, supported by several related hypotheses. 这项研究旨在检验一个主要假设，并由几个相关的假说支持。",
-    "Decisions were often made on the basis of incorrect information.在错误信息的基础上做出决定",
-    "The two companies reached an agreement on the basis of mutual respect.在相互尊重的基础上",
-    "base n.底部；基地 At the base of the gold cap, the words 'made in the U.S.A' had been neatly inscribed . It can take as long as eight days to rig up rope ladders and to establish supply bases before a descent can be made into a very deep cave .",
-    "The central theme of the novel is one of the conflict between duty and desire.",
-    "My main concern is one of how we can raise the necessary funds.",
-    "I'm just one of his many conquests. 我仅仅是他的众多俘虏之一。",
-    "Spain was one of the hardest hit countries. 西班牙是遭受打击最严重的国家之一。"
+   "parts": [
+    {
+     "text": "Ironically, Europe, which had bequeathed the rabbit as a pest to Australia, acquired this man-made disease as a pestilence. rabbit as a pest ... disease as a pest ilence 写作的语言游戏 bequeath sth. to sb. 把某物遗赠给某人 A French physician decided to get rid of the wild rabbits on his own estate and introduced myxomatosis. introduce 引入、引进 It did not , however, remain within the confines of this estate. confine s 范围 / 在...范围之内 / 在...范围之外 It spread through France, where wild rabbits are not generally regarded as a pest but as a sport and a useful food supply, and it spread to Britain where wild rabbits are regarded as a pest but where domesticated rabbits, equally susceptible to the disease, are the basis of a profitable fur industry . sport n.[C] an activity that people do in the countryside, especially hunting or fishing （狩猎，钓鱼等）乡间活动，消遣 domesticated adj.domesticated animals are able to work for people or live with them as pets 家养的，驯化的 不规则复数变化形式 拉丁词复数 on the basis of ... 在...的基础之上 The question became one of whether Man could control the disease he had invented . one of 其中之一"
+    },
+    {
+     "text": "As a vice tolerated in youth, it would later rise as a viciousness corrupting his entire character. （vice 小恶习 → viciousness 恶毒 / 凶残 / 嚣张的恶）"
+    },
+    {
+     "text": "As a rage that seized his heart, it returned as a rapture that carried him beyond reason. 同源词根 rapt- / -rapere：抓取、带走"
+    },
+    {
+     "text": "As a humble request at first, it later weighed upon him as a humiliation he could not forget. 同根 humilis：低下、地面"
+    },
+    {
+     "text": "As an ardent hope in his youth, it lingered as an ardor that burned long after the dream had faded. 同源词：来自 ardere：燃烧"
+    },
+    {
+     "text": "As a frugal habit in childhood, it endured as a frugality shaping every decision of his adult life. 同源：frux / frug- 果实、成果 → 引申为节俭"
+    },
+    {
+     "text": "In her will, she chose to bequeath her entire library to her godson. 在她的遗嘱中，她选择把她的整个图书馆遗赠给她的教子。"
+    },
+    {
+     "text": "She bequeathed her entire estate to charity. 将她的全部遗产遗赠给了慈善机构"
+    },
+    {
+     "text": "The treasure I bequeath and leave entirely to my sole heir. 此项宝藏吾全部遗赠与吾之惟一继承人。"
+    },
+    {
+     "table": {
+      "headers": [
+       "inherit sth. from sb. 从某人那里继承某物 (v.)"
+      ],
+      "rows": [
+       [
+        "He didn't inherit the family fortune from his father, but rather his passion for music. 他没有从父亲那里继承家族财产，而是继承了他对音乐的热情。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The government plans to introduce a new tax system."
+    },
+    {
+     "text": "We introduce fragment identifiers for the speakers. 我们为演讲者引入了片段标识符。"
+    },
+    {
+     "text": "The government is having to introduce some difficult changes, particularly in moving over to a market economy. 政府将不得不引入一些艰难的变革，特别是在转向市场经济的过程中。"
+    },
+    {
+     "text": "The open sea was deep and mysterious, and anyone who gave more than a passing thought to the bottom confines of the oceans probably assumed that the sea bed was flat ."
+    },
+    {
+     "text": "We must work within the confines of the law / within the confines of the farm."
+    },
+    {
+     "text": "The universe extends beyond the confines of human knowledge."
+    },
+    {
+     "table": {
+      "headers": [
+       "within the confines of … 在…范围之内；在…界限之内",
+       "beyond the confines of … 在…范围之外；超出…界限"
+      ],
+      "rows": [
+       [
+        "All building work must remain strictly within the confines of the farm boundary. 所有建筑工程必须严格保持在农场的界限之内。"
+       ],
+       [
+        "The exploration team ventured beyond the confines of human knowledge. 探索队冒险进入了人类知识的范围之外。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Hunting is a popular sport in this region."
+    },
+    {
+     "text": "Modern alpinists try to climb mountains by a route which will give them good sport , ... [U] fun or amusement 乐趣，消遣，好玩"
+    },
+    {
+     "text": "He enjoys field sports like fishing."
+    },
+    {
+     "text": "Domesticated animals such as sheep and horses are common here."
+    },
+    {
+     "text": "While agriculturalists rely on domesticated plants, pastoralists rely on domesticated animals. 农民依靠种植作物为生，而牧民则依赖于驯养牲畜。"
+    },
+    {
+     "text": "They were domesticated some thousands of years after this. 之后辣椒被驯化了数千年的时间。"
+    },
+    {
+     "table": {
+      "headers": [
+       "wild adj.野生的"
+      ],
+      "rows": [
+       [
+        "Wild boar are numerous in the valleys. 这些山谷里有无数的野猪。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The research established a solid basis for further study. ⇒ These bases are vital for the structure."
+    },
+    {
+     "text": "the Earth's axis. ⇒ drawing the x and y axes."
+    },
+    {
+     "text": "She is writing her doctoral thesis. ⇒ discussing various theses."
+    },
+    {
+     "table": {
+      "headers": [
+       "basis / bases 基础；根据 (单数/复数)",
+       "axis / axes 轴；轴线 (单数/复数)",
+       "thesis / theses 论题；论文 (单数/复数)",
+       "ellipsis / ellipses 省略号 (单数/复数)",
+       "analysis / analyses 分析 (单数/复数)",
+       "diagnosis / diagnoses 诊断 (单数/复数)",
+       "hypothesis / hypotheses 假设；假说 (单数/复数)"
+      ],
+      "rows": [
+       [
+        "The negotiation proceeded on a mutual basis, which later became the five bases for the agreement. 谈判在相互理解的基础上进行，这后来成为了协议的五个基础。"
+       ],
+       [
+        "The Earth rotates on its own axis, and the graph has two primary axes. 地球绕着自己的轴线自转，而图表有两个主轴。"
+       ],
+       [
+        "He spent a year writing his master's thesis, presenting ten supporting theses. 他花了一年的时间写硕士论文，提出了十个支持性的论题。"
+       ],
+       [
+        "An ellipsis is used to indicate missing words; a page may contain several ellipses. 省略号用来表示缺失的词语；一页中可能包含数个省略号。"
+       ],
+       [
+        "A careful financial analysis was required, and the team presented three different analyses. 需要进行仔细的财务分析，团队提出了三种不同的分析。"
+       ],
+       [
+        "The doctor provided a precise diagnosis after reviewing many patient diagnoses. 医生在查阅了许多病人的诊断书后，提供了一个精确的诊断。"
+       ],
+       [
+        "The study aims to test one main hypothesis, supported by several related hypotheses. 这项研究旨在检验一个主要假设，并由几个相关的假说支持。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Decisions were often made on the basis of incorrect information.在错误信息的基础上做出决定"
+    },
+    {
+     "text": "The two companies reached an agreement on the basis of mutual respect.在相互尊重的基础上"
+    },
+    {
+     "table": {
+      "headers": [
+       "base n.底部；基地"
+      ],
+      "rows": [
+       [
+        "At the base of the gold cap, the words 'made in the U.S.A' had been neatly inscribed . It can take as long as eight days to rig up rope ladders and to establish supply bases before a descent can be made into a very deep cave ."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The central theme of the novel is one of the conflict between duty and desire."
+    },
+    {
+     "text": "My main concern is one of how we can raise the necessary funds."
+    },
+    {
+     "text": "I'm just one of his many conquests. 我仅仅是他的众多俘虏之一。"
+    },
+    {
+     "text": "Spain was one of the hardest hit countries. 西班牙是遭受打击最严重的国家之一。"
+    }
    ]
   }
  ]

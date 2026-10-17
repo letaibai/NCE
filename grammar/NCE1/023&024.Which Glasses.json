@@ -2,79 +2,306 @@
  "grammar": [
   {
    "title": "认识介词(prep.)",
-   "lines": [
-    "媒婆：连接两个词或词与句子(介词=接词，后面需要接名词/代词)。 介词 on(在…上面) 有无动词翻译上有区别 名字后的【介词短语】通常做为后置定语使用，用来修饰及限定。比如：a dog 小狗（无限定） ，a dog in the tree 树上的小狗（规定的是树上的小狗）; an apple on the tree 树上的苹果（规定的是结在树上的苹果），长在上面用 on，掉进/放在里面用 in。 句子 必须要有动词(短语通常做定语)",
-    "the book on the desk 短语(没说完)",
-    "The book is on the desk. 句子(说完了)",
-    "您的浏览器不支持媒体播放",
-    "短语(无动词) 句子(有动词)",
-    "the glass on the table 桌上的玻璃杯 The glass is on the table. 玻璃杯 在 桌上。",
-    "the spoon on the plate 盘子上的勺子 The spoon is on the plate. 勺子 在 盘子上。",
-    "the bottle on the box 盒子上的瓶子 The bottle is on the box. 瓶子 在 盒子上。",
-    "I sit on the floor. 我坐在板上",
-    "There is a shoe on the floor. 地板上有一只鞋。",
-    "A shoe on the floor is mine. 地板上那只鞋是我的。"
+   "parts": [
+    {
+     "text": "媒婆：连接两个词或词与句子(介词=接词，后面需要接名词/代词)。 介词 on(在…上面) 有无动词翻译上有区别 名字后的【介词短语】通常做为后置定语使用，用来修饰及限定。比如：a dog 小狗（无限定） ，a dog in the tree 树上的小狗（规定的是树上的小狗）; an apple on the tree 树上的苹果（规定的是结在树上的苹果），长在上面用 on，掉进/放在里面用 in。 句子 必须要有动词(短语通常做定语)"
+    },
+    {
+     "text": "the book on the desk 短语(没说完)"
+    },
+    {
+     "text": "The book is on the desk. 句子(说完了)"
+    },
+    {
+     "table": {
+      "headers": [
+       "短语(无动词)",
+       "句子(有动词)"
+      ],
+      "rows": [
+       [
+        "the glass on the table 桌上的玻璃杯",
+        "The glass is on the table. 玻璃杯 在 桌上。"
+       ],
+       [
+        "the spoon on the plate 盘子上的勺子",
+        "The spoon is on the plate. 勺子 在 盘子上。"
+       ],
+       [
+        "the bottle on the box 盒子上的瓶子",
+        "The bottle is on the box. 瓶子 在 盒子上。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "I sit on the floor. 我坐在板上"
+    },
+    {
+     "text": "There is a shoe on the floor. 地板上有一只鞋。"
+    },
+    {
+     "text": "A shoe on the floor is mine. 地板上那只鞋是我的。"
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "宾格巩固",
-   "lines": [
-    "Which one s ? 使用 me, him, her, us 或 them 填空",
-    "动词 宾语 量词 可数名词复数",
-    "Give me some pen s .",
-    "him",
-    "her tie s .",
-    "us",
-    "them spoon s .",
-    "定冠词 名词复数 代词 介词短语",
-    "The pens / ones on the desk 书桌上的那些...",
-    "ties on the chair 椅子上的那些...",
-    "spoons on the table 桌子上的那些...",
-    "Give Tim this shirt. ⇒ Give him this one, too.",
-    "Give Jane this watch. ⇒ Give her this one, too.",
-    "Give the children these ice creams. ⇒ Give them these, too.",
-    "Give Tom this book. ⇒ Give him this one, too.",
-    "That is my passport. ⇒ Give me my passport please.",
-    "That is my coat. ⇒ Give me my coat please.",
-    "Those are our umbrellas. ⇒ Give us our umbrellas please."
+   "parts": [
+    {
+     "text": "Which one s ? 使用 me, him, her, us 或 them 填空"
+    },
+    {
+     "table": {
+      "headers": [
+       "动词",
+       "宾语",
+       "量词",
+       "可数名词复数",
+       "Give"
+      ],
+      "rows": [
+       [
+        "me",
+        "some",
+        "pen s ."
+       ],
+       [
+        "him"
+       ],
+       [
+        "her",
+        "tie s ."
+       ],
+       [
+        "us"
+       ],
+       [
+        "them",
+        "spoon s ."
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "定冠词",
+       "名词复数",
+       "代词",
+       "介词短语",
+       "The"
+      ],
+      "rows": [
+       [
+        "pens",
+        "/ ones",
+        "on the desk 书桌上的那些..."
+       ],
+       [
+        "ties",
+        "on the chair 椅子上的那些..."
+       ],
+       [
+        "spoons",
+        "on the table 桌子上的那些..."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Give Tim this shirt. ⇒ Give him this one, too."
+    },
+    {
+     "text": "Give Jane this watch. ⇒ Give her this one, too."
+    },
+    {
+     "text": "Give the children these ice creams. ⇒ Give them these, too."
+    },
+    {
+     "text": "Give Tom this book. ⇒ Give him this one, too."
+    },
+    {
+     "text": "That is my passport. ⇒ Give me my passport please."
+    },
+    {
+     "text": "That is my coat. ⇒ Give me my coat please."
+    },
+    {
+     "text": "Those are our umbrellas. ⇒ Give us our umbrellas please."
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "元音组合",
-   "lines": [
-    "元音组合练习",
-    "组合 音标 示例",
-    "air \\ eə \\ \\ er \\ \\ ɛə \\ air,fair,hair,pair",
-    "ear wear,rear,pear,fear",
-    "ear \\ ɪə \\ 、 \\ eə \\ 、 \\ ə: \\",
-    "元音 单元音(12个) 长元音 [i:] [ə:] [u:] [a:] [ɔː]",
-    "短元音 [i] [ə] [ɒ] [u] [ae] [e] [ʌ]",
-    "双元音(8个) ［ei］［ai］［ɔi］［iǝ］［εǝ］［uǝ］［ǝu］［au］",
-    "音标 对应英文单词 音标 对应英文单词",
-    "/i:/ ee, ea",
-    "/ə:/ ir /ə/ er",
-    "/a:/ ar",
-    "/ɔ:/ aw, au /ɔ/ aw, au",
-    "/ʊ/ oo /u:/ oo",
-    "/e/ ea /eɪ/ a-e, ay, ey",
-    "/aɪ/ i-e, ie",
-    "/əʊ/ ow, oa",
-    "ow, ou",
-    "/ɪə/ ear, eer",
-    "/ɔɪ/ oy, oi",
-    "音标 单词 元音组合",
-    "/'s ɔ: s ə / saucer au,er",
-    "/h e d/ head ea",
-    "/fl əʊ t/ float oa",
-    "/gr eɪ / grey ey",
-    "/b ɑ: ʤ/ barge ar",
-    "/sw i: t/ sweet ee",
-    "/w ʊ d/ wood oo",
-    "/m ɔɪ st/ moist oi"
+   "parts": [
+    {
+     "text": "元音组合练习"
+    },
+    {
+     "table": {
+      "headers": [
+       "组合",
+       "音标",
+       "示例"
+      ],
+      "rows": [
+       [
+        "air",
+        "\\ eə \\ \\ er \\ \\ ɛə \\",
+        "air,fair,hair,pair"
+       ],
+       [
+        "ear",
+        "wear,rear,pear,fear"
+       ],
+       [
+        "ear",
+        "\\ ɪə \\ 、 \\ eə \\ 、 \\ ə: \\"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "元音"
+      ],
+      "rows": [
+       [
+        "单元音(12个)",
+        "长元音",
+        "[i:] [ə:] [u:] [a:] [ɔː]"
+       ],
+       [
+        "短元音",
+        "[i] [ə] [ɒ] [u] [ae] [e] [ʌ]"
+       ],
+       [
+        "双元音(8个)",
+        "［ei］［ai］［ɔi］［iǝ］［εǝ］［uǝ］［ǝu］［au］"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "音标",
+       "对应英文单词",
+       "音标",
+       "对应英文单词"
+      ],
+      "rows": [
+       [
+        "/i:/",
+        "ee, ea"
+       ],
+       [
+        "/ə:/",
+        "ir",
+        "/ə/",
+        "er"
+       ],
+       [
+        "/a:/",
+        "ar"
+       ],
+       [
+        "/ɔ:/",
+        "aw, au",
+        "/ɔ/",
+        "aw, au"
+       ],
+       [
+        "/ʊ/",
+        "oo",
+        "/u:/",
+        "oo"
+       ],
+       [
+        "/e/",
+        "ea",
+        "/eɪ/",
+        "a-e, ay, ey"
+       ],
+       [
+        "/aɪ/",
+        "i-e, ie"
+       ],
+       [
+        "/əʊ/",
+        "ow, oa"
+       ],
+       [
+        "ow, ou"
+       ],
+       [
+        "/ɪə/",
+        "ear, eer"
+       ],
+       [
+        "/ɔɪ/",
+        "oy, oi"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "音标",
+       "单词",
+       "元音组合"
+      ],
+      "rows": [
+       [
+        "/'s ɔ: s ə /",
+        "saucer",
+        "au,er"
+       ],
+       [
+        "/h e d/",
+        "head",
+        "ea"
+       ],
+       [
+        "/fl əʊ t/",
+        "float",
+        "oa"
+       ],
+       [
+        "/gr eɪ /",
+        "grey",
+        "ey"
+       ],
+       [
+        "/b ɑ: ʤ/",
+        "barge",
+        "ar"
+       ],
+       [
+        "/sw i: t/",
+        "sweet",
+        "ee"
+       ],
+       [
+        "/w ʊ d/",
+        "wood",
+        "oo"
+       ],
+       [
+        "/m ɔɪ st/",
+        "moist",
+        "oi"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],

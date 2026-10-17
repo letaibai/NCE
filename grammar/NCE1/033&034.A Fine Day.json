@@ -2,72 +2,250 @@
  "grammar": [
   {
    "title": "现在进行时态",
-   "lines": [
-    "结构：主语 + is\\am\\are + doing",
-    "He is swimming in the river. 他正在河里游泳。",
-    "He is reading on the grass. 他正在草地上读书。",
-    "He is doing his homework. 他正在做作业。",
-    "He is running on the road. 他正在路上跑步。",
-    "你 正在 干什么？",
-    "What are you doing? 你在做什么？ I am eating. 我正在吃饭。",
-    "Where are you eating ? 你正在哪吃饭？ I am eating at home. 我正在家吃饭。",
-    "What are you eating ? 你在吃什么？ I am eating noodles. 我在吃面条。",
-    "Who are you eating with? 你在和谁一起吃？ I am eating with my sister. 我和我妹妹一起吃。"
+   "parts": [
+    {
+     "text": "结构：主语 + is\\am\\are + doing"
+    },
+    {
+     "text": "He is swimming in the river. 他正在河里游泳。"
+    },
+    {
+     "text": "He is reading on the grass. 他正在草地上读书。"
+    },
+    {
+     "text": "He is doing his homework. 他正在做作业。"
+    },
+    {
+     "text": "He is running on the road. 他正在路上跑步。"
+    },
+    {
+     "table": {
+      "headers": [
+       "你 正在 干什么？"
+      ],
+      "rows": [
+       [
+        "What are you doing? 你在做什么？",
+        "I am eating. 我正在吃饭。"
+       ],
+       [
+        "Where are you eating ? 你正在哪吃饭？",
+        "I am eating at home. 我正在家吃饭。"
+       ],
+       [
+        "What are you eating ? 你在吃什么？",
+        "I am eating noodles. 我在吃面条。"
+       ],
+       [
+        "Who are you eating with? 你在和谁一起吃？",
+        "I am eating with my sister. 我和我妹妹一起吃。"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "What are they doing?",
-   "lines": [
-    "单词短语 What are they doing?",
-    "单词 现在分词",
-    "sleep sleeping",
-    "shave shaving 去 e + ing",
-    "cry crying",
-    "wash washing",
-    "wait waiting 非辅元辅所以不双写 t",
-    "wait for me 等等我",
-    "wash my face",
-    "wash your hands",
-    "water ⇔ wash ⇔ wave ⇔ wine ⇔ well ⇔ wet… W与水有关",
-    "wait for ... 等待...",
-    "look at ... 看着",
-    "listen to ... 听...",
-    "They're cooking",
-    "sleeping",
-    "shaving",
-    "running",
-    "walking"
+   "parts": [
+    {
+     "text": "单词短语 What are they doing?"
+    },
+    {
+     "table": {
+      "headers": [
+       "单词",
+       "现在分词"
+      ],
+      "rows": [
+       [
+        "sleep",
+        "sleeping"
+       ],
+       [
+        "shave",
+        "shaving 去 e + ing"
+       ],
+       [
+        "cry",
+        "crying"
+       ],
+       [
+        "wash",
+        "washing"
+       ],
+       [
+        "wait",
+        "waiting 非辅元辅所以不双写 t"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "wait for me 等等我"
+    },
+    {
+     "text": "wash my face"
+    },
+    {
+     "text": "wash your hands"
+    },
+    {
+     "text": "water ⇔ wash ⇔ wave ⇔ wine ⇔ well ⇔ wet… W与水有关"
+    },
+    {
+     "text": "wait for ... 等待..."
+    },
+    {
+     "text": "look at ... 看着"
+    },
+    {
+     "text": "listen to ... 听..."
+    },
+    {
+     "table": {
+      "headers": [],
+      "rows": [
+       [
+        "They're",
+        "cooking"
+       ],
+       [
+        "sleeping"
+       ],
+       [
+        "shaving"
+       ],
+       [
+        "running"
+       ],
+       [
+        "walking"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "英语中的省读",
-   "lines": [
-    "/t/ , /d/ , /k/ , /g/ , /p/ , /b/ + 辅音开头的词省读。 She is beautiful. 主+系+表 快速识别主系表结构：Be动词单独出现！ I wash my hands. 主+谓+宾 主语执行了动作\"wash\"，而宾语\"my hands\"是动作的承受者。总结：主 系 表结构必须 要有系动词 (is/am/are...)，主 谓 宾结构必须 要有实义动词 (wash,run,walk...)。 动词分类",
-    "短语 省读 完整读音",
-    "Goo d night. /d/ [ɡʊd naɪt]",
-    "hel p me /p/ [hɛlp miː]",
-    "ba d boy /d/ [bæd bɔɪ]",
-    "Si t still. /t/ [sɪt stɪl]",
-    "I don' t li k e them. /t/, /k/ [aɪ doʊnt laɪk ðem]",
-    "\"主系表\"用于描述主语(She)的特征、状态、性质等(beautiful)。它由主语(She)、系动词（is也称为连系动词）和表语(beautiful)组成。",
-    "系动词(is)用来连接主语(She)和表语(beautiful)，并 表示 主语的 状态 、 特征 或 属性 ，所以取名表语。在这个句子中，系动词 \"is\" 表示主语 \"she\" 的状态，即美丽(beautiful)。因此，整个句子的意思是 \"她很美丽\"。",
-    "一个句子由主语、动词（谓语）和宾语构成。",
-    "主语是 \"I\"，表示动作的执行者，即我。",
-    "谓语是 \"wash\"，表示动作的进行，即洗。",
-    "宾语是 \"my hands\"，表示动作的承受者，即我的手。",
-    "She is reading a book.",
-    "He is running.",
-    "主 谓 宾",
-    "They are busy. 主系表（be动词单独出现）",
-    "句子 类型 动词",
-    "She is beautiful. A. 连系动词 is",
-    "She is running. B. 助动词",
-    "You must do it. C. 情态动词 must",
-    "I wash my hands. D. 实义动词 wash"
+   "parts": [
+    {
+     "text": "/t/ , /d/ , /k/ , /g/ , /p/ , /b/ + 辅音开头的词省读。 She is beautiful. 主+系+表 快速识别主系表结构：Be动词单独出现！ I wash my hands. 主+谓+宾 主语执行了动作\"wash\"，而宾语\"my hands\"是动作的承受者。总结：主 系 表结构必须 要有系动词 (is/am/are...)，主 谓 宾结构必须 要有实义动词 (wash,run,walk...)。 动词分类"
+    },
+    {
+     "table": {
+      "headers": [
+       "短语",
+       "省读",
+       "完整读音"
+      ],
+      "rows": [
+       [
+        "Goo d night.",
+        "/d/",
+        "[ɡʊd naɪt]"
+       ],
+       [
+        "hel p me",
+        "/p/",
+        "[hɛlp miː]"
+       ],
+       [
+        "ba d boy",
+        "/d/",
+        "[bæd bɔɪ]"
+       ],
+       [
+        "Si t still.",
+        "/t/",
+        "[sɪt stɪl]"
+       ],
+       [
+        "I don' t li k e them.",
+        "/t/, /k/",
+        "[aɪ doʊnt laɪk ðem]"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "\"主系表\"用于描述主语(She)的特征、状态、性质等(beautiful)。它由主语(She)、系动词（is也称为连系动词）和表语(beautiful)组成。"
+    },
+    {
+     "text": "系动词(is)用来连接主语(She)和表语(beautiful)，并 表示 主语的 状态 、 特征 或 属性 ，所以取名表语。在这个句子中，系动词 \"is\" 表示主语 \"she\" 的状态，即美丽(beautiful)。因此，整个句子的意思是 \"她很美丽\"。"
+    },
+    {
+     "text": "一个句子由主语、动词（谓语）和宾语构成。"
+    },
+    {
+     "text": "主语是 \"I\"，表示动作的执行者，即我。"
+    },
+    {
+     "text": "谓语是 \"wash\"，表示动作的进行，即洗。"
+    },
+    {
+     "text": "宾语是 \"my hands\"，表示动作的承受者，即我的手。"
+    },
+    {
+     "table": {
+      "headers": [],
+      "rows": [
+       [
+        "She",
+        "is reading",
+        "a book."
+       ],
+       [
+        "He",
+        "is running.",
+        ""
+       ],
+       [
+        "主",
+        "谓",
+        "宾"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "They are busy. 主系表（be动词单独出现）"
+    },
+    {
+     "table": {
+      "headers": [
+       "句子",
+       "类型",
+       "动词"
+      ],
+      "rows": [
+       [
+        "She is beautiful.",
+        "A. 连系动词",
+        "is"
+       ],
+       [
+        "She is running.",
+        "B. 助动词"
+       ],
+       [
+        "You must do it.",
+        "C. 情态动词",
+        "must"
+       ],
+       [
+        "I wash my hands.",
+        "D. 实义动词",
+        "wash"
+       ]
+      ]
+     }
+    }
    ]
   }
  ]

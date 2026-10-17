@@ -2,65 +2,207 @@
  "grammar": [
   {
    "title": "情态动词 have to & must",
-   "lines": [
-    "时态变化",
-    "have to 不得不 must 必须",
-    "必须做某事:强制或义务、规则、要求或他人的命令 必须做某事:内在的强烈愿望或个人判断、他人的建议、规劝、强调等",
-    "I have to finish this report by tomorrow. (我必须在明天之前完成这份报告。) He has to wear a uniform at work. (他在工作时必须穿制服。) We have to follow the instructions carefully. (我们必须仔细遵循指示。) I must work harder to achieve my goals. (我必须更加努力地实现我的目标。) You must take care of yourself. (你必须照顾好自己。) We must remember to bring our passports when we travel. (我们出行时必须记得带护照。)",
-    "don't have to 不必要，没有强制性 must not 禁止做某事，具有强制性",
-    "You do n't have to attend the meeting if you don't want to. (如果你不想去的话，你不必参加会议。) You must not use your phone while driving. (驾车时你不能使用手机。)",
-    "一般现在 have to must",
-    "过去时 had to must",
-    "三单 has to must",
-    "have to 否定句 助动词Do、Does、Did + not 疑问句 助动词Do、Does、Did",
-    "He does n't have to wear a uniform at work. Does he have to wear a uniform at work? (他在工作时必须穿制服吗？) Yes, He has to.",
-    "must 否定句 绝对禁止 疑问句 must提前",
-    "He mustn't wear a uniform at work. Must he take care of himself? (他必须照顾好自己吗？) Yes, he must . Yes, he need to ."
+   "parts": [
+    {
+     "text": "时态变化"
+    },
+    {
+     "table": {
+      "headers": [
+       "have to 不得不",
+       "must 必须",
+       "don't have to 不必要，没有强制性",
+       "must not 禁止做某事，具有强制性"
+      ],
+      "rows": [
+       [
+        "必须做某事:强制或义务、规则、要求或他人的命令",
+        "必须做某事:内在的强烈愿望或个人判断、他人的建议、规劝、强调等"
+       ],
+       [
+        "I have to finish this report by tomorrow. (我必须在明天之前完成这份报告。) He has to wear a uniform at work. (他在工作时必须穿制服。) We have to follow the instructions carefully. (我们必须仔细遵循指示。)",
+        "I must work harder to achieve my goals. (我必须更加努力地实现我的目标。) You must take care of yourself. (你必须照顾好自己。) We must remember to bring our passports when we travel. (我们出行时必须记得带护照。)"
+       ],
+       [
+        "You do n't have to attend the meeting if you don't want to. (如果你不想去的话，你不必参加会议。)",
+        "You must not use your phone while driving. (驾车时你不能使用手机。)"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "一般现在",
+       "过去时",
+       "三单"
+      ],
+      "rows": [
+       [
+        "have to",
+        "must"
+       ],
+       [
+        "had to",
+        "must"
+       ],
+       [
+        "has to",
+        "must"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "have to",
+       "否定句 助动词Do、Does、Did + not",
+       "疑问句 助动词Do、Does、Did"
+      ],
+      "rows": [
+       [
+        "He does n't have to wear a uniform at work.",
+        "Does he have to wear a uniform at work? (他在工作时必须穿制服吗？) Yes, He has to."
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "must",
+       "否定句 绝对禁止",
+       "疑问句 must提前"
+      ],
+      "rows": [
+       [
+        "He mustn't wear a uniform at work.",
+        "Must he take care of himself? (他必须照顾好自己吗？) Yes, he must . Yes, he need to ."
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "have to 练习",
-   "lines": [
-    "Do you have to go now? Yes, I have to leave immediately.",
-    "Do you have to get up early tomorrow morning? Yes, I'll have to get up at six o'clock.(一般将来)",
-    "Did you have to take a taxi?(一般过去) I'm afraid I had to. I could n't get a bus.",
-    "Has n't your friend arrived yet?(现在完成) How long have you had to wait ? I 've had to wait for two hours !",
-    "Do you have to water the garden? No. I do n't need to water it now. It 's going to rain .",
-    "Do we have to walk to the station? No, we do n't need to .We can catch a bus."
+   "parts": [
+    {
+     "table": {
+      "headers": [],
+      "rows": [
+       [
+        "Do you have to go now?",
+        "Yes, I have to leave immediately."
+       ],
+       [
+        "Do you have to get up early tomorrow morning?",
+        "Yes, I'll have to get up at six o'clock.(一般将来)"
+       ],
+       [
+        "Did you have to take a taxi?(一般过去)",
+        "I'm afraid I had to. I could n't get a bus."
+       ],
+       [
+        "Has n't your friend arrived yet?(现在完成)",
+        "How long have you had to wait ? I 've had to wait for two hours !"
+       ],
+       [
+        "Do you have to water the garden?",
+        "No. I do n't need to water it now. It 's going to rain ."
+       ],
+       [
+        "Do we have to walk to the station?",
+        "No, we do n't need to .We can catch a bus."
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "Lazy Susan 餐桌转盛",
-   "lines": [
-    "Uncle Sam 美国政府 average Joe 普通人 Jack of all trades 万事通 Murphy's Law 莫非定律",
-    "When a person is reaching for a dish,you mustn't turn the lazy Susan! 当有人正在拿菜时，你千万别去转餐盘哦！",
-    "lazy susan 是一个“习语”不能直接将其翻译成“懒惰的苏珊”哦，因为它是指“转盘”，餐馆吃饭的那种转盘。它还可以叫 turntable 或者 rotating tray，“旋转的桌盘”，很直白，理解起来很简单。 那问题来了，为什么人们会将 lazy Susan 理解成“饭桌的转盘”呢？其来源说法不一，有人说是因为有个 Susan 开了个饭店，然后忙不过来就发明了这个来“偷懒”， 因此 lazy Susan 的别名叫 dumb waiter (不说话的服务员）。",
-    "When Uncle Sam stops buying,interest rates should rise. 当美国政府不再购买时，利率就会上升。",
-    "\"Uncle Sam\"（山姆大叔）是美国一种常见的象征，常被用来代表美国政府、美国人民或美国本身。关于\"Uncle Sam\"这个名字的来源有几种说法，但其中最流行和广泛接受的说法是以下故事。",
-    "故事发生在19世纪初美国战争时期。当时，美国政府需要招募志愿者参加军队，以应对英国在1812年对美国的战争挑衅。一个名叫Samuel Wilson的屠夫在纽约州特洛伊为军队提供肉类，他的标签上写着\"S.U.S.\"，表示\"US\"（United States）的缩写。",
-    "士兵们问起肉类来源时，其中一位士兵将\"S.U.S.\"解释为\"Uncle Sam\"（山姆大叔），将其与Samuel Wilson联系在一起。士兵们开始用\"Uncle Sam\"来指代美国政府，并因此而广泛传播开来。",
-    "随着时间的推移，“Uncle Sam”逐渐成为代表美国的代名词和国家象征，并在政治卡通、插图和宣传中得到广泛使用。如今，“Uncle Sam”常被描绘成一个长胡子、戴着高顶帽和红白蓝颜色的衣服的男人，他的形象经常与美国的爱国主义和政府相关联。",
-    "总之，\"Uncle Sam\"的来源可以追溯到19世纪初期，最初与纽约州特洛伊的屠夫Samuel Wilson有关。如今，\"Uncle Sam\"被普遍认为是美国的象征之一。",
-    "To her, I'm just an average Joe. 对她来说，我只不过是一个普通人",
-    "\"Average Joe\"（普通的乔）是一个常用的短语，用来描述一个普通、平凡的人。它通常用于指代没有特殊天赋、才能或成就的普通人，与那些具有显著才能或特殊身份的人形成对比。",
-    "这个短语的起源并不确定，但有一种说法是它源自19世纪美国的俚语。根据这种说法，乔（Joe）最初是作为“常见的名字”使用的，而“average Joe”则是在这个基础上发展而来的。后来，这个短语逐渐演变成了用来描述普通人的标准化表达方式。",
-    "\"Average Joe\" 这个短语已经成为口语中常用的词汇，用于强调一个人的普通性和普遍性。它传达了一个人没有特别突出或引人注目的特点，反映了普通人在大众中的代表性。",
-    "\"Average Joe\" 指的是一个普通的、平凡的人，没有特殊才能或成就。这个短语常被用来反映普通人在集体中的典型性。",
-    "There is nothing he can't do.He really is a Jack of all trades. 没有他做不到的事，他真的是个万事通。",
-    "\"Jack of all trades\"（百事通）是一个常用的短语，用来形容一个人精通多种技能或领域。这个短语通常表示一个人广泛而多样化的知识和能力，他可能不是专家，但在许多不同的领域都具备一定的技能和经验。",
-    "这个短语的起源可以追溯到16世纪，\"jack\" 在这里表示\"普通男子\"的意思，而 \"trade\" 表示一门手艺或行业。\"Jack of all trades\" 最初用来指代那些在不同行业或领域中都有技能的工匠或劳动者。这个短语后来扩展引申为形容那些有广泛知识和技能的人。",
-    "然而，虽然“Jack of all trades”表现了广泛的知识与技能，但它通常也有一个贬义的暗示，即这个人并没有在任何一个领域达到专家水平。因为他只掌握了各领域的皮毛，所以在某个特定领域中可能不如专家那样精通。",
-    "\"Jack of all trades\" 指的是一个在多个领域都有一定知识和技能的人。他是一位多才多艺的人，尽管可能在某个特定领域中不是专家。这个短语通常用来形容多面手或全才。",
-    "Well it's Murphy's law. Washing your car usually seems to bring rain. 这就是莫非定律，你洗完车后通常都会下雨",
-    "\"Murphy's Law\"（墨菲定律）是一个常用的短语，用来表达可能发生的意外事件或不幸情况。根据墨菲定律， 任何可能出错的事情总会出错 ，或者说，如果某件事有可能出错，那么它就很可能会出错。",
-    "墨菲定律的名字来源于美国航空工程师爱德华·A·墨菲（Edward A. Murphy），他在1949年的一次实验中提出了这个概念。据传言，当时他的实验员安装了一些仪器，但由于一系列的错误和疏忽，导致实验失败。墨菲在事后评论道：“如果有两种或多种方法去做一件事，并且其中一种方法最有可能导致灾难，那么必然有人会选择这种方式。”这个评论被整理成了墨菲定律。",
-    "墨菲定律成为了一种广泛应用的观念，常被引用来描述许多不确定性和突发事件的现象。它强调事物并非总是按照计划进行，而可能出现出乎意料的问题或挫折。",
-    "需要注意的是，墨菲定律并不是科学定律，而是一种经验法则或哲学观点。它并没有确切说明为什么事情会出错，只是提醒人们要警惕潜在的问题，并做好准备应对可能的困难。",
-    "墨菲定律是一个常用的短语，用来描述可能发生的意外情况或不幸事件。它强调事情有可能出错，即使我们已经做好了计划和准备。"
+   "parts": [
+    {
+     "text": "Uncle Sam 美国政府 average Joe 普通人 Jack of all trades 万事通 Murphy's Law 莫非定律"
+    },
+    {
+     "text": "When a person is reaching for a dish,you mustn't turn the lazy Susan! 当有人正在拿菜时，你千万别去转餐盘哦！"
+    },
+    {
+     "text": "lazy susan 是一个“习语”不能直接将其翻译成“懒惰的苏珊”哦，因为它是指“转盘”，餐馆吃饭的那种转盘。它还可以叫 turntable 或者 rotating tray，“旋转的桌盘”，很直白，理解起来很简单。 那问题来了，为什么人们会将 lazy Susan 理解成“饭桌的转盘”呢？其来源说法不一，有人说是因为有个 Susan 开了个饭店，然后忙不过来就发明了这个来“偷懒”， 因此 lazy Susan 的别名叫 dumb waiter (不说话的服务员）。"
+    },
+    {
+     "text": "When Uncle Sam stops buying,interest rates should rise. 当美国政府不再购买时，利率就会上升。"
+    },
+    {
+     "text": "\"Uncle Sam\"（山姆大叔）是美国一种常见的象征，常被用来代表美国政府、美国人民或美国本身。关于\"Uncle Sam\"这个名字的来源有几种说法，但其中最流行和广泛接受的说法是以下故事。"
+    },
+    {
+     "text": "故事发生在19世纪初美国战争时期。当时，美国政府需要招募志愿者参加军队，以应对英国在1812年对美国的战争挑衅。一个名叫Samuel Wilson的屠夫在纽约州特洛伊为军队提供肉类，他的标签上写着\"S.U.S.\"，表示\"US\"（United States）的缩写。"
+    },
+    {
+     "text": "士兵们问起肉类来源时，其中一位士兵将\"S.U.S.\"解释为\"Uncle Sam\"（山姆大叔），将其与Samuel Wilson联系在一起。士兵们开始用\"Uncle Sam\"来指代美国政府，并因此而广泛传播开来。"
+    },
+    {
+     "text": "随着时间的推移，“Uncle Sam”逐渐成为代表美国的代名词和国家象征，并在政治卡通、插图和宣传中得到广泛使用。如今，“Uncle Sam”常被描绘成一个长胡子、戴着高顶帽和红白蓝颜色的衣服的男人，他的形象经常与美国的爱国主义和政府相关联。"
+    },
+    {
+     "text": "总之，\"Uncle Sam\"的来源可以追溯到19世纪初期，最初与纽约州特洛伊的屠夫Samuel Wilson有关。如今，\"Uncle Sam\"被普遍认为是美国的象征之一。"
+    },
+    {
+     "text": "To her, I'm just an average Joe. 对她来说，我只不过是一个普通人"
+    },
+    {
+     "text": "\"Average Joe\"（普通的乔）是一个常用的短语，用来描述一个普通、平凡的人。它通常用于指代没有特殊天赋、才能或成就的普通人，与那些具有显著才能或特殊身份的人形成对比。"
+    },
+    {
+     "text": "这个短语的起源并不确定，但有一种说法是它源自19世纪美国的俚语。根据这种说法，乔（Joe）最初是作为“常见的名字”使用的，而“average Joe”则是在这个基础上发展而来的。后来，这个短语逐渐演变成了用来描述普通人的标准化表达方式。"
+    },
+    {
+     "text": "\"Average Joe\" 这个短语已经成为口语中常用的词汇，用于强调一个人的普通性和普遍性。它传达了一个人没有特别突出或引人注目的特点，反映了普通人在大众中的代表性。"
+    },
+    {
+     "text": "\"Average Joe\" 指的是一个普通的、平凡的人，没有特殊才能或成就。这个短语常被用来反映普通人在集体中的典型性。"
+    },
+    {
+     "text": "There is nothing he can't do.He really is a Jack of all trades. 没有他做不到的事，他真的是个万事通。"
+    },
+    {
+     "text": "\"Jack of all trades\"（百事通）是一个常用的短语，用来形容一个人精通多种技能或领域。这个短语通常表示一个人广泛而多样化的知识和能力，他可能不是专家，但在许多不同的领域都具备一定的技能和经验。"
+    },
+    {
+     "text": "这个短语的起源可以追溯到16世纪，\"jack\" 在这里表示\"普通男子\"的意思，而 \"trade\" 表示一门手艺或行业。\"Jack of all trades\" 最初用来指代那些在不同行业或领域中都有技能的工匠或劳动者。这个短语后来扩展引申为形容那些有广泛知识和技能的人。"
+    },
+    {
+     "text": "然而，虽然“Jack of all trades”表现了广泛的知识与技能，但它通常也有一个贬义的暗示，即这个人并没有在任何一个领域达到专家水平。因为他只掌握了各领域的皮毛，所以在某个特定领域中可能不如专家那样精通。"
+    },
+    {
+     "text": "\"Jack of all trades\" 指的是一个在多个领域都有一定知识和技能的人。他是一位多才多艺的人，尽管可能在某个特定领域中不是专家。这个短语通常用来形容多面手或全才。"
+    },
+    {
+     "text": "Well it's Murphy's law. Washing your car usually seems to bring rain. 这就是莫非定律，你洗完车后通常都会下雨"
+    },
+    {
+     "text": "\"Murphy's Law\"（墨菲定律）是一个常用的短语，用来表达可能发生的意外事件或不幸情况。根据墨菲定律， 任何可能出错的事情总会出错 ，或者说，如果某件事有可能出错，那么它就很可能会出错。"
+    },
+    {
+     "text": "墨菲定律的名字来源于美国航空工程师爱德华·A·墨菲（Edward A. Murphy），他在1949年的一次实验中提出了这个概念。据传言，当时他的实验员安装了一些仪器，但由于一系列的错误和疏忽，导致实验失败。墨菲在事后评论道：“如果有两种或多种方法去做一件事，并且其中一种方法最有可能导致灾难，那么必然有人会选择这种方式。”这个评论被整理成了墨菲定律。"
+    },
+    {
+     "text": "墨菲定律成为了一种广泛应用的观念，常被引用来描述许多不确定性和突发事件的现象。它强调事物并非总是按照计划进行，而可能出现出乎意料的问题或挫折。"
+    },
+    {
+     "text": "需要注意的是，墨菲定律并不是科学定律，而是一种经验法则或哲学观点。它并没有确切说明为什么事情会出错，只是提醒人们要警惕潜在的问题，并做好准备应对可能的困难。"
+    },
+    {
+     "text": "墨菲定律是一个常用的短语，用来描述可能发生的意外情况或不幸事件。它强调事情有可能出错，即使我们已经做好了计划和准备。"
+    }
    ]
   }
  ],

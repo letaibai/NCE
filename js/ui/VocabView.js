@@ -250,13 +250,27 @@ export class VocabView {
       return;
     }
 
+    const renderPart = (part) => {
+      if (part.table) {
+        const t = part.table;
+        const head = t.headers?.length
+          ? `<thead><tr>${t.headers.map((h) => `<th>${escapeHtml(h)}</th>`).join('')}</tr></thead>`
+          : '';
+        const body = (t.rows || [])
+          .map((row) => `<tr>${row.map((c) => `<td>${escapeHtml(c)}</td>`).join('')}</tr>`)
+          .join('');
+        return `<div class="grammar-table-wrap"><table class="grammar-table">${head}<tbody>${body}</tbody></table></div>`;
+      }
+      return `<p>${escapeHtml(part.text || '')}</p>`;
+    };
+
     const section = (title, items) => items?.length
       ? `<section class="grammar-block">
            <h3 class="grammar-heading">${title}</h3>
            ${items.map((item) => `
              <article class="grammar-item">
                <h4>${escapeHtml(item.title || '')}</h4>
-               ${(item.lines || []).map((l) => `<p>${escapeHtml(l)}</p>`).join('')}
+               ${(item.parts || []).map(renderPart).join('')}
              </article>`).join('')}
          </section>`
       : '';

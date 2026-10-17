@@ -2,21 +2,81 @@
  "expand": [
   {
    "title": "双宾语动词的被动语态",
-   "lines": [
-    "为什么会有双宾语结构的出现？ 有些时候这个动作后面涉及到的对象会同时有 人+物 两种，这个时候，就得接上人 + 物两个宾语，就构成了主谓双宾结构。 双宾结构两种写法 为什么会有两种写法呢？因为人和物两个宾语，为了公平起见，凭什么你老放在前面呢？我也可以放在前面呢？所以人放在前面写成一种，物放在前面写成另外一种。因此，这个双宾结构，主动形式就会有两种。 被动语态的来源 双宾语动词的被动语态 谁离谓语近，就提前 先写2种主动，然后变为被动。 被动语态在写作中的应用",
-    "I give you a book 我给你一本儿书（我给的是谁呢？给的是你，给的是什么呢？给的是一本书）在这里同时有了你和一本书，人加物这两个宾语就构成了主谓双宾结构。",
-    "I give you a book. = I give a book to you. 主谓双宾结构，其实就是主语谓语动词后面同时接了人加物两个宾语，而且人和物分别可以放在前面一次，所以双宾语结构的主动会有两种形式，这就是我们在第三课讲过的关于主谓双宾的内容。",
-    "正常情况下，一个主动的句子当中是主谓宾结构，比如说我吃苹果。那么我是动作的发出者，主语吃后面是动作的承受者宾语对吧？所以一般情况下，在一个主动的句子当中，这个宾语放在动词的后面，表示动作的承受者，那这个动作的承受者也就是宾语提前了之后，这个句子就可以变成被做的了。变成苹果被吃",
-    "所以大家会发现被动语它是在于把宾语提前了之后，这个事儿就变成被做的，所以就要写成被动的。那大家想一个问题，如果有一个宾语，那咱们把这一个宾语提前变成了一种被动？那如果要有两个宾语呢？那它们俩分别都可以被提前一次，因此就可以有两种被动的形式了。",
-    "那么既然有两个宾语，那分别就可以提前一次，就可以变成两种被动。先写成两种主动，然后再从这两种主动，然后再从这两种主动的形式当中给它变成两种被动，这个更好写。",
-    "主动 She gave me a pen. She gave a pen to me.",
-    "被动 I was given a pen by her. A pen was given to me by her.",
-    "双宾语能自己写出来，能看懂足以，单宾语的被动更常见。",
-    "主动 The manager offered the vacant post to him. The manager offered him the vacant post.",
-    "被动 The vacant post was offered to him by the manager. He was offered the vacant post by the manager.",
-    "People say (that) he is a genius. 当人做为主语时可信度会打折（不客观）。 People say (that) there is oil under the North Sea. 不要使用人们常说",
-    "He is said to be a genius. 据说(be said to do)他是个天才(被动) There is said to be oil under the North Sea. (be said to do)",
-    "It is said that he is a genius. 使用形式主语 + 主语从句 润色。(突出客观事实) It is said that there is oil under the North Sea. 从句更好用。"
+   "parts": [
+    {
+     "text": "为什么会有双宾语结构的出现？ 有些时候这个动作后面涉及到的对象会同时有 人+物 两种，这个时候，就得接上人 + 物两个宾语，就构成了主谓双宾结构。 双宾结构两种写法 为什么会有两种写法呢？因为人和物两个宾语，为了公平起见，凭什么你老放在前面呢？我也可以放在前面呢？所以人放在前面写成一种，物放在前面写成另外一种。因此，这个双宾结构，主动形式就会有两种。 被动语态的来源 双宾语动词的被动语态 谁离谓语近，就提前 先写2种主动，然后变为被动。 被动语态在写作中的应用"
+    },
+    {
+     "text": "I give you a book 我给你一本儿书（我给的是谁呢？给的是你，给的是什么呢？给的是一本书）在这里同时有了你和一本书，人加物这两个宾语就构成了主谓双宾结构。"
+    },
+    {
+     "text": "I give you a book. = I give a book to you. 主谓双宾结构，其实就是主语谓语动词后面同时接了人加物两个宾语，而且人和物分别可以放在前面一次，所以双宾语结构的主动会有两种形式，这就是我们在第三课讲过的关于主谓双宾的内容。"
+    },
+    {
+     "text": "正常情况下，一个主动的句子当中是主谓宾结构，比如说我吃苹果。那么我是动作的发出者，主语吃后面是动作的承受者宾语对吧？所以一般情况下，在一个主动的句子当中，这个宾语放在动词的后面，表示动作的承受者，那这个动作的承受者也就是宾语提前了之后，这个句子就可以变成被做的了。变成苹果被吃"
+    },
+    {
+     "text": "所以大家会发现被动语它是在于把宾语提前了之后，这个事儿就变成被做的，所以就要写成被动的。那大家想一个问题，如果有一个宾语，那咱们把这一个宾语提前变成了一种被动？那如果要有两个宾语呢？那它们俩分别都可以被提前一次，因此就可以有两种被动的形式了。"
+    },
+    {
+     "text": "那么既然有两个宾语，那分别就可以提前一次，就可以变成两种被动。先写成两种主动，然后再从这两种主动，然后再从这两种主动的形式当中给它变成两种被动，这个更好写。"
+    },
+    {
+     "table": {
+      "headers": [],
+      "rows": [
+       [
+        "主动",
+        "She gave me a pen.",
+        "She gave a pen to me."
+       ],
+       [
+        "被动",
+        "I was given a pen by her.",
+        "A pen was given to me by her."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "双宾语能自己写出来，能看懂足以，单宾语的被动更常见。"
+    },
+    {
+     "table": {
+      "headers": [],
+      "rows": [
+       [
+        "主动",
+        "The manager offered the vacant post to him.",
+        "The manager offered him the vacant post."
+       ],
+       [
+        "被动",
+        "The vacant post was offered to him by the manager.",
+        "He was offered the vacant post by the manager."
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [],
+      "rows": [
+       [
+        "People say (that) he is a genius. 当人做为主语时可信度会打折（不客观）。",
+        "People say (that) there is oil under the North Sea. 不要使用人们常说"
+       ],
+       [
+        "He is said to be a genius. 据说(be said to do)他是个天才(被动)",
+        "There is said to be oil under the North Sea. (be said to do)"
+       ],
+       [
+        "It is said that he is a genius. 使用形式主语 + 主语从句 润色。(突出客观事实)",
+        "It is said that there is oil under the North Sea. 从句更好用。"
+       ]
+      ]
+     }
+    }
    ]
   }
  ]

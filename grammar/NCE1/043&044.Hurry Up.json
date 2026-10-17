@@ -2,74 +2,301 @@
  "grammar": [
   {
    "title": "情态动词 can",
-   "lines": [
-    "总结：Can 后只能跟动词原型（完全忽略三人称单数、时态等说法）。情态动词 Can 是英语中常用的一个情态动词，用于表示能力、许可、可能性、建议等含义 需要注意的是，\"can\"的否定形式为\"cannot\"或缩写形式\"can't\"。\"can\"是一个非常常用的情态动词，用于表示能力、许可、可能性和建议等含义，具有多种灵活的用法。 结构：can + 动词 原形",
-    "Can 情态动词 Be 动词",
-    "Can you...? Are you...?",
-    "Can she...? Is she...?",
-    "Can he...? Is he...?",
-    "Can we...? Are we...?",
-    "Can they...? Are they...?",
-    "表示 能力 当\"can\"用于表示一个人或事物具有某种能力时，意味着能够完成某个动作或拥有某种技能。",
-    "I can swim .（我会游泳。） She can (s) speak French fluently.（她能够流利地说法语。） They can solve complex math problems.（他们能够解决复杂的数学问题。）",
-    "表示 许可 当\"can\"用于表示允许或许可某件事情发生时，表示某人有权行使某种行为。",
-    "Can I use your computer?（我可以使用你的电脑吗？） You can go now.（你可以走了。） Can we bring our own food to the party?（我们可以自带食物参加派对吗？）",
-    "表示 可能 性 当\"can\"用于表示某件事情的可能性时，表明存在一定的可能性或潜在的能力。",
-    "It can (s) rain later today.（今天晚些时候可能会下雨。） The concert can be canceled if there are not enough tickets sold.（如果售票不足，音乐会可能会取消。） This medicine can help reduce pain.（这种药物有可能帮助减轻疼痛。）",
-    "表示 建议 当\"can\"用于表示提出建议或提议时，表明某人认为某种行为是可行的或值得考虑的。",
-    "You can try asking for help.（你可以尝试寻求帮助。） We can meet for lunch tomorrow.（我们可以明天一起吃午餐。） You can start by reading this book.（你可以从读这本书开始。）",
-    "中文句子 英文句子",
-    "你可以帮我吗？ Can you help me?",
-    "他可以做这事吗？ Can he do it?",
-    "我们可以一起游泳吗？ Can we swim together?",
-    "你能沏茶吗？ Can you make the tea?",
-    "你能看到它吗？ Can you see it?",
-    "你能找到它们吗？ Can you find them?",
-    "你能拍手吗？ Can you clap your hands?",
-    "你能伸得很高吗？ Can you stretch up high?",
-    "你能跺跺脚吗？ Can you stamp your feet?"
+   "parts": [
+    {
+     "text": "总结：Can 后只能跟动词原型（完全忽略三人称单数、时态等说法）。情态动词 Can 是英语中常用的一个情态动词，用于表示能力、许可、可能性、建议等含义 需要注意的是，\"can\"的否定形式为\"cannot\"或缩写形式\"can't\"。\"can\"是一个非常常用的情态动词，用于表示能力、许可、可能性和建议等含义，具有多种灵活的用法。 结构：can + 动词 原形"
+    },
+    {
+     "table": {
+      "headers": [
+       "Can 情态动词",
+       "Be 动词"
+      ],
+      "rows": [
+       [
+        "Can you...?",
+        "Are you...?"
+       ],
+       [
+        "Can she...?",
+        "Is she...?"
+       ],
+       [
+        "Can he...?",
+        "Is he...?"
+       ],
+       [
+        "Can we...?",
+        "Are we...?"
+       ],
+       [
+        "Can they...?",
+        "Are they...?"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "表示 能力",
+       "表示 许可",
+       "表示 可能 性",
+       "表示 建议"
+      ],
+      "rows": [
+       [
+        "当\"can\"用于表示一个人或事物具有某种能力时，意味着能够完成某个动作或拥有某种技能。"
+       ],
+       [
+        "I can swim .（我会游泳。） She can (s) speak French fluently.（她能够流利地说法语。） They can solve complex math problems.（他们能够解决复杂的数学问题。）"
+       ],
+       [
+        "当\"can\"用于表示允许或许可某件事情发生时，表示某人有权行使某种行为。"
+       ],
+       [
+        "Can I use your computer?（我可以使用你的电脑吗？） You can go now.（你可以走了。） Can we bring our own food to the party?（我们可以自带食物参加派对吗？）"
+       ],
+       [
+        "当\"can\"用于表示某件事情的可能性时，表明存在一定的可能性或潜在的能力。"
+       ],
+       [
+        "It can (s) rain later today.（今天晚些时候可能会下雨。） The concert can be canceled if there are not enough tickets sold.（如果售票不足，音乐会可能会取消。） This medicine can help reduce pain.（这种药物有可能帮助减轻疼痛。）"
+       ],
+       [
+        "当\"can\"用于表示提出建议或提议时，表明某人认为某种行为是可行的或值得考虑的。"
+       ],
+       [
+        "You can try asking for help.（你可以尝试寻求帮助。） We can meet for lunch tomorrow.（我们可以明天一起吃午餐。） You can start by reading this book.（你可以从读这本书开始。）"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "中文句子",
+       "英文句子"
+      ],
+      "rows": [
+       [
+        "你可以帮我吗？",
+        "Can you help me?"
+       ],
+       [
+        "他可以做这事吗？",
+        "Can he do it?"
+       ],
+       [
+        "我们可以一起游泳吗？",
+        "Can we swim together?"
+       ],
+       [
+        "你能沏茶吗？",
+        "Can you make the tea?"
+       ],
+       [
+        "你能看到它吗？",
+        "Can you see it?"
+       ],
+       [
+        "你能找到它们吗？",
+        "Can you find them?"
+       ],
+       [
+        "你能拍手吗？",
+        "Can you clap your hands?"
+       ],
+       [
+        "你能伸得很高吗？",
+        "Can you stretch up high?"
+       ],
+       [
+        "你能跺跺脚吗？",
+        "Can you stamp your feet?"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "情态动词 + 名词",
-   "lines": [
-    "Are there any …? 名词复数 § Is there any …? 不可数名词",
-    "I can see spoons, but I can’t see any knives .",
-    "I can see some hammers, but I can’t see any boxes .",
-    "I can see some coffee, but I can’t see any loaves of bread.",
-    "I can see some cupboards, but I can’t see any shelves .",
-    "I can see Mr. Jones and Mr. Brown, but I can’t see their wives .",
-    "I can see some cups, but I can’t see any dishes .",
-    "I can see some cars, but I can’t see any buses .",
-    "注意： 可数名词 才需要变复数哦~",
-    "Are there any hammer s behind that box.",
-    "Are there any newspaper s behind that vase.",
-    "Is there any bread on the table.",
-    "Is there any milk in front of the door.",
-    "Is there any soap on the cupboard.",
-    "Is there any water in those glasses."
+   "parts": [
+    {
+     "text": "Are there any …? 名词复数 § Is there any …? 不可数名词"
+    },
+    {
+     "text": "I can see spoons, but I can’t see any knives ."
+    },
+    {
+     "text": "I can see some hammers, but I can’t see any boxes ."
+    },
+    {
+     "text": "I can see some coffee, but I can’t see any loaves of bread."
+    },
+    {
+     "text": "I can see some cupboards, but I can’t see any shelves ."
+    },
+    {
+     "text": "I can see Mr. Jones and Mr. Brown, but I can’t see their wives ."
+    },
+    {
+     "text": "I can see some cups, but I can’t see any dishes ."
+    },
+    {
+     "text": "I can see some cars, but I can’t see any buses ."
+    },
+    {
+     "text": "注意： 可数名词 才需要变复数哦~"
+    },
+    {
+     "text": "Are there any hammer s behind that box."
+    },
+    {
+     "text": "Are there any newspaper s behind that vase."
+    },
+    {
+     "text": "Is there any bread on the table."
+    },
+    {
+     "text": "Is there any milk in front of the door."
+    },
+    {
+     "text": "Is there any soap on the cupboard."
+    },
+    {
+     "text": "Is there any water in those glasses."
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "数词",
-   "lines": [
-    "请通过下方视频仔细学习英语中各种数字的读法（重要） 您的浏览器不支持媒体播放",
-    "基数词 数字 基数词 数字 基数词 数字 示例",
-    "zero 0 ten 10 one hundred 100 978 nine hundred and seventy-eight",
-    "one 1 eleven 11 one thousand 1,000 685 six hundred and eighty-five",
-    "tw o 2 twe lve 12 twe nty 20 401 four hundred and one",
-    "thr ee 3 thir teen 13 thir ty 30 1423 one thousand four hundred and twenty-three",
-    "four 4 fo u r teen 14 for ty 40 4042 four thousand and forty-two",
-    "fi ve 5 fif teen 15 fif ty 50 7009 seven thousand nine",
-    "six 6 six teen 16 six ty 60 20,000 twenty thousand",
-    "seven 7 seven teen 17 seven ty 70 21,423 twenty-one thousand four hundred and twenty-three",
-    "eigh t 8 eigh teen 18 eigh ty 80 49,186",
-    "nine 9 nine teen 19 nine ty 90 88,888",
-    "one m illion 一百万 one b illion 10亿 one tr illion 万亿"
+   "parts": [
+    {
+     "table": {
+      "headers": [
+       "基数词",
+       "数字",
+       "基数词",
+       "数字",
+       "基数词",
+       "数字",
+       "示例"
+      ],
+      "rows": [
+       [
+        "zero",
+        "0",
+        "ten",
+        "10",
+        "one hundred",
+        "100",
+        "978",
+        "nine hundred and seventy-eight"
+       ],
+       [
+        "one",
+        "1",
+        "eleven",
+        "11",
+        "one thousand",
+        "1,000",
+        "685",
+        "six hundred and eighty-five"
+       ],
+       [
+        "tw o",
+        "2",
+        "twe lve",
+        "12",
+        "twe nty",
+        "20",
+        "401",
+        "four hundred and one"
+       ],
+       [
+        "thr ee",
+        "3",
+        "thir teen",
+        "13",
+        "thir ty",
+        "30",
+        "1423",
+        "one thousand four hundred and twenty-three"
+       ],
+       [
+        "four",
+        "4",
+        "fo u r teen",
+        "14",
+        "for ty",
+        "40",
+        "4042",
+        "four thousand and forty-two"
+       ],
+       [
+        "fi ve",
+        "5",
+        "fif teen",
+        "15",
+        "fif ty",
+        "50",
+        "7009",
+        "seven thousand nine"
+       ],
+       [
+        "six",
+        "6",
+        "six teen",
+        "16",
+        "six ty",
+        "60",
+        "20,000",
+        "twenty thousand"
+       ],
+       [
+        "seven",
+        "7",
+        "seven teen",
+        "17",
+        "seven ty",
+        "70",
+        "21,423",
+        "twenty-one thousand four hundred and twenty-three"
+       ],
+       [
+        "eigh t",
+        "8",
+        "eigh teen",
+        "18",
+        "eigh ty",
+        "80",
+        "49,186",
+        ""
+       ],
+       [
+        "nine",
+        "9",
+        "nine teen",
+        "19",
+        "nine ty",
+        "90",
+        "88,888",
+        ""
+       ],
+       [
+        "one m illion 一百万",
+        "one b illion 10亿",
+        "one tr illion 万亿"
+       ]
+      ]
+     }
+    }
    ]
   }
  ]

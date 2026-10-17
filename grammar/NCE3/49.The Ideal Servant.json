@@ -2,180 +2,666 @@
  "grammar": [
   {
    "title": "举例",
-   "lines": [
-    "The parquet floors shone like mirrors; highly polished silver was displayed in gleaming glass cabinets; even my uncle's huge collection of books was kept miraculously free from dust. parquet n. [U] small flat blocks of wood fitted together in a pattern that cover the floor of a room 镶木地板 silver = silverware n. spoons, forks, dishes etc that are made of silver 银器，银餐具 gleam v. shine softly 发出柔和的光 cabinet n.piece of furniture with drawers or shelves for storing or displaying things 储藏柜 miraculous adj. like a miracle; completely unexpected and very lucky 奇迹般的 Aunt Harriet presided over an invisible army of servants that continuously scrubbed , cleaned , and polished . preside over … 掌管… army n.a large number of people who are doing the same thing or in the same situation 一大群人…. scrub v. clean sth. thoroughly by rubbing hard, esp. with a brush and soap and water 彻底擦洗某物 She always referred to them as 'the shifting population', for they came and went with such frequency that I never even got a chance to learn their names. refer to A as B 表达“把A看成B” shifting adj. always changing or moving 不停变化或移动的 … so frequently that … （写法替换） learn (of / about) sth. to become aware of sth. by hearing about it from sb. else 获悉，得知 Though my aunt pursued what was , in those days, an enlightened policy , in that she never allowed her domestic staff to work more than eight hours a day, she was extremely difficult to please. enlightened adj. someone with enlightened attitudes has sensible, modern views and treats people fairly and kindly 开明的 domestic / medical / nursing / teaching / engineering / administrative staff（全体人员） While she always criticized the fickleness of human nature, she carried on an unrelenting search for the ideal servant to the end of her days, even after she had been sadly disillusioned by Bessie. fickle adj. often changing 反复无常的，多变的 carry on sth. to continue doing, pursuing, or operating 持续做某事，一直做某事 unrelenting adj. 非常坚决的，不屈不挠的 be disillusioned with / by … 对某人某事大失所望、幻想破灭 be very / extremely / completely / utterly / increasingly / sadly disillusioned with / by …（副词修饰）",
-    "a parquet floor",
-    "It was my job to polish the silver.",
-    "He had polished the table-top until it gleamed.",
-    "gleaming windows",
-    "his gleaming white teeth",
-    "She looked in the medicine cabinet and found some aspirin. 她在药橱中翻看了一下，找到几片阿司匹林。",
-    "The china was displayed in a glass cabinet.瓷器陈列在玻璃柜里。",
-    "She secreted the gun in the kitchen cabinet.她把枪藏在了厨房的橱柜里。",
-    "A teenage boy had a miraculous escape from death last night when he fell into an ice-cold river.",
-    "They miraculously survived the plane crash.",
-    "He presided over the company for 10 years.",
-    "Some people believe the Fates preside over man’s destiny.",
-    "Creating a future army of coders is not the sole purpose of the classes.培养一大批未来的程序员并不是这些课程的唯一目标。",
-    "An army of ants marched across the path.一大群蚂蚁浩浩荡荡地穿过小径。",
-    "army of … …的大军 Armies of rescue workers are sorting through the rubble.",
-    "the army of the unemployed 失业大军 The July labor report recorded the army of the unemployed as nearly 15 million.",
-    "The walls needed a good scrub. 这些墙需要一次好好的刷洗。",
-    "Surgeons began to scrub their hands and arms with soap and water before operating. 外科医生们在手术前开始用肥皂和水清洗他们的手和手臂。",
-    "I started to scrub off the dirt. 我开始用力擦除污物。",
-    "People who work in offices are frequently referred to as 'white-collar workers' for the simple reason that they usually wear a collar and tie to go to work .",
-    "She refers to her hometown as the best place in the world. 她把她的家乡称为世界上最好的地方。",
-    "call A B They call him a genius for his innovative ideas. 他们称他为天才，因为他的创新想法。",
-    "know A as B He is known as the \"father of modern physics.\" 他被称为“现代物理学之父”。",
-    "address A as B The students addressed their teacher as \"Professor.\" 学生们称他们的老师为“教授”。",
-    "The Croatian town of Ilok is a classic case of shifting populations. 伊洛卡的克罗地亚小镇就是人口不停流动的典型例子。",
-    "There is stir and life, and shifting colour everywhere. 到处是活动和生气，到处是变幻的色彩。",
-    "Game theory is pressed into service in studies of shifting international alliances. 博弈论被用于研究不断变化的国际联盟。",
-    "...they came and went so frequently that I never even...",
-    "… with such + n. + that …（名词更为正式） The telephone rang with such frequency that I didn’t even get a chance to sleep.电话铃如此频繁地响起以至于我甚至没机会睡觉。",
-    "He passed the exam with such ease that the teacher suspected him of cheating. 他如此轻松地通过了考试以至于老师怀疑他作了弊。",
-    "He walked up the stairs with such difficulty that we were under the impression that he had injured his leg.他上楼如此之艰难以至于我还以为他腿受伤了。",
-    "I learnt of her arrival from a close friend.",
-    "How did they react when they learned the news?",
-    "an enlightened policy / attitude …",
-    "His words have enlightened me.他的一番话使我开了窍。",
-    "The teacher's words made me at once become enlightened.老师的一席话使我顿开茅塞。",
-    "The domestic staff ensures that the household runs smoothly.家政人员确保家庭运转顺利。",
-    "The medical staff at the hospital is available 24/7.医院的医务人员24小时待命。 The nursing staff provides essential care to the patients.护理人员为病人提供基本护理。",
-    "The teaching staff at the school is highly qualified.这所学校的教学人员资质很高。",
-    "The engineering staff is responsible for maintaining the equipment.工程人员负责维护设备。",
-    "The administrative staff handles all the paperwork and office management.行政人员负责所有文书工作和办公室管理。",
-    "a fickle lover 花心情人",
-    "the fickle finger of fate （押韵）命运多变",
-    "fickleness n. 反复无常，多变 the fickleness of businessmen and politicians the fickleness of the English climate",
-    "We have carried on a correspondence for years.",
-    "He carried on his baking business until he retired.",
-    "...an unrelenting downpour of rain. …一场下不停的倾盆大雨。",
-    "The heat was unrelenting. 炎热没有减弱的迹象。",
-    "This time our chase will be unrelenting. 这一次我们将追踪到底。",
-    "I'm disillusioned with my work. 我对这份工作很失望。",
-    "Coverdale quickly becomes disillusioned with farm work. 科弗代尔对农业劳动的幻想很快就破灭了。",
-    "As she grew older, Laura became increasingly disillusioned with politics.",
-    "I feel utterly disillusioned by his refusal to take any action.",
-    "She was very disillusioned with the lack of support from her colleagues. 她对同事们缺乏支持感到非常失望。",
-    "He became extremely disillusioned by the government's broken promises. 他对政府的失信承诺感到极其失望。",
-    "They were completely disillusioned with the education system. 他们对教育系统彻底失望了。",
-    "She felt utterly disillusioned by the reality of the situation. 她对现实情况感到完全失望。",
-    "The public is increasingly disillusioned with the political process. 公众对政治进程越来越失望。",
-    "He was sadly disillusioned by his friend's betrayal. 他对朋友的背叛感到痛心失望。"
+   "parts": [
+    {
+     "text": "The parquet floors shone like mirrors; highly polished silver was displayed in gleaming glass cabinets; even my uncle's huge collection of books was kept miraculously free from dust. parquet n. [U] small flat blocks of wood fitted together in a pattern that cover the floor of a room 镶木地板 silver = silverware n. spoons, forks, dishes etc that are made of silver 银器，银餐具 gleam v. shine softly 发出柔和的光 cabinet n.piece of furniture with drawers or shelves for storing or displaying things 储藏柜 miraculous adj. like a miracle; completely unexpected and very lucky 奇迹般的 Aunt Harriet presided over an invisible army of servants that continuously scrubbed , cleaned , and polished . preside over … 掌管… army n.a large number of people who are doing the same thing or in the same situation 一大群人…. scrub v. clean sth. thoroughly by rubbing hard, esp. with a brush and soap and water 彻底擦洗某物 She always referred to them as 'the shifting population', for they came and went with such frequency that I never even got a chance to learn their names. refer to A as B 表达“把A看成B” shifting adj. always changing or moving 不停变化或移动的 … so frequently that … （写法替换） learn (of / about) sth. to become aware of sth. by hearing about it from sb. else 获悉，得知 Though my aunt pursued what was , in those days, an enlightened policy , in that she never allowed her domestic staff to work more than eight hours a day, she was extremely difficult to please. enlightened adj. someone with enlightened attitudes has sensible, modern views and treats people fairly and kindly 开明的 domestic / medical / nursing / teaching / engineering / administrative staff（全体人员） While she always criticized the fickleness of human nature, she carried on an unrelenting search for the ideal servant to the end of her days, even after she had been sadly disillusioned by Bessie. fickle adj. often changing 反复无常的，多变的 carry on sth. to continue doing, pursuing, or operating 持续做某事，一直做某事 unrelenting adj. 非常坚决的，不屈不挠的 be disillusioned with / by … 对某人某事大失所望、幻想破灭 be very / extremely / completely / utterly / increasingly / sadly disillusioned with / by …（副词修饰）"
+    },
+    {
+     "text": "a parquet floor"
+    },
+    {
+     "text": "It was my job to polish the silver."
+    },
+    {
+     "text": "He had polished the table-top until it gleamed."
+    },
+    {
+     "text": "gleaming windows"
+    },
+    {
+     "text": "his gleaming white teeth"
+    },
+    {
+     "text": "She looked in the medicine cabinet and found some aspirin. 她在药橱中翻看了一下，找到几片阿司匹林。"
+    },
+    {
+     "text": "The china was displayed in a glass cabinet.瓷器陈列在玻璃柜里。"
+    },
+    {
+     "text": "She secreted the gun in the kitchen cabinet.她把枪藏在了厨房的橱柜里。"
+    },
+    {
+     "text": "A teenage boy had a miraculous escape from death last night when he fell into an ice-cold river."
+    },
+    {
+     "text": "They miraculously survived the plane crash."
+    },
+    {
+     "text": "He presided over the company for 10 years."
+    },
+    {
+     "text": "Some people believe the Fates preside over man’s destiny."
+    },
+    {
+     "text": "Creating a future army of coders is not the sole purpose of the classes.培养一大批未来的程序员并不是这些课程的唯一目标。"
+    },
+    {
+     "text": "An army of ants marched across the path.一大群蚂蚁浩浩荡荡地穿过小径。"
+    },
+    {
+     "table": {
+      "headers": [
+       "army of … …的大军",
+       "the army of the unemployed 失业大军"
+      ],
+      "rows": [
+       [
+        "Armies of rescue workers are sorting through the rubble."
+       ],
+       [
+        "The July labor report recorded the army of the unemployed as nearly 15 million."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The walls needed a good scrub. 这些墙需要一次好好的刷洗。"
+    },
+    {
+     "text": "Surgeons began to scrub their hands and arms with soap and water before operating. 外科医生们在手术前开始用肥皂和水清洗他们的手和手臂。"
+    },
+    {
+     "text": "I started to scrub off the dirt. 我开始用力擦除污物。"
+    },
+    {
+     "text": "People who work in offices are frequently referred to as 'white-collar workers' for the simple reason that they usually wear a collar and tie to go to work ."
+    },
+    {
+     "text": "She refers to her hometown as the best place in the world. 她把她的家乡称为世界上最好的地方。"
+    },
+    {
+     "table": {
+      "headers": [
+       "call A B",
+       "know A as B",
+       "address A as B"
+      ],
+      "rows": [
+       [
+        "They call him a genius for his innovative ideas. 他们称他为天才，因为他的创新想法。"
+       ],
+       [
+        "He is known as the \"father of modern physics.\" 他被称为“现代物理学之父”。"
+       ],
+       [
+        "The students addressed their teacher as \"Professor.\" 学生们称他们的老师为“教授”。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The Croatian town of Ilok is a classic case of shifting populations. 伊洛卡的克罗地亚小镇就是人口不停流动的典型例子。"
+    },
+    {
+     "text": "There is stir and life, and shifting colour everywhere. 到处是活动和生气，到处是变幻的色彩。"
+    },
+    {
+     "text": "Game theory is pressed into service in studies of shifting international alliances. 博弈论被用于研究不断变化的国际联盟。"
+    },
+    {
+     "text": "...they came and went so frequently that I never even..."
+    },
+    {
+     "table": {
+      "headers": [
+       "… with such + n. + that …（名词更为正式）"
+      ],
+      "rows": [
+       [
+        "The telephone rang with such frequency that I didn’t even get a chance to sleep.电话铃如此频繁地响起以至于我甚至没机会睡觉。"
+       ],
+       [
+        "He passed the exam with such ease that the teacher suspected him of cheating. 他如此轻松地通过了考试以至于老师怀疑他作了弊。"
+       ],
+       [
+        "He walked up the stairs with such difficulty that we were under the impression that he had injured his leg.他上楼如此之艰难以至于我还以为他腿受伤了。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "I learnt of her arrival from a close friend."
+    },
+    {
+     "text": "How did they react when they learned the news?"
+    },
+    {
+     "text": "an enlightened policy / attitude …"
+    },
+    {
+     "text": "His words have enlightened me.他的一番话使我开了窍。"
+    },
+    {
+     "text": "The teacher's words made me at once become enlightened.老师的一席话使我顿开茅塞。"
+    },
+    {
+     "text": "The domestic staff ensures that the household runs smoothly.家政人员确保家庭运转顺利。"
+    },
+    {
+     "text": "The medical staff at the hospital is available 24/7.医院的医务人员24小时待命。 The nursing staff provides essential care to the patients.护理人员为病人提供基本护理。"
+    },
+    {
+     "text": "The teaching staff at the school is highly qualified.这所学校的教学人员资质很高。"
+    },
+    {
+     "text": "The engineering staff is responsible for maintaining the equipment.工程人员负责维护设备。"
+    },
+    {
+     "text": "The administrative staff handles all the paperwork and office management.行政人员负责所有文书工作和办公室管理。"
+    },
+    {
+     "text": "a fickle lover 花心情人"
+    },
+    {
+     "text": "the fickle finger of fate （押韵）命运多变"
+    },
+    {
+     "table": {
+      "headers": [
+       "fickleness n. 反复无常，多变"
+      ],
+      "rows": [
+       [
+        "the fickleness of businessmen and politicians the fickleness of the English climate"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "We have carried on a correspondence for years."
+    },
+    {
+     "text": "He carried on his baking business until he retired."
+    },
+    {
+     "text": "...an unrelenting downpour of rain. …一场下不停的倾盆大雨。"
+    },
+    {
+     "text": "The heat was unrelenting. 炎热没有减弱的迹象。"
+    },
+    {
+     "text": "This time our chase will be unrelenting. 这一次我们将追踪到底。"
+    },
+    {
+     "text": "I'm disillusioned with my work. 我对这份工作很失望。"
+    },
+    {
+     "text": "Coverdale quickly becomes disillusioned with farm work. 科弗代尔对农业劳动的幻想很快就破灭了。"
+    },
+    {
+     "text": "As she grew older, Laura became increasingly disillusioned with politics."
+    },
+    {
+     "text": "I feel utterly disillusioned by his refusal to take any action."
+    },
+    {
+     "text": "She was very disillusioned with the lack of support from her colleagues. 她对同事们缺乏支持感到非常失望。"
+    },
+    {
+     "text": "He became extremely disillusioned by the government's broken promises. 他对政府的失信承诺感到极其失望。"
+    },
+    {
+     "text": "They were completely disillusioned with the education system. 他们对教育系统彻底失望了。"
+    },
+    {
+     "text": "She felt utterly disillusioned by the reality of the situation. 她对现实情况感到完全失望。"
+    },
+    {
+     "text": "The public is increasingly disillusioned with the political process. 公众对政治进程越来越失望。"
+    },
+    {
+     "text": "He was sadly disillusioned by his friend's betrayal. 他对朋友的背叛感到痛心失望。"
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "详细介绍",
-   "lines": [
-    "Bessie worked for Aunt Harriet for three years. work for 为…工作 During that time she so gained my aunt's confidence, that she was put in charge of the domestic staff. be in charge of … 管理… Aunt Harriet could not find words to praise Bessie's industriousness and efficiency. could not find words to ... 表达“无法描述” industrious adj. 勤劳的 In addition to all her other qualifications, Bessie was an expert cook. in addition to … 表达“除了…之外，还有…” except ... / except for ... 表达“除了…（排除掉）” what is more / what’s more 表达“此外、而且、还”：（副词短语） expert adj. showing special skill or knowledge 熟练的，专家水平的 She acted the role of the perfect servant for three years before Aunt Harriet discovered her 'little weakness'. play / perform / act (the role / part of) … 扮演…的角色 before 1).强调主句的时间很长时,译为“才” before 2).强调主句的时间很短时,译为“就” before 3).有时候翻译成“然后” weakness 含义1. 懦弱, 软弱 [U] weakness 含义2. 弱点, 缺点 [C] After being absent from The Gables for a week, my aunt unexpectedly returned one afternoon with a party of guests and instructed Bessie to prepare dinner. be absent from … 不在…某个地方 party n. 一群; 一队; 一组 prepare / cook / fix dinner 做晚饭 Not only was the meal well below the usual standard, but Bessie seemed unable to walk steadily. not only … but … 表达“不但…而且…” Not only had the poor man been arrested, but he had been sent to prison as well. well adv.a lot, or to a great degree 相当地，颇为，…得多 above / below (the) standard 高于/低于标准 She bumped into the furniture and kept mumbling about the guests. mumble v. to say something too quietly or not clearly enough, so that people cannot hear what is said 小声咕哝 When she came in with the last course -- a huge pudding -- she tripped on the carpet and the pudding went flying through the air, narrowly missed my aunt, and crashed on the dining table with considerable force. course 一道菜 trip / stumble over / on sth. 在…上绊倒 flying through 飞也似的穿过 narrowly miss 勉强错过、险些撞上 Though this caused great mirth among the guests, Aunt Harriet was horrified . mirth n. [U] (fml.) happiness and laughter 欢笑 She reluctantly came to the conclusion that Bessie was drunk . draw / come to / arrive at / reach a conclusion 得出结论 bring … to a conclusion 使…结束 The guests had , of course, realized this from the moment Bessie opened the door for them and , long before the final catastrophe, had had a difficult time trying to conceal their amusement. catastrophe n.灾难，灾祸；麻烦，困境；惨败 have a difficult / hard time doing 做某事很困难 The poor girl was dismissed instantly. instantly adv.立刻，马上 After her departure, Aunt Harriet discovered that there were piles of empty wine bottles of all shapes and sizes neatly stacked in what had once been Bessie's wardrobe . … of all shapes and sizes 各种形状的 They had mysteriously found their way there from the wine cellar! find one’s way 1.（人做主语）找到去…的路；2.（事物做主语）到达……",
-    "He's gone to work for the opposition. 他去为竞争对手工作了。",
-    "There's masses of work for her to do. 她有一大堆的工作去做。",
-    "He got work for a while detailing cars. 他找到一个清洗汽车的临时工作。",
-    "I still do a certain amount of work for them. 我仍旧为他们做一定数量的工作。",
-    "Even unpaid work for charity is better than nothing. 甚至无偿的慈善工作也好过没事可做。",
-    "She treats the people who work for her as her equals. 她以平等的身份对待为她工作的人。",
-    "Peter is in charge of the company.",
-    "Peter was put in charge of the company. 被动",
-    "be in the charge of … / in one’s charge 由…管理 The company is in the charge of Peter / in his charge.",
-    "take charge of … 接管… Peter will be taking charge of the company next Monday.",
-    "put sb. in charge of … 交给某人管理… They put Peter in charge of the company.",
-    "I cannot find words to describe the beauty of the West Lake.",
-    "The beauty of the West Lake is beyond words / description.",
-    "The beauty of the West Lake defies description. (defy v. 使…不可能)",
-    "The beauty of the West Lake is more than words can describe.",
-    "the industrious ant",
-    "She was an industrious and willing worker. 她是个勤劳肯干的工人。",
-    "industrial adj. 工业的 the industrial revolution ..industrial machinery and equipment. …工业机械及设备。",
-    "In addition to headaches, you may develop stomach ulcers as well. 除了头痛，你还可能患上胃溃疡。",
-    "In addition to these arrangements, extra ambulances will be on duty until midnight. 除了这些安排以外，另增救护车值班至午夜。",
-    "In addition to basic salary, there's a list of extra benefits. 除了基本工资外，还有一系列额外福利。",
-    "In addition to intelligence, they also symbolize affluence and wealth. 除了智慧，它们也象征着富足和财富。",
-    "besides … We have lots of things in common besides music. 除了音乐，我们还有很多共通点。",
-    "as well as … There they collected women as well as food and drink, and a life of ease had made them soft .",
-    "apart from … / aside from … Apart from an interesting-looking carved dagger, the box was full of crockery, much of it broken .",
-    "Everyone was invited to the party except John. 除了约翰，其他人都被邀请参加聚会。",
-    "Nobody speaks except for one man.除了一个人没人说话。",
-    "I had nothing on except for my socks.我除了短袜什么都没穿。",
-    "excluding ... but ... Excluding weekends, but including holidays, we work five days a week. 除了周末，但包括节假日，我们每周工作五天。",
-    "other than ... I have no plans other than finishing this project. 除了完成这个项目，我没有其他计划。",
-    "with the exception of ... With the exception of a few minor issues, the event was a success. 除了几个小问题外，活动非常成功。",
-    "apart from ... / aside from ... Apart from the weather, everything was perfect.除了天气，其他一切都很完美。",
-    "but （也可表示“除了…”） Yet, in real life, circumstances do sometimes conspire to bring about coincidences which anyone but a nineteenth century novelist would find incredible.",
-    "He could not find his fifty pence piece anywhere, and what is more, he could not get his arm out.",
-    "You're wrong, and what's more you know it! 你错了！而且你明明知道你错了！",
-    "What's more, it is free! 而且，它是免费的！",
-    "moreover / furthermore Moreover, there was no evidence of adaptability to the noise. 此外，没有证据表明我们对这种噪音有适应性。 Furthermore, one sensory ability may back up another. 此外，一种感知能力可能会为另一种感知能力提供支持。",
-    "besides (adv.) The house was out of our price range and too big anyway. Besides, I'd grown fond of our little rented house. 反正这个房子超出了我们的预算范围，而且也太大了。再说，我已经渐渐喜欢上我们租的小房子了。",
-    "in addition In addition, during the festival, people make and eat Zongzi. 此外，在节日期间，人们包粽子，吃粽子。",
-    "additionally Additionally, they should be allowed to teach, and be rewarded for doing it well. 此外，应该允许他们去教书，教得好就应受到奖励。",
-    "an expert gardener / driver",
-    "The Japanese are expert at lowering manufacturing costs. 日本人在降低生产成本方面很在行。",
-    "be expert in / at … 在…方面很专业 Bessie was expert in / at cooking.",
-    "He played / performed / acted (the role / part of) Othello.",
-    "She played the role of Juliet in the school play.她在学校的戏剧中扮演了朱丽叶的角色。",
-    "He performed the part of Hamlet with great emotion.他非常投入地扮演了哈姆雷特的角色。",
-    "The actor acts the part of a villain in the movie.这位演员在电影中扮演反派角色。",
-    "play a … role / part in … （派生含义）发挥某个作用 The river which forms the eastern boundary of our farm has always played an important part in our lives . Not all sounds made by animals serve as language, and we have only to turn to that extraordinary discovery of echo-location in bats to see a case in which the voice plays a strictly utilitarian role .",
-    "It will be a long time before we meet again.",
-    "She acted the role of the perfect servant for three years before Aunt Harriet discovered her 'little weakness'.",
-    "Looking at his watch, he saw that it was one o'clock, but the bell struck thirteen times before it stopped.",
-    "I hadn’t waited long before he came.",
-    "I shaved before I went to the party.",
-    "Alfred stayed in the camp a week before he returned to Athelney.",
-    "So let us begin anew—remembering on both sides that civility is not a sign of weakness, and sincerity is always subject to proof. Let us never negotiate out of fear, but let us never fear to negotiate. ——John F. Kennedy",
-    "In their efforts to persuade us to buy this or that product, advertisers have made a close study of human nature and have classified all our little weaknesses .",
-    "strength 优点, 长处 [C] strengths and weaknesses 优缺点 For we know that our patchwork heritage is a strength, not a weakness. We are a nation of Christians and Muslims, Jews and Hindus, and nonbelievers.",
-    "They were pointedly absent from the news conference.他们有意缺席了那场新闻发布会。",
-    "I don't know the reason why you were absent from the meeting.我不知道你为什么缺席会议。",
-    "Love was totally absent from his childhood.他童年时根本没有得到过爱。",
-    "The pictures, too, were absent from the walls.那些照片也不在那些墙上了。",
-    "a search / rescue party",
-    "a party of tourists / sightseers",
-    "The only regular visitors to the monastery in winter are parties of skiers who go there at Christmas and Easter.",
-    "She started to prepare dinner early in the evening.她傍晚早早就开始准备晚餐了。",
-    "He loves to cook dinner for his family on weekends.他喜欢在周末为家人做晚餐。",
-    "I’ll fix dinner tonight, so you can relax.今晚我来做晚饭，你可以放松一下。",
-    "She is not only smart but kind. 她不仅聪明，而且善良。",
-    "not only … but also … He not only plays the piano but also sings beautifully. 他不仅会弹钢琴，而且唱歌也很动听。",
-    "not only … but … as well/too The book is not only informative but entertaining as well. 这本书不仅信息丰富，而且也很有趣。",
-    "not only … as well/too Not only did she help me, she offered to stay late as well. 她不仅帮助了我，还主动提出加班。",
-    "not only … Not only is he a great athlete, but he's also an excellent student. 他不仅是个伟大的运动员，而且还是个优秀的学生。",
-    "well before / after / over / above / below / worth …",
-    "I don't know how old he is, but he looks well over forty.",
-    "Pete left the party well before you got there.",
-    "The castle is well worth a visit.",
-    "Your work is above / below (the) standard.",
-    "bump / run into 撞到…上 The car bumped / ran into a big pine.",
-    "偶遇… I happened to bump / run into a friend of mine in the street.",
-    "He was still mumbling something about hospitals at the end of the party when he slipped on a piece of ice and broke his left leg .",
-    "The lunch was excellent, especially the first course. 午饭非常好吃，尤其是第一道菜。",
-    "The main course was roast duck. 主菜是烤鸭。",
-    "He tripped / stumbled over / on a rock.",
-    "Chairs and tables went flying into the arcade.",
-    "Seeing a cake flying through the air, a lorry driver who was drawing up alongside the car, pulled up all of a sudden.",
-    "The Titanic turned just in time, narrowly missing the immense walk of ice which rose over 100 feet out of the water beside her .",
-    "Her body began to shake with mirth.",
-    "The performance produced much mirth among the audience.",
-    "That caused considerable mirth amongst pupils.",
-    "After analyzing the data, the scientists were able to draw a conclusion.在分析数据后，科学家们得出了结论。",
-    "After much discussion, they came to the conclusion that the project was feasible.经过多次讨论，他们得出了项目可行的结论。",
-    "The jury arrived at a conclusion after several hours of deliberation.陪审团经过数小时的讨论后得出了结论。",
-    "The investigation reached a conclusion after gathering all the evidence.在收集了所有证据后，调查得出了结论。",
-    "In the nineteenth century, a novelist would bring his story to a conclusion by presenting his readers with a series of coincidences — most of them wildly improbable .",
-    "The telephone rings and this marks the prelude to an unforeseen series of catastrophes.",
-    "From all points of view, war would be a catastrophe. 从各个方面来看，战争都会是一场灾难。",
-    "Early warnings of rising water levels prevented another major catastrophe. 提前发出的洪水水位上涨警报防止了又一次的重大灾害。",
-    "She had a difficult time adjusting to the new environment. 她在适应新环境时遇到了困难。",
-    "He had a hard time understanding the instructions. 他在理解这些指令时很吃力。",
-    "The man was killed instantly. 那人立即被杀死了。",
-    "I was instantly branded as a rebel. 我立刻被归为造反者。",
-    "I recognized it instantly and felt a quiver of panic. 我立刻认出它了，感到一阵惊恐的颤抖。",
-    "Before long, biscuits of all shapes and sizes began arriving at the factory .",
-    "… of all kinds 各种各样的 …, vehicles of all kinds, especially large container trucks thundering through quiet villages , …",
-    "Very few of the fifty pence pieces and pound coins I have given him have found their way there ."
+   "parts": [
+    {
+     "text": "Bessie worked for Aunt Harriet for three years. work for 为…工作 During that time she so gained my aunt's confidence, that she was put in charge of the domestic staff. be in charge of … 管理… Aunt Harriet could not find words to praise Bessie's industriousness and efficiency. could not find words to ... 表达“无法描述” industrious adj. 勤劳的 In addition to all her other qualifications, Bessie was an expert cook. in addition to … 表达“除了…之外，还有…” except ... / except for ... 表达“除了…（排除掉）” what is more / what’s more 表达“此外、而且、还”：（副词短语） expert adj. showing special skill or knowledge 熟练的，专家水平的 She acted the role of the perfect servant for three years before Aunt Harriet discovered her 'little weakness'. play / perform / act (the role / part of) … 扮演…的角色 before 1).强调主句的时间很长时,译为“才” before 2).强调主句的时间很短时,译为“就” before 3).有时候翻译成“然后” weakness 含义1. 懦弱, 软弱 [U] weakness 含义2. 弱点, 缺点 [C] After being absent from The Gables for a week, my aunt unexpectedly returned one afternoon with a party of guests and instructed Bessie to prepare dinner. be absent from … 不在…某个地方 party n. 一群; 一队; 一组 prepare / cook / fix dinner 做晚饭 Not only was the meal well below the usual standard, but Bessie seemed unable to walk steadily. not only … but … 表达“不但…而且…” Not only had the poor man been arrested, but he had been sent to prison as well. well adv.a lot, or to a great degree 相当地，颇为，…得多 above / below (the) standard 高于/低于标准 She bumped into the furniture and kept mumbling about the guests. mumble v. to say something too quietly or not clearly enough, so that people cannot hear what is said 小声咕哝 When she came in with the last course -- a huge pudding -- she tripped on the carpet and the pudding went flying through the air, narrowly missed my aunt, and crashed on the dining table with considerable force. course 一道菜 trip / stumble over / on sth. 在…上绊倒 flying through 飞也似的穿过 narrowly miss 勉强错过、险些撞上 Though this caused great mirth among the guests, Aunt Harriet was horrified . mirth n. [U] (fml.) happiness and laughter 欢笑 She reluctantly came to the conclusion that Bessie was drunk . draw / come to / arrive at / reach a conclusion 得出结论 bring … to a conclusion 使…结束 The guests had , of course, realized this from the moment Bessie opened the door for them and , long before the final catastrophe, had had a difficult time trying to conceal their amusement. catastrophe n.灾难，灾祸；麻烦，困境；惨败 have a difficult / hard time doing 做某事很困难 The poor girl was dismissed instantly. instantly adv.立刻，马上 After her departure, Aunt Harriet discovered that there were piles of empty wine bottles of all shapes and sizes neatly stacked in what had once been Bessie's wardrobe . … of all shapes and sizes 各种形状的 They had mysteriously found their way there from the wine cellar! find one’s way 1.（人做主语）找到去…的路；2.（事物做主语）到达……"
+    },
+    {
+     "text": "He's gone to work for the opposition. 他去为竞争对手工作了。"
+    },
+    {
+     "text": "There's masses of work for her to do. 她有一大堆的工作去做。"
+    },
+    {
+     "text": "He got work for a while detailing cars. 他找到一个清洗汽车的临时工作。"
+    },
+    {
+     "text": "I still do a certain amount of work for them. 我仍旧为他们做一定数量的工作。"
+    },
+    {
+     "text": "Even unpaid work for charity is better than nothing. 甚至无偿的慈善工作也好过没事可做。"
+    },
+    {
+     "text": "She treats the people who work for her as her equals. 她以平等的身份对待为她工作的人。"
+    },
+    {
+     "text": "Peter is in charge of the company."
+    },
+    {
+     "text": "Peter was put in charge of the company. 被动"
+    },
+    {
+     "table": {
+      "headers": [
+       "be in the charge of … / in one’s charge 由…管理",
+       "take charge of … 接管…",
+       "put sb. in charge of … 交给某人管理…"
+      ],
+      "rows": [
+       [
+        "The company is in the charge of Peter / in his charge."
+       ],
+       [
+        "Peter will be taking charge of the company next Monday."
+       ],
+       [
+        "They put Peter in charge of the company."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "I cannot find words to describe the beauty of the West Lake."
+    },
+    {
+     "text": "The beauty of the West Lake is beyond words / description."
+    },
+    {
+     "text": "The beauty of the West Lake defies description. (defy v. 使…不可能)"
+    },
+    {
+     "text": "The beauty of the West Lake is more than words can describe."
+    },
+    {
+     "text": "the industrious ant"
+    },
+    {
+     "text": "She was an industrious and willing worker. 她是个勤劳肯干的工人。"
+    },
+    {
+     "table": {
+      "headers": [
+       "industrial adj. 工业的"
+      ],
+      "rows": [
+       [
+        "the industrial revolution ..industrial machinery and equipment. …工业机械及设备。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "In addition to headaches, you may develop stomach ulcers as well. 除了头痛，你还可能患上胃溃疡。"
+    },
+    {
+     "text": "In addition to these arrangements, extra ambulances will be on duty until midnight. 除了这些安排以外，另增救护车值班至午夜。"
+    },
+    {
+     "text": "In addition to basic salary, there's a list of extra benefits. 除了基本工资外，还有一系列额外福利。"
+    },
+    {
+     "text": "In addition to intelligence, they also symbolize affluence and wealth. 除了智慧，它们也象征着富足和财富。"
+    },
+    {
+     "table": {
+      "headers": [
+       "besides …",
+       "as well as …",
+       "apart from … / aside from …"
+      ],
+      "rows": [
+       [
+        "We have lots of things in common besides music. 除了音乐，我们还有很多共通点。"
+       ],
+       [
+        "There they collected women as well as food and drink, and a life of ease had made them soft ."
+       ],
+       [
+        "Apart from an interesting-looking carved dagger, the box was full of crockery, much of it broken ."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Everyone was invited to the party except John. 除了约翰，其他人都被邀请参加聚会。"
+    },
+    {
+     "text": "Nobody speaks except for one man.除了一个人没人说话。"
+    },
+    {
+     "text": "I had nothing on except for my socks.我除了短袜什么都没穿。"
+    },
+    {
+     "table": {
+      "headers": [
+       "excluding ... but ...",
+       "other than ...",
+       "with the exception of ...",
+       "apart from ... / aside from ...",
+       "but （也可表示“除了…”）"
+      ],
+      "rows": [
+       [
+        "Excluding weekends, but including holidays, we work five days a week. 除了周末，但包括节假日，我们每周工作五天。"
+       ],
+       [
+        "I have no plans other than finishing this project. 除了完成这个项目，我没有其他计划。"
+       ],
+       [
+        "With the exception of a few minor issues, the event was a success. 除了几个小问题外，活动非常成功。"
+       ],
+       [
+        "Apart from the weather, everything was perfect.除了天气，其他一切都很完美。"
+       ],
+       [
+        "Yet, in real life, circumstances do sometimes conspire to bring about coincidences which anyone but a nineteenth century novelist would find incredible."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "He could not find his fifty pence piece anywhere, and what is more, he could not get his arm out."
+    },
+    {
+     "text": "You're wrong, and what's more you know it! 你错了！而且你明明知道你错了！"
+    },
+    {
+     "text": "What's more, it is free! 而且，它是免费的！"
+    },
+    {
+     "table": {
+      "headers": [
+       "moreover / furthermore",
+       "besides (adv.)",
+       "in addition",
+       "additionally"
+      ],
+      "rows": [
+       [
+        "Moreover, there was no evidence of adaptability to the noise. 此外，没有证据表明我们对这种噪音有适应性。 Furthermore, one sensory ability may back up another. 此外，一种感知能力可能会为另一种感知能力提供支持。"
+       ],
+       [
+        "The house was out of our price range and too big anyway. Besides, I'd grown fond of our little rented house. 反正这个房子超出了我们的预算范围，而且也太大了。再说，我已经渐渐喜欢上我们租的小房子了。"
+       ],
+       [
+        "In addition, during the festival, people make and eat Zongzi. 此外，在节日期间，人们包粽子，吃粽子。"
+       ],
+       [
+        "Additionally, they should be allowed to teach, and be rewarded for doing it well. 此外，应该允许他们去教书，教得好就应受到奖励。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "an expert gardener / driver"
+    },
+    {
+     "text": "The Japanese are expert at lowering manufacturing costs. 日本人在降低生产成本方面很在行。"
+    },
+    {
+     "table": {
+      "headers": [
+       "be expert in / at … 在…方面很专业"
+      ],
+      "rows": [
+       [
+        "Bessie was expert in / at cooking."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "He played / performed / acted (the role / part of) Othello."
+    },
+    {
+     "text": "She played the role of Juliet in the school play.她在学校的戏剧中扮演了朱丽叶的角色。"
+    },
+    {
+     "text": "He performed the part of Hamlet with great emotion.他非常投入地扮演了哈姆雷特的角色。"
+    },
+    {
+     "text": "The actor acts the part of a villain in the movie.这位演员在电影中扮演反派角色。"
+    },
+    {
+     "table": {
+      "headers": [
+       "play a … role / part in … （派生含义）发挥某个作用"
+      ],
+      "rows": [
+       [
+        "The river which forms the eastern boundary of our farm has always played an important part in our lives . Not all sounds made by animals serve as language, and we have only to turn to that extraordinary discovery of echo-location in bats to see a case in which the voice plays a strictly utilitarian role ."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "It will be a long time before we meet again."
+    },
+    {
+     "text": "She acted the role of the perfect servant for three years before Aunt Harriet discovered her 'little weakness'."
+    },
+    {
+     "text": "Looking at his watch, he saw that it was one o'clock, but the bell struck thirteen times before it stopped."
+    },
+    {
+     "text": "I hadn’t waited long before he came."
+    },
+    {
+     "text": "I shaved before I went to the party."
+    },
+    {
+     "text": "Alfred stayed in the camp a week before he returned to Athelney."
+    },
+    {
+     "text": "So let us begin anew—remembering on both sides that civility is not a sign of weakness, and sincerity is always subject to proof. Let us never negotiate out of fear, but let us never fear to negotiate. ——John F. Kennedy"
+    },
+    {
+     "text": "In their efforts to persuade us to buy this or that product, advertisers have made a close study of human nature and have classified all our little weaknesses ."
+    },
+    {
+     "table": {
+      "headers": [
+       "strength 优点, 长处 [C]"
+      ],
+      "rows": [
+       [
+        "strengths and weaknesses 优缺点 For we know that our patchwork heritage is a strength, not a weakness. We are a nation of Christians and Muslims, Jews and Hindus, and nonbelievers."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "They were pointedly absent from the news conference.他们有意缺席了那场新闻发布会。"
+    },
+    {
+     "text": "I don't know the reason why you were absent from the meeting.我不知道你为什么缺席会议。"
+    },
+    {
+     "text": "Love was totally absent from his childhood.他童年时根本没有得到过爱。"
+    },
+    {
+     "text": "The pictures, too, were absent from the walls.那些照片也不在那些墙上了。"
+    },
+    {
+     "text": "a search / rescue party"
+    },
+    {
+     "text": "a party of tourists / sightseers"
+    },
+    {
+     "text": "The only regular visitors to the monastery in winter are parties of skiers who go there at Christmas and Easter."
+    },
+    {
+     "text": "She started to prepare dinner early in the evening.她傍晚早早就开始准备晚餐了。"
+    },
+    {
+     "text": "He loves to cook dinner for his family on weekends.他喜欢在周末为家人做晚餐。"
+    },
+    {
+     "text": "I’ll fix dinner tonight, so you can relax.今晚我来做晚饭，你可以放松一下。"
+    },
+    {
+     "text": "She is not only smart but kind. 她不仅聪明，而且善良。"
+    },
+    {
+     "table": {
+      "headers": [
+       "not only … but also …",
+       "not only … but … as well/too",
+       "not only … as well/too",
+       "not only …"
+      ],
+      "rows": [
+       [
+        "He not only plays the piano but also sings beautifully. 他不仅会弹钢琴，而且唱歌也很动听。"
+       ],
+       [
+        "The book is not only informative but entertaining as well. 这本书不仅信息丰富，而且也很有趣。"
+       ],
+       [
+        "Not only did she help me, she offered to stay late as well. 她不仅帮助了我，还主动提出加班。"
+       ],
+       [
+        "Not only is he a great athlete, but he's also an excellent student. 他不仅是个伟大的运动员，而且还是个优秀的学生。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "well before / after / over / above / below / worth …"
+    },
+    {
+     "text": "I don't know how old he is, but he looks well over forty."
+    },
+    {
+     "text": "Pete left the party well before you got there."
+    },
+    {
+     "text": "The castle is well worth a visit."
+    },
+    {
+     "text": "Your work is above / below (the) standard."
+    },
+    {
+     "table": {
+      "headers": [
+       "bump / run into",
+       "撞到…上",
+       "偶遇…"
+      ],
+      "rows": [
+       [
+        "The car bumped / ran into a big pine."
+       ],
+       [
+        "I happened to bump / run into a friend of mine in the street."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "He was still mumbling something about hospitals at the end of the party when he slipped on a piece of ice and broke his left leg ."
+    },
+    {
+     "text": "The lunch was excellent, especially the first course. 午饭非常好吃，尤其是第一道菜。"
+    },
+    {
+     "text": "The main course was roast duck. 主菜是烤鸭。"
+    },
+    {
+     "text": "He tripped / stumbled over / on a rock."
+    },
+    {
+     "text": "Chairs and tables went flying into the arcade."
+    },
+    {
+     "text": "Seeing a cake flying through the air, a lorry driver who was drawing up alongside the car, pulled up all of a sudden."
+    },
+    {
+     "text": "The Titanic turned just in time, narrowly missing the immense walk of ice which rose over 100 feet out of the water beside her ."
+    },
+    {
+     "text": "Her body began to shake with mirth."
+    },
+    {
+     "text": "The performance produced much mirth among the audience."
+    },
+    {
+     "text": "That caused considerable mirth amongst pupils."
+    },
+    {
+     "text": "After analyzing the data, the scientists were able to draw a conclusion.在分析数据后，科学家们得出了结论。"
+    },
+    {
+     "text": "After much discussion, they came to the conclusion that the project was feasible.经过多次讨论，他们得出了项目可行的结论。"
+    },
+    {
+     "text": "The jury arrived at a conclusion after several hours of deliberation.陪审团经过数小时的讨论后得出了结论。"
+    },
+    {
+     "text": "The investigation reached a conclusion after gathering all the evidence.在收集了所有证据后，调查得出了结论。"
+    },
+    {
+     "text": "In the nineteenth century, a novelist would bring his story to a conclusion by presenting his readers with a series of coincidences — most of them wildly improbable ."
+    },
+    {
+     "text": "The telephone rings and this marks the prelude to an unforeseen series of catastrophes."
+    },
+    {
+     "text": "From all points of view, war would be a catastrophe. 从各个方面来看，战争都会是一场灾难。"
+    },
+    {
+     "text": "Early warnings of rising water levels prevented another major catastrophe. 提前发出的洪水水位上涨警报防止了又一次的重大灾害。"
+    },
+    {
+     "text": "She had a difficult time adjusting to the new environment. 她在适应新环境时遇到了困难。"
+    },
+    {
+     "text": "He had a hard time understanding the instructions. 他在理解这些指令时很吃力。"
+    },
+    {
+     "text": "The man was killed instantly. 那人立即被杀死了。"
+    },
+    {
+     "text": "I was instantly branded as a rebel. 我立刻被归为造反者。"
+    },
+    {
+     "text": "I recognized it instantly and felt a quiver of panic. 我立刻认出它了，感到一阵惊恐的颤抖。"
+    },
+    {
+     "text": "Before long, biscuits of all shapes and sizes began arriving at the factory ."
+    },
+    {
+     "table": {
+      "headers": [
+       "… of all kinds 各种各样的"
+      ],
+      "rows": [
+       [
+        "…, vehicles of all kinds, especially large container trucks thundering through quiet villages , …"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Very few of the fifty pence pieces and pound coins I have given him have found their way there ."
+    }
    ]
   }
  ]

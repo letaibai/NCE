@@ -2,55 +2,182 @@
  "grammar": [
   {
    "title": "doing 动名词",
-   "lines": [
-    "动词+ing 作名词时称为动名词，它仍有动词的属性，可以接宾语、也可以代替名词做主语和宾语或介词宾语。 动名词用表示完成时的 having+过去分词结构往往强调动名词的动词发生在前面，可以带动名词的介词有：before，after，without(I can’t watch TV without falling asleep.)，instead of 等。动名词的否定式是在它前面直接加 not。 跟动名词的短语 动词什么时候 + ing",
-    "动名词作主语 Watching television is my favourite pastime. 看电视是我最喜爱的业余爱好. Fishing is my favourite sport. 动名词做主语 Playing basketball is my favourite sport. (主语不光是一个单词，可以一个词组或者一句话) Playing basketball with my friends every Sunday is my favourite sport. (加上介词短语进行更多的修饰)",
-    "动名词作宾语( 介词 后) 介词不能直接接动词的原型，但可以接动名词。 I am very keen on cycling . 我非常喜欢骑自行车. He is capable of doing anything . 他能胜任任何事情.",
-    "介词/副词 + 动名词 利用介词/副词+动名词可以把两个句子连成一个句子 I must apologize for interrupting you . apologize for (not) doing sth. 为什么事情而道歉 I must apologize for having interrupted you .（ having interrupted 这个动词先发生）",
-    "congratulate (sb.) on doing sth. 因…祝贺（某人） thank you for sth. 因…感谢（某人）",
-    "He congratulated me. I won the competition. 未知先后顺序 He congratulated me on winning the competition . 他祝贺我赢得了比赛。 He congratulated me on having won the competition .having won先发生 thank you for listening / attending I must thank you for being so kind to me.真要感谢您对我这么好。 Thank you very much for dinner.非常感谢你的晚餐。",
-    "be keen on doing sth.（热忠于…）",
-    "be fond of,be interested in,enjoy doing sth.（喜欢做某事）",
-    "congratulations on doing sth. （祝贺…）",
-    "be afraid of be up to=be capable of (capable adj. 有能力的, 能干的, 有可能的, 可以...的)",
-    "正在进行时 正在做的事 I am teaching now. She is talking to you.",
-    "确定的将来（计划） Ang is buying a bungalow next year. Ali is preparing his dinner later.",
-    "非谓语动词 一句话里已有谓语时 I could n't hear her singing because of the noise. We saw him swimming across the pond.",
-    "句子开始做主语 当动词做为一件事的时候 Reading is his favourite pastime. Swimming in the ocean has been Sharon's passion since she was five years old.",
-    "在“感觉”后面 感观动词有半系动词的功能 I love eating noodles. She enjoys reading.",
-    "在“介词”之后 介词后要接名词、代词和动名词 She opened the door by using a key. I 'm scared of swimming in the sea.",
-    "before、after 之后 这时的before与after为介词 After thanking them, I left . Before going to France, you should read the guide book."
+   "parts": [
+    {
+     "text": "动词+ing 作名词时称为动名词，它仍有动词的属性，可以接宾语、也可以代替名词做主语和宾语或介词宾语。 动名词用表示完成时的 having+过去分词结构往往强调动名词的动词发生在前面，可以带动名词的介词有：before，after，without(I can’t watch TV without falling asleep.)，instead of 等。动名词的否定式是在它前面直接加 not。 跟动名词的短语 动词什么时候 + ing"
+    },
+    {
+     "table": {
+      "headers": [
+       "动名词作主语",
+       "动名词作宾语( 介词 后) 介词不能直接接动词的原型，但可以接动名词。",
+       "介词/副词 + 动名词 利用介词/副词+动名词可以把两个句子连成一个句子"
+      ],
+      "rows": [
+       [
+        "Watching television is my favourite pastime. 看电视是我最喜爱的业余爱好. Fishing is my favourite sport. 动名词做主语 Playing basketball is my favourite sport. (主语不光是一个单词，可以一个词组或者一句话) Playing basketball with my friends every Sunday is my favourite sport. (加上介词短语进行更多的修饰)"
+       ],
+       [
+        "I am very keen on cycling . 我非常喜欢骑自行车. He is capable of doing anything . 他能胜任任何事情."
+       ],
+       [
+        "I must apologize for interrupting you . apologize for (not) doing sth. 为什么事情而道歉 I must apologize for having interrupted you .（ having interrupted 这个动词先发生）"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "congratulate (sb.) on doing sth. 因…祝贺（某人）",
+       "thank you for sth. 因…感谢（某人）"
+      ],
+      "rows": [
+       [
+        "He congratulated me. I won the competition. 未知先后顺序 He congratulated me on winning the competition . 他祝贺我赢得了比赛。 He congratulated me on having won the competition .having won先发生",
+        "thank you for listening / attending I must thank you for being so kind to me.真要感谢您对我这么好。 Thank you very much for dinner.非常感谢你的晚餐。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "be keen on doing sth.（热忠于…）"
+    },
+    {
+     "text": "be fond of,be interested in,enjoy doing sth.（喜欢做某事）"
+    },
+    {
+     "text": "congratulations on doing sth. （祝贺…）"
+    },
+    {
+     "text": "be afraid of be up to=be capable of (capable adj. 有能力的, 能干的, 有可能的, 可以...的)"
+    },
+    {
+     "table": {
+      "headers": [
+       "正在进行时",
+       "非谓语动词",
+       "句子开始做主语",
+       "在“感觉”后面",
+       "在“介词”之后",
+       "before、after 之后"
+      ],
+      "rows": [
+       [
+        "正在做的事",
+        "I am teaching now. She is talking to you."
+       ],
+       [
+        "确定的将来（计划）",
+        "Ang is buying a bungalow next year. Ali is preparing his dinner later."
+       ],
+       [
+        "一句话里已有谓语时",
+        "I could n't hear her singing because of the noise. We saw him swimming across the pond."
+       ],
+       [
+        "当动词做为一件事的时候",
+        "Reading is his favourite pastime. Swimming in the ocean has been Sharon's passion since she was five years old."
+       ],
+       [
+        "感观动词有半系动词的功能",
+        "I love eating noodles. She enjoys reading."
+       ],
+       [
+        "介词后要接名词、代词和动名词",
+        "She opened the door by using a key. I 'm scared of swimming in the sea."
+       ],
+       [
+        "这时的before与after为介词",
+        "After thanking them, I left . Before going to France, you should read the guide book."
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "Interested and Interesting;Excited and Exciting",
-   "lines": [
-    "大多数现在分词和许多过去分词都可以作形容词用。以-ed 结尾的形容词常与人称主语连用，表示人的情绪、状态、喜好等；以-ing 结尾的形容词则常与非人称主语连用，表明事物的某种特征、性质等。",
-    "it’s = it is它是 Its 它的",
-    "It's (= it is) cold today. It's raining too. 今天天气冷. 而且正在下雨 This engine has lost its power. 这台发动机已失去了动力",
-    "realize vt. 意识到… understand vt. 明白…",
-    "He didn't realize that he had made a mistake. 他没有意识到他犯了一个错误. I don't understand English. 我不懂英语.",
-    "be interested in (doing) sth. 对…感兴趣 interesting adj. 有趣的 v. 使感兴趣",
-    "I am not really interested in fishing.(I’m interested in collecting stamps.) Fishing is not interesting.钓鱼没什么意思。",
-    "exciting adj. 令人兴奋的 excited adj. 激动的，兴奋的",
-    "The match was very exciting .比赛非常激动人心。 The crowd got very excited .人群变得非常兴奋。"
+   "parts": [
+    {
+     "text": "大多数现在分词和许多过去分词都可以作形容词用。以-ed 结尾的形容词常与人称主语连用，表示人的情绪、状态、喜好等；以-ing 结尾的形容词则常与非人称主语连用，表明事物的某种特征、性质等。"
+    },
+    {
+     "table": {
+      "headers": [
+       "it’s = it is它是",
+       "Its 它的",
+       "realize vt. 意识到…",
+       "understand vt. 明白…",
+       "be interested in (doing) sth. 对…感兴趣",
+       "interesting adj. 有趣的 v. 使感兴趣",
+       "exciting adj. 令人兴奋的",
+       "excited adj. 激动的，兴奋的"
+      ],
+      "rows": [
+       [
+        "It's (= it is) cold today. It's raining too. 今天天气冷. 而且正在下雨",
+        "This engine has lost its power. 这台发动机已失去了动力"
+       ],
+       [
+        "He didn't realize that he had made a mistake. 他没有意识到他犯了一个错误.",
+        "I don't understand English. 我不懂英语."
+       ],
+       [
+        "I am not really interested in fishing.(I’m interested in collecting stamps.)",
+        "Fishing is not interesting.钓鱼没什么意思。"
+       ],
+       [
+        "The match was very exciting .比赛非常激动人心。",
+        "The crowd got very excited .人群变得非常兴奋。"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "介词+doing动名词改写句子",
-   "lines": [
-    "简化句子的步骤(主语必须是同一个) doing 与having spent都是动名词，doing一般情况下表示的是主动或者正在进行。having spent 也是do+ing的形式，但他比普通的doing更高级，多了一层强调发生在之前的含义。这是因为having spent的原型是have spent现在完成时态变成的do+ing。所以都是doing但强调了发生在之前。 I have spent whole mornings on the river.I always go home with an empty bag. (after) He sat there. He did not say anything. (without)",
-    "写两个同主语的简单句 He turned off the radio. He left the room.",
-    "去掉其中一个句子的主语 分析句子：他先关掉收音机， 他 然后再离开的房子。优化：他离开房子之前关闭了收音机。",
-    "使用一个合适的介词合并为一句 before、after",
-    "介词后的动词变为动名词(介词后不能直接跟动词) After turning off the radio, he left the room. Before leaving the room, he turned off the radio.",
-    "After having spent whole mornings on the river, I always go home with an empty bag.",
-    "I always go home with an empty bag, after having spent whole mornings on the river.",
-    "He sat there without saying anythin ."
+   "parts": [
+    {
+     "text": "简化句子的步骤(主语必须是同一个) doing 与having spent都是动名词，doing一般情况下表示的是主动或者正在进行。having spent 也是do+ing的形式，但他比普通的doing更高级，多了一层强调发生在之前的含义。这是因为having spent的原型是have spent现在完成时态变成的do+ing。所以都是doing但强调了发生在之前。 I have spent whole mornings on the river.I always go home with an empty bag. (after) He sat there. He did not say anything. (without)"
+    },
+    {
+     "table": {
+      "headers": [],
+      "rows": [
+       [
+        "写两个同主语的简单句",
+        "He turned off the radio. He left the room."
+       ],
+       [
+        "去掉其中一个句子的主语",
+        "分析句子：他先关掉收音机， 他 然后再离开的房子。优化：他离开房子之前关闭了收音机。"
+       ],
+       [
+        "使用一个合适的介词合并为一句",
+        "before、after"
+       ],
+       [
+        "介词后的动词变为动名词(介词后不能直接跟动词)",
+        "After turning off the radio, he left the room. Before leaving the room, he turned off the radio."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "After having spent whole mornings on the river, I always go home with an empty bag."
+    },
+    {
+     "text": "I always go home with an empty bag, after having spent whole mornings on the river."
+    },
+    {
+     "text": "He sat there without saying anythin ."
+    }
    ]
   }
  ],

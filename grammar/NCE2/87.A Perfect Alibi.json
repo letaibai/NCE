@@ -2,28 +2,126 @@
  "expand": [
   {
    "title": "平行结构",
-   "lines": [
-    "平行结构有助于使句子更加清晰，避免歧义，并提高句子的表达力。 使用了相同或类似的语法形式，以使句子更加清晰、易于理解，或为了强调相关元素之间的平等关系。平行的形容词或副词：当用于修饰同一名词或动词时，应该使用相同的形容词或副词结构。 当列举或描述一系列项目、动作、或特征时，这些项目应该采用相同的语法结构。 平行的动词时态：在表达同时发生的动作或一系列动作时，时态应该保持一致。 平行的从句 当连接两个或多个从句时，这些从句应该使用相同的句法结构。",
-    "The English, the Germans, the Dutch and the French were investing in Britain's former colony.",
-    "词组1 词组2 词组3 And 词组4 多者并列(1,2,3 and 4 ...)",
-    "单词平行结构",
-    "The English, ←它们同时都做主语 平行的成分：词性相同，形式一致 平行的连接：并列连词/逗号 were investing in Britain's former colony.",
-    "The Germans,",
-    "The Dutch",
-    "and The French",
-    "We resolve to get up earlier each morning, eat less, find more time to play with children, do a thousand and one jobs about the house, be nice to people we don' t like , drive carefully, and take the dog for a walk every day.",
-    "引出平行结构 事件1 事件2 事件3 事件4 事件5 事件6 事件7",
-    "平行结构",
-    "We resolve to (我们下定决心要...) get up earlier each morning. 每天早起",
-    "eat less.吃少点",
-    "find more time to play with children.多花点时间和孩子们一起玩。",
-    "do a thousand and one jobs about the house.做一千零一件与家有关的工作。",
-    "be nice to people we don' t like .善待我们不喜欢的人。",
-    "drive carefully. 小心驾驶",
-    "and take the dog for a walk every day.每天带狗去散步。",
-    "从句平行结构",
-    "I suggest that you did not catch the 8 o'clock train",
-    "but that you caught the 8.25 which would still get you to work on time."
+   "parts": [
+    {
+     "text": "平行结构有助于使句子更加清晰，避免歧义，并提高句子的表达力。 使用了相同或类似的语法形式，以使句子更加清晰、易于理解，或为了强调相关元素之间的平等关系。平行的形容词或副词：当用于修饰同一名词或动词时，应该使用相同的形容词或副词结构。 当列举或描述一系列项目、动作、或特征时，这些项目应该采用相同的语法结构。 平行的动词时态：在表达同时发生的动作或一系列动作时，时态应该保持一致。 平行的从句 当连接两个或多个从句时，这些从句应该使用相同的句法结构。"
+    },
+    {
+     "table": {
+      "headers": [],
+      "rows": [
+       [
+        "The English,",
+        "the Germans,",
+        "the Dutch and the French",
+        "were investing in Britain's former colony."
+       ],
+       [
+        "词组1",
+        "词组2",
+        "词组3 And 词组4",
+        "多者并列(1,2,3 and 4 ...)"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "单词平行结构"
+      ],
+      "rows": [
+       [
+        "The English,",
+        "←它们同时都做主语 平行的成分：词性相同，形式一致 平行的连接：并列连词/逗号",
+        "were investing in Britain's former colony."
+       ],
+       [
+        "The Germans,"
+       ],
+       [
+        "The Dutch"
+       ],
+       [
+        "and The French"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [],
+      "rows": [
+       [
+        "We resolve to",
+        "get up earlier each morning,",
+        "eat less,",
+        "find more time to play with children,",
+        "do a thousand and one jobs about the house,",
+        "be nice to people we don' t like ,",
+        "drive carefully,",
+        "and take the dog for a walk every day."
+       ],
+       [
+        "引出平行结构",
+        "事件1",
+        "事件2",
+        "事件3",
+        "事件4",
+        "事件5",
+        "事件6",
+        "事件7"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "平行结构",
+       "We resolve to (我们下定决心要...)"
+      ],
+      "rows": [
+       [
+        "get up earlier each morning. 每天早起"
+       ],
+       [
+        "eat less.吃少点"
+       ],
+       [
+        "find more time to play with children.多花点时间和孩子们一起玩。"
+       ],
+       [
+        "do a thousand and one jobs about the house.做一千零一件与家有关的工作。"
+       ],
+       [
+        "be nice to people we don' t like .善待我们不喜欢的人。"
+       ],
+       [
+        "drive carefully. 小心驾驶"
+       ],
+       [
+        "and take the dog for a walk every day.每天带狗去散步。"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "从句平行结构"
+      ],
+      "rows": [
+       [
+        "I suggest",
+        "that you did not catch the 8 o'clock train"
+       ],
+       [
+        "but that you caught the 8.25 which would still get you to work on time."
+       ]
+      ]
+     }
+    }
    ]
   }
  ]

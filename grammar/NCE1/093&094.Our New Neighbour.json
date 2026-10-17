@@ -2,34 +2,81 @@
  "grammar": [
   {
    "title": "句子的种类(结构)",
-   "lines": [
-    "简单句 (一个谓语动词) 并列句(同样重要,逻辑关系联系,时态混合) 复合句 (主从复合句)",
-    "主 + 谓 主 + 谓 + 宾 主 + 谓 + 宾 + 宾 主 + 谓 + 宾 + 宾补 主 + 系 + 表 简单句 + 并列连词 + 简单句 He loves me and I am happy. He loves me but I am not happy. He loves me so I am happy. 宾语从句(使用句子做宾语) 定语从句(使用句子做定语) 时间状语从句 条件状语从句 ..."
+   "parts": [
+    {
+     "table": {
+      "headers": [
+       "简单句 (一个谓语动词)",
+       "并列句(同样重要,逻辑关系联系,时态混合)",
+       "复合句 (主从复合句)"
+      ],
+      "rows": [
+       [
+        "主 + 谓 主 + 谓 + 宾 主 + 谓 + 宾 + 宾 主 + 谓 + 宾 + 宾补 主 + 系 + 表",
+        "简单句 + 并列连词 + 简单句 He loves me and I am happy. He loves me but I am not happy. He loves me so I am happy.",
+        "宾语从句(使用句子做宾语) 定语从句(使用句子做定语) 时间状语从句 条件状语从句 ..."
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "When did you/will you go to ... ?",
-   "lines": [
-    "对话 时态",
-    "Have you ever been to Athens?你去过雅典吗？ No, I have never.没有。 现在完成时 引起话题",
-    "Will you go there?打算去吗？ When will you go there?打算什么时候去？ I will go there next year.打算明年去。 一般将来时 具体谈论",
-    "Have you ever been to Berlin?你去过柏林吗？ Yes, I have .去过。 现在完成时 引起话题",
-    "When did you go ?什么时候去的？ I went there last year.去年去的。 Who did you go with?和谁一块去的？ I went there with my boyfriend.和我男朋友一起去的。 I went there last year. When did you go there? I went there with my boyfriend. Who went there with you? 一般过去时 具体谈论"
+   "parts": [
+    {
+     "table": {
+      "headers": [
+       "对话",
+       "时态"
+      ],
+      "rows": [
+       [
+        "Have you ever been to Athens?你去过雅典吗？ No, I have never.没有。",
+        "现在完成时 引起话题"
+       ],
+       [
+        "Will you go there?打算去吗？ When will you go there?打算什么时候去？ I will go there next year.打算明年去。",
+        "一般将来时 具体谈论"
+       ],
+       [
+        "Have you ever been to Berlin?你去过柏林吗？ Yes, I have .去过。",
+        "现在完成时 引起话题"
+       ],
+       [
+        "When did you go ?什么时候去的？ I went there last year.去年去的。 Who did you go with?和谁一块去的？ I went there with my boyfriend.和我男朋友一起去的。 I went there last year. When did you go there? I went there with my boyfriend. Who went there with you?",
+        "一般过去时 具体谈论"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "综合应用各种时态",
-   "lines": [
-    "张一山是我们新搬来的隔壁邻居。他是个演员。 Zhang Yishan is our new next-door neighbor. He is an actor.",
-    "他曾在北京五十五中学读书。 He was in No.55 middle school in Beijing.",
-    "下个月他将飞往山东。下下个月他将飞往香港。现在他在上海。 The next month He will fly to Shandong. The month after next he will fly to Hong Kong. At the moment, he is in Shanghai.",
-    "他是一星期以前飞到上海的。再下个星期他将返回北京。 He flew to Shanghai a week ago. He will return to Beijing the week after next.",
-    "他只有 21 岁，但他几乎去过中国的每一个地方了。 He is only twenty-one years old, and he has been to nearly every place in China.",
-    "张一山是个很幸运的人。但他的爸爸运气不是很好。他总是呆在北京。 Zhang Yishan is a lucky person. But his father is not very lucky. He usually stays in Beijing."
+   "parts": [
+    {
+     "text": "张一山是我们新搬来的隔壁邻居。他是个演员。 Zhang Yishan is our new next-door neighbor. He is an actor."
+    },
+    {
+     "text": "他曾在北京五十五中学读书。 He was in No.55 middle school in Beijing."
+    },
+    {
+     "text": "下个月他将飞往山东。下下个月他将飞往香港。现在他在上海。 The next month He will fly to Shandong. The month after next he will fly to Hong Kong. At the moment, he is in Shanghai."
+    },
+    {
+     "text": "他是一星期以前飞到上海的。再下个星期他将返回北京。 He flew to Shanghai a week ago. He will return to Beijing the week after next."
+    },
+    {
+     "text": "他只有 21 岁，但他几乎去过中国的每一个地方了。 He is only twenty-one years old, and he has been to nearly every place in China."
+    },
+    {
+     "text": "张一山是个很幸运的人。但他的爸爸运气不是很好。他总是呆在北京。 Zhang Yishan is a lucky person. But his father is not very lucky. He usually stays in Beijing."
+    }
    ]
   }
  ]

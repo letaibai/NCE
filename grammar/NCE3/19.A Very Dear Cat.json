@@ -2,51 +2,196 @@
  "grammar": [
   {
    "title": "\"empty nest\" problem / syndrome 空巢老人（empty nesters）",
-   "lines": [
-    "Three days after Rastus' disappearance , Mrs. Ramsay received an anonymous letter. The writer stated that Rastus was in safe hands and would be returned immediately if Mrs. Ramsay paid a ransom of £1,000 . 假设现在 in safe hand s 很安全（得到很好的照顾） a ransom of £1,000 赎金 Mrs. Ramsay was instructed to place the money in a cardboard box and to leave it outside her door . instruct sb. to do 指示某人做某事(上级对下级、详细告知步骤、做法) At first, she decided to go to the police , but fearing that she would never see Rastus again —the letter had made that quite clear— she changed her mind. fear v.害怕、担心 介词短语做原因状语 make sth. clear / explicit 使某事清楚/明确 The next morning, the box had disappeared but Mrs. Ramsay was sure that the kidnapper would keep his word. the next / following / succeeding morning （过去的）第二天早上 keep one's word / promise 信守诺言(单数) Sure enough, Rastus arrived punctually at seven o'clock that evening. sure enough 果然、不出所料 He looked very well, though he was rather thirsty, for he drank half a bottle of milk. The police were astounded when Mrs. Ramsay told them what she had done . were astounded 呆若木鸡 Considering the amount she paid , he was dear in more ways than one! 非谓语动词如果是习语（固定搭配）不考虑逻辑主语 动词 → 介词 in more ways than one （习语）不止一个方面的 Known to millions, far and wide, for his book 'A Brief History of Time', Stephen Hawking was a star scientist in more ways than one.",
-    "receive sth. from sb. 收到某人的来信（较正式） I have just received a letter from my old school .",
-    "get sth. from sb. 收到某人的消息和信息... （口语） Did she get a message from Kate? 她从凯特那里得到消息了？",
-    "hear from sb. 得到（某人）的消息/信 My guess is that we won't hear from him again. 我想我们再不会收到他的消息了。",
-    "Don't worry about the children. They are in safe hands.",
-    "You can be sure your children are in good hands. 得到妥善照顾",
-    "I am afraid that nuclear weapons could fall into the wrong hands. 落入恶人之手",
-    "In 1908 Lord Northcliffe offered a prize of £ 1,000 to the first man who would fly across the English Channel .",
-    "a reward of £ 1,000 酬金",
-    "a fund of £ 1,000 基金",
-    "a debt of £ 1,000 债务",
-    "an investment of £ 1,000 投资",
-    "a scholarship of £ 1,000 奖学金",
-    "if 从句中的动词用一般过去 § 主句 would(¼) + v.(1)",
-    "if Mrs. Ramsay paid a ransom of £1,000 Rastus would be returned immediately",
-    "A doctor will often instruct patients to exercise. 医生将经常嘱咐病人要锻炼身体。",
-    "Last year a journalist had been instructed by a well-known magazine to write an article on the president's palace in a new African republic .",
-    "be afraid of ... ...but being afraid of never seeing Rastus again ... 替换",
-    "be afraid that ... being afraid that she would never see Rastus again . 替换 but I'm afraid that at one o'clock it will strike thirteen times and there's nothing I can do about it .",
-    "for fear of ... I didn't turn on the light, for fear of waking the baby. but for fear of never seeing Rastus again ... 本句替换",
-    "for fear that ... I didn't turn on the light, for fear that it would wake the baby . but for fear that she would never see Rastus again ... 本句替换",
-    "Possible side effects must be made clear / explicit.",
-    "Could you clarify your remarks? clarify v.使清楚",
-    "clarify one's position 表明某人的立场",
-    "the morning after 第二天早上",
-    "break one's word / promise 失言（不用lose）",
-    "He is a man of his word. 他是一个守信之人",
-    "She is a woman of her word. 她是一个守信之人",
-    "The man took heart and, sure enough, on New Year's Eve he was able to hobble along to a party .",
-    "When the archaeologists reconstructed the fragments, they were amazed to find that the goddess turned out to be a very modern-looking woman .",
-    "When he went outside half an hour later, he was astonished to find that the little black lamb was almost white .",
-    "He was astonished at what he found .",
-    "A short time ago, villagers were astonished to learn that the ghost of Endley had died .",
-    "Strictly speaking, the whale isn't a fish. 严格的说",
-    "Judging from his face, he must be ill. 从...判断",
-    "To make a long story short, he wanted money, and tried to get it without working. 长话短说",
-    "The team has lost the last two games and, to make matters worse, two of its best players are injured. 更糟糕的是...",
-    "动词 介词 例句",
-    "consider considering You use considering to indicate that you are thinking about a particular fact when making a judgment or giving an opinion. 鉴于 (某情况)",
-    "include including You use including to introduce examples of people or things that are part of the group of people or things that you are talking about. 包括",
-    "exclude excluding You use excluding before mentioning a person or thing to show that you are not including them in your statement. 除…之外",
-    "concer concerning China's foreign policy concerning / regarding / respecting Japan",
-    "regard regarding",
-    "respect respecting"
+   "parts": [
+    {
+     "text": "Three days after Rastus' disappearance , Mrs. Ramsay received an anonymous letter. The writer stated that Rastus was in safe hands and would be returned immediately if Mrs. Ramsay paid a ransom of £1,000 . 假设现在 in safe hand s 很安全（得到很好的照顾） a ransom of £1,000 赎金 Mrs. Ramsay was instructed to place the money in a cardboard box and to leave it outside her door . instruct sb. to do 指示某人做某事(上级对下级、详细告知步骤、做法) At first, she decided to go to the police , but fearing that she would never see Rastus again —the letter had made that quite clear— she changed her mind. fear v.害怕、担心 介词短语做原因状语 make sth. clear / explicit 使某事清楚/明确 The next morning, the box had disappeared but Mrs. Ramsay was sure that the kidnapper would keep his word. the next / following / succeeding morning （过去的）第二天早上 keep one's word / promise 信守诺言(单数) Sure enough, Rastus arrived punctually at seven o'clock that evening. sure enough 果然、不出所料 He looked very well, though he was rather thirsty, for he drank half a bottle of milk. The police were astounded when Mrs. Ramsay told them what she had done . were astounded 呆若木鸡 Considering the amount she paid , he was dear in more ways than one! 非谓语动词如果是习语（固定搭配）不考虑逻辑主语 动词 → 介词 in more ways than one （习语）不止一个方面的 Known to millions, far and wide, for his book 'A Brief History of Time', Stephen Hawking was a star scientist in more ways than one."
+    },
+    {
+     "table": {
+      "headers": [
+       "receive sth. from sb. 收到某人的来信（较正式）",
+       "get sth. from sb. 收到某人的消息和信息... （口语）",
+       "hear from sb. 得到（某人）的消息/信"
+      ],
+      "rows": [
+       [
+        "I have just received a letter from my old school ."
+       ],
+       [
+        "Did she get a message from Kate? 她从凯特那里得到消息了？"
+       ],
+       [
+        "My guess is that we won't hear from him again. 我想我们再不会收到他的消息了。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Don't worry about the children. They are in safe hands."
+    },
+    {
+     "text": "You can be sure your children are in good hands. 得到妥善照顾"
+    },
+    {
+     "text": "I am afraid that nuclear weapons could fall into the wrong hands. 落入恶人之手"
+    },
+    {
+     "text": "In 1908 Lord Northcliffe offered a prize of £ 1,000 to the first man who would fly across the English Channel ."
+    },
+    {
+     "text": "a reward of £ 1,000 酬金"
+    },
+    {
+     "text": "a fund of £ 1,000 基金"
+    },
+    {
+     "text": "a debt of £ 1,000 债务"
+    },
+    {
+     "text": "an investment of £ 1,000 投资"
+    },
+    {
+     "text": "a scholarship of £ 1,000 奖学金"
+    },
+    {
+     "table": {
+      "headers": [
+       "if 从句中的动词用一般过去 §",
+       "主句 would(¼) + v.(1)"
+      ],
+      "rows": [
+       [
+        "if Mrs. Ramsay paid a ransom of £1,000",
+        "Rastus would be returned immediately"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "A doctor will often instruct patients to exercise. 医生将经常嘱咐病人要锻炼身体。"
+    },
+    {
+     "text": "Last year a journalist had been instructed by a well-known magazine to write an article on the president's palace in a new African republic ."
+    },
+    {
+     "table": {
+      "headers": [
+       "be afraid of ...",
+       "be afraid that ..."
+      ],
+      "rows": [
+       [
+        "...but being afraid of never seeing Rastus again ... 替换"
+       ],
+       [
+        "being afraid that she would never see Rastus again . 替换 but I'm afraid that at one o'clock it will strike thirteen times and there's nothing I can do about it ."
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "for fear of ...",
+       "for fear that ..."
+      ],
+      "rows": [
+       [
+        "I didn't turn on the light, for fear of waking the baby. but for fear of never seeing Rastus again ... 本句替换"
+       ],
+       [
+        "I didn't turn on the light, for fear that it would wake the baby . but for fear that she would never see Rastus again ... 本句替换"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Possible side effects must be made clear / explicit."
+    },
+    {
+     "text": "Could you clarify your remarks? clarify v.使清楚"
+    },
+    {
+     "text": "clarify one's position 表明某人的立场"
+    },
+    {
+     "text": "the morning after 第二天早上"
+    },
+    {
+     "text": "break one's word / promise 失言（不用lose）"
+    },
+    {
+     "text": "He is a man of his word. 他是一个守信之人"
+    },
+    {
+     "text": "She is a woman of her word. 她是一个守信之人"
+    },
+    {
+     "text": "The man took heart and, sure enough, on New Year's Eve he was able to hobble along to a party ."
+    },
+    {
+     "text": "When the archaeologists reconstructed the fragments, they were amazed to find that the goddess turned out to be a very modern-looking woman ."
+    },
+    {
+     "text": "When he went outside half an hour later, he was astonished to find that the little black lamb was almost white ."
+    },
+    {
+     "text": "He was astonished at what he found ."
+    },
+    {
+     "text": "A short time ago, villagers were astonished to learn that the ghost of Endley had died ."
+    },
+    {
+     "text": "Strictly speaking, the whale isn't a fish. 严格的说"
+    },
+    {
+     "text": "Judging from his face, he must be ill. 从...判断"
+    },
+    {
+     "text": "To make a long story short, he wanted money, and tried to get it without working. 长话短说"
+    },
+    {
+     "text": "The team has lost the last two games and, to make matters worse, two of its best players are injured. 更糟糕的是..."
+    },
+    {
+     "table": {
+      "headers": [
+       "动词",
+       "介词",
+       "例句"
+      ],
+      "rows": [
+       [
+        "consider",
+        "considering",
+        "You use considering to indicate that you are thinking about a particular fact when making a judgment or giving an opinion. 鉴于 (某情况)"
+       ],
+       [
+        "include",
+        "including",
+        "You use including to introduce examples of people or things that are part of the group of people or things that you are talking about. 包括"
+       ],
+       [
+        "exclude",
+        "excluding",
+        "You use excluding before mentioning a person or thing to show that you are not including them in your statement. 除…之外"
+       ],
+       [
+        "concer",
+        "concerning",
+        "China's foreign policy concerning / regarding / respecting Japan"
+       ],
+       [
+        "regard",
+        "regarding"
+       ],
+       [
+        "respect",
+        "respecting"
+       ]
+      ]
+     }
+    }
    ]
   }
  ]

@@ -2,63 +2,217 @@
  "grammar": [
   {
    "title": "表示方向和目的地的介词和副词",
-   "lines": [
-    "介词通常用于被说明地点与时间，介词的后面可以接 名词、代词、doing构成一个介宾短语用于补充说明地点或者时间。 §",
-    "表示“上on/up、下 off/down” 表示“来 come、去 go”",
-    "Jim’s standing on the roof. I hope he won’t fall off. on 和 off Tom’s climbing up the tree. I hope he won’t fall down. up 和 down The ball was coming towards me. The plane flies from Moscow to New York. 一对小品词 from 和 to He went for home. Did you stop anywhere on your way to the office? 去办公室的路上你在别的地方逗留过吗？",
-    "进去 into 出来 out of",
-    "He put his hand into his pocket, and took out a phrasebook . Some children are coming out of the building .",
-    "towards（强调越来越近）的意义和 to（强调目标）相近，表示“朝，向，接近”等；for 在有些动词后面也表示“往，向”的意思。",
-    "leave for… 动身到某地（强调离开，出发） set out for… 动身到某地 head for/to 前往 （强调“去”）",
-    "Yesterday my father left for Tianjin. He left / set out for New York yesterday. You'll need to keep a clear head for your interview.你面试时需要保持清醒的头脑。",
-    "aim at 瞄准(目标) fire at(瞄准开火) throw at 朝…扔(投向目标)",
-    "They aim at improving quality rather than increasing quantity. 他们的目的在于提高质量而不是增加数量。 I don't dare fire at that man. 我不敢对他开枪。 So they picked up stones to throw at him. 于是他们拿石头要打他。",
-    "表示“在某个地方”或“在…里面/外面”可用 at（含有一种瞄准的概念，方向性），in，out of 等；表示目的地或位置往往用 at。",
-    "through 穿过(洞) How did you get through the fence? 你怎么穿过篱笆的？",
-    "across 穿过(平面) He is swimming across the river .",
-    "under 穿过(下面) The ship is going under the bridge .",
-    "over 越过 How did you get over the wall?",
-    "round 绕过 If we win a lot of money we 'll travel round the world ..."
+   "parts": [
+    {
+     "text": "介词通常用于被说明地点与时间，介词的后面可以接 名词、代词、doing构成一个介宾短语用于补充说明地点或者时间。 §"
+    },
+    {
+     "table": {
+      "headers": [
+       "表示“上on/up、下 off/down”",
+       "表示“来 come、去 go”",
+       "进去 into",
+       "出来 out of"
+      ],
+      "rows": [
+       [
+        "Jim’s standing on the roof. I hope he won’t fall off. on 和 off Tom’s climbing up the tree. I hope he won’t fall down. up 和 down",
+        "The ball was coming towards me. The plane flies from Moscow to New York. 一对小品词 from 和 to He went for home. Did you stop anywhere on your way to the office? 去办公室的路上你在别的地方逗留过吗？"
+       ],
+       [
+        "He put his hand into his pocket, and took out a phrasebook .",
+        "Some children are coming out of the building ."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "towards（强调越来越近）的意义和 to（强调目标）相近，表示“朝，向，接近”等；for 在有些动词后面也表示“往，向”的意思。"
+    },
+    {
+     "table": {
+      "headers": [
+       "leave for… 动身到某地（强调离开，出发）",
+       "set out for… 动身到某地",
+       "head for/to 前往 （强调“去”）",
+       "aim at 瞄准(目标)",
+       "fire at(瞄准开火)",
+       "throw at 朝…扔(投向目标)"
+      ],
+      "rows": [
+       [
+        "Yesterday my father left for Tianjin.",
+        "He left / set out for New York yesterday.",
+        "You'll need to keep a clear head for your interview.你面试时需要保持清醒的头脑。"
+       ],
+       [
+        "They aim at improving quality rather than increasing quantity. 他们的目的在于提高质量而不是增加数量。",
+        "I don't dare fire at that man. 我不敢对他开枪。",
+        "So they picked up stones to throw at him. 于是他们拿石头要打他。"
+       ],
+       [
+        "表示“在某个地方”或“在…里面/外面”可用 at（含有一种瞄准的概念，方向性），in，out of 等；表示目的地或位置往往用 at。"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "through 穿过(洞)",
+       "across 穿过(平面)",
+       "under 穿过(下面)",
+       "over 越过",
+       "round 绕过"
+      ],
+      "rows": [
+       [
+        "How did you get through the fence? 你怎么穿过篱笆的？"
+       ],
+       [
+        "He is swimming across the river ."
+       ],
+       [
+        "The ship is going under the bridge ."
+       ],
+       [
+        "How did you get over the wall?"
+       ],
+       [
+        "If we win a lot of money we 'll travel round the world ..."
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "Prepositions of Movement",
-   "lines": [
-    "into: The mouse is going into the box.",
-    "out of: The mouse is going out of the box.",
-    "around: The cat is walking around the box.",
-    "away: The bird is flying away from the box.",
-    "toward: The birds are flying toward the box.",
-    "past: The bird is flying past the box.",
-    "on to/onto: The frog is going to jump onto the box.",
-    "off: The frog is going to jump off the box.",
-    "over: The frog is going to jump over the box.",
-    "under: The snake is going under the wall.",
-    "through: The snake is going to go through the pipe.",
-    "across: The snake is moving across the bridge.",
-    "up: The boy is walking up the stairs.",
-    "down: The girl is walking down the stairs."
+   "parts": [
+    {
+     "text": "into: The mouse is going into the box."
+    },
+    {
+     "text": "out of: The mouse is going out of the box."
+    },
+    {
+     "text": "around: The cat is walking around the box."
+    },
+    {
+     "text": "away: The bird is flying away from the box."
+    },
+    {
+     "text": "toward: The birds are flying toward the box."
+    },
+    {
+     "text": "past: The bird is flying past the box."
+    },
+    {
+     "text": "on to/onto: The frog is going to jump onto the box."
+    },
+    {
+     "text": "off: The frog is going to jump off the box."
+    },
+    {
+     "text": "over: The frog is going to jump over the box."
+    },
+    {
+     "text": "under: The snake is going under the wall."
+    },
+    {
+     "text": "through: The snake is going to go through the pipe."
+    },
+    {
+     "text": "across: The snake is moving across the bridge."
+    },
+    {
+     "text": "up: The boy is walking up the stairs."
+    },
+    {
+     "text": "down: The girl is walking down the stairs."
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "表示地点的介词(prep.)",
-   "lines": [
-    "动态方向介词 在某地的介词 本课出现的不规则动词",
-    "from 来自... set out from the coast",
-    "to 去往... swam to the shore",
-    "for 向、往(强调目的地) set out for the village.",
-    "towards 逐渐接近(动态的) towards the light she had seen",
-    "into 进入(动态的) jumped into the sea",
-    "out of 从里往外(动态的) out of darkness",
-    "At 强调在某个点上(小范围、 一维的） I am at home. 我在家 arriving at the shore 在...点 (静态的)",
-    "On 强调在平面的上方（中范围、二维的） We were on a hill, right on the edge of town.我们在一座小山上，正好位于城镇边缘。 on the cliff 在...上 (静态的)",
-    "In 强调在立体的里面(大范围、三维的) They ate in an Italian restaurant in Forth Street.他们在福斯大街的一家意大利餐馆吃了饭。 in a small boat / in a storm / in hospital 在...里面 (静态的)",
-    "原型 (do) 过去式 (did) 过去分词 (done) 现在分词(doing)",
-    "swim swam swum swimming"
+   "parts": [
+    {
+     "text": "动态方向介词 在某地的介词 本课出现的不规则动词"
+    },
+    {
+     "table": {
+      "headers": [
+       "from 来自...",
+       "to 去往...",
+       "for 向、往(强调目的地)",
+       "towards 逐渐接近(动态的)",
+       "into 进入(动态的)",
+       "out of 从里往外(动态的)"
+      ],
+      "rows": [
+       [
+        "set out from the coast"
+       ],
+       [
+        "swam to the shore"
+       ],
+       [
+        "set out for the village."
+       ],
+       [
+        "towards the light she had seen"
+       ],
+       [
+        "jumped into the sea"
+       ],
+       [
+        "out of darkness"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "At 强调在某个点上(小范围、 一维的）",
+       "On 强调在平面的上方（中范围、二维的）",
+       "In 强调在立体的里面(大范围、三维的)"
+      ],
+      "rows": [
+       [
+        "I am at home. 我在家 arriving at the shore 在...点 (静态的)"
+       ],
+       [
+        "We were on a hill, right on the edge of town.我们在一座小山上，正好位于城镇边缘。 on the cliff 在...上 (静态的)"
+       ],
+       [
+        "They ate in an Italian restaurant in Forth Street.他们在福斯大街的一家意大利餐馆吃了饭。 in a small boat / in a storm / in hospital 在...里面 (静态的)"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "原型 (do)",
+       "过去式 (did)",
+       "过去分词 (done)",
+       "现在分词(doing)"
+      ],
+      "rows": [
+       [
+        "swim",
+        "swam",
+        "swum",
+        "swimming"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],

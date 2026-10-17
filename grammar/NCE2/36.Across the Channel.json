@@ -2,56 +2,201 @@
  "grammar": [
   {
    "title": "表示将来的方式",
-   "lines": [
-    "一般将来时 表示将来的词组 § I will do sth.= I intend to do sth.",
-    "will/shall + do (正式的书面用语) am/is/are going to + do (常用于口语中)",
-    "You will enjoy yourself if you travel by sea. 如果你乘船旅游, 你会玩得很开心的。 'Will you be spending your holidays abroad this year?' I asked . What do you intend to do at home? I’m going to watch TV. They’re going to be married soon.",
-    "在陈述句和疑问句中, 常常可用 be going to 来替代 shall 或 will。但有时不能用 be going to 代替 shall 或 will。在非正式语体下，要表示意图、打算，强调计划和安排，表示说话人也许对即将发生的事预先有所了解时，一般用 be going to 而不用will。如果表示说话时决定去做某事，或者表示建议、请求、肯定或不肯定等含义时，要用 will 而不用 be going to：",
-    "You won’t forget to bring something to sleep in, will you? （表示建议）",
-    "Don’t worry! I ’ll bring a sleeping bag. （表示决定）",
-    "I shan’t be able to look after the baby and cook lunch. （表示肯定）",
-    "I ’ll look after the baby while you cook lunch. （表示决定 ）口语中while可以用在非延续性动词中",
-    "Tomorrow will be Tuesday.",
-    "将来进行时 确定的将来 will/shall be + doing Tomorrow evening, they will be singing at the Workers' Club .",
-    "一般现在时表将来(do/does + 时间状语从句) If she comes early, we will have time for a coffee. When he arrives, we can start the meeting. As soon as I finish work, I will call you. Before he goes to the party, he will finish his homework.",
-    "现在进行时 I'm meeting my friend tomorrow.我明天要见我的朋友。 They're flying to Paris next week.他们下周要飞往巴黎。 She's starting her new job next month.她下个月要开始新工作。",
-    "plan to do / mean to do / aim to do / hope to do / want to do 这类词本身没有将来时态, 本身就表示将来, 用一般现在时表示将来时。",
-    "intend to + do 计划或目的是 I intend to have a company. = I am going to have a company.",
-    "mean to + do 打算做某事 What do you mean to do (intend to do)?",
-    "plan to + do 计划做某事 I plan to get a few lessons in.我计划挤出时间上几节课。",
-    "be about to 即将要做某事 She was about to plunge into her story when the phone rang .她刚要开始大谈她的经历，电话响了。",
-    "aim to do sth. 旨在做某事 We aim to be there around six.我们力争六点钟左右到那里。",
-    "hope to do I hope to hell you're right.我打心底里希望你是对的。",
-    "want to do Do you want to bookmark this site?你想给这个站点做书签吗？"
+   "parts": [
+    {
+     "text": "一般将来时 表示将来的词组 § I will do sth.= I intend to do sth."
+    },
+    {
+     "table": {
+      "headers": [
+       "will/shall + do (正式的书面用语)",
+       "am/is/are going to + do (常用于口语中)"
+      ],
+      "rows": [
+       [
+        "You will enjoy yourself if you travel by sea. 如果你乘船旅游, 你会玩得很开心的。 'Will you be spending your holidays abroad this year?' I asked .",
+        "What do you intend to do at home? I’m going to watch TV. They’re going to be married soon."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "在陈述句和疑问句中, 常常可用 be going to 来替代 shall 或 will。但有时不能用 be going to 代替 shall 或 will。在非正式语体下，要表示意图、打算，强调计划和安排，表示说话人也许对即将发生的事预先有所了解时，一般用 be going to 而不用will。如果表示说话时决定去做某事，或者表示建议、请求、肯定或不肯定等含义时，要用 will 而不用 be going to："
+    },
+    {
+     "text": "You won’t forget to bring something to sleep in, will you? （表示建议）"
+    },
+    {
+     "text": "Don’t worry! I ’ll bring a sleeping bag. （表示决定）"
+    },
+    {
+     "text": "I shan’t be able to look after the baby and cook lunch. （表示肯定）"
+    },
+    {
+     "text": "I ’ll look after the baby while you cook lunch. （表示决定 ）口语中while可以用在非延续性动词中"
+    },
+    {
+     "text": "Tomorrow will be Tuesday."
+    },
+    {
+     "table": {
+      "headers": [
+       "将来进行时 确定的将来 will/shall be + doing",
+       "一般现在时表将来(do/does + 时间状语从句)",
+       "现在进行时"
+      ],
+      "rows": [
+       [
+        "Tomorrow evening, they will be singing at the Workers' Club ."
+       ],
+       [
+        "If she comes early, we will have time for a coffee. When he arrives, we can start the meeting. As soon as I finish work, I will call you. Before he goes to the party, he will finish his homework."
+       ],
+       [
+        "I'm meeting my friend tomorrow.我明天要见我的朋友。 They're flying to Paris next week.他们下周要飞往巴黎。 She's starting her new job next month.她下个月要开始新工作。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "plan to do / mean to do / aim to do / hope to do / want to do 这类词本身没有将来时态, 本身就表示将来, 用一般现在时表示将来时。"
+    },
+    {
+     "table": {
+      "headers": [],
+      "rows": [
+       [
+        "intend to + do 计划或目的是",
+        "I intend to have a company. = I am going to have a company."
+       ],
+       [
+        "mean to + do 打算做某事",
+        "What do you mean to do (intend to do)?"
+       ],
+       [
+        "plan to + do 计划做某事",
+        "I plan to get a few lessons in.我计划挤出时间上几节课。"
+       ],
+       [
+        "be about to 即将要做某事",
+        "She was about to plunge into her story when the phone rang .她刚要开始大谈她的经历，电话响了。"
+       ],
+       [
+        "aim to do sth. 旨在做某事",
+        "We aim to be there around six.我们力争六点钟左右到那里。"
+       ],
+       [
+        "hope to do",
+        "I hope to hell you're right.我打心底里希望你是对的。"
+       ],
+       [
+        "want to do",
+        "Do you want to bookmark this site?你想给这个站点做书签吗？"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "限定性定语从句/非限定性定语从句",
-   "lines": [
-    "限定性 的定语从句 非限定性 的定语从句 限不限定与逗号无关 ，逗号只是表象，其根本还是名词是否应该处于被限定的范围，这和零冠词的名字与不定冠词之间的区别一样。“重庆”全宇宙就只有一个，所以无需限定。“小李”、“小王”可能在你们班上会有很几个，所以需要限定以表达更准确的名词指向。 非限定性名词类 非限定性定语从句不可以用that，限定性定语从句少了后面的句子, 这句话意思不完整,非限定性定语从句前面的句子完整, 后面的句子起着补充说明的作用，非限定性定语从句一旦有逗号隔开, 后面的句子和前面的句子关系不紧密, 起补充作用。 非限定性 定语从句 专有名词",
-    "名词范围 不 确定 使用定语去修饰、限定 可省略",
-    "I met your friend who was staying in Paris last week.",
-    "朋友较多 限定性的定语从句 非限定",
-    "n.范围 不 确定 → 限定 → 不能使用逗号隔开",
-    "名词范围 确定 标志 可省略",
-    "I met your mother , who was staying in Paris last week.",
-    "你有几个妈？ 无需限定标志 额外的补充说明 非限定",
-    "n.范围 确定 → 不用限定 → 有 逗号 隔开",
-    "永远确定的：专有名词(太阳、月亮、地球...)、独一无二(父母、七大姑八大姨、国家、城市...)",
-    "相对确定：在范围内的名词(小李、班主任、数学老师、同桌)，在上下文中只提过一次的。",
-    "关系词不可省略(限定性做宾语可省略)",
-    "禁止使用\"that\"(无论指人指物)",
-    "指人的时候做宾语，只能使用\"whom\" §",
-    "有逗号隔开。",
-    "This is the wall which they built last week. 限定性定语从句",
-    "This is the Great Wall , which world-famous . 非限定性定语从句",
-    "He came from Beijing , which is the capital of China.",
-    "He came from a city which/that is in the north of China.",
-    "This is the businessman who/whom/that/- we are cooperating with.",
-    "This is Bill Gates , whom many people know as the richest man.",
-    "Among them will be Debbie's mother , who swam the Channel herself when she was a girl."
+   "parts": [
+    {
+     "text": "限定性 的定语从句 非限定性 的定语从句 限不限定与逗号无关 ，逗号只是表象，其根本还是名词是否应该处于被限定的范围，这和零冠词的名字与不定冠词之间的区别一样。“重庆”全宇宙就只有一个，所以无需限定。“小李”、“小王”可能在你们班上会有很几个，所以需要限定以表达更准确的名词指向。 非限定性名词类 非限定性定语从句不可以用that，限定性定语从句少了后面的句子, 这句话意思不完整,非限定性定语从句前面的句子完整, 后面的句子起着补充说明的作用，非限定性定语从句一旦有逗号隔开, 后面的句子和前面的句子关系不紧密, 起补充作用。 非限定性 定语从句 专有名词"
+    },
+    {
+     "table": {
+      "headers": [
+       "名词范围 不 确定",
+       "使用定语去修饰、限定",
+       "可省略"
+      ],
+      "rows": [
+       [
+        "I met your friend",
+        "who",
+        "was staying in Paris",
+        "last week."
+       ],
+       [
+        "朋友较多",
+        "限定性的定语从句",
+        "非限定"
+       ],
+       [
+        "n.范围 不 确定 → 限定 → 不能使用逗号隔开"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "名词范围 确定",
+       "标志",
+       "可省略"
+      ],
+      "rows": [
+       [
+        "I met your mother",
+        ",",
+        "who",
+        "was staying in Paris",
+        "last week."
+       ],
+       [
+        "你有几个妈？",
+        "无需限定标志",
+        "额外的补充说明",
+        "非限定"
+       ],
+       [
+        "n.范围 确定 → 不用限定 → 有 逗号 隔开"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "永远确定的：专有名词(太阳、月亮、地球...)、独一无二(父母、七大姑八大姨、国家、城市...)"
+    },
+    {
+     "text": "相对确定：在范围内的名词(小李、班主任、数学老师、同桌)，在上下文中只提过一次的。"
+    },
+    {
+     "text": "关系词不可省略(限定性做宾语可省略)"
+    },
+    {
+     "text": "禁止使用\"that\"(无论指人指物)"
+    },
+    {
+     "text": "指人的时候做宾语，只能使用\"whom\" §"
+    },
+    {
+     "text": "有逗号隔开。"
+    },
+    {
+     "text": "This is the wall which they built last week. 限定性定语从句"
+    },
+    {
+     "text": "This is the Great Wall , which world-famous . 非限定性定语从句"
+    },
+    {
+     "text": "He came from Beijing , which is the capital of China."
+    },
+    {
+     "text": "He came from a city which/that is in the north of China."
+    },
+    {
+     "text": "This is the businessman who/whom/that/- we are cooperating with."
+    },
+    {
+     "text": "This is Bill Gates , whom many people know as the richest man."
+    },
+    {
+     "text": "Among them will be Debbie's mother , who swam the Channel herself when she was a girl."
+    }
    ]
   }
  ],

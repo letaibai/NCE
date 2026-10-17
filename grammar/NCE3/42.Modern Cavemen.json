@@ -2,116 +2,461 @@
  "grammar": [
   {
    "title": "引出文章中心",
-   "lines": [
-    "Exploring really deep caves is not a task for the Sunday afternoon rambler. the + 名词 类指 ...is not a task for sb. 不是某人所能胜任的 Such undertakings require the precise planning and foresight of military operations. require the precise planning and foresight of ... 需要精确的计划和远见… It can take as long as eight days to rig up rope ladders and to establish supply bases before a descent can be made into a very deep cave. take v.需要...(时间、人、事物) Anyone can be passionate, but it takes real lovers to be silly. — Rose Franken rig up to make sth. quickly out of whatever you can find 草草做成，草草搭起 make a descent = descend 下降 Precautions of this sort are necessary, for it is impossible to foretell the exact nature of the difficulties which will confront the pot-holer . This sort of precaution is necessary, ... 替换（但Precautions习惯用复数） precaution n.预防措施（常用复数） confront / face sb. 面对某人（摆在面前） The deepest known cave in the world is the Gouffre Berger near Grenoble. known adj.已知的、已发现的；知名的，出了名的 It extends to a depth of 3,723 feet. extend to a depth of ... 深达... This immense chasm has been formed by an underground stream which has tunneled a course through a flaw in the rocks . chasm n.深渊，峡谷 tunnel n.隧道，地道 v.开凿隧道，挖地道 The entrance to the cave is on a plateau in the Dauphine Alps. plateau n.高原 * The cave might never have been discovered had not the entrance been spotted by the distinguished French pot-holer, Berger. If + S. + did / were , S. + would / should / could / might + do 与现在的事实相反 当 were、had 做助动词时、should 放到句首即可倒装并去掉“if” 仅用于正式场合的演讲与作文中 Since its discovery, it has become a sort of potholers' Everest. a sort / kind of ... 好像是...、貌似... Since its discovery, it has become, as it were, the pot-holer's Everest. 替换 Since its discovery, it has become, so to speak, the pot-holer's Everest. Though a number of descents have been made , much of it still remains to be explored. remain to be done 有待于..",
-    "Horses are useful animals. 主谓一致",
-    "The horse is a useful animal.",
-    "A horse is a useful animal.",
-    "Studying abroad is not a task for the lazy-bones. 出国留学不是懒汉所能胜任的。",
-    "Being a good husband is not a task for the playboy. 做个好老公不是花花公子能胜任的。",
-    "Speculation in stocks requires the precise planning and foresight of a professional investor.炒股需要一个职业投资人的精密计划和远见。",
-    "be a major operation 重大的行动 For them this is a major operation which involves considerable planning .",
-    "The wound will take a long time to heal.",
-    "It takes two people to make a quarrel.",
-    "You're an idiot! —It takes one to know one !",
-    "it takes ... to do sth. 某事需要... It takes stamina to be a long-distance runner. 做一名长跑运动员需要耐力。 It takes a lot of courage to stand up to the boss. 反抗老板需要很大的勇气。 It takes a lot of patience to take care of a disabled child.照顾一名残疾儿童需要很大的耐心。",
-    "They rigged up a shelter using a sheet and some branches.",
-    "We managed to rig up a shelter for the night. 我们匆匆搭了个棚子过夜。",
-    "... before pot-holers can descend into a very deep cave. 替换为人做主语",
-    "fire / safety / security / sanitary precautions 防火/安全/保安/卫生预防措施",
-    "take precautions 采取预防措施 The government took precautions to prevent the spread of the disease.",
-    "take measures 采取措施 take effective / drastic measures 采取有效/激烈的措施",
-    "She decided to confront him about his lies. 她决定直面他对他的谎言。",
-    "He had to face his boss with the bad news. 他不得不面对老板说出坏消息。",
-    "be confronted with ... 面临 We are often confronted with difficult decisions in life. 我们在生活中常常面临艰难的决定。",
-    "be faced with ... 面临 The company is faced with financial difficulties. 公司面临财务困难。",
-    "little-known 鲜为人知的",
-    "unknown 未知的",
-    "well-known 众所周知的",
-    "The platforms extend to a depth of over 100 feet under the sea .",
-    "rise to a height of ... 高达... Above the surface of the water, the towers rise to a height of nearly 700 feet .",
-    "go down to as much as ... 深达... The cave goes down to as much as 300 meters. 这个洞穴深达300米。",
-    "stand ... high/tall 高度(有多高) The building stands 150 meters tall. 这座建筑物高达150米。",
-    "be ... high/tall 高度(有多高) The mountain is 8000 meters high. 这座山高达8000米。",
-    "be ... deep / in depth 深度(有多深) The lake is 50 meters deep. 这个湖有50米深。",
-    "be ... long / in length 长度(有多长) The river is 1000 kilometers long. 这条河有1000公里长。",
-    "be ... wide / across / in width 宽度(有多宽) The bridge is 20 meters wide. 这座桥有20米宽。",
-    "Chasmal definition is resembling a chasm. 峡谷的定义是类似于一个裂口。",
-    "It is more of a chasm than a gap. 但这显然是一个鸿沟而不是什么缺口。",
-    "So why the growing chasm? 差距为什么越来越大？",
-    "The present gap is really more of a chasm. 目前的差距越来越大了。",
-    "The tourists luxuriated in the beauties of the chasm. 游客们尽情地享受这个峡谷的美景。",
-    "The thieves tunnelled under all the security devices. 小偷们在所有的那些安全装置下面都挖了地道。",
-    "He passed down the tunnel. 他穿过隧道。",
-    "The tunnel would be well-ventilated if tall chimneys were built above sea level .",
-    "The Qinghai-Xizang Plateau has long been known as the roof of the world. 青藏高原素有世界屋脊之称。",
-    "plain n.平原 In ancient times, there were many lakes on the North China Plain. 历史时期，华北平原曾经有众多的湖泊。",
-    "basin n.盆地、流域 The Tarim basin has special geological and seismic characteristics. 塔里木盆地具有特殊的地震地质特征。",
-    "savannah n.热带和亚热带草原 The group rested on the hot savannah under the shade of the tree. 这群人就在热带草原的树荫下休息。",
-    "prairie n.（北美的）大草原 But winters on the prairie can still get pretty harsh today. 而草原上的冬天现在依旧是很严寒。",
-    "grassland n.草原；牧草地 In the distance is a stretch of grassland. 远处是连绵一片的草原。",
-    "The cave might never have been discovered 主句 had not the entrance been spotted by the distinguished French pot-holer, Berger.",
-    "条件状语从句（因为had 被提前“if”被省略了）与 过去事实相反 的虚拟",
-    "if the entrance had not been spotted by the distinguishe French pot-holer, Berger.",
-    "'Young man,' she answered, 'if you ate more and talked less, we would both enjoy our dinner!'",
-    "The tunnel would be well-ventilated if tall chimneys were built above sea level .",
-    "If + S. + had done , S. + would / should / could / might + have done 与过去事实相反 If there had not been a hard layer of rock beneath the soil, they would have completed the job in a few hours .",
-    "If + S. + should do , S.+ would / should / could / might + do 与未来趋势相反 If it should have rained , we would have stayed at home.",
-    "If + S.+ did / were to do , S.+ would / should / could / might + do 与未来趋势相反 If I were to live my life over again,I would have you as my wife.",
-    "If I were you, I would go abroad at once. → Were I you, I would go abroad at once.",
-    "If you had come here a little earlier just now, you might have met her. → Had you come here a little earlier just now, you might have met her.",
-    "If it should rain tomorrow, you could stay at home. → Should it rain tomorrow, you could stay at home.",
-    "If the sun were to rise in the west, I would lend you the money. → Were the sun to rise in the west, I would lend you the money.",
-    "We sometimes imagine a desert island to be a sort of paradise where the sun always shines .",
-    "In spite of this, the Italians regarded him as a sort of hero .",
-    "as it were 好像是 They will be able, as it were, to see and hear us in action .",
-    "so to speak 可以说、好像是 It is said that the nerve poison is the more primitive of the two, that the blood poison is, so to speak, a newer product from an improved formula .",
-    "Several problems remain to be settled.",
-    "It remains to be seen how many senior citizens will actually benefit from this new plan."
+   "parts": [
+    {
+     "text": "Exploring really deep caves is not a task for the Sunday afternoon rambler. the + 名词 类指 ...is not a task for sb. 不是某人所能胜任的 Such undertakings require the precise planning and foresight of military operations. require the precise planning and foresight of ... 需要精确的计划和远见… It can take as long as eight days to rig up rope ladders and to establish supply bases before a descent can be made into a very deep cave. take v.需要...(时间、人、事物) Anyone can be passionate, but it takes real lovers to be silly. — Rose Franken rig up to make sth. quickly out of whatever you can find 草草做成，草草搭起 make a descent = descend 下降 Precautions of this sort are necessary, for it is impossible to foretell the exact nature of the difficulties which will confront the pot-holer . This sort of precaution is necessary, ... 替换（但Precautions习惯用复数） precaution n.预防措施（常用复数） confront / face sb. 面对某人（摆在面前） The deepest known cave in the world is the Gouffre Berger near Grenoble. known adj.已知的、已发现的；知名的，出了名的 It extends to a depth of 3,723 feet. extend to a depth of ... 深达... This immense chasm has been formed by an underground stream which has tunneled a course through a flaw in the rocks . chasm n.深渊，峡谷 tunnel n.隧道，地道 v.开凿隧道，挖地道 The entrance to the cave is on a plateau in the Dauphine Alps. plateau n.高原 * The cave might never have been discovered had not the entrance been spotted by the distinguished French pot-holer, Berger. If + S. + did / were , S. + would / should / could / might + do 与现在的事实相反 当 were、had 做助动词时、should 放到句首即可倒装并去掉“if” 仅用于正式场合的演讲与作文中 Since its discovery, it has become a sort of potholers' Everest. a sort / kind of ... 好像是...、貌似... Since its discovery, it has become, as it were, the pot-holer's Everest. 替换 Since its discovery, it has become, so to speak, the pot-holer's Everest. Though a number of descents have been made , much of it still remains to be explored. remain to be done 有待于.."
+    },
+    {
+     "text": "Horses are useful animals. 主谓一致"
+    },
+    {
+     "text": "The horse is a useful animal."
+    },
+    {
+     "text": "A horse is a useful animal."
+    },
+    {
+     "text": "Studying abroad is not a task for the lazy-bones. 出国留学不是懒汉所能胜任的。"
+    },
+    {
+     "text": "Being a good husband is not a task for the playboy. 做个好老公不是花花公子能胜任的。"
+    },
+    {
+     "text": "Speculation in stocks requires the precise planning and foresight of a professional investor.炒股需要一个职业投资人的精密计划和远见。"
+    },
+    {
+     "table": {
+      "headers": [],
+      "rows": [
+       [
+        "be a major operation 重大的行动",
+        "For them this is a major operation which involves considerable planning ."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The wound will take a long time to heal."
+    },
+    {
+     "text": "It takes two people to make a quarrel."
+    },
+    {
+     "text": "You're an idiot! —It takes one to know one !"
+    },
+    {
+     "table": {
+      "headers": [
+       "it takes ... to do sth. 某事需要..."
+      ],
+      "rows": [
+       [
+        "It takes stamina to be a long-distance runner. 做一名长跑运动员需要耐力。 It takes a lot of courage to stand up to the boss. 反抗老板需要很大的勇气。 It takes a lot of patience to take care of a disabled child.照顾一名残疾儿童需要很大的耐心。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "They rigged up a shelter using a sheet and some branches."
+    },
+    {
+     "text": "We managed to rig up a shelter for the night. 我们匆匆搭了个棚子过夜。"
+    },
+    {
+     "text": "... before pot-holers can descend into a very deep cave. 替换为人做主语"
+    },
+    {
+     "text": "fire / safety / security / sanitary precautions 防火/安全/保安/卫生预防措施"
+    },
+    {
+     "table": {
+      "headers": [
+       "take precautions 采取预防措施",
+       "take measures 采取措施"
+      ],
+      "rows": [
+       [
+        "The government took precautions to prevent the spread of the disease."
+       ],
+       [
+        "take effective / drastic measures 采取有效/激烈的措施"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "She decided to confront him about his lies. 她决定直面他对他的谎言。"
+    },
+    {
+     "text": "He had to face his boss with the bad news. 他不得不面对老板说出坏消息。"
+    },
+    {
+     "table": {
+      "headers": [
+       "be confronted with ... 面临",
+       "be faced with ... 面临"
+      ],
+      "rows": [
+       [
+        "We are often confronted with difficult decisions in life. 我们在生活中常常面临艰难的决定。"
+       ],
+       [
+        "The company is faced with financial difficulties. 公司面临财务困难。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "little-known 鲜为人知的"
+    },
+    {
+     "text": "unknown 未知的"
+    },
+    {
+     "text": "well-known 众所周知的"
+    },
+    {
+     "text": "The platforms extend to a depth of over 100 feet under the sea ."
+    },
+    {
+     "table": {
+      "headers": [
+       "rise to a height of ... 高达...",
+       "go down to as much as ... 深达...",
+       "stand ... high/tall 高度(有多高)",
+       "be ... high/tall 高度(有多高)",
+       "be ... deep / in depth 深度(有多深)",
+       "be ... long / in length 长度(有多长)",
+       "be ... wide / across / in width 宽度(有多宽)"
+      ],
+      "rows": [
+       [
+        "Above the surface of the water, the towers rise to a height of nearly 700 feet ."
+       ],
+       [
+        "The cave goes down to as much as 300 meters. 这个洞穴深达300米。"
+       ],
+       [
+        "The building stands 150 meters tall. 这座建筑物高达150米。"
+       ],
+       [
+        "The mountain is 8000 meters high. 这座山高达8000米。"
+       ],
+       [
+        "The lake is 50 meters deep. 这个湖有50米深。"
+       ],
+       [
+        "The river is 1000 kilometers long. 这条河有1000公里长。"
+       ],
+       [
+        "The bridge is 20 meters wide. 这座桥有20米宽。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Chasmal definition is resembling a chasm. 峡谷的定义是类似于一个裂口。"
+    },
+    {
+     "text": "It is more of a chasm than a gap. 但这显然是一个鸿沟而不是什么缺口。"
+    },
+    {
+     "text": "So why the growing chasm? 差距为什么越来越大？"
+    },
+    {
+     "text": "The present gap is really more of a chasm. 目前的差距越来越大了。"
+    },
+    {
+     "text": "The tourists luxuriated in the beauties of the chasm. 游客们尽情地享受这个峡谷的美景。"
+    },
+    {
+     "text": "The thieves tunnelled under all the security devices. 小偷们在所有的那些安全装置下面都挖了地道。"
+    },
+    {
+     "text": "He passed down the tunnel. 他穿过隧道。"
+    },
+    {
+     "text": "The tunnel would be well-ventilated if tall chimneys were built above sea level ."
+    },
+    {
+     "text": "The Qinghai-Xizang Plateau has long been known as the roof of the world. 青藏高原素有世界屋脊之称。"
+    },
+    {
+     "table": {
+      "headers": [
+       "plain n.平原",
+       "basin n.盆地、流域",
+       "savannah n.热带和亚热带草原",
+       "prairie n.（北美的）大草原",
+       "grassland n.草原；牧草地"
+      ],
+      "rows": [
+       [
+        "In ancient times, there were many lakes on the North China Plain. 历史时期，华北平原曾经有众多的湖泊。"
+       ],
+       [
+        "The Tarim basin has special geological and seismic characteristics. 塔里木盆地具有特殊的地震地质特征。"
+       ],
+       [
+        "The group rested on the hot savannah under the shade of the tree. 这群人就在热带草原的树荫下休息。"
+       ],
+       [
+        "But winters on the prairie can still get pretty harsh today. 而草原上的冬天现在依旧是很严寒。"
+       ],
+       [
+        "In the distance is a stretch of grassland. 远处是连绵一片的草原。"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [],
+      "rows": [
+       [
+        "The cave might never have been discovered 主句",
+        "had not the entrance been spotted by the distinguished French pot-holer, Berger."
+       ],
+       [
+        "条件状语从句（因为had 被提前“if”被省略了）与 过去事实相反 的虚拟"
+       ],
+       [
+        "if the entrance had not been spotted by the distinguishe French pot-holer, Berger."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "'Young man,' she answered, 'if you ate more and talked less, we would both enjoy our dinner!'"
+    },
+    {
+     "text": "The tunnel would be well-ventilated if tall chimneys were built above sea level ."
+    },
+    {
+     "table": {
+      "headers": [
+       "If + S. + had done , S. + would / should / could / might + have done 与过去事实相反",
+       "If + S. + should do , S.+ would / should / could / might + do 与未来趋势相反",
+       "If + S.+ did / were to do , S.+ would / should / could / might + do 与未来趋势相反"
+      ],
+      "rows": [
+       [
+        "If there had not been a hard layer of rock beneath the soil, they would have completed the job in a few hours ."
+       ],
+       [
+        "If it should have rained , we would have stayed at home."
+       ],
+       [
+        "If I were to live my life over again,I would have you as my wife."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "If I were you, I would go abroad at once. → Were I you, I would go abroad at once."
+    },
+    {
+     "text": "If you had come here a little earlier just now, you might have met her. → Had you come here a little earlier just now, you might have met her."
+    },
+    {
+     "text": "If it should rain tomorrow, you could stay at home. → Should it rain tomorrow, you could stay at home."
+    },
+    {
+     "text": "If the sun were to rise in the west, I would lend you the money. → Were the sun to rise in the west, I would lend you the money."
+    },
+    {
+     "text": "We sometimes imagine a desert island to be a sort of paradise where the sun always shines ."
+    },
+    {
+     "text": "In spite of this, the Italians regarded him as a sort of hero ."
+    },
+    {
+     "table": {
+      "headers": [
+       "as it were 好像是",
+       "so to speak 可以说、好像是"
+      ],
+      "rows": [
+       [
+        "They will be able, as it were, to see and hear us in action ."
+       ],
+       [
+        "It is said that the nerve poison is the more primitive of the two, that the blood poison is, so to speak, a newer product from an improved formula ."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Several problems remain to be settled."
+    },
+    {
+     "text": "It remains to be seen how many senior citizens will actually benefit from this new plan."
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "探索洞穴的过程",
-   "lines": [
-    "A team of pot-holers recently went down the Gouffre Berger. A team of 一支团队 After entering the narrow gap on the plateau, they climbed down the steep sides of the cave until they came to narrow corridor. narrow adj. 狭窄的，狭小的 They had to edge their way along this, sometimes wading across shallow streams, or swimming across deep pools. edge one's way 侧着身子走 动词 + one's way Suddenly they came to a waterfall which dropped into an underground lake at the bottom of the cave . Suddenly they came to a waterfall and the waterfall dropped into an underground lake at the bottom of the cave. 翻译、理解时按“啰嗦”的并列处理 They plunged into the lake, and after loading their gear on an inflatable rubber dinghy , let the current carry them to the other side. plunge into ... “扑通”一声纵身跃入水中 To protect themselves from the icy water, they had to wear special rubber suits. To navigate through the dense jungle, they had to rely on machetes to clear a path. 为了在茂密的丛林中穿行，他们不得不依靠砍刀开路。 At the far end of the lake, they came to huge piles of rubble which had been washed up by the water . rubble n.瓦砾，碎石(不可数) washed up 被冲上岸 In this part of the cave , they could hear an insistent booming sound which they found was caused by a small waterspout shooting down into a pool from the roof of the cave. 双重定语从句 （嵌入式定语从句） Squeezing through a cleft in the rocks, the pot-holers arrived at an enormous cavern, the size of a huge concert hall. the size of 相当于…的面积 After switching on powerful arc lights, they saw great stalagmites — some of them over forty feet high — rising up like tree-trunks to meet the stalactites suspended from the roof. ... — some of them being over forty feet high — ... 造句：After switching on the light, I saw sparkling diamonds —some of them as big as marbles— contained in a small black box.在打开灯之后，我看到在一个小 黑盒子里面装着闪闪发光的钻石，其中有些有玻璃球那么大。 Round about, piles of limestone glistened in all the colours of the rainbow. glisten in 闪耀在...里 In the eerie silence of the cavern, the only sound that could be heard was made by water which dripped continuously from the high dome above them . 造句：In the eerie silence of the house, the only sound that could be heard was made by wind which blew continuously from a broken window .在这栋房子可怕的寂静中，唯一 能听到的声音就是从一扇打碎的窗子不断吹进的风声。",
-    "It was the last day of the year and a large crowd of people had gathered under the Town Hall clock .",
-    "Now a group of enthusiasts are going to have the plane restored .",
-    "Armed with the new machine, a search party went into the cave hoping to find buried treasure .",
-    "the narrow gap 狭窄的缝隙",
-    "the narrow corridor 狭窄的通道、走廊",
-    "The curriculum was too narrow and too rigid. 课程设置过于狭窄和死板。",
-    "He edged his way through the crowded room. 他小心翼翼地挤过拥挤的房间。",
-    "squeeze one's way 挤过去 She had to squeeze her way through the crowded hallway.她不得不挤过拥挤的走廊。",
-    "squeeze through ... Squeezing through a cleft in the rocks, the pot-holers arrived at an enormous cavern, the size of a huge concert hall.",
-    "squeeze in ... We can squeeze in one more chair at the table. 我们可以在桌子旁再挤一把椅子。",
-    "squeeze past ... She squeezed past the people blocking the exit. 她挤过挡在出口的人群。",
-    "squeeze by ... I had to squeeze by the boxes to get to the door. 我不得不挤过这些箱子才能到门口。",
-    "make one's way 前进，前行 The hospital had been bombed and Hans had made his way back into Western Germany on foot .",
-    "find one's way (人)找到...路、(物)到达某地 Very few of the fifty pence pieces and pound coins I have given him have found their way there . They had mysteriously found their way there from the wine cellar !",
-    "trace one's way 沿着...路（找到路） We expected the path to end abruptly, but we found that it traced its way through the trees .",
-    "weave one's way 迂回前进（穿行） The cyclist weaved his way through the heavy traffic.骑自行车的人在繁忙的交通中穿行。",
-    "wind one's way 蜿蜒 The river winds its way through the valley.这条河蜿蜒穿过山谷。",
-    "force one's way 强行挤过 He forced his way through the crowd to get to the front. 他强行挤过人群到前面。",
-    "elbow one's way 用胳膊肘挤过 She elbowed her way to the front of the line. 她用胳膊肘挤到队伍的前面。",
-    "Feel one's way 摸索着前进 She felt her way through the dark room. 小心翼翼地摸索着前进。",
-    "Lost one's way 迷路 He lost his way while hiking in the dense forest. 在茂密的森林中迷了路。",
-    "tunnel one's way 拼命挤着前进 He tunneled his way through the crowded market. 她费力地在人群中穿行。",
-    "The order to abandon ship was given and hundreds of people plunged into the icy water .",
-    "Brick rubble is useful as the base for paths and patios. 碎砖可用作道路和天井的基石。",
-    "The bomb reduced the houses to rubble. 炸弹把那片房子炸成了一堆瓦砾。",
-    "Thousands of herring and crab are washed up on the beaches during every storm. 成千上万的鲱鱼和螃蟹每逢暴风雨都会被冲上岸。",
-    "She has an adopted son who she says is an orphan. 她有一个养子，这个养子据她讲是个孤儿。",
-    "Aleko suddenly acquired a new lamb which he claimed was bought. Aleko突然得到了一只新的羊羔，这只羊羔他声称是买来的。",
-    "嵌入定语从句 影响句子的意思 插入语 去掉后不影响句子的意思",
-    "He's just published an article which I don't think is interesting at all. He's just published an article ,I don't think, is interesting at all.",
-    "I met a man whom I thought was a lunatic. I met a man ,I thought, was a lunatic.",
-    "The new planet is about ten times the size of the earth. 这个新发现的行星大约是地球大小的10倍。",
-    "The largest asteroid is Ceres, which is about a quarter the size of the moon. 最大的小行星是谷神星，其体积大约是月球的四分之一。",
-    "switch on ⇔ sth. 打开 switch off ⇔ sth. 关掉",
-    "He switched on the lights when it got dark. 当天黑时，他打开了灯。 Don't forget to switch off the stove after cooking. 煮饭后别忘了关闭炉子。",
-    "Dewdrops glisten in the morning sun.露珠在晨光下闪闪发光。"
+   "parts": [
+    {
+     "text": "A team of pot-holers recently went down the Gouffre Berger. A team of 一支团队 After entering the narrow gap on the plateau, they climbed down the steep sides of the cave until they came to narrow corridor. narrow adj. 狭窄的，狭小的 They had to edge their way along this, sometimes wading across shallow streams, or swimming across deep pools. edge one's way 侧着身子走 动词 + one's way Suddenly they came to a waterfall which dropped into an underground lake at the bottom of the cave . Suddenly they came to a waterfall and the waterfall dropped into an underground lake at the bottom of the cave. 翻译、理解时按“啰嗦”的并列处理 They plunged into the lake, and after loading their gear on an inflatable rubber dinghy , let the current carry them to the other side. plunge into ... “扑通”一声纵身跃入水中 To protect themselves from the icy water, they had to wear special rubber suits. To navigate through the dense jungle, they had to rely on machetes to clear a path. 为了在茂密的丛林中穿行，他们不得不依靠砍刀开路。 At the far end of the lake, they came to huge piles of rubble which had been washed up by the water . rubble n.瓦砾，碎石(不可数) washed up 被冲上岸 In this part of the cave , they could hear an insistent booming sound which they found was caused by a small waterspout shooting down into a pool from the roof of the cave. 双重定语从句 （嵌入式定语从句） Squeezing through a cleft in the rocks, the pot-holers arrived at an enormous cavern, the size of a huge concert hall. the size of 相当于…的面积 After switching on powerful arc lights, they saw great stalagmites — some of them over forty feet high — rising up like tree-trunks to meet the stalactites suspended from the roof. ... — some of them being over forty feet high — ... 造句：After switching on the light, I saw sparkling diamonds —some of them as big as marbles— contained in a small black box.在打开灯之后，我看到在一个小 黑盒子里面装着闪闪发光的钻石，其中有些有玻璃球那么大。 Round about, piles of limestone glistened in all the colours of the rainbow. glisten in 闪耀在...里 In the eerie silence of the cavern, the only sound that could be heard was made by water which dripped continuously from the high dome above them . 造句：In the eerie silence of the house, the only sound that could be heard was made by wind which blew continuously from a broken window .在这栋房子可怕的寂静中，唯一 能听到的声音就是从一扇打碎的窗子不断吹进的风声。"
+    },
+    {
+     "text": "It was the last day of the year and a large crowd of people had gathered under the Town Hall clock ."
+    },
+    {
+     "text": "Now a group of enthusiasts are going to have the plane restored ."
+    },
+    {
+     "text": "Armed with the new machine, a search party went into the cave hoping to find buried treasure ."
+    },
+    {
+     "text": "the narrow gap 狭窄的缝隙"
+    },
+    {
+     "text": "the narrow corridor 狭窄的通道、走廊"
+    },
+    {
+     "text": "The curriculum was too narrow and too rigid. 课程设置过于狭窄和死板。"
+    },
+    {
+     "text": "He edged his way through the crowded room. 他小心翼翼地挤过拥挤的房间。"
+    },
+    {
+     "table": {
+      "headers": [],
+      "rows": [
+       [
+        "squeeze one's way 挤过去",
+        "She had to squeeze her way through the crowded hallway.她不得不挤过拥挤的走廊。"
+       ],
+       [
+        "squeeze through ...",
+        "Squeezing through a cleft in the rocks, the pot-holers arrived at an enormous cavern, the size of a huge concert hall."
+       ],
+       [
+        "squeeze in ...",
+        "We can squeeze in one more chair at the table. 我们可以在桌子旁再挤一把椅子。"
+       ],
+       [
+        "squeeze past ...",
+        "She squeezed past the people blocking the exit. 她挤过挡在出口的人群。"
+       ],
+       [
+        "squeeze by ...",
+        "I had to squeeze by the boxes to get to the door. 我不得不挤过这些箱子才能到门口。"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "make one's way 前进，前行",
+       "find one's way (人)找到...路、(物)到达某地",
+       "trace one's way 沿着...路（找到路）",
+       "weave one's way 迂回前进（穿行）",
+       "wind one's way 蜿蜒",
+       "force one's way 强行挤过",
+       "elbow one's way 用胳膊肘挤过",
+       "Feel one's way 摸索着前进",
+       "Lost one's way 迷路",
+       "tunnel one's way 拼命挤着前进"
+      ],
+      "rows": [
+       [
+        "The hospital had been bombed and Hans had made his way back into Western Germany on foot ."
+       ],
+       [
+        "Very few of the fifty pence pieces and pound coins I have given him have found their way there . They had mysteriously found their way there from the wine cellar !"
+       ],
+       [
+        "We expected the path to end abruptly, but we found that it traced its way through the trees ."
+       ],
+       [
+        "The cyclist weaved his way through the heavy traffic.骑自行车的人在繁忙的交通中穿行。"
+       ],
+       [
+        "The river winds its way through the valley.这条河蜿蜒穿过山谷。"
+       ],
+       [
+        "He forced his way through the crowd to get to the front. 他强行挤过人群到前面。"
+       ],
+       [
+        "She elbowed her way to the front of the line. 她用胳膊肘挤到队伍的前面。"
+       ],
+       [
+        "She felt her way through the dark room. 小心翼翼地摸索着前进。"
+       ],
+       [
+        "He lost his way while hiking in the dense forest. 在茂密的森林中迷了路。"
+       ],
+       [
+        "He tunneled his way through the crowded market. 她费力地在人群中穿行。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The order to abandon ship was given and hundreds of people plunged into the icy water ."
+    },
+    {
+     "text": "Brick rubble is useful as the base for paths and patios. 碎砖可用作道路和天井的基石。"
+    },
+    {
+     "text": "The bomb reduced the houses to rubble. 炸弹把那片房子炸成了一堆瓦砾。"
+    },
+    {
+     "text": "Thousands of herring and crab are washed up on the beaches during every storm. 成千上万的鲱鱼和螃蟹每逢暴风雨都会被冲上岸。"
+    },
+    {
+     "text": "She has an adopted son who she says is an orphan. 她有一个养子，这个养子据她讲是个孤儿。"
+    },
+    {
+     "text": "Aleko suddenly acquired a new lamb which he claimed was bought. Aleko突然得到了一只新的羊羔，这只羊羔他声称是买来的。"
+    },
+    {
+     "table": {
+      "headers": [
+       "嵌入定语从句 影响句子的意思",
+       "插入语 去掉后不影响句子的意思"
+      ],
+      "rows": [
+       [
+        "He's just published an article which I don't think is interesting at all.",
+        "He's just published an article ,I don't think, is interesting at all."
+       ],
+       [
+        "I met a man whom I thought was a lunatic.",
+        "I met a man ,I thought, was a lunatic."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The new planet is about ten times the size of the earth. 这个新发现的行星大约是地球大小的10倍。"
+    },
+    {
+     "text": "The largest asteroid is Ceres, which is about a quarter the size of the moon. 最大的小行星是谷神星，其体积大约是月球的四分之一。"
+    },
+    {
+     "table": {
+      "headers": [
+       "switch on ⇔ sth. 打开",
+       "switch off ⇔ sth. 关掉"
+      ],
+      "rows": [
+       [
+        "He switched on the lights when it got dark. 当天黑时，他打开了灯。",
+        "Don't forget to switch off the stove after cooking. 煮饭后别忘了关闭炉子。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Dewdrops glisten in the morning sun.露珠在晨光下闪闪发光。"
+    }
    ]
   }
  ]

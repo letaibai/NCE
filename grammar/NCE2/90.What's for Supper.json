@@ -2,33 +2,117 @@
  "grammar": [
   {
    "title": "后置定语做修饰",
-   "lines": [
-    "a favourite dish in Britain 英国一道受欢迎的菜肴 Fish and chips has always been a favourite dish in Britain. 炸鱼薯条一直是英国一道受欢迎的菜肴。",
-    "the divers on North Sea oil rigs 北海石油钻井平台上的潜水员 So it comes as a surprise to learn that giant fish are terrifying the divers on North Sea oil rigs. 所以，得知巨型鱼正在恐吓北海石油钻井平台上的潜水员时，这令人感到惊讶。",
-    "special cages made to protect them from these monsters 用来保护他们免受这些怪物侵害的特殊笼子 Now they have had special cages made to protect them from these monsters. 现在他们已经制造了特殊笼子来保护他们免受这些怪物的侵害。",
-    "favourite eating varieties like cod and skate 像鳕鱼和鳐鱼一样受欢迎的各类鱼类 The fish are not sharks or killer whales, but favourite eating varieties like cod and skate .... 这些鱼不是鲨鱼或虎鲸，而是鳕鱼和鳐鱼等受欢迎的食用鱼类...",
-    "the warm water round the hot oil pipes under the sea 海底热油管道周围的温水 Three factors have caused these fish to grow so large: the warm water round the hot oil pipes under the sea. 有三个因素导致这些鱼长得如此之大：海底热油管道周围的温水。",
-    "the plentiful supply of food thrown overboard by the crews on the rigs 钻井平台上的船员扔到海里的充足食物 Three factors have caused these fish to grow so large: the warm water round the hot oil pipes under the sea; the plentiful supply of food thrown overboard by the crews on the rigs. 有三个因素导致这些鱼长得如此之大：海底热油管道周围的温水；钻井平台上的船员扔到海里的充足食物。",
-    "the total absence of fishing boats around the oil rigs 石油钻井平台周围完全没有渔船 Three factors have caused these fish to grow so large: the warm water round the hot oil pipes under the sea; the plentiful supply of food thrown overboard by the crews on the rigs; the total absence of fishing boats around the oil rigs. 有三个因素导致这些鱼长得如此之大：海底热油管道周围的温水；钻井平台上的船员扔到海里的充足食物；石油钻井平台周围完全没有渔船。"
+   "parts": [
+    {
+     "table": {
+      "headers": [
+       "a favourite dish in Britain 英国一道受欢迎的菜肴",
+       "the divers on North Sea oil rigs 北海石油钻井平台上的潜水员",
+       "special cages made to protect them from these monsters 用来保护他们免受这些怪物侵害的特殊笼子",
+       "favourite eating varieties like cod and skate 像鳕鱼和鳐鱼一样受欢迎的各类鱼类",
+       "the warm water round the hot oil pipes under the sea 海底热油管道周围的温水",
+       "the plentiful supply of food thrown overboard by the crews on the rigs 钻井平台上的船员扔到海里的充足食物",
+       "the total absence of fishing boats around the oil rigs 石油钻井平台周围完全没有渔船"
+      ],
+      "rows": [
+       [
+        "Fish and chips has always been a favourite dish in Britain. 炸鱼薯条一直是英国一道受欢迎的菜肴。"
+       ],
+       [
+        "So it comes as a surprise to learn that giant fish are terrifying the divers on North Sea oil rigs. 所以，得知巨型鱼正在恐吓北海石油钻井平台上的潜水员时，这令人感到惊讶。"
+       ],
+       [
+        "Now they have had special cages made to protect them from these monsters. 现在他们已经制造了特殊笼子来保护他们免受这些怪物的侵害。"
+       ],
+       [
+        "The fish are not sharks or killer whales, but favourite eating varieties like cod and skate .... 这些鱼不是鲨鱼或虎鲸，而是鳕鱼和鳐鱼等受欢迎的食用鱼类..."
+       ],
+       [
+        "Three factors have caused these fish to grow so large: the warm water round the hot oil pipes under the sea. 有三个因素导致这些鱼长得如此之大：海底热油管道周围的温水。"
+       ],
+       [
+        "Three factors have caused these fish to grow so large: the warm water round the hot oil pipes under the sea; the plentiful supply of food thrown overboard by the crews on the rigs. 有三个因素导致这些鱼长得如此之大：海底热油管道周围的温水；钻井平台上的船员扔到海里的充足食物。"
+       ],
+       [
+        "Three factors have caused these fish to grow so large: the warm water round the hot oil pipes under the sea; the plentiful supply of food thrown overboard by the crews on the rigs; the total absence of fishing boats around the oil rigs. 有三个因素导致这些鱼长得如此之大：海底热油管道周围的温水；钻井平台上的船员扔到海里的充足食物；石油钻井平台周围完全没有渔船。"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "主语的变化（哪些可以做主语）",
-   "lines": [
-    "英语考试中最重要的一点就是灵活多变，认清现象看本质即可！ 复合名词看成一个整体 不仅有固定的词序，且后面的谓语动词通常要用单数形式",
-    "名词、代词 I、Mr.wang I had a very good seat. §",
-    "doing 动名词 Fishing(常放句首) Fishing is my favourite sport. §",
-    "to do 不定式 to repair It was his job to repair bicycles. §",
-    "从句 主语从句 It was obvious that he was very embarrassed . § It is said that if anyone touches the tree, he will have bad luck; if he picks a leaf, he will die . §",
-    "多个并列 A,B,C and E A , B or C A young man and a young woman were sitting behind me. 被看作整体的、用 and 连接的两个名词,当主语是 and 连接的两个名词时，谓语通常用复数形式 A quiet day's fishing, or eight hours in a cinema seeing the same film over and over again, is usually as far as they get .",
-    "bacon and eggs（咸肉和鸡蛋） Bacon and eggs are / is a classic breakfast combination.",
-    "bread and butter（面包和黄油） Bread and butter are / is essential ingredients for making sandwiches.",
-    "cheese and wine（奶酪和葡萄酒） Cheese and wine make (s) for a delightful pairing at dinner parties. 如果把两个名词看成是分开的东西，动词就要用复数",
-    "fish and chips（鱼和油炸土豆片） Fish and chips is a popular dish/meal in British cuisine. 通常被作为单数看待的有一道菜和一套东西",
-    "a knife and fork（一副刀叉） A knife and fork are / is necessary utensils for eating steak.",
-    "sausage(s) and mash（香肠和土豆泥） Sausage and mash is a comforting meal on a cold evening."
+   "parts": [
+    {
+     "text": "英语考试中最重要的一点就是灵活多变，认清现象看本质即可！ 复合名词看成一个整体 不仅有固定的词序，且后面的谓语动词通常要用单数形式"
+    },
+    {
+     "table": {
+      "headers": [
+       "名词、代词",
+       "doing 动名词",
+       "to do 不定式",
+       "从句",
+       "多个并列"
+      ],
+      "rows": [
+       [
+        "I、Mr.wang",
+        "I had a very good seat. §"
+       ],
+       [
+        "Fishing(常放句首)",
+        "Fishing is my favourite sport. §"
+       ],
+       [
+        "to repair",
+        "It was his job to repair bicycles. §"
+       ],
+       [
+        "主语从句",
+        "It was obvious that he was very embarrassed . § It is said that if anyone touches the tree, he will have bad luck; if he picks a leaf, he will die . §"
+       ],
+       [
+        "A,B,C and E A , B or C",
+        "A young man and a young woman were sitting behind me. 被看作整体的、用 and 连接的两个名词,当主语是 and 连接的两个名词时，谓语通常用复数形式 A quiet day's fishing, or eight hours in a cinema seeing the same film over and over again, is usually as far as they get ."
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [],
+      "rows": [
+       [
+        "bacon and eggs（咸肉和鸡蛋）",
+        "Bacon and eggs are / is a classic breakfast combination."
+       ],
+       [
+        "bread and butter（面包和黄油）",
+        "Bread and butter are / is essential ingredients for making sandwiches."
+       ],
+       [
+        "cheese and wine（奶酪和葡萄酒）",
+        "Cheese and wine make (s) for a delightful pairing at dinner parties. 如果把两个名词看成是分开的东西，动词就要用复数"
+       ],
+       [
+        "fish and chips（鱼和油炸土豆片）",
+        "Fish and chips is a popular dish/meal in British cuisine. 通常被作为单数看待的有一道菜和一套东西"
+       ],
+       [
+        "a knife and fork（一副刀叉）",
+        "A knife and fork are / is necessary utensils for eating steak."
+       ],
+       [
+        "sausage(s) and mash（香肠和土豆泥）",
+        "Sausage and mash is a comforting meal on a cold evening."
+       ]
+      ]
+     }
+    }
    ]
   }
  ]

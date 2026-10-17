@@ -1099,6 +1099,35 @@ body.blur-translation .lyric-line:hover .lyric-text {
   line-height: 1.6;
 }
 
+.grammar-table-wrap {
+  overflow-x: auto;
+  margin: 8px 0;
+}
+
+.grammar-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 12.5px;
+}
+
+.grammar-table th,
+.grammar-table td {
+  border: 1px solid var(--border);
+  padding: 5px 8px;
+  text-align: left;
+  color: var(--ink-1);
+  white-space: nowrap;
+}
+
+.grammar-table th {
+  background: var(--paper-2, var(--paper-3));
+  font-weight: 700;
+}
+
+.grammar-table tbody tr:nth-child(even) {
+  background: var(--paper-2, rgba(0, 0, 0, 0.02));
+}
+
 .grammar-exercise {
   padding: 10px 12px;
   border: 1px solid var(--border);

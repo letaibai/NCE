@@ -2,16 +2,62 @@
  "grammar": [
   {
    "title": "复习表示将来的各种时态",
-   "lines": [
-    "时态 结构 用法",
-    "一般将来时 will do / be going to 现在(is/am/are)有可能发生的将来",
-    "现在进行时 am/is/are doing 确定要发生的将来 通常搭配位置移动的动词：(往往是不久的将来）。",
-    "将来进行时 will be doing 将来某时正在进行、所以表将来确定要发生。",
-    "一般现在时 do / does 时间状语从句与条件状语从句使用一般现在时表将来。通过时间表、计划表表确定要发生的将来。",
-    "时间状语从句表示将来 在 after，as soon as，before，by the time，the moment，till，until 和 when 等后面通常不用一般将来时而用一般现在时；不用将来完成时而用现在完成时",
-    "一般现在时、现在完成时常常可以互换 The Thompsons will move to a new flat when their baby is / has been born. I’ll make it before he comes .",
-    "条件状语从句（主将从现） If he gets the job, he ’ll be going abroad. I ’ll give her a meal if she ’s hungry.",
-    "行程安排有关 “将到达，将离去” 如：arrive，come，go，leave 等"
+   "parts": [
+    {
+     "table": {
+      "headers": [
+       "时态",
+       "结构",
+       "用法"
+      ],
+      "rows": [
+       [
+        "一般将来时",
+        "will do / be going to",
+        "现在(is/am/are)有可能发生的将来"
+       ],
+       [
+        "现在进行时",
+        "am/is/are doing",
+        "确定要发生的将来",
+        "通常搭配位置移动的动词：(往往是不久的将来）。"
+       ],
+       [
+        "将来进行时",
+        "will be doing",
+        "将来某时正在进行、所以表将来确定要发生。"
+       ],
+       [
+        "一般现在时",
+        "do / does",
+        "时间状语从句与条件状语从句使用一般现在时表将来。通过时间表、计划表表确定要发生的将来。"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [],
+      "rows": [
+       [
+        "时间状语从句表示将来",
+        "在 after，as soon as，before，by the time，the moment，till，until 和 when 等后面通常不用一般将来时而用一般现在时；不用将来完成时而用现在完成时"
+       ],
+       [
+        "一般现在时、现在完成时常常可以互换",
+        "The Thompsons will move to a new flat when their baby is / has been born. I’ll make it before he comes ."
+       ],
+       [
+        "条件状语从句（主将从现）",
+        "If he gets the job, he ’ll be going abroad. I ’ll give her a meal if she ’s hungry."
+       ],
+       [
+        "行程安排有关 “将到达，将离去”",
+        "如：arrive，come，go，leave 等"
+       ]
+      ]
+     }
+    }
    ]
   }
  ]

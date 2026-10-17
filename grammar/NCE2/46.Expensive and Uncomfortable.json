@@ -2,124 +2,478 @@
  "grammar": [
   {
    "title": "同位语从句",
-   "lines": [
-    "含义 一个句子做同位语去解释说明前面的名词。 位置 所解释的抽象名词后(fact, news, theory, idea, suggestion, report ...)。 写法 同 宾语从句 ，这是因为 宾语从句 、 表语从句 、 主语从句 、 同位语从句 的结构同属于名词性从句。同位语从句通常使用that去引导，that不做成分也 不可以 省略。",
-    "I have no doubt that he will help me .我毫不怀疑他将会帮我的忙。",
-    "We support the argument that the problems of school buses must be taken seriously .我们支持这种观点 ，校车问题必须被严肃对待。",
-    "We discuss the question whether the meeting should be held . 我们讨论了是否这个会议应该举行的这个问题。",
-    "The plan that a new subway station will be built here is welcomed.一个新的地铁站将会建在这里，这个计划受欢迎。",
-    "原型 过去式 过去分词 现在分词",
-    "occur occurred occurred occurring",
-    "admit admitted admitted admitting",
-    "hide hid hidden hiding",
-    "shake shook shaken shaking"
+   "parts": [
+    {
+     "text": "含义 一个句子做同位语去解释说明前面的名词。 位置 所解释的抽象名词后(fact, news, theory, idea, suggestion, report ...)。 写法 同 宾语从句 ，这是因为 宾语从句 、 表语从句 、 主语从句 、 同位语从句 的结构同属于名词性从句。同位语从句通常使用that去引导，that不做成分也 不可以 省略。"
+    },
+    {
+     "text": "I have no doubt that he will help me .我毫不怀疑他将会帮我的忙。"
+    },
+    {
+     "text": "We support the argument that the problems of school buses must be taken seriously .我们支持这种观点 ，校车问题必须被严肃对待。"
+    },
+    {
+     "text": "We discuss the question whether the meeting should be held . 我们讨论了是否这个会议应该举行的这个问题。"
+    },
+    {
+     "text": "The plan that a new subway station will be built here is welcomed.一个新的地铁站将会建在这里，这个计划受欢迎。"
+    },
+    {
+     "table": {
+      "headers": [
+       "原型",
+       "过去式",
+       "过去分词",
+       "现在分词"
+      ],
+      "rows": [
+       [
+        "occur",
+        "occurred",
+        "occurred",
+        "occurring"
+       ],
+       [
+        "admit",
+        "admitted",
+        "admitted",
+        "admitting"
+       ],
+       [
+        "hide",
+        "hid",
+        "hidden",
+        "hiding"
+       ],
+       [
+        "shake",
+        "shook",
+        "shaken",
+        "shaking"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "动词与介词搭配的词组",
-   "lines": [
-    "后面可接with的动词 后面可接for的动词 后面可接at的动词 at 通常用于表达感情的一些词之后，并且这些词往往用被动语态，at 用于其它动词之后一般为主动语态。 后面可接to的动词",
-    "I’m pleased with this room.",
-    "Sam used to mix with those people. 萨姆过去常与那些人交往。",
-    "We’ll begin with the exercises. 我们从练习开始。",
-    "词组 例句",
-    "Communicate with 与...联系，沟通 He communicates with his colleagues via email.（他通过电子邮件与同事联系。）",
-    "Compare with 与...比较 Let's compare this car with the one next to it.（我们来比较一下这辆车与旁边的那辆。）",
-    "Compete with 与...竞争 She competed with athletes from around the world.（她与来自世界各地的运动员竞争。）",
-    "Correspond with 与...一致 His story doesn't correspond with the facts.（他的说法与事实不一致。）",
-    "Contrast with 与...对比 The warm weather in Miami contrasts with the cold in Alaska.（迈阿密的温暖气候与阿拉斯加的寒冷形成对比。）",
-    "Quarrel with/about 与...争吵 She tends to quarrel with her brother over small things.（她倾向于因小事与她弟弟争吵。）",
-    "Mix with 与...混合 You can mix the red and blue colors to create purple.（你可以混合红色和蓝色来制造紫色。）",
-    "Confuse with 与...混淆 Some people confuse the twins because they look so alike.（一些人因为他们长得太像而把这对双胞胎搞混。）",
-    "Agree/Comply with 同意/服从 He agreed with the new company policy.（他同意了新公司政策。）",
-    "Begin/Finish with 开始/结束 We'll begin with an introduction and finish with a conclusion.（我们将从介绍开始，然后以总结结束。）",
-    "Cope with 处理 She had to cope with the stress of her demanding job.（她不得不应对她繁重工作的压力。）",
-    "Begin with 以…开始 The book begins with an introduction.（这本书以介绍开始。）",
-    "Comply with 同意 All employees must comply with company policies.（所有员工必须遵守公司政策。）",
-    "Disgust(ed) with 使…讨厌 She was disgusted with the dirty restroom.（她对脏乱的洗手间感到讨厌。）",
-    "Finish with 完成 He finished with the project ahead of schedule.（他提前完成了这个项目。）",
-    "Help with/in 帮助 Can you help with the cooking?（你可以帮忙做饭吗？）",
-    "Interfere with/in 干扰 The noise from the construction site interfered with my work.（建筑工地的噪音干扰了我的工作。）",
-    "Occupy(ied) with 从事于 He is occupied with his research project.（他正忙于他的研究项目。）",
-    "Part with 放弃 It's hard to part with sentimental belongings.（很难放弃有情感纪念意义的物品。）",
-    "Please(d) with 对…满意 The customer was pleased with the service.（顾客对服务感到满意。）",
-    "Reason with 规劝 I tried to reason with him, but he wouldn't listen.（我试图劝说他，但他不肯听。）",
-    "Satisfy (fied) with/by 感到满足 She was satisfied with her exam results.（她对自己的考试成绩感到满意。）",
-    "Threaten (ed) with 威胁 He threatened her with legal action.（他以法律诉讼来威胁她。）",
-    "He was searched for the stolen money.",
-    "Can you account for his strange behavious?",
-    "短语 例句",
-    "Account for说明(原因) Can you account for his strange behavior?（你能解释一下他奇怪的行为吗？）",
-    "Ask for/of 请求 She asked for a raise in her salary.（她请求加薪。）",
-    "Act for/on 代表 He acts for the company in legal matters.（他在法律事务上代表公司。）",
-    "Apologize for 因…而道歉 He apologized for being late to the meeting.（他为迟到会议而道歉。）",
-    "Blame for 责备 They blamed him for the project's failure.（他们责备他导致项目失败。）",
-    "Beg for 乞求 She begged for forgiveness.（她恳求原谅。）",
-    "Call for 需要 This situation calls for immediate action.（这种情况需要立即采取行动。）",
-    "Charge for 收费 They charged me $20 for the repair.（他们为维修收了我20美元。）",
-    "Exchange for 交换 I exchanged my old phone for a new one.（我用旧手机换了一部新手机。）",
-    "Hope for 希望 We hope for a brighter future.（我们期待更美好的未来。）",
-    "Look for 寻找 I need to look for my keys.（我需要找我的钥匙。）",
-    "Mistake for 误认为 I mistook her for my sister.（我把她误认为我的姐姐。）",
-    "Mourn for 哀悼 The nation mourned for the loss of its leader.（国家为失去领袖而哀悼。）",
-    "Pay for 为…付款 I'll pay for the meal.（我会付餐费。）",
-    "Prepare for 准备 We need to prepare for the upcoming exam.（我们需要准备即将到来的考试。）",
-    "Provide for 提供 The parents provide for their children's education.（父母提供孩子的教育。）",
-    "Search for 寻求 They are searching for a solution to the problem.（他们正在寻求解决问题的方法。）",
-    "Thank for 感谢 I want to thank you for your help.（我要感谢你的帮助。）",
-    "Vote for/on 投票支持 She plans to vote for the candidate she believes in.（她计划投票支持她认可的候选人。）",
-    "Wait for/on 等候 We'll have to wait for the bus to arrive.（我们必须等公交车到达。）",
-    "He was astonished at what he found.",
-    "Dan was both surprised and amused at the news.",
-    "短语 例句",
-    "Amused at/by 对…感到有趣 She was amused by the clown's antics.（她对小丑的滑稽表演感到有趣。）",
-    "Arrive at/in 到达 They arrived at the airport on time.（他们准时到达了机场。）",
-    "Astonish(ed) at/by 感到惊愕 He was astonished by the magician's tricks.（他对魔术师的把戏感到惊愕。）",
-    "Exclaim at 惊叫 She exclaimed at the sudden noise.（她因突然的声音而惊叫。）",
-    "Glance at 对…看一眼 He glanced at the newspaper headlines.（他瞥了一眼报纸的头条。）",
-    "Guess at 猜测 I can only guess at what happened.（我只能猜测发生了什么事情。）",
-    "Knock at 敲 Someone is knocking at the door.（有人在敲门。）",
-    "Look at 看 Please look at this picture.（请看这张图片。）",
-    "Point at/to 指向 She pointed at the map to show the way.（她指着地图指示方向。）",
-    "Shock(ed) at/by 感到震惊 They were shocked by the news of the accident.（他们对事故的消息感到震惊。）",
-    "Stare at 盯着…看 He stared at the beautiful sunset.（他盯着美丽的日落看。）",
-    "Surprise(d) at/by 感到惊讶 I was surprised by her sudden visit.（她突然的拜访让我感到惊讶。）",
-    "Wonder at/about 感到惊异 They wondered at the beauty of the natural scenery.（他们对自然风光的美丽感到惊异。）",
-    "Work at/on 钻研 She is working on her research project.（她正在进行研究项目。）",
-    "I prefer listening to music to reading newspapers.",
-    "Will you see to this flower while I’m away? 我不在的时候你照看一下这花好吗？",
-    "I shall see to the dinner tonight. 今晚我做晚饭。",
-    "短语 例句",
-    "Accustom(ed) to 习惯于 She was accustomed to the cold weather.（她习惯于寒冷的天气。）",
-    "Amount to 达到 The total expenses amount to $500.（总费用达到500美元。）",
-    "Appeal to 呼吁 The charity organization appealed to the public for donations.（慈善组织向公众呼吁捐赠。）",
-    "Apply to/for 适用于 This rule applies to all employees.（这条规定适用于所有员工。）",
-    "Attach(ed) to 附属于 The small island is attached to the mainland.（这个小岛附属于大陆。）",
-    "Attend to 参加 She needs to attend to her duties.（她需要履行职责。）",
-    "Belong to 属于 The house belongs to my family.（这房子属于我家。）",
-    "Challenge to 向…提出挑战 He challenged his opponent to a game of chess.（他向对手提出下象棋的挑战。）",
-    "Compare to/with 比较 She compared the two options carefully.（她仔细比较了两个选项。）",
-    "Condemn(ed) to 判刑 He was condemned to ten years in prison.（他被判刑十年监禁。）",
-    "Confess to 承认 He finally confessed to the crime.（他最终承认了罪行。）",
-    "Confine to 限制 The restrictions are confined to this area.（限制仅限于这个区域。）",
-    "Consent to 同意 She consented to the proposal.（她同意了这个提案。）",
-    "Convert to 改信(某宗教) He converted to Buddhism last year.（他去年改信了佛教。）",
-    "Entitle(d) to 享有权利 The certificate entitles you to certain benefits.（这个证书使您享有某些权益。）",
-    "Listen to 听 Please listen to the music.（请听音乐。）",
-    "Mention to 提到 He mentioned the idea to his colleagues.（他向同事提到了这个想法。）",
-    "Object to 反对 She objects to the new policy.（她反对新政策。）",
-    "Occur to 想到 It didn't occur to me to check the weather forecast.（我没有想到要查看天气预报。）",
-    "Prefer to 更喜欢 I prefer tea to coffee.（我更喜欢茶而不是咖啡。）",
-    "React to/against 对…反应 How did he react to the news?（他对这个消息有什么反应？）",
-    "Reply to 回答 She replied to his question.（她回答了他的问题。）",
-    "Respond to 响应 The company responded to customer feedback.（公司对客户反馈做出了回应。）",
-    "See to 注意 Please see to it that the door is locked.（请确保门锁好。）",
-    "Submit to 服从于 He had to submit to the rules of the organization.（他必须服从该组织的规定。）",
-    "Surrender to 向…投降 The enemy forces surrendered to the allies.（敌军向盟军投降。）",
-    "Turn to 转向 When faced with a challenge, he turned to his friends for help.（面临挑战时，他向朋友寻求帮助）",
-    "Yield to 屈服 She refused to yield to his demands.（她拒绝屈服于他的要求。）"
+   "parts": [
+    {
+     "text": "后面可接with的动词 后面可接for的动词 后面可接at的动词 at 通常用于表达感情的一些词之后，并且这些词往往用被动语态，at 用于其它动词之后一般为主动语态。 后面可接to的动词"
+    },
+    {
+     "text": "I’m pleased with this room."
+    },
+    {
+     "text": "Sam used to mix with those people. 萨姆过去常与那些人交往。"
+    },
+    {
+     "text": "We’ll begin with the exercises. 我们从练习开始。"
+    },
+    {
+     "table": {
+      "headers": [
+       "词组",
+       "例句"
+      ],
+      "rows": [
+       [
+        "Communicate with 与...联系，沟通",
+        "He communicates with his colleagues via email.（他通过电子邮件与同事联系。）"
+       ],
+       [
+        "Compare with 与...比较",
+        "Let's compare this car with the one next to it.（我们来比较一下这辆车与旁边的那辆。）"
+       ],
+       [
+        "Compete with 与...竞争",
+        "She competed with athletes from around the world.（她与来自世界各地的运动员竞争。）"
+       ],
+       [
+        "Correspond with 与...一致",
+        "His story doesn't correspond with the facts.（他的说法与事实不一致。）"
+       ],
+       [
+        "Contrast with 与...对比",
+        "The warm weather in Miami contrasts with the cold in Alaska.（迈阿密的温暖气候与阿拉斯加的寒冷形成对比。）"
+       ],
+       [
+        "Quarrel with/about 与...争吵",
+        "She tends to quarrel with her brother over small things.（她倾向于因小事与她弟弟争吵。）"
+       ],
+       [
+        "Mix with 与...混合",
+        "You can mix the red and blue colors to create purple.（你可以混合红色和蓝色来制造紫色。）"
+       ],
+       [
+        "Confuse with 与...混淆",
+        "Some people confuse the twins because they look so alike.（一些人因为他们长得太像而把这对双胞胎搞混。）"
+       ],
+       [
+        "Agree/Comply with 同意/服从",
+        "He agreed with the new company policy.（他同意了新公司政策。）"
+       ],
+       [
+        "Begin/Finish with 开始/结束",
+        "We'll begin with an introduction and finish with a conclusion.（我们将从介绍开始，然后以总结结束。）"
+       ],
+       [
+        "Cope with 处理",
+        "She had to cope with the stress of her demanding job.（她不得不应对她繁重工作的压力。）"
+       ],
+       [
+        "Begin with 以…开始",
+        "The book begins with an introduction.（这本书以介绍开始。）"
+       ],
+       [
+        "Comply with 同意",
+        "All employees must comply with company policies.（所有员工必须遵守公司政策。）"
+       ],
+       [
+        "Disgust(ed) with 使…讨厌",
+        "She was disgusted with the dirty restroom.（她对脏乱的洗手间感到讨厌。）"
+       ],
+       [
+        "Finish with 完成",
+        "He finished with the project ahead of schedule.（他提前完成了这个项目。）"
+       ],
+       [
+        "Help with/in 帮助",
+        "Can you help with the cooking?（你可以帮忙做饭吗？）"
+       ],
+       [
+        "Interfere with/in 干扰",
+        "The noise from the construction site interfered with my work.（建筑工地的噪音干扰了我的工作。）"
+       ],
+       [
+        "Occupy(ied) with 从事于",
+        "He is occupied with his research project.（他正忙于他的研究项目。）"
+       ],
+       [
+        "Part with 放弃",
+        "It's hard to part with sentimental belongings.（很难放弃有情感纪念意义的物品。）"
+       ],
+       [
+        "Please(d) with 对…满意",
+        "The customer was pleased with the service.（顾客对服务感到满意。）"
+       ],
+       [
+        "Reason with 规劝",
+        "I tried to reason with him, but he wouldn't listen.（我试图劝说他，但他不肯听。）"
+       ],
+       [
+        "Satisfy (fied) with/by 感到满足",
+        "She was satisfied with her exam results.（她对自己的考试成绩感到满意。）"
+       ],
+       [
+        "Threaten (ed) with 威胁",
+        "He threatened her with legal action.（他以法律诉讼来威胁她。）"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "He was searched for the stolen money."
+    },
+    {
+     "text": "Can you account for his strange behavious?"
+    },
+    {
+     "table": {
+      "headers": [
+       "短语",
+       "例句"
+      ],
+      "rows": [
+       [
+        "Account for说明(原因)",
+        "Can you account for his strange behavior?（你能解释一下他奇怪的行为吗？）"
+       ],
+       [
+        "Ask for/of 请求",
+        "She asked for a raise in her salary.（她请求加薪。）"
+       ],
+       [
+        "Act for/on 代表",
+        "He acts for the company in legal matters.（他在法律事务上代表公司。）"
+       ],
+       [
+        "Apologize for 因…而道歉",
+        "He apologized for being late to the meeting.（他为迟到会议而道歉。）"
+       ],
+       [
+        "Blame for 责备",
+        "They blamed him for the project's failure.（他们责备他导致项目失败。）"
+       ],
+       [
+        "Beg for 乞求",
+        "She begged for forgiveness.（她恳求原谅。）"
+       ],
+       [
+        "Call for 需要",
+        "This situation calls for immediate action.（这种情况需要立即采取行动。）"
+       ],
+       [
+        "Charge for 收费",
+        "They charged me $20 for the repair.（他们为维修收了我20美元。）"
+       ],
+       [
+        "Exchange for 交换",
+        "I exchanged my old phone for a new one.（我用旧手机换了一部新手机。）"
+       ],
+       [
+        "Hope for 希望",
+        "We hope for a brighter future.（我们期待更美好的未来。）"
+       ],
+       [
+        "Look for 寻找",
+        "I need to look for my keys.（我需要找我的钥匙。）"
+       ],
+       [
+        "Mistake for 误认为",
+        "I mistook her for my sister.（我把她误认为我的姐姐。）"
+       ],
+       [
+        "Mourn for 哀悼",
+        "The nation mourned for the loss of its leader.（国家为失去领袖而哀悼。）"
+       ],
+       [
+        "Pay for 为…付款",
+        "I'll pay for the meal.（我会付餐费。）"
+       ],
+       [
+        "Prepare for 准备",
+        "We need to prepare for the upcoming exam.（我们需要准备即将到来的考试。）"
+       ],
+       [
+        "Provide for 提供",
+        "The parents provide for their children's education.（父母提供孩子的教育。）"
+       ],
+       [
+        "Search for 寻求",
+        "They are searching for a solution to the problem.（他们正在寻求解决问题的方法。）"
+       ],
+       [
+        "Thank for 感谢",
+        "I want to thank you for your help.（我要感谢你的帮助。）"
+       ],
+       [
+        "Vote for/on 投票支持",
+        "She plans to vote for the candidate she believes in.（她计划投票支持她认可的候选人。）"
+       ],
+       [
+        "Wait for/on 等候",
+        "We'll have to wait for the bus to arrive.（我们必须等公交车到达。）"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "He was astonished at what he found."
+    },
+    {
+     "text": "Dan was both surprised and amused at the news."
+    },
+    {
+     "table": {
+      "headers": [
+       "短语",
+       "例句"
+      ],
+      "rows": [
+       [
+        "Amused at/by 对…感到有趣",
+        "She was amused by the clown's antics.（她对小丑的滑稽表演感到有趣。）"
+       ],
+       [
+        "Arrive at/in 到达",
+        "They arrived at the airport on time.（他们准时到达了机场。）"
+       ],
+       [
+        "Astonish(ed) at/by 感到惊愕",
+        "He was astonished by the magician's tricks.（他对魔术师的把戏感到惊愕。）"
+       ],
+       [
+        "Exclaim at 惊叫",
+        "She exclaimed at the sudden noise.（她因突然的声音而惊叫。）"
+       ],
+       [
+        "Glance at 对…看一眼",
+        "He glanced at the newspaper headlines.（他瞥了一眼报纸的头条。）"
+       ],
+       [
+        "Guess at 猜测",
+        "I can only guess at what happened.（我只能猜测发生了什么事情。）"
+       ],
+       [
+        "Knock at 敲",
+        "Someone is knocking at the door.（有人在敲门。）"
+       ],
+       [
+        "Look at 看",
+        "Please look at this picture.（请看这张图片。）"
+       ],
+       [
+        "Point at/to 指向",
+        "She pointed at the map to show the way.（她指着地图指示方向。）"
+       ],
+       [
+        "Shock(ed) at/by 感到震惊",
+        "They were shocked by the news of the accident.（他们对事故的消息感到震惊。）"
+       ],
+       [
+        "Stare at 盯着…看",
+        "He stared at the beautiful sunset.（他盯着美丽的日落看。）"
+       ],
+       [
+        "Surprise(d) at/by 感到惊讶",
+        "I was surprised by her sudden visit.（她突然的拜访让我感到惊讶。）"
+       ],
+       [
+        "Wonder at/about 感到惊异",
+        "They wondered at the beauty of the natural scenery.（他们对自然风光的美丽感到惊异。）"
+       ],
+       [
+        "Work at/on 钻研",
+        "She is working on her research project.（她正在进行研究项目。）"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "I prefer listening to music to reading newspapers."
+    },
+    {
+     "text": "Will you see to this flower while I’m away? 我不在的时候你照看一下这花好吗？"
+    },
+    {
+     "text": "I shall see to the dinner tonight. 今晚我做晚饭。"
+    },
+    {
+     "table": {
+      "headers": [
+       "短语",
+       "例句"
+      ],
+      "rows": [
+       [
+        "Accustom(ed) to 习惯于",
+        "She was accustomed to the cold weather.（她习惯于寒冷的天气。）"
+       ],
+       [
+        "Amount to 达到",
+        "The total expenses amount to $500.（总费用达到500美元。）"
+       ],
+       [
+        "Appeal to 呼吁",
+        "The charity organization appealed to the public for donations.（慈善组织向公众呼吁捐赠。）"
+       ],
+       [
+        "Apply to/for 适用于",
+        "This rule applies to all employees.（这条规定适用于所有员工。）"
+       ],
+       [
+        "Attach(ed) to 附属于",
+        "The small island is attached to the mainland.（这个小岛附属于大陆。）"
+       ],
+       [
+        "Attend to 参加",
+        "She needs to attend to her duties.（她需要履行职责。）"
+       ],
+       [
+        "Belong to 属于",
+        "The house belongs to my family.（这房子属于我家。）"
+       ],
+       [
+        "Challenge to 向…提出挑战",
+        "He challenged his opponent to a game of chess.（他向对手提出下象棋的挑战。）"
+       ],
+       [
+        "Compare to/with 比较",
+        "She compared the two options carefully.（她仔细比较了两个选项。）"
+       ],
+       [
+        "Condemn(ed) to 判刑",
+        "He was condemned to ten years in prison.（他被判刑十年监禁。）"
+       ],
+       [
+        "Confess to 承认",
+        "He finally confessed to the crime.（他最终承认了罪行。）"
+       ],
+       [
+        "Confine to 限制",
+        "The restrictions are confined to this area.（限制仅限于这个区域。）"
+       ],
+       [
+        "Consent to 同意",
+        "She consented to the proposal.（她同意了这个提案。）"
+       ],
+       [
+        "Convert to 改信(某宗教)",
+        "He converted to Buddhism last year.（他去年改信了佛教。）"
+       ],
+       [
+        "Entitle(d) to 享有权利",
+        "The certificate entitles you to certain benefits.（这个证书使您享有某些权益。）"
+       ],
+       [
+        "Listen to 听",
+        "Please listen to the music.（请听音乐。）"
+       ],
+       [
+        "Mention to 提到",
+        "He mentioned the idea to his colleagues.（他向同事提到了这个想法。）"
+       ],
+       [
+        "Object to 反对",
+        "She objects to the new policy.（她反对新政策。）"
+       ],
+       [
+        "Occur to 想到",
+        "It didn't occur to me to check the weather forecast.（我没有想到要查看天气预报。）"
+       ],
+       [
+        "Prefer to 更喜欢",
+        "I prefer tea to coffee.（我更喜欢茶而不是咖啡。）"
+       ],
+       [
+        "React to/against 对…反应",
+        "How did he react to the news?（他对这个消息有什么反应？）"
+       ],
+       [
+        "Reply to 回答",
+        "She replied to his question.（她回答了他的问题。）"
+       ],
+       [
+        "Respond to 响应",
+        "The company responded to customer feedback.（公司对客户反馈做出了回应。）"
+       ],
+       [
+        "See to 注意",
+        "Please see to it that the door is locked.（请确保门锁好。）"
+       ],
+       [
+        "Submit to 服从于",
+        "He had to submit to the rules of the organization.（他必须服从该组织的规定。）"
+       ],
+       [
+        "Surrender to 向…投降",
+        "The enemy forces surrendered to the allies.（敌军向盟军投降。）"
+       ],
+       [
+        "Turn to 转向",
+        "When faced with a challenge, he turned to his friends for help.（面临挑战时，他向朋友寻求帮助）"
+       ],
+       [
+        "Yield to 屈服",
+        "She refused to yield to his demands.（她拒绝屈服于他的要求。）"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],

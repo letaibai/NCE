@@ -2,166 +2,602 @@
  "grammar": [
   {
    "title": "论述",
-   "lines": [
-    "One allegation often made is that noise produces mental illness . produce v.to cause a particular result or effect 引起，产生，导致 One allegation often made is that GM foods produce potential risks. 常见的一种指责是，转基因食品能引起潜在的风险。 A recent article in a weekly newspaper, for instance , was headed with a striking illustration of a lady in a state of considerable distress, with the caption ' She was yet another victim, reduced to a screaming wreck '. head v.if a page is headed with a particular name, title, image etc, it has it on the top 加标题 striking adj.unusual or interesting enough to be easily noticed 醒目的， 引人注意的 illustration n.a picture in a book, article etc, especially one that helps you to understand it （书或文章中的）插图 in a state of 处于...状态 caption n.words printed above or below a picture in a book or newspaper or on a television screen to explain what the picture is showing 插图的文字说明 As vividly depicted in the cartoon, two single-legged men, with their leg stumps bound together and arms tightly holding each other’s shoulders, stride ahead briskly like normal people! Their four crutches are left behind, each of them supported by the other three into the shape of a pyramid, symbolizing their owners’ cooperation. The caption below says ‘You have one leg left and so do I; support each other and we stride!’ 你一条腿，我一条腿；你我一起，走南闯北~ yet / still (another / one more…) 又一个、再一个 reduce sb. to sth. to force sb./sth. into a particular state or condition, usually a worse one 使…陷入（更糟的状态） wreck n.a vehicle or ship that has been destroyed or badly damaged 严重损毁的交通工具 ， 残骸 On turning eagerly to the text, one learns t hat the lady was a typist who found the sound of office typewriters worried her more and more until eventually she had to go into a mental hospital. on / upon (fml.)as soon as sb. has done sth. or as soon as sth. has happened 当…时，一…就… worry sb. 使某人担忧(使役动词) mental hospital 精神病院 Now the snag in this sort of anecdote is of course that one cannot distinguish cause and effect . snag n.a problem or difficulty, esp. one that is small, hidden or unexpected 小的问题、困难或障碍 anecdote n.short, interesting or amusing story about a real person or event 轶事, 逸闻 distinguish / differentiate / discriminate v.分辨 cause and effect 因果(固定搭配) Was the noise a cause of the illness, or were the complaints about noise merely a symptom? cause of … …的原因 merely a … = a mere … 仅仅 Another patient might equally well complain that her neighbours were combining to slander her and persecute her , and yet one might be cautious about believing this statement. may / might / could + well … used to say that sth. is likely to happen or is likely to be true （某事）可能（发生或是真的） combine v. to act together 合作，共同作用 yet conj. /adv. cautious adj.谨慎的",
-    "a rise in sea-level produced by climatic change",
-    "As a policy, it did not produce the desired effect.",
-    "This medicine may produce side effects in rare cases.",
-    "The page was headed 'Expenses'.",
-    "The information sheet was headed Medical Insurance.",
-    "The document was headed 'Confidential'.",
-    "She bears a striking resemblance to her sister.",
-    "His eyes were a striking shade of green.",
-    "The ad featured a striking red banner.",
-    "This children's book has beautiful illustrations.",
-    "The illustration shows a section through a leaf. 图中所示为叶的剖面。",
-    "We experimented with type, with illustration and with photos. 我们尝试了字体、插图和照片。",
-    "illustration n.例证，例子 (a story, an event or an example that clearly shows the truth about sth. ) The statistics are a clear illustration of the point I am trying to make. One apt illustration of this point involves the rapid development of Japan. Let me, by way of illustration, quote from one of her poems.",
-    "He was in a state of panic after the accident / permanent depression .",
-    "Without it, nothing could ever be brought to a conclusion; everything would be in a state of chaos .",
-    "The economy is in a state of transition.",
-    "The classroom was in a state of chaos.",
-    "The cartoon has a humorous caption below it.",
-    "Each image is accompanied by a brief caption. 图注",
-    "Read the caption 说明文字 to understand the picture better.",
-    "This is yet another problem to consider.",
-    "She asked still another question.",
-    "He sent yet another fax informing the journalist that if he did not reply soon he would be fired .",
-    "This led to yet another angry argument .",
-    "To such motives, yet another must be added .",
-    "They made yet another attempt to negotiate.",
-    "The teacher gave still another example to explain the rule. 老师又举了一个例子来解释这条规则。",
-    "yet one more 又一个 I have yet one more question before we finish the meeting. 在会议结束前，我还有一个问题。",
-    "still another 另一个；又一个 He faced still another challenge in his new job. 他在新工作中面临着又一个挑战。",
-    "A beautiful building was reduced to rubble.",
-    "They were reduced to begging in the streets.",
-    "The war reduced the city to ruins.",
-    "As if this were not enough to reduce you to tears, your husband arrives, unexpectedly bringing three guests to dinner .",
-    "He was reduced to tears by the sad story.",
-    "The illness reduced her to a shadow of her former self.",
-    "reduce sb. / sth. to sth. 使某人/某事陷入某种（更坏的）状态 The heavy rain reduced the city to a state of chaos. 大雨使整座城市陷入了一片混乱。",
-    "reduce sb. / sth. to doing sth. 迫使某人/某事沦为（做某事） Loss of his job reduced him to begging in the streets. 失去工作迫使他沦落到街头乞讨。",
-    "The collision reduced the car to a useless wreck.",
-    "The captain of the Elkor ordered his men to salvage as much as possible from the wreck .",
-    "The crash left the car a complete wreck.",
-    "wreck n.身体或精神严重受损伤的人，废人 (a person who is in a bad physical or mental condition) After the stress, he became an emotional wreck. 情绪崩溃者 Physically, I was a total wreck. The experience left her an emotional wreck. The interview reduced him to a nervous wreck.",
-    "All patients are examined on admission to the hospital.",
-    "Couples are presented with a bottle of wine upon their arrival at the hotel.",
-    "What was your reaction on seeing him?",
-    "On entering the room, he saw her crying. 一进入到房间",
-    "Upon arrival, they were welcomed warmly. 一到达就...",
-    "He changed his mind on hearing the news. 一听到...就...",
-    "in prep.在……过程中，在……期间 (while doing sth. or while sth. is happening, and as a result of this) In seeking independence, they do not sacrifice their human dignity . In the organization of industrial life the influence of the factory upon the physiological and mental state of the workers has been completely neglected.",
-    "I didn't tell Mum and Dad ― I didn't want to make them worried . 不地道 ⇒ I didn't tell Mum and Dad ― I didn't want to worry them.",
-    "Peter made me deeply disappointed . 语法正确的烂句子 ⇒ Peter deeply disappointed me.",
-    "The noise worried the children. 使...担心",
-    "I often fish for hours without catching anything. But this does not worry me . 不使我担忧",
-    "The delay worried her parents a lot.",
-    "Financial troubles worried him deeply.",
-    "He was treated in a mental hospital for several months.",
-    "She worked as a nurse at a mental hospital.",
-    "The mental hospital is located on the outskirts of town.",
-    "psychiatric hospital 精神病院 She was committed to a psychiatric hospital. 她被送进了精神病院。",
-    "There is just one small snag: where is the money coming from?",
-    "Let me know if you run into any snags.",
-    "There's a snag in the plan we didn't foresee.",
-    "They ran into a snag 困难 during construction.",
-    "The deal hit a snag 障碍 at the last minute.",
-    "amusing anecdotes about his brief career as an actor",
-    "He told an amusing anecdote 趣事 about his trip.",
-    "The book is full of interesting anecdotes. 轶事",
-    "The speaker began with a short anecdote 小故事 to engage the audience.",
-    "It is sometimes difficult to distinguish between fact and fiction. 有时很难分辨事实与虚构。",
-    "He could no longer distinguish between illusion and reality. 他再也分不清幻想与现实之间的区别了。",
-    "They can distinguish a happy tune from a sad one. 他们能分辨出曲调是快乐还是悲伤的。",
-    "differentiate 区分；区别 A child may not be able to differentiate between right and wrong. 孩子可能无法区分对错。",
-    "discriminate 辨别；区分 You must learn to discriminate between high-quality products and cheap imitations. 你必须学会辨别高质量产品和廉价仿制品。",
-    "In mental illness, there is a complex relationship between cause and effect.",
-    "However, those correlations don't prove cause and effect. 然而，这些相关性并不能证明因果关系。",
-    "Does the study mean that cats will soon grasp the ins and outs of cause and effect? 这项研究是否意味着猫很快就能掌握因果关系的详情？",
-    "cause-and-effect relationship 因果关系 But those studies can't get at a cause-and-effect relationship. 但那些研究不能得出因果关系。",
-    "But I was extremely pleased with myself I had traced the cause of the trouble .",
-    "reason for / behind … …的原因 … as if mere age were a reason for respect . He explained the reasons behind the decision.",
-    "motive for / behind … …的动机、的原因… Economy is one powerful motive for camping , … The motives behind the decision remain obscure.",
-    "… were the complaints about noise merely a symptom? = … were the complaints about noise a mere symptom?",
-    "Glancing at his map, he informed us that the next village was a mere twenty miles away .",
-    "But this is not a business that can be undertaken in a day or swiftly improvised by a mere command of the will.",
-    "What you say may well be true.",
-    "You could try the drugstore, but it might well be closed by now.",
-    "Let the tea set and tea combine perfectly. 让茶具与茶完美结合。",
-    "They combine with dust particles from the comet to form a huge cloud. 它们与来自彗星的尘埃颗粒结合在一起，形成了巨大的云团。",
-    "The cable car and toboggan nicely combine natural beauty and man-made scenery. 缆车和雪橇将自然美景和人工景色完美地结合起来。",
-    "combine to do sth. 共同作用… Many factors combined to cause the recession. Circumstances have combined to ruin our plans for a holiday.",
-    "conspire to do sth. 合谋做某事，共同作用… All six men admitted conspiring to steal cars. Falling demand and high interest rates have conspired to produce a big drop in profits. Yet, in real life, circumstances do sometimes conspire to bring about coincidences which anyone but a nineteenth century novelist would find incredible .",
-    "Kelly was a convicted criminal, yet(conj.) many people admired him. It is strange, and yet it is true.",
-    "The essay is good, yet(conj.) it could be improved.",
-    "It is strange, and yet (adv.) it is true.",
-    "Though he is poor, yet (adv.) he is satisfied with his situation.",
-    "I agree with you, but yet (adv.) I cannot consent.",
-    "She has grounds for cautious optimism. 她有理由可以持谨慎的乐观态度。",
-    "Cautious optimism in the fight against malaria. 持谨慎乐观的态度抗击疟疾。",
-    "The overall mood is one of cautious optimism. 从总体上看，可以持谨慎乐观的态度。",
-    "be cautious about (doing) sth. 对…很谨慎 Keller is cautious about making predictions for the success of the program."
+   "parts": [
+    {
+     "text": "One allegation often made is that noise produces mental illness . produce v.to cause a particular result or effect 引起，产生，导致 One allegation often made is that GM foods produce potential risks. 常见的一种指责是，转基因食品能引起潜在的风险。 A recent article in a weekly newspaper, for instance , was headed with a striking illustration of a lady in a state of considerable distress, with the caption ' She was yet another victim, reduced to a screaming wreck '. head v.if a page is headed with a particular name, title, image etc, it has it on the top 加标题 striking adj.unusual or interesting enough to be easily noticed 醒目的， 引人注意的 illustration n.a picture in a book, article etc, especially one that helps you to understand it （书或文章中的）插图 in a state of 处于...状态 caption n.words printed above or below a picture in a book or newspaper or on a television screen to explain what the picture is showing 插图的文字说明 As vividly depicted in the cartoon, two single-legged men, with their leg stumps bound together and arms tightly holding each other’s shoulders, stride ahead briskly like normal people! Their four crutches are left behind, each of them supported by the other three into the shape of a pyramid, symbolizing their owners’ cooperation. The caption below says ‘You have one leg left and so do I; support each other and we stride!’ 你一条腿，我一条腿；你我一起，走南闯北~ yet / still (another / one more…) 又一个、再一个 reduce sb. to sth. to force sb./sth. into a particular state or condition, usually a worse one 使…陷入（更糟的状态） wreck n.a vehicle or ship that has been destroyed or badly damaged 严重损毁的交通工具 ， 残骸 On turning eagerly to the text, one learns t hat the lady was a typist who found the sound of office typewriters worried her more and more until eventually she had to go into a mental hospital. on / upon (fml.)as soon as sb. has done sth. or as soon as sth. has happened 当…时，一…就… worry sb. 使某人担忧(使役动词) mental hospital 精神病院 Now the snag in this sort of anecdote is of course that one cannot distinguish cause and effect . snag n.a problem or difficulty, esp. one that is small, hidden or unexpected 小的问题、困难或障碍 anecdote n.short, interesting or amusing story about a real person or event 轶事, 逸闻 distinguish / differentiate / discriminate v.分辨 cause and effect 因果(固定搭配) Was the noise a cause of the illness, or were the complaints about noise merely a symptom? cause of … …的原因 merely a … = a mere … 仅仅 Another patient might equally well complain that her neighbours were combining to slander her and persecute her , and yet one might be cautious about believing this statement. may / might / could + well … used to say that sth. is likely to happen or is likely to be true （某事）可能（发生或是真的） combine v. to act together 合作，共同作用 yet conj. /adv. cautious adj.谨慎的"
+    },
+    {
+     "text": "a rise in sea-level produced by climatic change"
+    },
+    {
+     "text": "As a policy, it did not produce the desired effect."
+    },
+    {
+     "text": "This medicine may produce side effects in rare cases."
+    },
+    {
+     "text": "The page was headed 'Expenses'."
+    },
+    {
+     "text": "The information sheet was headed Medical Insurance."
+    },
+    {
+     "text": "The document was headed 'Confidential'."
+    },
+    {
+     "text": "She bears a striking resemblance to her sister."
+    },
+    {
+     "text": "His eyes were a striking shade of green."
+    },
+    {
+     "text": "The ad featured a striking red banner."
+    },
+    {
+     "text": "This children's book has beautiful illustrations."
+    },
+    {
+     "text": "The illustration shows a section through a leaf. 图中所示为叶的剖面。"
+    },
+    {
+     "text": "We experimented with type, with illustration and with photos. 我们尝试了字体、插图和照片。"
+    },
+    {
+     "table": {
+      "headers": [
+       "illustration n.例证，例子 (a story, an event or an example that clearly shows the truth about sth. )"
+      ],
+      "rows": [
+       [
+        "The statistics are a clear illustration of the point I am trying to make. One apt illustration of this point involves the rapid development of Japan. Let me, by way of illustration, quote from one of her poems."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "He was in a state of panic after the accident / permanent depression ."
+    },
+    {
+     "text": "Without it, nothing could ever be brought to a conclusion; everything would be in a state of chaos ."
+    },
+    {
+     "text": "The economy is in a state of transition."
+    },
+    {
+     "text": "The classroom was in a state of chaos."
+    },
+    {
+     "text": "The cartoon has a humorous caption below it."
+    },
+    {
+     "text": "Each image is accompanied by a brief caption. 图注"
+    },
+    {
+     "text": "Read the caption 说明文字 to understand the picture better."
+    },
+    {
+     "text": "This is yet another problem to consider."
+    },
+    {
+     "text": "She asked still another question."
+    },
+    {
+     "text": "He sent yet another fax informing the journalist that if he did not reply soon he would be fired ."
+    },
+    {
+     "text": "This led to yet another angry argument ."
+    },
+    {
+     "text": "To such motives, yet another must be added ."
+    },
+    {
+     "text": "They made yet another attempt to negotiate."
+    },
+    {
+     "text": "The teacher gave still another example to explain the rule. 老师又举了一个例子来解释这条规则。"
+    },
+    {
+     "table": {
+      "headers": [
+       "yet one more 又一个",
+       "still another 另一个；又一个"
+      ],
+      "rows": [
+       [
+        "I have yet one more question before we finish the meeting. 在会议结束前，我还有一个问题。"
+       ],
+       [
+        "He faced still another challenge in his new job. 他在新工作中面临着又一个挑战。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "A beautiful building was reduced to rubble."
+    },
+    {
+     "text": "They were reduced to begging in the streets."
+    },
+    {
+     "text": "The war reduced the city to ruins."
+    },
+    {
+     "text": "As if this were not enough to reduce you to tears, your husband arrives, unexpectedly bringing three guests to dinner ."
+    },
+    {
+     "text": "He was reduced to tears by the sad story."
+    },
+    {
+     "text": "The illness reduced her to a shadow of her former self."
+    },
+    {
+     "table": {
+      "headers": [
+       "reduce sb. / sth. to sth. 使某人/某事陷入某种（更坏的）状态",
+       "reduce sb. / sth. to doing sth. 迫使某人/某事沦为（做某事）"
+      ],
+      "rows": [
+       [
+        "The heavy rain reduced the city to a state of chaos. 大雨使整座城市陷入了一片混乱。"
+       ],
+       [
+        "Loss of his job reduced him to begging in the streets. 失去工作迫使他沦落到街头乞讨。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The collision reduced the car to a useless wreck."
+    },
+    {
+     "text": "The captain of the Elkor ordered his men to salvage as much as possible from the wreck ."
+    },
+    {
+     "text": "The crash left the car a complete wreck."
+    },
+    {
+     "table": {
+      "headers": [
+       "wreck n.身体或精神严重受损伤的人，废人 (a person who is in a bad physical or mental condition)"
+      ],
+      "rows": [
+       [
+        "After the stress, he became an emotional wreck. 情绪崩溃者 Physically, I was a total wreck. The experience left her an emotional wreck. The interview reduced him to a nervous wreck."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "All patients are examined on admission to the hospital."
+    },
+    {
+     "text": "Couples are presented with a bottle of wine upon their arrival at the hotel."
+    },
+    {
+     "text": "What was your reaction on seeing him?"
+    },
+    {
+     "text": "On entering the room, he saw her crying. 一进入到房间"
+    },
+    {
+     "text": "Upon arrival, they were welcomed warmly. 一到达就..."
+    },
+    {
+     "text": "He changed his mind on hearing the news. 一听到...就..."
+    },
+    {
+     "table": {
+      "headers": [
+       "in prep.在……过程中，在……期间 (while doing sth. or while sth. is happening, and as a result of this)"
+      ],
+      "rows": [
+       [
+        "In seeking independence, they do not sacrifice their human dignity . In the organization of industrial life the influence of the factory upon the physiological and mental state of the workers has been completely neglected."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "I didn't tell Mum and Dad ― I didn't want to make them worried . 不地道 ⇒ I didn't tell Mum and Dad ― I didn't want to worry them."
+    },
+    {
+     "text": "Peter made me deeply disappointed . 语法正确的烂句子 ⇒ Peter deeply disappointed me."
+    },
+    {
+     "text": "The noise worried the children. 使...担心"
+    },
+    {
+     "text": "I often fish for hours without catching anything. But this does not worry me . 不使我担忧"
+    },
+    {
+     "text": "The delay worried her parents a lot."
+    },
+    {
+     "text": "Financial troubles worried him deeply."
+    },
+    {
+     "text": "He was treated in a mental hospital for several months."
+    },
+    {
+     "text": "She worked as a nurse at a mental hospital."
+    },
+    {
+     "text": "The mental hospital is located on the outskirts of town."
+    },
+    {
+     "table": {
+      "headers": [
+       "psychiatric hospital 精神病院"
+      ],
+      "rows": [
+       [
+        "She was committed to a psychiatric hospital. 她被送进了精神病院。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "There is just one small snag: where is the money coming from?"
+    },
+    {
+     "text": "Let me know if you run into any snags."
+    },
+    {
+     "text": "There's a snag in the plan we didn't foresee."
+    },
+    {
+     "text": "They ran into a snag 困难 during construction."
+    },
+    {
+     "text": "The deal hit a snag 障碍 at the last minute."
+    },
+    {
+     "text": "amusing anecdotes about his brief career as an actor"
+    },
+    {
+     "text": "He told an amusing anecdote 趣事 about his trip."
+    },
+    {
+     "text": "The book is full of interesting anecdotes. 轶事"
+    },
+    {
+     "text": "The speaker began with a short anecdote 小故事 to engage the audience."
+    },
+    {
+     "text": "It is sometimes difficult to distinguish between fact and fiction. 有时很难分辨事实与虚构。"
+    },
+    {
+     "text": "He could no longer distinguish between illusion and reality. 他再也分不清幻想与现实之间的区别了。"
+    },
+    {
+     "text": "They can distinguish a happy tune from a sad one. 他们能分辨出曲调是快乐还是悲伤的。"
+    },
+    {
+     "table": {
+      "headers": [
+       "differentiate 区分；区别",
+       "discriminate 辨别；区分"
+      ],
+      "rows": [
+       [
+        "A child may not be able to differentiate between right and wrong. 孩子可能无法区分对错。"
+       ],
+       [
+        "You must learn to discriminate between high-quality products and cheap imitations. 你必须学会辨别高质量产品和廉价仿制品。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "In mental illness, there is a complex relationship between cause and effect."
+    },
+    {
+     "text": "However, those correlations don't prove cause and effect. 然而，这些相关性并不能证明因果关系。"
+    },
+    {
+     "text": "Does the study mean that cats will soon grasp the ins and outs of cause and effect? 这项研究是否意味着猫很快就能掌握因果关系的详情？"
+    },
+    {
+     "table": {
+      "headers": [
+       "cause-and-effect relationship 因果关系"
+      ],
+      "rows": [
+       [
+        "But those studies can't get at a cause-and-effect relationship. 但那些研究不能得出因果关系。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "But I was extremely pleased with myself I had traced the cause of the trouble ."
+    },
+    {
+     "table": {
+      "headers": [
+       "reason for / behind … …的原因",
+       "motive for / behind … …的动机、的原因…"
+      ],
+      "rows": [
+       [
+        "… as if mere age were a reason for respect . He explained the reasons behind the decision."
+       ],
+       [
+        "Economy is one powerful motive for camping , … The motives behind the decision remain obscure."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "… were the complaints about noise merely a symptom? = … were the complaints about noise a mere symptom?"
+    },
+    {
+     "text": "Glancing at his map, he informed us that the next village was a mere twenty miles away ."
+    },
+    {
+     "text": "But this is not a business that can be undertaken in a day or swiftly improvised by a mere command of the will."
+    },
+    {
+     "text": "What you say may well be true."
+    },
+    {
+     "text": "You could try the drugstore, but it might well be closed by now."
+    },
+    {
+     "text": "Let the tea set and tea combine perfectly. 让茶具与茶完美结合。"
+    },
+    {
+     "text": "They combine with dust particles from the comet to form a huge cloud. 它们与来自彗星的尘埃颗粒结合在一起，形成了巨大的云团。"
+    },
+    {
+     "text": "The cable car and toboggan nicely combine natural beauty and man-made scenery. 缆车和雪橇将自然美景和人工景色完美地结合起来。"
+    },
+    {
+     "table": {
+      "headers": [
+       "combine to do sth. 共同作用…",
+       "conspire to do sth. 合谋做某事，共同作用…"
+      ],
+      "rows": [
+       [
+        "Many factors combined to cause the recession. Circumstances have combined to ruin our plans for a holiday."
+       ],
+       [
+        "All six men admitted conspiring to steal cars. Falling demand and high interest rates have conspired to produce a big drop in profits. Yet, in real life, circumstances do sometimes conspire to bring about coincidences which anyone but a nineteenth century novelist would find incredible ."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Kelly was a convicted criminal, yet(conj.) many people admired him. It is strange, and yet it is true."
+    },
+    {
+     "text": "The essay is good, yet(conj.) it could be improved."
+    },
+    {
+     "text": "It is strange, and yet (adv.) it is true."
+    },
+    {
+     "text": "Though he is poor, yet (adv.) he is satisfied with his situation."
+    },
+    {
+     "text": "I agree with you, but yet (adv.) I cannot consent."
+    },
+    {
+     "text": "She has grounds for cautious optimism. 她有理由可以持谨慎的乐观态度。"
+    },
+    {
+     "text": "Cautious optimism in the fight against malaria. 持谨慎乐观的态度抗击疟疾。"
+    },
+    {
+     "text": "The overall mood is one of cautious optimism. 从总体上看，可以持谨慎乐观的态度。"
+    },
+    {
+     "table": {
+      "headers": [
+       "be cautious about (doing) sth. 对…很谨慎"
+      ],
+      "rows": [
+       [
+        "Keller is cautious about making predictions for the success of the program."
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "结论",
-   "lines": [
-    "What is needed in the case of noise is a study of large number s of people living under noisy conditions, to discover whether they are mentally ill more often than other people are . in the case of with reference to, or in the situation of 对于，关于；在……情况下 study of 对于…的研究 conditions n. [pl.] circumstances 环境，情况(under ... conditions 在…环境中) Some time ago the United States Navy, for instance, examined a very large number of men working on aircraft carriers: the study was known as Project Anehin. Some time ago 前不久 aircraft carrier n. a type of ship that planes can fly from and land on 航空母舰 It can be unpleasant to live even several miles from an aerodrome; if you think what it must be like to share the deck of a ship with several squadrons of jet aircraft , you will realize that a modern navy is a good place to study noise. aerodrome n.a place that small planes fly from 小飞机场 squadron n.a unit of one of the armed forces, especially the air force or the navy 空军或海军中队 jet aircraft / jet n.aircraft powered by a jet engine 喷气式飞机 But neither psychiatric interviews nor objective tests were able to show any effects upon these American sailors. neither ... nor 既不…也不… This result merely confirms earlier American and British studies: if there is any effect of noise upon mental health, it must be so small that present methods of psychiatric diagnosis cannot find it. if if + 从句不一定是条件，也有可能是让步（if = even if 即使），要根据上下文判断。 If there is any effect of GM foods upon human health, it must be so small that present methods of medical diagnosis cannot find it. 即使转基因食品对于人体健康有影响，也一定是微乎其微，以至于目前的医学诊断方法无法发现。 There is every likelihood that the costs of the monitoring system, such as the purchase, maintenance and updates of software, employment of extra personnel in charge of it, will offset or even outweigh additional revenue, if there is any. Gre写作范文 if = although perhaps 尽管可能… That does not prove that it does not exist ; but it does mean that noise is less dangerous than, say, being brought up in an orphanage -- which really is a mental health hazard . say 比方说（插入语） bring up sb. 抚养长大;把某人抚养成人 hazard 隐患，危险",
-    "The law will apply equally to men and women except in the case of maternity leave.",
-    "The amount of fruit in fruit juices must be 6% in the case of berries and 10% in the case of other fruits.",
-    "in case of 若发生某事；假如 (if sth. happens ) In case of fire, ring the alarm bell.",
-    "a study of Australian wild birds",
-    "a center for the study of Asian languages",
-    "We conducted a study of consumer behavior in rural areas.",
-    "Under existing conditions, the plan cannot succeed.",
-    "Firemen have to operate under very difficult conditions. 在非常艰苦的环境中",
-    "The soldiers survived under harsh conditions. 在恶劣的环境中",
-    "Some time ago, an interesting discovery was made by archaeologists on the Aegean island of Kea. 前不久",
-    "Some time ago, I received a letter from an old friend. 前不久",
-    "We had a similar conversation some time ago. 前不久",
-    "When a light passenger plane flew off course some time ago, it crashed in the mountains and its pilot was killed.",
-    "He served on an aircraft carrier during the war.",
-    "The aircraft carrier launched several jets during the exercise.",
-    "An aircraft carrier can carry dozens of planes.",
-    "The small plane landed safely at the aerodrome. 小飞机场",
-    "There is an aerodrome just outside the town.",
-    "The pilot trained at a local aerodrome. 小型机场",
-    "A squadron of jets flew overhead.",
-    "The navy deployed a squadron for the mission.",
-    "He commands a squadron in the air force.",
-    "Jet aircraft are faster than propeller planes.",
-    "They heard the roar of a jet aircraft overhead.",
-    "The military uses many jet aircraft.",
-    "Neither the manager nor the workers knew what to do.",
-    "Neither John nor Mary was present at the meeting.",
-    "She could neither read nor write at that time.",
-    "But the first people who were like ourselves lived so long ago that even their sagas, if they had any, are forgotten.",
-    "God’s reasons, if He has any, are opaque to us.",
-    "If he has any reasons, they are unknown to us.",
-    "His descendants, if any, never left the island.",
-    "His descendants, if any, never left the island.",
-    "He is seldom, if ever, absent from work.",
-    "Donald's essays are always interesting, if sometimes poorly written.",
-    "She understood his meaning, if not his words, and took his advice.",
-    "No matter where you live, you would find it difficult not to laugh at, say, Charlie Chaplin's early films . 比方说",
-    "The Americans would hammer out different pacts covering, say, electronic goods and drug manufacturing . 比方说",
-    "You could invest in, say, a small restaurant or shop. 比方说",
-    "Whether we find a joke funny or not largely depends on where we have been brought up .",
-    "He did not marry again and I was brought up without a woman's care; but I lacked for nothing, for he was both father and mother to me .",
-    "He was brought up without a mother.",
-    "We were brought up to be respectful to others.",
-    "She was brought up in a small village.",
-    "be brought up to do sth. 从小就… The sad truth is that most of us have been brought up to eat certain foods and we stick to them all our lives. We have been brought up to fear insects .",
-    "The busy traffic entrance is / presents / poses / constitutes a hazard to pedestrians.",
-    "Our knowledge of the oceans a hundred years ago was confined to the two-dimensional shape of the sea surface and the hazards of navigation presented by the irregularities in depth of the shallow water close to the land .",
-    "Smoking is a major health hazard. 健康隐患",
-    "Polluted water poses a hazard to marine life.",
-    "That abandoned building is a safety hazard. 安全隐患",
-    "a health / safety / fire / traffic hazard 健康/安全/火灾/交通隐患 Oily rags stored in the basement are a serious fire hazard. 地下室存放的油抹布是严重的火灾隐患。",
-    "be / present / pose / constitute a hazard to … 对…构成隐患 Discarded plastic bags pose a hazard to marine life. 丢弃的塑料袋对海洋生物构成隐患。"
+   "parts": [
+    {
+     "text": "What is needed in the case of noise is a study of large number s of people living under noisy conditions, to discover whether they are mentally ill more often than other people are . in the case of with reference to, or in the situation of 对于，关于；在……情况下 study of 对于…的研究 conditions n. [pl.] circumstances 环境，情况(under ... conditions 在…环境中) Some time ago the United States Navy, for instance, examined a very large number of men working on aircraft carriers: the study was known as Project Anehin. Some time ago 前不久 aircraft carrier n. a type of ship that planes can fly from and land on 航空母舰 It can be unpleasant to live even several miles from an aerodrome; if you think what it must be like to share the deck of a ship with several squadrons of jet aircraft , you will realize that a modern navy is a good place to study noise. aerodrome n.a place that small planes fly from 小飞机场 squadron n.a unit of one of the armed forces, especially the air force or the navy 空军或海军中队 jet aircraft / jet n.aircraft powered by a jet engine 喷气式飞机 But neither psychiatric interviews nor objective tests were able to show any effects upon these American sailors. neither ... nor 既不…也不… This result merely confirms earlier American and British studies: if there is any effect of noise upon mental health, it must be so small that present methods of psychiatric diagnosis cannot find it. if if + 从句不一定是条件，也有可能是让步（if = even if 即使），要根据上下文判断。 If there is any effect of GM foods upon human health, it must be so small that present methods of medical diagnosis cannot find it. 即使转基因食品对于人体健康有影响，也一定是微乎其微，以至于目前的医学诊断方法无法发现。 There is every likelihood that the costs of the monitoring system, such as the purchase, maintenance and updates of software, employment of extra personnel in charge of it, will offset or even outweigh additional revenue, if there is any. Gre写作范文 if = although perhaps 尽管可能… That does not prove that it does not exist ; but it does mean that noise is less dangerous than, say, being brought up in an orphanage -- which really is a mental health hazard . say 比方说（插入语） bring up sb. 抚养长大;把某人抚养成人 hazard 隐患，危险"
+    },
+    {
+     "text": "The law will apply equally to men and women except in the case of maternity leave."
+    },
+    {
+     "text": "The amount of fruit in fruit juices must be 6% in the case of berries and 10% in the case of other fruits."
+    },
+    {
+     "table": {
+      "headers": [
+       "in case of 若发生某事；假如 (if sth. happens )"
+      ],
+      "rows": [
+       [
+        "In case of fire, ring the alarm bell."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "a study of Australian wild birds"
+    },
+    {
+     "text": "a center for the study of Asian languages"
+    },
+    {
+     "text": "We conducted a study of consumer behavior in rural areas."
+    },
+    {
+     "text": "Under existing conditions, the plan cannot succeed."
+    },
+    {
+     "text": "Firemen have to operate under very difficult conditions. 在非常艰苦的环境中"
+    },
+    {
+     "text": "The soldiers survived under harsh conditions. 在恶劣的环境中"
+    },
+    {
+     "text": "Some time ago, an interesting discovery was made by archaeologists on the Aegean island of Kea. 前不久"
+    },
+    {
+     "text": "Some time ago, I received a letter from an old friend. 前不久"
+    },
+    {
+     "text": "We had a similar conversation some time ago. 前不久"
+    },
+    {
+     "text": "When a light passenger plane flew off course some time ago, it crashed in the mountains and its pilot was killed."
+    },
+    {
+     "text": "He served on an aircraft carrier during the war."
+    },
+    {
+     "text": "The aircraft carrier launched several jets during the exercise."
+    },
+    {
+     "text": "An aircraft carrier can carry dozens of planes."
+    },
+    {
+     "text": "The small plane landed safely at the aerodrome. 小飞机场"
+    },
+    {
+     "text": "There is an aerodrome just outside the town."
+    },
+    {
+     "text": "The pilot trained at a local aerodrome. 小型机场"
+    },
+    {
+     "text": "A squadron of jets flew overhead."
+    },
+    {
+     "text": "The navy deployed a squadron for the mission."
+    },
+    {
+     "text": "He commands a squadron in the air force."
+    },
+    {
+     "text": "Jet aircraft are faster than propeller planes."
+    },
+    {
+     "text": "They heard the roar of a jet aircraft overhead."
+    },
+    {
+     "text": "The military uses many jet aircraft."
+    },
+    {
+     "text": "Neither the manager nor the workers knew what to do."
+    },
+    {
+     "text": "Neither John nor Mary was present at the meeting."
+    },
+    {
+     "text": "She could neither read nor write at that time."
+    },
+    {
+     "text": "But the first people who were like ourselves lived so long ago that even their sagas, if they had any, are forgotten."
+    },
+    {
+     "text": "God’s reasons, if He has any, are opaque to us."
+    },
+    {
+     "text": "If he has any reasons, they are unknown to us."
+    },
+    {
+     "text": "His descendants, if any, never left the island."
+    },
+    {
+     "text": "His descendants, if any, never left the island."
+    },
+    {
+     "text": "He is seldom, if ever, absent from work."
+    },
+    {
+     "text": "Donald's essays are always interesting, if sometimes poorly written."
+    },
+    {
+     "text": "She understood his meaning, if not his words, and took his advice."
+    },
+    {
+     "text": "No matter where you live, you would find it difficult not to laugh at, say, Charlie Chaplin's early films . 比方说"
+    },
+    {
+     "text": "The Americans would hammer out different pacts covering, say, electronic goods and drug manufacturing . 比方说"
+    },
+    {
+     "text": "You could invest in, say, a small restaurant or shop. 比方说"
+    },
+    {
+     "text": "Whether we find a joke funny or not largely depends on where we have been brought up ."
+    },
+    {
+     "text": "He did not marry again and I was brought up without a woman's care; but I lacked for nothing, for he was both father and mother to me ."
+    },
+    {
+     "text": "He was brought up without a mother."
+    },
+    {
+     "text": "We were brought up to be respectful to others."
+    },
+    {
+     "text": "She was brought up in a small village."
+    },
+    {
+     "table": {
+      "headers": [
+       "be brought up to do sth. 从小就…"
+      ],
+      "rows": [
+       [
+        "The sad truth is that most of us have been brought up to eat certain foods and we stick to them all our lives. We have been brought up to fear insects ."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The busy traffic entrance is / presents / poses / constitutes a hazard to pedestrians."
+    },
+    {
+     "text": "Our knowledge of the oceans a hundred years ago was confined to the two-dimensional shape of the sea surface and the hazards of navigation presented by the irregularities in depth of the shallow water close to the land ."
+    },
+    {
+     "text": "Smoking is a major health hazard. 健康隐患"
+    },
+    {
+     "text": "Polluted water poses a hazard to marine life."
+    },
+    {
+     "text": "That abandoned building is a safety hazard. 安全隐患"
+    },
+    {
+     "table": {
+      "headers": [
+       "a health / safety / fire / traffic hazard 健康/安全/火灾/交通隐患",
+       "be / present / pose / constitute a hazard to … 对…构成隐患"
+      ],
+      "rows": [
+       [
+        "Oily rags stored in the basement are a serious fire hazard. 地下室存放的油抹布是严重的火灾隐患。"
+       ],
+       [
+        "Discarded plastic bags pose a hazard to marine life. 丢弃的塑料袋对海洋生物构成隐患。"
+       ]
+      ]
+     }
+    }
    ]
   }
  ]

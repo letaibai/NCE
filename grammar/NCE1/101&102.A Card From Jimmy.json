@@ -2,66 +2,258 @@
  "grammar": [
   {
    "title": "直接引语 & 间接引语",
-   "lines": [
-    "怎么转述别人的话 直接引语、间接引语& 宾语从句？ 宾语从句：句子作宾语。 主句”一般现在“，从句”任何时态“结论：间接引语属于宾语从句。 反义疑问句 § C.组织步骤: 动 → 反 → 换",
-    "直接引语 间接引语",
-    "“Anhong, I miss you.” He says he misses you.",
-    "转换 直接引语 间接引语",
-    "人称转变 I He/She/You",
-    "指示代词 this that",
-    "these those",
-    "时间状语 now then",
-    "today that day",
-    "yesterday the day before",
-    "tomorrow the next day",
-    "区别 直接引语 间接引语",
-    "英语书面 He says to me , ' I’ve found my wallet. ' He tells me (that) he has found his wallet.",
-    "美语书面 She says , \" You can sit here, Jim. \" She tells Jim (that) he can sit there.",
-    "He says (that) his sister was there the day before . 主 + 谓 + 宾语",
-    "构成：陈述句 + 简短一般疑问句",
-    "It’s a nice day, is it a nice day? It’s a nice day, isn’t it? （前肯后否）",
-    "It’s not a nice day, is it ? 否定 + 肯定（前否后肯）",
-    "陈述句 反义疑问句 结构",
-    "Chinese people were hard before, weren’t they ? 一般过去时 (be动词)",
-    "Lily is in Tokyo, isn’t she ? 一般现在时 (be动词)",
-    "Lily goes to school on foot, doesn’t she ? 一般现在 (助动词 do)",
-    "Sam had a meeting last night, didn’t he ? 一般过去时 (助动词 do)",
-    "Lily can’t speak French, can she ? (情态动词 can)",
-    "Sam must stay at the hotel, mustn’t he ? (情态动词 must)",
-    "You have finished your work, haven’t you ? 现在完成时 (助动词 have)",
-    "Sam hasn’t had his lunch, has he ? 现在完成 (助动词 has)"
+   "parts": [
+    {
+     "text": "怎么转述别人的话 直接引语、间接引语& 宾语从句？ 宾语从句：句子作宾语。 主句”一般现在“，从句”任何时态“结论：间接引语属于宾语从句。 反义疑问句 § C.组织步骤: 动 → 反 → 换"
+    },
+    {
+     "table": {
+      "headers": [
+       "直接引语",
+       "间接引语"
+      ],
+      "rows": [
+       [
+        "“Anhong, I miss you.”",
+        "He says he misses you."
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "转换",
+       "直接引语",
+       "间接引语"
+      ],
+      "rows": [
+       [
+        "人称转变",
+        "I",
+        "He/She/You"
+       ],
+       [
+        "指示代词",
+        "this",
+        "that"
+       ],
+       [
+        "these",
+        "those"
+       ],
+       [
+        "时间状语",
+        "now",
+        "then"
+       ],
+       [
+        "today",
+        "that day"
+       ],
+       [
+        "yesterday",
+        "the day before"
+       ],
+       [
+        "tomorrow",
+        "the next day"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "区别",
+       "直接引语",
+       "间接引语"
+      ],
+      "rows": [
+       [
+        "英语书面",
+        "He says to me , ' I’ve found my wallet. '",
+        "He tells me (that) he has found his wallet."
+       ],
+       [
+        "美语书面",
+        "She says , \" You can sit here, Jim. \"",
+        "She tells Jim (that) he can sit there."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "He says (that) his sister was there the day before . 主 + 谓 + 宾语"
+    },
+    {
+     "table": {
+      "headers": [
+       "构成：陈述句 + 简短一般疑问句"
+      ],
+      "rows": [
+       [
+        "It’s a nice day, is it a nice day?",
+        "It’s a nice day, isn’t it? （前肯后否）"
+       ],
+       [
+        "It’s not a nice day, is it ? 否定 + 肯定（前否后肯）"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "陈述句",
+       "反义疑问句",
+       "结构"
+      ],
+      "rows": [
+       [
+        "Chinese people were hard before,",
+        "weren’t they ?",
+        "一般过去时 (be动词)"
+       ],
+       [
+        "Lily is in Tokyo,",
+        "isn’t she ?",
+        "一般现在时 (be动词)"
+       ],
+       [
+        "Lily goes to school on foot,",
+        "doesn’t she ?",
+        "一般现在 (助动词 do)"
+       ],
+       [
+        "Sam had a meeting last night,",
+        "didn’t he ?",
+        "一般过去时 (助动词 do)"
+       ],
+       [
+        "Lily can’t speak French,",
+        "can she ?",
+        "(情态动词 can)"
+       ],
+       [
+        "Sam must stay at the hotel,",
+        "mustn’t he ?",
+        "(情态动词 must)"
+       ],
+       [
+        "You have finished your work,",
+        "haven’t you ?",
+        "现在完成时 (助动词 have)"
+       ],
+       [
+        "Sam hasn’t had his lunch,",
+        "has he ?",
+        "现在完成 (助动词 has)"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "宾语从句：句子作宾语",
-   "lines": [
-    "宾语从句语用功能",
-    "句型 主语 谓语 宾语",
-    "简单句 I love you.",
-    "复合句 I think I love you.",
-    "主句一般现在，从句随便。",
-    "I think (that) he is awful. (从句一般现在)",
-    "He says (that) he loved her. (从句一般过去)",
-    "He knows (that) she has gone . (从句现在完成)",
-    "He is sorry (that) he will leave . (从句一般将来)",
-    "表达观点 引述话语(间接引语)",
-    "I think that… I believe that… He says that…"
+   "parts": [
+    {
+     "text": "宾语从句语用功能"
+    },
+    {
+     "table": {
+      "headers": [
+       "句型",
+       "主语",
+       "谓语",
+       "宾语"
+      ],
+      "rows": [
+       [
+        "简单句",
+        "I",
+        "love",
+        "you."
+       ],
+       [
+        "复合句",
+        "I",
+        "think",
+        "I love you."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "主句一般现在，从句随便。"
+    },
+    {
+     "text": "I think (that) he is awful. (从句一般现在)"
+    },
+    {
+     "text": "He says (that) he loved her. (从句一般过去)"
+    },
+    {
+     "text": "He knows (that) she has gone . (从句现在完成)"
+    },
+    {
+     "text": "He is sorry (that) he will leave . (从句一般将来)"
+    },
+    {
+     "table": {
+      "headers": [
+       "表达观点",
+       "引述话语(间接引语)"
+      ],
+      "rows": [
+       [
+        "I think that… I believe that…",
+        "He says that…"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "书信格式",
-   "lines": [
-    "写信人地址",
-    "写信人日期",
-    "收信人地址",
-    "称呼 Dear…,Dear Mr. …,",
-    "正文内容 A.I am very glad to hear from you. 很高兴收到你的来信。 B.I’m writing to tell you that… 我写信想告诉你… C.I’m sorry it has taken me a long time to reply.很抱歉这么久才给你回信。",
-    "常用结束语 A.I hope you are all well. 希望你一切顺利。 B. Best wishes to you.送上我最美好的祝福。 C. I’m looking forward to your reply. 期待你回信。",
-    "段落前无空格,落款在左 Yours sincerely, Venus 段落前空2格,落款在右 Yours, Venus"
+   "parts": [
+    {
+     "table": {
+      "headers": [],
+      "rows": [
+       [
+        "",
+        "写信人地址"
+       ],
+       [
+        "写信人日期"
+       ],
+       [
+        "收信人地址",
+        ""
+       ],
+       [
+        "称呼 Dear…,Dear Mr. …,"
+       ],
+       [
+        "正文内容 A.I am very glad to hear from you. 很高兴收到你的来信。 B.I’m writing to tell you that… 我写信想告诉你… C.I’m sorry it has taken me a long time to reply.很抱歉这么久才给你回信。"
+       ],
+       [
+        "常用结束语 A.I hope you are all well. 希望你一切顺利。 B. Best wishes to you.送上我最美好的祝福。 C. I’m looking forward to your reply. 期待你回信。"
+       ],
+       [
+        "段落前无空格,落款在左 Yours sincerely, Venus",
+        "段落前空2格,落款在右 Yours, Venus"
+       ]
+      ]
+     }
+    }
    ]
   }
  ]

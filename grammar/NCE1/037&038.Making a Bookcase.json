@@ -2,52 +2,178 @@
  "grammar": [
   {
    "title": "一般将来时态",
-   "lines": [
-    "一般将来时态是英语中用来表示将来发生的动作、事件或状态的一种时态。它常用于表达 计划 、 打算 、 预测 、 承诺 等 未来的 意图或行动。一般将来时态的关键标志是使用助动词 \"be\" 的某种形式（is/am/are）加上 \"going to\"，再接上动词原型。 固定结构： 分支结构： 主语 + is/am/are + going to + 地点名词 这里完整的句子应该为：We are going to go to Shanghai. 只是将重复的 go to 省略了，理论上，这个结构是依然遵循的固定结构 ：主语 + is/am/are + going to + 动词 原型 注意事项： happy 是一个形容词，固定结构里有限制 going to + 动词原型，所以需要人为的加上一个 be，以达到句子的合理性结构。所以当这个句子没有实义动词时，我们需要加上一个be。 主语 + is/am/are + going to + be + 非动词 非动词：adj. 、n. 、 prep. 、 adv. …",
-    "肯定句 否定句 疑问句",
-    "主语 + is/am/are + going to + 动词 原型 主语 + is/am/are + not + going to + 动词 原型 Is/Am/Are + 主语 + going to + 动词 原型 ？",
-    "I am going to swim this weekend.我打算周末去游泳。 She is not going to swim this weekend. Is she going to swim this weekend ?",
-    "He is going to buy a new car.他打算买辆新车。 He is not going to buy a new car. Is he going to buy a new car ?",
-    "We are going to Shanghai. 我们打算去上海。",
-    "可以在 be 后面加上其他非动词，如形容词、名词、介词等。",
-    "在 口语 中 going to 可以缩写为 gonna 。",
-    "仅限口语 I am gonna be happy this year.",
-    "书面用语 I 'm going to be happy this year.",
-    "我打算 2 点到那。 I am going to be there at two. 副词",
-    "他打算成为一名医生。 He is going to be a doctor . 名词",
-    "我打算下周开始忙起来。 I am going to be busy next week. 形容词",
-    "他计划这周末呆家里。 He is going to be at home this weekend. 副词",
-    "他们打算以后在北京。 They are going to be in Beijing . 介词短语"
+   "parts": [
+    {
+     "text": "一般将来时态是英语中用来表示将来发生的动作、事件或状态的一种时态。它常用于表达 计划 、 打算 、 预测 、 承诺 等 未来的 意图或行动。一般将来时态的关键标志是使用助动词 \"be\" 的某种形式（is/am/are）加上 \"going to\"，再接上动词原型。 固定结构： 分支结构： 主语 + is/am/are + going to + 地点名词 这里完整的句子应该为：We are going to go to Shanghai. 只是将重复的 go to 省略了，理论上，这个结构是依然遵循的固定结构 ：主语 + is/am/are + going to + 动词 原型 注意事项： happy 是一个形容词，固定结构里有限制 going to + 动词原型，所以需要人为的加上一个 be，以达到句子的合理性结构。所以当这个句子没有实义动词时，我们需要加上一个be。 主语 + is/am/are + going to + be + 非动词 非动词：adj. 、n. 、 prep. 、 adv. …"
+    },
+    {
+     "table": {
+      "headers": [
+       "肯定句",
+       "否定句",
+       "疑问句"
+      ],
+      "rows": [
+       [
+        "主语 + is/am/are + going to + 动词 原型",
+        "主语 + is/am/are + not + going to + 动词 原型",
+        "Is/Am/Are + 主语 + going to + 动词 原型 ？"
+       ],
+       [
+        "I am going to swim this weekend.我打算周末去游泳。",
+        "She is not going to swim this weekend.",
+        "Is she going to swim this weekend ?"
+       ],
+       [
+        "He is going to buy a new car.他打算买辆新车。",
+        "He is not going to buy a new car.",
+        "Is he going to buy a new car ?"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "We are going to Shanghai. 我们打算去上海。"
+    },
+    {
+     "table": {
+      "headers": [
+       "可以在 be 后面加上其他非动词，如形容词、名词、介词等。"
+      ],
+      "rows": [
+       [
+        "在 口语 中",
+        "going to 可以缩写为 gonna 。"
+       ],
+       [
+        "仅限口语",
+        "I am gonna be happy this year."
+       ],
+       [
+        "书面用语",
+        "I 'm going to be happy this year."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "我打算 2 点到那。 I am going to be there at two. 副词"
+    },
+    {
+     "text": "他打算成为一名医生。 He is going to be a doctor . 名词"
+    },
+    {
+     "text": "我打算下周开始忙起来。 I am going to be busy next week. 形容词"
+    },
+    {
+     "text": "他计划这周末呆家里。 He is going to be at home this weekend. 副词"
+    },
+    {
+     "text": "他们打算以后在北京。 They are going to be in Beijing . 介词短语"
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "将来时对比进行时",
-   "lines": [
-    "单词 读音 中文含义",
-    "homework ['həʊmwɜːk] 家庭作业",
-    "housework ['haʊswɜːk] 家务活",
-    "listen ['lɪsn] 听 listen to the music 听音乐",
-    "listen to [ˈlɪsən tuː ]",
-    "dish [dɪʃ] 盘子、菜肴、一盘食物 wash the dish es 洗碗 Sichuan dish 四川菜",
-    "What are you going to do? 一般将来时 I am going to shave.",
-    "What are you doing? 现在进行时 Now I am shaving."
+   "parts": [
+    {
+     "table": {
+      "headers": [
+       "单词",
+       "读音",
+       "中文含义"
+      ],
+      "rows": [
+       [
+        "homework",
+        "['həʊmwɜːk]",
+        "家庭作业"
+       ],
+       [
+        "housework",
+        "['haʊswɜːk]",
+        "家务活"
+       ],
+       [
+        "listen",
+        "['lɪsn]",
+        "听 listen to the music 听音乐"
+       ],
+       [
+        "listen to",
+        "[ˈlɪsən tuː ]"
+       ],
+       [
+        "dish",
+        "[dɪʃ]",
+        "盘子、菜肴、一盘食物 wash the dish es 洗碗 Sichuan dish 四川菜"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "What are you going to do?",
+       "What are you doing?"
+      ],
+      "rows": [
+       [
+        "一般将来时",
+        "I am going to shave."
+       ],
+       [
+        "现在进行时",
+        "Now I am shaving."
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "描述打算和计划",
-   "lines": [
-    "请按上面的格式使用 be going to 将来时写一个自己的计划与打算。",
-    "使用 be going to 句型描述自己的计划和打算",
-    "大家好！我是一名银行职员。我在北京工作。 Hi. I am a clerk in a bank. I work in Beijing.",
-    "下月我计划去厦门出差。 I ’m going to Xiamen on business next month.",
-    "我将在厦门呆两周。 I ’m going to stay in Xiamen for two weeks.",
-    "我一定会享受那里清新的空气和灿烂的阳光。 I am going to enjoy the fresh air and sunshine there.",
-    "当然也一定会见见我的老同学。 And I ’m going to see my old classmates.",
-    "我打算 4 号坐火车回来。 I am going to come back by train on 4th."
+   "parts": [
+    {
+     "text": "请按上面的格式使用 be going to 将来时写一个自己的计划与打算。"
+    },
+    {
+     "table": {
+      "headers": [
+       "使用 be going to 句型描述自己的计划和打算"
+      ],
+      "rows": [
+       [
+        "大家好！我是一名银行职员。我在北京工作。",
+        "Hi. I am a clerk in a bank. I work in Beijing."
+       ],
+       [
+        "下月我计划去厦门出差。",
+        "I ’m going to Xiamen on business next month."
+       ],
+       [
+        "我将在厦门呆两周。",
+        "I ’m going to stay in Xiamen for two weeks."
+       ],
+       [
+        "我一定会享受那里清新的空气和灿烂的阳光。",
+        "I am going to enjoy the fresh air and sunshine there."
+       ],
+       [
+        "当然也一定会见见我的老同学。",
+        "And I ’m going to see my old classmates."
+       ],
+       [
+        "我打算 4 号坐火车回来。",
+        "I am going to come back by train on 4th."
+       ]
+      ]
+     }
+    }
    ]
   }
  ]

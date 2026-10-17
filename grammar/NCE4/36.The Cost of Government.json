@@ -2,194 +2,730 @@
  "grammar": [
   {
    "title": "现在情况分析",
-   "lines": [
-    "This may be illustrated by comparing the position of a nation with that of a private business enterprise. illustrate v. to make the meaning of sth. clearer by using examples, pictures, etc. （用例子、图表等）说明，阐明 be illustrated by... 通过…来说明/例证 illustration n. 1. 插图；2. 例证，例子 compare A with B 将A与B进行比较 to examine people or things to see how they are similar and how they are different. position n. the situation that someone is in, especially when this affects what they can and cannot do 地位，处境，状况 that of 那个的；那样的(不可省略) An enterprise has to incur certain costs and expenses in order to stay in business. in business A company that is in business is operating and trading.（公司） 经营，运转 For our purposes, we are concerned only with one kind of cost -- the cost of managing and administering the business. purposes n. [pl.] what is needed in a particular situation 需要 be concerned with sth. be about sth. 与某事物有关，涉及某事物；关注/与…相关 Such administrative overheads in a business are analogous to the cost of government in a nation. overheads n. [pl] regular expenses involved in running a business, e.g. rent, light, heating, salaries （企业运转所需要的）经费（如房租、电费、取暖费、薪金） be analogous to / with 与…相似/类比于 The administrative overheads of a business are low to the extent that everyone working in the business can be trusted to behave in a way t hat best promotes the interests of the firm . to the extent that … 1. 以至于…(引导结果状语) to the extent that … 2. 只要…，只有…（引导条件） interest n. [C usually pl, U] benefit, advantage 好处，利益 in sb.’s interest(s) for or to sb.’s advantage 为某人的利益，对某人有好处 If they can each be trusted to take such responsibilities and to exercise such initiative as falls within their sphere , then administrative overheads will be low. take responsibilities 承担责任 exercise v. (fml.) to use your power, rights or personal qualities in order to achieve sth. 使用，运用，利用 fall v. to belong to or be part of a particular group, area of responsibility, range of things, or type of things 属于… sphere n. an area of responsibility or a type of situation over which a person or group has influence or power 范围 such / the same / as / so … as … 引导限定性定语从句 It will be low because it will be necessary to have only one man looking after each job, without having another man to check upon what he is doing , keep him in line, and report on him to someone else. have sb. doing sth. 让某人（持续性）做某事 look after 1. to take care of someone by helping them, giving them what they need, or keeping them safe = take care of 照顾，照料 look after 2. to be responsible for dealing with something = take care of 负责处理…… have sb. (to) do （使役）让某人去做...安排某人做某事 check on / upon to make sure that someone or something is safe, is ina satisfactory state, or is doing what they should be doing 检查，核查， 监督 in line 得到控制，有秩序 report on sb. to sb. 向别人汇报某人的情况;汇报关于…的情况 But if no one can be trusted to act in a loyal and responsible manner towards his job, then the business will require armies of administrators, checkers, and foremen and administrative overheads will rise correspondingly. manner n. [sing] person's way of behaving towards others 态度 foreman n. (pl foremen) experienced worker who supervises and directs other workers 领班；工头 As administrative overheads rise , so the earnings of the business after meeting the expense of administration, will fall ; and the business will have less money to distribute as dividends or invest directly in its future progress and development. earnings n. [pl.] 1. the money that you earn for the work that you do 薪水 earnings n. [pl.] 2. the profit that a company makes 公司的利润 meet v. to make a payment that needs to be made 支付，偿付（某费用） distribute v. to share things among a group of people, especially in a planned way = give out 分配，分发 dividend n. a part of a company’s profit that is divided among the people with shares in the company（付给股票持有者的）股息，红利 invest directly in... 直接投资于…",
-    "To illustrate my point, let me tell you a little story.",
-    "The lecturer illustrated his point with a diagram on the blackboard.",
-    "Their properties could be illustrated by simple experiments.",
-    "The general restlessness and hurry of life are always illustrated by the practice of fast eating.",
-    "The theory was illustrated by several case studies.这个理论通过几个案例研究得到了例证。",
-    "The lecture will be illustrated by slides and videos.这次讲座将通过幻灯片和视频来说明。",
-    "amply illustrate 充分说明；详尽阐明 One example may amply illustrate this point. The latest quarterly report amply illustrates the need for a reduction in administrative costs. 最新的季度报告充分说明了削减行政费用的必要性。",
-    "clearly illustrate 清楚地说明；清晰地展示 This diagram clearly illustrates how the charitable fund is distributed among different projects. 这张图表清晰地展示了慈善基金是如何在不同项目之间分配的。",
-    "dramatically illustrate 生动地说明；引人注目地展示 The story of a poor family that acquired fame and fortune overnight, dramatically illustrates the power of the press. The sudden market crash dramatically illustrated the risks of over-leveraging. 市场的突然崩盘引人注目地展示了过度杠杆化的风险。",
-    "graphically illustrate 形象地说明；生动地描绘 The example of the United States graphically illustrates this point. The documentary graphically illustrates the devastating effects of the famine on the local population. 这部纪录片形象地说明了饥荒对当地人口造成的毁灭性影响。",
-    "vividly illustrate 生动地说明；历历在目地展示 Her personal stories vividly illustrate the challenges of running a school in a rural area. 她的个人经历生动地说明了在农村地区办学的挑战。",
-    "A recent article in a weekly newspaper, for instance, was headed with a striking illustration of a lady in a state of considerable distress, with the caption 'She was yet another victim, reduced to a screaming wreck'.",
-    "As this illustration shows, it is now man that is man's worst enemy. 正如这幅插图所示，现在人类才是人类最大的敌人。",
-    "The suggestopedic approach to foreign language learning provides a good illustration. 暗示教学法在外语学习中的应用提供了很好的例证。",
-    "She asked me to compare the two insurance policies with each other.她让我将两份保险单进行比较。",
-    "We compared the benefits of working from home with working in the office.我们比较了在家工作和在办公室工作的益处。",
-    "compare A with/to B 将A与B比较（寻找异同） The report compares the current administrative costs with those of the previous year. 报告将当前的行政费用与去年的费用进行了比较。",
-    "contrast A with B 使A与B形成对照（侧重不同点） to compare two things, ideas, people etc. to show how different they are from each other (contrast的解释) The designer contrasted the modern furniture with the traditional architecture of the room. 设计师将现代家具与房间的传统建筑风格形成了鲜明的对比。",
-    "in contrast to / with 与…相比之下 In contrast to his predecessor, the new administrator is very approachable. 与前任相比，这位新行政主管非常平易近人。",
-    "She’s in the enviable position of being able to choose who she works with.",
-    "When two of your best friends argue it puts you in a very awkward position.",
-    "Future historians will be in a unique position when they come to record the history of our own times.",
-    "If you are younger, and in a solid financial position, you may decide to take an aggressive approach but only if you're blessed with a sanguine disposition and won't suffer sleepless nights over share prices.",
-    "in a delicate position 处境微妙；处境棘手 The diplomat found himself in a delicate position when the two allied nations disagreed. 当两个盟国出现分歧时，这位外交官发现自己处境微妙。",
-    "in a dominating position 处于统治地位；占据优势 With a 70% market share, the tech giant is in a dominating position. 凭借70%的市场份额，这家科技巨头处于统治地位。",
-    "in a favorable position 处于有利地位 Having cleared all its debts, the company is now in a favorable position to expand. 在清偿了所有债务后，公司现在处于有利的扩张地位。",
-    "in an adverse position 处境不利；处于逆境 The sudden change in administrative policy left many small businesses in an adverse position. 行政政策的突然变化使许多小企业陷入了不利处境。",
-    "Her tone was that of a parent to a disobedient child.",
-    "Some commentators compared his work with that of James Joyce.",
-    "His style could scarcely be further removed from that of his predecessor.",
-    "Cockburn's arrival coincided with that of Sir Iain and Lady Noble.",
-    "His lined face was that of an old man. 他布满皱纹的脸就像老人一样。",
-    "The company has been in business for over thirty years.",
-    "You can't stay in business without cash.",
-    "After the economic downturn, many small shops struggled to stay in business.在经济衰退之后，许多小商店努力维持经营。",
-    "Their innovative marketing strategy helped the company stay in business.他们创新的营销策略帮助公司维持经营。",
-    "These gifts count as income for tax purposes.",
-    "For the purposes of this study, the three groups have been combined.",
-    "For the purposes of this book, America is taken to include the continent north of Mexico.",
-    "for ... purposes 出于…的需要；为了…的目的 The company collects personal data for administrative purposes only. 公司收集个人数据仅出于行政管理需要。",
-    "for all practical purposes 实际上；事实上 With the main server down, the office is, for all practical purposes, closed. 由于主服务器宕机，办公室实际上已经关闭了。",
-    "for the purpose of (doing) sth. 为了…的目的 The meeting was called for the purpose of discussing the new budget. 召开会议是为了讨论新的预算。",
-    "serve a purpose 有用；起作用 Even old data can serve a purpose when analyzing long-term market trends. 在分析长期市场趋势时，即使是旧数据也能派上用场。",
-    "Her latest documentary is concerned with youth unemployment.",
-    "The report is primarily concerned with the rising administrative costs of the project. 该报告主要涉及项目日益增长的行政费用。",
-    "The public is deeply concerned with the issue of environmental pollution.公众对环境污染问题深感关注。",
-    "The report is primarily concerned with the financial aspects of the merger.这份报告主要与合并的财务方面相关。",
-    "be concerned about / for ... 为…感到担忧/焦虑 We're all concerned about / for her safety. The local community is deeply concerned about the environmental impact of the new factory. 当地社区对新工厂的环境影响深表担忧。",
-    "as far as ... be concerned 就…而言；在…看来 As far as the board is concerned, the current strategy is the most effective one. 在董事会看来，目前的战略是最有效的。",
-    "Heavy overheads reduced his profits.",
-    "The company is trying to cut down on unnecessary administrative overheads.该公司正试图削减不必要的行政管理费用。",
-    "Excessive administrative overheads can severely limit a small firm's profits.过多的行政管理费用会严重限制一家小公司的利润。",
-    "But these are not analogous to what happens when man ages.",
-    "The structure of the atom is analogous to the solar system.原子的结构与太阳系相似。",
-    "The function of the heart is often described as analogous to a pump.心脏的功能常被描述为类比于一个泵。",
-    "Sales have fallen badly this year, to the extent that we will have to close some of our shops.",
-    "Violence increased to the extent that residents were afraid to leave their homes.",
-    "The policy was successful to the extent that it reduced unemployment.这项政策在降低失业率的程度上是成功的。",
-    "To the extent that the people can be relied upon to behave in a loyal and responsible manner, the government does not require armies of police and civil servants to keep them in order. 本课",
-    "Expenses are deductible only to the extent that in aggregate they exceed 7 percent of gross income.",
-    "She agreed with the proposal only to the extent that it concerned her department.她只在涉及她部门的程度上同意这项提议。",
-    "All he cares about is protecting his own interest s .",
-    "As long ago as 1809, the Swedish Parliament introduced a scheme to safeguard the interest of the individual.",
-    "The board’s duty is to promote the interest s of the shareholders.董事会的职责是促进股东的利益。",
-    "The ambassador worked hard to promote the interest s of his country abroad.这位大使努力在国外促进他国家的利益。",
-    "protect sb's interests 保护某人的利益 The union was formed to protect the interests of the administrative staff. 成立工会是为了保护行政人员的利益。",
-    "safeguard sb's interests 捍卫/维护某人的利益 New laws have been introduced to safeguard the interests of minority shareholders. 新法律的颁布是为了捍卫中小股东的利益。",
-    "look after sb's interests 照料/照顾某人的利益 You need a good lawyer to look after your interests during the contract negotiations. 在合同谈判期间，你需要一位好律师来照顾你的利益。",
-    "Lesson 53 In the public interest",
-    "But if a nation is disunited, the government cannot be sure that the actions of the people will be in the interests of the nation; and it will have to watch, check, and control the people accordingly. 本课",
-    "Who do you trust to take responsibility for Britain's defence? Be careful you don't take on too much responsibility.",
-    "The bank refuses to accept responsibility for the mistake.",
-    "Serrano immediately assumed temporary responsibility for foreign affairs.",
-    "Managers must be willing to take full responsibilities for the team's actions.经理必须愿意为团队的行为承担全部责任。",
-    "It's time for him to take responsibility for his mistakes.是时候让他为自己的错误承担责任了。",
-    "take on responsibility 承担责任（侧重主动接受新任务） take over responsibility 接管责任（从他人手中接过来） She was willing to take on responsibility for the new administrative project. 她愿意承担新行政项目的责任。 After the manager retired, his assistant took over responsibility for the department. 经理退休后，他的助理接管了该部门的责任。",
-    "accept responsibility 承认/接受责任（通常指对错误或后果负责） The CEO accepted full responsibility for the data breach. 首席执行官对数据泄露承担全部责任。",
-    "assume responsibility 承担责任（正式，常指就职、获得权力或法律义务） The newly elected official will assume responsibility for the city's charitable funds. 新当选的官员将负责该市的慈善基金。",
-    "bear / shoulder responsibility 肩负/背负重任（强调压力、重量或长期性） Parents bear the primary responsibility for their children's education. 父母对子女的教育负有首要责任。",
-    "When she appeared in court she exercised her right to remain silent.",
-    "He was a man who exercised considerable influence over people.",
-    "Always exercise caution when handling radioactive substances.",
-    "The job requires employees who can exercise initiative and work independently.这份工作要求员工能够发挥主动性并独立工作。",
-    "She was praised for exercising great initiative in solving the crisis.她因在解决危机中发挥了巨大的主动性而受到赞扬。",
-    "The judge said that this matter did not fall within the scope of the auditor's duties.",
-    "Many illnesses fall into the category of stress-related illnesses.",
-    "Meat and poultry production fall under the control of the Agriculture Department.",
-    "Such initiative as falls within their sphere.属于他们范围的主动性。(fall within one's sphere 属于某人的范围/领域)",
-    "The issue does not fall within the scope of this investigation.这个问题不属于本次调查的范围。",
-    "Decisions about curriculum fall within the sphere of the academic council.关于课程的决定属于学术委员会的范围。",
-    "fall into ... 分为…；属于…（通常指类别或群体） The survey results fall into three main categories based on user feedback. 调查结果根据用户反馈分为三个主要类别。",
-    "fall within ... 在…范围内（通常指职权、职责或规定范围） Deciding on administrative costs falls within the manager's remit. 决定行政费用属于经理的职权范围。",
-    "fall under ... 属于…（常用于法律、定义、部门或管辖权） This specific tax exemption falls under the new charitable fund regulations. 这项特定的免税政策属于新的慈善基金条例。",
-    "They knew not to interfere in matters outside their sphere of operation.",
-    "The economic boom has greatly expanded the U.S.'s sphere of influence.",
-    "I need the same tool as you are using.",
-    "I need such a tool as you are using.",
-    "I need as useful a tool as you are using.",
-    "Such inns as there were were generally dirty and flea-ridden ...",
-    "I am sorry to have you waiting so long.",
-    "She had us working day after day.",
-    "Don't worry, I'll look after the kids tomorrow.",
-    "Could you look after the children while I'm at the meeting?我开会的时候你能照看一下孩子吗？",
-    "I'm leaving you here to look after the business until I get back.",
-    "The technician is responsible for looking after the computer systems.这位技术人员负责照看计算机系统。",
-    "I won’t have you say such things.",
-    "I will have someone to translate the story for me.",
-    "I’ll have my assistant call you to finalize the administrative details. 我会叫我的助理打电话给你，落实行政细节。",
-    "let sb. do sth. 让某人做某事；准许某人做某事 The manager let the staff leave early after the successful charitable event. 慈善活动圆满结束后，经理准许员工提前下班。",
-    "make sb. do sth. 强迫/迫使某人做某事 The new policy makes employees change their database passwords every month. 新政策强制员工每月更换一次数据库密码。",
-    "Honey, can you go upstairs and check on the kids?",
-    "My neighbour comes in once a week to check on things and feed the fish.",
-    "The supervisor often checks upon the quality of the work being produced.主管经常核查所生产工作的质量。",
-    "The auditor was asked to check upon the company's financial records.审计员被要求核查公司的财务记录。",
-    "The coach kept the excited team in line.",
-    "The government passed a new law to keep prices in line.",
-    "When the teacher came back into the room, she quickly brought the class back in line.",
-    "The new regulations are intended to keep spending in line with the budget.新规定旨在约束支出与预算保持一致。",
-    "It took a lot of effort for the teacher to keep the noisy class in line.老师花了很大的力气才约束住这个吵闹的班级。",
-    "keep / get sth. in line 使……处于控制中；使……井然有序 The new manager is working hard to get the administrative costs in line with the annual budget. 新经理正努力使行政成本与年度预算保持一致（得到控制）。",
-    "stay in line 遵守规则；守规矩 If you want to succeed in this corporate environment, you have to stay in line with company policy. 如果你想在这个公司环境中取得成功，你必须遵守公司政策。",
-    "in order 井然有序；符合程序；准备就绪 Is your paperwork in order for the charitable fund application? 你的慈善基金申请文书准备好了吗（符合程序）？",
-    "out of order 发生故障；不合礼仪/程序 The database server is out of order, so we cannot access the records today. 数据库服务器出故障了，所以我们今天无法访问记录。",
-    "I’ve asked him to come back next week and report on his progress (to me).",
-    "He reported on the whole event (to the minister).",
-    "The team leader is required to report on the project progress to the directors every week.团队领导被要求每周向董事们汇报项目进展情况。",
-    "She has a rather cold, unfriendly manner.",
-    "Something in Beth's manner towards him had changed.",
-    "manner towards sb./sth. 对某人/某事的方式；态度 Her professional manner towards the administrative staff has earned her great respect. 她对待行政人员的专业态度为她赢得了极大的尊重。",
-    "a friendly / aggressive manner 友好/挑衅的态度 He has a very calm manner towards difficult clients during negotiations. 在谈判中，他对待刁钻客户的态度非常冷静。",
-    "in a ... manner 以…的方式 The charitable funds must be distributed in a transparent manner. 慈善基金必须以透明的方式进行分配。",
-    "There was applause as the foreman of the jury announced the verdict. 陪审团团长宣布裁定结果时响起了一片掌声。",
-    "In 1984 — He was a construction foreman. 在1984年，他是一个建筑工头。",
-    "The foreman said I scared the other workers. 工头说我把其他工人吓着了。",
-    "Her average weekly earnings have increased since she took on more administrative responsibilities. 自从她承担了更多行政职责后，她的周平均收入有所增加。",
-    "The company’s annual earnings were higher than expected due to strong sales in the charitable sector. 由于慈善部门销售强劲，公司的年度利润高于预期。",
-    "loss of earnings 收入损失 He claimed compensation for loss of earnings after the accident left him unable to work. 事故导致他无法工作后，他申请了收入损失赔偿。",
-    "The cost will be met by the company.",
-    "The government has promised to meet the cost of clearing up after the floods.",
-    "meet the expenses 支付/偿付费用 The charitable fund was established to meet the educational expenses of underprivileged children. 成立该慈善基金是为了支付贫困儿童的教育费用。",
-    "meet the bills 支付账单 After losing his job, he struggled to meet his monthly bills. 失业后，他努力偿付每月的账单。",
-    "meet a claim 承付索赔；理赔 The insurance company refused to meet the claim for the administrative error. 保险公司拒绝就该行政错误进行理赔。",
-    "Clothes and blankets have been distributed among the refugees.",
-    "The demonstrators distributed leaflets to passers-by.",
-    "distribute sth. among sb. 在…中分配；分发（强调在一个群体内部） The administrative team distributed the workload among the three new interns. 行政团队将工作量分配给了三名新实习生。",
-    "distribute sth. to sb. 分发给…（强调从中心向多个接收者分发） The charitable organization distributed food and water to the victims of the flood. 慈善机构向洪水灾民发放了食物和水。",
-    "be widely distributed 广泛分布；遍布 This species of bird is widely distributed across Northern Europe. 这种鸟类广泛分布于北欧地区。",
-    "The business will have less money to distribute as dividends or invest directly.企业将有更少的资金作为股息分配或直接投资。",
-    "The company decided to distribute a high percentage of its profits as dividends.该公司决定将其利润的很高一部分作为股息分配。",
-    "The policy is to reinvest profits rather than distribute them as dividends.政策是再投资利润，而不是将它们作为股息分配。",
-    "The firm decided to invest directly in the development of new technology.该公司决定直接投资于新技术的发展。",
-    "Many people prefer to invest directly in stocks and bonds rather than through a fund.许多人更喜欢直接投资于股票和债券，而不是通过基金。"
+   "parts": [
+    {
+     "text": "This may be illustrated by comparing the position of a nation with that of a private business enterprise. illustrate v. to make the meaning of sth. clearer by using examples, pictures, etc. （用例子、图表等）说明，阐明 be illustrated by... 通过…来说明/例证 illustration n. 1. 插图；2. 例证，例子 compare A with B 将A与B进行比较 to examine people or things to see how they are similar and how they are different. position n. the situation that someone is in, especially when this affects what they can and cannot do 地位，处境，状况 that of 那个的；那样的(不可省略) An enterprise has to incur certain costs and expenses in order to stay in business. in business A company that is in business is operating and trading.（公司） 经营，运转 For our purposes, we are concerned only with one kind of cost -- the cost of managing and administering the business. purposes n. [pl.] what is needed in a particular situation 需要 be concerned with sth. be about sth. 与某事物有关，涉及某事物；关注/与…相关 Such administrative overheads in a business are analogous to the cost of government in a nation. overheads n. [pl] regular expenses involved in running a business, e.g. rent, light, heating, salaries （企业运转所需要的）经费（如房租、电费、取暖费、薪金） be analogous to / with 与…相似/类比于 The administrative overheads of a business are low to the extent that everyone working in the business can be trusted to behave in a way t hat best promotes the interests of the firm . to the extent that … 1. 以至于…(引导结果状语) to the extent that … 2. 只要…，只有…（引导条件） interest n. [C usually pl, U] benefit, advantage 好处，利益 in sb.’s interest(s) for or to sb.’s advantage 为某人的利益，对某人有好处 If they can each be trusted to take such responsibilities and to exercise such initiative as falls within their sphere , then administrative overheads will be low. take responsibilities 承担责任 exercise v. (fml.) to use your power, rights or personal qualities in order to achieve sth. 使用，运用，利用 fall v. to belong to or be part of a particular group, area of responsibility, range of things, or type of things 属于… sphere n. an area of responsibility or a type of situation over which a person or group has influence or power 范围 such / the same / as / so … as … 引导限定性定语从句 It will be low because it will be necessary to have only one man looking after each job, without having another man to check upon what he is doing , keep him in line, and report on him to someone else. have sb. doing sth. 让某人（持续性）做某事 look after 1. to take care of someone by helping them, giving them what they need, or keeping them safe = take care of 照顾，照料 look after 2. to be responsible for dealing with something = take care of 负责处理…… have sb. (to) do （使役）让某人去做...安排某人做某事 check on / upon to make sure that someone or something is safe, is ina satisfactory state, or is doing what they should be doing 检查，核查， 监督 in line 得到控制，有秩序 report on sb. to sb. 向别人汇报某人的情况;汇报关于…的情况 But if no one can be trusted to act in a loyal and responsible manner towards his job, then the business will require armies of administrators, checkers, and foremen and administrative overheads will rise correspondingly. manner n. [sing] person's way of behaving towards others 态度 foreman n. (pl foremen) experienced worker who supervises and directs other workers 领班；工头 As administrative overheads rise , so the earnings of the business after meeting the expense of administration, will fall ; and the business will have less money to distribute as dividends or invest directly in its future progress and development. earnings n. [pl.] 1. the money that you earn for the work that you do 薪水 earnings n. [pl.] 2. the profit that a company makes 公司的利润 meet v. to make a payment that needs to be made 支付，偿付（某费用） distribute v. to share things among a group of people, especially in a planned way = give out 分配，分发 dividend n. a part of a company’s profit that is divided among the people with shares in the company（付给股票持有者的）股息，红利 invest directly in... 直接投资于…"
+    },
+    {
+     "text": "To illustrate my point, let me tell you a little story."
+    },
+    {
+     "text": "The lecturer illustrated his point with a diagram on the blackboard."
+    },
+    {
+     "text": "Their properties could be illustrated by simple experiments."
+    },
+    {
+     "text": "The general restlessness and hurry of life are always illustrated by the practice of fast eating."
+    },
+    {
+     "text": "The theory was illustrated by several case studies.这个理论通过几个案例研究得到了例证。"
+    },
+    {
+     "text": "The lecture will be illustrated by slides and videos.这次讲座将通过幻灯片和视频来说明。"
+    },
+    {
+     "table": {
+      "headers": [
+       "amply illustrate 充分说明；详尽阐明",
+       "clearly illustrate 清楚地说明；清晰地展示",
+       "dramatically illustrate 生动地说明；引人注目地展示",
+       "graphically illustrate 形象地说明；生动地描绘",
+       "vividly illustrate 生动地说明；历历在目地展示"
+      ],
+      "rows": [
+       [
+        "One example may amply illustrate this point. The latest quarterly report amply illustrates the need for a reduction in administrative costs. 最新的季度报告充分说明了削减行政费用的必要性。"
+       ],
+       [
+        "This diagram clearly illustrates how the charitable fund is distributed among different projects. 这张图表清晰地展示了慈善基金是如何在不同项目之间分配的。"
+       ],
+       [
+        "The story of a poor family that acquired fame and fortune overnight, dramatically illustrates the power of the press. The sudden market crash dramatically illustrated the risks of over-leveraging. 市场的突然崩盘引人注目地展示了过度杠杆化的风险。"
+       ],
+       [
+        "The example of the United States graphically illustrates this point. The documentary graphically illustrates the devastating effects of the famine on the local population. 这部纪录片形象地说明了饥荒对当地人口造成的毁灭性影响。"
+       ],
+       [
+        "Her personal stories vividly illustrate the challenges of running a school in a rural area. 她的个人经历生动地说明了在农村地区办学的挑战。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "A recent article in a weekly newspaper, for instance, was headed with a striking illustration of a lady in a state of considerable distress, with the caption 'She was yet another victim, reduced to a screaming wreck'."
+    },
+    {
+     "text": "As this illustration shows, it is now man that is man's worst enemy. 正如这幅插图所示，现在人类才是人类最大的敌人。"
+    },
+    {
+     "text": "The suggestopedic approach to foreign language learning provides a good illustration. 暗示教学法在外语学习中的应用提供了很好的例证。"
+    },
+    {
+     "text": "She asked me to compare the two insurance policies with each other.她让我将两份保险单进行比较。"
+    },
+    {
+     "text": "We compared the benefits of working from home with working in the office.我们比较了在家工作和在办公室工作的益处。"
+    },
+    {
+     "table": {
+      "headers": [
+       "compare A with/to B 将A与B比较（寻找异同）",
+       "contrast A with B 使A与B形成对照（侧重不同点）",
+       "in contrast to / with 与…相比之下"
+      ],
+      "rows": [
+       [
+        "The report compares the current administrative costs with those of the previous year. 报告将当前的行政费用与去年的费用进行了比较。"
+       ],
+       [
+        "to compare two things, ideas, people etc. to show how different they are from each other (contrast的解释) The designer contrasted the modern furniture with the traditional architecture of the room. 设计师将现代家具与房间的传统建筑风格形成了鲜明的对比。"
+       ],
+       [
+        "In contrast to his predecessor, the new administrator is very approachable. 与前任相比，这位新行政主管非常平易近人。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "She’s in the enviable position of being able to choose who she works with."
+    },
+    {
+     "text": "When two of your best friends argue it puts you in a very awkward position."
+    },
+    {
+     "text": "Future historians will be in a unique position when they come to record the history of our own times."
+    },
+    {
+     "text": "If you are younger, and in a solid financial position, you may decide to take an aggressive approach but only if you're blessed with a sanguine disposition and won't suffer sleepless nights over share prices."
+    },
+    {
+     "table": {
+      "headers": [
+       "in a delicate position 处境微妙；处境棘手",
+       "in a dominating position 处于统治地位；占据优势",
+       "in a favorable position 处于有利地位",
+       "in an adverse position 处境不利；处于逆境"
+      ],
+      "rows": [
+       [
+        "The diplomat found himself in a delicate position when the two allied nations disagreed. 当两个盟国出现分歧时，这位外交官发现自己处境微妙。"
+       ],
+       [
+        "With a 70% market share, the tech giant is in a dominating position. 凭借70%的市场份额，这家科技巨头处于统治地位。"
+       ],
+       [
+        "Having cleared all its debts, the company is now in a favorable position to expand. 在清偿了所有债务后，公司现在处于有利的扩张地位。"
+       ],
+       [
+        "The sudden change in administrative policy left many small businesses in an adverse position. 行政政策的突然变化使许多小企业陷入了不利处境。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Her tone was that of a parent to a disobedient child."
+    },
+    {
+     "text": "Some commentators compared his work with that of James Joyce."
+    },
+    {
+     "text": "His style could scarcely be further removed from that of his predecessor."
+    },
+    {
+     "text": "Cockburn's arrival coincided with that of Sir Iain and Lady Noble."
+    },
+    {
+     "text": "His lined face was that of an old man. 他布满皱纹的脸就像老人一样。"
+    },
+    {
+     "text": "The company has been in business for over thirty years."
+    },
+    {
+     "text": "You can't stay in business without cash."
+    },
+    {
+     "text": "After the economic downturn, many small shops struggled to stay in business.在经济衰退之后，许多小商店努力维持经营。"
+    },
+    {
+     "text": "Their innovative marketing strategy helped the company stay in business.他们创新的营销策略帮助公司维持经营。"
+    },
+    {
+     "text": "These gifts count as income for tax purposes."
+    },
+    {
+     "text": "For the purposes of this study, the three groups have been combined."
+    },
+    {
+     "text": "For the purposes of this book, America is taken to include the continent north of Mexico."
+    },
+    {
+     "table": {
+      "headers": [
+       "for ... purposes 出于…的需要；为了…的目的",
+       "for all practical purposes 实际上；事实上",
+       "for the purpose of (doing) sth. 为了…的目的",
+       "serve a purpose 有用；起作用"
+      ],
+      "rows": [
+       [
+        "The company collects personal data for administrative purposes only. 公司收集个人数据仅出于行政管理需要。"
+       ],
+       [
+        "With the main server down, the office is, for all practical purposes, closed. 由于主服务器宕机，办公室实际上已经关闭了。"
+       ],
+       [
+        "The meeting was called for the purpose of discussing the new budget. 召开会议是为了讨论新的预算。"
+       ],
+       [
+        "Even old data can serve a purpose when analyzing long-term market trends. 在分析长期市场趋势时，即使是旧数据也能派上用场。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Her latest documentary is concerned with youth unemployment."
+    },
+    {
+     "text": "The report is primarily concerned with the rising administrative costs of the project. 该报告主要涉及项目日益增长的行政费用。"
+    },
+    {
+     "text": "The public is deeply concerned with the issue of environmental pollution.公众对环境污染问题深感关注。"
+    },
+    {
+     "text": "The report is primarily concerned with the financial aspects of the merger.这份报告主要与合并的财务方面相关。"
+    },
+    {
+     "table": {
+      "headers": [
+       "be concerned about / for ... 为…感到担忧/焦虑",
+       "as far as ... be concerned 就…而言；在…看来"
+      ],
+      "rows": [
+       [
+        "We're all concerned about / for her safety. The local community is deeply concerned about the environmental impact of the new factory. 当地社区对新工厂的环境影响深表担忧。"
+       ],
+       [
+        "As far as the board is concerned, the current strategy is the most effective one. 在董事会看来，目前的战略是最有效的。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Heavy overheads reduced his profits."
+    },
+    {
+     "text": "The company is trying to cut down on unnecessary administrative overheads.该公司正试图削减不必要的行政管理费用。"
+    },
+    {
+     "text": "Excessive administrative overheads can severely limit a small firm's profits.过多的行政管理费用会严重限制一家小公司的利润。"
+    },
+    {
+     "text": "But these are not analogous to what happens when man ages."
+    },
+    {
+     "text": "The structure of the atom is analogous to the solar system.原子的结构与太阳系相似。"
+    },
+    {
+     "text": "The function of the heart is often described as analogous to a pump.心脏的功能常被描述为类比于一个泵。"
+    },
+    {
+     "text": "Sales have fallen badly this year, to the extent that we will have to close some of our shops."
+    },
+    {
+     "text": "Violence increased to the extent that residents were afraid to leave their homes."
+    },
+    {
+     "text": "The policy was successful to the extent that it reduced unemployment.这项政策在降低失业率的程度上是成功的。"
+    },
+    {
+     "text": "To the extent that the people can be relied upon to behave in a loyal and responsible manner, the government does not require armies of police and civil servants to keep them in order. 本课"
+    },
+    {
+     "text": "Expenses are deductible only to the extent that in aggregate they exceed 7 percent of gross income."
+    },
+    {
+     "text": "She agreed with the proposal only to the extent that it concerned her department.她只在涉及她部门的程度上同意这项提议。"
+    },
+    {
+     "text": "All he cares about is protecting his own interest s ."
+    },
+    {
+     "text": "As long ago as 1809, the Swedish Parliament introduced a scheme to safeguard the interest of the individual."
+    },
+    {
+     "text": "The board’s duty is to promote the interest s of the shareholders.董事会的职责是促进股东的利益。"
+    },
+    {
+     "text": "The ambassador worked hard to promote the interest s of his country abroad.这位大使努力在国外促进他国家的利益。"
+    },
+    {
+     "table": {
+      "headers": [
+       "protect sb's interests 保护某人的利益",
+       "safeguard sb's interests 捍卫/维护某人的利益",
+       "look after sb's interests 照料/照顾某人的利益"
+      ],
+      "rows": [
+       [
+        "The union was formed to protect the interests of the administrative staff. 成立工会是为了保护行政人员的利益。"
+       ],
+       [
+        "New laws have been introduced to safeguard the interests of minority shareholders. 新法律的颁布是为了捍卫中小股东的利益。"
+       ],
+       [
+        "You need a good lawyer to look after your interests during the contract negotiations. 在合同谈判期间，你需要一位好律师来照顾你的利益。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Lesson 53 In the public interest"
+    },
+    {
+     "text": "But if a nation is disunited, the government cannot be sure that the actions of the people will be in the interests of the nation; and it will have to watch, check, and control the people accordingly. 本课"
+    },
+    {
+     "text": "Who do you trust to take responsibility for Britain's defence? Be careful you don't take on too much responsibility."
+    },
+    {
+     "text": "The bank refuses to accept responsibility for the mistake."
+    },
+    {
+     "text": "Serrano immediately assumed temporary responsibility for foreign affairs."
+    },
+    {
+     "text": "Managers must be willing to take full responsibilities for the team's actions.经理必须愿意为团队的行为承担全部责任。"
+    },
+    {
+     "text": "It's time for him to take responsibility for his mistakes.是时候让他为自己的错误承担责任了。"
+    },
+    {
+     "table": {
+      "headers": [
+       "take on responsibility 承担责任（侧重主动接受新任务） take over responsibility 接管责任（从他人手中接过来）",
+       "accept responsibility 承认/接受责任（通常指对错误或后果负责）",
+       "assume responsibility 承担责任（正式，常指就职、获得权力或法律义务）",
+       "bear / shoulder responsibility 肩负/背负重任（强调压力、重量或长期性）"
+      ],
+      "rows": [
+       [
+        "She was willing to take on responsibility for the new administrative project. 她愿意承担新行政项目的责任。 After the manager retired, his assistant took over responsibility for the department. 经理退休后，他的助理接管了该部门的责任。"
+       ],
+       [
+        "The CEO accepted full responsibility for the data breach. 首席执行官对数据泄露承担全部责任。"
+       ],
+       [
+        "The newly elected official will assume responsibility for the city's charitable funds. 新当选的官员将负责该市的慈善基金。"
+       ],
+       [
+        "Parents bear the primary responsibility for their children's education. 父母对子女的教育负有首要责任。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "When she appeared in court she exercised her right to remain silent."
+    },
+    {
+     "text": "He was a man who exercised considerable influence over people."
+    },
+    {
+     "text": "Always exercise caution when handling radioactive substances."
+    },
+    {
+     "text": "The job requires employees who can exercise initiative and work independently.这份工作要求员工能够发挥主动性并独立工作。"
+    },
+    {
+     "text": "She was praised for exercising great initiative in solving the crisis.她因在解决危机中发挥了巨大的主动性而受到赞扬。"
+    },
+    {
+     "text": "The judge said that this matter did not fall within the scope of the auditor's duties."
+    },
+    {
+     "text": "Many illnesses fall into the category of stress-related illnesses."
+    },
+    {
+     "text": "Meat and poultry production fall under the control of the Agriculture Department."
+    },
+    {
+     "text": "Such initiative as falls within their sphere.属于他们范围的主动性。(fall within one's sphere 属于某人的范围/领域)"
+    },
+    {
+     "text": "The issue does not fall within the scope of this investigation.这个问题不属于本次调查的范围。"
+    },
+    {
+     "text": "Decisions about curriculum fall within the sphere of the academic council.关于课程的决定属于学术委员会的范围。"
+    },
+    {
+     "table": {
+      "headers": [
+       "fall into ... 分为…；属于…（通常指类别或群体）",
+       "fall within ... 在…范围内（通常指职权、职责或规定范围）",
+       "fall under ... 属于…（常用于法律、定义、部门或管辖权）"
+      ],
+      "rows": [
+       [
+        "The survey results fall into three main categories based on user feedback. 调查结果根据用户反馈分为三个主要类别。"
+       ],
+       [
+        "Deciding on administrative costs falls within the manager's remit. 决定行政费用属于经理的职权范围。"
+       ],
+       [
+        "This specific tax exemption falls under the new charitable fund regulations. 这项特定的免税政策属于新的慈善基金条例。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "They knew not to interfere in matters outside their sphere of operation."
+    },
+    {
+     "text": "The economic boom has greatly expanded the U.S.'s sphere of influence."
+    },
+    {
+     "text": "I need the same tool as you are using."
+    },
+    {
+     "text": "I need such a tool as you are using."
+    },
+    {
+     "text": "I need as useful a tool as you are using."
+    },
+    {
+     "text": "Such inns as there were were generally dirty and flea-ridden ..."
+    },
+    {
+     "text": "I am sorry to have you waiting so long."
+    },
+    {
+     "text": "She had us working day after day."
+    },
+    {
+     "text": "Don't worry, I'll look after the kids tomorrow."
+    },
+    {
+     "text": "Could you look after the children while I'm at the meeting?我开会的时候你能照看一下孩子吗？"
+    },
+    {
+     "text": "I'm leaving you here to look after the business until I get back."
+    },
+    {
+     "text": "The technician is responsible for looking after the computer systems.这位技术人员负责照看计算机系统。"
+    },
+    {
+     "text": "I won’t have you say such things."
+    },
+    {
+     "text": "I will have someone to translate the story for me."
+    },
+    {
+     "text": "I’ll have my assistant call you to finalize the administrative details. 我会叫我的助理打电话给你，落实行政细节。"
+    },
+    {
+     "table": {
+      "headers": [
+       "let sb. do sth. 让某人做某事；准许某人做某事",
+       "make sb. do sth. 强迫/迫使某人做某事"
+      ],
+      "rows": [
+       [
+        "The manager let the staff leave early after the successful charitable event. 慈善活动圆满结束后，经理准许员工提前下班。"
+       ],
+       [
+        "The new policy makes employees change their database passwords every month. 新政策强制员工每月更换一次数据库密码。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Honey, can you go upstairs and check on the kids?"
+    },
+    {
+     "text": "My neighbour comes in once a week to check on things and feed the fish."
+    },
+    {
+     "text": "The supervisor often checks upon the quality of the work being produced.主管经常核查所生产工作的质量。"
+    },
+    {
+     "text": "The auditor was asked to check upon the company's financial records.审计员被要求核查公司的财务记录。"
+    },
+    {
+     "text": "The coach kept the excited team in line."
+    },
+    {
+     "text": "The government passed a new law to keep prices in line."
+    },
+    {
+     "text": "When the teacher came back into the room, she quickly brought the class back in line."
+    },
+    {
+     "text": "The new regulations are intended to keep spending in line with the budget.新规定旨在约束支出与预算保持一致。"
+    },
+    {
+     "text": "It took a lot of effort for the teacher to keep the noisy class in line.老师花了很大的力气才约束住这个吵闹的班级。"
+    },
+    {
+     "table": {
+      "headers": [
+       "keep / get sth. in line 使……处于控制中；使……井然有序",
+       "stay in line 遵守规则；守规矩",
+       "in order 井然有序；符合程序；准备就绪",
+       "out of order 发生故障；不合礼仪/程序"
+      ],
+      "rows": [
+       [
+        "The new manager is working hard to get the administrative costs in line with the annual budget. 新经理正努力使行政成本与年度预算保持一致（得到控制）。"
+       ],
+       [
+        "If you want to succeed in this corporate environment, you have to stay in line with company policy. 如果你想在这个公司环境中取得成功，你必须遵守公司政策。"
+       ],
+       [
+        "Is your paperwork in order for the charitable fund application? 你的慈善基金申请文书准备好了吗（符合程序）？"
+       ],
+       [
+        "The database server is out of order, so we cannot access the records today. 数据库服务器出故障了，所以我们今天无法访问记录。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "I’ve asked him to come back next week and report on his progress (to me)."
+    },
+    {
+     "text": "He reported on the whole event (to the minister)."
+    },
+    {
+     "text": "The team leader is required to report on the project progress to the directors every week.团队领导被要求每周向董事们汇报项目进展情况。"
+    },
+    {
+     "text": "She has a rather cold, unfriendly manner."
+    },
+    {
+     "text": "Something in Beth's manner towards him had changed."
+    },
+    {
+     "table": {
+      "headers": [
+       "manner towards sb./sth. 对某人/某事的方式；态度",
+       "a friendly / aggressive manner 友好/挑衅的态度",
+       "in a ... manner 以…的方式"
+      ],
+      "rows": [
+       [
+        "Her professional manner towards the administrative staff has earned her great respect. 她对待行政人员的专业态度为她赢得了极大的尊重。"
+       ],
+       [
+        "He has a very calm manner towards difficult clients during negotiations. 在谈判中，他对待刁钻客户的态度非常冷静。"
+       ],
+       [
+        "The charitable funds must be distributed in a transparent manner. 慈善基金必须以透明的方式进行分配。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "There was applause as the foreman of the jury announced the verdict. 陪审团团长宣布裁定结果时响起了一片掌声。"
+    },
+    {
+     "text": "In 1984 — He was a construction foreman. 在1984年，他是一个建筑工头。"
+    },
+    {
+     "text": "The foreman said I scared the other workers. 工头说我把其他工人吓着了。"
+    },
+    {
+     "text": "Her average weekly earnings have increased since she took on more administrative responsibilities. 自从她承担了更多行政职责后，她的周平均收入有所增加。"
+    },
+    {
+     "text": "The company’s annual earnings were higher than expected due to strong sales in the charitable sector. 由于慈善部门销售强劲，公司的年度利润高于预期。"
+    },
+    {
+     "table": {
+      "headers": [
+       "loss of earnings 收入损失"
+      ],
+      "rows": [
+       [
+        "He claimed compensation for loss of earnings after the accident left him unable to work. 事故导致他无法工作后，他申请了收入损失赔偿。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The cost will be met by the company."
+    },
+    {
+     "text": "The government has promised to meet the cost of clearing up after the floods."
+    },
+    {
+     "table": {
+      "headers": [
+       "meet the expenses 支付/偿付费用",
+       "meet the bills 支付账单",
+       "meet a claim 承付索赔；理赔"
+      ],
+      "rows": [
+       [
+        "The charitable fund was established to meet the educational expenses of underprivileged children. 成立该慈善基金是为了支付贫困儿童的教育费用。"
+       ],
+       [
+        "After losing his job, he struggled to meet his monthly bills. 失业后，他努力偿付每月的账单。"
+       ],
+       [
+        "The insurance company refused to meet the claim for the administrative error. 保险公司拒绝就该行政错误进行理赔。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Clothes and blankets have been distributed among the refugees."
+    },
+    {
+     "text": "The demonstrators distributed leaflets to passers-by."
+    },
+    {
+     "table": {
+      "headers": [
+       "distribute sth. among sb. 在…中分配；分发（强调在一个群体内部）",
+       "distribute sth. to sb. 分发给…（强调从中心向多个接收者分发）",
+       "be widely distributed 广泛分布；遍布"
+      ],
+      "rows": [
+       [
+        "The administrative team distributed the workload among the three new interns. 行政团队将工作量分配给了三名新实习生。"
+       ],
+       [
+        "The charitable organization distributed food and water to the victims of the flood. 慈善机构向洪水灾民发放了食物和水。"
+       ],
+       [
+        "This species of bird is widely distributed across Northern Europe. 这种鸟类广泛分布于北欧地区。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The business will have less money to distribute as dividends or invest directly.企业将有更少的资金作为股息分配或直接投资。"
+    },
+    {
+     "text": "The company decided to distribute a high percentage of its profits as dividends.该公司决定将其利润的很高一部分作为股息分配。"
+    },
+    {
+     "text": "The policy is to reinvest profits rather than distribute them as dividends.政策是再投资利润，而不是将它们作为股息分配。"
+    },
+    {
+     "text": "The firm decided to invest directly in the development of new technology.该公司决定直接投资于新技术的发展。"
+    },
+    {
+     "text": "Many people prefer to invest directly in stocks and bonds rather than through a fund.许多人更喜欢直接投资于股票和债券，而不是通过基金。"
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "结果",
-   "lines": [
-    "It is precisely the same with a nation. precisely the same 完全一样/丝毫不差 To the extent that the people can be relied upon to behave in a loyal and responsible manner, the government does not require armies of police and civil servants to keep them in order. army n. an organized group of people who are working together or helping someone 团体，大军 civil servant n. someone employed in the civil service 公务员，政府的文职人员 order n. [U] (condition brought about by) obedience to laws, rules, authority 治安，秩序，规矩 But if a nation is disunited , the government cannot be sure that the actions of the people will be in the interests of the nation ; and it will have to watch, check, and control the people accordingly. accordingly adv. (常位于句首)1. as a result of sth. = therefore 因此 accordingly adv. （常位于句末）2. in a way that is appropriate to what has been done or said in a particular situation 相应地 A disunited nation therefore has to incur unduly high costs of government. incur costs 承担/招致成本 unduly high costs 不适当的高额成本",
-    "It is precisely the same with a nation as it is with a private business.一个国家的情况与一个私营企业是完全一样的。",
-    "The new product is precisely the same as the original one, just a different color.新产品与原来的产品完全一样，只是颜色不同。",
-    "The results of the second experiment were precisely the same as the first.第二次实验的结果与第一次完全一样。",
-    "the same with sth./sb. …的情况也一样 He prefers quiet holidays, and it is the same with his wife.他喜欢安静的假期，他的妻子也是如此。 The rules apply to everyone, and it is the same with you.规则适用于每个人，你的情况也一样。",
-    "Armies of rescue workers are sorting through the rubble.",
-    "When summer comes, you'll see armies of tourists waiting in line in order to get a seat. 当夏天到来的时候，你会看到成群结队的游客排着队，只为抢到一个座位。",
-    "So rise the armies of emotion, and all our histories rearrange. 那么唤起情绪的大军吧，一切历史因之重写。",
-    "The convention was attended by armies of devoted fans.这次大会吸引了大量忠实粉丝参加。",
-    "The project requires armies of technicians and engineers.这个项目需要大量的技术人员和工程师。",
-    "The Swedes were the first to recognize that public officials like civil servants, police officers, health inspectors or tax-collectors can make mistakes or act over-zealously in the belief that they are serving the public.",
-    "Some teachers find it difficult to keep their classes in order.",
-    "The teacher struggled to keep the large class in order during the field trip.在实地考察期间，老师努力维持这个大班的秩序。",
-    "Strict rules are often used to keep the soldiers in order.严格的规定经常被用来约束士兵。",
-    "keep sb./sth. in order 使…守规矩；维持秩序 The administrative staff worked hard to keep the crowd in order during the busy charitable auction. 行政人员在繁忙的慈善拍卖会期间努力维持人群秩序。",
-    "maintain order 维持治安/秩序 Police were called in to maintain order after the protest turned violent. 抗议活动演变成暴力冲突后，警方被调来维持秩序。",
-    "restore order 恢复秩序 It took several days for the government to restore order in the flood-affected regions. 政府花了几天时间才在受灾地区恢复秩序。",
-    "Some of the laws were contradictory. Accordingly, measures were taken to clarify them.",
-    "The cost of materials rose sharply last year. Accordingly, we were forced to increase our prices.",
-    "They have broken the rules and will be punished accordingly.",
-    "It is a difficult job and they should be paid accordingly.",
-    "The forecast predicted rain, so we dressed accordingly.天气预报预测会下雨，所以我们相应地穿了衣服。",
-    "The board approved the budget, and the departments adjusted their spending accordingly.董事会批准了预算，各部门相应地调整了支出。",
-    "Starting a new project often means incurring initial setup costs.启动一个新项目通常意味着要承担初始设置成本。",
-    "The company incurred heavy losses during the economic crisis.这家公司在经济危机期间招致了巨额亏损。",
-    "The court ruled that the fine was unduly high given the nature of the offense.法院裁定，考虑到罪行的性质，罚款是不适当的高额。",
-    "The new safety regulations should not impose unduly high costs on small businesses.新的安全规定不应该给小型企业带来不适当的高额成本。"
+   "parts": [
+    {
+     "text": "It is precisely the same with a nation. precisely the same 完全一样/丝毫不差 To the extent that the people can be relied upon to behave in a loyal and responsible manner, the government does not require armies of police and civil servants to keep them in order. army n. an organized group of people who are working together or helping someone 团体，大军 civil servant n. someone employed in the civil service 公务员，政府的文职人员 order n. [U] (condition brought about by) obedience to laws, rules, authority 治安，秩序，规矩 But if a nation is disunited , the government cannot be sure that the actions of the people will be in the interests of the nation ; and it will have to watch, check, and control the people accordingly. accordingly adv. (常位于句首)1. as a result of sth. = therefore 因此 accordingly adv. （常位于句末）2. in a way that is appropriate to what has been done or said in a particular situation 相应地 A disunited nation therefore has to incur unduly high costs of government. incur costs 承担/招致成本 unduly high costs 不适当的高额成本"
+    },
+    {
+     "text": "It is precisely the same with a nation as it is with a private business.一个国家的情况与一个私营企业是完全一样的。"
+    },
+    {
+     "text": "The new product is precisely the same as the original one, just a different color.新产品与原来的产品完全一样，只是颜色不同。"
+    },
+    {
+     "text": "The results of the second experiment were precisely the same as the first.第二次实验的结果与第一次完全一样。"
+    },
+    {
+     "table": {
+      "headers": [
+       "the same with sth./sb. …的情况也一样"
+      ],
+      "rows": [
+       [
+        "He prefers quiet holidays, and it is the same with his wife.他喜欢安静的假期，他的妻子也是如此。 The rules apply to everyone, and it is the same with you.规则适用于每个人，你的情况也一样。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Armies of rescue workers are sorting through the rubble."
+    },
+    {
+     "text": "When summer comes, you'll see armies of tourists waiting in line in order to get a seat. 当夏天到来的时候，你会看到成群结队的游客排着队，只为抢到一个座位。"
+    },
+    {
+     "text": "So rise the armies of emotion, and all our histories rearrange. 那么唤起情绪的大军吧，一切历史因之重写。"
+    },
+    {
+     "text": "The convention was attended by armies of devoted fans.这次大会吸引了大量忠实粉丝参加。"
+    },
+    {
+     "text": "The project requires armies of technicians and engineers.这个项目需要大量的技术人员和工程师。"
+    },
+    {
+     "text": "The Swedes were the first to recognize that public officials like civil servants, police officers, health inspectors or tax-collectors can make mistakes or act over-zealously in the belief that they are serving the public."
+    },
+    {
+     "text": "Some teachers find it difficult to keep their classes in order."
+    },
+    {
+     "text": "The teacher struggled to keep the large class in order during the field trip.在实地考察期间，老师努力维持这个大班的秩序。"
+    },
+    {
+     "text": "Strict rules are often used to keep the soldiers in order.严格的规定经常被用来约束士兵。"
+    },
+    {
+     "table": {
+      "headers": [
+       "keep sb./sth. in order 使…守规矩；维持秩序",
+       "maintain order 维持治安/秩序",
+       "restore order 恢复秩序"
+      ],
+      "rows": [
+       [
+        "The administrative staff worked hard to keep the crowd in order during the busy charitable auction. 行政人员在繁忙的慈善拍卖会期间努力维持人群秩序。"
+       ],
+       [
+        "Police were called in to maintain order after the protest turned violent. 抗议活动演变成暴力冲突后，警方被调来维持秩序。"
+       ],
+       [
+        "It took several days for the government to restore order in the flood-affected regions. 政府花了几天时间才在受灾地区恢复秩序。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Some of the laws were contradictory. Accordingly, measures were taken to clarify them."
+    },
+    {
+     "text": "The cost of materials rose sharply last year. Accordingly, we were forced to increase our prices."
+    },
+    {
+     "text": "They have broken the rules and will be punished accordingly."
+    },
+    {
+     "text": "It is a difficult job and they should be paid accordingly."
+    },
+    {
+     "text": "The forecast predicted rain, so we dressed accordingly.天气预报预测会下雨，所以我们相应地穿了衣服。"
+    },
+    {
+     "text": "The board approved the budget, and the departments adjusted their spending accordingly.董事会批准了预算，各部门相应地调整了支出。"
+    },
+    {
+     "text": "Starting a new project often means incurring initial setup costs.启动一个新项目通常意味着要承担初始设置成本。"
+    },
+    {
+     "text": "The company incurred heavy losses during the economic crisis.这家公司在经济危机期间招致了巨额亏损。"
+    },
+    {
+     "text": "The court ruled that the fine was unduly high given the nature of the offense.法院裁定，考虑到罪行的性质，罚款是不适当的高额。"
+    },
+    {
+     "text": "The new safety regulations should not impose unduly high costs on small businesses.新的安全规定不应该给小型企业带来不适当的高额成本。"
+    }
    ]
   }
  ]

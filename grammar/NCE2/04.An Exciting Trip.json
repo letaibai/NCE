@@ -2,80 +2,328 @@
  "grammar": [
   {
    "title": "现在完成时",
-   "lines": [
-    "现在完成时表示动作现存的结果，或者过去发生的事对现在的影响，通常发生的时间不明（如果出现了具体的时间，会使用“一般过去时”）。 结构：have/has + done（v. 过去分词） 用法： 完成？ 现在的之前 做没做完并不重要，重要的是站在哪个角度去看。现在完成时是站在现在的这个角度往之前看。现在完成时表示动作现存的结果，或者过去发生的事对现在的影响。 常与现在完成时连用的 副词 和 副词短语 疑问句 和 否定句 中",
-    "全部完成(截止到现在) 部分完成(截止到现在)",
-    "He has finished the homework. We have learned English for ten years.",
-    "句型 助动词 三单 助动词 非三单",
-    "现在完成时 He has finished the homework. I have finished the work.",
-    "否定句 He has not finished the homework.(hasn't) I have not finished the work.(haven't)",
-    "一般疑问句 Has he finished the homework? Have you finished the work?",
-    "特殊疑问句 What has he done ? What have you done ?",
-    "词组 用法",
-    "before (now) I have never been to Paris before.（我以前从未去过巴黎。）",
-    "it’s the first time It's the first time I've tried sushi.（这是我第一次尝试寿司。）",
-    "so far So far, I have finished three books this month.（到目前为止，我这个月已经读完了三本书。）",
-    "so far this morning I have received three emails so far this morning.（到今天早上为止，我今天上午已经收到了三封邮件。）",
-    "up to now Up to now, I haven't received any updates on the project.（直到现在，我还没有收到关于项目的任何更新。）",
-    "up to the present Up to the present, she has published ten research papers.（直到现在，她已经发表了十篇研究论文。）",
-    "just I have just finished my homework.（我刚做完作业。）",
-    "recently Have you seen her recently?（你最近见过她吗？）",
-    "already He has already eaten dinner.（他已经吃过晚饭了。）",
-    "lately Lately, I've been feeling tired all the time.（最近，我一直感觉很累。）",
-    "now I have had a meeting now.（我现在已有一个会议。）",
-    "for I have been learning Spanish for two years.（我已经学习西班牙语两年了。）",
-    "since + 时间 She has been working here since 2010.（她自2010年以来一直在这里工作。）",
-    "till The store is open till 9 PM.（商店一直开放到晚上9点。）",
-    "at last I have found my keys at last.（我终于找到了我的钥匙。）",
-    "finally He has finally finished his thesis.（他终于完成了他的论文。）",
-    "词组 用法",
-    "ever Have you ever been to Paris?（你曾经去过巴黎吗？）",
-    "yet Have you finished your homework yet?（你完成作业了吗？）",
-    "never I have never seen a shooting star.（我从来没有见过流星。）",
-    "not…ever He does not ever eat spicy food.（他从不吃辣食。）",
-    "have you ever Have you ever been skydiving?（你曾经体验过跳伞吗？）",
-    "yet to He is yet to finish his project.（他尚未完成他的项目。）",
-    "never again I will never again trust him.（我再也不会信任他。）",
-    "not yet I have not yet received the package.（我还没有收到包裹。）",
-    "ever since I have been happy ever since I met you.（自从遇见你之后，我一直很幸福。）",
-    "never before This has never happened before.（这从未发生过。）",
-    "not anymore He doesn't work / live here anymore.（他不再在这里工作了/不再住这里了。）",
-    "just yet I can't leave just yet.（我还不能离开。）",
-    "evermore I will love you evermore.（我将永远爱你。）",
-    "never mind Never mind, it's not important.（没关系，这不重要。）",
-    "have yet to I have yet to meet my new neighbor.（我还没见过我的新邻居。）",
-    "I’ve planted fourteen rose bushes so far this morning. 到今天上午为止，我已经种了十四丛玫瑰。",
-    "I have lived here for several years now and I’ve made many new friends since I have lived here. 我已经在这里住了好几年了，自从我住在这里以来，我交了很多新朋友。",
-    "现在完成时还可和表示频度的副词连用，表示反复和习惯性动作。",
-    "词组 用法",
-    "often I often go for a walk in the park.（我经常在公园散步。）",
-    "frequently She frequently travels for work.（她经常出差。）",
-    "three times I have visited that museum three times.（我去过那个博物馆三次。）",
-    "quite often He comes to visit us quite often.（他相当频繁地来看我们。）",
-    "regularly They meet regularly for coffee on Fridays.（他们每周五定期见面喝咖啡。）",
-    "repeatedly The child kept asking the same question repeatedly.（孩子一再询问同一个问题。）",
-    "daily She goes for a run daily.（她每天都去跑步。）",
-    "oftentimes Oftentimes, people judge others based on appearance.（往往人们会根据外貌来评判他人。）",
-    "sometimes Sometimes, I like to relax and watch movies.（有时候，我喜欢放松看电影。）",
-    "occasionally We go out for dinner occasionally.（我们偶尔出去吃饭。）",
-    "seldom He seldom goes to parties.（他很少去参加派对。）",
-    "rarely I rarely eat fast food.（我很少吃快餐。）",
-    "once in a while Once in a while, we treat ourselves to a spa day.（偶尔，我们会给自己放松一天。）",
-    "every now and then They go on vacations every now and then.（他们时不时会去度假。）"
+   "parts": [
+    {
+     "text": "现在完成时表示动作现存的结果，或者过去发生的事对现在的影响，通常发生的时间不明（如果出现了具体的时间，会使用“一般过去时”）。 结构：have/has + done（v. 过去分词） 用法： 完成？ 现在的之前 做没做完并不重要，重要的是站在哪个角度去看。现在完成时是站在现在的这个角度往之前看。现在完成时表示动作现存的结果，或者过去发生的事对现在的影响。 常与现在完成时连用的 副词 和 副词短语 疑问句 和 否定句 中"
+    },
+    {
+     "table": {
+      "headers": [
+       "全部完成(截止到现在)",
+       "部分完成(截止到现在)"
+      ],
+      "rows": [
+       [
+        "He has finished the homework.",
+        "We have learned English for ten years."
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "句型",
+       "助动词 三单",
+       "助动词 非三单",
+       "现在完成时",
+       "否定句",
+       "一般疑问句",
+       "特殊疑问句"
+      ],
+      "rows": [
+       [
+        "He has finished the homework.",
+        "I have finished the work."
+       ],
+       [
+        "He has not finished the homework.(hasn't)",
+        "I have not finished the work.(haven't)"
+       ],
+       [
+        "Has he finished the homework?",
+        "Have you finished the work?"
+       ],
+       [
+        "What has he done ?",
+        "What have you done ?"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "词组",
+       "用法",
+       "before (now)",
+       "it’s the first time",
+       "so far",
+       "so far this morning",
+       "up to now",
+       "up to the present",
+       "just",
+       "recently",
+       "already",
+       "lately",
+       "now",
+       "for",
+       "since + 时间",
+       "till",
+       "at last",
+       "finally"
+      ],
+      "rows": [
+       [
+        "I have never been to Paris before.（我以前从未去过巴黎。）"
+       ],
+       [
+        "It's the first time I've tried sushi.（这是我第一次尝试寿司。）"
+       ],
+       [
+        "So far, I have finished three books this month.（到目前为止，我这个月已经读完了三本书。）"
+       ],
+       [
+        "I have received three emails so far this morning.（到今天早上为止，我今天上午已经收到了三封邮件。）"
+       ],
+       [
+        "Up to now, I haven't received any updates on the project.（直到现在，我还没有收到关于项目的任何更新。）"
+       ],
+       [
+        "Up to the present, she has published ten research papers.（直到现在，她已经发表了十篇研究论文。）"
+       ],
+       [
+        "I have just finished my homework.（我刚做完作业。）"
+       ],
+       [
+        "Have you seen her recently?（你最近见过她吗？）"
+       ],
+       [
+        "He has already eaten dinner.（他已经吃过晚饭了。）"
+       ],
+       [
+        "Lately, I've been feeling tired all the time.（最近，我一直感觉很累。）"
+       ],
+       [
+        "I have had a meeting now.（我现在已有一个会议。）"
+       ],
+       [
+        "I have been learning Spanish for two years.（我已经学习西班牙语两年了。）"
+       ],
+       [
+        "She has been working here since 2010.（她自2010年以来一直在这里工作。）"
+       ],
+       [
+        "The store is open till 9 PM.（商店一直开放到晚上9点。）"
+       ],
+       [
+        "I have found my keys at last.（我终于找到了我的钥匙。）"
+       ],
+       [
+        "He has finally finished his thesis.（他终于完成了他的论文。）"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "词组",
+       "用法",
+       "ever",
+       "yet",
+       "never",
+       "not…ever",
+       "have you ever",
+       "yet to",
+       "never again",
+       "not yet",
+       "ever since",
+       "never before",
+       "not anymore",
+       "just yet",
+       "evermore",
+       "never mind",
+       "have yet to"
+      ],
+      "rows": [
+       [
+        "Have you ever been to Paris?（你曾经去过巴黎吗？）"
+       ],
+       [
+        "Have you finished your homework yet?（你完成作业了吗？）"
+       ],
+       [
+        "I have never seen a shooting star.（我从来没有见过流星。）"
+       ],
+       [
+        "He does not ever eat spicy food.（他从不吃辣食。）"
+       ],
+       [
+        "Have you ever been skydiving?（你曾经体验过跳伞吗？）"
+       ],
+       [
+        "He is yet to finish his project.（他尚未完成他的项目。）"
+       ],
+       [
+        "I will never again trust him.（我再也不会信任他。）"
+       ],
+       [
+        "I have not yet received the package.（我还没有收到包裹。）"
+       ],
+       [
+        "I have been happy ever since I met you.（自从遇见你之后，我一直很幸福。）"
+       ],
+       [
+        "This has never happened before.（这从未发生过。）"
+       ],
+       [
+        "He doesn't work / live here anymore.（他不再在这里工作了/不再住这里了。）"
+       ],
+       [
+        "I can't leave just yet.（我还不能离开。）"
+       ],
+       [
+        "I will love you evermore.（我将永远爱你。）"
+       ],
+       [
+        "Never mind, it's not important.（没关系，这不重要。）"
+       ],
+       [
+        "I have yet to meet my new neighbor.（我还没见过我的新邻居。）"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "I’ve planted fourteen rose bushes so far this morning. 到今天上午为止，我已经种了十四丛玫瑰。"
+    },
+    {
+     "text": "I have lived here for several years now and I’ve made many new friends since I have lived here. 我已经在这里住了好几年了，自从我住在这里以来，我交了很多新朋友。"
+    },
+    {
+     "text": "现在完成时还可和表示频度的副词连用，表示反复和习惯性动作。"
+    },
+    {
+     "table": {
+      "headers": [
+       "词组",
+       "用法",
+       "often",
+       "frequently",
+       "three times",
+       "quite often",
+       "regularly",
+       "repeatedly",
+       "daily",
+       "oftentimes",
+       "sometimes",
+       "occasionally",
+       "seldom",
+       "rarely",
+       "once in a while",
+       "every now and then"
+      ],
+      "rows": [
+       [
+        "I often go for a walk in the park.（我经常在公园散步。）"
+       ],
+       [
+        "She frequently travels for work.（她经常出差。）"
+       ],
+       [
+        "I have visited that museum three times.（我去过那个博物馆三次。）"
+       ],
+       [
+        "He comes to visit us quite often.（他相当频繁地来看我们。）"
+       ],
+       [
+        "They meet regularly for coffee on Fridays.（他们每周五定期见面喝咖啡。）"
+       ],
+       [
+        "The child kept asking the same question repeatedly.（孩子一再询问同一个问题。）"
+       ],
+       [
+        "She goes for a run daily.（她每天都去跑步。）"
+       ],
+       [
+        "Oftentimes, people judge others based on appearance.（往往人们会根据外貌来评判他人。）"
+       ],
+       [
+        "Sometimes, I like to relax and watch movies.（有时候，我喜欢放松看电影。）"
+       ],
+       [
+        "We go out for dinner occasionally.（我们偶尔出去吃饭。）"
+       ],
+       [
+        "He seldom goes to parties.（他很少去参加派对。）"
+       ],
+       [
+        "I rarely eat fast food.（我很少吃快餐。）"
+       ],
+       [
+        "Once in a while, we treat ourselves to a spa day.（偶尔，我们会给自己放松一天。）"
+       ],
+       [
+        "They go on vacations every now and then.（他们时不时会去度假。）"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "区分动词的过去式和过去分词",
-   "lines": [
-    "原型 (Base Form) 过去式 (Past Tense) 过去分词 (Past Participle) 是否规则",
-    "visit visit ed visit ed ✓",
-    "buy bought bought ×",
-    "ring r a ng r u ng ×",
-    "过去式(did) 过去分词(done)",
-    "规则变化：动词 + ed § 不规则：死记硬背，需要明确的分清楚 §",
-    "只有唯一的用途，即用于“ 一般过去时 ” 所有的“ 完成时态 ”、“ 被动语态 ”、“ 非谓语动词 ”。"
+   "parts": [
+    {
+     "table": {
+      "headers": [
+       "原型 (Base Form)",
+       "过去式 (Past Tense)",
+       "过去分词 (Past Participle)",
+       "是否规则"
+      ],
+      "rows": [
+       [
+        "visit",
+        "visit ed",
+        "visit ed",
+        "✓"
+       ],
+       [
+        "buy",
+        "bought",
+        "bought",
+        "×"
+       ],
+       [
+        "ring",
+        "r a ng",
+        "r u ng",
+        "×"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "过去式(did)",
+       "过去分词(done)"
+      ],
+      "rows": [
+       [
+        "规则变化：动词 + ed § 不规则：死记硬背，需要明确的分清楚 §"
+       ],
+       [
+        "只有唯一的用途，即用于“ 一般过去时 ”",
+        "所有的“ 完成时态 ”、“ 被动语态 ”、“ 非谓语动词 ”。"
+       ]
+      ]
+     }
+    }
    ]
   }
  ]

@@ -2,114 +2,445 @@
  "grammar": [
   {
    "title": "多与少",
-   "lines": [
-    "表示：少 少的比较级 多的比较级 越来越…",
-    "单词 用法 名词类型 例句",
-    "little 几乎没有 不可数名词 There is little milk in the cup. 杯子几乎没有牛奶了。",
-    "a little 有少许 The child made a little progress in learning how to ride a bicycle. 这个孩子在学习骑自行车方面有了一点进步。",
-    "few 几乎没有 可数名词 He knows only few words of French. 他几乎不懂几个法语单词。",
-    "a few 有几个 There are a few good men now. 这年头好人不多了。",
-    "He has few friends here, he feels lonely. 他这里几乎没朋友，感觉寂寞。",
-    "I knew little about him. 我基本不了解他。",
-    "单词 比较级 最高级",
-    "little less the least",
-    "a little",
-    "few fewer the fewest",
-    "a few",
-    "少 更少 最少的",
-    "单词 名词 比较级 最高级",
-    "many + 可数名词 more the most",
-    "much + 不可数名词",
-    "多 更多 最多的",
-    "He makes more money than before. 他赚的比从前更多了。",
-    "He eats more food than before. 他吃的比以前多了。",
-    "比较级 + and + 比较级",
-    "warmer and warmer 越来越温暖",
-    "busier and busier 越来越忙",
-    "taller and taller 越来越高",
-    "more and more expensive 越来越贵"
+   "parts": [
+    {
+     "text": "表示：少 少的比较级 多的比较级 越来越…"
+    },
+    {
+     "table": {
+      "headers": [
+       "单词",
+       "用法",
+       "名词类型",
+       "例句"
+      ],
+      "rows": [
+       [
+        "little",
+        "几乎没有",
+        "不可数名词",
+        "There is little milk in the cup. 杯子几乎没有牛奶了。"
+       ],
+       [
+        "a little",
+        "有少许",
+        "The child made a little progress in learning how to ride a bicycle. 这个孩子在学习骑自行车方面有了一点进步。"
+       ],
+       [
+        "few",
+        "几乎没有",
+        "可数名词",
+        "He knows only few words of French. 他几乎不懂几个法语单词。"
+       ],
+       [
+        "a few",
+        "有几个",
+        "There are a few good men now. 这年头好人不多了。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "He has few friends here, he feels lonely. 他这里几乎没朋友，感觉寂寞。"
+    },
+    {
+     "text": "I knew little about him. 我基本不了解他。"
+    },
+    {
+     "table": {
+      "headers": [
+       "单词",
+       "比较级",
+       "最高级"
+      ],
+      "rows": [
+       [
+        "little",
+        "less",
+        "the least"
+       ],
+       [
+        "a little"
+       ],
+       [
+        "few",
+        "fewer",
+        "the fewest"
+       ],
+       [
+        "a few"
+       ],
+       [
+        "少",
+        "更少",
+        "最少的"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "单词",
+       "名词",
+       "比较级",
+       "最高级"
+      ],
+      "rows": [
+       [
+        "many",
+        "+ 可数名词",
+        "more",
+        "the most"
+       ],
+       [
+        "much",
+        "+ 不可数名词"
+       ],
+       [
+        "多",
+        "",
+        "更多",
+        "最多的"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "He makes more money than before. 他赚的比从前更多了。"
+    },
+    {
+     "text": "He eats more food than before. 他吃的比以前多了。"
+    },
+    {
+     "text": "比较级 + and + 比较级"
+    },
+    {
+     "text": "warmer and warmer 越来越温暖"
+    },
+    {
+     "text": "busier and busier 越来越忙"
+    },
+    {
+     "text": "taller and taller 越来越高"
+    },
+    {
+     "text": "more and more expensive 越来越贵"
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "好坏多少",
-   "lines": [
-    "用much，many，less或fewer填空。",
-    "中文 原级 比较级 最高级",
-    "多 many more the most",
-    "much",
-    "少 little less the least",
-    "few fewer the fewest",
-    "好 good better the best",
-    "well",
-    "坏 bad worse the worst",
-    "记忆口诀:好、坏、多、少、老、远 §",
-    "I haven't gotany pens. I haven't got many either.",
-    "I've got some money. I've got less than you have.",
-    "I haven't got any money. I haven't got much either.",
-    "I've got some books. I've got fewer than you have."
+   "parts": [
+    {
+     "text": "用much，many，less或fewer填空。"
+    },
+    {
+     "table": {
+      "headers": [
+       "中文",
+       "原级",
+       "比较级",
+       "最高级"
+      ],
+      "rows": [
+       [
+        "多",
+        "many",
+        "more",
+        "the most"
+       ],
+       [
+        "much"
+       ],
+       [
+        "少",
+        "little",
+        "less",
+        "the least"
+       ],
+       [
+        "few",
+        "fewer",
+        "the fewest"
+       ],
+       [
+        "好",
+        "good",
+        "better",
+        "the best"
+       ],
+       [
+        "well"
+       ],
+       [
+        "坏",
+        "bad",
+        "worse",
+        "the worst"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "记忆口诀:好、坏、多、少、老、远 §"
+    },
+    {
+     "text": "I haven't gotany pens. I haven't got many either."
+    },
+    {
+     "text": "I've got some money. I've got less than you have."
+    },
+    {
+     "text": "I haven't got any money. I haven't got much either."
+    },
+    {
+     "text": "I've got some books. I've got fewer than you have."
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "表达需求、提建议的方式",
-   "lines": [
-    "I want … 提要求 (我想要... 通常不太礼貌) 直接表达自己的需求或想法，语气比较直接，容易显得不够礼貌，通常用于熟人或非正式场合。 Shall I …? 我是否应该 (用于询问对方是否同意或愿意做某事) 用于征求对方意见，语气正式而礼貌，常见于提供帮助或提出下一步行动。 May I …? 可以吗 (用于请求许可或询问是否可以做某事) 非常礼貌、正式的请求方式，常用于正式场合或向不太熟悉的人请求许可。 Could you please…? 请你...能不能 (一种礼貌地向别人表达要求的方式)非常常用且安全的礼貌请求句型，适合工作、服务、正式与半正式场景。 Can you…? 能够；可以 (用于询问某人是否能够做某事，表示请求或者征求意见) 语气自然、偏口语，适合日常交流，但在正式场合礼貌度略低于 could you。 Would you like to…? 你想要 (用于礼貌地询问某人是否愿意做某事) 常用于邀请或友好建议，语气温和，给对方充分选择空间。 Why don't you+ v ? 为什么你不... (给某人建议) 用于给建议，语气随和，听起来像是在帮对方出主意。 Why not + v. …？为什么不 (用于提出建议或表示同意) 比 why don't you 更简短，常用于轻松、快速的建议或回应。 How about ？如何；怎么样 (用于提出建议或者询问对方意见的表达方式) 用于非正式建议，语气轻松，常见于日常对话。 What about ？用于询问对方的回答 (对于刚刚说的事情，你有什么看法或回答) 用于跟进对方观点或提出补充选项，语气自然。 You should do ... 你应该这么做... 直接给建议，语气较强，适合在对方需要明确指导时使用。 You’d better… 最好，最好是 (用于建议或警告某人采取某种行动，以避免不良后果) 带有提醒或警告意味，暗示如果不这样做可能会有不好的结果。 I was wondering if you would like to ... ✓ (无法拒绝的要求~) “我想知道你是否愿意…”或者“我想知道你是否想要…”。这个短语通常用于邀请、建议或询问对方的兴趣和意愿。 【必会的口语缩写】不认识就会直接“听不懂 / 看不懂” 【听力杀手级】你“会单词”，但就是听不出来 【进阶压缩】母语者懒到极致的结果",
-    "I want you to help me with this report. 我想要你帮我完成这份报告。",
-    "I want a refund for this product. 我想要这个产品的退款。",
-    "Shall I open the window? 我是否应该打开窗户？",
-    "Shall I start the meeting now? 我现在开始会议可以吗？",
-    "May I ask you a question? 我可以问你一个问题吗？",
-    "May I leave a little earlier today? 我今天可以早点离开吗？",
-    "Could you please send me the file? 你能把文件发给我吗？",
-    "Could you please explain this part again? 你能再解释一下这部分吗？",
-    "Can you help me move this table? 你能帮我搬一下这张桌子吗？",
-    "Can you check this for me? 你能帮我检查一下这个吗？",
-    "Would you like to have a cup of coffee? 你想喝杯咖啡吗？",
-    "Would you like to join us for dinner? 你愿意和我们一起吃晚饭吗？",
-    "Why don't you take a break? 你为什么不休息一下呢？",
-    "Why don't you talk to your manager about it? 你为什么不和你的经理谈谈这件事？",
-    "Why not try again? 为什么不再试一次呢？",
-    "Why not go out for a walk? 为什么不出去走走呢？",
-    "How about having lunch together? 一起吃午饭怎么样？",
-    "How about this plan? 这个计划怎么样？",
-    "What about your idea? 那你的想法呢？",
-    "What about tomorrow afternoon? 明天下午怎么样？",
-    "You should see a doctor. 你应该去看医生。",
-    "You should back up your data regularly. 你应该定期备份数据。",
-    "You’d better leave now. 你最好现在就走。",
-    "You’d better not be late again. 你最好别再迟到了。",
-    "I was wondering if you would like to go watch a movie with me? 我在想知道你是否想要一起去看电影？",
-    "I was wondering if you would like to join the gathering tomorrow? 我在想知道你是否愿意参加明天的聚会？",
-    "I was wondering if you would be interested in trying out this new fitness program? 我想知道你是否有兴趣尝试这个新的健身计划？",
-    "口语缩写 标准 示例",
-    "I'ma / Imma 我打算 I am going to I'ma call him later. 句首 我待会儿要给他打电话。",
-    "gonna 将要 going to I'm gonna leave now. 谓语 我现在要走了。",
-    "wanna 想要 want to I wanna try it. 谓语 我想试一试。",
-    "gotta 必须 have got to / have to I gotta go. 句尾 我得走了。",
-    "kinda 有点 kind of I'm kinda tired. 形容词前 我有点累。",
-    "sorta 稍微 sort of It's sorta weird. 形容词前 这有点怪。",
-    "lemme 让我 let me Lemme check. 句首 我查一下。",
-    "gimme 给我 give me Gimme a second. 句首 给我一秒钟。",
-    "口语缩写 标准 示例",
-    "dunno 不知道 I don’t know I dunno what to say. 句首/谓语 我不知道该说什么。",
-    "outta 从……出来 out of He ran outta time. 介词短语 他时间不够了。",
-    "lotta 很多 a lot of I got a lotta work. 名词前 我有很多工作。",
-    "cuz / cos 因为 because I stayed home cuz it rained. 从句连接 因为下雨我待在家。",
-    "tryna 正在尝试 trying to I'm tryna help you. 谓语 我正在试着帮你。",
-    "hafta 必须 have to You hafta go now. 谓语 你现在必须走。",
-    "coulda 本可以 could have I coulda won. 过去推测 我本可以赢的。",
-    "woulda 本会 would have I woulda helped you. 虚拟过去 我本来会帮你的。",
-    "shoulda 本该 should have You shoulda told me. 责备/后悔 你本该告诉我的。",
-    "口语缩写 标准 示例",
-    "ain’t 不是 / 没有 am not / is not / are not / have not I ain’t ready. 否定谓语 我还没准备好。",
-    "y’all 你们 you all How are y’all doing? 句首 你们怎么样？",
-    "whatcha 你在做什么 what are you Whatcha doing? 疑问句 你在干嘛？",
-    "gotcha 明白了 got you / understand Gotcha. 独立回应 明白了。",
-    "bet 好的 / 行 OK / sure — See you at 8. — Bet. 回应 ——8点见。——好。",
-    "nah 不 / 算了 no Nah, I’m good. 拒绝 不了，我不用。"
+   "parts": [
+    {
+     "text": "I want … 提要求 (我想要... 通常不太礼貌) 直接表达自己的需求或想法，语气比较直接，容易显得不够礼貌，通常用于熟人或非正式场合。 Shall I …? 我是否应该 (用于询问对方是否同意或愿意做某事) 用于征求对方意见，语气正式而礼貌，常见于提供帮助或提出下一步行动。 May I …? 可以吗 (用于请求许可或询问是否可以做某事) 非常礼貌、正式的请求方式，常用于正式场合或向不太熟悉的人请求许可。 Could you please…? 请你...能不能 (一种礼貌地向别人表达要求的方式)非常常用且安全的礼貌请求句型，适合工作、服务、正式与半正式场景。 Can you…? 能够；可以 (用于询问某人是否能够做某事，表示请求或者征求意见) 语气自然、偏口语，适合日常交流，但在正式场合礼貌度略低于 could you。 Would you like to…? 你想要 (用于礼貌地询问某人是否愿意做某事) 常用于邀请或友好建议，语气温和，给对方充分选择空间。 Why don't you+ v ? 为什么你不... (给某人建议) 用于给建议，语气随和，听起来像是在帮对方出主意。 Why not + v. …？为什么不 (用于提出建议或表示同意) 比 why don't you 更简短，常用于轻松、快速的建议或回应。 How about ？如何；怎么样 (用于提出建议或者询问对方意见的表达方式) 用于非正式建议，语气轻松，常见于日常对话。 What about ？用于询问对方的回答 (对于刚刚说的事情，你有什么看法或回答) 用于跟进对方观点或提出补充选项，语气自然。 You should do ... 你应该这么做... 直接给建议，语气较强，适合在对方需要明确指导时使用。 You’d better… 最好，最好是 (用于建议或警告某人采取某种行动，以避免不良后果) 带有提醒或警告意味，暗示如果不这样做可能会有不好的结果。 I was wondering if you would like to ... ✓ (无法拒绝的要求~) “我想知道你是否愿意…”或者“我想知道你是否想要…”。这个短语通常用于邀请、建议或询问对方的兴趣和意愿。 【必会的口语缩写】不认识就会直接“听不懂 / 看不懂” 【听力杀手级】你“会单词”，但就是听不出来 【进阶压缩】母语者懒到极致的结果"
+    },
+    {
+     "text": "I want you to help me with this report. 我想要你帮我完成这份报告。"
+    },
+    {
+     "text": "I want a refund for this product. 我想要这个产品的退款。"
+    },
+    {
+     "text": "Shall I open the window? 我是否应该打开窗户？"
+    },
+    {
+     "text": "Shall I start the meeting now? 我现在开始会议可以吗？"
+    },
+    {
+     "text": "May I ask you a question? 我可以问你一个问题吗？"
+    },
+    {
+     "text": "May I leave a little earlier today? 我今天可以早点离开吗？"
+    },
+    {
+     "text": "Could you please send me the file? 你能把文件发给我吗？"
+    },
+    {
+     "text": "Could you please explain this part again? 你能再解释一下这部分吗？"
+    },
+    {
+     "text": "Can you help me move this table? 你能帮我搬一下这张桌子吗？"
+    },
+    {
+     "text": "Can you check this for me? 你能帮我检查一下这个吗？"
+    },
+    {
+     "text": "Would you like to have a cup of coffee? 你想喝杯咖啡吗？"
+    },
+    {
+     "text": "Would you like to join us for dinner? 你愿意和我们一起吃晚饭吗？"
+    },
+    {
+     "text": "Why don't you take a break? 你为什么不休息一下呢？"
+    },
+    {
+     "text": "Why don't you talk to your manager about it? 你为什么不和你的经理谈谈这件事？"
+    },
+    {
+     "text": "Why not try again? 为什么不再试一次呢？"
+    },
+    {
+     "text": "Why not go out for a walk? 为什么不出去走走呢？"
+    },
+    {
+     "text": "How about having lunch together? 一起吃午饭怎么样？"
+    },
+    {
+     "text": "How about this plan? 这个计划怎么样？"
+    },
+    {
+     "text": "What about your idea? 那你的想法呢？"
+    },
+    {
+     "text": "What about tomorrow afternoon? 明天下午怎么样？"
+    },
+    {
+     "text": "You should see a doctor. 你应该去看医生。"
+    },
+    {
+     "text": "You should back up your data regularly. 你应该定期备份数据。"
+    },
+    {
+     "text": "You’d better leave now. 你最好现在就走。"
+    },
+    {
+     "text": "You’d better not be late again. 你最好别再迟到了。"
+    },
+    {
+     "text": "I was wondering if you would like to go watch a movie with me? 我在想知道你是否想要一起去看电影？"
+    },
+    {
+     "text": "I was wondering if you would like to join the gathering tomorrow? 我在想知道你是否愿意参加明天的聚会？"
+    },
+    {
+     "text": "I was wondering if you would be interested in trying out this new fitness program? 我想知道你是否有兴趣尝试这个新的健身计划？"
+    },
+    {
+     "table": {
+      "headers": [],
+      "rows": [
+       [
+        "口语缩写",
+        "标准",
+        "示例"
+       ],
+       [
+        "I'ma / Imma 我打算",
+        "I am going to",
+        "I'ma call him later. 句首 我待会儿要给他打电话。"
+       ],
+       [
+        "gonna 将要",
+        "going to",
+        "I'm gonna leave now. 谓语 我现在要走了。"
+       ],
+       [
+        "wanna 想要",
+        "want to",
+        "I wanna try it. 谓语 我想试一试。"
+       ],
+       [
+        "gotta 必须",
+        "have got to / have to",
+        "I gotta go. 句尾 我得走了。"
+       ],
+       [
+        "kinda 有点",
+        "kind of",
+        "I'm kinda tired. 形容词前 我有点累。"
+       ],
+       [
+        "sorta 稍微",
+        "sort of",
+        "It's sorta weird. 形容词前 这有点怪。"
+       ],
+       [
+        "lemme 让我",
+        "let me",
+        "Lemme check. 句首 我查一下。"
+       ],
+       [
+        "gimme 给我",
+        "give me",
+        "Gimme a second. 句首 给我一秒钟。"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [],
+      "rows": [
+       [
+        "口语缩写",
+        "标准",
+        "示例"
+       ],
+       [
+        "dunno 不知道",
+        "I don’t know",
+        "I dunno what to say. 句首/谓语 我不知道该说什么。"
+       ],
+       [
+        "outta 从……出来",
+        "out of",
+        "He ran outta time. 介词短语 他时间不够了。"
+       ],
+       [
+        "lotta 很多",
+        "a lot of",
+        "I got a lotta work. 名词前 我有很多工作。"
+       ],
+       [
+        "cuz / cos 因为",
+        "because",
+        "I stayed home cuz it rained. 从句连接 因为下雨我待在家。"
+       ],
+       [
+        "tryna 正在尝试",
+        "trying to",
+        "I'm tryna help you. 谓语 我正在试着帮你。"
+       ],
+       [
+        "hafta 必须",
+        "have to",
+        "You hafta go now. 谓语 你现在必须走。"
+       ],
+       [
+        "coulda 本可以",
+        "could have",
+        "I coulda won. 过去推测 我本可以赢的。"
+       ],
+       [
+        "woulda 本会",
+        "would have",
+        "I woulda helped you. 虚拟过去 我本来会帮你的。"
+       ],
+       [
+        "shoulda 本该",
+        "should have",
+        "You shoulda told me. 责备/后悔 你本该告诉我的。"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [],
+      "rows": [
+       [
+        "口语缩写",
+        "标准",
+        "示例"
+       ],
+       [
+        "ain’t 不是 / 没有",
+        "am not / is not / are not / have not",
+        "I ain’t ready. 否定谓语 我还没准备好。"
+       ],
+       [
+        "y’all 你们",
+        "you all",
+        "How are y’all doing? 句首 你们怎么样？"
+       ],
+       [
+        "whatcha 你在做什么",
+        "what are you",
+        "Whatcha doing? 疑问句 你在干嘛？"
+       ],
+       [
+        "gotcha 明白了",
+        "got you / understand",
+        "Gotcha. 独立回应 明白了。"
+       ],
+       [
+        "bet 好的 / 行",
+        "OK / sure",
+        "— See you at 8. — Bet. 回应 ——8点见。——好。"
+       ],
+       [
+        "nah 不 / 算了",
+        "no",
+        "Nah, I’m good. 拒绝 不了，我不用。"
+       ]
+      ]
+     }
+    }
    ]
   }
  ]

@@ -2,12 +2,33 @@
  "expand": [
   {
    "title": "Hang 悬、挂 / 绞死",
-   "lines": [
-    "不同词意导致的不同变化 We must all hang together, or assuredly we shall all hang separately. - Benjamin Franklin(一词两意)",
-    "Hang vi. 悬、挂 (hung、hung) I’m hanging this picture on the wall. A painter who had been working on the tower hung a pot of paint on one of the hands and slowed it down!",
-    "vt. 绞死，吊死，上吊(hanged、hanged) The hero was hanged. As he has murdered three men, he ought to be hanged. I wonder why she hanged herself.",
-    "I hung my coat in the hall.",
-    "Murderers will not be hanged in future."
+   "parts": [
+    {
+     "text": "不同词意导致的不同变化 We must all hang together, or assuredly we shall all hang separately. - Benjamin Franklin(一词两意)"
+    },
+    {
+     "table": {
+      "headers": [
+       "Hang",
+       "vi. 悬、挂 (hung、hung)",
+       "vt. 绞死，吊死，上吊(hanged、hanged)"
+      ],
+      "rows": [
+       [
+        "I’m hanging this picture on the wall. A painter who had been working on the tower hung a pot of paint on one of the hands and slowed it down!"
+       ],
+       [
+        "The hero was hanged. As he has murdered three men, he ought to be hanged. I wonder why she hanged herself."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "I hung my coat in the hall."
+    },
+    {
+     "text": "Murderers will not be hanged in future."
+    }
    ]
   }
  ]

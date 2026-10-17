@@ -2,144 +2,488 @@
  "grammar": [
   {
    "title": "来龙去脉",
-   "lines": [
-    "King Gustavus Adolphus, 'The Northern Hurricane', then at the height of his military success in the 'Thirty Years' War, had dictated her measurements and armament. 古人的头衔：丹妮莉丝·坦格利安（Daenerys Targaryen）安达尔人、洛伊拿人和先民的女王（Queen of the Andals, the Rhoynars and the First Men）、七国统治者（Lord of the Seven Kingdoms）、全境守护者（Protector of the Realm）、大草海的卡丽熙（Khaleesi of the Great Grass Sea）、镣铐破除者（Breaker of Shackles/Chains）、弥林女王（Queen of Meereen）、龙石岛公主（Princess of Dragonstone）、不焚者（Unburnt）、龙之母（Mother of Dragons）、弥莎（Mhysa）（母亲）、银发女王（Silver Queen）、银发女士（Silver Lady）、龙女王（Dragon Queen）等等。 Gustavus Adolphus 古斯塔夫·阿道夫 Gustavus Adolphus (1594-1632) king of Sweden whose victories in battle made Sweden a European power; his domestic reforms made Sweden a modern state; in 1630 he intervened on the Protestant side of the Thirty Years’ War and was killed in the battle of Lützen. Thirty Years’ War 三十年战争 A series of wars in central Europe beginning in 1618 that stemmed from conflict between Protestants and Catholics and political struggles between the Holy Roman Empire and other powers. It ended with the Peace of Westphalia (1648). be at the height of one’s success / fame / powers etc. 处于顶峰 to be more successful, famous etc than at any other time 在某人最…的时候 dictate v.to give orders, or state sth. exactly, with total authority 指定 measurement n. [C, usually pl.] 英文解释：the length, height etc of something 尺寸 armament n. [U] process of equipping military forces for war 武装 Triple gun-decks mounted 64 bronze cannon. mount v.to fix sth. into position on sth., so that you can use it, look at it or study it 将某物固定住（以备使用、展示或研究） bronze 青铜 cannon n. (复数cannon 或cannons) a large heavy powerful gun that was used in the past to fire heavy metal balls（发射实心金属炮弹的旧式）大炮 She was intended to play a leading role in the growing might of Sweden. intended adj.planned or designed for a particular purpose or person 为了……而计划或设计的",
-    "The Beatles were at the height of their fame.",
-    "Adolphus was at the height of his military success. 阿道夫处于军事成功的顶峰。",
-    "The Beatles were at the height of their fame in the 1960s. 披头士在1960年代处于名声顶峰。",
-    "She was at the height of her career. 她处于事业的顶峰。",
-    "The UN will dictate the terms of troop withdrawal from the region.",
-    "The boss dictated the project’s scope. 老板指定了项目的范围。",
-    "The Vasa’s measurements were carefully planned. 瓦萨号的尺寸经过精心规划。",
-    "Take measurements before buying furniture. 买家具前要量尺寸。",
-    "Accurate measurements ensured a perfect fit. 精确的尺寸确保完美契合。",
-    "The Vasa’s armament included 64 cannons. 瓦萨号的武装包括64门大炮。",
-    "The navy upgraded its armament. 海军升级了武装。",
-    "Heavy armament strengthened the fleet. 重型武装增强了舰队实力。",
-    "The diamond was mounted in gold. 钻石被镶嵌在黄金上。",
-    "A wall-mounted fan cooled the room. 壁挂式风扇为房间降温。",
-    "The specimens were mounted on slides.",
-    "The diamond is mounted in gold.",
-    "a wall-mounted electric fan",
-    "mount sth. (on/onto/in) 将某物安装/固定在……上 The security camera was mounted on the wall. 监控摄像头被安装在墙上。",
-    "The museum has a collection of ancient bronze statues. 博物馆收藏了一批古代青铜像。",
-    "Brass fittings adorned the ship. 黄铜配件装饰了船只。",
-    "Copper pipes were used below deck. 甲板下使用了铜管。",
-    "brass 黄铜（铜与锌的合金） The door handle is made of polished brass. 门把手是由抛光黄铜制成的。",
-    "copper 铜（纯铜/红铜） Copper is an excellent conductor of electricity. 铜是极好的电导体。",
-    "Old cannons fired heavy metal balls. 旧式大炮发射重型金属球。",
-    "The fort’s cannons defended the harbor. 堡垒的大炮保卫了港口。",
-    "Some of her art is intended to shock the viewer. 她的一些艺术旨在震动观赏者。",
-    "They intended to invest hugely in new technology. 他们打算在新技术方面投入大量资金。",
-    "This movie is intended to revive her flagging career. 这部电影意在使她渐趋衰败的事业再现辉煌。",
-    "be intended for … / to do … 为了…而计划或设计的 The book is intended for children. The age limit is intended to guarantee that not only past work is rewarded. The Fields Medal is also intended to encourage the winners to make further contributions."
+   "parts": [
+    {
+     "text": "King Gustavus Adolphus, 'The Northern Hurricane', then at the height of his military success in the 'Thirty Years' War, had dictated her measurements and armament. 古人的头衔：丹妮莉丝·坦格利安（Daenerys Targaryen）安达尔人、洛伊拿人和先民的女王（Queen of the Andals, the Rhoynars and the First Men）、七国统治者（Lord of the Seven Kingdoms）、全境守护者（Protector of the Realm）、大草海的卡丽熙（Khaleesi of the Great Grass Sea）、镣铐破除者（Breaker of Shackles/Chains）、弥林女王（Queen of Meereen）、龙石岛公主（Princess of Dragonstone）、不焚者（Unburnt）、龙之母（Mother of Dragons）、弥莎（Mhysa）（母亲）、银发女王（Silver Queen）、银发女士（Silver Lady）、龙女王（Dragon Queen）等等。 Gustavus Adolphus 古斯塔夫·阿道夫 Gustavus Adolphus (1594-1632) king of Sweden whose victories in battle made Sweden a European power; his domestic reforms made Sweden a modern state; in 1630 he intervened on the Protestant side of the Thirty Years’ War and was killed in the battle of Lützen. Thirty Years’ War 三十年战争 A series of wars in central Europe beginning in 1618 that stemmed from conflict between Protestants and Catholics and political struggles between the Holy Roman Empire and other powers. It ended with the Peace of Westphalia (1648). be at the height of one’s success / fame / powers etc. 处于顶峰 to be more successful, famous etc than at any other time 在某人最…的时候 dictate v.to give orders, or state sth. exactly, with total authority 指定 measurement n. [C, usually pl.] 英文解释：the length, height etc of something 尺寸 armament n. [U] process of equipping military forces for war 武装 Triple gun-decks mounted 64 bronze cannon. mount v.to fix sth. into position on sth., so that you can use it, look at it or study it 将某物固定住（以备使用、展示或研究） bronze 青铜 cannon n. (复数cannon 或cannons) a large heavy powerful gun that was used in the past to fire heavy metal balls（发射实心金属炮弹的旧式）大炮 She was intended to play a leading role in the growing might of Sweden. intended adj.planned or designed for a particular purpose or person 为了……而计划或设计的"
+    },
+    {
+     "text": "The Beatles were at the height of their fame."
+    },
+    {
+     "text": "Adolphus was at the height of his military success. 阿道夫处于军事成功的顶峰。"
+    },
+    {
+     "text": "The Beatles were at the height of their fame in the 1960s. 披头士在1960年代处于名声顶峰。"
+    },
+    {
+     "text": "She was at the height of her career. 她处于事业的顶峰。"
+    },
+    {
+     "text": "The UN will dictate the terms of troop withdrawal from the region."
+    },
+    {
+     "text": "The boss dictated the project’s scope. 老板指定了项目的范围。"
+    },
+    {
+     "text": "The Vasa’s measurements were carefully planned. 瓦萨号的尺寸经过精心规划。"
+    },
+    {
+     "text": "Take measurements before buying furniture. 买家具前要量尺寸。"
+    },
+    {
+     "text": "Accurate measurements ensured a perfect fit. 精确的尺寸确保完美契合。"
+    },
+    {
+     "text": "The Vasa’s armament included 64 cannons. 瓦萨号的武装包括64门大炮。"
+    },
+    {
+     "text": "The navy upgraded its armament. 海军升级了武装。"
+    },
+    {
+     "text": "Heavy armament strengthened the fleet. 重型武装增强了舰队实力。"
+    },
+    {
+     "text": "The diamond was mounted in gold. 钻石被镶嵌在黄金上。"
+    },
+    {
+     "text": "A wall-mounted fan cooled the room. 壁挂式风扇为房间降温。"
+    },
+    {
+     "text": "The specimens were mounted on slides."
+    },
+    {
+     "text": "The diamond is mounted in gold."
+    },
+    {
+     "text": "a wall-mounted electric fan"
+    },
+    {
+     "table": {
+      "headers": [
+       "mount sth. (on/onto/in) 将某物安装/固定在……上"
+      ],
+      "rows": [
+       [
+        "The security camera was mounted on the wall. 监控摄像头被安装在墙上。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The museum has a collection of ancient bronze statues. 博物馆收藏了一批古代青铜像。"
+    },
+    {
+     "text": "Brass fittings adorned the ship. 黄铜配件装饰了船只。"
+    },
+    {
+     "text": "Copper pipes were used below deck. 甲板下使用了铜管。"
+    },
+    {
+     "table": {
+      "headers": [
+       "brass 黄铜（铜与锌的合金）",
+       "copper 铜（纯铜/红铜）"
+      ],
+      "rows": [
+       [
+        "The door handle is made of polished brass. 门把手是由抛光黄铜制成的。"
+       ],
+       [
+        "Copper is an excellent conductor of electricity. 铜是极好的电导体。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Old cannons fired heavy metal balls. 旧式大炮发射重型金属球。"
+    },
+    {
+     "text": "The fort’s cannons defended the harbor. 堡垒的大炮保卫了港口。"
+    },
+    {
+     "text": "Some of her art is intended to shock the viewer. 她的一些艺术旨在震动观赏者。"
+    },
+    {
+     "text": "They intended to invest hugely in new technology. 他们打算在新技术方面投入大量资金。"
+    },
+    {
+     "text": "This movie is intended to revive her flagging career. 这部电影意在使她渐趋衰败的事业再现辉煌。"
+    },
+    {
+     "table": {
+      "headers": [
+       "be intended for … / to do … 为了…而计划或设计的"
+      ],
+      "rows": [
+       [
+        "The book is intended for children. The age limit is intended to guarantee that not only past work is rewarded. The Fields Medal is also intended to encourage the winners to make further contributions."
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "对Vasa进行介绍",
-   "lines": [
-    "As she was prepared for her maiden voyage on August 10th, 1628, Stockholm was in a ferment. ferment n.[U, sing.] a situation of great excitement or trouble in a country, especially caused by political change 激动不宁，动荡不安 From the Skeppsbron and surrounding islands the people watched this thing of beauty begin to spread her sails and catch the wind. watch sb. do 观看某人做某事(不加to) thing of beauty = beautiful thing 美丽之物 spread sails 扬帆 catch the wind 兜住风 They had laboured for three years to produce this floating work of art; she was more richly carved and ornamented than any previous ship. labour / labor v. to work hard 辛勤工作 work of art n.a painting, statue, etc. 艺术品；（绘画、雕塑等）艺术作品 richly adv.if something is richly decorated, it is decorated a lot, in a way that is beautiful 富丽堂皇地 The high stern castle was a riot of carved gods, demons, knights, kings, warriors, mermaids, cherubs; and zoomorphic animal shapes ablaze with red and gold and blue, symbols of courage, power, and cruelty, were portrayed to stir the imaginations of the superstitious sailors of the day. be a riot of (fml.) be full of a collection of a lot of different types of the same thing 充满了，充斥着 ablaze adj. burning strongly with a lot of flames 熊熊燃烧的 symbol of …的象征、标志 portray v.to show sb./sth. in a picture; to describe sb./sth. in a piece of writing（以绘画或文字）描绘",
-    "The whole country has been in a state of political ferment for some months.",
-    "The country was in political ferment for months. 这个国家数月来处于政治动荡中。",
-    "Protests caused a ferment in the capital. 抗议活动在首都引发了动荡。",
-    "One bad winter we watched the river creep up the lower meadows .",
-    "Couldn't I watch you do it? 我不可以看着你做这件事吗？",
-    "At mealtimes he would watch her eat . 到了进餐时间，他就会看着她吃饭。",
-    "The Vasa was a thing of beauty. 瓦萨号是一件美丽之物。",
-    "The painting was a beautiful thing. 这幅画是一件美丽的事物。",
-    "Her dress was a thing of beauty. 她的礼服美不胜收。",
-    "The Vasa began to spread her sails. 瓦萨号开始扬帆。",
-    "They spread sails at dawn. 他们在黎明时分扬帆。",
-    "A ship with all of its sails spread is a gallant sight. 独立主格",
-    "My heart has spread its sails to the idle winds for the shadowy island of Anywhere.",
-    "hoist the sails 升帆 The crew worked together to hoist the sails as the wind picked up. 随着风力增强，船员们协力升起了船帆。",
-    "lower the sails 降帆 We had to lower the sails quickly when the storm approached. 风暴逼近时，我们不得不迅速降下船帆。",
-    "set sail 启航 The following week the 'Queen Elizabeth' set sail for New York. 启航赴... Mrs. Healy moved away like a ship in full sail (= with all its sails spread). 满帆",
-    "The sails are torn; they won't catch the wind.",
-    "You cannot catch the wind in a net.",
-    "The kite caught the wind and soared. 风筝兜住风，翱翔天空。",
-    "They laboured for three years on the Vasa. 他们在瓦萨号上辛勤工作了三年。",
-    "Five generations of his family have labored as fishermen.",
-    "Three hours after the explosion, rescue teams were still laboring to free those trapped.",
-    "Rescue teams labored to free the trapped. 救援队努力解救被困人员。",
-    "The Vasa was a floating work of art. 瓦萨号是一件漂浮的艺术品。",
-    "The gallery lost priceless works of art. 画廊丢失了无价的艺术品。",
-    "A number of priceless works of art were stolen from the gallery.",
-    "work of art n. 人赏心悦目的东西；精致的物品 (something that is attractive and skillfully made) The bride's dress was a work of art. These plates function as a canvas for food as a work of art. 这些方形餐盘加上食物，俨然是油画艺术。",
-    "The Vasa was richly carved and ornamented. 瓦萨号雕刻和装饰得富丽堂皇。",
-    "A richly embroidered cloak was displayed. 一件金线刺绣的斗篷被展示。",
-    "The ceiling was richly carved with patterns. 天花板上雕刻着华丽的图案。",
-    "a richly carved ceiling 雕梁画栋的天花板 The cathedral is famous for its richly carved ceiling featuring biblical scenes. 这座大教堂以其刻有圣经场景、雕刻精美的天花板而闻名。",
-    "a table richly ornamented with carvings 一张装饰着华丽雕刻的桌子 In the center of the room stood a table richly ornamented with carvings of dragons. 房间中央摆放着一张装饰着华丽龙形雕刻的桌子。",
-    "a cloak richly embroidered with gold thread 一件用金线精美刺绣的斗篷 The king wore a cloak richly embroidered with gold thread for his coronation. 国王在加冕典礼上穿着一件用金线精美刺绣的斗篷。",
-    "The garden was a riot of colour. 花园里色彩缤纷。",
-    "The market was a riot of sounds and smells. 市场上充满了陌生的声音和气味。",
-    "With Indian cuisine, you expect a riot of tastes and spices. 印度菜肴口味丰富，并添加各种香料。",
-    "Within minutes the whole house was ablaze.",
-    "Animal shapes ablaze with red and gold. 动物形状的雕刻闪耀着红金蓝的光彩。",
-    "The house was ablaze with flames. 房子熊熊燃烧。",
-    "ablaze adj.very bright or colorful 光鲜的，明艳的 Her yard was ablaze with summer flowers. The trees were ablaze with the colors of autumn.",
-    "The dove is a symbol of peace. 鸽子是和平的象征。",
-    "The lion is a symbol of courage. 狮子是勇气的象征。",
-    "The cross is the symbol of Christianity.",
-    "The painting portrays the duke’s wife. 这幅画描绘了公爵的第三任妻子。",
-    "His poetry portrays trench life vividly. 他的战争诗生动描绘了战壕生活。"
+   "parts": [
+    {
+     "text": "As she was prepared for her maiden voyage on August 10th, 1628, Stockholm was in a ferment. ferment n.[U, sing.] a situation of great excitement or trouble in a country, especially caused by political change 激动不宁，动荡不安 From the Skeppsbron and surrounding islands the people watched this thing of beauty begin to spread her sails and catch the wind. watch sb. do 观看某人做某事(不加to) thing of beauty = beautiful thing 美丽之物 spread sails 扬帆 catch the wind 兜住风 They had laboured for three years to produce this floating work of art; she was more richly carved and ornamented than any previous ship. labour / labor v. to work hard 辛勤工作 work of art n.a painting, statue, etc. 艺术品；（绘画、雕塑等）艺术作品 richly adv.if something is richly decorated, it is decorated a lot, in a way that is beautiful 富丽堂皇地 The high stern castle was a riot of carved gods, demons, knights, kings, warriors, mermaids, cherubs; and zoomorphic animal shapes ablaze with red and gold and blue, symbols of courage, power, and cruelty, were portrayed to stir the imaginations of the superstitious sailors of the day. be a riot of (fml.) be full of a collection of a lot of different types of the same thing 充满了，充斥着 ablaze adj. burning strongly with a lot of flames 熊熊燃烧的 symbol of …的象征、标志 portray v.to show sb./sth. in a picture; to describe sb./sth. in a piece of writing（以绘画或文字）描绘"
+    },
+    {
+     "text": "The whole country has been in a state of political ferment for some months."
+    },
+    {
+     "text": "The country was in political ferment for months. 这个国家数月来处于政治动荡中。"
+    },
+    {
+     "text": "Protests caused a ferment in the capital. 抗议活动在首都引发了动荡。"
+    },
+    {
+     "text": "One bad winter we watched the river creep up the lower meadows ."
+    },
+    {
+     "text": "Couldn't I watch you do it? 我不可以看着你做这件事吗？"
+    },
+    {
+     "text": "At mealtimes he would watch her eat . 到了进餐时间，他就会看着她吃饭。"
+    },
+    {
+     "text": "The Vasa was a thing of beauty. 瓦萨号是一件美丽之物。"
+    },
+    {
+     "text": "The painting was a beautiful thing. 这幅画是一件美丽的事物。"
+    },
+    {
+     "text": "Her dress was a thing of beauty. 她的礼服美不胜收。"
+    },
+    {
+     "text": "The Vasa began to spread her sails. 瓦萨号开始扬帆。"
+    },
+    {
+     "text": "They spread sails at dawn. 他们在黎明时分扬帆。"
+    },
+    {
+     "text": "A ship with all of its sails spread is a gallant sight. 独立主格"
+    },
+    {
+     "text": "My heart has spread its sails to the idle winds for the shadowy island of Anywhere."
+    },
+    {
+     "table": {
+      "headers": [
+       "hoist the sails 升帆",
+       "lower the sails 降帆",
+       "set sail 启航"
+      ],
+      "rows": [
+       [
+        "The crew worked together to hoist the sails as the wind picked up. 随着风力增强，船员们协力升起了船帆。"
+       ],
+       [
+        "We had to lower the sails quickly when the storm approached. 风暴逼近时，我们不得不迅速降下船帆。"
+       ],
+       [
+        "The following week the 'Queen Elizabeth' set sail for New York. 启航赴... Mrs. Healy moved away like a ship in full sail (= with all its sails spread). 满帆"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The sails are torn; they won't catch the wind."
+    },
+    {
+     "text": "You cannot catch the wind in a net."
+    },
+    {
+     "text": "The kite caught the wind and soared. 风筝兜住风，翱翔天空。"
+    },
+    {
+     "text": "They laboured for three years on the Vasa. 他们在瓦萨号上辛勤工作了三年。"
+    },
+    {
+     "text": "Five generations of his family have labored as fishermen."
+    },
+    {
+     "text": "Three hours after the explosion, rescue teams were still laboring to free those trapped."
+    },
+    {
+     "text": "Rescue teams labored to free the trapped. 救援队努力解救被困人员。"
+    },
+    {
+     "text": "The Vasa was a floating work of art. 瓦萨号是一件漂浮的艺术品。"
+    },
+    {
+     "text": "The gallery lost priceless works of art. 画廊丢失了无价的艺术品。"
+    },
+    {
+     "text": "A number of priceless works of art were stolen from the gallery."
+    },
+    {
+     "table": {
+      "headers": [
+       "work of art n. 人赏心悦目的东西；精致的物品 (something that is attractive and skillfully made)"
+      ],
+      "rows": [
+       [
+        "The bride's dress was a work of art. These plates function as a canvas for food as a work of art. 这些方形餐盘加上食物，俨然是油画艺术。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The Vasa was richly carved and ornamented. 瓦萨号雕刻和装饰得富丽堂皇。"
+    },
+    {
+     "text": "A richly embroidered cloak was displayed. 一件金线刺绣的斗篷被展示。"
+    },
+    {
+     "text": "The ceiling was richly carved with patterns. 天花板上雕刻着华丽的图案。"
+    },
+    {
+     "table": {
+      "headers": [
+       "a richly carved ceiling 雕梁画栋的天花板",
+       "a table richly ornamented with carvings 一张装饰着华丽雕刻的桌子",
+       "a cloak richly embroidered with gold thread 一件用金线精美刺绣的斗篷"
+      ],
+      "rows": [
+       [
+        "The cathedral is famous for its richly carved ceiling featuring biblical scenes. 这座大教堂以其刻有圣经场景、雕刻精美的天花板而闻名。"
+       ],
+       [
+        "In the center of the room stood a table richly ornamented with carvings of dragons. 房间中央摆放着一张装饰着华丽龙形雕刻的桌子。"
+       ],
+       [
+        "The king wore a cloak richly embroidered with gold thread for his coronation. 国王在加冕典礼上穿着一件用金线精美刺绣的斗篷。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The garden was a riot of colour. 花园里色彩缤纷。"
+    },
+    {
+     "text": "The market was a riot of sounds and smells. 市场上充满了陌生的声音和气味。"
+    },
+    {
+     "text": "With Indian cuisine, you expect a riot of tastes and spices. 印度菜肴口味丰富，并添加各种香料。"
+    },
+    {
+     "text": "Within minutes the whole house was ablaze."
+    },
+    {
+     "text": "Animal shapes ablaze with red and gold. 动物形状的雕刻闪耀着红金蓝的光彩。"
+    },
+    {
+     "text": "The house was ablaze with flames. 房子熊熊燃烧。"
+    },
+    {
+     "table": {
+      "headers": [
+       "ablaze adj.very bright or colorful 光鲜的，明艳的"
+      ],
+      "rows": [
+       [
+        "Her yard was ablaze with summer flowers. The trees were ablaze with the colors of autumn."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The dove is a symbol of peace. 鸽子是和平的象征。"
+    },
+    {
+     "text": "The lion is a symbol of courage. 狮子是勇气的象征。"
+    },
+    {
+     "text": "The cross is the symbol of Christianity."
+    },
+    {
+     "text": "The painting portrays the duke’s wife. 这幅画描绘了公爵的第三任妻子。"
+    },
+    {
+     "text": "His poetry portrays trench life vividly. 他的战争诗生动描绘了战壕生活。"
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "Vasa 号的风光时刻(heyday)",
-   "lines": [
-    "Then the cannons of the anchored warships thundered a salute to which the Vasa fired in reply . anchor v. [I, T] 抛锚；下锚 salute n.an official occasion when guns are fired into the air to show respect 鸣礼炮致敬 fire / thunder a salute 鸣礼炮致敬 The sentry gave us a salute to which we waved in reply. 哨兵向我们敬礼，我们挥手还礼。 As she emerged from her drifting cloud of gun smoke with the water churned to foam beneath her bow, her flags flying , pennants waving , sails filling in the breeze, and the red and gold of her superstructure ablaze with colour, she presented a more majestic spectacle than Stockholmers had ever seen before. drift v. to move slowly on water or in the air 漂流，飘移 cloud n.a large amount of smoke, dust, steam, etc. in the air 烟云，烟尘 churn (up) v.if water, mud etc churns, or if something churns it, it moves about violently (使)翻滚，翻腾，汹涌奔腾 foam n. [U] a mass of very small air bubbles on the surface of a liquid 泡沫 pennant n. long narrow flag tapering to a point, used on a ship for signaling or as identification （船上用作信号或识别标志的）长三角旗 fill v. become full 充满 superstructure n. the structural part of a ship above the main deck 甲板上部结构，船楼 All gun-ports were open and the muzzles peeped wickedly from them. gunport / gun-port n.战舰上的炮门，炮眼;炮门;射击孔 muzzle n.open end of a firearm, out of which the bullets, etc come 枪口，炮口 peep v.to look at something quickly and secretly, especially through a hole or opening 窥视，窥探",
-    "We anchored (our boat) near / close to the shore. 我们将船停泊在岸边。",
-    "Before she had anchored, the men from the boats had climbed on board and the decks were soon covered with colourful rugs from Persia, silks from India, copper coffee pots, and beautiful hand-made silver-ware .",
-    "She anchored the evening news for seven years. 她主持了七年晚间新闻报道。",
-    "The ship was anchored off shore. 船停泊在离岸不远的地方。",
-    "We anchored off the coast of Spain. 我们在西班牙沿海抛锚停泊。",
-    "Her novels are anchored in everyday experience. 她的小说取材自日常生活经验。",
-    "Bands played, and there was a 21-gun salute.",
-    "The soldier gave a salute, and the officer returned it. 士兵敬礼，军官回礼。",
-    "fire a salute of ten guns",
-    "Then the cannons of the anchored warships thundered a salute to which the Vasa fired (a salute) in reply.",
-    "The captain ordered his men to fire a salute. 船长命令部下鸣放礼炮。",
-    "salute n.敬礼 (an act of raising your right hand to your head as a sign of respect, usually done by a soldier to an office) The officers got out, and the prisoner stood to attention and saluted as they passed . The soldier gave a salute and the officer returned it. give / return a salute 向某人敬礼/还礼",
-    "in reply / response to sth. 作为对…的回应 I am writing in reply / response to your letter of June 12. In response to renewed pleadings, Bruce stopped .",
-    "The boat drifted down the river. 船顺河漂流而下。",
-    "Thick smoke from a forest fire drifted across the town.",
-    "Before long, the noise dropped completely, and the boat began to drift gently across the water .",
-    "The hens darted away on all sides, raising a cloud of dust.",
-    "A cloud of gas leaked from the factory. 工厂泄漏出一团气体。",
-    "cloud of dust 尘土云 / 尘埃团 The building collapsed in a massive cloud of dust. 大楼在巨大的尘土云中倒塌了。",
-    "cloud of smoke 烟云 / 烟雾 A thick cloud of smoke rose from the burning factory. 一股浓烟从燃烧的工厂中升起。",
-    "cloud of gas 气云 / 气体团 Stars are born within a giant cloud of gas and dust in space. 恒星诞生于太空中巨大的气体和尘埃云中。",
-    "The ship’s propellers churned the waves. 船的螺旋桨将海浪搅成泡沫。",
-    "The water churned beneath the huge ship / to foam beneath her bow.",
-    "The sea was churned up by heavy winds.",
-    "a glass of beer with a good head of foam",
-    "The breaking waves left the beach covered with foam.",
-    "The ship's propeller churned the waves to foam.",
-    "The wind howled and churned up the water into swirling foam.",
-    "Beer had a thick head of foam. 啤酒上有一层厚厚的泡沫。",
-    "Pennants waving adorned the Vasa. 飘扬的三角旗装饰着瓦萨号。",
-    "The ship flew a bright pennant. 船上挂着一面鲜艳的三角旗。",
-    "Pennants signaled the fleet’s identity. 三角旗标志着舰队的身份。",
-    "Sails filling in the breeze powered the Vasa. 帆在微风中鼓满，驱动瓦萨号。",
-    "The hall soon filled with guests quickly. 大厅很快挤满了客人。",
-    "The sails filled with wind at dawn. 黎明时帆被风鼓满。",
-    "Her superstructure was ablaze with color. 她的上层结构色彩鲜艳。",
-    "The ship’s superstructure housed officers. 船的上层结构为军官提供住所。",
-    "Damage to the superstructure was minimal. 上层结构的损坏很小。",
-    "The economic basis determines (the) superstructure 经济基础决定上层建筑 According to historical materialism, the economic basis determines the superstructure of a society. 根据历史唯物主义，经济基础决定了一个社会的上层建筑。",
-    "Gun-ports lined the ship’s sides. 炮门排列在船的两侧。",
-    "Cannons fired through the gun-ports. 大炮通过炮门发射。",
-    "Muzzles peeped from the gun-ports. 炮口从炮门中探出。",
-    "The cannon’s muzzle was polished. 大炮的炮口被擦得锃亮。",
-    "Smoke poured from the muzzle. 炮口冒出浓烟。",
-    "We caught her peeping through the keyhole.",
-    "Eyes peeped from behind the curtain. 眼睛从窗帘后偷偷窥视。"
+   "parts": [
+    {
+     "text": "Then the cannons of the anchored warships thundered a salute to which the Vasa fired in reply . anchor v. [I, T] 抛锚；下锚 salute n.an official occasion when guns are fired into the air to show respect 鸣礼炮致敬 fire / thunder a salute 鸣礼炮致敬 The sentry gave us a salute to which we waved in reply. 哨兵向我们敬礼，我们挥手还礼。 As she emerged from her drifting cloud of gun smoke with the water churned to foam beneath her bow, her flags flying , pennants waving , sails filling in the breeze, and the red and gold of her superstructure ablaze with colour, she presented a more majestic spectacle than Stockholmers had ever seen before. drift v. to move slowly on water or in the air 漂流，飘移 cloud n.a large amount of smoke, dust, steam, etc. in the air 烟云，烟尘 churn (up) v.if water, mud etc churns, or if something churns it, it moves about violently (使)翻滚，翻腾，汹涌奔腾 foam n. [U] a mass of very small air bubbles on the surface of a liquid 泡沫 pennant n. long narrow flag tapering to a point, used on a ship for signaling or as identification （船上用作信号或识别标志的）长三角旗 fill v. become full 充满 superstructure n. the structural part of a ship above the main deck 甲板上部结构，船楼 All gun-ports were open and the muzzles peeped wickedly from them. gunport / gun-port n.战舰上的炮门，炮眼;炮门;射击孔 muzzle n.open end of a firearm, out of which the bullets, etc come 枪口，炮口 peep v.to look at something quickly and secretly, especially through a hole or opening 窥视，窥探"
+    },
+    {
+     "text": "We anchored (our boat) near / close to the shore. 我们将船停泊在岸边。"
+    },
+    {
+     "text": "Before she had anchored, the men from the boats had climbed on board and the decks were soon covered with colourful rugs from Persia, silks from India, copper coffee pots, and beautiful hand-made silver-ware ."
+    },
+    {
+     "text": "She anchored the evening news for seven years. 她主持了七年晚间新闻报道。"
+    },
+    {
+     "text": "The ship was anchored off shore. 船停泊在离岸不远的地方。"
+    },
+    {
+     "text": "We anchored off the coast of Spain. 我们在西班牙沿海抛锚停泊。"
+    },
+    {
+     "text": "Her novels are anchored in everyday experience. 她的小说取材自日常生活经验。"
+    },
+    {
+     "text": "Bands played, and there was a 21-gun salute."
+    },
+    {
+     "text": "The soldier gave a salute, and the officer returned it. 士兵敬礼，军官回礼。"
+    },
+    {
+     "text": "fire a salute of ten guns"
+    },
+    {
+     "text": "Then the cannons of the anchored warships thundered a salute to which the Vasa fired (a salute) in reply."
+    },
+    {
+     "text": "The captain ordered his men to fire a salute. 船长命令部下鸣放礼炮。"
+    },
+    {
+     "table": {
+      "headers": [
+       "salute n.敬礼 (an act of raising your right hand to your head as a sign of respect, usually done by a soldier to an office)",
+       "in reply / response to sth. 作为对…的回应"
+      ],
+      "rows": [
+       [
+        "The officers got out, and the prisoner stood to attention and saluted as they passed . The soldier gave a salute and the officer returned it. give / return a salute 向某人敬礼/还礼"
+       ],
+       [
+        "I am writing in reply / response to your letter of June 12. In response to renewed pleadings, Bruce stopped ."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The boat drifted down the river. 船顺河漂流而下。"
+    },
+    {
+     "text": "Thick smoke from a forest fire drifted across the town."
+    },
+    {
+     "text": "Before long, the noise dropped completely, and the boat began to drift gently across the water ."
+    },
+    {
+     "text": "The hens darted away on all sides, raising a cloud of dust."
+    },
+    {
+     "text": "A cloud of gas leaked from the factory. 工厂泄漏出一团气体。"
+    },
+    {
+     "table": {
+      "headers": [
+       "cloud of dust 尘土云 / 尘埃团",
+       "cloud of smoke 烟云 / 烟雾",
+       "cloud of gas 气云 / 气体团"
+      ],
+      "rows": [
+       [
+        "The building collapsed in a massive cloud of dust. 大楼在巨大的尘土云中倒塌了。"
+       ],
+       [
+        "A thick cloud of smoke rose from the burning factory. 一股浓烟从燃烧的工厂中升起。"
+       ],
+       [
+        "Stars are born within a giant cloud of gas and dust in space. 恒星诞生于太空中巨大的气体和尘埃云中。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The ship’s propellers churned the waves. 船的螺旋桨将海浪搅成泡沫。"
+    },
+    {
+     "text": "The water churned beneath the huge ship / to foam beneath her bow."
+    },
+    {
+     "text": "The sea was churned up by heavy winds."
+    },
+    {
+     "text": "a glass of beer with a good head of foam"
+    },
+    {
+     "text": "The breaking waves left the beach covered with foam."
+    },
+    {
+     "text": "The ship's propeller churned the waves to foam."
+    },
+    {
+     "text": "The wind howled and churned up the water into swirling foam."
+    },
+    {
+     "text": "Beer had a thick head of foam. 啤酒上有一层厚厚的泡沫。"
+    },
+    {
+     "text": "Pennants waving adorned the Vasa. 飘扬的三角旗装饰着瓦萨号。"
+    },
+    {
+     "text": "The ship flew a bright pennant. 船上挂着一面鲜艳的三角旗。"
+    },
+    {
+     "text": "Pennants signaled the fleet’s identity. 三角旗标志着舰队的身份。"
+    },
+    {
+     "text": "Sails filling in the breeze powered the Vasa. 帆在微风中鼓满，驱动瓦萨号。"
+    },
+    {
+     "text": "The hall soon filled with guests quickly. 大厅很快挤满了客人。"
+    },
+    {
+     "text": "The sails filled with wind at dawn. 黎明时帆被风鼓满。"
+    },
+    {
+     "text": "Her superstructure was ablaze with color. 她的上层结构色彩鲜艳。"
+    },
+    {
+     "text": "The ship’s superstructure housed officers. 船的上层结构为军官提供住所。"
+    },
+    {
+     "text": "Damage to the superstructure was minimal. 上层结构的损坏很小。"
+    },
+    {
+     "table": {
+      "headers": [
+       "The economic basis determines (the) superstructure 经济基础决定上层建筑"
+      ],
+      "rows": [
+       [
+        "According to historical materialism, the economic basis determines the superstructure of a society. 根据历史唯物主义，经济基础决定了一个社会的上层建筑。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Gun-ports lined the ship’s sides. 炮门排列在船的两侧。"
+    },
+    {
+     "text": "Cannons fired through the gun-ports. 大炮通过炮门发射。"
+    },
+    {
+     "text": "Muzzles peeped from the gun-ports. 炮口从炮门中探出。"
+    },
+    {
+     "text": "The cannon’s muzzle was polished. 大炮的炮口被擦得锃亮。"
+    },
+    {
+     "text": "Smoke poured from the muzzle. 炮口冒出浓烟。"
+    },
+    {
+     "text": "We caught her peeping through the keyhole."
+    },
+    {
+     "text": "Eyes peeped from behind the curtain. 眼睛从窗帘后偷偷窥视。"
+    }
    ]
   }
  ]

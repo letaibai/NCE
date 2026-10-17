@@ -2,104 +2,475 @@
  "grammar": [
   {
    "title": "论证",
-   "lines": [
-    "If you can do without the few pastoral pleasures of the country, you will find the city can provide you with the best that life can offer . do without sth. 没有...也行 provide sb. with sth. 为某人提供某物（sb. 短 sth. 长） They invariably live nearby and are always available for an informal chat or an evening's entertainment. be available for sth. 有空做某事 be busy 忙于干某事（没时间做其它事） Some of my acquaintances in the country come up to town once or twice a year to visit the theatre as a special treat. go up to the city 上城市 treat n.难得的乐事 For them this is a major operation which involves considerable planning . ... and it involves considerable planning. 延续性从句替换 and it major important; significant operation work; activity; action 造句： Studying abroad is a major operation which involves considerable planning .出国留学是一个重大的行动，需要精心的计划。 As the play draws to its close, they wonder whether they will ever catch that last train home . draw to a close 接近尾声 The city dweller never experiences anxieties of this sort. ... of this / that sort / kind 这种...、那种...(前面的名字用复数) The latest exhibitions, films, or plays are only a short bus ride away . be only a short bus ride away 只有很短的公共汽车车程(公交车即可达) There is so much variety that you never have to make do with second best. make do with ... 凑合用 second best 次优、其次 Country people run wild when they go shopping in the city and stagger home loaded with as many of the exotic items as they can carry . run / go wild with delight 系表（变得...）欣喜若狂 Nor is the city without its moments of beauty. 双重否定 = 加强肯定 造句：Nor are men without their moments of frailty. 男人也不是没有脆弱的时候。 There is something comforting about the warm glow shed by advertisements on cold wet winter nights. shed v.流，洒，落（泪），射(发)出光，蜕皮、掉落（货物） on a Monday night 早中晚前面有修饰语时使用介词on Few things could be more impressive than the peace that descends on deserted city streets at weekends when the thousands that travel to work every day are tucked away in their homes in the country . 比较级表最高级 tuck v.掖进，塞进 It has always been a mystery to me why city dwellers , who appreciate all these things, obstinately pretend that they would prefer to live in the country . 作者总结：They are hypocritical. It has always been a mystery to me 这对我来说一直是个谜 ... they would prefer to live in the country rather than live in the city . 补充完整",
-    "without pleasures 缺乏乐趣 with best life 具有最好的生活",
-    "If you can live without the serenity of a quiet beach, you will find the bustling city can provide you with endless excitement and opportunities.",
-    "If you need my car, I can do without it today.",
-    "She can't do without candy.",
-    "go without sth. 没有某物（也行） During the drought, they had to go without running water for weeks. 在干旱期间，他们不得不几周没有自来水。",
-    "manage without sth. 没有某物也能应付 She managed without a car for years before buying one. 她在买车之前好几年都没有车也能应付。",
-    "Editors of newspapers and magazines often go to extremes to provide their readers with unimportant facts and statistics .",
-    "provide sth. for sb. 为某人提供某物（sb. 长 sth. 短） Such things provide an excellent outlet for pent up creative energy, but unfortunately not all of us are born handymen .",
-    "I am available for a meeting tomorrow afternoon. 我明天下午有空开会。",
-    "My professor is always available for a conversation / to talk with his students.",
-    "be available to do sth. 有空、有时间做某事 She is available to discuss the project later today.她今天稍晚有空讨论这个项目。",
-    "be free for sth. 有空做某事 Are you free for lunch today?你今天中午有空吗？",
-    "be free to do sth. 有空做某事 He is free to help you with your homework tonight.他今晚有空帮你做作业。",
-    "Her eyes were fixed on her plate and in a short time, she was busy eating .",
-    "Meanwhile, my tongue was busy searching out the hole where the tooth had been .",
-    "In a short time, I was busy mixing butter and flour, and my hands were soon covered with sticky pastry .",
-    "You're not busy doing anything, are you?'",
-    "The bull was busy with the matador at the time, but it suddenly caught sight of the drunk who was shouting rude remarks and waving a red cap .",
-    "I appreciate your kind invitation, but I have a previous / prior engagement.",
-    "be not available I’m sorry, but I'm not available for the meeting on Friday.很抱歉，我周五没空参加会议。",
-    "be tied up She is tied up with work all day and can't meet you.她一整天都忙于工作，无法见你。",
-    "have a previous engagement I have a previous engagement that I can't cancel.我有一个无法取消的预定。",
-    "have a prior engagement He has a prior engagement and won't be able to attend the dinner.他有一个优先安排，无法参加晚宴。",
-    "hey decided to go up to the city for the weekend. 他们决定周末去城市。",
-    "go down to the country 下乡下去 We're going down to the country to visit my grandparents. 我们要下乡去看望我的祖父母。",
-    "up 上北、上游 They walked up north. 北上 They sailed up the river. 上游",
-    "down 下南、下游 They walked down south. 南下 They sailed down the river. 下游",
-    "treat or trick 不给糖就捣蛋",
-    "The children were given milk shakes as a special treat. 小孩受到特别招待，给吃牛奶泡泡冰。",
-    "When we were kids, a trip to the beach was a real treat.",
-    "Her son's visits are a great treat for her.",
-    "as a special treat 作为难得的乐事 We took the kids to the zoo as a special treat.",
-    "be a real treat 真正的享受 The concert last night was a real treat. 昨晚的音乐会真是享受。",
-    "be a great treat 盛情款待、天大的乐事 Visiting the amusement park was a great treat for the kids. 参观游乐园对孩子们来说是一大享受。",
-    "Libya is a major oil producer. 利比亚是主要石油生产国之一。",
-    "Rotterdam is a major port. 鹿特丹是一个重要的港口城市。",
-    "Tokyo is a major financial centre. 东京是主要的金融中心。",
-    "She's an education major. 她主修教育学。",
-    "minor unimportant I can put up with minor inconveniences. 我能忍受些小的不便。 The symptoms suggest a minor heart attack. 症状显示这是轻微心脏病发作。 He had a minor operation to remove a cyst. 他做了一个切除了囊肿的小手术。 Small children often cry after a minor bump. 小孩子们在轻微的碰撞后常常会哭。 Relatively minor modifications were required. 需要相对较小的修改。",
-    "trivial insignificant It's a trivial matter and not worth fighting about. 这是一桩小事，不值得为之争辩。 I know it sounds trivial , but I'm worried about it. 我知道这事听起来微不足道，但我还是放心不下。 His mood can be gauged by his reaction to the most trivial of incidents. 他的情绪可以通过他对最琐碎的小事的反应来判定。 These may seem like trivial phobias. 这些似乎是微不足道的恐惧症。 Trivial formalities have been done away with. 繁琐礼节都取消了。",
-    "The salvage operation had been a complete failure .",
-    "There are three ski lifts in operation. 有3辆滑雪缆车在运行。",
-    "The system has been in operation for six months. 这个系统已经运行六个月了。",
-    "rescue operation 营救行动 However, rescue operations are proving difficult .",
-    "relief operation 救援行动 The relief operation also includes the provision of food, water and other supplies to the victims. 救援行动包括向灾民提供粮食、水和其他供需品。",
-    "cleanup operation 清理行动(大扫除) The cleanup operation helped ensure the water quality of the dam and its navigability. 清理工作有助于确保大坝的水质及顺利巡航。",
-    "As the day drew to a close, the sun set beautifully over the horizon.当一天接近尾声时，夕阳美丽地落在地平线上。",
-    "draw to an end 即将结束 The meeting drew to an end after three hours of discussion.经过三个小时的讨论，会议接近尾声。",
-    "draw to a conclusion 接近结束 The investigation drew to a conclusion with the final report.调查随着最终报告接近结束。",
-    "come to a close 进入尾声 The concert came to a close with a spectacular fireworks display.音乐会以壮观的烟花表演结束。",
-    "come to an end 曲终人散 Their long journey finally came to an end.他们的长途旅行终于结束了。",
-    "come to a conclusion 得出结论 After reviewing all the evidence, the jury came to a conclusion.在审查了所有证据后，陪审团达成了结论。",
-    "I can't approve of things of this sort.",
-    "this / that sort / kind of ... 将后面的名词通通看着不可数 I can't approve of this sort of thing.",
-    "The town centre is only a short bus ride away. 坐公共汽车去市中心只有很短一段路程。",
-    "The shopping mall is only a short bus ride away from my house. 购物中心离我家只有一小段公交车程。",
-    "be within walking distance 步行可达 The park is within walking distance from our hotel.公园离我们的酒店在步行可达的距离内。",
-    "be within driving distance 开车可达 The beach is within driving distance from the city center.海滩离市中心在开车可达的距离内。",
-    "be within commuting distance 通勤范围内 My new job is within commuting distance of my home.我的新工作在我家通勤范围内。",
-    "be only a stone's throw away 只有一箭之遥 The library is only a stone's throw away from the university.图书馆离大学只有一箭之遥。",
-    "John did not have a hammer, so he had to make do with a rock.",
-    "He put on his second best suit.他穿上了他第二好的西服。",
-    "My best subject was history and my second best was geography.我学得最好的科目是历史，其次是地理。",
-    "I couldn't afford the house I really wanted, so I had to settle for second best. 我真心想要的房子我买不起，所以只得退而求其次了。",
-    "be second only to ... 仅次于... The euro has a circulation second only to that of the dollar.",
-    "be second to none 没有排在任何的后面（最棒的） When it comes to singing, John is second to none.",
-    "The children ran wild with delight when they saw the ice cream truck.孩子们看到冰淇淋车时高兴得疯了。",
-    "Fans went wild with delight when their team won the championship. 球迷们在他们的球队赢得冠军时兴奋得疯了。",
-    "run crazy with delight 高兴疯了 The kids ran crazy with delight when they saw the balloons. 孩子们看到气球时高兴得疯了。",
-    "go crazy with delight 高兴得发疯 She went crazy with delight when she heard she won the lottery. 她听到自己中了大奖时高兴得发疯。",
-    "go into raptures 欣喜若狂 The audience went into raptures when the singer came on stage. 歌手登台时，观众们欣喜若狂。",
-    "go into ecstasies 欣喜若狂 She went into ecstasies over the beautiful painting she received. 她对收到的美丽画作欣喜若狂。",
-    "Nothing is impossible to a willing mind. 世上无难事，只怕有心人。",
-    "No one has nothing to offer to society. 每个人都可以为社会做贡献",
-    "Impossible is nothing. 一切皆有可能（双重否定=加强肯定）Adidas slogan",
-    "Anything is possible. 一切皆有可能（李宁 slogan）",
-    "shed bitter tears",
-    "shed blood",
-    "shed light on sth. 阐明某事（揭示） These discoveries may shed light on the origins of the universe.",
-    "on a Sunday morning",
-    "On Christmas morning",
-    "On Friday evening",
-    "on Wednesday evening",
-    "on a sunny afternoon",
-    "Few students could be more diligent than she (is).",
-    "Few things could be more misleading than the precept that the way to be loved is-just to love. 只要去爱就能得到爱，没有比这更误导人的箴言了。",
-    "tuck your trousers into your boots",
-    "He tried to tuck his flapping shirt inside his trousers. 他试图把飘动的衬衫塞进他的裤子里。",
-    "I'll tuck your sheets in for you. How's that? Comfortable? 我给你把被单掖在垫褥下面吧。怎么样？舒服吗？",
-    "nip and tuck 势均力敌、棋逢对手 The presidential contest is nip and tuck.总统竞选势均力敌。 The two runners contested the race closely -- it was nip and tuck all the way. 那两个赛跑选手竞争激烈-在赛程中一直不相上下。",
-    "be tucked away be hidden （被塞进去隐藏了） A group of tiny brick houses is tucked away behind the factory.",
-    "It has always been a mystery to me why people enjoy horror movies.我一直不明白为什么人们喜欢恐怖电影。",
-    "It has always been a mystery to me how he manages to stay so calm.我一直不明白他是如何保持如此冷静的。",
-    "It has always been a mystery to me what she sees in him.我一直不明白她在他身上看到了什么。",
-    "It has always been beyond me ...我到现在总是不明白(一直不明白) It has always been beyond me why he chose to quit his job.我一直不明白他为什么选择辞去工作。 It has always been beyond me how she manages to juggle work and family.我一直不明白她是如何平衡工作和家庭的。 It has always been beyond me what he sees in her.我一直不明白他在她身上看到了什么。 It has always been beyond me who would leave such a mess behind.我一直不明白是谁留下了这么一团糟。 It has always been beyond me where he disappeared to.我一直不明白他去了哪里。",
-    "It beats me ... 击败了我（我搞不懂） It beats me why he always arrives late to meetings.我真搞不懂他为什么总是迟到会议。 It beats me how she manages to keep her room so tidy.我真不知道她是怎么把房间收拾得这么干净的。 It beats me what he sees in her.我真不知道他看中她什么。 It beats me who would leave the door unlocked overnight.我真不知道谁会把门整夜不锁。 It beats me where he found that rare book.我真不知道他在哪里找到那本稀有的书。"
+   "parts": [
+    {
+     "text": "If you can do without the few pastoral pleasures of the country, you will find the city can provide you with the best that life can offer . do without sth. 没有...也行 provide sb. with sth. 为某人提供某物（sb. 短 sth. 长） They invariably live nearby and are always available for an informal chat or an evening's entertainment. be available for sth. 有空做某事 be busy 忙于干某事（没时间做其它事） Some of my acquaintances in the country come up to town once or twice a year to visit the theatre as a special treat. go up to the city 上城市 treat n.难得的乐事 For them this is a major operation which involves considerable planning . ... and it involves considerable planning. 延续性从句替换 and it major important; significant operation work; activity; action 造句： Studying abroad is a major operation which involves considerable planning .出国留学是一个重大的行动，需要精心的计划。 As the play draws to its close, they wonder whether they will ever catch that last train home . draw to a close 接近尾声 The city dweller never experiences anxieties of this sort. ... of this / that sort / kind 这种...、那种...(前面的名字用复数) The latest exhibitions, films, or plays are only a short bus ride away . be only a short bus ride away 只有很短的公共汽车车程(公交车即可达) There is so much variety that you never have to make do with second best. make do with ... 凑合用 second best 次优、其次 Country people run wild when they go shopping in the city and stagger home loaded with as many of the exotic items as they can carry . run / go wild with delight 系表（变得...）欣喜若狂 Nor is the city without its moments of beauty. 双重否定 = 加强肯定 造句：Nor are men without their moments of frailty. 男人也不是没有脆弱的时候。 There is something comforting about the warm glow shed by advertisements on cold wet winter nights. shed v.流，洒，落（泪），射(发)出光，蜕皮、掉落（货物） on a Monday night 早中晚前面有修饰语时使用介词on Few things could be more impressive than the peace that descends on deserted city streets at weekends when the thousands that travel to work every day are tucked away in their homes in the country . 比较级表最高级 tuck v.掖进，塞进 It has always been a mystery to me why city dwellers , who appreciate all these things, obstinately pretend that they would prefer to live in the country . 作者总结：They are hypocritical. It has always been a mystery to me 这对我来说一直是个谜 ... they would prefer to live in the country rather than live in the city . 补充完整"
+    },
+    {
+     "table": {
+      "headers": [
+       "without pleasures 缺乏乐趣",
+       "with best life 具有最好的生活"
+      ],
+      "rows": [
+       [
+        "If you can live without the serenity of a quiet beach, you will find the bustling city can provide you with endless excitement and opportunities."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "If you need my car, I can do without it today."
+    },
+    {
+     "text": "She can't do without candy."
+    },
+    {
+     "table": {
+      "headers": [
+       "go without sth. 没有某物（也行）",
+       "manage without sth. 没有某物也能应付"
+      ],
+      "rows": [
+       [
+        "During the drought, they had to go without running water for weeks. 在干旱期间，他们不得不几周没有自来水。"
+       ],
+       [
+        "She managed without a car for years before buying one. 她在买车之前好几年都没有车也能应付。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Editors of newspapers and magazines often go to extremes to provide their readers with unimportant facts and statistics ."
+    },
+    {
+     "table": {
+      "headers": [
+       "provide sth. for sb. 为某人提供某物（sb. 长 sth. 短）"
+      ],
+      "rows": [
+       [
+        "Such things provide an excellent outlet for pent up creative energy, but unfortunately not all of us are born handymen ."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "I am available for a meeting tomorrow afternoon. 我明天下午有空开会。"
+    },
+    {
+     "text": "My professor is always available for a conversation / to talk with his students."
+    },
+    {
+     "table": {
+      "headers": [
+       "be available to do sth. 有空、有时间做某事",
+       "be free for sth. 有空做某事",
+       "be free to do sth. 有空做某事"
+      ],
+      "rows": [
+       [
+        "She is available to discuss the project later today.她今天稍晚有空讨论这个项目。"
+       ],
+       [
+        "Are you free for lunch today?你今天中午有空吗？"
+       ],
+       [
+        "He is free to help you with your homework tonight.他今晚有空帮你做作业。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Her eyes were fixed on her plate and in a short time, she was busy eating ."
+    },
+    {
+     "text": "Meanwhile, my tongue was busy searching out the hole where the tooth had been ."
+    },
+    {
+     "text": "In a short time, I was busy mixing butter and flour, and my hands were soon covered with sticky pastry ."
+    },
+    {
+     "text": "You're not busy doing anything, are you?'"
+    },
+    {
+     "text": "The bull was busy with the matador at the time, but it suddenly caught sight of the drunk who was shouting rude remarks and waving a red cap ."
+    },
+    {
+     "text": "I appreciate your kind invitation, but I have a previous / prior engagement."
+    },
+    {
+     "table": {
+      "headers": [
+       "be not available",
+       "be tied up",
+       "have a previous engagement",
+       "have a prior engagement"
+      ],
+      "rows": [
+       [
+        "I’m sorry, but I'm not available for the meeting on Friday.很抱歉，我周五没空参加会议。"
+       ],
+       [
+        "She is tied up with work all day and can't meet you.她一整天都忙于工作，无法见你。"
+       ],
+       [
+        "I have a previous engagement that I can't cancel.我有一个无法取消的预定。"
+       ],
+       [
+        "He has a prior engagement and won't be able to attend the dinner.他有一个优先安排，无法参加晚宴。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "hey decided to go up to the city for the weekend. 他们决定周末去城市。"
+    },
+    {
+     "table": {
+      "headers": [
+       "go down to the country 下乡下去",
+       "up 上北、上游",
+       "down 下南、下游"
+      ],
+      "rows": [
+       [
+        "We're going down to the country to visit my grandparents. 我们要下乡去看望我的祖父母。"
+       ],
+       [
+        "They walked up north. 北上 They sailed up the river. 上游"
+       ],
+       [
+        "They walked down south. 南下 They sailed down the river. 下游"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "treat or trick 不给糖就捣蛋"
+    },
+    {
+     "text": "The children were given milk shakes as a special treat. 小孩受到特别招待，给吃牛奶泡泡冰。"
+    },
+    {
+     "text": "When we were kids, a trip to the beach was a real treat."
+    },
+    {
+     "text": "Her son's visits are a great treat for her."
+    },
+    {
+     "table": {
+      "headers": [
+       "as a special treat 作为难得的乐事",
+       "be a real treat 真正的享受",
+       "be a great treat 盛情款待、天大的乐事"
+      ],
+      "rows": [
+       [
+        "We took the kids to the zoo as a special treat."
+       ],
+       [
+        "The concert last night was a real treat. 昨晚的音乐会真是享受。"
+       ],
+       [
+        "Visiting the amusement park was a great treat for the kids. 参观游乐园对孩子们来说是一大享受。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Libya is a major oil producer. 利比亚是主要石油生产国之一。"
+    },
+    {
+     "text": "Rotterdam is a major port. 鹿特丹是一个重要的港口城市。"
+    },
+    {
+     "text": "Tokyo is a major financial centre. 东京是主要的金融中心。"
+    },
+    {
+     "text": "She's an education major. 她主修教育学。"
+    },
+    {
+     "table": {
+      "headers": [
+       "minor unimportant",
+       "trivial insignificant"
+      ],
+      "rows": [
+       [
+        "I can put up with minor inconveniences. 我能忍受些小的不便。 The symptoms suggest a minor heart attack. 症状显示这是轻微心脏病发作。 He had a minor operation to remove a cyst. 他做了一个切除了囊肿的小手术。 Small children often cry after a minor bump. 小孩子们在轻微的碰撞后常常会哭。 Relatively minor modifications were required. 需要相对较小的修改。"
+       ],
+       [
+        "It's a trivial matter and not worth fighting about. 这是一桩小事，不值得为之争辩。 I know it sounds trivial , but I'm worried about it. 我知道这事听起来微不足道，但我还是放心不下。 His mood can be gauged by his reaction to the most trivial of incidents. 他的情绪可以通过他对最琐碎的小事的反应来判定。 These may seem like trivial phobias. 这些似乎是微不足道的恐惧症。 Trivial formalities have been done away with. 繁琐礼节都取消了。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The salvage operation had been a complete failure ."
+    },
+    {
+     "text": "There are three ski lifts in operation. 有3辆滑雪缆车在运行。"
+    },
+    {
+     "text": "The system has been in operation for six months. 这个系统已经运行六个月了。"
+    },
+    {
+     "table": {
+      "headers": [
+       "rescue operation 营救行动",
+       "relief operation 救援行动",
+       "cleanup operation 清理行动(大扫除)"
+      ],
+      "rows": [
+       [
+        "However, rescue operations are proving difficult ."
+       ],
+       [
+        "The relief operation also includes the provision of food, water and other supplies to the victims. 救援行动包括向灾民提供粮食、水和其他供需品。"
+       ],
+       [
+        "The cleanup operation helped ensure the water quality of the dam and its navigability. 清理工作有助于确保大坝的水质及顺利巡航。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "As the day drew to a close, the sun set beautifully over the horizon.当一天接近尾声时，夕阳美丽地落在地平线上。"
+    },
+    {
+     "table": {
+      "headers": [
+       "draw to an end 即将结束",
+       "draw to a conclusion 接近结束",
+       "come to a close 进入尾声",
+       "come to an end 曲终人散",
+       "come to a conclusion 得出结论"
+      ],
+      "rows": [
+       [
+        "The meeting drew to an end after three hours of discussion.经过三个小时的讨论，会议接近尾声。"
+       ],
+       [
+        "The investigation drew to a conclusion with the final report.调查随着最终报告接近结束。"
+       ],
+       [
+        "The concert came to a close with a spectacular fireworks display.音乐会以壮观的烟花表演结束。"
+       ],
+       [
+        "Their long journey finally came to an end.他们的长途旅行终于结束了。"
+       ],
+       [
+        "After reviewing all the evidence, the jury came to a conclusion.在审查了所有证据后，陪审团达成了结论。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "I can't approve of things of this sort."
+    },
+    {
+     "table": {
+      "headers": [
+       "this / that sort / kind of ... 将后面的名词通通看着不可数"
+      ],
+      "rows": [
+       [
+        "I can't approve of this sort of thing."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The town centre is only a short bus ride away. 坐公共汽车去市中心只有很短一段路程。"
+    },
+    {
+     "text": "The shopping mall is only a short bus ride away from my house. 购物中心离我家只有一小段公交车程。"
+    },
+    {
+     "table": {
+      "headers": [
+       "be within walking distance 步行可达",
+       "be within driving distance 开车可达",
+       "be within commuting distance 通勤范围内",
+       "be only a stone's throw away 只有一箭之遥"
+      ],
+      "rows": [
+       [
+        "The park is within walking distance from our hotel.公园离我们的酒店在步行可达的距离内。"
+       ],
+       [
+        "The beach is within driving distance from the city center.海滩离市中心在开车可达的距离内。"
+       ],
+       [
+        "My new job is within commuting distance of my home.我的新工作在我家通勤范围内。"
+       ],
+       [
+        "The library is only a stone's throw away from the university.图书馆离大学只有一箭之遥。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "John did not have a hammer, so he had to make do with a rock."
+    },
+    {
+     "text": "He put on his second best suit.他穿上了他第二好的西服。"
+    },
+    {
+     "text": "My best subject was history and my second best was geography.我学得最好的科目是历史，其次是地理。"
+    },
+    {
+     "text": "I couldn't afford the house I really wanted, so I had to settle for second best. 我真心想要的房子我买不起，所以只得退而求其次了。"
+    },
+    {
+     "table": {
+      "headers": [
+       "be second only to ... 仅次于...",
+       "be second to none 没有排在任何的后面（最棒的）"
+      ],
+      "rows": [
+       [
+        "The euro has a circulation second only to that of the dollar."
+       ],
+       [
+        "When it comes to singing, John is second to none."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The children ran wild with delight when they saw the ice cream truck.孩子们看到冰淇淋车时高兴得疯了。"
+    },
+    {
+     "text": "Fans went wild with delight when their team won the championship. 球迷们在他们的球队赢得冠军时兴奋得疯了。"
+    },
+    {
+     "table": {
+      "headers": [
+       "run crazy with delight 高兴疯了",
+       "go crazy with delight 高兴得发疯",
+       "go into raptures 欣喜若狂",
+       "go into ecstasies 欣喜若狂"
+      ],
+      "rows": [
+       [
+        "The kids ran crazy with delight when they saw the balloons. 孩子们看到气球时高兴得疯了。"
+       ],
+       [
+        "She went crazy with delight when she heard she won the lottery. 她听到自己中了大奖时高兴得发疯。"
+       ],
+       [
+        "The audience went into raptures when the singer came on stage. 歌手登台时，观众们欣喜若狂。"
+       ],
+       [
+        "She went into ecstasies over the beautiful painting she received. 她对收到的美丽画作欣喜若狂。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Nothing is impossible to a willing mind. 世上无难事，只怕有心人。"
+    },
+    {
+     "text": "No one has nothing to offer to society. 每个人都可以为社会做贡献"
+    },
+    {
+     "text": "Impossible is nothing. 一切皆有可能（双重否定=加强肯定）Adidas slogan"
+    },
+    {
+     "text": "Anything is possible. 一切皆有可能（李宁 slogan）"
+    },
+    {
+     "text": "shed bitter tears"
+    },
+    {
+     "text": "shed blood"
+    },
+    {
+     "table": {
+      "headers": [
+       "shed light on sth. 阐明某事（揭示）"
+      ],
+      "rows": [
+       [
+        "These discoveries may shed light on the origins of the universe."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "on a Sunday morning"
+    },
+    {
+     "text": "On Christmas morning"
+    },
+    {
+     "text": "On Friday evening"
+    },
+    {
+     "text": "on Wednesday evening"
+    },
+    {
+     "text": "on a sunny afternoon"
+    },
+    {
+     "text": "Few students could be more diligent than she (is)."
+    },
+    {
+     "text": "Few things could be more misleading than the precept that the way to be loved is-just to love. 只要去爱就能得到爱，没有比这更误导人的箴言了。"
+    },
+    {
+     "text": "tuck your trousers into your boots"
+    },
+    {
+     "text": "He tried to tuck his flapping shirt inside his trousers. 他试图把飘动的衬衫塞进他的裤子里。"
+    },
+    {
+     "text": "I'll tuck your sheets in for you. How's that? Comfortable? 我给你把被单掖在垫褥下面吧。怎么样？舒服吗？"
+    },
+    {
+     "table": {
+      "headers": [
+       "nip and tuck 势均力敌、棋逢对手",
+       "be tucked away be hidden （被塞进去隐藏了）"
+      ],
+      "rows": [
+       [
+        "The presidential contest is nip and tuck.总统竞选势均力敌。 The two runners contested the race closely -- it was nip and tuck all the way. 那两个赛跑选手竞争激烈-在赛程中一直不相上下。"
+       ],
+       [
+        "A group of tiny brick houses is tucked away behind the factory."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "It has always been a mystery to me why people enjoy horror movies.我一直不明白为什么人们喜欢恐怖电影。"
+    },
+    {
+     "text": "It has always been a mystery to me how he manages to stay so calm.我一直不明白他是如何保持如此冷静的。"
+    },
+    {
+     "text": "It has always been a mystery to me what she sees in him.我一直不明白她在他身上看到了什么。"
+    },
+    {
+     "table": {
+      "headers": [
+       "It has always been beyond me ...我到现在总是不明白(一直不明白)",
+       "It beats me ... 击败了我（我搞不懂）"
+      ],
+      "rows": [
+       [
+        "It has always been beyond me why he chose to quit his job.我一直不明白他为什么选择辞去工作。 It has always been beyond me how she manages to juggle work and family.我一直不明白她是如何平衡工作和家庭的。 It has always been beyond me what he sees in her.我一直不明白他在她身上看到了什么。 It has always been beyond me who would leave such a mess behind.我一直不明白是谁留下了这么一团糟。 It has always been beyond me where he disappeared to.我一直不明白他去了哪里。"
+       ],
+       [
+        "It beats me why he always arrives late to meetings.我真搞不懂他为什么总是迟到会议。 It beats me how she manages to keep her room so tidy.我真不知道她是怎么把房间收拾得这么干净的。 It beats me what he sees in her.我真不知道他看中她什么。 It beats me who would leave the door unlocked overnight.我真不知道谁会把门整夜不锁。 It beats me where he found that rare book.我真不知道他在哪里找到那本稀有的书。"
+       ]
+      ]
+     }
+    }
    ]
   }
  ]

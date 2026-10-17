@@ -2,196 +2,621 @@
  "grammar": [
   {
    "title": "观点->解释->举例证明",
-   "lines": [
-    "The first essential in elephant training is to assign to the animal a single mahout who will be entirely responsible for the job . essential n. [C] fundamentally necessary element or thing 要素，要点，必需品 assign sb. to sth. 指派某人做某事；委派某人担任… Elephants like to have one master just as dogs do , and are capable of a considerable degree of personal affection. just as... do 正如…一样 affection n. a feeling of liking for a person or place 感情，柔情，喜爱 There are even stories of half-trained elephant calves who have refused to feed and pined to death when by some unavoidable circumstance they have been deprived of their own trainer . feed v.饲养，喂养，为…提供食物 pine v. be very unhappy, esp. because sb. has died or gone away 痛苦，伤心（尤指因生离死别） do sth. by mistake / accident by 接原因状语 Such extreme cases must probably be taken with a grain of salt, but they do underline the general principle that the relationship between elephant and mahout is the key to successful training. take sth. with a grain of salt 需要持保留态度/半信半疑 A and B 语义相关无冠词 be / hold the key to … 是…的关键 Such extreme cases must probably be taken with a grain of salt, but they do underline the general principle that the relationship between husband and wife is the key to successful marriage. 这种极端的例子虽不可全信，但是却的确突出了这一基本原则：夫妻关系是成功婚姻的关键。",
-    "A knowledge of French is an absolute essential.",
-    "the essentials of English grammar",
-    "food, water, and other essentials",
-    "The first essential in time management is setting clear priorities.时间管理的首要要素是设定清晰的优先级。",
-    "The commander decided to assign him to the border patrol. 指挥官决定指派他去执行边境巡逻任务。",
-    "The manager decided to assign to the new project a single lead to avoid confusion.经理决定给这个新项目指派一个单独的负责人以避免混乱。",
-    "It was not forced upon them by the survival competition; they could have caught and lived on prey without using poison, just as the thousands of non-poisonous snakes still do.",
-    "I feel just as you do, Mole; simply dead tired, though not body tired. 我的感觉跟你一样，莫尔，简直是累死了，虽然身体并不累。",
-    "A body does just the same in a dream as he'd do if he was awake. 一个人在梦中所做的事情和他醒着时所做的事情是一样的。",
-    "The elderly cat, despite its grumpy appearance, is capable of a considerable degree of personal affection.这只老年猫，尽管看起来脾气暴躁，却能够有相当程度的个人情感。",
-    "Humans are capable of a considerable degree of personal affection even towards inanimate objects.人类即使对无生命的物体也能够有相当程度的个人情感。",
-    "He has a deep affection for the small town where he grew up. 他对他长大的那个小镇有着深厚的感情。",
-    "affectionate adj. 有感情的，充满柔情的 They can be friendly and affectionate towards humans, but they lead mysterious lives of their own as well. The elderly couple was very affectionate, always holding hands in public. 这对老夫妇非常恩爱，在公共场合总是手牵着手。",
-    "And then, when they were dead, the carnivores, like the sabre-toothed cats and the giant wolves, came out to feed and suffered exactly the same fate. vi.进食",
-    "After all, all living creatures live by feeding on something else, … vi.捕食（feed on 以...为食）",
-    "It tires not, nor does it boast of its power; but belongs to the air, travelling it may be six thousand miles to and from its northern nesting home, feeding its flown young as it flies, … vt.喂养",
-    "The sick patient refused to feed until his family arrived.这位生病的病人拒绝进食，直到他的家人到来。",
-    "Six months after he left, she was still pining.",
-    "He seemed to pine for his lost youth. 他似乎在怀念他逝去的青春。",
-    "To pine and sigh. 令人憔悴和叹息。",
-    "Legend says the bird pined to death after its mate flew away forever.传说这只鸟在它的伴侣永远飞走后，因思念而死。",
-    "I succeeded by good fortune.",
-    "By mere negligence she had seriously wounded the feelings of Maggie.",
-    "do sth. by mistake 错误地/由于疏忽而做某事 I deleted the important file by mistake while cleaning up my desktop. 我在清理桌面时误删了那个重要文件。",
-    "do sth. by accident 偶然/意外地做某事 She broke the vase by accident while she was dusting the shelf. 她在掸架子上的灰尘时，不小心把花瓶碰碎了。",
-    "If I were you, I'd take his advice with a grain of salt.",
-    "Most of what he says should be taken with a pinch of salt.",
-    "Any rumors you hear about the merger should be taken with a grain of salt.你听到的任何关于合并的谣言都应该持保留态度。",
-    "His exaggerated stories often have to be taken with a grain of salt.他夸大的故事往往需要持保留态度。",
-    "take sth. with a grain / pinch of salt 对…有保留地相信；怀疑…的真实性 You should take everything you read on that tabloid with a grain of salt. 你应该对在那家小报上读到的所有内容都持保留态度。",
-    "the relationship between teacher and student 师生关系",
-    "the conflict between mother and son 母子之间的冲突",
-    "Primarily, the banker-customer relationship is that of debtor and creditor …",
-    "Working well as a team is the key to success.",
-    "a discovery that may hold the key to our understanding of the universe",
-    "Patience and consistency are the key to successful training of any pet.耐心和一致性是训练任何宠物的关键。"
+   "parts": [
+    {
+     "text": "The first essential in elephant training is to assign to the animal a single mahout who will be entirely responsible for the job . essential n. [C] fundamentally necessary element or thing 要素，要点，必需品 assign sb. to sth. 指派某人做某事；委派某人担任… Elephants like to have one master just as dogs do , and are capable of a considerable degree of personal affection. just as... do 正如…一样 affection n. a feeling of liking for a person or place 感情，柔情，喜爱 There are even stories of half-trained elephant calves who have refused to feed and pined to death when by some unavoidable circumstance they have been deprived of their own trainer . feed v.饲养，喂养，为…提供食物 pine v. be very unhappy, esp. because sb. has died or gone away 痛苦，伤心（尤指因生离死别） do sth. by mistake / accident by 接原因状语 Such extreme cases must probably be taken with a grain of salt, but they do underline the general principle that the relationship between elephant and mahout is the key to successful training. take sth. with a grain of salt 需要持保留态度/半信半疑 A and B 语义相关无冠词 be / hold the key to … 是…的关键 Such extreme cases must probably be taken with a grain of salt, but they do underline the general principle that the relationship between husband and wife is the key to successful marriage. 这种极端的例子虽不可全信，但是却的确突出了这一基本原则：夫妻关系是成功婚姻的关键。"
+    },
+    {
+     "text": "A knowledge of French is an absolute essential."
+    },
+    {
+     "text": "the essentials of English grammar"
+    },
+    {
+     "text": "food, water, and other essentials"
+    },
+    {
+     "text": "The first essential in time management is setting clear priorities.时间管理的首要要素是设定清晰的优先级。"
+    },
+    {
+     "text": "The commander decided to assign him to the border patrol. 指挥官决定指派他去执行边境巡逻任务。"
+    },
+    {
+     "text": "The manager decided to assign to the new project a single lead to avoid confusion.经理决定给这个新项目指派一个单独的负责人以避免混乱。"
+    },
+    {
+     "text": "It was not forced upon them by the survival competition; they could have caught and lived on prey without using poison, just as the thousands of non-poisonous snakes still do."
+    },
+    {
+     "text": "I feel just as you do, Mole; simply dead tired, though not body tired. 我的感觉跟你一样，莫尔，简直是累死了，虽然身体并不累。"
+    },
+    {
+     "text": "A body does just the same in a dream as he'd do if he was awake. 一个人在梦中所做的事情和他醒着时所做的事情是一样的。"
+    },
+    {
+     "text": "The elderly cat, despite its grumpy appearance, is capable of a considerable degree of personal affection.这只老年猫，尽管看起来脾气暴躁，却能够有相当程度的个人情感。"
+    },
+    {
+     "text": "Humans are capable of a considerable degree of personal affection even towards inanimate objects.人类即使对无生命的物体也能够有相当程度的个人情感。"
+    },
+    {
+     "text": "He has a deep affection for the small town where he grew up. 他对他长大的那个小镇有着深厚的感情。"
+    },
+    {
+     "table": {
+      "headers": [
+       "affectionate adj. 有感情的，充满柔情的"
+      ],
+      "rows": [
+       [
+        "They can be friendly and affectionate towards humans, but they lead mysterious lives of their own as well. The elderly couple was very affectionate, always holding hands in public. 这对老夫妇非常恩爱，在公共场合总是手牵着手。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "And then, when they were dead, the carnivores, like the sabre-toothed cats and the giant wolves, came out to feed and suffered exactly the same fate. vi.进食"
+    },
+    {
+     "text": "After all, all living creatures live by feeding on something else, … vi.捕食（feed on 以...为食）"
+    },
+    {
+     "text": "It tires not, nor does it boast of its power; but belongs to the air, travelling it may be six thousand miles to and from its northern nesting home, feeding its flown young as it flies, … vt.喂养"
+    },
+    {
+     "text": "The sick patient refused to feed until his family arrived.这位生病的病人拒绝进食，直到他的家人到来。"
+    },
+    {
+     "text": "Six months after he left, she was still pining."
+    },
+    {
+     "text": "He seemed to pine for his lost youth. 他似乎在怀念他逝去的青春。"
+    },
+    {
+     "text": "To pine and sigh. 令人憔悴和叹息。"
+    },
+    {
+     "text": "Legend says the bird pined to death after its mate flew away forever.传说这只鸟在它的伴侣永远飞走后，因思念而死。"
+    },
+    {
+     "text": "I succeeded by good fortune."
+    },
+    {
+     "text": "By mere negligence she had seriously wounded the feelings of Maggie."
+    },
+    {
+     "table": {
+      "headers": [
+       "do sth. by mistake 错误地/由于疏忽而做某事",
+       "do sth. by accident 偶然/意外地做某事"
+      ],
+      "rows": [
+       [
+        "I deleted the important file by mistake while cleaning up my desktop. 我在清理桌面时误删了那个重要文件。"
+       ],
+       [
+        "She broke the vase by accident while she was dusting the shelf. 她在掸架子上的灰尘时，不小心把花瓶碰碎了。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "If I were you, I'd take his advice with a grain of salt."
+    },
+    {
+     "text": "Most of what he says should be taken with a pinch of salt."
+    },
+    {
+     "text": "Any rumors you hear about the merger should be taken with a grain of salt.你听到的任何关于合并的谣言都应该持保留态度。"
+    },
+    {
+     "text": "His exaggerated stories often have to be taken with a grain of salt.他夸大的故事往往需要持保留态度。"
+    },
+    {
+     "table": {
+      "headers": [
+       "take sth. with a grain / pinch of salt 对…有保留地相信；怀疑…的真实性"
+      ],
+      "rows": [
+       [
+        "You should take everything you read on that tabloid with a grain of salt. 你应该对在那家小报上读到的所有内容都持保留态度。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "the relationship between teacher and student 师生关系"
+    },
+    {
+     "text": "the conflict between mother and son 母子之间的冲突"
+    },
+    {
+     "text": "Primarily, the banker-customer relationship is that of debtor and creditor …"
+    },
+    {
+     "text": "Working well as a team is the key to success."
+    },
+    {
+     "text": "a discovery that may hold the key to our understanding of the universe"
+    },
+    {
+     "text": "Patience and consistency are the key to successful training of any pet.耐心和一致性是训练任何宠物的关键。"
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "大象的训化过程",
-   "lines": [
-    "The most economical age to capture an elephant for training is between 15 and 20 years, for it is then almost ready to undertake heavy work and can begin to earn its keep straight away. be ready to do sth. 可以… keep n. [U] the cost of providing food and a home for someone 生活费；伙食住宿费 straight away adv. immediately 立刻，马上 But animals of this age do not easily become subservient to man, and a very firm hand must be employed in the early stages. hand n. a person skilled in a particular action or pursuit 某方面的能手 The captive elephant, still roped to a tree, plunges and screams every time a man approaches , and for several days will probably refuse all food through anger and fear. plunge v. to move, fall, or be thrown suddenly forwards or downwards 猛冲或突然落下 through prep. 因为，由于… Sometimes a tame elephant is tethered nearby to give the wild one confidence, and in most cases the captive gradually quietens down and begins to accept its food. tame adj. a tame animal or bird is not wild any longer, because it has been trained to live with people 驯化的 tether v. to tie an animal to a post so that it can only move around within a limited area 把动物拴住 quieten v. to become calmer and less noisy or active, or to make sb. or sth. do this（使）平静些,安静些 The next stage is to get the elephant to the training establishment, a ticklish business which is achieved with the aid of two tame elephants roped to the captive on either side . get v. to make sth. or sb. move to a different place or position, esp. with some difficulty 弄到..（不容易做到） establishment n. [C] a business or other organization, or the place where it operates 公司、机构或其场所 ticklish adj. 1. sensitive to tickling 怕痒的 ticklish adj. 2. a ticklish problem, situation, or task is difficult and needs to be dealt with carefully 难解决的，需小心处理的 business n. 1. [U] things that need to be done or discussed（需要做或讨论的）事 business n. [sing.] (usually with an adj. 常与形容词连用) (often derog. 常作贬义) a matter, an event or a situation 事情，情况",
-    "The contract will be ready to sign in two weeks.",
-    "The computer is now set up and ready to use.",
-    "After the training program, the recruits should be ready to undertake heavy work assignments.在培训计划之后，新兵应该准备好承担繁重的工作任务。",
-    "We only need two rooms and our keep.",
-    "The young man worked in the restaurant in exchange for his keep and a small salary. 那个年轻人在餐厅打工，以换取食宿和微薄的薪水。",
-    "It's time you got a job and started earning your keep. 自食其力",
-    "Does that old car still earn its keep?",
-    "The new machine is so efficient that it will begin to earn its keep straight away.这台新机器效率如此之高，以至于它将立即开始自食其力。",
-    "earn sb.’s keep 赚回生活费；维持生计 Even the farm dog earns his keep by guarding the sheep at night. 即使是那只农场狗也通过在晚上看守羊群来赚回它的伙食费。",
-    "They can't pay me straight away.",
-    "I knew straight away it was a bad injury.",
-    "He is a good hand with a gun. 一把好手（在用枪方面）",
-    "She was a fabulous hand at embroidery.",
-    "It was easy to see that he was an old hand at the job.",
-    "He plunged toward the door and wrenched it open.",
-    "She lost her balance and plunged 100 feet to her death.",
-    "The order to abandon ship was given and hundreds of people plunged into the icy water.",
-    "The frightened child plunges and screams whenever there is a loud noise.每当有巨响时，这个受惊的孩子就会猛冲和尖叫。",
-    "We missed the plane through being held up on the motorway.",
-    "The vase was broken through carelessness.",
-    "The rescued animal continued to refuse all food through anger and fear for the first 24 hours.这只被救助的动物在最初的24小时内因愤怒和恐惧而持续拒绝所有食物。",
-    "She made strenuous efforts to tame her anger.她竭力压制心头怒火。",
-    "The bird is too tame now to survive in the wild.这只鸟养得太温驯了，现在很难在野生环境中生存。",
-    "The Amazons were believed to have been the first to tame horses. 亚马逊人被认为是最早驯化了马的人。",
-    "He tethered his horse to a tree.",
-    "The horses were tethered nearby the camp during the night.夜间，马匹被拴在营地附近。",
-    "quieten a screaming baby",
-    "The chatter gradually quietened.",
-    "The leader tried to quieten the crowd before making the announcement. 领导者在宣布消息前试图让人群安静下来。",
-    "Quieten down and get ready for bed!",
-    "After the initial panic, the crowd gradually quietened down as the situation was explained.在最初的恐慌之后，随着情况得到解释，人群逐渐平静下来。",
-    "quieten down 平静下来；安静下来；（活动等）减弱 The party finally quietened down around 2 a.m. 聚会终于在凌晨2点左右安静了下来。 Quieten down, children! 孩子们，安静点！",
-    "I couldn't get the disk out of the computer.",
-    "Could you help me get the wardrobe up the stairs?",
-    "We must get food and emergency aid into the area as quickly as possible.",
-    "The logistical challenge was to get all the equipment to the remote research establishment.物流挑战是将所有设备送到这个偏远的研究机构。",
-    "a top class training establishment",
-    "The hotel is a comfortable and well-run establishment. 这家旅馆环境舒适且经营良好。",
-    "He is highly disdainful of anything to do with the literary establishment. 他对任何涉及文学机构的事都极端的蔑视。",
-    "an educational establishment 教育机构 Harvard University is one of the most prestigious educational establishments in the world. 哈佛大学是世界上最著名的教育机构之一。",
-    "a financial establishment 金融机构 Strict regulations are imposed on every financial establishment to prevent money laundering. 每家金融机构都受到严格监管，以防止洗钱。",
-    "a religious establishment 宗教机构/场所 The ancient temple serves as a religious establishment for the local community. 这座古庙是当地社区的宗教场所。",
-    "I'm terribly ticklish.",
-    "My feet are very ticklish. 我的脚很怕痒。",
-    "Have you ever thought about why people are ticklish? 你有没有想过人为什么会怕痒？",
-    "This massage method is not recommended for anyone who is very ticklish. 这种按摩法不推荐给怕痒的人使用。",
-    "The diplomat had to navigate a very ticklish political situation during the negotiations. 外交官在谈判期间必须应对一个非常棘手的政治局面。",
-    "The reporter asked a ticklish question about the company's declining profits. 记者提了一个关于公司利润下降的棘手问题。",
-    "The manager found himself in a ticklish situation when two of his best employees refused to work together. 当两名最优秀的员工拒绝合作时，经理发现自己陷入了难办的境地。",
-    "Negotiating the final terms of the contract proved to be a ticklish business.谈判合同的最终条款被证明是一项棘手的任务。",
-    "Okay, let's get down to business.",
-    "It’s none of your business.",
-    "Arranging a trip abroad is a time-consuming business.",
-    "These killings are a dreadful business.",
-    "That plane crash was an awful business."
+   "parts": [
+    {
+     "text": "The most economical age to capture an elephant for training is between 15 and 20 years, for it is then almost ready to undertake heavy work and can begin to earn its keep straight away. be ready to do sth. 可以… keep n. [U] the cost of providing food and a home for someone 生活费；伙食住宿费 straight away adv. immediately 立刻，马上 But animals of this age do not easily become subservient to man, and a very firm hand must be employed in the early stages. hand n. a person skilled in a particular action or pursuit 某方面的能手 The captive elephant, still roped to a tree, plunges and screams every time a man approaches , and for several days will probably refuse all food through anger and fear. plunge v. to move, fall, or be thrown suddenly forwards or downwards 猛冲或突然落下 through prep. 因为，由于… Sometimes a tame elephant is tethered nearby to give the wild one confidence, and in most cases the captive gradually quietens down and begins to accept its food. tame adj. a tame animal or bird is not wild any longer, because it has been trained to live with people 驯化的 tether v. to tie an animal to a post so that it can only move around within a limited area 把动物拴住 quieten v. to become calmer and less noisy or active, or to make sb. or sth. do this（使）平静些,安静些 The next stage is to get the elephant to the training establishment, a ticklish business which is achieved with the aid of two tame elephants roped to the captive on either side . get v. to make sth. or sb. move to a different place or position, esp. with some difficulty 弄到..（不容易做到） establishment n. [C] a business or other organization, or the place where it operates 公司、机构或其场所 ticklish adj. 1. sensitive to tickling 怕痒的 ticklish adj. 2. a ticklish problem, situation, or task is difficult and needs to be dealt with carefully 难解决的，需小心处理的 business n. 1. [U] things that need to be done or discussed（需要做或讨论的）事 business n. [sing.] (usually with an adj. 常与形容词连用) (often derog. 常作贬义) a matter, an event or a situation 事情，情况"
+    },
+    {
+     "text": "The contract will be ready to sign in two weeks."
+    },
+    {
+     "text": "The computer is now set up and ready to use."
+    },
+    {
+     "text": "After the training program, the recruits should be ready to undertake heavy work assignments.在培训计划之后，新兵应该准备好承担繁重的工作任务。"
+    },
+    {
+     "text": "We only need two rooms and our keep."
+    },
+    {
+     "text": "The young man worked in the restaurant in exchange for his keep and a small salary. 那个年轻人在餐厅打工，以换取食宿和微薄的薪水。"
+    },
+    {
+     "text": "It's time you got a job and started earning your keep. 自食其力"
+    },
+    {
+     "text": "Does that old car still earn its keep?"
+    },
+    {
+     "text": "The new machine is so efficient that it will begin to earn its keep straight away.这台新机器效率如此之高，以至于它将立即开始自食其力。"
+    },
+    {
+     "table": {
+      "headers": [
+       "earn sb.’s keep 赚回生活费；维持生计"
+      ],
+      "rows": [
+       [
+        "Even the farm dog earns his keep by guarding the sheep at night. 即使是那只农场狗也通过在晚上看守羊群来赚回它的伙食费。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "They can't pay me straight away."
+    },
+    {
+     "text": "I knew straight away it was a bad injury."
+    },
+    {
+     "text": "He is a good hand with a gun. 一把好手（在用枪方面）"
+    },
+    {
+     "text": "She was a fabulous hand at embroidery."
+    },
+    {
+     "text": "It was easy to see that he was an old hand at the job."
+    },
+    {
+     "text": "He plunged toward the door and wrenched it open."
+    },
+    {
+     "text": "She lost her balance and plunged 100 feet to her death."
+    },
+    {
+     "text": "The order to abandon ship was given and hundreds of people plunged into the icy water."
+    },
+    {
+     "text": "The frightened child plunges and screams whenever there is a loud noise.每当有巨响时，这个受惊的孩子就会猛冲和尖叫。"
+    },
+    {
+     "text": "We missed the plane through being held up on the motorway."
+    },
+    {
+     "text": "The vase was broken through carelessness."
+    },
+    {
+     "text": "The rescued animal continued to refuse all food through anger and fear for the first 24 hours.这只被救助的动物在最初的24小时内因愤怒和恐惧而持续拒绝所有食物。"
+    },
+    {
+     "text": "She made strenuous efforts to tame her anger.她竭力压制心头怒火。"
+    },
+    {
+     "text": "The bird is too tame now to survive in the wild.这只鸟养得太温驯了，现在很难在野生环境中生存。"
+    },
+    {
+     "text": "The Amazons were believed to have been the first to tame horses. 亚马逊人被认为是最早驯化了马的人。"
+    },
+    {
+     "text": "He tethered his horse to a tree."
+    },
+    {
+     "text": "The horses were tethered nearby the camp during the night.夜间，马匹被拴在营地附近。"
+    },
+    {
+     "text": "quieten a screaming baby"
+    },
+    {
+     "text": "The chatter gradually quietened."
+    },
+    {
+     "text": "The leader tried to quieten the crowd before making the announcement. 领导者在宣布消息前试图让人群安静下来。"
+    },
+    {
+     "text": "Quieten down and get ready for bed!"
+    },
+    {
+     "text": "After the initial panic, the crowd gradually quietened down as the situation was explained.在最初的恐慌之后，随着情况得到解释，人群逐渐平静下来。"
+    },
+    {
+     "table": {
+      "headers": [
+       "quieten down 平静下来；安静下来；（活动等）减弱"
+      ],
+      "rows": [
+       [
+        "The party finally quietened down around 2 a.m. 聚会终于在凌晨2点左右安静了下来。 Quieten down, children! 孩子们，安静点！"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "I couldn't get the disk out of the computer."
+    },
+    {
+     "text": "Could you help me get the wardrobe up the stairs?"
+    },
+    {
+     "text": "We must get food and emergency aid into the area as quickly as possible."
+    },
+    {
+     "text": "The logistical challenge was to get all the equipment to the remote research establishment.物流挑战是将所有设备送到这个偏远的研究机构。"
+    },
+    {
+     "text": "a top class training establishment"
+    },
+    {
+     "text": "The hotel is a comfortable and well-run establishment. 这家旅馆环境舒适且经营良好。"
+    },
+    {
+     "text": "He is highly disdainful of anything to do with the literary establishment. 他对任何涉及文学机构的事都极端的蔑视。"
+    },
+    {
+     "table": {
+      "headers": [
+       "an educational establishment 教育机构",
+       "a financial establishment 金融机构",
+       "a religious establishment 宗教机构/场所"
+      ],
+      "rows": [
+       [
+        "Harvard University is one of the most prestigious educational establishments in the world. 哈佛大学是世界上最著名的教育机构之一。"
+       ],
+       [
+        "Strict regulations are imposed on every financial establishment to prevent money laundering. 每家金融机构都受到严格监管，以防止洗钱。"
+       ],
+       [
+        "The ancient temple serves as a religious establishment for the local community. 这座古庙是当地社区的宗教场所。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "I'm terribly ticklish."
+    },
+    {
+     "text": "My feet are very ticklish. 我的脚很怕痒。"
+    },
+    {
+     "text": "Have you ever thought about why people are ticklish? 你有没有想过人为什么会怕痒？"
+    },
+    {
+     "text": "This massage method is not recommended for anyone who is very ticklish. 这种按摩法不推荐给怕痒的人使用。"
+    },
+    {
+     "text": "The diplomat had to navigate a very ticklish political situation during the negotiations. 外交官在谈判期间必须应对一个非常棘手的政治局面。"
+    },
+    {
+     "text": "The reporter asked a ticklish question about the company's declining profits. 记者提了一个关于公司利润下降的棘手问题。"
+    },
+    {
+     "text": "The manager found himself in a ticklish situation when two of his best employees refused to work together. 当两名最优秀的员工拒绝合作时，经理发现自己陷入了难办的境地。"
+    },
+    {
+     "text": "Negotiating the final terms of the contract proved to be a ticklish business.谈判合同的最终条款被证明是一项棘手的任务。"
+    },
+    {
+     "text": "Okay, let's get down to business."
+    },
+    {
+     "text": "It’s none of your business."
+    },
+    {
+     "text": "Arranging a trip abroad is a time-consuming business."
+    },
+    {
+     "text": "These killings are a dreadful business."
+    },
+    {
+     "text": "That plane crash was an awful business."
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "大象训练的结果",
-   "lines": [
-    "When several elephants are being trained at one time, it is customary for the new arrival to be placed between the stalls of two captives whose training is already well advanced . at one time 1. if sb. does two or more things at one time they do them at the same time, esp. if this is difficult or impressive 同时 at one time 2. at a time in the past but not now 过去，以前 customary adj. according to custom, usual 合乎习俗的，依照习俗的，习惯上的 arrival n. [C] person or thing that arrives 到达的人或物 stall n. an enclosed area in a building for an animal such as a horse or cow 牲畜棚中的一栏 It is then left completely undisturbed with plenty of food and water so that it can absorb the atmosphere of its new home and see that nothing particularly alarming is happening to its companions . leave v. if you leave sth. in a particular condition you do not touch it, move it or act to change it in any way 使或让…处于某状态 absorb v. to take sth. into the mind and learn or understand it 理解，接受，熟悉 alarming adj. making you feel worried or frightened 令人惊恐的 When it is eating normally, its own training begins . eating normally 正常进食 The trainer stands in front of the elephant holding a long stick with a sharp metal point. stand in front of 站在...的前面 Two assistants, mounted on tame elephants, control the captive from either side, while others rub their hands over his skin to the accompaniment of a monotonous and soothing chant. mount v. 1. go up, ascend 登上 mount v. 2. to fix sth. into position on sth., so that you can use it, look at it or study it 将某物固定住（以备使用、展示或研究） mount v. 3. to increase gradually 逐渐增加 mount v. 4. get onto or put sb. onto a horse, etc. for riding（使）骑上马等 accompaniment n. 伴奏；伴随物 to the accompaniment of sth. 1. while a musical instrument is being played 在…的伴奏之下 to the accompaniment of sth. 2. while sth. else is happening or can be heard 在…发生时， 在…声中 chant n. words or phrases that a group of people shout or sing again and again 一群人反复唱或喊叫的词语，口号 This is supposed to induce pleasurable sensations in the elephant, and its effects are reinforced by the use of endearing epithets. Such as 'ho! my son', or 'ho! my father', or 'my mother', according to the age and sex of the captive. be supposed to do sth. 1. used to say that sth. is believed to be true by many people, although it might not be true or you might disagree 据说，据称 be supposed to do sth. 2. 应该；本该 sensation n. 1. a feeling that you get from one of your five senses, esp. the sense of touch 感觉（尤指触觉） sensation n. 2. state of great surprise, excitement, interest, etc. among many people 轰动 reinforce v. to make a feeling, an idea, etc. stronger 加强，强化 endearing adj. making someone love or like you 惹人喜爱的 The elephant is not immediately susceptible to such blandishments, however, and usually lashes fiercely with its trunk in all directions. be susceptible to sth. 1. 易患某病的 be susceptible to sth. 2. 易受…影响的 blandishment n. [usu pl] (fml.) flattering or coaxing words and actions 谄媚或哄骗的言语和行为 lash v. to move or to move sth. quickly and violently from side to side 猛烈地甩动 These movements are controlled by the trainer with the metal-pointed stick, and the trunk eventually becomes so sore that the elephant curls it up and seldom afterwards uses it for offensive purposes. pointed adj. having a sharp end 尖的 for … purposes 出于…的需要",
-    "This word processor allows you to work with two documents at one time.",
-    "You're trying to do too many things at one time.",
-    "I cannot manage all these tasks at one time; I need to prioritize.我不能在同一时间处理所有这些任务；我需要确定优先顺序。",
-    "At one time she wanted to be a nurse, but the thought of working at night put her off.",
-    "It seems he used to work for the electricity board at one time. 他好像曾经在电力局工作过。",
-    "At one time, ecologists believed that species diversity made ecosystems stable. 生态学家曾一度认为，物种多样性使生态系统变得稳定。",
-    "Is it customary to tip hairdressers in this country?",
-    "In some cultures it is customary for the bride to wear white.",
-    "In many cultures, it is customary to remove your shoes before entering a home. 在许多文化中，进屋前脱鞋是习俗。",
-    "In this culture, it is customary for guests to be placed at the head of the table.在这种文化中，习惯上将客人安置在桌子的上首。",
-    "it is customary (for sb.) to do sth. （对某人来说）做某事是合乎习俗的/照例的 In my village, it is customary for a girl to take her mother's name. It is customary for the host to offer guests a drink upon arrival. 照例，主人会在客人到达时给他们端上饮料。",
-    "Late arrivals must wait in the foyer.",
-    "We're expecting a new arrival in the family soon.",
-    "All the cattle had been moved into stalls and we stood to lose little.",
-    "In the market, at the fish stall. 在市场，在鱼畜舍栏。",
-    "There was a stall nearby the landlord's house. 一个地主家的房子附近有一个货摊。",
-    "You can leave the window open.",
-    "Leave your sister alone.",
-    "It’s better to leave some things unsaid.",
-    "He got up slowly leaving the lunch unfinished.",
-    "Please excuse me if I have left any of your questions unanswered.",
-    "The artifacts were left completely undisturbed in the tomb for centuries.这些文物在墓穴中被完全不加打扰地留下了几个世纪。",
-    "It's a lot of information to absorb all at once.",
-    "It took me several days to absorb the fact of her death.",
-    "They spent a week in Paris just absorbing the atmosphere.",
-    "The writer visited the location for a week to absorb the atmosphere of its new home for the novel.这位作家拜访了该地点一周，以便为小说吸收它新家的氛围。",
-    "an alarming increase in violent crime",
-    "The rainforest is disappearing at an alarming rate.",
-    "The doctor assured the family that nothing particularly alarming was happening with the patient's condition.医生向家属保证，病人的情况没有发生什么特别令人担忧的事情。",
-    "The veterinarian said the dog could go home once it was eating normally.兽医说，一旦这只狗正常进食，就可以回家了。",
-    "Everybody takes pleasure in eating. 每个人都在吃中获得愉悦。",
-    "You're too thin. You're not eating properly.你太瘦了。你没有好好吃饭。",
-    "The speaker stands in front of the audience before starting the presentation.演讲者在开始演示之前站在观众的前面。",
-    "He was trying to stand in front of the painting. 他试着挡在画儿前面。",
-    "All he has done is stand in front of the cameras. 他所做的就是站在摄像镜头前面。",
-    "He mounted the platform and addressed the crowd.",
-    "Triple gun-decks mounted sixty-four bronze cannon.",
-    "This modern faith in medicines is proved by the fact that the annual drug bill of the Health Services is mounting to astronomical figures and shows no signs at present of ceasing to rise.",
-    "He quickly mounted his horse and rode away.",
-    "He mounted the boy on the horse.",
-    "The policemen were mounted on black horses.",
-    "The general, mounted on his finest horse, surveyed the troops.将军骑在他最好的马上，检阅着部队。",
-    "The lyrics were spoken, frequently to the accompaniment of a harpsichord. 歌词是在频繁的羽管键琴伴奏下唱出来的。",
-    "The wine makes a good accompaniment to fish dishes. 这种葡萄酒很适合作鱼菜的佐餐酒。",
-    "The result is the perfect accompaniment to a cup of tea. 它的完美搭配是一杯茶。",
-    "They performed to the accompaniment of guitars.",
-    "The girls sang to the accompaniment of a piano.",
-    "She made her speech to the accompaniment of loud laughter.",
-    "Franco left the chamber to the accompaniment of loud applause.",
-    "The team's supporters sang a victory chant.",
-    "Let's learn the chant. 让我们学唱圣歌吧。",
-    "The CHANT continues, hypnotically. 吟咏仍在继续，声音空灵而虔诚。",
-    "The castle is supposed to be haunted.",
-    "Mrs. Carver is supposed to have a lot of money.",
-    "What time are you supposed to be there?",
-    "The meeting was supposed to take place on Tuesday, but we've had to postpone it.",
-    "One sign of a heart attack is a tingling sensation in the left arm.",
-    "The new design of the waiting room is supposed to induce pleasurable sensations and reduce anxiety.候诊室的新设计被认为会引起愉快的感受并减轻焦虑。",
-    "The first tests on the Solent in 1959 caused a sensation.",
-    "The band became a sensation overnight. 一夜之间，这支乐队名声大振。",
-    "This speech caused a remarkable sensation among the party. 这话在它们间引起了极大的轰动。",
-    "cause a sensation 引起轰动；造成轰动效应 The young scientist's discovery of a room-temperature superconductor caused a sensation worldwide. 这位年轻科学家发现室温超导体，在全世界引起了轰动。",
-    "The experience reinforced my sense of loss.",
-    "Success in the talks will reinforce his reputation as an international statesman.",
-    "The lecture's main points were reinforced by relevant case studies and examples.讲座的要点被相关的案例研究和例子所加强。",
-    "Shyness is one of her most endearing qualities.",
-    "The grandmother always used endearing epithets when speaking to her grandchildren.这位祖母在和孙辈说话时总是使用亲昵的称呼。",
-    "Scientists discovered that this particular variety of rabbit (and apparently no other animal) was susceptible to a fatal virus disease, myxomatosis.",
-    "Young people are the most susceptible to advertisements.",
-    "James was extremely susceptible to flattery.",
-    "The veteran investor was not immediately susceptible to the new scheme's promises.这位经验丰富的投资者不会立即受到新方案承诺的影响。",
-    "She resisted his blandishments.",
-    "He resisted the marketing executive's blandishments to sign the contract immediately.他抵制了营销主管要求立即签署合同的甜言蜜语。",
-    "The crocodile's tail was lashing furiously from side to side.",
-    "The alligator lashed fiercely with its tail when cornered by the researchers.当被研究人员逼到角落时，这条鳄鱼用它的尾巴猛烈地抽打。",
-    "a pointed chin",
-    "pointed teeth",
-    "The gothic cathedral is famous for its tall, pointed arches and spires. 这座哥特式大教堂以其高耸的尖拱和尖塔而闻名。",
-    "These gifts count as income for tax purposes.",
-    "For our purposes, we are concerned only with one kind of cost ― the cost of managing and administering the business.",
-    "The general's special forces seldom afterwards used it for offensive purposes once their cover was blown.一旦他们的掩护被揭穿，这位将军的特种部队此后很少用它来攻击。"
+   "parts": [
+    {
+     "text": "When several elephants are being trained at one time, it is customary for the new arrival to be placed between the stalls of two captives whose training is already well advanced . at one time 1. if sb. does two or more things at one time they do them at the same time, esp. if this is difficult or impressive 同时 at one time 2. at a time in the past but not now 过去，以前 customary adj. according to custom, usual 合乎习俗的，依照习俗的，习惯上的 arrival n. [C] person or thing that arrives 到达的人或物 stall n. an enclosed area in a building for an animal such as a horse or cow 牲畜棚中的一栏 It is then left completely undisturbed with plenty of food and water so that it can absorb the atmosphere of its new home and see that nothing particularly alarming is happening to its companions . leave v. if you leave sth. in a particular condition you do not touch it, move it or act to change it in any way 使或让…处于某状态 absorb v. to take sth. into the mind and learn or understand it 理解，接受，熟悉 alarming adj. making you feel worried or frightened 令人惊恐的 When it is eating normally, its own training begins . eating normally 正常进食 The trainer stands in front of the elephant holding a long stick with a sharp metal point. stand in front of 站在...的前面 Two assistants, mounted on tame elephants, control the captive from either side, while others rub their hands over his skin to the accompaniment of a monotonous and soothing chant. mount v. 1. go up, ascend 登上 mount v. 2. to fix sth. into position on sth., so that you can use it, look at it or study it 将某物固定住（以备使用、展示或研究） mount v. 3. to increase gradually 逐渐增加 mount v. 4. get onto or put sb. onto a horse, etc. for riding（使）骑上马等 accompaniment n. 伴奏；伴随物 to the accompaniment of sth. 1. while a musical instrument is being played 在…的伴奏之下 to the accompaniment of sth. 2. while sth. else is happening or can be heard 在…发生时， 在…声中 chant n. words or phrases that a group of people shout or sing again and again 一群人反复唱或喊叫的词语，口号 This is supposed to induce pleasurable sensations in the elephant, and its effects are reinforced by the use of endearing epithets. Such as 'ho! my son', or 'ho! my father', or 'my mother', according to the age and sex of the captive. be supposed to do sth. 1. used to say that sth. is believed to be true by many people, although it might not be true or you might disagree 据说，据称 be supposed to do sth. 2. 应该；本该 sensation n. 1. a feeling that you get from one of your five senses, esp. the sense of touch 感觉（尤指触觉） sensation n. 2. state of great surprise, excitement, interest, etc. among many people 轰动 reinforce v. to make a feeling, an idea, etc. stronger 加强，强化 endearing adj. making someone love or like you 惹人喜爱的 The elephant is not immediately susceptible to such blandishments, however, and usually lashes fiercely with its trunk in all directions. be susceptible to sth. 1. 易患某病的 be susceptible to sth. 2. 易受…影响的 blandishment n. [usu pl] (fml.) flattering or coaxing words and actions 谄媚或哄骗的言语和行为 lash v. to move or to move sth. quickly and violently from side to side 猛烈地甩动 These movements are controlled by the trainer with the metal-pointed stick, and the trunk eventually becomes so sore that the elephant curls it up and seldom afterwards uses it for offensive purposes. pointed adj. having a sharp end 尖的 for … purposes 出于…的需要"
+    },
+    {
+     "text": "This word processor allows you to work with two documents at one time."
+    },
+    {
+     "text": "You're trying to do too many things at one time."
+    },
+    {
+     "text": "I cannot manage all these tasks at one time; I need to prioritize.我不能在同一时间处理所有这些任务；我需要确定优先顺序。"
+    },
+    {
+     "text": "At one time she wanted to be a nurse, but the thought of working at night put her off."
+    },
+    {
+     "text": "It seems he used to work for the electricity board at one time. 他好像曾经在电力局工作过。"
+    },
+    {
+     "text": "At one time, ecologists believed that species diversity made ecosystems stable. 生态学家曾一度认为，物种多样性使生态系统变得稳定。"
+    },
+    {
+     "text": "Is it customary to tip hairdressers in this country?"
+    },
+    {
+     "text": "In some cultures it is customary for the bride to wear white."
+    },
+    {
+     "text": "In many cultures, it is customary to remove your shoes before entering a home. 在许多文化中，进屋前脱鞋是习俗。"
+    },
+    {
+     "text": "In this culture, it is customary for guests to be placed at the head of the table.在这种文化中，习惯上将客人安置在桌子的上首。"
+    },
+    {
+     "table": {
+      "headers": [
+       "it is customary (for sb.) to do sth. （对某人来说）做某事是合乎习俗的/照例的"
+      ],
+      "rows": [
+       [
+        "In my village, it is customary for a girl to take her mother's name. It is customary for the host to offer guests a drink upon arrival. 照例，主人会在客人到达时给他们端上饮料。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Late arrivals must wait in the foyer."
+    },
+    {
+     "text": "We're expecting a new arrival in the family soon."
+    },
+    {
+     "text": "All the cattle had been moved into stalls and we stood to lose little."
+    },
+    {
+     "text": "In the market, at the fish stall. 在市场，在鱼畜舍栏。"
+    },
+    {
+     "text": "There was a stall nearby the landlord's house. 一个地主家的房子附近有一个货摊。"
+    },
+    {
+     "text": "You can leave the window open."
+    },
+    {
+     "text": "Leave your sister alone."
+    },
+    {
+     "text": "It’s better to leave some things unsaid."
+    },
+    {
+     "text": "He got up slowly leaving the lunch unfinished."
+    },
+    {
+     "text": "Please excuse me if I have left any of your questions unanswered."
+    },
+    {
+     "text": "The artifacts were left completely undisturbed in the tomb for centuries.这些文物在墓穴中被完全不加打扰地留下了几个世纪。"
+    },
+    {
+     "text": "It's a lot of information to absorb all at once."
+    },
+    {
+     "text": "It took me several days to absorb the fact of her death."
+    },
+    {
+     "text": "They spent a week in Paris just absorbing the atmosphere."
+    },
+    {
+     "text": "The writer visited the location for a week to absorb the atmosphere of its new home for the novel.这位作家拜访了该地点一周，以便为小说吸收它新家的氛围。"
+    },
+    {
+     "text": "an alarming increase in violent crime"
+    },
+    {
+     "text": "The rainforest is disappearing at an alarming rate."
+    },
+    {
+     "text": "The doctor assured the family that nothing particularly alarming was happening with the patient's condition.医生向家属保证，病人的情况没有发生什么特别令人担忧的事情。"
+    },
+    {
+     "text": "The veterinarian said the dog could go home once it was eating normally.兽医说，一旦这只狗正常进食，就可以回家了。"
+    },
+    {
+     "text": "Everybody takes pleasure in eating. 每个人都在吃中获得愉悦。"
+    },
+    {
+     "text": "You're too thin. You're not eating properly.你太瘦了。你没有好好吃饭。"
+    },
+    {
+     "text": "The speaker stands in front of the audience before starting the presentation.演讲者在开始演示之前站在观众的前面。"
+    },
+    {
+     "text": "He was trying to stand in front of the painting. 他试着挡在画儿前面。"
+    },
+    {
+     "text": "All he has done is stand in front of the cameras. 他所做的就是站在摄像镜头前面。"
+    },
+    {
+     "text": "He mounted the platform and addressed the crowd."
+    },
+    {
+     "text": "Triple gun-decks mounted sixty-four bronze cannon."
+    },
+    {
+     "text": "This modern faith in medicines is proved by the fact that the annual drug bill of the Health Services is mounting to astronomical figures and shows no signs at present of ceasing to rise."
+    },
+    {
+     "text": "He quickly mounted his horse and rode away."
+    },
+    {
+     "text": "He mounted the boy on the horse."
+    },
+    {
+     "text": "The policemen were mounted on black horses."
+    },
+    {
+     "text": "The general, mounted on his finest horse, surveyed the troops.将军骑在他最好的马上，检阅着部队。"
+    },
+    {
+     "text": "The lyrics were spoken, frequently to the accompaniment of a harpsichord. 歌词是在频繁的羽管键琴伴奏下唱出来的。"
+    },
+    {
+     "text": "The wine makes a good accompaniment to fish dishes. 这种葡萄酒很适合作鱼菜的佐餐酒。"
+    },
+    {
+     "text": "The result is the perfect accompaniment to a cup of tea. 它的完美搭配是一杯茶。"
+    },
+    {
+     "text": "They performed to the accompaniment of guitars."
+    },
+    {
+     "text": "The girls sang to the accompaniment of a piano."
+    },
+    {
+     "text": "She made her speech to the accompaniment of loud laughter."
+    },
+    {
+     "text": "Franco left the chamber to the accompaniment of loud applause."
+    },
+    {
+     "text": "The team's supporters sang a victory chant."
+    },
+    {
+     "text": "Let's learn the chant. 让我们学唱圣歌吧。"
+    },
+    {
+     "text": "The CHANT continues, hypnotically. 吟咏仍在继续，声音空灵而虔诚。"
+    },
+    {
+     "text": "The castle is supposed to be haunted."
+    },
+    {
+     "text": "Mrs. Carver is supposed to have a lot of money."
+    },
+    {
+     "text": "What time are you supposed to be there?"
+    },
+    {
+     "text": "The meeting was supposed to take place on Tuesday, but we've had to postpone it."
+    },
+    {
+     "text": "One sign of a heart attack is a tingling sensation in the left arm."
+    },
+    {
+     "text": "The new design of the waiting room is supposed to induce pleasurable sensations and reduce anxiety.候诊室的新设计被认为会引起愉快的感受并减轻焦虑。"
+    },
+    {
+     "text": "The first tests on the Solent in 1959 caused a sensation."
+    },
+    {
+     "text": "The band became a sensation overnight. 一夜之间，这支乐队名声大振。"
+    },
+    {
+     "text": "This speech caused a remarkable sensation among the party. 这话在它们间引起了极大的轰动。"
+    },
+    {
+     "table": {
+      "headers": [
+       "cause a sensation 引起轰动；造成轰动效应"
+      ],
+      "rows": [
+       [
+        "The young scientist's discovery of a room-temperature superconductor caused a sensation worldwide. 这位年轻科学家发现室温超导体，在全世界引起了轰动。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The experience reinforced my sense of loss."
+    },
+    {
+     "text": "Success in the talks will reinforce his reputation as an international statesman."
+    },
+    {
+     "text": "The lecture's main points were reinforced by relevant case studies and examples.讲座的要点被相关的案例研究和例子所加强。"
+    },
+    {
+     "text": "Shyness is one of her most endearing qualities."
+    },
+    {
+     "text": "The grandmother always used endearing epithets when speaking to her grandchildren.这位祖母在和孙辈说话时总是使用亲昵的称呼。"
+    },
+    {
+     "text": "Scientists discovered that this particular variety of rabbit (and apparently no other animal) was susceptible to a fatal virus disease, myxomatosis."
+    },
+    {
+     "text": "Young people are the most susceptible to advertisements."
+    },
+    {
+     "text": "James was extremely susceptible to flattery."
+    },
+    {
+     "text": "The veteran investor was not immediately susceptible to the new scheme's promises.这位经验丰富的投资者不会立即受到新方案承诺的影响。"
+    },
+    {
+     "text": "She resisted his blandishments."
+    },
+    {
+     "text": "He resisted the marketing executive's blandishments to sign the contract immediately.他抵制了营销主管要求立即签署合同的甜言蜜语。"
+    },
+    {
+     "text": "The crocodile's tail was lashing furiously from side to side."
+    },
+    {
+     "text": "The alligator lashed fiercely with its tail when cornered by the researchers.当被研究人员逼到角落时，这条鳄鱼用它的尾巴猛烈地抽打。"
+    },
+    {
+     "text": "a pointed chin"
+    },
+    {
+     "text": "pointed teeth"
+    },
+    {
+     "text": "The gothic cathedral is famous for its tall, pointed arches and spires. 这座哥特式大教堂以其高耸的尖拱和尖塔而闻名。"
+    },
+    {
+     "text": "These gifts count as income for tax purposes."
+    },
+    {
+     "text": "For our purposes, we are concerned only with one kind of cost ― the cost of managing and administering the business."
+    },
+    {
+     "text": "The general's special forces seldom afterwards used it for offensive purposes once their cover was blown.一旦他们的掩护被揭穿，这位将军的特种部队此后很少用它来攻击。"
+    }
    ]
   }
  ]

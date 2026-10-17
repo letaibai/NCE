@@ -2,140 +2,575 @@
  "grammar": [
   {
    "title": "亲身经历",
-   "lines": [
-    "After consulting my railway timetable, I noted with satisfaction that there was an express train to Westhaven . with satisfaction = satisfiedly 满意地 It went direct from my local station and the journey lasted a mere hour and seventeen minutes. last v.持续 adj.最后的；最近的，上一个的 direct (未修饰其它词时) = directly adv.直接地，径直地 When I boarded the train, I could not help noticing that a great many local people got on as well . board a bus / train / ship / plane 登上公共汽车/火车/轮船/飞机(比get on 正式一些) can't help (doing) sth. ... 忍不住(做)某事. ... At the time , this did not strike me as odd . At the time, I didn't think this was odd. 基本写法 strike sb. as 给某人某种印象，某人感到，觉得… I reflected that there must be a great many people besides myself who wished to take advantage of this excellent service . reflect v.心想，考虑 take advantage of sth. 利用某物 Neither was I surprised when the train stopped at Widley, a tiny station a few miles along the line. 部分倒装 只把助动词，be动词（之前没有其他助动词）或情态动词置于主语之前。 Even a mighty express train can be held up by signals. mighty adj. very large, powerful, or impressive hold sb. / sth. ⇔ up to delay sb. or sth. 耽搁、使延误 But when the train dawdled at station after station, I began to wonder. dawdle v. to take a long time to do sth. or go somewhere 花很长时间做某事、或者去某地(缓慢地、磨蹭地做某事) sth. after sth. 一个接一个(前后零冠词) It suddenly dawned on me that this express was not roaring down the line at ninety miles an hour, but barely chugging along at thirty . sth. dawn on sb. 某人想到了某事(无灵主语“某事被某人给想到了”)、使开始明白 人做主语 想到、想起做某事 roar down 呼啸着沿...冲下来 （呼啸而下） chug v. if a car, train etc. chugs somewhere, it moves there slowly, with the engine making a repeated low sound 发出轧轧声；发出嘎嚓声；发出轧轧声前进 One hour and seventeen minutes passed and we had not even covered half the distance. cover v. travel (a certain distance) I asked a passenger if this was the Westhaven Express , but he had not even heard of it. hear of / about 听说 I determined to lodge a complaint as soon as we arrived . determine / resolve to do sth. (fml.) 决定/决心做某事; lodge / bring / file a complaint 提出申诉、投诉 Two hours later, I was talking angrily to the station master at Westhaven. stationmaster / station master an official in charge of a railroad or bus station 站长 When he denied the train's existence, I borrowed his copy of the timetable. deny + sth. / doing / that ... 否认 There was a note of triumph in my voice when I told him that it was there in black and white . note n. a way of speaking or writing that shows what someone's feelings are 语言文字中带有某种感情 in black and white in writing or in print 白纸黑字（书写的或印刷的） Glancing at it briefly, he told me to look again. glance at ... 扫视、浏览、匆匆一瞥 A tiny asterisk conducted me to a footnote at the bottom of the page. conduct sb. to ... 引导某人去… footnote n. a note at the bottom of the page in a book, which gives more information about something 脚注(额外的注释内容单个使用“*”，多个使用¹ ² ³) It said : 'This service has been suspended .' 对应文章开头 say v.上面写着⋯ suspend v.暂停，中止；使暂停使用（或生效）；使暂时停职",
-    "She looked at her completed project with satisfaction.她满意地看着自己完成的项目。",
-    "He nodded satisfiedly after hearing the good news.听到好消息后，他满意地点了点头。",
-    "with ease = easily 容易地、轻松地 She completed the task with ease. = She completed the task easily.她轻松地完成了任务。",
-    "with delight = delightedly 高兴地，欣喜地 He accepted the invitation with delight. = He accepted the invitation delightedly.他高兴地接受了邀请。",
-    "with pride = proudly 傲慢地，自负地；得意洋洋地 She looked at her son with pride. = She looked at her son proudly.她自豪地看着她的儿子。",
-    "with a smile = smilingly 微笑着，含笑地 He greeted his old friend with a smile. = He greeted his old friend smilingly.他微笑着迎接他的老朋友。",
-    "with attention = attentively 注意地；聚精会神地；周到地 The students listened to the lecture with attention. = The students listened to the lecture attentively.学生们专心地听讲座。",
-    "with confidence = confidently 自信地；安心地 She answered the question with confidence. = She answered the question confidently.她自信地回答了这个问题。",
-    "with reluctance = reluctantly 不情愿地 He agreed to the proposal with reluctance. = He agreed to the proposal reluctantly.他不情愿地同意了这个提议。",
-    "The marriage had lasted for less than two years. 这桩婚姻持续了不到两年。",
-    "The games lasted only half the normal time. 这场比赛只持续了正常比赛时间的一半。",
-    "You can fly direct/directly from Seattle to Europe. 你可以从西雅图直飞欧洲。",
-    "On arriving in New York, Dylan went direct/directly to Greenwich Village. 迪伦一到纽约就直接去了格林威治村。",
-    "More farms are selling direct/directly to consumers. 更多的农场在直接向消费者销售产品。",
-    "a mere... 仅仅… mere + 单数名词 = only a/an ... and the journey lasted a mere (=only an) hour and 17 minutes. He's a mere (=only a) child. He's not a mere (only a) boxer: he's world champion.",
-    "a mere + 复数名词 = only 在其他情况下 He has often described to me how he picked up a masterpiece for a mere (only) £50 . Glancing at his map, he informed us that the next village was a mere (only) twenty miles away .",
-    "The couple boarded the train for New York.",
-    "Flight No.714 for Paris is now boarding at Gate 8.",
-    "get on a bus / train / ship / plane 登上大型交通工具 Suddenly, a middle-age lady got on the train and sat opposite Sally .",
-    "get off a bus / train / ship / plane 从大型交通工具下来 I had no sooner got off the ship than I was assailed by a man who wanted to sell me a diamond ring . An ancient bus stopped by a dry river bed and a party of famous actors and actresses got off .",
-    "get into a car / taxi 进入小型空间(小车、箱子里等) The woman kept as near as she could to the children and even tried to get into the case herself, but it was too small .",
-    "get out of a car / taxi 从小型空间里出来 She got out of the car and walked to the house.她下了车，走向房子。 He paid the fare and got out of the taxi.他付了车费，下了出租车。",
-    "embark on a ship / plane 登船、飞机 They embarked on the ship for their Caribbean cruise.他们登上了前往加勒比海的游轮。 The passengers embarked on the plane for their flight to London.乘客们登上了飞往伦敦的飞机。",
-    "disembark from a ship / plane 下船、下飞机 After a long journey, they disembarked from the ship.长途旅行后，他们下了船。 The passengers disembarked from the plane and headed to customs.乘客们下了飞机，前往海关。",
-    "I couldn't help thinking about the past.",
-    "'Stop biting your nails.' 'I can't help it.'",
-    "can't help but do ... 不得不干；不禁做某事 Her evidence was so convincing that I could not help but agree with her.",
-    "sth. can't be helped 某事无可奈何(不能够被避免的) I really don't want to go this weekend,but it can't be helped.",
-    "not if I can help it 能不做就不做(尽量避免) 'Are you going to watch the school play?' 'Not if I can help it.'",
-    "help oneself to sth. 请自便(未经主人允许自己拿) One of the thieves was struck by a heavy statue, but he was too busy helping himself to diamonds to notice any pain .",
-    "The idea struck me as stupid.我觉得这个想法很愚蠢。",
-    "The request struck me as comic. 我觉得这个要求很滑稽。",
-    "He struck them as an honest man. 他给他们的印象是一个诚实的人。",
-    "We should all give ourselves time to reflect.我们都应该给自己时间来深思。",
-    "Things were very much changed since before the war, he reflected.从战争开始前情况就已经发生了很大的变化，他想到。",
-    "The affair hardly reflected well on the president.这个事件很难让人对那位总统有好印象。",
-    "reflect on ... I need time to reflect (on what to do).",
-    "reflect that ... She reflected that his argument was probably true.",
-    "I took advantage of the good weather to paint the shed.",
-    "Many schools don't take full advantago of the internet.",
-    "take advantage of sb. 利用某人，占某人的便宜 Don't lend them the car — they're taking advantage of you!",
-    "Not only had the poor man been arrested, but he had been sent to prison as well .",
-    "Nor is the city without its moments of beauty .",
-    "a mighty warrior",
-    "a mighty empire",
-    "With a mighty kick, he broke down the door.",
-    "Our flight was held up by fog.",
-    "My application was held up by the postal strike .",
-    "Road-works on the motorway are holding up traffic.",
-    "A policeman approached Jimmy and told him he ought to have gone along a side street as Jumbo was holding up the traffic .",
-    "Stop dawdling and hurry up: we're late.",
-    "Eleanor will be back any moment, if she doesn't dawdle.",
-    "day after day 日复一日",
-    "week after week 一周又一周",
-    "year after year 年复一年",
-    "time after time 一再的、反复的",
-    "He fired shot after shot.",
-    "Shelley sent him letter after letter to explain the delay.",
-    "They sent regiment after regiment to attack us.",
-    "In factory after factory we were shown machines built by the workers themselves.",
-    "It dawned on me that Joanna had been right all along.",
-    "It gradually dawned on me that I still had talent and ought to run again. 我渐渐明白我还有能力，应该再参加一次。",
-    "The truth dawn on him ultimately.最后他了解了真相。",
-    "We can now see the light of dawn on the horizon.人们看到了曙光。",
-    "Something will dawn on you as time goes on.随着时间的推移，有些事理你会慢慢渐悟的。",
-    "sth. occur to sb. 某人突然想到某事 It suddenly occurred to one of the workers to open up the box .",
-    "sth. strike sb. 某事使某人突然想到 It suddenly struck me how we could improve the situation.",
-    "sth. cross one's mind 突然想起某事 It didn't cross her mind that she might be doing something illegal.",
-    "sb. realize that ... 某人意识到(想起)… She realized that she had forgotten her keys.她意识到自己忘记带钥匙了。",
-    "sb. become aware (of the fact) that ... 某人意识到(想起)… He became aware of the fact that he was being followed.他意识到自己被跟踪了。",
-    "sb. wake up to the fact that ... 某人意识到(想起)… They finally woke up to the fact that their plan was not working.他们终于意识到他们的计划行不通。",
-    "The silence was suddenly broken when a large car, with its headlights on and its horn blaring, roared down the arcade .",
-    "The train chugs down the track. 火车沿着轨道嘎嚓嘎嚓地缓慢行驶着。",
-    "Small motorboats chug out of the harbor.小摩托艇轧轧地驶出海港。",
-    "In the distance I could hear the chug of farm machinery.离老远，我都能听到农机具的突突声。",
-    "chug along / down / up etc. 呼啸沿着/向下/向上等 An old car chugged down the road. 一辆旧车嘎吱嘎吱地行驶在路上。",
-    "By sunset we had covered thirty miles.",
-    "The bird covered the distance in three minutes .",
-    "Some children can cover the whole length of the pool without coming up for breath even once .",
-    "A week before, he had completed a successful overland flight during which he covered twenty-six miles .",
-    "I was shocked to hear of his poor death.听到他惨遭不幸的噩耗，我十分震惊。",
-    "Did you hear about that terrible forest fire? 你听说那场可怕的森林大火了吗？",
-    "know of / about 得知道 Do you know of any good restaurants nearby?你知道附近有好餐馆吗？ She knows about the latest developments in the project.她了解项目的最新进展。",
-    "learn of / about 了解到 I just learned of the meeting this morning.我今天早上才得知会议的消息。 They learned about the culture during their travels.他们在旅行中了解了这种文化。",
-    "After the divorce she determined / resolved never to marry again.",
-    "She decided to lodge a complaint against the noisy neighbors.她决定对吵闹的邻居提出投诉。",
-    "He plans to bring a complaint to the manager about the poor service.他计划向经理投诉糟糕的服务。",
-    "They filed a complaint with the customer service department.他们向客户服务部门提出了投诉。",
-    "get / receive a complaint 收到投诉 The store manager got a complaint about the long waiting time.店经理收到关于等待时间过长的投诉。 The company received a complaint regarding their customer service.公司收到了一起关于客户服务的投诉。",
-    "deal with / handle a complaint 处理投诉 The customer service team is trained to deal with complaints efficiently.客户服务团队经过培训，能够高效处理投诉。 She knows how to handle a complaint professionally.她知道如何专业地处理投诉。",
-    "investigate a complaint 调查投诉 The company will investigate the complaint thoroughly.公司将彻底调查这起投诉。",
-    "resolve a complaint 解决一个投诉 The manager worked hard to resolve the complaint quickly.经理努力迅速解决这起投诉。",
-    "reject a complaint 驳回一个投诉 After reviewing the evidence, they decided to reject the complaint.在审查证据后，他们决定驳回这起投诉。",
-    "The stationmaster ensured everything was running smoothly at the station. 站长确保车站的一切运转顺利。",
-    "The station master was responsible for the safety of all passengers.站长负责所有乘客的安全。",
-    "He denied the charge. / knowing about it. / that he had stolen the sheep.",
-    "He admitted / acknowledged the charge. / knowing about it. / that he had stolen the sheep.",
-    "He denied the accusation. 他否认了指控（deny + sth.）",
-    "She denied stealing the money. 她否认偷了钱（deny + doing）",
-    "They denied that they had broken the rules .他们否认违反了规则（deny + that ...）",
-    "admit + sth. / doing / that ... 承认... He admitted his mistake.他承认了自己的错误(admit + sth.) She admitted taking the book.她承认拿了那本书(admit + doing) They admitted that they were wrong .他们承认自己错了(admit + that ...)",
-    "acknowledge + sth. / doing / that ... 承认... He acknowledged the problem.他承认了问题的存在(acknowledge + sth.) She acknowledged making a mistake.她承认犯了错误(acknowledge + doing) They acknowledged that the situation was serious .他们承认情况很严重(acknowledge + that ...)",
-    "deny the existence of sth. / sth.'s existence 否认某个事情的存在 Atheists deny the existence of God. Officials have repeatedly denied the existence of a secret report.",
-    "There is an unmistakable note of nostalgia in his voice when he looks back on the early years of the family business. 在他回忆早年的家族企业时，他的声音里带有一种确定无疑的怀旧语气。",
-    "She has a deep voice and doesn't even try for the high notes. 她有一副低沉的嗓音，对高音她甚至试都不试。",
-    "The year ended on a sombre note. 那一年在沉闷的气氛中结束了。",
-    "Do I detect a note of criticism? 这好像带有批评的口吻吧？",
-    "The meeting ended on an upbeat note.会议在乐观的气氛中结束。",
-    "there is / was a note of ... in ... 带有一丝...在...里 There was a note of irony in his voice. 他的声音里有一丝挖苦的味道。 There was a note of doubt in her voice. There was a note of self-satisfaction in his speech. There was a note of sadness in her letter.",
-    "I want the contract in black and white.",
-    "a black-and-white photograph / television / printer 黑白的",
-    "a color photograph / television / printer 彩色的",
-    "beat sb. black and blue 把某人打得青一块紫一块(鼻青脸肿) He was beaten black and blue by the gang members.他被帮派成员狠狠地打得青一块紫一块。",
-    "be in the black 有盈余 We've managed to stay in the black for over a year now.",
-    "be in the red 有赤字 This is the airline's fourth straight year in the red.",
-    "Glancing at it briefly, the dealer told him that it was worth £50 .",
-    "Glancing at her scornfully, he told her that the dress was sold .",
-    "Glancing at his map, he informed us that the next village was a mere twenty miles away.",
-    "take a glance (at ...) 短暂地看一眼 She took a glance at the clock before entering the meeting room.她在进入会议室之前瞥了一眼钟表。 So I drove back to the town and began to retrace the route, taking frequent glances at the map. NCE3-57",
-    "have a glance (at ...) He had a quick glance at the newspaper headlines.他迅速地看了一眼报纸的头条新闻。",
-    "shoot a glance (at ...) 突然而急速地看一眼 She shot a quick glance at her watch, realizing she was running late.她急忙看了一眼手表，意识到自己迟到了。",
-    "throw a glance (at ...) He threw a glance at his colleague who was making noise during the presentation.在演示过程中，他朝那个正在发出噪音的同事瞥了一眼。",
-    "cast a glance (at ...) 短暂地看一眼 She cast a quick glance at the mirror before leaving the house.她在离开房子之前匆匆瞥了一眼镜子。 The couple at the next table cast quick glances in our direction.",
-    "I asked the attendant to conduct him to the door.",
-    "A footnote is made at the bottom of the page.注脚列在书页下端。",
-    "But this is just going to be an interesting footnote.但是这只会是一个有趣的注脚。",
-    "The sign says 'Keep Out'.",
-    "What did the letter, say?",
-    "The first thing I saw when I entered the art gallery was a notice which said: 'Do not touch the exhibits. Some of them are dangerous!'",
-    "The ferry service has been suspended for the day because of bad weather.",
-    "The policeman was suspended while the complaint was investigated.",
-    "Dave was suspended from school for a week."
+   "parts": [
+    {
+     "text": "After consulting my railway timetable, I noted with satisfaction that there was an express train to Westhaven . with satisfaction = satisfiedly 满意地 It went direct from my local station and the journey lasted a mere hour and seventeen minutes. last v.持续 adj.最后的；最近的，上一个的 direct (未修饰其它词时) = directly adv.直接地，径直地 When I boarded the train, I could not help noticing that a great many local people got on as well . board a bus / train / ship / plane 登上公共汽车/火车/轮船/飞机(比get on 正式一些) can't help (doing) sth. ... 忍不住(做)某事. ... At the time , this did not strike me as odd . At the time, I didn't think this was odd. 基本写法 strike sb. as 给某人某种印象，某人感到，觉得… I reflected that there must be a great many people besides myself who wished to take advantage of this excellent service . reflect v.心想，考虑 take advantage of sth. 利用某物 Neither was I surprised when the train stopped at Widley, a tiny station a few miles along the line. 部分倒装 只把助动词，be动词（之前没有其他助动词）或情态动词置于主语之前。 Even a mighty express train can be held up by signals. mighty adj. very large, powerful, or impressive hold sb. / sth. ⇔ up to delay sb. or sth. 耽搁、使延误 But when the train dawdled at station after station, I began to wonder. dawdle v. to take a long time to do sth. or go somewhere 花很长时间做某事、或者去某地(缓慢地、磨蹭地做某事) sth. after sth. 一个接一个(前后零冠词) It suddenly dawned on me that this express was not roaring down the line at ninety miles an hour, but barely chugging along at thirty . sth. dawn on sb. 某人想到了某事(无灵主语“某事被某人给想到了”)、使开始明白 人做主语 想到、想起做某事 roar down 呼啸着沿...冲下来 （呼啸而下） chug v. if a car, train etc. chugs somewhere, it moves there slowly, with the engine making a repeated low sound 发出轧轧声；发出嘎嚓声；发出轧轧声前进 One hour and seventeen minutes passed and we had not even covered half the distance. cover v. travel (a certain distance) I asked a passenger if this was the Westhaven Express , but he had not even heard of it. hear of / about 听说 I determined to lodge a complaint as soon as we arrived . determine / resolve to do sth. (fml.) 决定/决心做某事; lodge / bring / file a complaint 提出申诉、投诉 Two hours later, I was talking angrily to the station master at Westhaven. stationmaster / station master an official in charge of a railroad or bus station 站长 When he denied the train's existence, I borrowed his copy of the timetable. deny + sth. / doing / that ... 否认 There was a note of triumph in my voice when I told him that it was there in black and white . note n. a way of speaking or writing that shows what someone's feelings are 语言文字中带有某种感情 in black and white in writing or in print 白纸黑字（书写的或印刷的） Glancing at it briefly, he told me to look again. glance at ... 扫视、浏览、匆匆一瞥 A tiny asterisk conducted me to a footnote at the bottom of the page. conduct sb. to ... 引导某人去… footnote n. a note at the bottom of the page in a book, which gives more information about something 脚注(额外的注释内容单个使用“*”，多个使用¹ ² ³) It said : 'This service has been suspended .' 对应文章开头 say v.上面写着⋯ suspend v.暂停，中止；使暂停使用（或生效）；使暂时停职"
+    },
+    {
+     "text": "She looked at her completed project with satisfaction.她满意地看着自己完成的项目。"
+    },
+    {
+     "text": "He nodded satisfiedly after hearing the good news.听到好消息后，他满意地点了点头。"
+    },
+    {
+     "table": {
+      "headers": [
+       "with ease = easily 容易地、轻松地",
+       "with delight = delightedly 高兴地，欣喜地",
+       "with pride = proudly 傲慢地，自负地；得意洋洋地",
+       "with a smile = smilingly 微笑着，含笑地",
+       "with attention = attentively 注意地；聚精会神地；周到地",
+       "with confidence = confidently 自信地；安心地",
+       "with reluctance = reluctantly 不情愿地"
+      ],
+      "rows": [
+       [
+        "She completed the task with ease. = She completed the task easily.她轻松地完成了任务。"
+       ],
+       [
+        "He accepted the invitation with delight. = He accepted the invitation delightedly.他高兴地接受了邀请。"
+       ],
+       [
+        "She looked at her son with pride. = She looked at her son proudly.她自豪地看着她的儿子。"
+       ],
+       [
+        "He greeted his old friend with a smile. = He greeted his old friend smilingly.他微笑着迎接他的老朋友。"
+       ],
+       [
+        "The students listened to the lecture with attention. = The students listened to the lecture attentively.学生们专心地听讲座。"
+       ],
+       [
+        "She answered the question with confidence. = She answered the question confidently.她自信地回答了这个问题。"
+       ],
+       [
+        "He agreed to the proposal with reluctance. = He agreed to the proposal reluctantly.他不情愿地同意了这个提议。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The marriage had lasted for less than two years. 这桩婚姻持续了不到两年。"
+    },
+    {
+     "text": "The games lasted only half the normal time. 这场比赛只持续了正常比赛时间的一半。"
+    },
+    {
+     "text": "You can fly direct/directly from Seattle to Europe. 你可以从西雅图直飞欧洲。"
+    },
+    {
+     "text": "On arriving in New York, Dylan went direct/directly to Greenwich Village. 迪伦一到纽约就直接去了格林威治村。"
+    },
+    {
+     "text": "More farms are selling direct/directly to consumers. 更多的农场在直接向消费者销售产品。"
+    },
+    {
+     "table": {
+      "headers": [
+       "a mere... 仅仅…"
+      ],
+      "rows": [
+       [
+        "mere + 单数名词 = only a/an",
+        "... and the journey lasted a mere (=only an) hour and 17 minutes. He's a mere (=only a) child. He's not a mere (only a) boxer: he's world champion."
+       ],
+       [
+        "a mere + 复数名词 = only 在其他情况下",
+        "He has often described to me how he picked up a masterpiece for a mere (only) £50 . Glancing at his map, he informed us that the next village was a mere (only) twenty miles away ."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The couple boarded the train for New York."
+    },
+    {
+     "text": "Flight No.714 for Paris is now boarding at Gate 8."
+    },
+    {
+     "table": {
+      "headers": [
+       "get on a bus / train / ship / plane 登上大型交通工具",
+       "get off a bus / train / ship / plane 从大型交通工具下来",
+       "get into a car / taxi 进入小型空间(小车、箱子里等)",
+       "get out of a car / taxi 从小型空间里出来",
+       "embark on a ship / plane 登船、飞机",
+       "disembark from a ship / plane 下船、下飞机"
+      ],
+      "rows": [
+       [
+        "Suddenly, a middle-age lady got on the train and sat opposite Sally ."
+       ],
+       [
+        "I had no sooner got off the ship than I was assailed by a man who wanted to sell me a diamond ring . An ancient bus stopped by a dry river bed and a party of famous actors and actresses got off ."
+       ],
+       [
+        "The woman kept as near as she could to the children and even tried to get into the case herself, but it was too small ."
+       ],
+       [
+        "She got out of the car and walked to the house.她下了车，走向房子。 He paid the fare and got out of the taxi.他付了车费，下了出租车。"
+       ],
+       [
+        "They embarked on the ship for their Caribbean cruise.他们登上了前往加勒比海的游轮。 The passengers embarked on the plane for their flight to London.乘客们登上了飞往伦敦的飞机。"
+       ],
+       [
+        "After a long journey, they disembarked from the ship.长途旅行后，他们下了船。 The passengers disembarked from the plane and headed to customs.乘客们下了飞机，前往海关。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "I couldn't help thinking about the past."
+    },
+    {
+     "text": "'Stop biting your nails.' 'I can't help it.'"
+    },
+    {
+     "table": {
+      "headers": [
+       "can't help but do ... 不得不干；不禁做某事",
+       "sth. can't be helped 某事无可奈何(不能够被避免的)",
+       "not if I can help it 能不做就不做(尽量避免)",
+       "help oneself to sth. 请自便(未经主人允许自己拿)"
+      ],
+      "rows": [
+       [
+        "Her evidence was so convincing that I could not help but agree with her."
+       ],
+       [
+        "I really don't want to go this weekend,but it can't be helped."
+       ],
+       [
+        "'Are you going to watch the school play?' 'Not if I can help it.'"
+       ],
+       [
+        "One of the thieves was struck by a heavy statue, but he was too busy helping himself to diamonds to notice any pain ."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The idea struck me as stupid.我觉得这个想法很愚蠢。"
+    },
+    {
+     "text": "The request struck me as comic. 我觉得这个要求很滑稽。"
+    },
+    {
+     "text": "He struck them as an honest man. 他给他们的印象是一个诚实的人。"
+    },
+    {
+     "text": "We should all give ourselves time to reflect.我们都应该给自己时间来深思。"
+    },
+    {
+     "text": "Things were very much changed since before the war, he reflected.从战争开始前情况就已经发生了很大的变化，他想到。"
+    },
+    {
+     "text": "The affair hardly reflected well on the president.这个事件很难让人对那位总统有好印象。"
+    },
+    {
+     "table": {
+      "headers": [
+       "reflect on ...",
+       "reflect that ..."
+      ],
+      "rows": [
+       [
+        "I need time to reflect (on what to do)."
+       ],
+       [
+        "She reflected that his argument was probably true."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "I took advantage of the good weather to paint the shed."
+    },
+    {
+     "text": "Many schools don't take full advantago of the internet."
+    },
+    {
+     "table": {
+      "headers": [
+       "take advantage of sb. 利用某人，占某人的便宜"
+      ],
+      "rows": [
+       [
+        "Don't lend them the car — they're taking advantage of you!"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Not only had the poor man been arrested, but he had been sent to prison as well ."
+    },
+    {
+     "text": "Nor is the city without its moments of beauty ."
+    },
+    {
+     "text": "a mighty warrior"
+    },
+    {
+     "text": "a mighty empire"
+    },
+    {
+     "text": "With a mighty kick, he broke down the door."
+    },
+    {
+     "text": "Our flight was held up by fog."
+    },
+    {
+     "text": "My application was held up by the postal strike ."
+    },
+    {
+     "text": "Road-works on the motorway are holding up traffic."
+    },
+    {
+     "text": "A policeman approached Jimmy and told him he ought to have gone along a side street as Jumbo was holding up the traffic ."
+    },
+    {
+     "text": "Stop dawdling and hurry up: we're late."
+    },
+    {
+     "text": "Eleanor will be back any moment, if she doesn't dawdle."
+    },
+    {
+     "text": "day after day 日复一日"
+    },
+    {
+     "text": "week after week 一周又一周"
+    },
+    {
+     "text": "year after year 年复一年"
+    },
+    {
+     "text": "time after time 一再的、反复的"
+    },
+    {
+     "text": "He fired shot after shot."
+    },
+    {
+     "text": "Shelley sent him letter after letter to explain the delay."
+    },
+    {
+     "text": "They sent regiment after regiment to attack us."
+    },
+    {
+     "text": "In factory after factory we were shown machines built by the workers themselves."
+    },
+    {
+     "text": "It dawned on me that Joanna had been right all along."
+    },
+    {
+     "text": "It gradually dawned on me that I still had talent and ought to run again. 我渐渐明白我还有能力，应该再参加一次。"
+    },
+    {
+     "text": "The truth dawn on him ultimately.最后他了解了真相。"
+    },
+    {
+     "text": "We can now see the light of dawn on the horizon.人们看到了曙光。"
+    },
+    {
+     "text": "Something will dawn on you as time goes on.随着时间的推移，有些事理你会慢慢渐悟的。"
+    },
+    {
+     "table": {
+      "headers": [
+       "sth. occur to sb. 某人突然想到某事",
+       "sth. strike sb. 某事使某人突然想到",
+       "sth. cross one's mind 突然想起某事"
+      ],
+      "rows": [
+       [
+        "It suddenly occurred to one of the workers to open up the box ."
+       ],
+       [
+        "It suddenly struck me how we could improve the situation."
+       ],
+       [
+        "It didn't cross her mind that she might be doing something illegal."
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "sb. realize that ... 某人意识到(想起)…",
+       "sb. become aware (of the fact) that ... 某人意识到(想起)…",
+       "sb. wake up to the fact that ... 某人意识到(想起)…"
+      ],
+      "rows": [
+       [
+        "She realized that she had forgotten her keys.她意识到自己忘记带钥匙了。"
+       ],
+       [
+        "He became aware of the fact that he was being followed.他意识到自己被跟踪了。"
+       ],
+       [
+        "They finally woke up to the fact that their plan was not working.他们终于意识到他们的计划行不通。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The silence was suddenly broken when a large car, with its headlights on and its horn blaring, roared down the arcade ."
+    },
+    {
+     "text": "The train chugs down the track. 火车沿着轨道嘎嚓嘎嚓地缓慢行驶着。"
+    },
+    {
+     "text": "Small motorboats chug out of the harbor.小摩托艇轧轧地驶出海港。"
+    },
+    {
+     "text": "In the distance I could hear the chug of farm machinery.离老远，我都能听到农机具的突突声。"
+    },
+    {
+     "table": {
+      "headers": [
+       "chug along / down / up etc. 呼啸沿着/向下/向上等"
+      ],
+      "rows": [
+       [
+        "An old car chugged down the road. 一辆旧车嘎吱嘎吱地行驶在路上。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "By sunset we had covered thirty miles."
+    },
+    {
+     "text": "The bird covered the distance in three minutes ."
+    },
+    {
+     "text": "Some children can cover the whole length of the pool without coming up for breath even once ."
+    },
+    {
+     "text": "A week before, he had completed a successful overland flight during which he covered twenty-six miles ."
+    },
+    {
+     "text": "I was shocked to hear of his poor death.听到他惨遭不幸的噩耗，我十分震惊。"
+    },
+    {
+     "text": "Did you hear about that terrible forest fire? 你听说那场可怕的森林大火了吗？"
+    },
+    {
+     "table": {
+      "headers": [
+       "know of / about 得知道",
+       "learn of / about 了解到"
+      ],
+      "rows": [
+       [
+        "Do you know of any good restaurants nearby?你知道附近有好餐馆吗？ She knows about the latest developments in the project.她了解项目的最新进展。"
+       ],
+       [
+        "I just learned of the meeting this morning.我今天早上才得知会议的消息。 They learned about the culture during their travels.他们在旅行中了解了这种文化。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "After the divorce she determined / resolved never to marry again."
+    },
+    {
+     "text": "She decided to lodge a complaint against the noisy neighbors.她决定对吵闹的邻居提出投诉。"
+    },
+    {
+     "text": "He plans to bring a complaint to the manager about the poor service.他计划向经理投诉糟糕的服务。"
+    },
+    {
+     "text": "They filed a complaint with the customer service department.他们向客户服务部门提出了投诉。"
+    },
+    {
+     "table": {
+      "headers": [
+       "get / receive a complaint 收到投诉",
+       "deal with / handle a complaint 处理投诉",
+       "investigate a complaint 调查投诉",
+       "resolve a complaint 解决一个投诉",
+       "reject a complaint 驳回一个投诉"
+      ],
+      "rows": [
+       [
+        "The store manager got a complaint about the long waiting time.店经理收到关于等待时间过长的投诉。 The company received a complaint regarding their customer service.公司收到了一起关于客户服务的投诉。"
+       ],
+       [
+        "The customer service team is trained to deal with complaints efficiently.客户服务团队经过培训，能够高效处理投诉。 She knows how to handle a complaint professionally.她知道如何专业地处理投诉。"
+       ],
+       [
+        "The company will investigate the complaint thoroughly.公司将彻底调查这起投诉。"
+       ],
+       [
+        "The manager worked hard to resolve the complaint quickly.经理努力迅速解决这起投诉。"
+       ],
+       [
+        "After reviewing the evidence, they decided to reject the complaint.在审查证据后，他们决定驳回这起投诉。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The stationmaster ensured everything was running smoothly at the station. 站长确保车站的一切运转顺利。"
+    },
+    {
+     "text": "The station master was responsible for the safety of all passengers.站长负责所有乘客的安全。"
+    },
+    {
+     "text": "He denied the charge. / knowing about it. / that he had stolen the sheep."
+    },
+    {
+     "text": "He admitted / acknowledged the charge. / knowing about it. / that he had stolen the sheep."
+    },
+    {
+     "text": "He denied the accusation. 他否认了指控（deny + sth.）"
+    },
+    {
+     "text": "She denied stealing the money. 她否认偷了钱（deny + doing）"
+    },
+    {
+     "text": "They denied that they had broken the rules .他们否认违反了规则（deny + that ...）"
+    },
+    {
+     "table": {
+      "headers": [
+       "admit + sth. / doing / that ... 承认...",
+       "acknowledge + sth. / doing / that ... 承认...",
+       "deny the existence of sth. / sth.'s existence 否认某个事情的存在"
+      ],
+      "rows": [
+       [
+        "He admitted his mistake.他承认了自己的错误(admit + sth.) She admitted taking the book.她承认拿了那本书(admit + doing) They admitted that they were wrong .他们承认自己错了(admit + that ...)"
+       ],
+       [
+        "He acknowledged the problem.他承认了问题的存在(acknowledge + sth.) She acknowledged making a mistake.她承认犯了错误(acknowledge + doing) They acknowledged that the situation was serious .他们承认情况很严重(acknowledge + that ...)"
+       ],
+       [
+        "Atheists deny the existence of God. Officials have repeatedly denied the existence of a secret report."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "There is an unmistakable note of nostalgia in his voice when he looks back on the early years of the family business. 在他回忆早年的家族企业时，他的声音里带有一种确定无疑的怀旧语气。"
+    },
+    {
+     "text": "She has a deep voice and doesn't even try for the high notes. 她有一副低沉的嗓音，对高音她甚至试都不试。"
+    },
+    {
+     "text": "The year ended on a sombre note. 那一年在沉闷的气氛中结束了。"
+    },
+    {
+     "text": "Do I detect a note of criticism? 这好像带有批评的口吻吧？"
+    },
+    {
+     "text": "The meeting ended on an upbeat note.会议在乐观的气氛中结束。"
+    },
+    {
+     "table": {
+      "headers": [
+       "there is / was a note of ... in ... 带有一丝...在...里"
+      ],
+      "rows": [
+       [
+        "There was a note of irony in his voice. 他的声音里有一丝挖苦的味道。 There was a note of doubt in her voice. There was a note of self-satisfaction in his speech. There was a note of sadness in her letter."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "I want the contract in black and white."
+    },
+    {
+     "text": "a black-and-white photograph / television / printer 黑白的"
+    },
+    {
+     "text": "a color photograph / television / printer 彩色的"
+    },
+    {
+     "table": {
+      "headers": [
+       "beat sb. black and blue 把某人打得青一块紫一块(鼻青脸肿)",
+       "be in the black 有盈余",
+       "be in the red 有赤字"
+      ],
+      "rows": [
+       [
+        "He was beaten black and blue by the gang members.他被帮派成员狠狠地打得青一块紫一块。"
+       ],
+       [
+        "We've managed to stay in the black for over a year now."
+       ],
+       [
+        "This is the airline's fourth straight year in the red."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Glancing at it briefly, the dealer told him that it was worth £50 ."
+    },
+    {
+     "text": "Glancing at her scornfully, he told her that the dress was sold ."
+    },
+    {
+     "text": "Glancing at his map, he informed us that the next village was a mere twenty miles away."
+    },
+    {
+     "table": {
+      "headers": [
+       "take a glance (at ...) 短暂地看一眼",
+       "have a glance (at ...)",
+       "shoot a glance (at ...) 突然而急速地看一眼",
+       "throw a glance (at ...)",
+       "cast a glance (at ...) 短暂地看一眼"
+      ],
+      "rows": [
+       [
+        "She took a glance at the clock before entering the meeting room.她在进入会议室之前瞥了一眼钟表。 So I drove back to the town and began to retrace the route, taking frequent glances at the map. NCE3-57"
+       ],
+       [
+        "He had a quick glance at the newspaper headlines.他迅速地看了一眼报纸的头条新闻。"
+       ],
+       [
+        "She shot a quick glance at her watch, realizing she was running late.她急忙看了一眼手表，意识到自己迟到了。"
+       ],
+       [
+        "He threw a glance at his colleague who was making noise during the presentation.在演示过程中，他朝那个正在发出噪音的同事瞥了一眼。"
+       ],
+       [
+        "She cast a quick glance at the mirror before leaving the house.她在离开房子之前匆匆瞥了一眼镜子。 The couple at the next table cast quick glances in our direction."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "I asked the attendant to conduct him to the door."
+    },
+    {
+     "text": "A footnote is made at the bottom of the page.注脚列在书页下端。"
+    },
+    {
+     "text": "But this is just going to be an interesting footnote.但是这只会是一个有趣的注脚。"
+    },
+    {
+     "text": "The sign says 'Keep Out'."
+    },
+    {
+     "text": "What did the letter, say?"
+    },
+    {
+     "text": "The first thing I saw when I entered the art gallery was a notice which said: 'Do not touch the exhibits. Some of them are dangerous!'"
+    },
+    {
+     "text": "The ferry service has been suspended for the day because of bad weather."
+    },
+    {
+     "text": "The policeman was suspended while the complaint was investigated."
+    },
+    {
+     "text": "Dave was suspended from school for a week."
+    }
    ]
   }
  ]

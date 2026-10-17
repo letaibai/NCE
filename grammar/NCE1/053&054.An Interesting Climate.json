@@ -2,95 +2,391 @@
  "grammar": [
   {
    "title": "频率副词",
-   "lines": [
-    "频率副词在句子中的位置可根据语法规则和句子结构来变化。 通常情况下，频率副词位于情态动词或系动词之后，实义动词之前（实义前情系后） 频率副词直接放在动词之前 当频率副词放在句首时，通常需要使用倒装语序",
-    "频率副词 频率 中文 例句（情系后，实义前）",
-    "always 100% 总是 Sarah always gets up early.",
-    "usually 80% 通常 usually have coffee in the morning.",
-    "often 60% 经常、常常 He often plays football on weekends.",
-    "sometimes 30% 有时候(句首、尾表强调) I sometimes watch TV before going to bed.",
-    "seldom / rarely 5% 很少、罕见 It is rarely snowy in summer.",
-    "never 0 从来没有 I never drink alcohol.",
-    "He can never sleep. 他永远也睡不着。",
-    "She is seldom ill. 她很少生病。",
-    "He always loves her. 他总是爱她。",
-    "He often eats meat. 他经常吃肉。",
-    "I can never remember. 我永远也记不住。",
-    "I never can remember. 我就是记不住。"
+   "parts": [
+    {
+     "text": "频率副词在句子中的位置可根据语法规则和句子结构来变化。 通常情况下，频率副词位于情态动词或系动词之后，实义动词之前（实义前情系后） 频率副词直接放在动词之前 当频率副词放在句首时，通常需要使用倒装语序"
+    },
+    {
+     "table": {
+      "headers": [
+       "频率副词",
+       "频率",
+       "中文",
+       "例句（情系后，实义前）"
+      ],
+      "rows": [
+       [
+        "always",
+        "100%",
+        "总是",
+        "Sarah always gets up early."
+       ],
+       [
+        "usually",
+        "80%",
+        "通常",
+        "usually have coffee in the morning."
+       ],
+       [
+        "often",
+        "60%",
+        "经常、常常",
+        "He often plays football on weekends."
+       ],
+       [
+        "sometimes",
+        "30%",
+        "有时候(句首、尾表强调)",
+        "I sometimes watch TV before going to bed."
+       ],
+       [
+        "seldom / rarely",
+        "5%",
+        "很少、罕见",
+        "It is rarely snowy in summer."
+       ],
+       [
+        "never",
+        "0",
+        "从来没有",
+        "I never drink alcohol."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "He can never sleep. 他永远也睡不着。"
+    },
+    {
+     "text": "She is seldom ill. 她很少生病。"
+    },
+    {
+     "text": "He always loves her. 他总是爱她。"
+    },
+    {
+     "text": "He often eats meat. 他经常吃肉。"
+    },
+    {
+     "text": "I can never remember. 我永远也记不住。"
+    },
+    {
+     "text": "I never can remember. 我就是记不住。"
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "一般现在时句型变换练习",
-   "lines": [
-    "请使用上表中的国家与国籍练习。",
-    "国家 人称 国旗 翻译",
-    "Australia /ɔːˈstreɪljə/ Australian 🇦🇺 澳大利亚",
-    "Austria /ɒs.tri.ə/ Austrian 🇦🇹 奥地利",
-    "Canada /kænədə/ Canadian 🇨🇦 加拿大",
-    "China /tʃaɪnə/ Chinese 🇨🇳 中国",
-    "Finland /ˈfɪnlənd/ Finnish 🇫🇮 芬兰",
-    "India /ˈɪndiə/ Indian 🇮🇳 印度",
-    "Japan /dʒəˈpæn/ Japanese 🇯🇵 日本",
-    "Nigeria /naɪˈdʒɪəriə/ Nigerian 🇳🇬 尼日利亚",
-    "Turkey /ˈtɜːrki/ Turk 🇹🇷 土耳其",
-    "Korea /kəˈriə/ Korean 🇰🇷 韩国",
-    "Poland /ˈpoʊlənd/ Polish 🇵🇱 波兰",
-    "Thailand /ˈtaɪlænd/ Thai 🇹🇭 泰国",
-    "What nationality are they？ 他们是哪国人？ Where do they come from？ 他们来自哪个国家？ Where are they from？ 他们来自哪里？",
-    "They are Thai. They come form Thailand. They are form Poland.",
-    "陈述句 疑问句 否定句",
-    "The sun sets late. Does the sun set late? The sun doesn't set late.",
-    "He likes ice cream. Does he like ice cream? He does not like ice cream.",
-    "Mrs. Jones wants a biscuit. Does Mrs. Jones want a biscuit? Mrs. Jones does not want a biscuit."
+   "parts": [
+    {
+     "text": "请使用上表中的国家与国籍练习。"
+    },
+    {
+     "table": {
+      "headers": [
+       "国家",
+       "人称",
+       "国旗",
+       "翻译"
+      ],
+      "rows": [
+       [
+        "Australia /ɔːˈstreɪljə/",
+        "Australian",
+        "🇦🇺",
+        "澳大利亚"
+       ],
+       [
+        "Austria /ɒs.tri.ə/",
+        "Austrian",
+        "🇦🇹",
+        "奥地利"
+       ],
+       [
+        "Canada /kænədə/",
+        "Canadian",
+        "🇨🇦",
+        "加拿大"
+       ],
+       [
+        "China /tʃaɪnə/",
+        "Chinese",
+        "🇨🇳",
+        "中国"
+       ],
+       [
+        "Finland /ˈfɪnlənd/",
+        "Finnish",
+        "🇫🇮",
+        "芬兰"
+       ],
+       [
+        "India /ˈɪndiə/",
+        "Indian",
+        "🇮🇳",
+        "印度"
+       ],
+       [
+        "Japan /dʒəˈpæn/",
+        "Japanese",
+        "🇯🇵",
+        "日本"
+       ],
+       [
+        "Nigeria /naɪˈdʒɪəriə/",
+        "Nigerian",
+        "🇳🇬",
+        "尼日利亚"
+       ],
+       [
+        "Turkey /ˈtɜːrki/",
+        "Turk",
+        "🇹🇷",
+        "土耳其"
+       ],
+       [
+        "Korea /kəˈriə/",
+        "Korean",
+        "🇰🇷",
+        "韩国"
+       ],
+       [
+        "Poland /ˈpoʊlənd/",
+        "Polish",
+        "🇵🇱",
+        "波兰"
+       ],
+       [
+        "Thailand /ˈtaɪlænd/",
+        "Thai",
+        "🇹🇭",
+        "泰国"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "What nationality are they？ 他们是哪国人？",
+       "Where do they come from？ 他们来自哪个国家？",
+       "Where are they from？ 他们来自哪里？"
+      ],
+      "rows": [
+       [
+        "They are Thai.",
+        "They come form Thailand.",
+        "They are form Poland."
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "陈述句",
+       "疑问句",
+       "否定句"
+      ],
+      "rows": [
+       [
+        "The sun sets late.",
+        "Does the sun set late?",
+        "The sun doesn't set late."
+       ],
+       [
+        "He likes ice cream.",
+        "Does he like ice cream?",
+        "He does not like ice cream."
+       ],
+       [
+        "Mrs. Jones wants a biscuit.",
+        "Does Mrs. Jones want a biscuit?",
+        "Mrs. Jones does not want a biscuit."
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "天气与时间的表达",
-   "lines": [
-    "抱怨天气 喜欢某种天气 点钟的表达 年份的表达",
-    "英文 中文",
-    "sunny / clear ☀️ 晴朗",
-    "rain showers 🌧️ 阵雨",
-    "light snow 🌨️ 小雪",
-    "freeze ❄️ 冰冻",
-    "mostly cloudy 🌥️ 大部多云",
-    "partly windy 🌬️ 局部有风",
-    "hurricane 🌀 飓风",
-    "smoggy/haze 🌫️ 雾霾",
-    "rain and flood 🌧️🌊 暴雨洪灾",
-    "sandstorm 🌪️ 沙尘暴",
-    "The weather is bad / terrible.（天气很糟糕。）",
-    "I'm feeling a bit under the weather.（我感觉有点不舒服。）",
-    "I like...（我喜欢...）",
-    "I love...（我爱...）",
-    "I'm crazy about...（我对...着迷。）",
-    "时间 英文",
-    "5:00 five o'clock",
-    "11:00 eleven o'clock",
-    "9:00 nine o'clock",
-    "7:06 seven o six",
-    "12:08 twelve o eight",
-    "7:05 seven o five",
-    "3:10 three ten",
-    "10:20 ten twenty",
-    "6:15 six fifteen",
-    "5:42 five forty-two",
-    "11:25 eleven twenty-five",
-    "12:55 twelve fifty-five",
-    "年份 英文",
-    "1983 nineteen eighty-three",
-    "1912 nineteen twelve",
-    "1995 nineteen ninety-five",
-    "2000 two thousand",
-    "2003 two thousand three",
-    "2008 two thousand eight",
-    "2012 two thousand twelve",
-    "2015 two thousand fifteen",
-    "2023 two thousand twenty-three"
+   "parts": [
+    {
+     "text": "抱怨天气 喜欢某种天气 点钟的表达 年份的表达"
+    },
+    {
+     "table": {
+      "headers": [
+       "英文",
+       "中文"
+      ],
+      "rows": [
+       [
+        "sunny / clear ☀️",
+        "晴朗"
+       ],
+       [
+        "rain showers 🌧️",
+        "阵雨"
+       ],
+       [
+        "light snow 🌨️",
+        "小雪"
+       ],
+       [
+        "freeze ❄️",
+        "冰冻"
+       ],
+       [
+        "mostly cloudy 🌥️",
+        "大部多云"
+       ],
+       [
+        "partly windy 🌬️",
+        "局部有风"
+       ],
+       [
+        "hurricane 🌀",
+        "飓风"
+       ],
+       [
+        "smoggy/haze 🌫️",
+        "雾霾"
+       ],
+       [
+        "rain and flood 🌧️🌊",
+        "暴雨洪灾"
+       ],
+       [
+        "sandstorm 🌪️",
+        "沙尘暴"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The weather is bad / terrible.（天气很糟糕。）"
+    },
+    {
+     "text": "I'm feeling a bit under the weather.（我感觉有点不舒服。）"
+    },
+    {
+     "text": "I like...（我喜欢...）"
+    },
+    {
+     "text": "I love...（我爱...）"
+    },
+    {
+     "text": "I'm crazy about...（我对...着迷。）"
+    },
+    {
+     "table": {
+      "headers": [
+       "时间",
+       "英文"
+      ],
+      "rows": [
+       [
+        "5:00",
+        "five o'clock"
+       ],
+       [
+        "11:00",
+        "eleven o'clock"
+       ],
+       [
+        "9:00",
+        "nine o'clock"
+       ],
+       [
+        "7:06",
+        "seven o six"
+       ],
+       [
+        "12:08",
+        "twelve o eight"
+       ],
+       [
+        "7:05",
+        "seven o five"
+       ],
+       [
+        "3:10",
+        "three ten"
+       ],
+       [
+        "10:20",
+        "ten twenty"
+       ],
+       [
+        "6:15",
+        "six fifteen"
+       ],
+       [
+        "5:42",
+        "five forty-two"
+       ],
+       [
+        "11:25",
+        "eleven twenty-five"
+       ],
+       [
+        "12:55",
+        "twelve fifty-five"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "年份",
+       "英文"
+      ],
+      "rows": [
+       [
+        "1983",
+        "nineteen eighty-three"
+       ],
+       [
+        "1912",
+        "nineteen twelve"
+       ],
+       [
+        "1995",
+        "nineteen ninety-five"
+       ],
+       [
+        "2000",
+        "two thousand"
+       ],
+       [
+        "2003",
+        "two thousand three"
+       ],
+       [
+        "2008",
+        "two thousand eight"
+       ],
+       [
+        "2012",
+        "two thousand twelve"
+       ],
+       [
+        "2015",
+        "two thousand fifteen"
+       ],
+       [
+        "2023",
+        "two thousand twenty-three"
+       ]
+      ]
+     }
+    }
    ]
   }
  ]

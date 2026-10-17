@@ -2,18 +2,48 @@
  "expand": [
   {
    "title": "too...to... “太.以至于不能.”",
-   "lines": [
-    "结构： too + adj./adv. + to do sth. §",
-    "too young to go to school 太小了，不能上学",
-    "too tired to clean the room 我累得不想打扫房间了",
-    "too old to learn 老得学不了",
-    "Never too old to learn 双重否定 = 加强肯定",
-    "it's never too late to open your heart 敞开心扉 为时不晚",
-    "it's never too late to change your life 改变生活 为时不晚",
-    "it's never too late to take a chance 把握时机为时不晚",
-    "LAST CHANCE HARVEY 最后一次机会，哈维 《大爱晚成》",
-    "Too adv. 太，过分、过犹不及 (通常位于它所修饰的形容词/分词之前，在含有不定式的句型里，too 经常具有否定的含义。) Enough adv. 足够，十分 (位于它所修饰的词之后，表示达到必要的程度。)",
-    "They were too difficult for me . That's enough for me ."
+   "parts": [
+    {
+     "text": "结构： too + adj./adv. + to do sth. §"
+    },
+    {
+     "text": "too young to go to school 太小了，不能上学"
+    },
+    {
+     "text": "too tired to clean the room 我累得不想打扫房间了"
+    },
+    {
+     "text": "too old to learn 老得学不了"
+    },
+    {
+     "text": "Never too old to learn 双重否定 = 加强肯定"
+    },
+    {
+     "text": "it's never too late to open your heart 敞开心扉 为时不晚"
+    },
+    {
+     "text": "it's never too late to change your life 改变生活 为时不晚"
+    },
+    {
+     "text": "it's never too late to take a chance 把握时机为时不晚"
+    },
+    {
+     "text": "LAST CHANCE HARVEY 最后一次机会，哈维 《大爱晚成》"
+    },
+    {
+     "table": {
+      "headers": [
+       "Too adv. 太，过分、过犹不及 (通常位于它所修饰的形容词/分词之前，在含有不定式的句型里，too 经常具有否定的含义。)",
+       "Enough adv. 足够，十分 (位于它所修饰的词之后，表示达到必要的程度。)"
+      ],
+      "rows": [
+       [
+        "They were too difficult for me .",
+        "That's enough for me ."
+       ]
+      ]
+     }
+    }
    ]
   }
  ]

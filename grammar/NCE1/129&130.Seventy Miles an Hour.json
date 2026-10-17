@@ -2,61 +2,212 @@
  "grammar": [
   {
    "title": "不同时态的推测(注意一般过去时表推测的结构)",
-   "lines": [
-    "在英文中一般不会使用【现在完成时】来表推测，因为现在完成时是已完成，既然已完成就无需再推测。",
-    "一般 现在时 态的推测",
-    "情态动词 + be + 非动词 情态动词 + 动词",
-    "must be… 肯定是 This structure must be stable . must … 肯定是 Claire's car wasn't there, so she must have gone to her mother's.",
-    "can’t be… 不可能 I can't be in two places at once. can’t … 不可能 He can’t know that.",
-    "may be… 可能是 The horse may be nervous of cars. may … 可能是 I may be back next year.",
-    "一般 过去时 态的推测(借用现在完成时)",
-    "情态动词 + have been + 非动词 情态动词 + have + done(过去分词)",
-    "must have been… 那时肯定是 He must have been tall when he was young. must have … 那时肯定… He must have played basketball well when he was young.",
-    "can’t have been… 那时不可能是 He can’t have been rich before. can’t have … 那时不可能… He can’t have made a lot of money before.",
-    "may have been… 那时可能是 She may have been scarred for life. may have … 那时可能… He may have put pressure on her to agree.",
-    "现在进行时 态的推测 过去进行时 态的推测(借用现在完成时)",
-    "must be doing… 此刻肯定正在… He must be sleeping now. must have been doing… 那时肯定正在… She must have been studying all night.",
-    "can’t be doing…此刻不可能正在… He can’t be studying now. can’t have been doing…那时不可能正在… I can’t have been dreaming at class.",
-    "may be doing…此刻可能正在… They may be shredding documents. may have been doing…那时可能正在… She may have been waiting for you at the cafe."
+   "parts": [
+    {
+     "text": "在英文中一般不会使用【现在完成时】来表推测，因为现在完成时是已完成，既然已完成就无需再推测。"
+    },
+    {
+     "table": {
+      "headers": [
+       "一般 现在时 态的推测",
+       "情态动词 + be + 非动词",
+       "情态动词 + 动词",
+       "一般 过去时 态的推测(借用现在完成时)",
+       "情态动词 + have been + 非动词",
+       "情态动词 + have + done(过去分词)"
+      ],
+      "rows": [
+       [
+        "must be… 肯定是",
+        "This structure must be stable .",
+        "must … 肯定是",
+        "Claire's car wasn't there, so she must have gone to her mother's."
+       ],
+       [
+        "can’t be… 不可能",
+        "I can't be in two places at once.",
+        "can’t … 不可能",
+        "He can’t know that."
+       ],
+       [
+        "may be… 可能是",
+        "The horse may be nervous of cars.",
+        "may … 可能是",
+        "I may be back next year."
+       ],
+       [
+        "must have been… 那时肯定是",
+        "He must have been tall when he was young.",
+        "must have … 那时肯定…",
+        "He must have played basketball well when he was young."
+       ],
+       [
+        "can’t have been… 那时不可能是",
+        "He can’t have been rich before.",
+        "can’t have … 那时不可能…",
+        "He can’t have made a lot of money before."
+       ],
+       [
+        "may have been… 那时可能是",
+        "She may have been scarred for life.",
+        "may have … 那时可能…",
+        "He may have put pressure on her to agree."
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "现在进行时 态的推测",
+       "过去进行时 态的推测(借用现在完成时)"
+      ],
+      "rows": [
+       [
+        "must be doing… 此刻肯定正在…",
+        "He must be sleeping now.",
+        "must have been doing… 那时肯定正在…",
+        "She must have been studying all night."
+       ],
+       [
+        "can’t be doing…此刻不可能正在…",
+        "He can’t be studying now.",
+        "can’t have been doing…那时不可能正在…",
+        "I can’t have been dreaming at class."
+       ],
+       [
+        "may be doing…此刻可能正在…",
+        "They may be shredding documents.",
+        "may have been doing…那时可能正在…",
+        "She may have been waiting for you at the cafe."
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "had to 还是 must have been?",
-   "lines": [
-    "had to ... 不得不(过去式) must have been ... 过去肯定表推测",
-    "I lost my pen so I had to buy a new one. 不能推测 He forgot his case so he had to return home. 不能推测 He didn't come to work yesterday. He must have been ill. 非动词 He didn't come to the office this morning. He must have stayed at home. 动词完成时态 I don't think she was Austrian. She must have been German. 非动词 She didn't hear the phone. She must have been sleep ing . 动词"
+   "parts": [
+    {
+     "table": {
+      "headers": [
+       "had to ... 不得不(过去式)",
+       "must have been ... 过去肯定表推测"
+      ],
+      "rows": [
+       [
+        "I lost my pen so I had to buy a new one. 不能推测 He forgot his case so he had to return home. 不能推测",
+        "He didn't come to work yesterday. He must have been ill. 非动词 He didn't come to the office this morning. He must have stayed at home. 动词完成时态 I don't think she was Austrian. She must have been German. 非动词 She didn't hear the phone. She must have been sleep ing . 动词"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "开车时的知识",
-   "lines": [
-    "相关短语",
-    "交通警察（traffic policeman）、交通信号灯（traffic lights）、罚单（ a ticket ）、\" No Parking \"（禁止停车）、\"No right turn\"（禁止右转）和\"No U-turn\"（禁止掉头）是常见的交通相关词汇。",
-    "英文短语 中文翻译",
-    "Drive a car 开车",
-    "Hit the road 出发，上路",
-    "Buckle up 系好安全带",
-    "Fasten your seatbelt 系好安全带",
-    "Start the engine 启动引擎",
-    "Put the pedal to the metal 踩油门，加速",
-    "Change lanes 换道",
-    "Merge into traffic 合并进入交通流",
-    "Keep a safe distance 保持安全距离",
-    "Come to a full stop 完全停下来",
-    "Pull over 靠边停车",
-    "Park the car 停车",
-    "Give way 让行",
-    "Yield to pedestrians 给行人让路",
-    "Stay in your lane 保持在你的车道内",
-    "Signal a turn 打转向灯",
-    "Follow the speed limit 遵守限速",
-    "Check blind spots 注意盲点",
-    "Navigate through traffic 在交通中驾驶",
-    "Be a defensive driver 保持主动防御驾驶"
+   "parts": [
+    {
+     "text": "相关短语"
+    },
+    {
+     "text": "交通警察（traffic policeman）、交通信号灯（traffic lights）、罚单（ a ticket ）、\" No Parking \"（禁止停车）、\"No right turn\"（禁止右转）和\"No U-turn\"（禁止掉头）是常见的交通相关词汇。"
+    },
+    {
+     "table": {
+      "headers": [
+       "英文短语",
+       "中文翻译"
+      ],
+      "rows": [
+       [
+        "Drive a car",
+        "开车"
+       ],
+       [
+        "Hit the road",
+        "出发，上路"
+       ],
+       [
+        "Buckle up",
+        "系好安全带"
+       ],
+       [
+        "Fasten your seatbelt",
+        "系好安全带"
+       ],
+       [
+        "Start the engine",
+        "启动引擎"
+       ],
+       [
+        "Put the pedal to the metal",
+        "踩油门，加速"
+       ],
+       [
+        "Change lanes",
+        "换道"
+       ],
+       [
+        "Merge into traffic",
+        "合并进入交通流"
+       ],
+       [
+        "Keep a safe distance",
+        "保持安全距离"
+       ],
+       [
+        "Come to a full stop",
+        "完全停下来"
+       ],
+       [
+        "Pull over",
+        "靠边停车"
+       ],
+       [
+        "Park the car",
+        "停车"
+       ],
+       [
+        "Give way",
+        "让行"
+       ],
+       [
+        "Yield to pedestrians",
+        "给行人让路"
+       ],
+       [
+        "Stay in your lane",
+        "保持在你的车道内"
+       ],
+       [
+        "Signal a turn",
+        "打转向灯"
+       ],
+       [
+        "Follow the speed limit",
+        "遵守限速"
+       ],
+       [
+        "Check blind spots",
+        "注意盲点"
+       ],
+       [
+        "Navigate through traffic",
+        "在交通中驾驶"
+       ],
+       [
+        "Be a defensive driver",
+        "保持主动防御驾驶"
+       ]
+      ]
+     }
+    }
    ]
   }
  ]

@@ -2,75 +2,232 @@
  "grammar": [
   {
    "title": "单复数概念在句子中的使用(主谓一致)",
-   "lines": [
-    "Those child ren / kid s are tired.",
-    "We are thirsty.",
-    "This child is very young. 这个小朋友真年轻 (废话文学)",
-    "What color is your car?",
-    "How are your Dad and Mum? = How are your parents?",
-    "Whose are those dresses? = Whose dresses are those?",
-    "Are your shoes white? （Yes,they are.）",
-    "The \\ These \\ Those children are tired.",
-    "Their \\ Our \\ Her \\ His \\ My mother is busy.",
-    "My \\ Your \\ Our \\ Their \\ Her friend s are tall.",
-    "My \\ Your \\ His \\ Her brother is a taxi driver."
+   "parts": [
+    {
+     "text": "Those child ren / kid s are tired."
+    },
+    {
+     "text": "We are thirsty."
+    },
+    {
+     "text": "This child is very young. 这个小朋友真年轻 (废话文学)"
+    },
+    {
+     "text": "What color is your car?"
+    },
+    {
+     "text": "How are your Dad and Mum? = How are your parents?"
+    },
+    {
+     "text": "Whose are those dresses? = Whose dresses are those?"
+    },
+    {
+     "text": "Are your shoes white? （Yes,they are.）"
+    },
+    {
+     "text": "The \\ These \\ Those children are tired."
+    },
+    {
+     "text": "Their \\ Our \\ Her \\ His \\ My mother is busy."
+    },
+    {
+     "text": "My \\ Your \\ Our \\ Their \\ Her friend s are tall."
+    },
+    {
+     "text": "My \\ Your \\ His \\ Her brother is a taxi driver."
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "家庭成员关系",
-   "lines": [
-    "亲属关系 法律关系 Look at them!",
-    "关系(集合) 个体",
-    "Grandparent s 祖父母 Grandmother 祖母",
-    "Grandfather 祖父",
-    "Parent s 父母亲 Father 父亲",
-    "Mother 母亲",
-    "Uncle s and aunt s 叔伯姨 Aunt 姑妈/伯母/阿姨",
-    "Uncle 姑丈/伯父/叔叔",
-    "Yourself 你自己、Myself 我自己",
-    "Husband 丈夫 Wife 妻子",
-    "Brother 兄弟 Sister 姐妹",
-    "cousin brother 堂/表哥 cousin sister 堂/表姐",
-    "Son 儿子 Daughter 女儿",
-    "nephew 侄子 niece 侄女",
-    "in-law 结婚后的亲属关系",
-    "mother in-law 婆婆、岳母 father in-law 公公、岳父",
-    "sister in- law 小姑子、小姨子 brother in- law 舅子、夫弟",
-    "ex- 前任的",
-    "ex-girlfriend 前女友 ex-boyfriend 前男友",
-    "ex-wife 前妻 ex-husband 前夫",
-    "step 后的，继的",
-    "step mother 继母 step father 继父",
-    "step sister 非同父母的姐妹 step brother 非同父母的兄弟",
-    "They 're 他们 clean. 很干净",
-    "dirty. 很脏",
-    "hot. 很热",
-    "cold. 很冷",
-    "Those children are thirsty.",
-    "Those children are tired.",
-    "Their mother is tired too.",
-    "That ice cream man is very busy.",
-    "His ice creams are very nice.",
-    "What's the matter, children? We are thirsty.",
-    "What's the matter, Tim? I am tired."
+   "parts": [
+    {
+     "text": "亲属关系 法律关系 Look at them!"
+    },
+    {
+     "table": {
+      "headers": [
+       "关系(集合)",
+       "个体",
+       "Yourself 你自己、Myself 我自己"
+      ],
+      "rows": [
+       [
+        "Grandparent s 祖父母",
+        "Grandmother 祖母"
+       ],
+       [
+        "Grandfather 祖父"
+       ],
+       [
+        "Parent s 父母亲",
+        "Father 父亲"
+       ],
+       [
+        "Mother 母亲"
+       ],
+       [
+        "Uncle s and aunt s 叔伯姨",
+        "Aunt 姑妈/伯母/阿姨"
+       ],
+       [
+        "Uncle 姑丈/伯父/叔叔"
+       ],
+       [
+        "Husband 丈夫",
+        "Wife 妻子"
+       ],
+       [
+        "Brother 兄弟",
+        "Sister 姐妹"
+       ],
+       [
+        "cousin brother 堂/表哥",
+        "cousin sister 堂/表姐"
+       ],
+       [
+        "Son 儿子",
+        "Daughter 女儿"
+       ],
+       [
+        "nephew 侄子",
+        "niece 侄女"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "in-law 结婚后的亲属关系",
+       "ex- 前任的",
+       "step 后的，继的"
+      ],
+      "rows": [
+       [
+        "mother in-law 婆婆、岳母",
+        "father in-law 公公、岳父"
+       ],
+       [
+        "sister in- law 小姑子、小姨子",
+        "brother in- law 舅子、夫弟"
+       ],
+       [
+        "ex-girlfriend 前女友",
+        "ex-boyfriend 前男友"
+       ],
+       [
+        "ex-wife 前妻",
+        "ex-husband 前夫"
+       ],
+       [
+        "step mother 继母",
+        "step father 继父"
+       ],
+       [
+        "step sister 非同父母的姐妹",
+        "step brother 非同父母的兄弟"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "They 're 他们"
+      ],
+      "rows": [
+       [
+        "clean. 很干净"
+       ],
+       [
+        "dirty. 很脏"
+       ],
+       [
+        "hot. 很热"
+       ],
+       [
+        "cold. 很冷"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Those children are thirsty."
+    },
+    {
+     "text": "Those children are tired."
+    },
+    {
+     "text": "Their mother is tired too."
+    },
+    {
+     "text": "That ice cream man is very busy."
+    },
+    {
+     "text": "His ice creams are very nice."
+    },
+    {
+     "text": "What's the matter, children? We are thirsty."
+    },
+    {
+     "text": "What's the matter, Tim? I am tired."
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "自然拼读",
-   "lines": [
-    "组合 音标 示例",
-    "a-e \\ eɪ \\ take,table 元辅e字母e不发音",
-    "ay day,way,Pray,say",
-    "ey Grey,they,ley 例外:key, monkey",
-    "i-e \\ aɪ \\ Like,Bike,nice,Kite,fine,White,smile,crime wh- 只发\\w\\或者 \\h\\如 what, why who, whole",
-    "ie Tie,lie,die, Pie",
-    "o-e \\ əʊ \\ Note,hope,phone,Photo Ph \\f\\ Photo phrase Graph physical",
-    "oa Boat,goat,Coat,float",
-    "ow Yellow,follow,Slow,window"
+   "parts": [
+    {
+     "table": {
+      "headers": [
+       "组合",
+       "音标",
+       "示例"
+      ],
+      "rows": [
+       [
+        "a-e",
+        "\\ eɪ \\",
+        "take,table 元辅e字母e不发音"
+       ],
+       [
+        "ay",
+        "day,way,Pray,say"
+       ],
+       [
+        "ey",
+        "Grey,they,ley 例外:key, monkey"
+       ],
+       [
+        "i-e",
+        "\\ aɪ \\",
+        "Like,Bike,nice,Kite,fine,White,smile,crime wh- 只发\\w\\或者 \\h\\如 what, why who, whole"
+       ],
+       [
+        "ie",
+        "Tie,lie,die, Pie"
+       ],
+       [
+        "o-e",
+        "\\ əʊ \\",
+        "Note,hope,phone,Photo Ph \\f\\ Photo phrase Graph physical"
+       ],
+       [
+        "oa",
+        "Boat,goat,Coat,float"
+       ],
+       [
+        "ow",
+        "Yellow,follow,Slow,window"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],

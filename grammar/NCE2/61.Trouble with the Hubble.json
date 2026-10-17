@@ -2,16 +2,62 @@
  "grammar": [
   {
    "title": "将来完成进行时",
-   "lines": [
-    "在时间状语从句中 要用现在完成时代替将来完成时",
-    "将来完成进行时(强调过程) will/shall have been + doing By Friday midday, they will have been working on it for seven days. They will have been preparing for a month. By this time next week, I will have been working for this firm for twenty years. By Friday midday, they will have been working on it for seven days.（work on sth. 关于…的工作）",
-    "将来完成时(强调结果) will/shall have + done Soon the astronauts will have repaired the telescope. By next Sunday, they will have finished all the preparation. Workers will have completed the new roads by the end of this year.",
-    "一般将来时(不那么确定的将来) will + do They will be here tomorrow.",
-    "将来进行时(确定的将来) will be + doing They will be arriving here tomorrow.",
-    "By the time I’ve completed this one, I’ll have been writing for six years.到我写完这本书时，我将已经写了 6 年书了。",
-    "When I’ve built this one, I’ll have built five all together.",
-    "原型 (do) 过去式 (did) 过去分词 (done) 现在分词 (doing)",
-    "grab grabbed grabbed grabbing"
+   "parts": [
+    {
+     "text": "在时间状语从句中 要用现在完成时代替将来完成时"
+    },
+    {
+     "table": {
+      "headers": [
+       "将来完成进行时(强调过程)",
+       "will/shall have been + doing",
+       "将来完成时(强调结果)",
+       "will/shall have + done",
+       "一般将来时(不那么确定的将来)",
+       "will + do",
+       "将来进行时(确定的将来)",
+       "will be + doing"
+      ],
+      "rows": [
+       [
+        "By Friday midday, they will have been working on it for seven days. They will have been preparing for a month. By this time next week, I will have been working for this firm for twenty years. By Friday midday, they will have been working on it for seven days.（work on sth. 关于…的工作）"
+       ],
+       [
+        "Soon the astronauts will have repaired the telescope. By next Sunday, they will have finished all the preparation. Workers will have completed the new roads by the end of this year."
+       ],
+       [
+        "They will be here tomorrow."
+       ],
+       [
+        "They will be arriving here tomorrow."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "By the time I’ve completed this one, I’ll have been writing for six years.到我写完这本书时，我将已经写了 6 年书了。"
+    },
+    {
+     "text": "When I’ve built this one, I’ll have built five all together."
+    },
+    {
+     "table": {
+      "headers": [
+       "原型 (do)",
+       "过去式 (did)",
+       "过去分词 (done)",
+       "现在分词 (doing)"
+      ],
+      "rows": [
+       [
+        "grab",
+        "grabbed",
+        "grabbed",
+        "grabbing"
+       ]
+      ]
+     }
+    }
    ]
   }
  ]

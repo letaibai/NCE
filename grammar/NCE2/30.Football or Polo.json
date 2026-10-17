@@ -2,36 +2,106 @@
  "grammar": [
   {
    "title": "冠词",
-   "lines": [
-    "分类 § 人名和地名的前面，一般不加冠词，大多数情况都是专有名词 海洋、河流、山脉和部分国名前，加定冠词the",
-    "a / an 表示泛指(可数名词单数)",
-    "the 表示特指(名词单复数)",
-    "零冠词 不加冠词(复数、专有名词，国家简写、人名、城市名等)",
-    "John lives in England.",
-    "He has a house in London.",
-    "the Atlantic 大西洋（注意the的读音）",
-    "the Yellow River 黄河",
-    "The Great Wall 万里长城",
-    "the Yangtze River 长江",
-    "the Alps 阿尔卑斯山脉",
-    "the United States 普通名词 变过来的 专有名词，所有前面要加the。",
-    "America 零冠词"
+   "parts": [
+    {
+     "text": "分类 § 人名和地名的前面，一般不加冠词，大多数情况都是专有名词 海洋、河流、山脉和部分国名前，加定冠词the"
+    },
+    {
+     "text": "a / an 表示泛指(可数名词单数)"
+    },
+    {
+     "text": "the 表示特指(名词单复数)"
+    },
+    {
+     "text": "零冠词 不加冠词(复数、专有名词，国家简写、人名、城市名等)"
+    },
+    {
+     "text": "John lives in England."
+    },
+    {
+     "text": "He has a house in London."
+    },
+    {
+     "text": "the Atlantic 大西洋（注意the的读音）"
+    },
+    {
+     "text": "the Yellow River 黄河"
+    },
+    {
+     "text": "The Great Wall 万里长城"
+    },
+    {
+     "text": "the Yangtze River 长江"
+    },
+    {
+     "text": "the Alps 阿尔卑斯山脉"
+    },
+    {
+     "text": "the United States 普通名词 变过来的 专有名词，所有前面要加the。"
+    },
+    {
+     "text": "America 零冠词"
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "some / any 的用法",
-   "lines": [
-    "当some与any都表示：“一些、许多”的时候，在句子类型中有以上的区别 §",
-    "some 用于肯定句 any 用于否定和疑问句",
-    "Some children were playing games on the bank and there were some people rowing on the river. I turned to look at the children, but there weren't any (children) in sight..",
-    "不可数名词 可数名词",
-    "Is there any milk in the bottle? There isn't any milk in the bottle, but there is some water in it. Are there any nails in that tin? There aren't any in the tin, but there are some on the shelf.",
-    "原型 (do) 过去式 (did) 过去分词 (done) 现在分词(doing)",
-    "cut cut cut cutting",
-    "fall fell fallen",
-    "run ran run running"
+   "parts": [
+    {
+     "text": "当some与any都表示：“一些、许多”的时候，在句子类型中有以上的区别 §"
+    },
+    {
+     "table": {
+      "headers": [
+       "some 用于肯定句",
+       "any 用于否定和疑问句",
+       "不可数名词",
+       "可数名词"
+      ],
+      "rows": [
+       [
+        "Some children were playing games on the bank and there were some people rowing on the river.",
+        "I turned to look at the children, but there weren't any (children) in sight.."
+       ],
+       [
+        "Is there any milk in the bottle? There isn't any milk in the bottle, but there is some water in it.",
+        "Are there any nails in that tin? There aren't any in the tin, but there are some on the shelf."
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "原型 (do)",
+       "过去式 (did)",
+       "过去分词 (done)",
+       "现在分词(doing)"
+      ],
+      "rows": [
+       [
+        "cut",
+        "cut",
+        "cut",
+        "cutting"
+       ],
+       [
+        "fall",
+        "fell",
+        "fallen",
+        ""
+       ],
+       [
+        "run",
+        "ran",
+        "run",
+        "running"
+       ]
+      ]
+     }
+    }
    ]
   }
  ]

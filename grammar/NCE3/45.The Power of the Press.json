@@ -2,137 +2,530 @@
  "grammar": [
   {
    "title": "例子",
-   "lines": [
-    "The story of a poor family that acquired fame and fortune overnight , dramatically illustrates the power of the press. acquire fame and fortune overnight 讯速成名获利 illustrate v. to make the meaning of sth clearer by using examples, pictures, etc. （用例子、图表 等）说明，阐明 amply / clearly / dramatically / graphically / vividly illustrate … 充分/清楚/戏剧性/生动地说明… The family lived in Aberdeen, a small town of 23, 000 inhabitants in South Dakota. a town of 11,000 inhabitants 有11000名居民的小镇 As the parents had five children, life was a perpetual struggle against poverty. As the parents had five children, they perpetually struggled against poverty . 中式英语 They were expecting their sixth child and were faced with even more pressing economic problems. be expecting (a baby) 怀孕的委婉的说法 be faced with … 面临着（某一个棘手的问题） pressing adj. urgent 紧急的 pressing problem / matter/ need etc. 紧迫的问题/事情/需要等。 If they had only had one more child, the fact would have passed unnoticed. if + S. + had done, S. + would / should / could / might + have done 与过去事实相反的虚拟 unnoticed adj. without being noticed 无人注意的 But for the letter of thanks, the act of kindness might have gone / passed unnoticed. 要不是这封感谢信，这件善举可能就不为人知地过去了。 They would have continued to struggle against economic odds and would have lived in obscurity. odds n. difficulties 困难 But they suddenly became the parents of quintuplets, four girls and a boy, an event which radically changed their lives . radically change / alter… 彻底改变了… He suddenly won the lottery of ten million dollars, nearly 100 times the amount of his annual income, an event which radically changed his life . 他突然间中了一千万美元的大奖，几乎是他年收入的 100 倍，这件事彻底改变了他的生活。 The day after the birth of the five children, an aeroplane arrived in Aberdeen bringing sixty reporters and photographers. The day after the birth of the five children 五个孩子出生后的第二天",
-    "With the success of their first record, they acquired fame and fortune overnight.",
-    "rise to fame swiftly 迅速成名 Mendoza rose to fame swiftly after a boxing match when he was only fourteen years old . The rise to fame was swift.",
-    "make a name for oneself 成名了 He soon made a name for himself and came to be known to the Italians as Giovanni Acuto .",
-    "make (the) headlines 做头条新闻 The 9/11 terrorist attack made (the) headlines around the world.",
-    "hit the headlines 被大肆宣扬 The 9/11 terrorist attack hit the headlines around the world.",
-    "be a household name / word 家喻户晓的名字 Coca Cola is a household name/word around the world. Microsoft has been a household word.",
-    "became a household name / word 变成家喻户晓的名字 She became a household name/word in the 1960s. Cindy married one of her publishers and became a household word.",
-    "To illustrate my point, let me tell you a little story.",
-    "The lecturer illustrated his point with a diagram on the blackboard.",
-    "One example may amply illustrate this point.",
-    "The example of the United States graphically illustrates this point.",
-    "amply illustrate … 充分说明 The results amply illustrate the need for further research. 结果充分说明了进一步研究的必要性。",
-    "clearly illustrate … 清晰地阐述或说明 This case clearly illustrates the importance of timely medical care. 这个案例清楚地说明了及时医疗的重要性。",
-    "dramatically illustrate … 戏剧性的说明 The sudden drop in stock prices dramatically illustrates market volatility. 股票价格的突然下跌戏剧性地说明了市场的波动性。",
-    "graphically illustrate … 图形化说明 The documentary graphically illustrates the harsh realities of war. 这部纪录片生动地展示了战争的残酷现实。",
-    "vividly illustrate … 生动地阐述 The novel vividly illustrates the struggles of the main character. 这部小说生动地描绘了主角的挣扎。",
-    "The example of an obscure shampoo that became a household name overnight , dramatically illustrates the power of advertising.一个原本默默无闻的洗发水迅速变得家喻户晓的例子戏剧化 地说明了广告宣传的力量。",
-    "a city of six million inhabitants 一座有六百万居民的城市",
-    "a school of 1,200 students 一所有1200名学生的学校",
-    "The life of a Christian is a perpetual struggle against self. 基督徒的生活就是永远和自我的搏斗。",
-    "Speculation in stocks is a perpetual struggle against fear and greed. 炒股就是永远和恐惧与贪婪的搏斗。",
-    "When is your baby due? 预产期",
-    "She gave birth to twins. 生了双胞胎",
-    "She aborted after 2 months. 流产了",
-    "She is on maternity leave. 休产假",
-    "be pregnant （直接说法）怀孕了 I think you should be pregnant. 我想你应该是怀上了。",
-    "conceive (a baby) (医生的说法) 怀孕（妊娠） Women, he says, should give up alcohol before they plan to conceive. 他说女人在计划怀孕前应该戒酒。",
-    "be in a family way 有喜了 Mary's mother is in a family way. 玛丽的母亲有喜了。",
-    "be knitting a tiny garment 怀孕了（正在织一件小衣服） She is knitting a tiny garment. 她怀孕了",
-    "…, for then man was faced with a real need to understand something about the seasons .",
-    "After buying a new chain I was faced with the insurmountable task of putting the confusing jigsaw puzzle together again .",
-    "So, faced with the Danish advance, Alfred did not risk open battle but harried the enemy .",
-    "be confronted with … 面临，遭遇 …, for it is impossible to foretell the exact nature of the difficulties which will confront the potholer . …, and no father is confronted with his inability to 'buy' an education for his child .",
-    "It is one of the most pressing problems facing this country. 它是该国面临的最紧迫的问题之一。",
-    "Opposition party leaders are now pressing for the entire election to be annulled. 反对党领袖们现在正在迫切要求宣布整个选举无效。",
-    "I have more pressing things to attend to. 我有更紧迫的事情要做。",
-    "These questions have never seemed more pressing. 这些问题似乎从未像现在这样紧迫。",
-    "a pressing need for housing",
-    "Poverty is a more pressing problem than pollution.",
-    "pressing problem 紧迫的问题 Climate change is a pressing problem that requires immediate action. 气候变化是一个需要立即采取行动的紧迫问题。",
-    "pressing matter 紧急事情 The board meeting was postponed due to a more pressing matter. 董事会会议因一个更紧迫的事项而推迟。",
-    "pressing need 迫切需要 There is a pressing need for improved healthcare in rural areas. 乡村地区迫切需要改善医疗保健。",
-    "If, at the time, the British had not feared invasion, it would have been completed .",
-    "If there had not been a hard layer of rock beneath the soil, they would have completed the job in a few hours .",
-    "It has been estimated that if the bridge were packed with cars, it would still only be carrying a third of its total capacity .",
-    "There is no doubt that if she had not lost her rudder she would have won the race easily .",
-    "I tried to slip up the stairs unnoticed.",
-    "go unnoticed 未被察觉的，不为人知的 The event went unnoticed. The Ombudsman's prompt action at once put an end to an unpleasant practice which might have gone unnoticed .",
-    "pass unnoticed 不被注意到 Her death passed unnoticed. I cannot let this brutality go / pass unnoticed. 我不能让这种暴行不了了之。",
-    "...families in terrible circumstances, who have stayed together against all odds. …状况糟糕的家庭，似乎不可能维持下去，却仍然住在一起。",
-    "He reckons the odds are against the plan going ahead. 他认为该计划不太可能进行下去。",
-    "struggle / fight / battle against the odds 与困难作斗争 The hospital's director has been battling against the odds to improve patient care.",
-    "beat / overcome the odds 克服困难 The South Africans overcame the odds to beat Australia.",
-    "against (all) the odds 尽管困难重重 Against all the odds she achieved her dream of becoming a ballerina.",
-    "Computers have radically changed our lives.",
-    "Relativity and quantum mechanics have radically altered our picture of nature.",
-    "radical changes in education 教育的根本变化",
-    "Four days after setting out, while the Titanic was sailing across the icy waters of the North Atlantic, a huge iceberg was suddenly spotted by a look-out .",
-    "A man who had broken his right leg was taken to hospital a few weeks before Christmas ."
+   "parts": [
+    {
+     "text": "The story of a poor family that acquired fame and fortune overnight , dramatically illustrates the power of the press. acquire fame and fortune overnight 讯速成名获利 illustrate v. to make the meaning of sth clearer by using examples, pictures, etc. （用例子、图表 等）说明，阐明 amply / clearly / dramatically / graphically / vividly illustrate … 充分/清楚/戏剧性/生动地说明… The family lived in Aberdeen, a small town of 23, 000 inhabitants in South Dakota. a town of 11,000 inhabitants 有11000名居民的小镇 As the parents had five children, life was a perpetual struggle against poverty. As the parents had five children, they perpetually struggled against poverty . 中式英语 They were expecting their sixth child and were faced with even more pressing economic problems. be expecting (a baby) 怀孕的委婉的说法 be faced with … 面临着（某一个棘手的问题） pressing adj. urgent 紧急的 pressing problem / matter/ need etc. 紧迫的问题/事情/需要等。 If they had only had one more child, the fact would have passed unnoticed. if + S. + had done, S. + would / should / could / might + have done 与过去事实相反的虚拟 unnoticed adj. without being noticed 无人注意的 But for the letter of thanks, the act of kindness might have gone / passed unnoticed. 要不是这封感谢信，这件善举可能就不为人知地过去了。 They would have continued to struggle against economic odds and would have lived in obscurity. odds n. difficulties 困难 But they suddenly became the parents of quintuplets, four girls and a boy, an event which radically changed their lives . radically change / alter… 彻底改变了… He suddenly won the lottery of ten million dollars, nearly 100 times the amount of his annual income, an event which radically changed his life . 他突然间中了一千万美元的大奖，几乎是他年收入的 100 倍，这件事彻底改变了他的生活。 The day after the birth of the five children, an aeroplane arrived in Aberdeen bringing sixty reporters and photographers. The day after the birth of the five children 五个孩子出生后的第二天"
+    },
+    {
+     "text": "With the success of their first record, they acquired fame and fortune overnight."
+    },
+    {
+     "table": {
+      "headers": [
+       "rise to fame swiftly 迅速成名",
+       "make a name for oneself 成名了",
+       "make (the) headlines 做头条新闻",
+       "hit the headlines 被大肆宣扬",
+       "be a household name / word 家喻户晓的名字",
+       "became a household name / word 变成家喻户晓的名字"
+      ],
+      "rows": [
+       [
+        "Mendoza rose to fame swiftly after a boxing match when he was only fourteen years old . The rise to fame was swift."
+       ],
+       [
+        "He soon made a name for himself and came to be known to the Italians as Giovanni Acuto ."
+       ],
+       [
+        "The 9/11 terrorist attack made (the) headlines around the world."
+       ],
+       [
+        "The 9/11 terrorist attack hit the headlines around the world."
+       ],
+       [
+        "Coca Cola is a household name/word around the world. Microsoft has been a household word."
+       ],
+       [
+        "She became a household name/word in the 1960s. Cindy married one of her publishers and became a household word."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "To illustrate my point, let me tell you a little story."
+    },
+    {
+     "text": "The lecturer illustrated his point with a diagram on the blackboard."
+    },
+    {
+     "text": "One example may amply illustrate this point."
+    },
+    {
+     "text": "The example of the United States graphically illustrates this point."
+    },
+    {
+     "table": {
+      "headers": [
+       "amply illustrate … 充分说明",
+       "clearly illustrate … 清晰地阐述或说明",
+       "dramatically illustrate … 戏剧性的说明",
+       "graphically illustrate … 图形化说明",
+       "vividly illustrate … 生动地阐述"
+      ],
+      "rows": [
+       [
+        "The results amply illustrate the need for further research. 结果充分说明了进一步研究的必要性。"
+       ],
+       [
+        "This case clearly illustrates the importance of timely medical care. 这个案例清楚地说明了及时医疗的重要性。"
+       ],
+       [
+        "The sudden drop in stock prices dramatically illustrates market volatility. 股票价格的突然下跌戏剧性地说明了市场的波动性。"
+       ],
+       [
+        "The documentary graphically illustrates the harsh realities of war. 这部纪录片生动地展示了战争的残酷现实。"
+       ],
+       [
+        "The novel vividly illustrates the struggles of the main character. 这部小说生动地描绘了主角的挣扎。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The example of an obscure shampoo that became a household name overnight , dramatically illustrates the power of advertising.一个原本默默无闻的洗发水迅速变得家喻户晓的例子戏剧化 地说明了广告宣传的力量。"
+    },
+    {
+     "text": "a city of six million inhabitants 一座有六百万居民的城市"
+    },
+    {
+     "text": "a school of 1,200 students 一所有1200名学生的学校"
+    },
+    {
+     "text": "The life of a Christian is a perpetual struggle against self. 基督徒的生活就是永远和自我的搏斗。"
+    },
+    {
+     "text": "Speculation in stocks is a perpetual struggle against fear and greed. 炒股就是永远和恐惧与贪婪的搏斗。"
+    },
+    {
+     "text": "When is your baby due? 预产期"
+    },
+    {
+     "text": "She gave birth to twins. 生了双胞胎"
+    },
+    {
+     "text": "She aborted after 2 months. 流产了"
+    },
+    {
+     "text": "She is on maternity leave. 休产假"
+    },
+    {
+     "table": {
+      "headers": [
+       "be pregnant （直接说法）怀孕了",
+       "conceive (a baby) (医生的说法) 怀孕（妊娠）",
+       "be in a family way 有喜了",
+       "be knitting a tiny garment 怀孕了（正在织一件小衣服）"
+      ],
+      "rows": [
+       [
+        "I think you should be pregnant. 我想你应该是怀上了。"
+       ],
+       [
+        "Women, he says, should give up alcohol before they plan to conceive. 他说女人在计划怀孕前应该戒酒。"
+       ],
+       [
+        "Mary's mother is in a family way. 玛丽的母亲有喜了。"
+       ],
+       [
+        "She is knitting a tiny garment. 她怀孕了"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "…, for then man was faced with a real need to understand something about the seasons ."
+    },
+    {
+     "text": "After buying a new chain I was faced with the insurmountable task of putting the confusing jigsaw puzzle together again ."
+    },
+    {
+     "text": "So, faced with the Danish advance, Alfred did not risk open battle but harried the enemy ."
+    },
+    {
+     "table": {
+      "headers": [
+       "be confronted with … 面临，遭遇"
+      ],
+      "rows": [
+       [
+        "…, for it is impossible to foretell the exact nature of the difficulties which will confront the potholer . …, and no father is confronted with his inability to 'buy' an education for his child ."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "It is one of the most pressing problems facing this country. 它是该国面临的最紧迫的问题之一。"
+    },
+    {
+     "text": "Opposition party leaders are now pressing for the entire election to be annulled. 反对党领袖们现在正在迫切要求宣布整个选举无效。"
+    },
+    {
+     "text": "I have more pressing things to attend to. 我有更紧迫的事情要做。"
+    },
+    {
+     "text": "These questions have never seemed more pressing. 这些问题似乎从未像现在这样紧迫。"
+    },
+    {
+     "text": "a pressing need for housing"
+    },
+    {
+     "text": "Poverty is a more pressing problem than pollution."
+    },
+    {
+     "table": {
+      "headers": [
+       "pressing problem 紧迫的问题",
+       "pressing matter 紧急事情",
+       "pressing need 迫切需要"
+      ],
+      "rows": [
+       [
+        "Climate change is a pressing problem that requires immediate action. 气候变化是一个需要立即采取行动的紧迫问题。"
+       ],
+       [
+        "The board meeting was postponed due to a more pressing matter. 董事会会议因一个更紧迫的事项而推迟。"
+       ],
+       [
+        "There is a pressing need for improved healthcare in rural areas. 乡村地区迫切需要改善医疗保健。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "If, at the time, the British had not feared invasion, it would have been completed ."
+    },
+    {
+     "text": "If there had not been a hard layer of rock beneath the soil, they would have completed the job in a few hours ."
+    },
+    {
+     "text": "It has been estimated that if the bridge were packed with cars, it would still only be carrying a third of its total capacity ."
+    },
+    {
+     "text": "There is no doubt that if she had not lost her rudder she would have won the race easily ."
+    },
+    {
+     "text": "I tried to slip up the stairs unnoticed."
+    },
+    {
+     "table": {
+      "headers": [
+       "go unnoticed 未被察觉的，不为人知的",
+       "pass unnoticed 不被注意到"
+      ],
+      "rows": [
+       [
+        "The event went unnoticed. The Ombudsman's prompt action at once put an end to an unpleasant practice which might have gone unnoticed ."
+       ],
+       [
+        "Her death passed unnoticed. I cannot let this brutality go / pass unnoticed. 我不能让这种暴行不了了之。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "...families in terrible circumstances, who have stayed together against all odds. …状况糟糕的家庭，似乎不可能维持下去，却仍然住在一起。"
+    },
+    {
+     "text": "He reckons the odds are against the plan going ahead. 他认为该计划不太可能进行下去。"
+    },
+    {
+     "table": {
+      "headers": [
+       "struggle / fight / battle against the odds 与困难作斗争",
+       "beat / overcome the odds 克服困难",
+       "against (all) the odds 尽管困难重重"
+      ],
+      "rows": [
+       [
+        "The hospital's director has been battling against the odds to improve patient care."
+       ],
+       [
+        "The South Africans overcame the odds to beat Australia."
+       ],
+       [
+        "Against all the odds she achieved her dream of becoming a ballerina."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Computers have radically changed our lives."
+    },
+    {
+     "text": "Relativity and quantum mechanics have radically altered our picture of nature."
+    },
+    {
+     "text": "radical changes in education 教育的根本变化"
+    },
+    {
+     "text": "Four days after setting out, while the Titanic was sailing across the icy waters of the North Atlantic, a huge iceberg was suddenly spotted by a look-out ."
+    },
+    {
+     "text": "A man who had broken his right leg was taken to hospital a few weeks before Christmas ."
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "结果",
-   "lines": [
-    "Television cameras and newspapers carried the news to everyone in the country. carry v. to publish or broadcast a news story 刊登，播出（新闻报道等） When Beijing won to right to host the 2008 Olympic Games , Television cameras and newspapers carried the news to everyone in the world. 当北京赢得了 2008 年奥林匹克运动会主办权的时候，电视摄像机和报纸把这一消息传遍了全世界。 Newspapers and magazines offered the family huge sums for the exclusive rights to publish stories and photographs. exclusive adj. available or belonging only to particular people, and not shared 独家的，独享的 Gifts poured in not only from unknown people, but from baby food and soap manufaturers who wished to advertise their products . pour in 涌入（“水”涌入的派生意义） advertise a product 宣传产品 The old farmhouse the family lived in was to be replaced by a new ＄500, 000 home. be replaced by 被…所取代、代替 Reporters kept pressing for interviews so lawyers had to be employed to act as spokesmen for the family at press conferences. press (sb.) for sth. 迫切要求，一再敦促 act as … 临时担任某种工作 act as if 假装、好像、伪装、行为象什么一样 act as = serve as / function as / be used as … 当做…来使用 press conference 记者招待会 While the five babies were still quietly sleeping in oxygen tents in a hospital nursery, their parents were paying the price for fame . oxygen tent n. a clear covering put over the head and upper body of an ill person to provide oxygen to help them breathe 氧气帐，氧幕 nursery n. a room in a hospital where babies that have just been born are looked after 医院的婴儿室 pay the price for sth. 为某事付出代价 It would never again be possible for them to lead normal lives. lead / live a … life 过着...的生活 They had become the victims of commercialization, for their names had acquired a market value. be / become the victim of … 成为了...的受害者 commercialization n. 商业化 commercialize / commercialise vt. [usually passive] to be more concerned with making money from sth. than about its quality, used to show disapproval 使商业化 market value n. the value of a product, building etc. based on the price that people are willing to pay for it, rather than the cost of producing it or building it 市场价值 Instead of being five new family members, these children had immediately become a commodity. instead of …, … 本该…， 却…",
-    "All the papers carried the story the next day.",
-    "Several papers carry the photograph of Mr. Anderson. 好几家报纸都刊登了安德森先生的照片。",
-    "Our group will have exclusive use of a 60-foot boat. 我们组将有一条专用的60英尺的船。",
-    "He told the magazine in an exclusive interview: \"All my problems stem from drinking.\" 他在一次独家采访中告知那家杂志：“我所有的问题源于饮酒。”",
-    "Some papers thought they had an exclusive. 一些报社以为他们有一条独家报道。",
-    "exclusive rights 独占权，专有权，排他性权利 They have exclusive rights to market the drug in Africa.",
-    "exclusive access 独占式访问 The hotel has exclusive access to the beach. 这家旅馆有通向海滩的专用通道。",
-    "exclusive use 专用 The road is for the exclusive use of residents.",
-    "exclusive report / coverage / interview 独家报道、采访 Tune in to our exclusive coverage of Wimbledon.",
-    "be exclusive to … 专属于... This offer is exclusive to readers of The Sun.",
-    "Letters of complaints poured in.",
-    "Donations poured in for the earthquake victims in China.",
-    "pour into … / out of … 涌入、涌出 Crowds poured into / out of the stadium.",
-    "The company spent millions to advertise their new product. 公司花费了数百万来宣传他们的新产品。",
-    "It gives the merchant a wider market in which to advertise a product or service.它使商家更广泛的市场，宣传产品或服务。",
-    "Slogan: a phrase used to advertise a product, a company or an organization. 广告口号：一个用以推销商品跟公司、机构的短语、短句。",
-    "promote a product 推销产品 They used social media influencers to promote the product. 他们使用社交媒体影响者来推销产品。",
-    "develop a product 开发产品 The team spent two years developing the new software product. 团队花了两年时间开发新软件产品。",
-    "launch a product 推出新产品 The company plans to launch the new product next month. 公司计划下个月推出新产品。",
-    "He was replaced by Lt. Frank Fraser. 他由弗兰克•弗雷泽少尉来取代。",
-    "The mist had been replaced by a kind of haze that seemed to amplify the heat. 这薄雾已经被一种热汽代替了，这似乎加重了炎热的程度。",
-    "The deathly pallor of her skin had been replaced by the faintest flush of colour. 她皮肤死一般的苍白已被极微弱的一点颜色所取代。",
-    "Reporters pressed (him) for an explanation.",
-    "I pressed (him) for his consent to our marriage.",
-    "be pressed for sth. 缺乏… I'm really pressed for time / money / cash / space at the moment.",
-    "be pressed for time 时间紧迫 She was pressed for time and couldn't finish the report. 她时间紧迫，无法完成报告。",
-    "be pressed for money 缺钱，财务紧张 They are pressed for money due to unexpected medical bills. 由于意外的医疗费用，他们缺钱。",
-    "be pressed for cash 手头紧（缺少现金） I'm a bit pressed for cash until my next paycheck. 我到下次发工资前手头有点紧。",
-    "be pressed for space 空间紧张 The office is pressed for space, so we need to find a larger location. 办公室空间紧张，我们需要找一个更大的地方。",
-    "The box acts as a seat. 主动",
-    "My brother speaks French — he can acts as interpreter. 被动(人做主语)",
-    "Alfred the Great acted as his own spy, visiting Danish camps disguised as a minstrel .",
-    "Gesticulating wildly, the man acted as if he found my offer outrageous, but he eventually reduced the price to £10 .",
-    "He acted as if he had never lived in England before .",
-    "The sofa will serve as a bed for a night or two. 沙发可以当床凑合一两夜。",
-    "A typical PDA can function as a mobile phone and a personal organizer. 一部典型的个人数字助理可以兼具手机和个人记事簿功能。",
-    "Art may be used as a vehicle for propaganda. 艺术可以用作宣传的工具。",
-    "serve as … 充当，担任 This room serves as a guest bedroom and a study. 这个房间既可以当做客房，也可以用作书房。",
-    "function as … 功能、作用 The device functions as both a phone and a camera. 这个设备既可以当做电话，也可以用作相机。",
-    "be used as … 用途 The basement is used as a storage space. 地下室被用作储物空间。",
-    "She gave her reaction to his release at a press conference. 她在一次新闻发布会上就他的释放做出了回应。",
-    "The press conference was a complete shambles. 记者招待会一片混乱。",
-    "The President will be giving a press conference this afternoon. 总统今天下午将举行记者招待会。",
-    "Meanwhile, he's got a hospital full of patients in oxygen tents that need mitral valve replacement, and he said, 'You can't wait on this. 在这同时呢，医院吸氧室里挤满了患者，他们需要替换冠状瓣膜。于是他说，你们不能再等了。",
-    "He has painted murals in his children's nursery. 他在他家的育儿室画上了壁画。",
-    "It's been made into a nursery for thee. 它已经变成了你的育儿室。",
-    "The babies were bawling in the nursery. 托儿所的婴儿都在啼哭。",
-    "Being recognized wherever you go is the price you pay for being famous.",
-    "Pollution is the price we pay for an overpopulated, over industrialized planet.",
-    "be a small price to pay for … 对于某来说不算什么(付出一个小小的代价) Giving up his job was a small price to pay for his children's happiness.",
-    "be a high price to pay for … 对于某事不值得(付出一个高昂的代价) Loneliness is a high price to pay for independence in your old age.",
-    "They can be friendly and affectionate towards humans, but they lead mysterious lives of their own as well .",
-    "Only when he saw that the man was actually telephoning the police did he realize that they had all been the victims of a hoax .",
-    "A man without an education, many of us believe, is an unfortunate victim of adverse circumstances, deprived of one of the greatest twentieth-century opportunities .",
-    "When experts cite possible harm from the commercialization of laser enrichment, they often point to Iran. 当专家列举激光浓缩商业化可能带来的危害时，他们常常指向伊朗。",
-    "There are three dozen universities in the UK which are actively engaged in advanced research training and commercialization work. 在英国，有36所大学积极从事高级研究培训和商业化工作。",
-    "These roads made possible a reduction in transportation costs and thus stimulated the commercialization of agriculture along their routes. 这些道路使得运输成本能够降低，从而刺激了沿线农业的商业化。",
-    "Christmas has become so commercialized.",
-    "He must sell the house for the current market value. 他必须按照目前的市场价格出售这套房子。",
-    "The house now has a market value of one million pounds. 这栋房子目前的市场价值为100万英镑。",
-    "Unmodernized property can sell for up to 40 percent of its modernized market value. 未经现代化改造的房地产售价至多是其现代化改造后市价的40%。",
-    "Instead of becoming a doctor, however, he became a successful writer of detective stories ."
+   "parts": [
+    {
+     "text": "Television cameras and newspapers carried the news to everyone in the country. carry v. to publish or broadcast a news story 刊登，播出（新闻报道等） When Beijing won to right to host the 2008 Olympic Games , Television cameras and newspapers carried the news to everyone in the world. 当北京赢得了 2008 年奥林匹克运动会主办权的时候，电视摄像机和报纸把这一消息传遍了全世界。 Newspapers and magazines offered the family huge sums for the exclusive rights to publish stories and photographs. exclusive adj. available or belonging only to particular people, and not shared 独家的，独享的 Gifts poured in not only from unknown people, but from baby food and soap manufaturers who wished to advertise their products . pour in 涌入（“水”涌入的派生意义） advertise a product 宣传产品 The old farmhouse the family lived in was to be replaced by a new ＄500, 000 home. be replaced by 被…所取代、代替 Reporters kept pressing for interviews so lawyers had to be employed to act as spokesmen for the family at press conferences. press (sb.) for sth. 迫切要求，一再敦促 act as … 临时担任某种工作 act as if 假装、好像、伪装、行为象什么一样 act as = serve as / function as / be used as … 当做…来使用 press conference 记者招待会 While the five babies were still quietly sleeping in oxygen tents in a hospital nursery, their parents were paying the price for fame . oxygen tent n. a clear covering put over the head and upper body of an ill person to provide oxygen to help them breathe 氧气帐，氧幕 nursery n. a room in a hospital where babies that have just been born are looked after 医院的婴儿室 pay the price for sth. 为某事付出代价 It would never again be possible for them to lead normal lives. lead / live a … life 过着...的生活 They had become the victims of commercialization, for their names had acquired a market value. be / become the victim of … 成为了...的受害者 commercialization n. 商业化 commercialize / commercialise vt. [usually passive] to be more concerned with making money from sth. than about its quality, used to show disapproval 使商业化 market value n. the value of a product, building etc. based on the price that people are willing to pay for it, rather than the cost of producing it or building it 市场价值 Instead of being five new family members, these children had immediately become a commodity. instead of …, … 本该…， 却…"
+    },
+    {
+     "text": "All the papers carried the story the next day."
+    },
+    {
+     "text": "Several papers carry the photograph of Mr. Anderson. 好几家报纸都刊登了安德森先生的照片。"
+    },
+    {
+     "text": "Our group will have exclusive use of a 60-foot boat. 我们组将有一条专用的60英尺的船。"
+    },
+    {
+     "text": "He told the magazine in an exclusive interview: \"All my problems stem from drinking.\" 他在一次独家采访中告知那家杂志：“我所有的问题源于饮酒。”"
+    },
+    {
+     "text": "Some papers thought they had an exclusive. 一些报社以为他们有一条独家报道。"
+    },
+    {
+     "table": {
+      "headers": [
+       "exclusive rights 独占权，专有权，排他性权利",
+       "exclusive access 独占式访问",
+       "exclusive use 专用",
+       "exclusive report / coverage / interview 独家报道、采访",
+       "be exclusive to … 专属于..."
+      ],
+      "rows": [
+       [
+        "They have exclusive rights to market the drug in Africa."
+       ],
+       [
+        "The hotel has exclusive access to the beach. 这家旅馆有通向海滩的专用通道。"
+       ],
+       [
+        "The road is for the exclusive use of residents."
+       ],
+       [
+        "Tune in to our exclusive coverage of Wimbledon."
+       ],
+       [
+        "This offer is exclusive to readers of The Sun."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Letters of complaints poured in."
+    },
+    {
+     "text": "Donations poured in for the earthquake victims in China."
+    },
+    {
+     "table": {
+      "headers": [
+       "pour into … / out of … 涌入、涌出"
+      ],
+      "rows": [
+       [
+        "Crowds poured into / out of the stadium."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The company spent millions to advertise their new product. 公司花费了数百万来宣传他们的新产品。"
+    },
+    {
+     "text": "It gives the merchant a wider market in which to advertise a product or service.它使商家更广泛的市场，宣传产品或服务。"
+    },
+    {
+     "text": "Slogan: a phrase used to advertise a product, a company or an organization. 广告口号：一个用以推销商品跟公司、机构的短语、短句。"
+    },
+    {
+     "table": {
+      "headers": [
+       "promote a product 推销产品",
+       "develop a product 开发产品",
+       "launch a product 推出新产品"
+      ],
+      "rows": [
+       [
+        "They used social media influencers to promote the product. 他们使用社交媒体影响者来推销产品。"
+       ],
+       [
+        "The team spent two years developing the new software product. 团队花了两年时间开发新软件产品。"
+       ],
+       [
+        "The company plans to launch the new product next month. 公司计划下个月推出新产品。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "He was replaced by Lt. Frank Fraser. 他由弗兰克•弗雷泽少尉来取代。"
+    },
+    {
+     "text": "The mist had been replaced by a kind of haze that seemed to amplify the heat. 这薄雾已经被一种热汽代替了，这似乎加重了炎热的程度。"
+    },
+    {
+     "text": "The deathly pallor of her skin had been replaced by the faintest flush of colour. 她皮肤死一般的苍白已被极微弱的一点颜色所取代。"
+    },
+    {
+     "text": "Reporters pressed (him) for an explanation."
+    },
+    {
+     "text": "I pressed (him) for his consent to our marriage."
+    },
+    {
+     "table": {
+      "headers": [
+       "be pressed for sth. 缺乏…",
+       "be pressed for time 时间紧迫",
+       "be pressed for money 缺钱，财务紧张",
+       "be pressed for cash 手头紧（缺少现金）",
+       "be pressed for space 空间紧张"
+      ],
+      "rows": [
+       [
+        "I'm really pressed for time / money / cash / space at the moment."
+       ],
+       [
+        "She was pressed for time and couldn't finish the report. 她时间紧迫，无法完成报告。"
+       ],
+       [
+        "They are pressed for money due to unexpected medical bills. 由于意外的医疗费用，他们缺钱。"
+       ],
+       [
+        "I'm a bit pressed for cash until my next paycheck. 我到下次发工资前手头有点紧。"
+       ],
+       [
+        "The office is pressed for space, so we need to find a larger location. 办公室空间紧张，我们需要找一个更大的地方。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The box acts as a seat. 主动"
+    },
+    {
+     "text": "My brother speaks French — he can acts as interpreter. 被动(人做主语)"
+    },
+    {
+     "text": "Alfred the Great acted as his own spy, visiting Danish camps disguised as a minstrel ."
+    },
+    {
+     "text": "Gesticulating wildly, the man acted as if he found my offer outrageous, but he eventually reduced the price to £10 ."
+    },
+    {
+     "text": "He acted as if he had never lived in England before ."
+    },
+    {
+     "text": "The sofa will serve as a bed for a night or two. 沙发可以当床凑合一两夜。"
+    },
+    {
+     "text": "A typical PDA can function as a mobile phone and a personal organizer. 一部典型的个人数字助理可以兼具手机和个人记事簿功能。"
+    },
+    {
+     "text": "Art may be used as a vehicle for propaganda. 艺术可以用作宣传的工具。"
+    },
+    {
+     "table": {
+      "headers": [
+       "serve as … 充当，担任",
+       "function as … 功能、作用",
+       "be used as … 用途"
+      ],
+      "rows": [
+       [
+        "This room serves as a guest bedroom and a study. 这个房间既可以当做客房，也可以用作书房。"
+       ],
+       [
+        "The device functions as both a phone and a camera. 这个设备既可以当做电话，也可以用作相机。"
+       ],
+       [
+        "The basement is used as a storage space. 地下室被用作储物空间。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "She gave her reaction to his release at a press conference. 她在一次新闻发布会上就他的释放做出了回应。"
+    },
+    {
+     "text": "The press conference was a complete shambles. 记者招待会一片混乱。"
+    },
+    {
+     "text": "The President will be giving a press conference this afternoon. 总统今天下午将举行记者招待会。"
+    },
+    {
+     "text": "Meanwhile, he's got a hospital full of patients in oxygen tents that need mitral valve replacement, and he said, 'You can't wait on this. 在这同时呢，医院吸氧室里挤满了患者，他们需要替换冠状瓣膜。于是他说，你们不能再等了。"
+    },
+    {
+     "text": "He has painted murals in his children's nursery. 他在他家的育儿室画上了壁画。"
+    },
+    {
+     "text": "It's been made into a nursery for thee. 它已经变成了你的育儿室。"
+    },
+    {
+     "text": "The babies were bawling in the nursery. 托儿所的婴儿都在啼哭。"
+    },
+    {
+     "text": "Being recognized wherever you go is the price you pay for being famous."
+    },
+    {
+     "text": "Pollution is the price we pay for an overpopulated, over industrialized planet."
+    },
+    {
+     "table": {
+      "headers": [
+       "be a small price to pay for … 对于某来说不算什么(付出一个小小的代价)",
+       "be a high price to pay for … 对于某事不值得(付出一个高昂的代价)"
+      ],
+      "rows": [
+       [
+        "Giving up his job was a small price to pay for his children's happiness."
+       ],
+       [
+        "Loneliness is a high price to pay for independence in your old age."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "They can be friendly and affectionate towards humans, but they lead mysterious lives of their own as well ."
+    },
+    {
+     "text": "Only when he saw that the man was actually telephoning the police did he realize that they had all been the victims of a hoax ."
+    },
+    {
+     "text": "A man without an education, many of us believe, is an unfortunate victim of adverse circumstances, deprived of one of the greatest twentieth-century opportunities ."
+    },
+    {
+     "text": "When experts cite possible harm from the commercialization of laser enrichment, they often point to Iran. 当专家列举激光浓缩商业化可能带来的危害时，他们常常指向伊朗。"
+    },
+    {
+     "text": "There are three dozen universities in the UK which are actively engaged in advanced research training and commercialization work. 在英国，有36所大学积极从事高级研究培训和商业化工作。"
+    },
+    {
+     "text": "These roads made possible a reduction in transportation costs and thus stimulated the commercialization of agriculture along their routes. 这些道路使得运输成本能够降低，从而刺激了沿线农业的商业化。"
+    },
+    {
+     "text": "Christmas has become so commercialized."
+    },
+    {
+     "text": "He must sell the house for the current market value. 他必须按照目前的市场价格出售这套房子。"
+    },
+    {
+     "text": "The house now has a market value of one million pounds. 这栋房子目前的市场价值为100万英镑。"
+    },
+    {
+     "text": "Unmodernized property can sell for up to 40 percent of its modernized market value. 未经现代化改造的房地产售价至多是其现代化改造后市价的40%。"
+    },
+    {
+     "text": "Instead of becoming a doctor, however, he became a successful writer of detective stories ."
+    }
    ]
   }
  ]

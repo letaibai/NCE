@@ -2,36 +2,181 @@
  "grammar": [
   {
    "title": "动名词",
-   "lines": [
-    "动名词(doing)可以做主语、宾语、介词宾语等 特殊的介词 to 部分 动宾 to 做介词接动词原型 动名词还可以用于“动词 + 介词”之后 believe in 信任,信仰 accuse sb. of doing sth. 因某事控告某人 在 love，like，prefer 等动词后 用不定式和动名词意义有所区别",
-    "doing 做主语 Washing the car made me tired. Fishing is my favourite sport.",
-    "doing 做宾语(介词后) 介宾短语：在所有的介词后doing都可以做宾语。 I often fish for hours without catching anything. Before leaving the office, he gave me a book. I am very keen on cycling. He sat there without saying anything. 他坐在那里, 一言不发 That’s no excuse for not mending the chair! 这不是你不修椅子的借口！",
-    "介词 朝着某一个“方向” go to school",
-    "介词 接名词(包括了doing动名词)、代词 → 介宾 I am looking forward to seeing him tomorrow. I am accustomed to getting up early. 熟悉某事：习惯于某种情况或行为。 等于 I am used to getting up early. 习惯于",
-    "不定式 “目的”做某事 I'm coming to see you.",
-    "表示“目的”用 to do (接动词原型) 动词不定式在英语中具有多种用法和作用，可以根据句子结构和上下文来判断它的具体含义。",
-    "start / begin / continue ... 接 doing 与 to do意思 相同1 。 The men started to run through the trees. = The men started running through the trees.",
-    "love/like/hate/dislike 接 doing 与 to do 意思 不同2 (总是与偶尔的区别) 。 I hate to disturb you, but can I come in? (只讨厌这一次) I hate disturbing people when they are busy. (总是讨厌)",
-    "need doing 主动表示 被动3 The strap broke and it needs mending.",
-    "look forward to doing sth. 期待、盼望做某事 I am looking forward to seeing him tomorrow.",
-    "be accustomed to doing sth. 习惯于做某事 I am accustomed to getting up early. 我习惯早起.",
-    "be used to doing sth. 习惯做某事 I am used to getting up early. 我习惯早起.",
-    "used to do 过去常常做(但现在不做了) I used to get up early but I don't anymore. 我过去常早起, 但现在不再早起了。",
-    "devote to doing sth. 奉献给某事, 把…奉献给… devote oneself to doing sth. (全身心投入做某事)",
-    "You have to devote to volunteering. 你必须投身于志愿活动。 But until that day comes, we must devote major chunks of our precious time to doing our laundry. 但只要这一天不到，我们就还得把大量宝贵的时间用在洗衣上。 She devotes herself to teaching. My mother devotes herself to doing homework.",
-    "object to doing sth. 反对做某事 get/be tired of doing sth. 对…厌烦, 作为系动词 get 可与be 替换",
-    "I object to eating out. 我反对在外面吃饭 I'm somewhat tired of working here.我有点厌倦在这里工作了。",
-    "believe in + sb. 表示信任某人,信仰某人 Jasper White is one of those rare people who believes in ancient myths .",
-    "believe in + doing sth. 表示我的信条是... I belive in taking it easy. （take it easy 轻松,放松,慢慢来）",
-    "The police accused him of stealing. 警方控告他犯有盗窃罪.",
-    "hate,love,like+doing sth. 表示一种习惯(always) I hate to do sth.… 不喜欢…",
-    "hate,love,like+to do sth. 表示某一次性的行为(now) I hate to say I have no money , but I really need some. 说明这个人要向你借钱了 I hate to say but I really have something important to do.",
-    "would love /like to do sth. 表示想要, 习惯于在前面加 would Would you like to…? 而不会用 “Do you like…?” 他只关心你现在想吃什么,而不管你平常吃什么。",
-    "prefer…to…结构中只能用动名词 Why don’t you drive to work instead of walking? 你想拒绝别人的邀请时可用的句型 I prefer walking to driving.",
-    "在 start，begin，continue 等后面 I began to learn/learning English two years ago. 可以用不定式又可以用动名词,区别不大",
-    "在 need，want 之后，动名词形式具有被动的含义，相当于被动的不定式,如果以物体做主语，可以直接加动词-ing，表达被动的含义：",
-    "My shirt is torn. It needs mending. 我的衬衫撕破了, 需要缝补.",
-    "Those windows are dirty. They want washing. 那些窗户很脏, 需要洗刷."
+   "parts": [
+    {
+     "text": "动名词(doing)可以做主语、宾语、介词宾语等 特殊的介词 to 部分 动宾 to 做介词接动词原型 动名词还可以用于“动词 + 介词”之后 believe in 信任,信仰 accuse sb. of doing sth. 因某事控告某人 在 love，like，prefer 等动词后 用不定式和动名词意义有所区别"
+    },
+    {
+     "table": {
+      "headers": [
+       "doing 做主语",
+       "doing 做宾语(介词后) 介宾短语：在所有的介词后doing都可以做宾语。"
+      ],
+      "rows": [
+       [
+        "Washing the car made me tired. Fishing is my favourite sport."
+       ],
+       [
+        "I often fish for hours without catching anything. Before leaving the office, he gave me a book. I am very keen on cycling. He sat there without saying anything. 他坐在那里, 一言不发 That’s no excuse for not mending the chair! 这不是你不修椅子的借口！"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "介词 朝着某一个“方向”",
+       "介词 接名词(包括了doing动名词)、代词 → 介宾",
+       "不定式 “目的”做某事",
+       "表示“目的”用 to do (接动词原型)"
+      ],
+      "rows": [
+       [
+        "go to school"
+       ],
+       [
+        "I am looking forward to seeing him tomorrow. I am accustomed to getting up early. 熟悉某事：习惯于某种情况或行为。 等于 I am used to getting up early. 习惯于"
+       ],
+       [
+        "I'm coming to see you."
+       ],
+       [
+        "动词不定式在英语中具有多种用法和作用，可以根据句子结构和上下文来判断它的具体含义。"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "start / begin / continue ...",
+       "love/like/hate/dislike",
+       "need doing"
+      ],
+      "rows": [
+       [
+        "接 doing 与 to do意思 相同1 。",
+        "The men started to run through the trees. = The men started running through the trees."
+       ],
+       [
+        "接 doing 与 to do 意思 不同2 (总是与偶尔的区别) 。",
+        "I hate to disturb you, but can I come in? (只讨厌这一次) I hate disturbing people when they are busy. (总是讨厌)"
+       ],
+       [
+        "主动表示 被动3",
+        "The strap broke and it needs mending."
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "look forward to doing sth. 期待、盼望做某事",
+       "be accustomed to doing sth. 习惯于做某事",
+       "be used to doing sth. 习惯做某事",
+       "used to do 过去常常做(但现在不做了)"
+      ],
+      "rows": [
+       [
+        "I am looking forward to seeing him tomorrow."
+       ],
+       [
+        "I am accustomed to getting up early. 我习惯早起."
+       ],
+       [
+        "I am used to getting up early. 我习惯早起."
+       ],
+       [
+        "I used to get up early but I don't anymore. 我过去常早起, 但现在不再早起了。"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "devote to doing sth. 奉献给某事, 把…奉献给…",
+       "devote oneself to doing sth. (全身心投入做某事)"
+      ],
+      "rows": [
+       [
+        "You have to devote to volunteering. 你必须投身于志愿活动。 But until that day comes, we must devote major chunks of our precious time to doing our laundry. 但只要这一天不到，我们就还得把大量宝贵的时间用在洗衣上。",
+        "She devotes herself to teaching. My mother devotes herself to doing homework."
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "object to doing sth. 反对做某事",
+       "get/be tired of doing sth. 对…厌烦, 作为系动词 get 可与be 替换"
+      ],
+      "rows": [
+       [
+        "I object to eating out. 我反对在外面吃饭",
+        "I'm somewhat tired of working here.我有点厌倦在这里工作了。"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "believe in + sb. 表示信任某人,信仰某人",
+       "believe in + doing sth. 表示我的信条是..."
+      ],
+      "rows": [
+       [
+        "Jasper White is one of those rare people who believes in ancient myths ."
+       ],
+       [
+        "I belive in taking it easy. （take it easy 轻松,放松,慢慢来）"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The police accused him of stealing. 警方控告他犯有盗窃罪."
+    },
+    {
+     "table": {
+      "headers": [
+       "hate,love,like+doing sth. 表示一种习惯(always)",
+       "hate,love,like+to do sth. 表示某一次性的行为(now)",
+       "would love /like to do sth. 表示想要, 习惯于在前面加 would",
+       "prefer…to…结构中只能用动名词",
+       "在 start，begin，continue 等后面"
+      ],
+      "rows": [
+       [
+        "I hate to do sth.… 不喜欢…"
+       ],
+       [
+        "I hate to say I have no money , but I really need some. 说明这个人要向你借钱了 I hate to say but I really have something important to do."
+       ],
+       [
+        "Would you like to…? 而不会用 “Do you like…?” 他只关心你现在想吃什么,而不管你平常吃什么。"
+       ],
+       [
+        "Why don’t you drive to work instead of walking? 你想拒绝别人的邀请时可用的句型 I prefer walking to driving."
+       ],
+       [
+        "I began to learn/learning English two years ago. 可以用不定式又可以用动名词,区别不大"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "在 need，want 之后，动名词形式具有被动的含义，相当于被动的不定式,如果以物体做主语，可以直接加动词-ing，表达被动的含义："
+    },
+    {
+     "text": "My shirt is torn. It needs mending. 我的衬衫撕破了, 需要缝补."
+    },
+    {
+     "text": "Those windows are dirty. They want washing. 那些窗户很脏, 需要洗刷."
+    }
    ]
   }
  ],

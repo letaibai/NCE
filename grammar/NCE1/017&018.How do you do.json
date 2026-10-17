@@ -2,62 +2,200 @@
  "grammar": [
   {
    "title": "复数巩固",
-   "lines": [
-    "规则名词 (复习) 不规则（单独记忆）",
-    "一般情况 + s：books jobs",
-    "以s、x、sh、ch结尾 + es：bu s es, bo x es, bru sh es, ben ch es",
-    "辅音 + o 结尾 + es：potatoes §",
-    "以f、fe 结尾变为 v + es：wi fe → wi v es, lea f → lea v es",
-    "以辅音 + y 结尾变为 i + es：bab y → bab i es （boy不是辅音+y结尾 → boys）",
-    "man → men",
-    "woman → women",
-    "foot → feet",
-    "tooth → teeth",
-    "child → children",
-    "sheep → sheep (单复同形)",
-    "fish → fish (单复同形)",
-    "单数名词 + is… 复数名词 + are…",
-    "This assistant is busy. Her feet are here.",
-    "My hair is black. The men are keyboard operator s .",
-    "Your book is interesting. The children are in the classroom."
+   "parts": [
+    {
+     "text": "规则名词 (复习) 不规则（单独记忆）"
+    },
+    {
+     "text": "一般情况 + s：books jobs"
+    },
+    {
+     "text": "以s、x、sh、ch结尾 + es：bu s es, bo x es, bru sh es, ben ch es"
+    },
+    {
+     "text": "辅音 + o 结尾 + es：potatoes §"
+    },
+    {
+     "text": "以f、fe 结尾变为 v + es：wi fe → wi v es, lea f → lea v es"
+    },
+    {
+     "text": "以辅音 + y 结尾变为 i + es：bab y → bab i es （boy不是辅音+y结尾 → boys）"
+    },
+    {
+     "text": "man → men"
+    },
+    {
+     "text": "woman → women"
+    },
+    {
+     "text": "foot → feet"
+    },
+    {
+     "text": "tooth → teeth"
+    },
+    {
+     "text": "child → children"
+    },
+    {
+     "text": "sheep → sheep (单复同形)"
+    },
+    {
+     "text": "fish → fish (单复同形)"
+    },
+    {
+     "table": {
+      "headers": [
+       "单数名词 + is…",
+       "复数名词 + are…"
+      ],
+      "rows": [
+       [
+        "This assistant is busy.",
+        "Her feet are here."
+       ],
+       [
+        "My hair is black.",
+        "The men are keyboard operator s ."
+       ],
+       [
+        "Your book is interesting.",
+        "The children are in the classroom."
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "他们的工作是什么？",
-   "lines": [
-    "What are their jobs?",
-    "They are sales rep s .",
-    "keyboard operator s .",
-    "mechanic s .",
-    "engineer s .",
-    "hairdresser s .",
-    "teacher s .",
-    "复数 单数",
-    "Those m e n are lazy. They are sales rep s . That man is tall. He is a policeman.",
-    "Those girl s are busy. They are keyboard operator s . Look at our office assistant . He is very hard-working.",
-    "Our name s are Britt and Inge. We are Swedish. Look at Nicola. She is very pretty.",
-    "Michael Baker and Jeremy Short are employee s . They are sales rep s . Our father is good. He is an engineer."
+   "parts": [
+    {
+     "text": "What are their jobs?"
+    },
+    {
+     "table": {
+      "headers": [
+       "They are"
+      ],
+      "rows": [
+       [
+        "sales rep s ."
+       ],
+       [
+        "keyboard operator s ."
+       ],
+       [
+        "mechanic s ."
+       ],
+       [
+        "engineer s ."
+       ],
+       [
+        "hairdresser s ."
+       ],
+       [
+        "teacher s ."
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "复数",
+       "单数"
+      ],
+      "rows": [
+       [
+        "Those m e n are lazy.",
+        "They are sales rep s .",
+        "That man is tall.",
+        "He is a policeman."
+       ],
+       [
+        "Those girl s are busy.",
+        "They are keyboard operator s .",
+        "Look at our office assistant .",
+        "He is very hard-working."
+       ],
+       [
+        "Our name s are Britt and Inge.",
+        "We are Swedish.",
+        "Look at Nicola.",
+        "She is very pretty."
+       ],
+       [
+        "Michael Baker and Jeremy Short are employee s .",
+        "They are sales rep s .",
+        "Our father is good.",
+        "He is an engineer."
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "西方人先有名还是先有姓？",
-   "lines": [
-    "西方人姓氏来源 名字 + son: Peterson, Johnson, Jackson … 请在课文里找找这些名字的，猜猜和什么有关！ 自然拼读",
-    "职业： Taylor(裁缝)，Baker(面包师)…",
-    "颜色： White(白色)，Brown(棕色)…",
-    "生活： Bird (鸟)，Rice(大米)…",
-    "住址：Bridge(桥)，Hill(山)…",
-    "组合 音标 示例",
-    "aw \\ ɔ: \\ law,raw,paw,saw",
-    "au daughter,saucer",
-    "oo \\ ʊ \\ Look,book,Good,wood",
-    "\\ u: \\ Too t h,boo t ,Shoo t ,loo t",
-    "ea \\ e \\ Head,bread,Weather,dead",
-    "ee \\ i: \\ beef,feet,sleep,meet,deed,seek"
+   "parts": [
+    {
+     "text": "西方人姓氏来源 名字 + son: Peterson, Johnson, Jackson … 请在课文里找找这些名字的，猜猜和什么有关！ 自然拼读"
+    },
+    {
+     "text": "职业： Taylor(裁缝)，Baker(面包师)…"
+    },
+    {
+     "text": "颜色： White(白色)，Brown(棕色)…"
+    },
+    {
+     "text": "生活： Bird (鸟)，Rice(大米)…"
+    },
+    {
+     "text": "住址：Bridge(桥)，Hill(山)…"
+    },
+    {
+     "table": {
+      "headers": [
+       "组合",
+       "音标",
+       "示例"
+      ],
+      "rows": [
+       [
+        "aw",
+        "\\ ɔ: \\",
+        "law,raw,paw,saw"
+       ],
+       [
+        "au",
+        "daughter,saucer"
+       ],
+       [
+        "oo",
+        "\\ ʊ \\",
+        "Look,book,Good,wood"
+       ],
+       [
+        "\\ u: \\",
+        "Too t h,boo t ,Shoo t ,loo t"
+       ],
+       [
+        "ea",
+        "\\ e \\",
+        "Head,bread,Weather,dead"
+       ],
+       [
+        "ee",
+        "\\ i: \\",
+        "beef,feet,sleep,meet,deed,seek"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],

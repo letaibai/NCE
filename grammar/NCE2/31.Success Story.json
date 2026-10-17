@@ -2,30 +2,110 @@
  "grammar": [
   {
    "title": "过去进行时与一般过去时",
-   "lines": [
-    "过去进行时表示过去某个时刻或某段时间正在进行的动作，和一般过去时经常在一个句子里使用。与一般过去时相比，它更强调动作的持续性，一般过去时则表示比较短暂的动作或事件。在叙述故事时，过去进行时往往用来表示背景。 used to do (动词原型) used to do 表示过去有过但现在已不存在的习惯，以便将过去与现在形成对照。它后面经常用由 but now…，but not…any more/any longer 等构成的、用了一般现在时的句子以强调过去和现在的不同之处。",
-    "一般过去时 + 过去进行时 (一般搭配使用表过去做某一件事时另一件事发生了)",
-    "When I was watering the garden, it began to rain.(when可搭配任意的动词状态) As I was getting on the bus, I slipped and hurt my foot. (as与while只能与延续性动词搭配)",
-    "used to do (接动词原型原过去常常做某事) 用于一般过去且used为助动词",
-    "I used to smoke , but I don’t any more/longer. He used to be a postman a long time ago. He 's a taxi driver now. 很久以前他曾是个邮递员, 现在他是个出租车司机. I have given up smoking. I used to smoke very heavily. 我已经戒烟了, 过去我吸烟很厉害. I used to collect stamps when I was a boy. 当我还是个小男孩时, 我常搜集邮票. Used he to smoke ? 一般疑问句used提前 He usedn’t / used not to smoke . 否定直接在used上加not Did he use to smoke ? 使用did做助动词也行 He didn’t use to smoke . I used to be a good swimmer. 我过去游泳游得很好。 Did you really? I didn’t even know you could swim. 真的吗?我都不知道你会游泳。"
+   "parts": [
+    {
+     "text": "过去进行时表示过去某个时刻或某段时间正在进行的动作，和一般过去时经常在一个句子里使用。与一般过去时相比，它更强调动作的持续性，一般过去时则表示比较短暂的动作或事件。在叙述故事时，过去进行时往往用来表示背景。 used to do (动词原型) used to do 表示过去有过但现在已不存在的习惯，以便将过去与现在形成对照。它后面经常用由 but now…，but not…any more/any longer 等构成的、用了一般现在时的句子以强调过去和现在的不同之处。"
+    },
+    {
+     "table": {
+      "headers": [
+       "一般过去时 + 过去进行时 (一般搭配使用表过去做某一件事时另一件事发生了)"
+      ],
+      "rows": [
+       [
+        "When I was watering the garden, it began to rain.(when可搭配任意的动词状态)",
+        "As I was getting on the bus, I slipped and hurt my foot. (as与while只能与延续性动词搭配)"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "used to do (接动词原型原过去常常做某事)",
+       "用于一般过去且used为助动词"
+      ],
+      "rows": [
+       [
+        "I used to smoke , but I don’t any more/longer. He used to be a postman a long time ago. He 's a taxi driver now. 很久以前他曾是个邮递员, 现在他是个出租车司机. I have given up smoking. I used to smoke very heavily. 我已经戒烟了, 过去我吸烟很厉害. I used to collect stamps when I was a boy. 当我还是个小男孩时, 我常搜集邮票.",
+        "Used he to smoke ? 一般疑问句used提前 He usedn’t / used not to smoke . 否定直接在used上加not Did he use to smoke ? 使用did做助动词也行 He didn’t use to smoke . I used to be a good swimmer. 我过去游泳游得很好。 Did you really? I didn’t even know you could swim. 真的吗?我都不知道你会游泳。"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "it 形式主语",
-   "lines": [
-    "除了名词、代词以外不定式(to do)、动名词(doing)也可以相当于名词来用，表达为一件事。所以识别为第三人称单数。",
-    "形式主语 谓宾 真实主语 原句",
-    "It was his job to repair bicycles ... To repair bicycles was his job...",
-    "形式主语可以让我们的句子看起来更明白，将表语提前强调。当真正的主语太长时，容易头重脚轻，所以使用一个 “It”做为形式主语来代替",
-    "正常表达 形式主语",
-    "To travel around the world is my dream . 环游世界是我的梦想。(头重了) It is my dream to travel around the world .",
-    "To study English is very important. 想说一件事，以动作来开头就可以使用 to do... It is very important to study English . 学习英语很重要。",
-    "To think about the future is necessary. It is necessary (for me) to think about the future . 考虑未来是必要的。",
-    "To be here is my honor. It is my honor to be here . 我很荣幸来到这里。",
-    "原型 (do) 过去式 (did) 过去分词 (done)",
-    "become became become"
+   "parts": [
+    {
+     "text": "除了名词、代词以外不定式(to do)、动名词(doing)也可以相当于名词来用，表达为一件事。所以识别为第三人称单数。"
+    },
+    {
+     "table": {
+      "headers": [
+       "形式主语",
+       "谓宾",
+       "真实主语",
+       "原句"
+      ],
+      "rows": [
+       [
+        "It",
+        "was his job",
+        "to repair bicycles ...",
+        "To repair bicycles was his job..."
+       ],
+       [
+        "形式主语可以让我们的句子看起来更明白，将表语提前强调。当真正的主语太长时，容易头重脚轻，所以使用一个 “It”做为形式主语来代替"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "正常表达",
+       "形式主语"
+      ],
+      "rows": [
+       [
+        "To travel around the world is my dream . 环游世界是我的梦想。(头重了)",
+        "It is my dream to travel around the world ."
+       ],
+       [
+        "To study English is very important. 想说一件事，以动作来开头就可以使用 to do...",
+        "It is very important to study English . 学习英语很重要。"
+       ],
+       [
+        "To think about the future is necessary.",
+        "It is necessary (for me) to think about the future . 考虑未来是必要的。"
+       ],
+       [
+        "To be here is my honor.",
+        "It is my honor to be here . 我很荣幸来到这里。"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "原型 (do)",
+       "过去式 (did)",
+       "过去分词 (done)"
+      ],
+      "rows": [
+       [
+        "become",
+        "became",
+        "become"
+       ]
+      ]
+     }
+    }
    ]
   }
  ]

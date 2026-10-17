@@ -2,110 +2,436 @@
  "grammar": [
   {
    "title": "原因:人的生命为什么是有限的？",
-   "lines": [
-    "Normal people tend to forget this process unless and until they are reminded of it. tend to do sth. 倾向于/往往会做某事 unless and until 除非/直到 Some people believe that a society has to place its overall success before the well-being of its members to achieve prosperity, whereas others believe that the only benchmark of the well-being of a society is the general welfare of all its people. Admittedly, a society should pursue its overall success, but from my perspective this goal will never be attained unless and until the well-being of all its individual citizens is properly respected. GRE范文 be reminded of sth. 被提醒某事 We are so familiar with the fact that man ages , that people have for years assumed that the process of losing vigour with time, of becoming more likely to die the older we get , was something self-evident, like the cooling of a hot kettle or the wearing-out of a pair of shoes . (the) more ... the older 句中可省略the;越...越...（先翻译后面） self-evident (adj.) 不言而喻的/自明的 … as a hot kettle cools down or a pair of shoes wears out. 本文替换 They have also assumed that all animals, and probably other organisms such as trees, or even the universe itself, must in the nature of things ' wear out'. in the nature of things 根据事物的本性/自然而然地；必然 of a … nature 某一种类的 wear out 耗损/磨损殆尽 Most animals we commonly observe do in fact age as we do , if given the chance to live long enough; and mechanical systems like a wound watch, or the sun, do in fact run out of energy in accordance with the second law of thermodynamics (whether the whole universe does so is a moot point at present). run out of sth. ...耗尽;用完 in accordance with... 根据/与…一致 Reading is thought to be a kind of conversation between the reader and the text. The reader puts questions, as it were, to the text and gets answers. In the light of these he puts further questions, and so on.阅读真题 He explores such problem consciously, articulately, and frankly, first by asking factual questions, then by asking moral questions, finally by suggesting action which seems appropriate in the light of the factual and moral information which he has obtained. 考研英译汉 the law of thermodynamics 热力学定律 指描述能量转化和传递的三条原则。热力学第一定律（能量守恒定律）规定系统内能的变化等于系统所吸收的热量和对系统所做的功之和。热力学第二定律规定在系统内，热量不能从一个温度较低的物体传递到一个温度较高的物体，而不引起系统内其他物体的净变化；在任何不可逆过程中，熵总是增加的。热力学第三定律（内尔斯特热定理）规定在有限次数的步骤中，不可能将系统的温度降低到绝对零度。 a moot point 有争议的问题/悬而未决的问题 But these are not analogous to what happens when man ages . be analogous to 与…相似/可类比 His function is analogous to that of a judge, who must accept the obligation of revealing in as obvious a manner as possible the course of reasoning which led him to his decision. 英译汉 A run-down watch is still a watch and can be rewound . run-down (adj.) （机器）停止运转的/（人）疲惫不堪的 be rewound 被重新上发条/重新卷绕 An old watch, by contrast, becomes so worn and unreliable that it eventually is not worth mending. in / by contrast 相比之下/对照地；与此相反 be worth doing 值得... But a watch could never repair itself -- it does not consist of living parts, only of metal, which wears away by friction . repair itself 自我修复 wear away by friction 因摩擦而磨损 We could , at one time, repair ourselves --well enough, at least, to overcome all but the most instantly fatal illnesses and accidents. at one time 曾经/一度 overcome all but... 克服除…之外的所有一切 Between 12 and 80 years we gradually lose this power; an illness which at 12 would knock us over , at 80 can knock us out, and into our grave. gradually lose this power 逐渐失去这种能力 knock sb. over 使某人病倒/击倒某人 knock sb. out 击垮某人/使某人失去意识(K.O.) 与得病相关的表达 If we could stay as vigorous as we are at 12 , it would take about 700 years for half of us to die, and another 700 for the survivors to be reduced by half again. stay as vigorous as... 保持像…一样旺盛 be reduced by … 减少了…（表示减少的幅度/差额）",
-    "He tends to arrive late for meetings, so we start without him.他往往会迟到开会，所以我们不等他了。",
-    "The weather tends to be quite warm in this region during the summer.夏季该地区的天气往往相当暖和。",
-    "No credits will be awarded unless and until we receive official notification from the testing service.",
-    "The building will remain closed unless and until the safety inspection is complete.这座建筑将保持关闭，除非安全检查完成。",
-    "We will not release the funds unless and until we receive final authorization.除非我们收到最终授权，否则我们不会发放资金。",
-    "I was suddenly reminded of my appointment by a phone call.一个电话突然提醒了我我的预约。",
-    "The familiar scent reminded her of her childhood home.这熟悉的香味让她想起了她的童年故居。",
-    "I play the piano (the) better the more I practice.",
-    "The more I practice, the better I play the piano.",
-    "All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self-evident. — Arthur Schopenhauer",
-    "We hold these truths to be self-evident, that all men are created equal, that they are endowed by the Creator with certain unalienable rights, that among these are life, liberty, and the pursuit of happiness. ― Thomas Jefferson(Declaration of Independence)",
-    "It is self-evident that proper funding is necessary for the project's success.很明显，适当的资金对项目的成功是必要的。",
-    "The importance of clean water should be self-evident to everyone.清洁水的重要性对每个人来说都应该是不言而喻的。",
-    "It is in the nature of things that time wrecks all love.",
-    "It was expected, in the nature of things, that the old system would eventually fail.根据事物的本性，人们预计旧系统最终会失败。",
-    "Such mistakes happen in the nature of things when dealing with complex data.在处理复杂数据时，此类错误自然而然地会发生。",
-    "in the nature of … 具有...性质的；类似于... His speech is in the nature of an apology. The statement is in the nature of an ultimatum. The request was in the nature of a command rather than a suggestion. 这个请求带有一种命令的性质，而不是建议。",
-    "similar to … 与...相似 The new model is similar to the previous one but with better battery life. 新机型与前代相似，但电池续航时间更长。",
-    "treaties of a political nature",
-    "questions of an academic nature",
-    "It is true that during their explorations they often faced difficulties and dangers of the most perilous nature ,...",
-    "I need a new coat because my old one has completely worn out.我需要一件新外套，因为我旧的那件已经完全磨损了。",
-    "The batteries of the remote control wear out quickly with heavy use.遥控器的电池在大力使用下很快就会耗尽。",
-    "We have run out of milk, so I need to go to the store. 我们的牛奶喝光了，所以我得去趟商店。",
-    "The hikers had to stop when they suddenly ran out of energy. 徒步旅行者突然能量耗尽时不得不停下来。",
-    "Our car almost ran out of gas before we reached the next town. 在到达下一个城镇之前，我们的车几乎燃油耗尽。",
-    "use up 用完；花掉 Don't use up all the hot water; I need to take a shower. 别把热水都用光了，我还要洗澡呢。",
-    "exhaust 使精疲力竭；耗尽 The long trek exhausted our supply of clean water. 长途跋涉耗尽了我们的净水储备。",
-    "All company procedures must be executed in accordance with the safety regulations.所有公司程序必须根据安全规定执行。",
-    "The judge made the ruling in accordance with established legal precedent.法官根据既定的法律先例做出裁决。",
-    "The funeral was conducted in accordance with his final wishes. 葬礼是按照他的遗愿举行的。",
-    "in line with … 与...一致；符合 Pensions will be increased in line with inflation. The company's new policy is in line with international safety standards. 公司的新政策符合国际安全标准。",
-    "in compliance with … 遵守；符合 In compliance with your wishes, we have withdrawn our suggestion. All residents must act in compliance with the local regulations. 所有居民必须遵守当地法规。",
-    "in (the) light of … 考虑到；鉴于 It has been said that everyone lives by selling something. In the light of this statement, teachers live by selling knowledge, philosophers by selling wisdom and priests by selling spiritual comfort. We have revised our plans in light of recent economic developments. 鉴于最近的经济发展，我们修改了计划。",
-    "the first law of thermodynamics = the law of the conservation of energy",
-    "Whether the early dismissal of the CEO was legal remains a moot point.提前解雇首席执行官是否合法仍然是一个有争议的问题。",
-    "The success of the long-term strategy is a moot point until the market changes.长期战略的成功是一个未决的问题，直到市场发生变化。",
-    "It’s a moot point whether building more roads reduces traffic congestion.",
-    "be open to question / debate …尚有争议;值得商榷 It’s open to question / debate whether the new government is any better than the old one. Whether the new law will actually reduce crime is open to question. 新法律是否真的能降低犯罪率尚有争议。",
-    "Hypnotism is in a sense analogous to drunkenness.",
-    "The human brain is sometimes analogous to a highly sophisticated computer. 人类大脑有时被比作一台高度精密的计算机。",
-    "The financial crisis of 2008 was not analogous to the crash of 1929.2008 年的金融危机与 1929 年的崩盘不相似。",
-    "His problem is not analogous to yours; the circumstances are completely different.他的问题与你的不相似；情况完全不同。",
-    "be similar to … 与...相像 Your problem is very similar to the one I had last year. 你的问题和我去年遇到的非常相似。",
-    "be comparable to / with … 比得上；可与...相提并论 The threat it poses is comparable to / with smoking just one cigarette every year. The quality of this local wine is comparable to the best French vintages. 这款当地葡萄酒的品质可与最优质的法国名酒相提并论。",
-    "be akin to … 类似于；近似于 What he felt was more akin to pity than love. Taking a leap of faith is akin to jumping into the unknown without a safety net. 采取这种冒险的行动类似于在没有安全网的情况下跳入未知。",
-    "be equivalent to … 等同于；相当于 The volcanic eruption had an explosive power equivalent to 20,000 tons of TNT. Changing your mind now would be equivalent to admitting you were wrong. 你现在改变主意就等同于承认你错了。",
-    "The hospital staff were completely run-down after the intense week.医院工作人员在紧张的一周后完全疲惫不堪。",
-    "The old factory building looked very run-down.那座旧工厂大楼看起来非常破旧。",
-    "The old projector tape needs to be rewound before the next viewing.旧投影机胶带需要在下次观看前被重新卷绕。",
-    "I rewound the cassette and played her voice back to her. 他倒好磁带， 又播放了几小段录音。",
-    "Only new or rewound rotors may be used as finished goods. 只有新的或重新缠绕的转子可以作为完好产品。",
-    "The company’s profits plummeted this year. By contrast, their main competitor saw a record increase. 公司今年的利润大幅下跌。相比之下，他们的主要竞争对手却见证了创纪录的增长。",
-    "His brother is very outgoing; by contrast, he is quite reserved.他的哥哥非常外向；相比之下，他相当内向。",
-    "The north side of the island is rocky and wild; by contrast, the south side is sandy and calm.岛的北侧多岩石且荒凉；相比之下，南侧多沙且平静。",
-    "by / in comparison 相比之下 The first smartphone was revolutionary; in comparison, the newer models offer only incremental updates. 第一款智能手机是革命性的；相比之下，更新的型号只提供了微小的升级。",
-    "be worth doing 值得做 The exhibition is definitely worth visiting if you have any interest in modern art. 如果你对现代艺术感兴趣，那个展览绝对值得一去。",
-    "require / need / want doing 需要被...（主动形式表被动含义） The engine needs repairing before we can take the car on a long trip. 在我们开车长途旅行之前，发动机需要修理。",
-    "require / need / want to be done 需要被...（标准被动形式） These documents require to be signed by the manager by the end of the day. 这些文件需要经理在下班前签字。",
-    "The damage to the roof was so extensive that it was not worth mending.屋顶的损坏是如此严重，以至于不值得修理。",
-    "He concluded that the broken bicycle was not worth mending.他断定这辆坏了的自行车不值得修理。",
-    "require / need / want doing 需要被...（主动形式表达被动意义） The watch requires / needs / wants mending / to be mended . If it is not a question of resting the body, then perhaps it is the brain that needs resting? The garden needs watering, as it hasn't rained for a week. 花园需要浇水了，因为已经一周没下雨了。",
-    "require / need / want to be done 需要被...（标准被动结构） The application requires to be submitted before the deadline on Friday. 申请书需要在周五截止日期前提交。",
-    "worth doing 值得做（主动形式表达被动意义） The museum is definitely worth visiting if you are interested in history. 如果你对历史感兴趣，这个博物馆绝对值得一去。",
-    "deserve doing / to be done 值得/应受... His hard work deserves praising (or deserves to be praised) by the manager. 他的努力工作值得经理的表扬。",
-    "The human body has an amazing ability to repair itself after injury.人体在受伤后具有惊人的自我修复能力。",
-    "The new building material is designed to repair itself when small cracks appear.这种新的建筑材料设计成在出现小裂缝时可以自我修复。",
-    "The constant movement caused the rope to wear away by friction.不断的运动导致绳子因摩擦而磨损。",
-    "The stone steps were worn away by centuries of footsteps.石阶被数百年的脚步磨损。",
-    "This ancient city was at one time the capital of a vast empire.这座古老的城市曾经是一个庞大帝国的首都。",
-    "He was at one time a very successful businessman, though he is retired now.他曾经是一位非常成功的商人，尽管他现在退休了。",
-    "The athlete managed to overcome all but the final hurdle in the race.这位运动员设法克服了比赛中除最后一个障碍之外的所有一切。",
-    "The new security system is designed to overcome all but the most sophisticated attacks.新的安全系统旨在克服除了最复杂的攻击之外的所有一切。",
-    "all but adv. = almost 几乎；差不多 The research was all but forgotten. His left arm is all but useless.",
-    "The organization has been gradually losing its influence over the past decade.该组织在过去十年中一直在逐渐失去影响力。",
-    "Elderly people may gradually lose their sense of taste.老年人可能会逐渐失去他们的味觉。",
-    "A car knocked him over.",
-    "He was knocked over by fever.",
-    "The cyclist accidentally knocked a pedestrian over on the narrow path. 骑行者在狭窄的小路上不小心把一名行人撞倒了。",
-    "The severe flu knocked him over for two weeks.严重的流感使他病倒了两周。",
-    "knock sb. down 把某人撞倒/击倒 He was knocked down by a bus while crossing the street. 他在过马路时被一辆公共汽车撞倒了。",
-    "knock sth. over 把某物碰倒/打翻 The cat knocked over the vase while jumping onto the table. 猫跳上桌子时把花瓶碰倒了。",
-    "knock sth. down 拆除（建筑等）；调低（价格） The old factory is scheduled to be knocked down next month. 旧工厂定于下个月拆除。",
-    "Tyson knocked out his opponent in round 2.",
-    "He was arguing with his girlfriend and she knocked him out with a frying pan.",
-    "The three drinks knocked him out.",
-    "The intensity of the training session completely knocked the new recruits out.训练课程的强度彻底击垮了新兵。",
-    "The boxer was knocked out in the first round of the fight.这名拳击手在比赛的第一回合就被击倒了。",
-    "Luke has measles. He must have picked it up at school. I hope I don’t catch it.",
-    "have / get … 患有；得了（最常用） I think I'm getting a cold, as my throat feels sore. 我觉得我要感冒了，因为我喉咙痛。",
-    "come down with… 染上（感冒、流感等不太严重的病） Half of the class came down with the flu last week. 上周班里有一半的人都染上了流感。",
-    "catch / pick up … （无意中）染上/传染上 Children often pick up bugs (germs) at school. 孩子们经常在学校里传染上小病（病菌）。",
-    "develop … （逐渐）患上；形成（长期/慢性疾病） He developed lung cancer after smoking for thirty years. 他在抽烟三十年后患上了肺癌。",
-    "contract … 患上；感染（正式用语，常指重病） The doctor contracted pneumonia while treating patients. 这位医生在治疗病人时感染了肺炎。",
-    "The athlete manages to stay as vigorous as he was ten years ago.这位运动员设法保持得像十年前一样旺盛。",
-    "The company's mission is to stay as vigorous as a start-up, despite its size.该公司的使命是尽管规模很大，但仍保持得像一家初创企业一样旺盛。",
-    "The price of the laptop has been reduced by 20%. 这台笔记本电脑的价格降低了 20%（即打了八折）。",
-    "After the drought, the crop yield was reduced by half.干旱之后，作物产量被减少了一半。",
-    "The meeting time was reduced by half due to a late start.由于迟到，会议时间被减少了一半。",
-    "be reduced by half 减半；减少了一半 The production costs have been reduced by half since we updated the machinery. 自更新设备以来，生产成本已减少了一半。",
-    "be reduced to … 减少到…（表示减少后的最终状态） After the heavy rain, the village was reduced to ruins. 大雨过后，村庄化为一片废墟。",
-    "be reduced to doing sth. 沦为…；不得不做…（尤指陷入窘境） He lost his job and was reduced to begging in the streets. 他失业了，沦落到街头乞讨。"
+   "parts": [
+    {
+     "text": "Normal people tend to forget this process unless and until they are reminded of it. tend to do sth. 倾向于/往往会做某事 unless and until 除非/直到 Some people believe that a society has to place its overall success before the well-being of its members to achieve prosperity, whereas others believe that the only benchmark of the well-being of a society is the general welfare of all its people. Admittedly, a society should pursue its overall success, but from my perspective this goal will never be attained unless and until the well-being of all its individual citizens is properly respected. GRE范文 be reminded of sth. 被提醒某事 We are so familiar with the fact that man ages , that people have for years assumed that the process of losing vigour with time, of becoming more likely to die the older we get , was something self-evident, like the cooling of a hot kettle or the wearing-out of a pair of shoes . (the) more ... the older 句中可省略the;越...越...（先翻译后面） self-evident (adj.) 不言而喻的/自明的 … as a hot kettle cools down or a pair of shoes wears out. 本文替换 They have also assumed that all animals, and probably other organisms such as trees, or even the universe itself, must in the nature of things ' wear out'. in the nature of things 根据事物的本性/自然而然地；必然 of a … nature 某一种类的 wear out 耗损/磨损殆尽 Most animals we commonly observe do in fact age as we do , if given the chance to live long enough; and mechanical systems like a wound watch, or the sun, do in fact run out of energy in accordance with the second law of thermodynamics (whether the whole universe does so is a moot point at present). run out of sth. ...耗尽;用完 in accordance with... 根据/与…一致 Reading is thought to be a kind of conversation between the reader and the text. The reader puts questions, as it were, to the text and gets answers. In the light of these he puts further questions, and so on.阅读真题 He explores such problem consciously, articulately, and frankly, first by asking factual questions, then by asking moral questions, finally by suggesting action which seems appropriate in the light of the factual and moral information which he has obtained. 考研英译汉 the law of thermodynamics 热力学定律 指描述能量转化和传递的三条原则。热力学第一定律（能量守恒定律）规定系统内能的变化等于系统所吸收的热量和对系统所做的功之和。热力学第二定律规定在系统内，热量不能从一个温度较低的物体传递到一个温度较高的物体，而不引起系统内其他物体的净变化；在任何不可逆过程中，熵总是增加的。热力学第三定律（内尔斯特热定理）规定在有限次数的步骤中，不可能将系统的温度降低到绝对零度。 a moot point 有争议的问题/悬而未决的问题 But these are not analogous to what happens when man ages . be analogous to 与…相似/可类比 His function is analogous to that of a judge, who must accept the obligation of revealing in as obvious a manner as possible the course of reasoning which led him to his decision. 英译汉 A run-down watch is still a watch and can be rewound . run-down (adj.) （机器）停止运转的/（人）疲惫不堪的 be rewound 被重新上发条/重新卷绕 An old watch, by contrast, becomes so worn and unreliable that it eventually is not worth mending. in / by contrast 相比之下/对照地；与此相反 be worth doing 值得... But a watch could never repair itself -- it does not consist of living parts, only of metal, which wears away by friction . repair itself 自我修复 wear away by friction 因摩擦而磨损 We could , at one time, repair ourselves --well enough, at least, to overcome all but the most instantly fatal illnesses and accidents. at one time 曾经/一度 overcome all but... 克服除…之外的所有一切 Between 12 and 80 years we gradually lose this power; an illness which at 12 would knock us over , at 80 can knock us out, and into our grave. gradually lose this power 逐渐失去这种能力 knock sb. over 使某人病倒/击倒某人 knock sb. out 击垮某人/使某人失去意识(K.O.) 与得病相关的表达 If we could stay as vigorous as we are at 12 , it would take about 700 years for half of us to die, and another 700 for the survivors to be reduced by half again. stay as vigorous as... 保持像…一样旺盛 be reduced by … 减少了…（表示减少的幅度/差额）"
+    },
+    {
+     "text": "He tends to arrive late for meetings, so we start without him.他往往会迟到开会，所以我们不等他了。"
+    },
+    {
+     "text": "The weather tends to be quite warm in this region during the summer.夏季该地区的天气往往相当暖和。"
+    },
+    {
+     "text": "No credits will be awarded unless and until we receive official notification from the testing service."
+    },
+    {
+     "text": "The building will remain closed unless and until the safety inspection is complete.这座建筑将保持关闭，除非安全检查完成。"
+    },
+    {
+     "text": "We will not release the funds unless and until we receive final authorization.除非我们收到最终授权，否则我们不会发放资金。"
+    },
+    {
+     "text": "I was suddenly reminded of my appointment by a phone call.一个电话突然提醒了我我的预约。"
+    },
+    {
+     "text": "The familiar scent reminded her of her childhood home.这熟悉的香味让她想起了她的童年故居。"
+    },
+    {
+     "text": "I play the piano (the) better the more I practice."
+    },
+    {
+     "text": "The more I practice, the better I play the piano."
+    },
+    {
+     "text": "All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self-evident. — Arthur Schopenhauer"
+    },
+    {
+     "text": "We hold these truths to be self-evident, that all men are created equal, that they are endowed by the Creator with certain unalienable rights, that among these are life, liberty, and the pursuit of happiness. ― Thomas Jefferson(Declaration of Independence)"
+    },
+    {
+     "text": "It is self-evident that proper funding is necessary for the project's success.很明显，适当的资金对项目的成功是必要的。"
+    },
+    {
+     "text": "The importance of clean water should be self-evident to everyone.清洁水的重要性对每个人来说都应该是不言而喻的。"
+    },
+    {
+     "text": "It is in the nature of things that time wrecks all love."
+    },
+    {
+     "text": "It was expected, in the nature of things, that the old system would eventually fail.根据事物的本性，人们预计旧系统最终会失败。"
+    },
+    {
+     "text": "Such mistakes happen in the nature of things when dealing with complex data.在处理复杂数据时，此类错误自然而然地会发生。"
+    },
+    {
+     "table": {
+      "headers": [
+       "in the nature of … 具有...性质的；类似于...",
+       "similar to … 与...相似"
+      ],
+      "rows": [
+       [
+        "His speech is in the nature of an apology. The statement is in the nature of an ultimatum. The request was in the nature of a command rather than a suggestion. 这个请求带有一种命令的性质，而不是建议。"
+       ],
+       [
+        "The new model is similar to the previous one but with better battery life. 新机型与前代相似，但电池续航时间更长。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "treaties of a political nature"
+    },
+    {
+     "text": "questions of an academic nature"
+    },
+    {
+     "text": "It is true that during their explorations they often faced difficulties and dangers of the most perilous nature ,..."
+    },
+    {
+     "text": "I need a new coat because my old one has completely worn out.我需要一件新外套，因为我旧的那件已经完全磨损了。"
+    },
+    {
+     "text": "The batteries of the remote control wear out quickly with heavy use.遥控器的电池在大力使用下很快就会耗尽。"
+    },
+    {
+     "text": "We have run out of milk, so I need to go to the store. 我们的牛奶喝光了，所以我得去趟商店。"
+    },
+    {
+     "text": "The hikers had to stop when they suddenly ran out of energy. 徒步旅行者突然能量耗尽时不得不停下来。"
+    },
+    {
+     "text": "Our car almost ran out of gas before we reached the next town. 在到达下一个城镇之前，我们的车几乎燃油耗尽。"
+    },
+    {
+     "table": {
+      "headers": [
+       "use up 用完；花掉",
+       "exhaust 使精疲力竭；耗尽"
+      ],
+      "rows": [
+       [
+        "Don't use up all the hot water; I need to take a shower. 别把热水都用光了，我还要洗澡呢。"
+       ],
+       [
+        "The long trek exhausted our supply of clean water. 长途跋涉耗尽了我们的净水储备。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "All company procedures must be executed in accordance with the safety regulations.所有公司程序必须根据安全规定执行。"
+    },
+    {
+     "text": "The judge made the ruling in accordance with established legal precedent.法官根据既定的法律先例做出裁决。"
+    },
+    {
+     "text": "The funeral was conducted in accordance with his final wishes. 葬礼是按照他的遗愿举行的。"
+    },
+    {
+     "table": {
+      "headers": [
+       "in line with … 与...一致；符合",
+       "in compliance with … 遵守；符合",
+       "in (the) light of … 考虑到；鉴于"
+      ],
+      "rows": [
+       [
+        "Pensions will be increased in line with inflation. The company's new policy is in line with international safety standards. 公司的新政策符合国际安全标准。"
+       ],
+       [
+        "In compliance with your wishes, we have withdrawn our suggestion. All residents must act in compliance with the local regulations. 所有居民必须遵守当地法规。"
+       ],
+       [
+        "It has been said that everyone lives by selling something. In the light of this statement, teachers live by selling knowledge, philosophers by selling wisdom and priests by selling spiritual comfort. We have revised our plans in light of recent economic developments. 鉴于最近的经济发展，我们修改了计划。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "the first law of thermodynamics = the law of the conservation of energy"
+    },
+    {
+     "text": "Whether the early dismissal of the CEO was legal remains a moot point.提前解雇首席执行官是否合法仍然是一个有争议的问题。"
+    },
+    {
+     "text": "The success of the long-term strategy is a moot point until the market changes.长期战略的成功是一个未决的问题，直到市场发生变化。"
+    },
+    {
+     "text": "It’s a moot point whether building more roads reduces traffic congestion."
+    },
+    {
+     "table": {
+      "headers": [
+       "be open to question / debate …尚有争议;值得商榷"
+      ],
+      "rows": [
+       [
+        "It’s open to question / debate whether the new government is any better than the old one. Whether the new law will actually reduce crime is open to question. 新法律是否真的能降低犯罪率尚有争议。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Hypnotism is in a sense analogous to drunkenness."
+    },
+    {
+     "text": "The human brain is sometimes analogous to a highly sophisticated computer. 人类大脑有时被比作一台高度精密的计算机。"
+    },
+    {
+     "text": "The financial crisis of 2008 was not analogous to the crash of 1929.2008 年的金融危机与 1929 年的崩盘不相似。"
+    },
+    {
+     "text": "His problem is not analogous to yours; the circumstances are completely different.他的问题与你的不相似；情况完全不同。"
+    },
+    {
+     "table": {
+      "headers": [
+       "be similar to … 与...相像",
+       "be comparable to / with … 比得上；可与...相提并论",
+       "be akin to … 类似于；近似于",
+       "be equivalent to … 等同于；相当于"
+      ],
+      "rows": [
+       [
+        "Your problem is very similar to the one I had last year. 你的问题和我去年遇到的非常相似。"
+       ],
+       [
+        "The threat it poses is comparable to / with smoking just one cigarette every year. The quality of this local wine is comparable to the best French vintages. 这款当地葡萄酒的品质可与最优质的法国名酒相提并论。"
+       ],
+       [
+        "What he felt was more akin to pity than love. Taking a leap of faith is akin to jumping into the unknown without a safety net. 采取这种冒险的行动类似于在没有安全网的情况下跳入未知。"
+       ],
+       [
+        "The volcanic eruption had an explosive power equivalent to 20,000 tons of TNT. Changing your mind now would be equivalent to admitting you were wrong. 你现在改变主意就等同于承认你错了。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The hospital staff were completely run-down after the intense week.医院工作人员在紧张的一周后完全疲惫不堪。"
+    },
+    {
+     "text": "The old factory building looked very run-down.那座旧工厂大楼看起来非常破旧。"
+    },
+    {
+     "text": "The old projector tape needs to be rewound before the next viewing.旧投影机胶带需要在下次观看前被重新卷绕。"
+    },
+    {
+     "text": "I rewound the cassette and played her voice back to her. 他倒好磁带， 又播放了几小段录音。"
+    },
+    {
+     "text": "Only new or rewound rotors may be used as finished goods. 只有新的或重新缠绕的转子可以作为完好产品。"
+    },
+    {
+     "text": "The company’s profits plummeted this year. By contrast, their main competitor saw a record increase. 公司今年的利润大幅下跌。相比之下，他们的主要竞争对手却见证了创纪录的增长。"
+    },
+    {
+     "text": "His brother is very outgoing; by contrast, he is quite reserved.他的哥哥非常外向；相比之下，他相当内向。"
+    },
+    {
+     "text": "The north side of the island is rocky and wild; by contrast, the south side is sandy and calm.岛的北侧多岩石且荒凉；相比之下，南侧多沙且平静。"
+    },
+    {
+     "table": {
+      "headers": [
+       "by / in comparison 相比之下",
+       "be worth doing 值得做",
+       "require / need / want doing 需要被...（主动形式表被动含义）",
+       "require / need / want to be done 需要被...（标准被动形式）"
+      ],
+      "rows": [
+       [
+        "The first smartphone was revolutionary; in comparison, the newer models offer only incremental updates. 第一款智能手机是革命性的；相比之下，更新的型号只提供了微小的升级。"
+       ],
+       [
+        "The exhibition is definitely worth visiting if you have any interest in modern art. 如果你对现代艺术感兴趣，那个展览绝对值得一去。"
+       ],
+       [
+        "The engine needs repairing before we can take the car on a long trip. 在我们开车长途旅行之前，发动机需要修理。"
+       ],
+       [
+        "These documents require to be signed by the manager by the end of the day. 这些文件需要经理在下班前签字。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The damage to the roof was so extensive that it was not worth mending.屋顶的损坏是如此严重，以至于不值得修理。"
+    },
+    {
+     "text": "He concluded that the broken bicycle was not worth mending.他断定这辆坏了的自行车不值得修理。"
+    },
+    {
+     "table": {
+      "headers": [
+       "require / need / want doing 需要被...（主动形式表达被动意义）",
+       "require / need / want to be done 需要被...（标准被动结构）",
+       "worth doing 值得做（主动形式表达被动意义）",
+       "deserve doing / to be done 值得/应受..."
+      ],
+      "rows": [
+       [
+        "The watch requires / needs / wants mending / to be mended . If it is not a question of resting the body, then perhaps it is the brain that needs resting? The garden needs watering, as it hasn't rained for a week. 花园需要浇水了，因为已经一周没下雨了。"
+       ],
+       [
+        "The application requires to be submitted before the deadline on Friday. 申请书需要在周五截止日期前提交。"
+       ],
+       [
+        "The museum is definitely worth visiting if you are interested in history. 如果你对历史感兴趣，这个博物馆绝对值得一去。"
+       ],
+       [
+        "His hard work deserves praising (or deserves to be praised) by the manager. 他的努力工作值得经理的表扬。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The human body has an amazing ability to repair itself after injury.人体在受伤后具有惊人的自我修复能力。"
+    },
+    {
+     "text": "The new building material is designed to repair itself when small cracks appear.这种新的建筑材料设计成在出现小裂缝时可以自我修复。"
+    },
+    {
+     "text": "The constant movement caused the rope to wear away by friction.不断的运动导致绳子因摩擦而磨损。"
+    },
+    {
+     "text": "The stone steps were worn away by centuries of footsteps.石阶被数百年的脚步磨损。"
+    },
+    {
+     "text": "This ancient city was at one time the capital of a vast empire.这座古老的城市曾经是一个庞大帝国的首都。"
+    },
+    {
+     "text": "He was at one time a very successful businessman, though he is retired now.他曾经是一位非常成功的商人，尽管他现在退休了。"
+    },
+    {
+     "text": "The athlete managed to overcome all but the final hurdle in the race.这位运动员设法克服了比赛中除最后一个障碍之外的所有一切。"
+    },
+    {
+     "text": "The new security system is designed to overcome all but the most sophisticated attacks.新的安全系统旨在克服除了最复杂的攻击之外的所有一切。"
+    },
+    {
+     "table": {
+      "headers": [
+       "all but adv. = almost 几乎；差不多"
+      ],
+      "rows": [
+       [
+        "The research was all but forgotten. His left arm is all but useless."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The organization has been gradually losing its influence over the past decade.该组织在过去十年中一直在逐渐失去影响力。"
+    },
+    {
+     "text": "Elderly people may gradually lose their sense of taste.老年人可能会逐渐失去他们的味觉。"
+    },
+    {
+     "text": "A car knocked him over."
+    },
+    {
+     "text": "He was knocked over by fever."
+    },
+    {
+     "text": "The cyclist accidentally knocked a pedestrian over on the narrow path. 骑行者在狭窄的小路上不小心把一名行人撞倒了。"
+    },
+    {
+     "text": "The severe flu knocked him over for two weeks.严重的流感使他病倒了两周。"
+    },
+    {
+     "table": {
+      "headers": [
+       "knock sb. down 把某人撞倒/击倒",
+       "knock sth. over 把某物碰倒/打翻",
+       "knock sth. down 拆除（建筑等）；调低（价格）"
+      ],
+      "rows": [
+       [
+        "He was knocked down by a bus while crossing the street. 他在过马路时被一辆公共汽车撞倒了。"
+       ],
+       [
+        "The cat knocked over the vase while jumping onto the table. 猫跳上桌子时把花瓶碰倒了。"
+       ],
+       [
+        "The old factory is scheduled to be knocked down next month. 旧工厂定于下个月拆除。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Tyson knocked out his opponent in round 2."
+    },
+    {
+     "text": "He was arguing with his girlfriend and she knocked him out with a frying pan."
+    },
+    {
+     "text": "The three drinks knocked him out."
+    },
+    {
+     "text": "The intensity of the training session completely knocked the new recruits out.训练课程的强度彻底击垮了新兵。"
+    },
+    {
+     "text": "The boxer was knocked out in the first round of the fight.这名拳击手在比赛的第一回合就被击倒了。"
+    },
+    {
+     "text": "Luke has measles. He must have picked it up at school. I hope I don’t catch it."
+    },
+    {
+     "table": {
+      "headers": [
+       "have / get … 患有；得了（最常用）",
+       "come down with… 染上（感冒、流感等不太严重的病）",
+       "catch / pick up … （无意中）染上/传染上",
+       "develop … （逐渐）患上；形成（长期/慢性疾病）",
+       "contract … 患上；感染（正式用语，常指重病）"
+      ],
+      "rows": [
+       [
+        "I think I'm getting a cold, as my throat feels sore. 我觉得我要感冒了，因为我喉咙痛。"
+       ],
+       [
+        "Half of the class came down with the flu last week. 上周班里有一半的人都染上了流感。"
+       ],
+       [
+        "Children often pick up bugs (germs) at school. 孩子们经常在学校里传染上小病（病菌）。"
+       ],
+       [
+        "He developed lung cancer after smoking for thirty years. 他在抽烟三十年后患上了肺癌。"
+       ],
+       [
+        "The doctor contracted pneumonia while treating patients. 这位医生在治疗病人时感染了肺炎。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The athlete manages to stay as vigorous as he was ten years ago.这位运动员设法保持得像十年前一样旺盛。"
+    },
+    {
+     "text": "The company's mission is to stay as vigorous as a start-up, despite its size.该公司的使命是尽管规模很大，但仍保持得像一家初创企业一样旺盛。"
+    },
+    {
+     "text": "The price of the laptop has been reduced by 20%. 这台笔记本电脑的价格降低了 20%（即打了八折）。"
+    },
+    {
+     "text": "After the drought, the crop yield was reduced by half.干旱之后，作物产量被减少了一半。"
+    },
+    {
+     "text": "The meeting time was reduced by half due to a late start.由于迟到，会议时间被减少了一半。"
+    },
+    {
+     "table": {
+      "headers": [
+       "be reduced by half 减半；减少了一半",
+       "be reduced to … 减少到…（表示减少后的最终状态）",
+       "be reduced to doing sth. 沦为…；不得不做…（尤指陷入窘境）"
+      ],
+      "rows": [
+       [
+        "The production costs have been reduced by half since we updated the machinery. 自更新设备以来，生产成本已减少了一半。"
+       ],
+       [
+        "After the heavy rain, the village was reduced to ruins. 大雨过后，村庄化为一片废墟。"
+       ],
+       [
+        "He lost his job and was reduced to begging in the streets. 他失业了，沦落到街头乞讨。"
+       ]
+      ]
+     }
+    }
    ]
   }
  ]

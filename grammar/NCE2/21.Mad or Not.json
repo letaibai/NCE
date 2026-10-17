@@ -2,41 +2,152 @@
  "grammar": [
   {
    "title": "被动语态",
-   "lines": [
-    "结构：be + done 复习: 情态动词 + 动词原型 §",
-    "确定动作并找到合适的动词。 He is beaten every day. 现在",
-    "选择动词的过去分词。 He was beaten yesterday. 过去",
-    "选择be的时态(重点) He will be beaten tomorrow. 将来",
-    "选择be的单数/复数词 He is being beaten now. 正在进行",
-    "难点(当公式背下来) He has been beaten . 现在完成",
-    "may 可能(推测) He may have been told the news. 他可能已经被告知这个消息了",
-    "must 一定(推测) The shops must have been closed now. 商店现在一定已经关门了",
-    "must 必须(情态) The letter must be sent immediately. 这信必须马上寄出。",
-    "cannot 不能(情态) The weather cannot be controlled by people. 天气不能被人所控制。",
-    "Planes are heard . 飞机被听见(被动语句)",
-    "Planes can be heard . 飞机 能够 被听见(情态动词+被动语句)",
-    "Planes may be heard . 飞机 可能 被听见(情态动词+被动语句)",
-    "Planes must be heard . 飞机 必须 被听见(情态动词+被动语句)",
-    "动词 + 宾语 + 不定式 动词 + 间接宾语 + 直接宾语",
-    "Mary was told to meet us. 有人叫玛丽来接我们。 They told Mary (to) meet us. 他们叫玛丽来接我们。",
-    "A gold watch was given to Sam.萨姆得到了一块金表。 Sam was given a gold watch. 萨姆得到了一块金表。",
-    "由于间接宾语通常是人，所以间接宾语成为被动句主语的时候要多些。"
+   "parts": [
+    {
+     "text": "结构：be + done 复习: 情态动词 + 动词原型 §"
+    },
+    {
+     "table": {
+      "headers": [],
+      "rows": [
+       [
+        "确定动作并找到合适的动词。",
+        "He is beaten every day. 现在"
+       ],
+       [
+        "选择动词的过去分词。",
+        "He was beaten yesterday. 过去"
+       ],
+       [
+        "选择be的时态(重点)",
+        "He will be beaten tomorrow. 将来"
+       ],
+       [
+        "选择be的单数/复数词",
+        "He is being beaten now. 正在进行"
+       ],
+       [
+        "难点(当公式背下来)",
+        "He has been beaten . 现在完成"
+       ],
+       [
+        "may 可能(推测)",
+        "He may have been told the news. 他可能已经被告知这个消息了"
+       ],
+       [
+        "must 一定(推测)",
+        "The shops must have been closed now. 商店现在一定已经关门了"
+       ],
+       [
+        "must 必须(情态)",
+        "The letter must be sent immediately. 这信必须马上寄出。"
+       ],
+       [
+        "cannot 不能(情态)",
+        "The weather cannot be controlled by people. 天气不能被人所控制。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Planes are heard . 飞机被听见(被动语句)"
+    },
+    {
+     "text": "Planes can be heard . 飞机 能够 被听见(情态动词+被动语句)"
+    },
+    {
+     "text": "Planes may be heard . 飞机 可能 被听见(情态动词+被动语句)"
+    },
+    {
+     "text": "Planes must be heard . 飞机 必须 被听见(情态动词+被动语句)"
+    },
+    {
+     "table": {
+      "headers": [
+       "动词 + 宾语 + 不定式",
+       "动词 + 间接宾语 + 直接宾语"
+      ],
+      "rows": [
+       [
+        "Mary was told to meet us. 有人叫玛丽来接我们。",
+        "They told Mary (to) meet us. 他们叫玛丽来接我们。"
+       ],
+       [
+        "A gold watch was given to Sam.萨姆得到了一块金表。",
+        "Sam was given a gold watch. 萨姆得到了一块金表。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "由于间接宾语通常是人，所以间接宾语成为被动句主语的时候要多些。"
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "主动语态vs被动语态",
-   "lines": [
-    "注:英语中没有单独去解释“主动语态”，是因为除了“被动语态”其它的都是主动语态。 （英文中有一个“理让弱小”原因，短的在前，长的在后。一个doing的词放前面去修饰，一个长doing词组就要放到后面去修饰）",
-    "主动语态(Who) 被动语态(What) 说明",
-    "He will repair your watch . Your watch will be repaired (by him ). by him 用于强调“被谁”",
-    "They must test this new car . This new car must be tested . 主动语态强调的是动作发出者(主语)，被动语态强调的是事情，所以常常忽略了主语。",
-    "I can' t find my bag . Someone has stolen it. my bag has been stolen . 强调事是被谁做了。",
-    "doing 修饰名词通过表示主动的（作定语、非谓语动词） done 修饰名词通常表示被动的（作定语）",
-    "... passing planes can be heard night and day. passing planes 经过的飞，规定planes 是要求 passing 的。 a sleeping baby. 在睡觉的 a developing county 发展中国家 a woman wearing a white coat 穿着白色外套的女人 I am one of the few people left. (leave→left) the few people left . 被落下的人。left 理解为被落下的 used cars 被使用过的车(二手车) a deserted car park 被废弃的停车场 a ploughed field 被犁过的田地(耕地) a developed country 被发展过的国家(发达国家) wasted time 被浪费的时间 a car called Blue Bird 被叫着蓝鸟的车",
-    "原型 (do) 过去式 (did) 过去分词 (done)",
-    "hear heard heard"
+   "parts": [
+    {
+     "text": "注:英语中没有单独去解释“主动语态”，是因为除了“被动语态”其它的都是主动语态。 （英文中有一个“理让弱小”原因，短的在前，长的在后。一个doing的词放前面去修饰，一个长doing词组就要放到后面去修饰）"
+    },
+    {
+     "table": {
+      "headers": [
+       "主动语态(Who)",
+       "被动语态(What)",
+       "说明"
+      ],
+      "rows": [
+       [
+        "He will repair your watch .",
+        "Your watch will be repaired (by him ).",
+        "by him 用于强调“被谁”"
+       ],
+       [
+        "They must test this new car .",
+        "This new car must be tested .",
+        "主动语态强调的是动作发出者(主语)，被动语态强调的是事情，所以常常忽略了主语。"
+       ],
+       [
+        "I can' t find my bag . Someone has stolen it.",
+        "my bag has been stolen .",
+        "强调事是被谁做了。"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "doing 修饰名词通过表示主动的（作定语、非谓语动词）",
+       "done 修饰名词通常表示被动的（作定语）"
+      ],
+      "rows": [
+       [
+        "... passing planes can be heard night and day. passing planes 经过的飞，规定planes 是要求 passing 的。 a sleeping baby. 在睡觉的 a developing county 发展中国家 a woman wearing a white coat 穿着白色外套的女人",
+        "I am one of the few people left. (leave→left) the few people left . 被落下的人。left 理解为被落下的 used cars 被使用过的车(二手车) a deserted car park 被废弃的停车场 a ploughed field 被犁过的田地(耕地) a developed country 被发展过的国家(发达国家) wasted time 被浪费的时间 a car called Blue Bird 被叫着蓝鸟的车"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "原型 (do)",
+       "过去式 (did)",
+       "过去分词 (done)"
+      ],
+      "rows": [
+       [
+        "hear",
+        "heard",
+        "heard"
+       ]
+      ]
+     }
+    }
    ]
   }
  ]

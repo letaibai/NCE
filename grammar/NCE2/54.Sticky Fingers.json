@@ -2,29 +2,117 @@
  "grammar": [
   {
    "title": "The, Some and Any",
-   "lines": [
-    "The + 形容词（表一类共同特性的人） 有些形容词可以用于 the 之后（决不能用于 a/an 之后），表示作为整体的群体（一类），如 the blind，the deaf， the living， the dead ，the rich，the poor，the young，the old。这些形容词后要跟复数动词，不可用这些形容词本身来指个体。",
-    "some 肯定句 any 否定句或疑问句中",
-    "可用于不可数名词及复数可数名词之前，但在期待得到肯定答复的疑问句中也可以用 some，而在肯定句中表示“随便哪个，任何一个” 的含义时也可以用 any。",
-    "These are the only meat pies I have. 只有肉的馅饼 Do you want some of them? 其中的一些 Yes, please. Any meat pies will do. 任何有肉的饼",
-    "The Government always makes sure that the old are cared for. 政府总是确保老年人得到照顾。",
-    "This is a special school for the deaf. 这是一所特殊的聋哑学校",
-    "Sam is a young man with a lot of money. 萨姆是一个很有钱的年轻人（指单数个体）",
-    "指其“主要目的”，即与其相关的动作时，要用零冠词（即名词前没有冠词）",
-    "特殊名词 表目的时 特指的东西面前要用the，泛指同类事物中的任何一个时则用 a",
-    "bed go to bed 睡觉 make the bed 整理床铺",
-    "church The family had gone to church.这家人都去教堂了。 The tree was planted near the church fifty years ago ...",
-    "class He forbids any talking in class.他严禁课堂上讲话。 Paula is the star of the class.葆拉是班里的尖子。",
-    "college They're prepping for college.他们正为上大学做准备。 Her family founded the college in 1895.她的家族于1895年创办了这所学院。",
-    "hospital I had to go to hospital.我得去医院看病。 I have to go to the hospital.我得到医院去。",
-    "market How do we get this to market?那么要如何把它投入市场呢？ He likes to shop at the local market.他喜欢到本地市场买东西。",
-    "prison He had his enemies flung into prison.他把敌人投进了监狱。 The prison is opposite the law court.监狱在法院对面。",
-    "school The children went to school this morning. 抽象的动作(上学这件事) I went to the school in our village to meet my friend. 正常的去学校",
-    "sea The boats are all out at sea.船只全都出海了。 Most of the rooms face the sea.多数房间朝海。",
-    "university My daughter is at university.我女儿在上大学。 Cherny was enrolled at the University in 1945.彻尼是1945年注册上大学的。",
-    "work She started work last Monday.她上个星期一开始工作。 Usually, the work is boring.通常这种工作很乏味。",
-    "the + adj./adv. 的最高级 most of the… 大部分的…",
-    "It is the most interesting film I have ever seen. 最有趣的(the most 最) Most people enjoyed it. 大分部(most 表示“大多数”时它前面则不加 the) most of the young people 大部分年轻人 Most young men have to work hard. Most buildings in this district belong to the government."
+   "parts": [
+    {
+     "text": "The + 形容词（表一类共同特性的人） 有些形容词可以用于 the 之后（决不能用于 a/an 之后），表示作为整体的群体（一类），如 the blind，the deaf， the living， the dead ，the rich，the poor，the young，the old。这些形容词后要跟复数动词，不可用这些形容词本身来指个体。"
+    },
+    {
+     "table": {
+      "headers": [
+       "some 肯定句",
+       "any 否定句或疑问句中"
+      ],
+      "rows": [
+       [
+        "可用于不可数名词及复数可数名词之前，但在期待得到肯定答复的疑问句中也可以用 some，而在肯定句中表示“随便哪个，任何一个” 的含义时也可以用 any。"
+       ],
+       [
+        "These are the only meat pies I have. 只有肉的馅饼 Do you want some of them? 其中的一些",
+        "Yes, please. Any meat pies will do. 任何有肉的饼"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The Government always makes sure that the old are cared for. 政府总是确保老年人得到照顾。"
+    },
+    {
+     "text": "This is a special school for the deaf. 这是一所特殊的聋哑学校"
+    },
+    {
+     "text": "Sam is a young man with a lot of money. 萨姆是一个很有钱的年轻人（指单数个体）"
+    },
+    {
+     "table": {
+      "headers": [
+       "指其“主要目的”，即与其相关的动作时，要用零冠词（即名词前没有冠词）",
+       "特殊名词",
+       "表目的时",
+       "特指的东西面前要用the，泛指同类事物中的任何一个时则用 a",
+       "bed",
+       "church",
+       "class",
+       "college",
+       "hospital",
+       "market",
+       "prison",
+       "school",
+       "sea",
+       "university",
+       "work"
+      ],
+      "rows": [
+       [
+        "go to bed 睡觉",
+        "make the bed 整理床铺"
+       ],
+       [
+        "The family had gone to church.这家人都去教堂了。",
+        "The tree was planted near the church fifty years ago ..."
+       ],
+       [
+        "He forbids any talking in class.他严禁课堂上讲话。",
+        "Paula is the star of the class.葆拉是班里的尖子。"
+       ],
+       [
+        "They're prepping for college.他们正为上大学做准备。",
+        "Her family founded the college in 1895.她的家族于1895年创办了这所学院。"
+       ],
+       [
+        "I had to go to hospital.我得去医院看病。",
+        "I have to go to the hospital.我得到医院去。"
+       ],
+       [
+        "How do we get this to market?那么要如何把它投入市场呢？",
+        "He likes to shop at the local market.他喜欢到本地市场买东西。"
+       ],
+       [
+        "He had his enemies flung into prison.他把敌人投进了监狱。",
+        "The prison is opposite the law court.监狱在法院对面。"
+       ],
+       [
+        "The children went to school this morning. 抽象的动作(上学这件事)",
+        "I went to the school in our village to meet my friend. 正常的去学校"
+       ],
+       [
+        "The boats are all out at sea.船只全都出海了。",
+        "Most of the rooms face the sea.多数房间朝海。"
+       ],
+       [
+        "My daughter is at university.我女儿在上大学。",
+        "Cherny was enrolled at the University in 1945.彻尼是1945年注册上大学的。"
+       ],
+       [
+        "She started work last Monday.她上个星期一开始工作。",
+        "Usually, the work is boring.通常这种工作很乏味。"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "the + adj./adv. 的最高级",
+       "most of the… 大部分的…"
+      ],
+      "rows": [
+       [
+        "It is the most interesting film I have ever seen. 最有趣的(the most 最)",
+        "Most people enjoyed it. 大分部(most 表示“大多数”时它前面则不加 the) most of the young people 大部分年轻人 Most young men have to work hard. Most buildings in this district belong to the government."
+       ]
+      ]
+     }
+    }
    ]
   }
  ]

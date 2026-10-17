@@ -2,125 +2,410 @@
  "grammar": [
   {
    "title": "解释前因",
-   "lines": [
-    "I hired a car the day after landing and bought a comprehensive book of maps, which I found most helpful on the cross-country journey , but which I did not think I should need on the last stage . 定语从句并列 同一层次上的双重定语从句 She has an adopted son who she says is an orphan. 她有一个养子，这个养子据她讲是个孤儿。 Aleko suddenly acquired a new lamb which he claimed was bought. Aleko 突然得到了一只新的羊羔，这只羊羔他声称是买来的。 嵌入式定语从句和插入语的区别；插入语去掉之后应对语法没有影响，也对句子含义也没影响 He’s just published an article which I don’t think is interesting at all. （如果去掉“I don’t think ”对句子含义有影响） I met a man whom I thought was a lunatic. （如果去掉“I thought”对语法有影响） It was not that I actually remembered anything at all. But my father had described over and over again what we should see at every milestone after leaving the nearest town, so that I was positive I should recognize it as familiar territory . It is/was not that …, but (that) … 不是因为…, 而是因为… over and over (again) 一再地，屡次地，三番五次地 be positive (that) … 对…确定 familiar / unfamiliar territory 熟悉/不熟悉（的领域） Well, I had been wrong, for I was now lost . well interj.used for expressing a feeling such as doubt, surprise, or anger 哎呦（表达怀疑、惊讶或愤怒等感情）",
-    "两个定语从句修饰同一个名词或短语，中间用并列连词 (and, or 或 but) 连接，此时关系词往往不可省去【同一层次上的双重定语从句】",
-    "This book is intended for foreign students who have already mastered the elements of English , and who now want to use their knowledge of language to read books on their own subjects .",
-    "The past progressive is chiefly used for past actions which continued for some time but whose exact limits are not known .",
-    "第一个定语从句修饰前面的名词或短语，第二个定语从句修饰“名词或短语+第一个定语从句” 两个定语从句之间没有并列连词连接。第一个定语从句的关系词（一般是关系代词作宾语） 可省略 【不在同一层次上的双重定语从句】",
-    "The only person I know who has a skeleton in the cupboard is George Carlton , and he is very pound of the fact.",
-    "既是先行词的后置定语，又是另一个分句结构的宾语【嵌入式定语从句 (Embedded Attributive Clause) 】",
-    "…, but which I did not think I should need on the last stage .",
-    "In this part of the cave, they could hear an insistent booming sound which they found was caused by a small waterspout shooting down into a pool from the roof of the cave .",
-    "Turning back down the main street, we quickened our pace and made our way rapidly towards the stream where we hoped the boatman was waiting .",
-    "It was not that Bruce always underestimated difficulties. He simply had no sense of danger at all.",
-    "It was not that Bruce always underestimated difficulties, but (that) he simply had no sense of danger at all. 合并简单句",
-    "It is not that important, but anyway. 无论怎样，这并不重要。",
-    "not that …, but that … 不是因为…, 而是因为… Not that I love Caesar less, but that I love Rome more. —— Shakespeare ‘Julius Caesar’",
-    "I’ve told you over and over (again) not to do that.",
-    "A quiet day's fishing, or eight hours in a cinema seeing the same film over and over again, is usually as far as they get .",
-    "She practiced the song over and over again until she got it right. 她反复练习那首歌，直到唱对为止。",
-    "again and again He told the story again and again, but no one believed him. 他一遍又一遍地讲述这个故事，但没有人相信他。",
-    "time after time Time after time, she proved her loyalty to the company. 她一次又一次地证明了对公司的忠诚。",
-    "time and (time) again I’ve warned you time and time again not to be late. 我一次又一次地警告你不要迟到。",
-    "many times I have visited that museum many times. 我去过那个博物馆很多次了。",
-    "repeatedly He repeatedly asked for help, but no one responded. 他反复求助，但没有人回应。",
-    "Are you absolutely positive you locked the door?",
-    "She was positive that he had been there. 她确信他曾在场。",
-    "This is proof positive that he stole the money. 这就是他偷钱的肯定证据。",
-    "I was sure / certain / confident / convinced (that) … 我肯定 I was sure that I had left my keys on the table. 我肯定我把钥匙放在桌子上了。 I was certain that he would arrive on time. 我肯定他会准时到达。 I was confident that the team would win the game. 我有信心这个队会赢得比赛。 I was convinced that she was telling the truth. 我确信她说的是实话。",
-    "I had no doubt (that) … 我肯定（毫无怀疑） I had no doubt that they would succeed in the project. 我毫不怀疑他们会成功完成项目。",
-    "I bet (that) … 我肯定(打赌一定是...) I bet you’ll enjoy the movie—it’s really good. 我敢打赌你会喜欢这部电影——它真的很好看。",
-    "Social work is familiar territory to her.",
-    "All this is familiar territory to readers of her recent novels.",
-    "But how do these interlopers fare so well in unfamiliar territory? 这些闯入者是如何在陌生领域所向披靡的呢？",
-    "Lu is also a reminder that when moving into unfamiliar territory it is wise to tactful and courteous. 履卦告诉我门，当我门进入未知领域的时候，一定要谨言慎行。",
-    "Well, they have a lot of nerve!",
-    "Well, she could at least have phoned to say she wasn't coming!",
-    "\"But finance is far more serious.\"—\"Well I don't know really.\" “但是财政形势更加严峻了。”—“啊，我真的不知道。”",
-    "She beamed at Patty. \"Well! That was a bit of unexpected excitement.\" 她对帕蒂灿烂地一笑。“哎呀，那真是有些出人意料，叫人兴奋哦。”",
-    "Oh well, it could be worse. 哎，算了，情况本可能会更糟的。"
+   "parts": [
+    {
+     "text": "I hired a car the day after landing and bought a comprehensive book of maps, which I found most helpful on the cross-country journey , but which I did not think I should need on the last stage . 定语从句并列 同一层次上的双重定语从句 She has an adopted son who she says is an orphan. 她有一个养子，这个养子据她讲是个孤儿。 Aleko suddenly acquired a new lamb which he claimed was bought. Aleko 突然得到了一只新的羊羔，这只羊羔他声称是买来的。 嵌入式定语从句和插入语的区别；插入语去掉之后应对语法没有影响，也对句子含义也没影响 He’s just published an article which I don’t think is interesting at all. （如果去掉“I don’t think ”对句子含义有影响） I met a man whom I thought was a lunatic. （如果去掉“I thought”对语法有影响） It was not that I actually remembered anything at all. But my father had described over and over again what we should see at every milestone after leaving the nearest town, so that I was positive I should recognize it as familiar territory . It is/was not that …, but (that) … 不是因为…, 而是因为… over and over (again) 一再地，屡次地，三番五次地 be positive (that) … 对…确定 familiar / unfamiliar territory 熟悉/不熟悉（的领域） Well, I had been wrong, for I was now lost . well interj.used for expressing a feeling such as doubt, surprise, or anger 哎呦（表达怀疑、惊讶或愤怒等感情）"
+    },
+    {
+     "text": "两个定语从句修饰同一个名词或短语，中间用并列连词 (and, or 或 but) 连接，此时关系词往往不可省去【同一层次上的双重定语从句】"
+    },
+    {
+     "text": "This book is intended for foreign students who have already mastered the elements of English , and who now want to use their knowledge of language to read books on their own subjects ."
+    },
+    {
+     "text": "The past progressive is chiefly used for past actions which continued for some time but whose exact limits are not known ."
+    },
+    {
+     "text": "第一个定语从句修饰前面的名词或短语，第二个定语从句修饰“名词或短语+第一个定语从句” 两个定语从句之间没有并列连词连接。第一个定语从句的关系词（一般是关系代词作宾语） 可省略 【不在同一层次上的双重定语从句】"
+    },
+    {
+     "text": "The only person I know who has a skeleton in the cupboard is George Carlton , and he is very pound of the fact."
+    },
+    {
+     "text": "既是先行词的后置定语，又是另一个分句结构的宾语【嵌入式定语从句 (Embedded Attributive Clause) 】"
+    },
+    {
+     "text": "…, but which I did not think I should need on the last stage ."
+    },
+    {
+     "text": "In this part of the cave, they could hear an insistent booming sound which they found was caused by a small waterspout shooting down into a pool from the roof of the cave ."
+    },
+    {
+     "text": "Turning back down the main street, we quickened our pace and made our way rapidly towards the stream where we hoped the boatman was waiting ."
+    },
+    {
+     "text": "It was not that Bruce always underestimated difficulties. He simply had no sense of danger at all."
+    },
+    {
+     "text": "It was not that Bruce always underestimated difficulties, but (that) he simply had no sense of danger at all. 合并简单句"
+    },
+    {
+     "text": "It is not that important, but anyway. 无论怎样，这并不重要。"
+    },
+    {
+     "table": {
+      "headers": [
+       "not that …, but that … 不是因为…, 而是因为…"
+      ],
+      "rows": [
+       [
+        "Not that I love Caesar less, but that I love Rome more. —— Shakespeare ‘Julius Caesar’"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "I’ve told you over and over (again) not to do that."
+    },
+    {
+     "text": "A quiet day's fishing, or eight hours in a cinema seeing the same film over and over again, is usually as far as they get ."
+    },
+    {
+     "text": "She practiced the song over and over again until she got it right. 她反复练习那首歌，直到唱对为止。"
+    },
+    {
+     "table": {
+      "headers": [
+       "again and again",
+       "time after time",
+       "time and (time) again",
+       "many times",
+       "repeatedly"
+      ],
+      "rows": [
+       [
+        "He told the story again and again, but no one believed him. 他一遍又一遍地讲述这个故事，但没有人相信他。"
+       ],
+       [
+        "Time after time, she proved her loyalty to the company. 她一次又一次地证明了对公司的忠诚。"
+       ],
+       [
+        "I’ve warned you time and time again not to be late. 我一次又一次地警告你不要迟到。"
+       ],
+       [
+        "I have visited that museum many times. 我去过那个博物馆很多次了。"
+       ],
+       [
+        "He repeatedly asked for help, but no one responded. 他反复求助，但没有人回应。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Are you absolutely positive you locked the door?"
+    },
+    {
+     "text": "She was positive that he had been there. 她确信他曾在场。"
+    },
+    {
+     "text": "This is proof positive that he stole the money. 这就是他偷钱的肯定证据。"
+    },
+    {
+     "table": {
+      "headers": [
+       "I was sure / certain / confident / convinced (that) … 我肯定",
+       "I had no doubt (that) … 我肯定（毫无怀疑）",
+       "I bet (that) … 我肯定(打赌一定是...)"
+      ],
+      "rows": [
+       [
+        "I was sure that I had left my keys on the table. 我肯定我把钥匙放在桌子上了。 I was certain that he would arrive on time. 我肯定他会准时到达。 I was confident that the team would win the game. 我有信心这个队会赢得比赛。 I was convinced that she was telling the truth. 我确信她说的是实话。"
+       ],
+       [
+        "I had no doubt that they would succeed in the project. 我毫不怀疑他们会成功完成项目。"
+       ],
+       [
+        "I bet you’ll enjoy the movie—it’s really good. 我敢打赌你会喜欢这部电影——它真的很好看。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Social work is familiar territory to her."
+    },
+    {
+     "text": "All this is familiar territory to readers of her recent novels."
+    },
+    {
+     "text": "But how do these interlopers fare so well in unfamiliar territory? 这些闯入者是如何在陌生领域所向披靡的呢？"
+    },
+    {
+     "text": "Lu is also a reminder that when moving into unfamiliar territory it is wise to tactful and courteous. 履卦告诉我门，当我门进入未知领域的时候，一定要谨言慎行。"
+    },
+    {
+     "text": "Well, they have a lot of nerve!"
+    },
+    {
+     "text": "Well, she could at least have phoned to say she wasn't coming!"
+    },
+    {
+     "text": "\"But finance is far more serious.\"—\"Well I don't know really.\" “但是财政形势更加严峻了。”—“啊，我真的不知道。”"
+    },
+    {
+     "text": "She beamed at Patty. \"Well! That was a bit of unexpected excitement.\" 她对帕蒂灿烂地一笑。“哎呀，那真是有些出人意料，叫人兴奋哦。”"
+    },
+    {
+     "text": "Oh well, it could be worse. 哎，算了，情况本可能会更糟的。"
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "再也回不去的故乡",
-   "lines": [
-    "I looked at the map and then at the milometer. I looked at the map and then (look) at the milometer. -meter 仪器、仪表 I had come ten miles since leaving the town and at this point, according to my father, I should be looking at farms and cottages in a valley, with the spire of the church of our village showing in the far distance . come = travel (with) + n. (逻辑主语) + 非谓语 (doing / done / to do, 其中 being 常省略) 在独立主格句中常作状语或定语 I could see no valley, no farms, no cottages and no church spire --- only a lake. I decided that I must have taken a wrong turning somewhere . decide v.（在考虑之后）确定，断定，认为(尤其是其后加 that 引导的宾语从句时) turning (BrE) / turn (AmE) n. 道路转弯处 So I drove back to the town and began to retrace the route, taking frequent glances at the map. retrace v. 含义1：to go back exactly the way you have come 折返 retrace v. 含义2：repeat (a journey, route, etc.) exactly 重走 take / shoot / throw / cast a glance at … 扫视… I landed up at the same corner. land up = end up = finish up to finally be in a particular place or situation 最终；最后… land up / end up / finish up doing 最终；最后 The curious thing was that the lake was not marked on the map . I felt as if I had stumbled into a nightmare country, as you sometimes do in dreams. as if / as though 从句中表达与事实相反或可能性很小时，可以用虚拟语气。 与现在事实相反用一般过去时（be 动词一般用 were），与过去事实相反用过去完成时，与未来趋势相反用 would / should / could / might + 动词原形 注意：as if / as though 从句中虚拟语气为进行时的时候，一般都用 were doing 的形式。 stumble into … to become involved in sth. by chance 偶然卷入、参与或陷入… I felt as if I had stumbled into a nightmare country, as you sometimes stumble into a nightmare country in dreams. 课文补全 And , as in a nightmare, there was nobody in sight to help me. as + 状语 连词 as 引导的方式状语从句中常省略主句中出现过的成分 考研阅读 In New York, as in some other cities, environmental pollution is becoming more and more serious. ⇒ In New York, as environmental pollution is becoming more and more serious in some other cities, environmental pollution is becoming more and more serious. Fortunately for me, as I was wondering what to do next , there appeared on the horizon a man on horseback, riding in my direction. 全部倒装（把全部谓语置于主语之前） …, there appeared on the horizon a man on horseback, … ⇒ …, a man on horseback appeared there on the horizon, … 正常语序 on horseback 【idiom】骑着马；驾驭着马 in sb.'s direction 朝某人的方向 I waited till he came near, then I asked him the way to our old village. ask / tell / show sb. the way to … 问路/指路/指路 He said that there was now no village . I thought he must have misunderstood me, so I repeated its name . This time he pointed to the lake. The village no longer existed because it had been submerged , and all the valley too. The village no longer existed because it had been submerged, and all the valley had been submerged too. 补全 The lake was not a natural one, but a man-made reservoir. 不是...而是...",
-    "therm o meter 温度表",
-    "bar o meter 气压计",
-    "od o meter / mil o meter 里程表",
-    "speed o meter 速度计",
-    "Some of the birds have come thousands of miles to winter here.",
-    "Nearly half the students come from overseas. 几乎一半学生来自海外。",
-    "\"I've just arrived by train, \" she said. \"I'm coming to see you.\"",
-    "The silence was suddenly broken when a large car, with its headlights (being) on and its horn blaring, roared down the arcade .",
-    "It is possible that upon such an occasion a battle ensued, with the sharks being driven away or killed .",
-    "here was no valley, no farms, no cottages, and no church spire in sight — just the lake.",
-    "No valley, no farms, no cottages, and not even a church spire could be seen — only the vast expanse of the lake.",
-    "All I could see was the lake — the valley, the farms, the cottages, and the church spire had all disappeared from view.",
-    "The pie committee decided that the best way to transport the dish would be by canal, so they insured it for the trip.",
-    "From then on, Harry decided that this little game he had invented might prove to be expensive.",
-    "I decided that I must have taken a wrong turning somewhere.",
-    "Her first impulse was to go round all the rooms looking for the thieves, but then she decided that at her age it might be more prudent to have someone with her, so she went to fetch the porter from his basement.",
-    "He must have taken a wrong turning in the dark.",
-    "Take the first turning on the left.",
-    "He turned into the narrow street where he lived. 他拐进了他住的那条狭窄的街道。",
-    "Now turn right to follow West Ferry Road. 现在向右转沿着西渡口路走。",
-    "After a few minutes, he turned around and began to retrace his steps.",
-    "He retraced his steps to the spot where he'd left the case. 他折回到他留下箱子的地方。",
-    "We must retrace our steps. 我们必须返回了。",
-    "We shall be retracing the route taken by Marco Polo.",
-    "They are hoping to retrace the epic voyage of Christopher Columbus.",
-    "Retrace the progress of civilization. 追溯人类文明的进步。",
-    "So I drove back to the town and began to retrace the route. 于是我驾车返回小镇，重新按路线行驶。",
-    "The couple at the next table cast quick glances at us.",
-    "The other people shot sidelong glances at me.",
-    "She took a glance at her watch before leaving the room. 她看了一眼手表，然后离开了房间。",
-    "He shot a quick glance at his phone during the meeting. 他在会议期间快速瞥了一眼手机。",
-    "I threw a glance at the clock and realized I was late. 我瞥了一眼钟，意识到我迟到了。",
-    "The manager cast a glance at the report before signing it. 经理在签字前看了一眼报告。",
-    "He'll land / end / finish up in hospital if he carries on drinking like that.",
-    "He started his journey as a teacher but landed up becoming a writer. 他一开始是当老师的，但最终成了一名作家。",
-    "end up We took the wrong bus and ended up on the other side of the city. 我们坐错了公交车，结果到了城市的另一边。",
-    "finish up After a long debate, we finished up agreeing with the original plan. 经过长时间的讨论，我们最终同意了原来的计划。",
-    "Instead of becoming a doctor, however, he landed up / ended up / finished up becoming a successful writer of detective stories .",
-    "Why is it that I always land up cleaning the bath? 为什么总是该我来洗刷浴缸？",
-    "Damming the river may end up benefiting those who need it the least. 在河上建大坝最终可能有利于那些最不需要大坝的人。",
-    "Robert, why don't we stay up late and try to finish cleaning up after the party? 罗伯特，晚会结束后我们晚点睡打扫卫生怎么样？",
-    "The curious thing was that the lake was not marked on the map.",
-    "主语 系动词 表语",
-    "I felt as if I had stumbled into a nightmare country,",
-    "主语 系动词 虚拟语气",
-    "表语从句",
-    "It is as if a single unimportant event set up a chain of reactions.",
-    "As if this were not enough to reduce you to tears, your husband arrives, unexpectedly bringing three guests to dinner.",
-    "It looks as if it might rain.",
-    "'Oh, that,' he said with a smile as if he were talking about an old friend .",
-    "Suddenly, the knocking turned to a forceful banging, as if someone were hitting the door with a metal rod. (The Da Vinci Code)",
-    "It looks as if he were talking to someone invisible.",
-    "I stumbled into acting when I left college.",
-    "In a moment he stumble into a trap, set by bear-catcher. 不一会儿他绊跌到捕熊人设的陷阱里。",
-    "Some stumble into the business by accident, getting 'hooked' on a particular brand or product. 一些企业陷入了意外，获得'钩'在某一品牌或产品。",
-    "And, as in a nightmare, there was nobody in sight to help me. ⇒ And, as there is nobody in sight to help me in a nightmare, there was nobody in sight to help me.",
-    "1、 表示位置或次序的状语置于句首 只要满足两个条件，要用全部倒装",
-    "① 主语不是代词。 ② 谓语动词不是及物动词。 Now comes your turn. On the hill stands a temple. In came Miss Green. There are two people. There once stood a little village. Next came a horse, …",
-    "这种倒装主要目的是为了突出句末的主语。",
-    "Off he went. 主语不能是代词",
-    "On the hill John saw Mary. 谓语是及物动词",
-    "2、 表语置于句首 这种倒装主要目的是为了避免头重脚轻（主语较长）",
-    "Happy is he who has a sound mind in a sound body.",
-    "Gone are the days when my heart was young and gay.",
-    "a soldier on horseback",
-    "They travelled over the mountains on horseback.",
-    "Tony glanced in her direction and their eyes met.",
-    "She glanced in his direction. 她朝他那个方向瞥了一眼。",
-    "Tom went off in the direction of home. 汤姆朝家的方向去了。",
-    "I watched them leave and then drove off in the opposite direction. 我目送他们离开，然后开车向相反的方向驶去。",
-    "He asked me the way to London.",
-    "Could you tell me the way to the station?",
-    "Could you please show me the way to the temple?"
+   "parts": [
+    {
+     "text": "I looked at the map and then at the milometer. I looked at the map and then (look) at the milometer. -meter 仪器、仪表 I had come ten miles since leaving the town and at this point, according to my father, I should be looking at farms and cottages in a valley, with the spire of the church of our village showing in the far distance . come = travel (with) + n. (逻辑主语) + 非谓语 (doing / done / to do, 其中 being 常省略) 在独立主格句中常作状语或定语 I could see no valley, no farms, no cottages and no church spire --- only a lake. I decided that I must have taken a wrong turning somewhere . decide v.（在考虑之后）确定，断定，认为(尤其是其后加 that 引导的宾语从句时) turning (BrE) / turn (AmE) n. 道路转弯处 So I drove back to the town and began to retrace the route, taking frequent glances at the map. retrace v. 含义1：to go back exactly the way you have come 折返 retrace v. 含义2：repeat (a journey, route, etc.) exactly 重走 take / shoot / throw / cast a glance at … 扫视… I landed up at the same corner. land up = end up = finish up to finally be in a particular place or situation 最终；最后… land up / end up / finish up doing 最终；最后 The curious thing was that the lake was not marked on the map . I felt as if I had stumbled into a nightmare country, as you sometimes do in dreams. as if / as though 从句中表达与事实相反或可能性很小时，可以用虚拟语气。 与现在事实相反用一般过去时（be 动词一般用 were），与过去事实相反用过去完成时，与未来趋势相反用 would / should / could / might + 动词原形 注意：as if / as though 从句中虚拟语气为进行时的时候，一般都用 were doing 的形式。 stumble into … to become involved in sth. by chance 偶然卷入、参与或陷入… I felt as if I had stumbled into a nightmare country, as you sometimes stumble into a nightmare country in dreams. 课文补全 And , as in a nightmare, there was nobody in sight to help me. as + 状语 连词 as 引导的方式状语从句中常省略主句中出现过的成分 考研阅读 In New York, as in some other cities, environmental pollution is becoming more and more serious. ⇒ In New York, as environmental pollution is becoming more and more serious in some other cities, environmental pollution is becoming more and more serious. Fortunately for me, as I was wondering what to do next , there appeared on the horizon a man on horseback, riding in my direction. 全部倒装（把全部谓语置于主语之前） …, there appeared on the horizon a man on horseback, … ⇒ …, a man on horseback appeared there on the horizon, … 正常语序 on horseback 【idiom】骑着马；驾驭着马 in sb.'s direction 朝某人的方向 I waited till he came near, then I asked him the way to our old village. ask / tell / show sb. the way to … 问路/指路/指路 He said that there was now no village . I thought he must have misunderstood me, so I repeated its name . This time he pointed to the lake. The village no longer existed because it had been submerged , and all the valley too. The village no longer existed because it had been submerged, and all the valley had been submerged too. 补全 The lake was not a natural one, but a man-made reservoir. 不是...而是..."
+    },
+    {
+     "text": "therm o meter 温度表"
+    },
+    {
+     "text": "bar o meter 气压计"
+    },
+    {
+     "text": "od o meter / mil o meter 里程表"
+    },
+    {
+     "text": "speed o meter 速度计"
+    },
+    {
+     "text": "Some of the birds have come thousands of miles to winter here."
+    },
+    {
+     "text": "Nearly half the students come from overseas. 几乎一半学生来自海外。"
+    },
+    {
+     "text": "\"I've just arrived by train, \" she said. \"I'm coming to see you.\""
+    },
+    {
+     "text": "The silence was suddenly broken when a large car, with its headlights (being) on and its horn blaring, roared down the arcade ."
+    },
+    {
+     "text": "It is possible that upon such an occasion a battle ensued, with the sharks being driven away or killed ."
+    },
+    {
+     "text": "here was no valley, no farms, no cottages, and no church spire in sight — just the lake."
+    },
+    {
+     "text": "No valley, no farms, no cottages, and not even a church spire could be seen — only the vast expanse of the lake."
+    },
+    {
+     "text": "All I could see was the lake — the valley, the farms, the cottages, and the church spire had all disappeared from view."
+    },
+    {
+     "text": "The pie committee decided that the best way to transport the dish would be by canal, so they insured it for the trip."
+    },
+    {
+     "text": "From then on, Harry decided that this little game he had invented might prove to be expensive."
+    },
+    {
+     "text": "I decided that I must have taken a wrong turning somewhere."
+    },
+    {
+     "text": "Her first impulse was to go round all the rooms looking for the thieves, but then she decided that at her age it might be more prudent to have someone with her, so she went to fetch the porter from his basement."
+    },
+    {
+     "text": "He must have taken a wrong turning in the dark."
+    },
+    {
+     "text": "Take the first turning on the left."
+    },
+    {
+     "text": "He turned into the narrow street where he lived. 他拐进了他住的那条狭窄的街道。"
+    },
+    {
+     "text": "Now turn right to follow West Ferry Road. 现在向右转沿着西渡口路走。"
+    },
+    {
+     "text": "After a few minutes, he turned around and began to retrace his steps."
+    },
+    {
+     "text": "He retraced his steps to the spot where he'd left the case. 他折回到他留下箱子的地方。"
+    },
+    {
+     "text": "We must retrace our steps. 我们必须返回了。"
+    },
+    {
+     "text": "We shall be retracing the route taken by Marco Polo."
+    },
+    {
+     "text": "They are hoping to retrace the epic voyage of Christopher Columbus."
+    },
+    {
+     "text": "Retrace the progress of civilization. 追溯人类文明的进步。"
+    },
+    {
+     "text": "So I drove back to the town and began to retrace the route. 于是我驾车返回小镇，重新按路线行驶。"
+    },
+    {
+     "text": "The couple at the next table cast quick glances at us."
+    },
+    {
+     "text": "The other people shot sidelong glances at me."
+    },
+    {
+     "text": "She took a glance at her watch before leaving the room. 她看了一眼手表，然后离开了房间。"
+    },
+    {
+     "text": "He shot a quick glance at his phone during the meeting. 他在会议期间快速瞥了一眼手机。"
+    },
+    {
+     "text": "I threw a glance at the clock and realized I was late. 我瞥了一眼钟，意识到我迟到了。"
+    },
+    {
+     "text": "The manager cast a glance at the report before signing it. 经理在签字前看了一眼报告。"
+    },
+    {
+     "text": "He'll land / end / finish up in hospital if he carries on drinking like that."
+    },
+    {
+     "text": "He started his journey as a teacher but landed up becoming a writer. 他一开始是当老师的，但最终成了一名作家。"
+    },
+    {
+     "text": "end up We took the wrong bus and ended up on the other side of the city. 我们坐错了公交车，结果到了城市的另一边。"
+    },
+    {
+     "text": "finish up After a long debate, we finished up agreeing with the original plan. 经过长时间的讨论，我们最终同意了原来的计划。"
+    },
+    {
+     "text": "Instead of becoming a doctor, however, he landed up / ended up / finished up becoming a successful writer of detective stories ."
+    },
+    {
+     "text": "Why is it that I always land up cleaning the bath? 为什么总是该我来洗刷浴缸？"
+    },
+    {
+     "text": "Damming the river may end up benefiting those who need it the least. 在河上建大坝最终可能有利于那些最不需要大坝的人。"
+    },
+    {
+     "text": "Robert, why don't we stay up late and try to finish cleaning up after the party? 罗伯特，晚会结束后我们晚点睡打扫卫生怎么样？"
+    },
+    {
+     "table": {
+      "headers": [],
+      "rows": [
+       [
+        "The curious thing",
+        "was",
+        "that the lake was not marked on the map."
+       ],
+       [
+        "主语",
+        "系动词",
+        "表语"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [],
+      "rows": [
+       [
+        "I",
+        "felt",
+        "as if I had stumbled into a nightmare country,"
+       ],
+       [
+        "主语",
+        "系动词",
+        "虚拟语气"
+       ],
+       [
+        "表语从句"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "It is as if a single unimportant event set up a chain of reactions."
+    },
+    {
+     "text": "As if this were not enough to reduce you to tears, your husband arrives, unexpectedly bringing three guests to dinner."
+    },
+    {
+     "text": "It looks as if it might rain."
+    },
+    {
+     "text": "'Oh, that,' he said with a smile as if he were talking about an old friend ."
+    },
+    {
+     "text": "Suddenly, the knocking turned to a forceful banging, as if someone were hitting the door with a metal rod. (The Da Vinci Code)"
+    },
+    {
+     "text": "It looks as if he were talking to someone invisible."
+    },
+    {
+     "text": "I stumbled into acting when I left college."
+    },
+    {
+     "text": "In a moment he stumble into a trap, set by bear-catcher. 不一会儿他绊跌到捕熊人设的陷阱里。"
+    },
+    {
+     "text": "Some stumble into the business by accident, getting 'hooked' on a particular brand or product. 一些企业陷入了意外，获得'钩'在某一品牌或产品。"
+    },
+    {
+     "text": "And, as in a nightmare, there was nobody in sight to help me. ⇒ And, as there is nobody in sight to help me in a nightmare, there was nobody in sight to help me."
+    },
+    {
+     "text": "1、 表示位置或次序的状语置于句首 只要满足两个条件，要用全部倒装"
+    },
+    {
+     "table": {
+      "headers": [],
+      "rows": [
+       [
+        "① 主语不是代词。 ② 谓语动词不是及物动词。",
+        "Now comes your turn. On the hill stands a temple. In came Miss Green. There are two people. There once stood a little village. Next came a horse, …"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "这种倒装主要目的是为了突出句末的主语。"
+    },
+    {
+     "text": "Off he went. 主语不能是代词"
+    },
+    {
+     "text": "On the hill John saw Mary. 谓语是及物动词"
+    },
+    {
+     "text": "2、 表语置于句首 这种倒装主要目的是为了避免头重脚轻（主语较长）"
+    },
+    {
+     "text": "Happy is he who has a sound mind in a sound body."
+    },
+    {
+     "text": "Gone are the days when my heart was young and gay."
+    },
+    {
+     "text": "a soldier on horseback"
+    },
+    {
+     "text": "They travelled over the mountains on horseback."
+    },
+    {
+     "text": "Tony glanced in her direction and their eyes met."
+    },
+    {
+     "text": "She glanced in his direction. 她朝他那个方向瞥了一眼。"
+    },
+    {
+     "text": "Tom went off in the direction of home. 汤姆朝家的方向去了。"
+    },
+    {
+     "text": "I watched them leave and then drove off in the opposite direction. 我目送他们离开，然后开车向相反的方向驶去。"
+    },
+    {
+     "text": "He asked me the way to London."
+    },
+    {
+     "text": "Could you tell me the way to the station?"
+    },
+    {
+     "text": "Could you please show me the way to the temple?"
+    }
    ]
   }
  ]

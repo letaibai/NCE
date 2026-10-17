@@ -2,185 +2,670 @@
  "grammar": [
   {
    "title": "股票专家的建议",
-   "lines": [
-    "Well, if you go to five reputable stock brokers and ask them what you should do with your money , you 're likely to get five different answers, -- even if you give all the relevant information about your age, family, finances and what you want from your investments . reputable adj. that people consider to be honest and to provide a good service 声誉好的(有名望的)，值得信赖的 = reliable disreputable adj. considered to be dishonest, bad, illegal etc. 名声差的，品行不端的 broker n. a person who buys and sells things, for example, shares in a business, for other people 经纪人，中间人，掮客 finances n. [pl.] the money that an organization or person has, and the way that they manage it 经济状况 Moral? There is no one 'right' way to structure a portfolio. Moral 寓意，教训 structure v.to arrange the different parts of sth. into a pattern or system in which each part is connected to the others 组织，计划 = organize However, there are undoubtedly some wrong ways, and you can be sure that none of our five advisers would have suggested sinking all (or perhaps any) of your money into Periwigs. undoubtedly adv. 毫无疑问 adviser n. a person who gives advice, esp. sb. who knows a lot about a particular subject 顾问 would 表推测 suggest doing sth. 建议做某事 sink v. to spend a lot of money on sth. 花大笔钱(打水漂的钱) periwig n. a type of white wig with curls that people wore in the past 长假发 fictitious adj. invented by sb rather than true 虚构的",
-    "Always choose a reputable company when making a large purchase. 进行大额采购时，务必选择一家声誉好的公司。",
-    "She studied at a highly reputable university in London. 她在伦敦一所声誉极高的大学学习。",
-    "To maintain a reputable business, honesty is crucial. 要维持一家有声望的企业，诚信至关重要。",
-    "a reputable dealer / company / supplier 信誉良好的经销商 / 公司 / 供应商 Always buy second-hand cars from a reputable dealer to avoid being scammed. 务必从信誉良好的经销商处购买二手车，以防上当受骗。",
-    "a reputable source 可靠的消息来源；权威出处 The professor advised us to only cite information from reputable sources in our research papers. 教授建议我们在研究论文中只引用来自可靠来源的信息。",
-    "disreputable behavior",
-    "a disreputable neighbourhood",
-    "He was warned against associating with such disreputable characters. 他受到警告，不要与那些声名狼藉的人混在一起。",
-    "A stock broker can execute trades on your behalf and provide investment advice. 股票经纪人可以代表你进行交易并提供投资建议。",
-    "The real estate broker helped the couple navigate the complex legal paperwork for their new home. 房地产经纪人帮助这对夫妇处理了购买新房时复杂的法律文件。",
-    "Using an insurance broker allows you to compare policies from multiple companies at once. 通过保险经纪人，你可以一次性比较多家公司的保单。",
-    "The diplomat helped to broker a peace treaty between the two nations. 这位外交官协助斡旋了两国之间的和平条约。",
-    "He consulted a professional stock broker before making his first investment. 他在进行首次投资前咨询了一位专业的股票经纪人。",
-    "A good stock broker provides advice on buying and selling shares. 一位好的股票经纪人提供关于买卖股票的建议。",
-    "The firm employs several licensed stock brokers to manage client portfolios. 该公司雇佣了几位持牌股票经纪人来管理客户的投资组合。",
-    "concerns about the company's finances",
-    "She refused to answer questions about her personal finances.",
-    "The Moral of the story is that honesty is the best policy. 这个故事的寓意是诚实是最好的策略。",
-    "The recent economic crisis offers a clear Moral about the risks of over-borrowing. 最近的经济危机为过度借贷的风险提供了一个明确的教训。",
-    "The film explores various ethical questions, but its final Moral is ambiguous. 这部电影探讨了各种伦理问题，但它最终的寓意是模糊的。",
-    "The exhibition is structured around three topics.",
-    "software that helps users structure their work and their data",
-    "It takes skill to properly structure a portfolio for maximum diversification. 适当地构建投资组合以实现最大化分散投资需要技巧。",
-    "Before you invest, you need to decide how to structure a portfolio based on your risk tolerance. 在你投资之前，你需要根据你的风险承受能力来决定如何构建投资组合。",
-    "His financial adviser helped him structure a portfolio that met his long-term goals. 他的财务顾问帮助他构建了一个满足他长期目标的投资组合。",
-    "no one way 没有唯一的方法 There is no one way to succeed in business; different approaches work for different people. 在商业上没有唯一的方法可以成功；不同的方法适用于不同的人。",
-    "That is undoubtedly true.",
-    "Undoubtedly, public interest in folk music has declined.",
-    "She is undoubtedly the best candidate for the position. 她毫无疑问是这个职位的最佳人选。",
-    "This painting is undoubtedly a masterpiece of the Renaissance period. 这幅画确凿地是文艺复兴时期的一件杰作。",
-    "The evidence shows undoubtedly that the defendant is guilty. 证据毫无疑问地表明被告是有罪的。",
-    "a financial adviser",
-    "a special adviser to the President on foreign affairs",
-    "adviser to sb. on sth. 某人在某方面的顾问/指导者 He serves as a senior adviser to the President on foreign policy. 他担任总统的外交政策高级顾问。",
-    "legal / financial / technical adviser 法律/财务/技术顾问 You should consult a financial adviser before making any major investments. 在进行任何重大投资之前，你应该咨询财务顾问。",
-    "advisory adj. 顾问的；咨询的；提供建议的 The committee acts in an advisory capacity only and has no decision-making power. 该委员会仅以咨询身份运作，没有决策权。",
-    "It's no use talking to Henry ― he wouldn't understand. 推测现在",
-    "Where would he have hidden the keys? 推测过去",
-    "Joan suggested asking her father for his opinion.",
-    "They sank their entire savings into their house.",
-    "Many investors made the mistake of sinking all their money into volatile tech stocks. 许多投资者犯了把所有钱投入波动性科技股的错误。",
-    "He regretted sinking so much money into the failing startup. 他后悔把这么多钱投入到这家失败的初创公司。",
-    "Be cautious about sinking your money into projects with unproven business models. 对于把钱投入商业模式未经证实的项目的行为要保持谨慎。",
-    "sink sth. in / into sth. 将某物插入/刺入/埋入… The wolf sank its teeth into the deer's neck. 狼把牙齿刺进了鹿的脖子里。",
-    "sink money/time into sth. 在…上投入大量金钱/时间 （通常暗示难以收回或有风险） They sank all their savings into the failing business. 他们把所有的积蓄都投入到了那个快倒闭的生意中。",
-    "sink an axe into a tree 把斧头砍进树里 He sank his axe into the log with one powerful swing. 他用力一挥，把斧头砍进了原木里。",
-    "sink one's head into one's hands 用手捂住脸/低头沉思 （表现出沮丧或疲惫） After hearing the news, he sank his head into his hands and wept. 听到消息后，他双手抱头痛哭。",
-    "'Periwigs' is the name of a fictitious company.",
-    "All the places and characters in my novel are fictitious.",
-    "The account he gives of his childhood is fictitious."
+   "parts": [
+    {
+     "text": "Well, if you go to five reputable stock brokers and ask them what you should do with your money , you 're likely to get five different answers, -- even if you give all the relevant information about your age, family, finances and what you want from your investments . reputable adj. that people consider to be honest and to provide a good service 声誉好的(有名望的)，值得信赖的 = reliable disreputable adj. considered to be dishonest, bad, illegal etc. 名声差的，品行不端的 broker n. a person who buys and sells things, for example, shares in a business, for other people 经纪人，中间人，掮客 finances n. [pl.] the money that an organization or person has, and the way that they manage it 经济状况 Moral? There is no one 'right' way to structure a portfolio. Moral 寓意，教训 structure v.to arrange the different parts of sth. into a pattern or system in which each part is connected to the others 组织，计划 = organize However, there are undoubtedly some wrong ways, and you can be sure that none of our five advisers would have suggested sinking all (or perhaps any) of your money into Periwigs. undoubtedly adv. 毫无疑问 adviser n. a person who gives advice, esp. sb. who knows a lot about a particular subject 顾问 would 表推测 suggest doing sth. 建议做某事 sink v. to spend a lot of money on sth. 花大笔钱(打水漂的钱) periwig n. a type of white wig with curls that people wore in the past 长假发 fictitious adj. invented by sb rather than true 虚构的"
+    },
+    {
+     "text": "Always choose a reputable company when making a large purchase. 进行大额采购时，务必选择一家声誉好的公司。"
+    },
+    {
+     "text": "She studied at a highly reputable university in London. 她在伦敦一所声誉极高的大学学习。"
+    },
+    {
+     "text": "To maintain a reputable business, honesty is crucial. 要维持一家有声望的企业，诚信至关重要。"
+    },
+    {
+     "table": {
+      "headers": [
+       "a reputable dealer / company / supplier 信誉良好的经销商 / 公司 / 供应商",
+       "a reputable source 可靠的消息来源；权威出处"
+      ],
+      "rows": [
+       [
+        "Always buy second-hand cars from a reputable dealer to avoid being scammed. 务必从信誉良好的经销商处购买二手车，以防上当受骗。"
+       ],
+       [
+        "The professor advised us to only cite information from reputable sources in our research papers. 教授建议我们在研究论文中只引用来自可靠来源的信息。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "disreputable behavior"
+    },
+    {
+     "text": "a disreputable neighbourhood"
+    },
+    {
+     "text": "He was warned against associating with such disreputable characters. 他受到警告，不要与那些声名狼藉的人混在一起。"
+    },
+    {
+     "text": "A stock broker can execute trades on your behalf and provide investment advice. 股票经纪人可以代表你进行交易并提供投资建议。"
+    },
+    {
+     "text": "The real estate broker helped the couple navigate the complex legal paperwork for their new home. 房地产经纪人帮助这对夫妇处理了购买新房时复杂的法律文件。"
+    },
+    {
+     "text": "Using an insurance broker allows you to compare policies from multiple companies at once. 通过保险经纪人，你可以一次性比较多家公司的保单。"
+    },
+    {
+     "text": "The diplomat helped to broker a peace treaty between the two nations. 这位外交官协助斡旋了两国之间的和平条约。"
+    },
+    {
+     "text": "He consulted a professional stock broker before making his first investment. 他在进行首次投资前咨询了一位专业的股票经纪人。"
+    },
+    {
+     "text": "A good stock broker provides advice on buying and selling shares. 一位好的股票经纪人提供关于买卖股票的建议。"
+    },
+    {
+     "text": "The firm employs several licensed stock brokers to manage client portfolios. 该公司雇佣了几位持牌股票经纪人来管理客户的投资组合。"
+    },
+    {
+     "text": "concerns about the company's finances"
+    },
+    {
+     "text": "She refused to answer questions about her personal finances."
+    },
+    {
+     "text": "The Moral of the story is that honesty is the best policy. 这个故事的寓意是诚实是最好的策略。"
+    },
+    {
+     "text": "The recent economic crisis offers a clear Moral about the risks of over-borrowing. 最近的经济危机为过度借贷的风险提供了一个明确的教训。"
+    },
+    {
+     "text": "The film explores various ethical questions, but its final Moral is ambiguous. 这部电影探讨了各种伦理问题，但它最终的寓意是模糊的。"
+    },
+    {
+     "text": "The exhibition is structured around three topics."
+    },
+    {
+     "text": "software that helps users structure their work and their data"
+    },
+    {
+     "text": "It takes skill to properly structure a portfolio for maximum diversification. 适当地构建投资组合以实现最大化分散投资需要技巧。"
+    },
+    {
+     "text": "Before you invest, you need to decide how to structure a portfolio based on your risk tolerance. 在你投资之前，你需要根据你的风险承受能力来决定如何构建投资组合。"
+    },
+    {
+     "text": "His financial adviser helped him structure a portfolio that met his long-term goals. 他的财务顾问帮助他构建了一个满足他长期目标的投资组合。"
+    },
+    {
+     "table": {
+      "headers": [
+       "no one way 没有唯一的方法"
+      ],
+      "rows": [
+       [
+        "There is no one way to succeed in business; different approaches work for different people. 在商业上没有唯一的方法可以成功；不同的方法适用于不同的人。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "That is undoubtedly true."
+    },
+    {
+     "text": "Undoubtedly, public interest in folk music has declined."
+    },
+    {
+     "text": "She is undoubtedly the best candidate for the position. 她毫无疑问是这个职位的最佳人选。"
+    },
+    {
+     "text": "This painting is undoubtedly a masterpiece of the Renaissance period. 这幅画确凿地是文艺复兴时期的一件杰作。"
+    },
+    {
+     "text": "The evidence shows undoubtedly that the defendant is guilty. 证据毫无疑问地表明被告是有罪的。"
+    },
+    {
+     "text": "a financial adviser"
+    },
+    {
+     "text": "a special adviser to the President on foreign affairs"
+    },
+    {
+     "table": {
+      "headers": [
+       "adviser to sb. on sth. 某人在某方面的顾问/指导者",
+       "legal / financial / technical adviser 法律/财务/技术顾问",
+       "advisory adj. 顾问的；咨询的；提供建议的"
+      ],
+      "rows": [
+       [
+        "He serves as a senior adviser to the President on foreign policy. 他担任总统的外交政策高级顾问。"
+       ],
+       [
+        "You should consult a financial adviser before making any major investments. 在进行任何重大投资之前，你应该咨询财务顾问。"
+       ],
+       [
+        "The committee acts in an advisory capacity only and has no decision-making power. 该委员会仅以咨询身份运作，没有决策权。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "It's no use talking to Henry ― he wouldn't understand. 推测现在"
+    },
+    {
+     "text": "Where would he have hidden the keys? 推测过去"
+    },
+    {
+     "text": "Joan suggested asking her father for his opinion."
+    },
+    {
+     "text": "They sank their entire savings into their house."
+    },
+    {
+     "text": "Many investors made the mistake of sinking all their money into volatile tech stocks. 许多投资者犯了把所有钱投入波动性科技股的错误。"
+    },
+    {
+     "text": "He regretted sinking so much money into the failing startup. 他后悔把这么多钱投入到这家失败的初创公司。"
+    },
+    {
+     "text": "Be cautious about sinking your money into projects with unproven business models. 对于把钱投入商业模式未经证实的项目的行为要保持谨慎。"
+    },
+    {
+     "table": {
+      "headers": [
+       "sink sth. in / into sth. 将某物插入/刺入/埋入…",
+       "sink money/time into sth. 在…上投入大量金钱/时间 （通常暗示难以收回或有风险）",
+       "sink an axe into a tree 把斧头砍进树里",
+       "sink one's head into one's hands 用手捂住脸/低头沉思 （表现出沮丧或疲惫）"
+      ],
+      "rows": [
+       [
+        "The wolf sank its teeth into the deer's neck. 狼把牙齿刺进了鹿的脖子里。"
+       ],
+       [
+        "They sank all their savings into the failing business. 他们把所有的积蓄都投入到了那个快倒闭的生意中。"
+       ],
+       [
+        "He sank his axe into the log with one powerful swing. 他用力一挥，把斧头砍进了原木里。"
+       ],
+       [
+        "After hearing the news, he sank his head into his hands and wept. 听到消息后，他双手抱头痛哭。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "'Periwigs' is the name of a fictitious company."
+    },
+    {
+     "text": "All the places and characters in my novel are fictitious."
+    },
+    {
+     "text": "The account he gives of his childhood is fictitious."
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "操作步骤",
-   "lines": [
-    "So what should you do ? We 'll assume that you have sorted out the basics -- like mortgages, pensions, insurance and access to sufficient cash reserves . sort out v. 1. to find an answer to a problem or mystery 弄清楚，搞明白 sort out v. 2. to arrange or organize sth. that is mixed up or untidy, so that it is ready to be used 将…分类整理好 sort out v. 3. to separate one type of thing from another 从…中挑出来 basics n. [pl.] the most important and necessary facts about sth., from which other possibilities and ideas may develop 基础知识， 基本原理 ， 基本原则 access n. 1.（使用某物或接近某人的）机会或权利 (have access to …) access n. 2.（接近或进入某地的）方法，通道 (access to …) reserve n. [C usu. pl.] a supply of sth. kept to be used if it is needed 储备 You should then establish your own individual aims. establish one’s own aims 确立某人的目标 individual aims 个人目标 These are partly a matter of personal circumstances, partly a matter of psychology. partly a matter of 部分是...的问题 a / the matter / question of … …的事儿/问题",
-    "Investigators are still trying to sort out why the accident happened.",
-    "Before starting a business, you must have sorted out the basics of financing and legal structure. 在创业之前，你必须理清融资和法律结构的基本事项。",
-    "Once we have sorted out the basics of the schedule, we can move on to the details. 一旦我们把日程的基本事项理清了，我们就可以继续讨论细节了。",
-    "It took a few days for the new employee to get sorted out the basics of the company's internal system. 这位新员工花了好几天才把公司内部系统的基本事项弄清楚。",
-    "We need to sort out our camping gear before we go away.",
-    "I've sorted out the papers that can be thrown away.",
-    "At least sorting out the things she should have discarded years ago was now being made easier for her.",
-    "the basics of computer programming",
-    "This range of books for young children covers basics like the alphabet and numbers",
-    "To learn a new language, you must first master the basics of grammar. 学习一门新语言，你必须先掌握语法的基本要点。",
-    "fundamentals 根本；基本原则 （强调支撑整个体系的“根基”，更正式） Let us get down to fundamentals and agree that the young are after all human beings ― people just like their elders. Understanding the fundamentals of physics is essential for any engineer. 对于任何工程师来说，理解物理学的基本原理都是必不可少的。",
-    "rudiments 入门；初步；萌芽 （指学科最原始、最简单的形态或初级阶段） master the rudiments of economics He only had time to learn the rudiments of piano playing before the concert. 在音乐会之前，他只来得及学习钢琴弹奏的入门基础。",
-    "first principles 第一性原理；基本推论 （强调从最底层的逻辑出发，不带假设地思考） Discussing all these details will get us nowhere; we must get back to first principles. Elon Musk often advocates for solving problems by thinking from first principles. 埃隆·马斯克经常提倡从第一性原理出发思考来解决问题。",
-    "Students must have access to a good library.",
-    "Only high officials have access to the president.",
-    "The only access to the farmhouse is across the fields.",
-    "Students are given access to the university library resources. 学生被赋予获得大学图书馆资源的途径。",
-    "$10 million in cash reserves",
-    "dwindling oil reserves",
-    "It is prudent to maintain sufficient cash reserves for emergencies. 保持足够的现金储备以应对紧急情况是谨慎的做法。",
-    "have great reserves of capital 拥有雄厚的资本储备（指企业或银行拥有充足的现金或可动用资产） To survive the economic downturn, the company relied on its great reserves of capital. 为了度过经济低迷期，公司依靠其雄厚的资本储备。",
-    "have great reserves of energy 精力充沛；拥有巨大的能量储备（既可以指人的体力，也可以指国家的能源） Despite her age, the marathon runner seemed to have great reserves of energy. 尽管年龄不小了，这位马拉松选手似乎仍有充沛的精力。",
-    "foreign exchange reserves 外汇储备（国家层面的金融术语） The central bank increased its foreign exchange reserves to stabilize the national currency. 中央银行增加了外汇储备以稳定本国货币。",
-    "oil / gas reserves 石油/天然气储量（指自然资源的蕴藏量） The country is known for having some of the world's largest oil reserves. 该国以拥有世界上一些最大的石油储量而闻名。",
-    "One should establish his own aims in early years if he means to make achievements in his life.",
-    "The company decided to establish clear aims for the next fiscal year. 公司决定为下一个财政年度确立明确的目标。",
-    "Before starting any project, it is crucial to first establish your aims. 在开始任何项目之前，首先确立你的目标至关重要。",
-    "She took a moment to reflect and establish her personal aims for the coming decade. 她花了一些时间反思并确立了她未来十年的个人目标。",
-    "The career coach helped the client define his individual aims and aspirations. 职业教练帮助客户确定他的个人目标和抱负。",
-    "While working as a team, members should not forget their individual aims. 在团队合作的同时，成员不应忘记他们的个人目标。",
-    "Setting realistic individual aims is the first step toward self-improvement. 设定切合实际的个人目标是自我提升的第一步。",
-    "set goals 设定目标 It is important to set goals that are both challenging and achievable. 设定既有挑战性又可实现的目标是很重要的。",
-    "define objectives 界定目标 The project manager asked the team to clearly define objectives before starting the work. 项目经理要求团队在开始工作前明确界定目标。",
-    "His success is partly a matter of luck and partly a matter of hard work. 他的成功部分是运气的问题，部分是努力工作的问题。",
-    "The complexity of the solution is partly a matter of technical constraints and partly a matter of budget limitations. 解决方案的复杂性部分是技术限制的问题，部分是预算限制的问题。",
-    "The public's perception of the issue is partly a matter of media representation and partly a matter of personal experience. 公众对这个问题的看法部分是媒体呈现的问题，部分是个人经验的问题。",
-    "partly 部分地；不完全地 （最常用，侧重于原因或组成部分） Later, for its personal safety and practical needs, it has to develop (partly by means of touch) the ability to judge roughly three-dimensional distances. The accident was partly my fault and partly his. 这次事故部分是我的错，部分是他的错。",
-    "in part 在某种程度上；部分地 （比 partly 更正式，常用于句首或句末） When we use a phrase like it serves him right, we are, in part, admitting that a certain set of circumstances has enabled justice to act of its own accord. His success is due, in part, to his relentless hard work. 他的成功在一定程度上归功于他持之以恒的努力。",
-    "to some degree / extent 在某种程度上 （强调程度，而不是具体的组成部分） Disillusionment with the parents, however good and adequate they may be both as parents and as individuals, is to some degree inevitable. Everyone is to some degree responsible for the environment. 每个人都在某种程度上对环境负有责任。",
-    "… it looks very much as if sleeping is not simply a matter of giving the body a rest.",
-    "Education in the wilderness is not a matter of monetary means.",
-    "It is a question of pride as much as anything else.",
-    "… but as soon as the question of prestige arises, …",
-    "If it is not a question of resting the body, then perhaps it is the brain that needs resting?",
-    "Overcoming stage fright is often more a matter of psychology than skill. 克服怯场往往更多是一个心理学问题而不是技能问题。"
+   "parts": [
+    {
+     "text": "So what should you do ? We 'll assume that you have sorted out the basics -- like mortgages, pensions, insurance and access to sufficient cash reserves . sort out v. 1. to find an answer to a problem or mystery 弄清楚，搞明白 sort out v. 2. to arrange or organize sth. that is mixed up or untidy, so that it is ready to be used 将…分类整理好 sort out v. 3. to separate one type of thing from another 从…中挑出来 basics n. [pl.] the most important and necessary facts about sth., from which other possibilities and ideas may develop 基础知识， 基本原理 ， 基本原则 access n. 1.（使用某物或接近某人的）机会或权利 (have access to …) access n. 2.（接近或进入某地的）方法，通道 (access to …) reserve n. [C usu. pl.] a supply of sth. kept to be used if it is needed 储备 You should then establish your own individual aims. establish one’s own aims 确立某人的目标 individual aims 个人目标 These are partly a matter of personal circumstances, partly a matter of psychology. partly a matter of 部分是...的问题 a / the matter / question of … …的事儿/问题"
+    },
+    {
+     "text": "Investigators are still trying to sort out why the accident happened."
+    },
+    {
+     "text": "Before starting a business, you must have sorted out the basics of financing and legal structure. 在创业之前，你必须理清融资和法律结构的基本事项。"
+    },
+    {
+     "text": "Once we have sorted out the basics of the schedule, we can move on to the details. 一旦我们把日程的基本事项理清了，我们就可以继续讨论细节了。"
+    },
+    {
+     "text": "It took a few days for the new employee to get sorted out the basics of the company's internal system. 这位新员工花了好几天才把公司内部系统的基本事项弄清楚。"
+    },
+    {
+     "text": "We need to sort out our camping gear before we go away."
+    },
+    {
+     "text": "I've sorted out the papers that can be thrown away."
+    },
+    {
+     "text": "At least sorting out the things she should have discarded years ago was now being made easier for her."
+    },
+    {
+     "text": "the basics of computer programming"
+    },
+    {
+     "text": "This range of books for young children covers basics like the alphabet and numbers"
+    },
+    {
+     "text": "To learn a new language, you must first master the basics of grammar. 学习一门新语言，你必须先掌握语法的基本要点。"
+    },
+    {
+     "table": {
+      "headers": [
+       "fundamentals 根本；基本原则 （强调支撑整个体系的“根基”，更正式）",
+       "rudiments 入门；初步；萌芽 （指学科最原始、最简单的形态或初级阶段）",
+       "first principles 第一性原理；基本推论 （强调从最底层的逻辑出发，不带假设地思考）"
+      ],
+      "rows": [
+       [
+        "Let us get down to fundamentals and agree that the young are after all human beings ― people just like their elders. Understanding the fundamentals of physics is essential for any engineer. 对于任何工程师来说，理解物理学的基本原理都是必不可少的。"
+       ],
+       [
+        "master the rudiments of economics He only had time to learn the rudiments of piano playing before the concert. 在音乐会之前，他只来得及学习钢琴弹奏的入门基础。"
+       ],
+       [
+        "Discussing all these details will get us nowhere; we must get back to first principles. Elon Musk often advocates for solving problems by thinking from first principles. 埃隆·马斯克经常提倡从第一性原理出发思考来解决问题。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Students must have access to a good library."
+    },
+    {
+     "text": "Only high officials have access to the president."
+    },
+    {
+     "text": "The only access to the farmhouse is across the fields."
+    },
+    {
+     "text": "Students are given access to the university library resources. 学生被赋予获得大学图书馆资源的途径。"
+    },
+    {
+     "text": "$10 million in cash reserves"
+    },
+    {
+     "text": "dwindling oil reserves"
+    },
+    {
+     "text": "It is prudent to maintain sufficient cash reserves for emergencies. 保持足够的现金储备以应对紧急情况是谨慎的做法。"
+    },
+    {
+     "table": {
+      "headers": [
+       "have great reserves of capital 拥有雄厚的资本储备（指企业或银行拥有充足的现金或可动用资产）",
+       "have great reserves of energy 精力充沛；拥有巨大的能量储备（既可以指人的体力，也可以指国家的能源）",
+       "foreign exchange reserves 外汇储备（国家层面的金融术语）",
+       "oil / gas reserves 石油/天然气储量（指自然资源的蕴藏量）"
+      ],
+      "rows": [
+       [
+        "To survive the economic downturn, the company relied on its great reserves of capital. 为了度过经济低迷期，公司依靠其雄厚的资本储备。"
+       ],
+       [
+        "Despite her age, the marathon runner seemed to have great reserves of energy. 尽管年龄不小了，这位马拉松选手似乎仍有充沛的精力。"
+       ],
+       [
+        "The central bank increased its foreign exchange reserves to stabilize the national currency. 中央银行增加了外汇储备以稳定本国货币。"
+       ],
+       [
+        "The country is known for having some of the world's largest oil reserves. 该国以拥有世界上一些最大的石油储量而闻名。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "One should establish his own aims in early years if he means to make achievements in his life."
+    },
+    {
+     "text": "The company decided to establish clear aims for the next fiscal year. 公司决定为下一个财政年度确立明确的目标。"
+    },
+    {
+     "text": "Before starting any project, it is crucial to first establish your aims. 在开始任何项目之前，首先确立你的目标至关重要。"
+    },
+    {
+     "text": "She took a moment to reflect and establish her personal aims for the coming decade. 她花了一些时间反思并确立了她未来十年的个人目标。"
+    },
+    {
+     "text": "The career coach helped the client define his individual aims and aspirations. 职业教练帮助客户确定他的个人目标和抱负。"
+    },
+    {
+     "text": "While working as a team, members should not forget their individual aims. 在团队合作的同时，成员不应忘记他们的个人目标。"
+    },
+    {
+     "text": "Setting realistic individual aims is the first step toward self-improvement. 设定切合实际的个人目标是自我提升的第一步。"
+    },
+    {
+     "table": {
+      "headers": [
+       "set goals 设定目标",
+       "define objectives 界定目标"
+      ],
+      "rows": [
+       [
+        "It is important to set goals that are both challenging and achievable. 设定既有挑战性又可实现的目标是很重要的。"
+       ],
+       [
+        "The project manager asked the team to clearly define objectives before starting the work. 项目经理要求团队在开始工作前明确界定目标。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "His success is partly a matter of luck and partly a matter of hard work. 他的成功部分是运气的问题，部分是努力工作的问题。"
+    },
+    {
+     "text": "The complexity of the solution is partly a matter of technical constraints and partly a matter of budget limitations. 解决方案的复杂性部分是技术限制的问题，部分是预算限制的问题。"
+    },
+    {
+     "text": "The public's perception of the issue is partly a matter of media representation and partly a matter of personal experience. 公众对这个问题的看法部分是媒体呈现的问题，部分是个人经验的问题。"
+    },
+    {
+     "table": {
+      "headers": [
+       "partly 部分地；不完全地 （最常用，侧重于原因或组成部分）",
+       "in part 在某种程度上；部分地 （比 partly 更正式，常用于句首或句末）",
+       "to some degree / extent 在某种程度上 （强调程度，而不是具体的组成部分）"
+      ],
+      "rows": [
+       [
+        "Later, for its personal safety and practical needs, it has to develop (partly by means of touch) the ability to judge roughly three-dimensional distances. The accident was partly my fault and partly his. 这次事故部分是我的错，部分是他的错。"
+       ],
+       [
+        "When we use a phrase like it serves him right, we are, in part, admitting that a certain set of circumstances has enabled justice to act of its own accord. His success is due, in part, to his relentless hard work. 他的成功在一定程度上归功于他持之以恒的努力。"
+       ],
+       [
+        "Disillusionment with the parents, however good and adequate they may be both as parents and as individuals, is to some degree inevitable. Everyone is to some degree responsible for the environment. 每个人都在某种程度上对环境负有责任。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "… it looks very much as if sleeping is not simply a matter of giving the body a rest."
+    },
+    {
+     "text": "Education in the wilderness is not a matter of monetary means."
+    },
+    {
+     "text": "It is a question of pride as much as anything else."
+    },
+    {
+     "text": "… but as soon as the question of prestige arises, …"
+    },
+    {
+     "text": "If it is not a question of resting the body, then perhaps it is the brain that needs resting?"
+    },
+    {
+     "text": "Overcoming stage fright is often more a matter of psychology than skill. 克服怯场往往更多是一个心理学问题而不是技能问题。"
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "对于老年人的建议",
-   "lines": [
-    "For instance , if you are older you have less time to recover from any major losses, and you may well wish to boost your pension income. may / might / could well … used to say that sth. is likely to happen or is likely to be true （某事） 可能（发生或是真的） wish to do sth. (fml.) = want to do sth. = like to do sth.（正式/委婉）想要做某事 boost v. to increase or improve sth. and make it more successful 增加，提高，促进 recover from 从...中恢复 So preserving your capital and generating extra income are your main priorities. priority n. [C] sth. important, that must be done first or needs more attention than anything else 优先的事物 preserving capital 保全/保存资本 generating extra income 创造额外收入 In this case, you 'd probably construct a portfolio with some shares (but not high risk ones), along with gilts, cash deposits, and perhaps convertibles or the income shares of split capital investment trusts. construct v. to form sth. by putting different things together 构建，构成，形成 share n. [C] any of the equal parts into which the capital of a business company is divided, giving the holder a right to a portion of the profits 股份 along with used for mentioning additional people or things that are also included or involved in sth. 还有…；和…一起 gilt n. [C] a stock or share that is gilt-edged 金边证券(英国国债) gilt-edged stocks or shares do not give you much interest (=additional money) but are considered very safe as they are sold mainly by governments deposit n. an amount of money that is paid into a bank account 存款 trust n. an organization that manages money or property so that it can help other people or organizations 信托公司 Bull markets are born on pessimism, grow on skepticism, mature on optimism, and die on euphoria. -（Sir John Templeton）",
-    "Over the years one may well become an authority on one's hobby and will very probably be asked to give informal talks to little gatherings and then, if successful, to larger audiences.",
-    "Apart from moral considerations this is a stupid method of training, for it produces a resentful animal who at a later stage may well turn man-killer.",
-    "… and the railway of the future may well be the 'hovertrain', …",
-    "Indeed, it may well be that those whose work is their pleasure are those who most need the means of banishing it at intervals from their minds.",
-    "Another patient might equally well complain that her neighbours were combining to slander her and persecute her, and yet one might be cautious about believing this statement.",
-    "Given the traffic, you may well wish to leave earlier than planned. 考虑到交通状况，你很可能希望比计划更早离开。",
-    "This is the point I wish to emphasize.",
-    "I wish to speak to the manager, please. 我想和经理谈谈。（多用于正式商务、法律或服务场景）",
-    "want to do sth. （通用/直接）想要做某事 I want to go home and rest. 我想回家休息。（最常见的表达，语气直接）",
-    "would like to do sth. （礼貌/客气）想要做某事 I would like to invite you to our wedding. 我想邀请你参加我们的婚礼。（非常得体的礼貌用语）",
-    "The new resort area has boosted tourism.",
-    "The government introduced policies to boost the local economy. 政府出台了政策来促进当地经济。",
-    "It took him a long time to recover from the severe flu. 他花了很长时间才从重感冒中恢复过来。",
-    "The company is slowly recovering from the financial downturn. 这家公司正在缓慢地从经济衰退中恢复过来。",
-    "The patient is expected to fully recover from the surgery within a week. 预计患者将在一周内完全从手术中恢复。",
-    "major losses 重大损失 The earthquake caused major losses to infrastructure and homes. 地震给基础设施和房屋造成了重大损失。",
-    "pension income 养老金收入 She relies on her monthly pension income for her living expenses. 她依靠每月的养老金收入来支付生活费用。",
-    "Health insurance will be our top priority.",
-    "Being a parent is her first priority.",
-    "Finishing the report and preparing the presentation are our main priorities this week. 完成报告和准备演示文稿是我们本周的主要优先事项。",
-    "be one’s main / top priority 最重要的事；当务之急 （强调重要性排名第一） Reducing costs is the company's top priority this year. 降低成本是公司今年的首要任务。",
-    "be a high priority 高度优先的事 （重要，但不一定是唯一的首位） Customer safety is always a high priority for us. 客户安全对我们来说始终是高度优先的事项。",
-    "be an immediate priority 紧迫的任务 （强调“现在就要做”，即时性最强） Our immediate priority is to clear the roads after the snowstorm. 我们的当务之急是扫除暴风雪后的路障。",
-    "The main goal of conservative investors is preserving capital. 保守型投资者的主要目标是保全资本。",
-    "The foundation is focused on preserving capital while supporting charitable causes. 该基金会致力于保全资本，同时支持慈善事业。",
-    "A low-risk investment strategy is essential for preserving capital in volatile markets. 在波动性市场中，低风险投资策略对于保全资本至关重要。",
-    "He took on a part-time job for the purpose of generating extra income. 他找了一份兼职工作，目的是创造额外收入。",
-    "Investing in dividend stocks is a way of generating extra income. 投资股息股票是一种创造额外收入的方式。",
-    "The side project proved successful in generating extra income for the team. 这个副业项目在为团队创造额外收入方面取得了成功。",
-    "safeguarding funds 保护资金 The new security system is aimed at safeguarding funds from cyber threats. 新的安全系统旨在保护资金免受网络威胁。",
-    "creating more revenue 创造更多收入 The sales team is focused on creating more revenue in the next quarter. 销售团队致力于在下一季度创造更多收入。",
-    "You must learn how to construct a logical argument.",
-    "a well-constructed novel",
-    "The financial analyst advised us on how to construct a portfolio balanced between growth and stability. 金融分析师就如何构建一个在增长和稳定之间平衡的投资组合向我们提供了建议。",
-    "She learned to construct a portfolio by spreading her investments across different sectors. 她通过将投资分散到不同行业来学习构建投资组合。",
-    "To mitigate risk, it is important to construct a portfolio that includes a mix of asset classes. 为了减轻风险，构建一个包含混合资产类别的投资组合是很重要的。",
-    "to construct a theory 构建/创立理论 It took Einstein years to construct the theory of relativity. 爱因斯坦花了很多年才构建出相对论。",
-    "to construct a diagram 绘制图表/简图 Please construct a diagram to illustrate the flow of energy in this ecosystem. 请绘制一张图表来展示该生态系统中的能量流动。",
-    "to construct a plan 制定计划 （侧重于计划的结构严密性） We need to construct a detailed plan before we launch the marketing campaign. 在启动营销活动之前，我们需要制定一个详细的计划。",
-    "People in China are eager to buy shares in new businesses. 中国民众热衷于购买新企业的股票。",
-    "Shares were floated at 585p. 股票最初上市价为5英镑85便士。",
-    "The shares have halved in value. 股价已经跌了一半。",
-    "Ramos was arrested along with eleven other men.",
-    "Dunne was murdered, along with three guards.",
-    "A little later, a man came along with a biscuit which occupied the whole boot of his car.",
-    "The prize included a trophy along with a significant monetary award. 奖品包括一座奖杯以及一笔可观的奖金。",
-    "She attended the conference along with her colleagues from the research department. 她和她的研究部门的同事一起参加了会议。",
-    "The package contained the product along with a detailed instruction manual. 包裹里有产品以及一份详细的说明书。",
-    "A failed gilt auction, in particular, could send sterling tumbling. 特别是镀金拍卖失败，很可能导致英镑贬值。",
-    "Mr Islam reckons overseas investors have been buying around 30% of recent gilt issuance. Islam认为海外投资者购买了大约30%的金边债券。",
-    "The British inflation-linked gilt that is due to mature in 2016 trades on a negative real yield. 英国2016年到期的通胀挂钩金边债券的实际收益率也是负值。",
-    "Investors often buy gilts for their low risk and stable income. 投资者通常购买金边债券，因为它们的低风险和稳定收入。",
-    "I'd like to make a deposit into my savings account.",
-    "We have $500. Will it be enough for a deposit? 我们有500元。够不够作押金？",
-    "Every act of honesty is a deposit into your personal bank account and will build strength. 诚实的行为像一笔储蓄金，会存入你的个人银行账户并建立你的诚信度。",
-    "He kept a large portion of his savings in secure cash deposits. 他把大部分储蓄放在安全的现金存款中。",
-    "make a deposit 存钱（入账户） I need to go to the bank to make a deposit of $500. 我需要去银行存500美元。",
-    "make a deposit (on sth.) 支付定金/押金 We made a deposit on the apartment to secure the lease. 我们交了公寓的定金以确保租约。",
-    "direct deposit （工资等）直接汇入账户 Most employees prefer their salary to be paid via direct deposit. 大多数员工希望工资通过直接汇款的方式发放。",
-    "non-refundable deposit 不可退还的定金 The hotel requires a non-refundable deposit at the time of booking. 酒店要求在预订时支付不可退还的定金。",
-    "Housing trusts help to provide houses for people who are not well off.",
-    "He had set up two charitable trusts. 他已经成立了两家慈善信托机构。",
-    "The money will be placed in a trust fund for her daughter. 这笔钱将投入到为她女儿设立的信托基金里。",
-    "convertibles 可转换债券 Convertibles offer the potential for equity growth with the safety of a bond. 可转换债券提供了股权增长的潜力以及债券的安全性。",
-    "split capital investment trusts 分拆资本投资信托 Split capital investment trusts are used to separate income and capital returns. 分拆资本投资信托被用来分离收入和资本回报。",
-    "您的浏览器不支持媒体播放"
+   "parts": [
+    {
+     "text": "For instance , if you are older you have less time to recover from any major losses, and you may well wish to boost your pension income. may / might / could well … used to say that sth. is likely to happen or is likely to be true （某事） 可能（发生或是真的） wish to do sth. (fml.) = want to do sth. = like to do sth.（正式/委婉）想要做某事 boost v. to increase or improve sth. and make it more successful 增加，提高，促进 recover from 从...中恢复 So preserving your capital and generating extra income are your main priorities. priority n. [C] sth. important, that must be done first or needs more attention than anything else 优先的事物 preserving capital 保全/保存资本 generating extra income 创造额外收入 In this case, you 'd probably construct a portfolio with some shares (but not high risk ones), along with gilts, cash deposits, and perhaps convertibles or the income shares of split capital investment trusts. construct v. to form sth. by putting different things together 构建，构成，形成 share n. [C] any of the equal parts into which the capital of a business company is divided, giving the holder a right to a portion of the profits 股份 along with used for mentioning additional people or things that are also included or involved in sth. 还有…；和…一起 gilt n. [C] a stock or share that is gilt-edged 金边证券(英国国债) gilt-edged stocks or shares do not give you much interest (=additional money) but are considered very safe as they are sold mainly by governments deposit n. an amount of money that is paid into a bank account 存款 trust n. an organization that manages money or property so that it can help other people or organizations 信托公司 Bull markets are born on pessimism, grow on skepticism, mature on optimism, and die on euphoria. -（Sir John Templeton）"
+    },
+    {
+     "text": "Over the years one may well become an authority on one's hobby and will very probably be asked to give informal talks to little gatherings and then, if successful, to larger audiences."
+    },
+    {
+     "text": "Apart from moral considerations this is a stupid method of training, for it produces a resentful animal who at a later stage may well turn man-killer."
+    },
+    {
+     "text": "… and the railway of the future may well be the 'hovertrain', …"
+    },
+    {
+     "text": "Indeed, it may well be that those whose work is their pleasure are those who most need the means of banishing it at intervals from their minds."
+    },
+    {
+     "text": "Another patient might equally well complain that her neighbours were combining to slander her and persecute her, and yet one might be cautious about believing this statement."
+    },
+    {
+     "text": "Given the traffic, you may well wish to leave earlier than planned. 考虑到交通状况，你很可能希望比计划更早离开。"
+    },
+    {
+     "text": "This is the point I wish to emphasize."
+    },
+    {
+     "text": "I wish to speak to the manager, please. 我想和经理谈谈。（多用于正式商务、法律或服务场景）"
+    },
+    {
+     "table": {
+      "headers": [
+       "want to do sth. （通用/直接）想要做某事",
+       "would like to do sth. （礼貌/客气）想要做某事"
+      ],
+      "rows": [
+       [
+        "I want to go home and rest. 我想回家休息。（最常见的表达，语气直接）"
+       ],
+       [
+        "I would like to invite you to our wedding. 我想邀请你参加我们的婚礼。（非常得体的礼貌用语）"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The new resort area has boosted tourism."
+    },
+    {
+     "text": "The government introduced policies to boost the local economy. 政府出台了政策来促进当地经济。"
+    },
+    {
+     "text": "It took him a long time to recover from the severe flu. 他花了很长时间才从重感冒中恢复过来。"
+    },
+    {
+     "text": "The company is slowly recovering from the financial downturn. 这家公司正在缓慢地从经济衰退中恢复过来。"
+    },
+    {
+     "text": "The patient is expected to fully recover from the surgery within a week. 预计患者将在一周内完全从手术中恢复。"
+    },
+    {
+     "table": {
+      "headers": [
+       "major losses 重大损失",
+       "pension income 养老金收入"
+      ],
+      "rows": [
+       [
+        "The earthquake caused major losses to infrastructure and homes. 地震给基础设施和房屋造成了重大损失。"
+       ],
+       [
+        "She relies on her monthly pension income for her living expenses. 她依靠每月的养老金收入来支付生活费用。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Health insurance will be our top priority."
+    },
+    {
+     "text": "Being a parent is her first priority."
+    },
+    {
+     "text": "Finishing the report and preparing the presentation are our main priorities this week. 完成报告和准备演示文稿是我们本周的主要优先事项。"
+    },
+    {
+     "table": {
+      "headers": [
+       "be one’s main / top priority 最重要的事；当务之急 （强调重要性排名第一）",
+       "be a high priority 高度优先的事 （重要，但不一定是唯一的首位）",
+       "be an immediate priority 紧迫的任务 （强调“现在就要做”，即时性最强）"
+      ],
+      "rows": [
+       [
+        "Reducing costs is the company's top priority this year. 降低成本是公司今年的首要任务。"
+       ],
+       [
+        "Customer safety is always a high priority for us. 客户安全对我们来说始终是高度优先的事项。"
+       ],
+       [
+        "Our immediate priority is to clear the roads after the snowstorm. 我们的当务之急是扫除暴风雪后的路障。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The main goal of conservative investors is preserving capital. 保守型投资者的主要目标是保全资本。"
+    },
+    {
+     "text": "The foundation is focused on preserving capital while supporting charitable causes. 该基金会致力于保全资本，同时支持慈善事业。"
+    },
+    {
+     "text": "A low-risk investment strategy is essential for preserving capital in volatile markets. 在波动性市场中，低风险投资策略对于保全资本至关重要。"
+    },
+    {
+     "text": "He took on a part-time job for the purpose of generating extra income. 他找了一份兼职工作，目的是创造额外收入。"
+    },
+    {
+     "text": "Investing in dividend stocks is a way of generating extra income. 投资股息股票是一种创造额外收入的方式。"
+    },
+    {
+     "text": "The side project proved successful in generating extra income for the team. 这个副业项目在为团队创造额外收入方面取得了成功。"
+    },
+    {
+     "table": {
+      "headers": [
+       "safeguarding funds 保护资金",
+       "creating more revenue 创造更多收入"
+      ],
+      "rows": [
+       [
+        "The new security system is aimed at safeguarding funds from cyber threats. 新的安全系统旨在保护资金免受网络威胁。"
+       ],
+       [
+        "The sales team is focused on creating more revenue in the next quarter. 销售团队致力于在下一季度创造更多收入。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "You must learn how to construct a logical argument."
+    },
+    {
+     "text": "a well-constructed novel"
+    },
+    {
+     "text": "The financial analyst advised us on how to construct a portfolio balanced between growth and stability. 金融分析师就如何构建一个在增长和稳定之间平衡的投资组合向我们提供了建议。"
+    },
+    {
+     "text": "She learned to construct a portfolio by spreading her investments across different sectors. 她通过将投资分散到不同行业来学习构建投资组合。"
+    },
+    {
+     "text": "To mitigate risk, it is important to construct a portfolio that includes a mix of asset classes. 为了减轻风险，构建一个包含混合资产类别的投资组合是很重要的。"
+    },
+    {
+     "table": {
+      "headers": [
+       "to construct a theory 构建/创立理论",
+       "to construct a diagram 绘制图表/简图",
+       "to construct a plan 制定计划 （侧重于计划的结构严密性）"
+      ],
+      "rows": [
+       [
+        "It took Einstein years to construct the theory of relativity. 爱因斯坦花了很多年才构建出相对论。"
+       ],
+       [
+        "Please construct a diagram to illustrate the flow of energy in this ecosystem. 请绘制一张图表来展示该生态系统中的能量流动。"
+       ],
+       [
+        "We need to construct a detailed plan before we launch the marketing campaign. 在启动营销活动之前，我们需要制定一个详细的计划。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "People in China are eager to buy shares in new businesses. 中国民众热衷于购买新企业的股票。"
+    },
+    {
+     "text": "Shares were floated at 585p. 股票最初上市价为5英镑85便士。"
+    },
+    {
+     "text": "The shares have halved in value. 股价已经跌了一半。"
+    },
+    {
+     "text": "Ramos was arrested along with eleven other men."
+    },
+    {
+     "text": "Dunne was murdered, along with three guards."
+    },
+    {
+     "text": "A little later, a man came along with a biscuit which occupied the whole boot of his car."
+    },
+    {
+     "text": "The prize included a trophy along with a significant monetary award. 奖品包括一座奖杯以及一笔可观的奖金。"
+    },
+    {
+     "text": "She attended the conference along with her colleagues from the research department. 她和她的研究部门的同事一起参加了会议。"
+    },
+    {
+     "text": "The package contained the product along with a detailed instruction manual. 包裹里有产品以及一份详细的说明书。"
+    },
+    {
+     "text": "A failed gilt auction, in particular, could send sterling tumbling. 特别是镀金拍卖失败，很可能导致英镑贬值。"
+    },
+    {
+     "text": "Mr Islam reckons overseas investors have been buying around 30% of recent gilt issuance. Islam认为海外投资者购买了大约30%的金边债券。"
+    },
+    {
+     "text": "The British inflation-linked gilt that is due to mature in 2016 trades on a negative real yield. 英国2016年到期的通胀挂钩金边债券的实际收益率也是负值。"
+    },
+    {
+     "text": "Investors often buy gilts for their low risk and stable income. 投资者通常购买金边债券，因为它们的低风险和稳定收入。"
+    },
+    {
+     "text": "I'd like to make a deposit into my savings account."
+    },
+    {
+     "text": "We have $500. Will it be enough for a deposit? 我们有500元。够不够作押金？"
+    },
+    {
+     "text": "Every act of honesty is a deposit into your personal bank account and will build strength. 诚实的行为像一笔储蓄金，会存入你的个人银行账户并建立你的诚信度。"
+    },
+    {
+     "text": "He kept a large portion of his savings in secure cash deposits. 他把大部分储蓄放在安全的现金存款中。"
+    },
+    {
+     "table": {
+      "headers": [
+       "make a deposit 存钱（入账户）",
+       "make a deposit (on sth.) 支付定金/押金",
+       "direct deposit （工资等）直接汇入账户",
+       "non-refundable deposit 不可退还的定金"
+      ],
+      "rows": [
+       [
+        "I need to go to the bank to make a deposit of $500. 我需要去银行存500美元。"
+       ],
+       [
+        "We made a deposit on the apartment to secure the lease. 我们交了公寓的定金以确保租约。"
+       ],
+       [
+        "Most employees prefer their salary to be paid via direct deposit. 大多数员工希望工资通过直接汇款的方式发放。"
+       ],
+       [
+        "The hotel requires a non-refundable deposit at the time of booking. 酒店要求在预订时支付不可退还的定金。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Housing trusts help to provide houses for people who are not well off."
+    },
+    {
+     "text": "He had set up two charitable trusts. 他已经成立了两家慈善信托机构。"
+    },
+    {
+     "text": "The money will be placed in a trust fund for her daughter. 这笔钱将投入到为她女儿设立的信托基金里。"
+    },
+    {
+     "table": {
+      "headers": [
+       "convertibles 可转换债券",
+       "split capital investment trusts 分拆资本投资信托"
+      ],
+      "rows": [
+       [
+        "Convertibles offer the potential for equity growth with the safety of a bond. 可转换债券提供了股权增长的潜力以及债券的安全性。"
+       ],
+       [
+        "Split capital investment trusts are used to separate income and capital returns. 分拆资本投资信托被用来分离收入和资本回报。"
+       ]
+      ]
+     }
+    }
    ]
   }
  ]

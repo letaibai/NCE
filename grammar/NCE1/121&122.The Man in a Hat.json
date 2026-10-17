@@ -2,110 +2,418 @@
  "grammar": [
   {
    "title": "定语及定语从句的详解",
-   "lines": [
-    "什么是 定语 ？ 什么可以作定语？ 定语的位置？ 需要注意的是，某些定语类型可能更倾向于前置或后置位置，但并非都适用。另外，当句子较长或复杂时，定语的位置可能会有所变化，以确保句子的清晰和连贯。 下面通过一首歌曲来介绍定语的位置： 定语短语 什么是定语从句？ 定语从句的零部件？ 组织定语从句的步骤？ 合并简单句 定语从句的用途 可用于：描述性的说明、限制性说明、补充性说明、确定身份或归属。",
-    "在语法学中，定语是修饰名词或代词的修饰语。它可以提供更多的描述性信息，以帮助我们理解名词或代词所表示的事物。用课文里的话来，使用汉语“的“ ( 用来修饰名词、代词的词 )。",
-    "定语可以包括形容词、名词短语、副词短语、从句等。它们在句子中通常位于名词或代词之前，并与其构成修饰关系。",
-    "中文短语 定语出现的位置 解释",
-    "一个大房子 a big house 形容词作为定语修饰名词。",
-    "我见过的那个人 the person I've seen . 名词短语作为定语修饰名词。",
-    "上面的房间很吵。 The room above is noisy. 副词作为定语修饰名词。",
-    "我喜欢正在读书的学生 I like the students who are studying. 从句作为定语修饰名词。",
-    "a pretty girl (同中文) 形容词（Adjective）：形容词是最常见的定语类型。它们用来修饰名词，描述名词的性质或特征。",
-    "a diamond ring (同中文) 名词短语（Noun Phrase）：名词短语是由名词及其相关修饰语构成的短语，可用作名词的定语。",
-    "a book on the shelf （倒着翻译）介词短语（Prepositional Phrase）：介词短语通常用来修饰名词或代词。",
-    "定语在一个句子中可以位于被修饰的名词前面或后面。它的位置取决于所使用的定语类型和句子结构。",
-    "前置定语（定语出现在被修饰名词的前面） 后置定语(定语出现在被修饰名词的后面)",
-    "The red apple（红色的苹果） The apple on the table（桌子上的苹果）",
-    "An interesting book（一本有趣的书） The book that I read yesterday（我昨天读过的那本书）",
-    "You fill up my senses 你占据了我的心灵",
-    "Like a night in the forest(后置定语) 像林中的夜晚",
-    "Like the mountains in springtime 像春日的群山",
-    "Like a walk in the rain 像雨中的漫步",
-    "Like a storm in the desert 像沙漠中的风暴",
-    "Like a sleeping blue ocean (同中文) 像沉睡中的碧海",
-    "a night in the forest 林中的夜晚",
-    "a walk in the rain 雨中的漫步",
-    "the mountains in springtime 春日的群山",
-    "a storm in the desert 沙漠中的风暴",
-    "Paris in the spring 巴黎之春",
-    "结论：短前长后，单个词(短)在前，短语或句子(长)放后做定语（英文礼让弱小规则，长的放后面，短的放前面）。",
-    "定语从句是一种特殊的从句，用来在句子中作为定语修饰一个名词或代词。它提供了关于被修饰名词的进一步信息。",
-    "” 宾语从句是用一个句子做宾语 “那么定语从句就是：”用一个句子作定语“",
-    "定语 定语从句",
-    "He is a nice(adj.) man. He is the man who loves my friend.(主谓宾)",
-    "She is a female(adj.) manager. She is the manager who served me yesterday.(主谓宾)",
-    "先行词(被修饰的) 关系词(不叫引导词) 例句",
-    "人 who He is the man who loves my friend.",
-    "whom (先行词在从句中充当宾语时) The woman, whom I met at the conference, is a renowned scientist.",
-    "物品 which The car, which is parked outside, belongs to my neighbor.",
-    "人或物 that(安全) The house that we visited last week is now for sale.",
-    "先行词指的是被定语从句修饰的名词或代词。定语从句提供了关于先行词的进一步描述和限定。先行词通常出现在定语从句之前(先行的字面意思是先出现的词)，并且定语从句中的关系词（先行词决定了使用哪个关系词）与先行词建立起连接关系。",
-    "I like the beautiful girl. → I like the beautiful girl 【who is listening to music】.我喜欢 【正在听音乐的】那漂亮的女孩。",
-    "The man is Brad Pitt. → The man【who wears a dress】 is Brad Pitt. 【穿裙子的】那位男士就是皮特。",
-    "God helps the people. → God helps the people【who help themselves.】 上帝帮助那些【帮助自己的】人。",
-    "先找到【先行词】（被修饰的词）: The general 将军",
-    "通过“先行词”确定【关系词】：who",
-    "【找定语】:makes the fewest mistakes 犯错误最少的",
-    "先行词（被修饰的词） 关系词 用一个句子做定语 把话说完",
-    "The general who make s the fewest mistakes is the best general.",
-    "原句 定语从句",
-    "I have a friend. She lives in New York. (我有一个朋友。她住在纽约。) I have a friend who live s in New York. (我有一个住在纽约的朋友。)",
-    "先行词是 \"friend\"，关系代词 \"who\" 引导定语从句，并提供了关于朋友居住地的进一步描述。定语从句被放置在先行词之后。",
-    "定语部分(到下一个谓语动词前)是一个完成的句子，主句也应该是一个完成的句子。",
-    "Whoever can make most people happy is the happiest person in the world.",
-    "People 【 who can make most people happy 】 is the happiest in the world. 【能使大多数人幸福的】 人是世界上最幸福的人。",
-    "People is the happiest in the world. 主句",
-    "Who can make most people happy. 从句",
-    "Do you know the man 【 who watched a movie with me yesterday 】? 你认识 【昨天和我一起看电影的】 那人吗？",
-    "The bag 【 that I bought yesterday 】 is very nice.【我昨天买的】 包非常好。",
-    "The watch 【 that you gave me 】 keeps perfect time.【你给我的】 那块手表走地可准了。",
-    "描述性 定语从句可以提供关于被修饰名词或代词的特征、性质或品质的陈述 The book that I borrowed from the library is very interesting.（我从图书馆借来的那本书非常有趣。）",
-    "限制性 定语从句可以用来限定所修饰名词或代词的范围，帮助阐明具体指的是哪一个 The girl who is playing the piano is my sister.（正在弹钢琴的那个女孩是我的妹妹。）",
-    "补充性 定语从句可以提供额外的信息，使句子更加详细和完整 I bought a shirt, which has beautiful patterns on it.（我买了一件衬衫，上面有美丽的图案。）",
-    "身份或归属 定语从句可以用来确定某个人或物的身份或归属 The lady who is standing behind the counter. 本课文内容",
-    "使用定语从句做名词解释",
-    "What is a present? A present is something that you give your friend on his or her special day.",
-    "What is a dentist? A dentist is someone who can see and protect your teeth.",
-    "What is a mechanic? A mechanic is someone who repairs car or machine.",
-    "What is a “Xiaomianbao”? A “Xiaomianbao” is a van that can carry people."
+   "parts": [
+    {
+     "text": "什么是 定语 ？ 什么可以作定语？ 定语的位置？ 需要注意的是，某些定语类型可能更倾向于前置或后置位置，但并非都适用。另外，当句子较长或复杂时，定语的位置可能会有所变化，以确保句子的清晰和连贯。 下面通过一首歌曲来介绍定语的位置： 定语短语 什么是定语从句？ 定语从句的零部件？ 组织定语从句的步骤？ 合并简单句 定语从句的用途 可用于：描述性的说明、限制性说明、补充性说明、确定身份或归属。"
+    },
+    {
+     "text": "在语法学中，定语是修饰名词或代词的修饰语。它可以提供更多的描述性信息，以帮助我们理解名词或代词所表示的事物。用课文里的话来，使用汉语“的“ ( 用来修饰名词、代词的词 )。"
+    },
+    {
+     "text": "定语可以包括形容词、名词短语、副词短语、从句等。它们在句子中通常位于名词或代词之前，并与其构成修饰关系。"
+    },
+    {
+     "table": {
+      "headers": [
+       "中文短语",
+       "定语出现的位置",
+       "解释"
+      ],
+      "rows": [
+       [
+        "一个大房子",
+        "a big house",
+        "形容词作为定语修饰名词。"
+       ],
+       [
+        "我见过的那个人",
+        "the person I've seen .",
+        "名词短语作为定语修饰名词。"
+       ],
+       [
+        "上面的房间很吵。",
+        "The room above is noisy.",
+        "副词作为定语修饰名词。"
+       ],
+       [
+        "我喜欢正在读书的学生",
+        "I like the students who are studying.",
+        "从句作为定语修饰名词。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "a pretty girl (同中文) 形容词（Adjective）：形容词是最常见的定语类型。它们用来修饰名词，描述名词的性质或特征。"
+    },
+    {
+     "text": "a diamond ring (同中文) 名词短语（Noun Phrase）：名词短语是由名词及其相关修饰语构成的短语，可用作名词的定语。"
+    },
+    {
+     "text": "a book on the shelf （倒着翻译）介词短语（Prepositional Phrase）：介词短语通常用来修饰名词或代词。"
+    },
+    {
+     "text": "定语在一个句子中可以位于被修饰的名词前面或后面。它的位置取决于所使用的定语类型和句子结构。"
+    },
+    {
+     "table": {
+      "headers": [
+       "前置定语（定语出现在被修饰名词的前面）",
+       "后置定语(定语出现在被修饰名词的后面)"
+      ],
+      "rows": [
+       [
+        "The red apple（红色的苹果）",
+        "The apple on the table（桌子上的苹果）"
+       ],
+       [
+        "An interesting book（一本有趣的书）",
+        "The book that I read yesterday（我昨天读过的那本书）"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "You fill up my senses 你占据了我的心灵"
+    },
+    {
+     "text": "Like a night in the forest(后置定语) 像林中的夜晚"
+    },
+    {
+     "text": "Like the mountains in springtime 像春日的群山"
+    },
+    {
+     "text": "Like a walk in the rain 像雨中的漫步"
+    },
+    {
+     "text": "Like a storm in the desert 像沙漠中的风暴"
+    },
+    {
+     "text": "Like a sleeping blue ocean (同中文) 像沉睡中的碧海"
+    },
+    {
+     "text": "a night in the forest 林中的夜晚"
+    },
+    {
+     "text": "a walk in the rain 雨中的漫步"
+    },
+    {
+     "text": "the mountains in springtime 春日的群山"
+    },
+    {
+     "text": "a storm in the desert 沙漠中的风暴"
+    },
+    {
+     "text": "Paris in the spring 巴黎之春"
+    },
+    {
+     "text": "结论：短前长后，单个词(短)在前，短语或句子(长)放后做定语（英文礼让弱小规则，长的放后面，短的放前面）。"
+    },
+    {
+     "text": "定语从句是一种特殊的从句，用来在句子中作为定语修饰一个名词或代词。它提供了关于被修饰名词的进一步信息。"
+    },
+    {
+     "text": "” 宾语从句是用一个句子做宾语 “那么定语从句就是：”用一个句子作定语“"
+    },
+    {
+     "table": {
+      "headers": [
+       "定语",
+       "定语从句"
+      ],
+      "rows": [
+       [
+        "He is a nice(adj.) man.",
+        "He is the man who loves my friend.(主谓宾)"
+       ],
+       [
+        "She is a female(adj.) manager.",
+        "She is the manager who served me yesterday.(主谓宾)"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "先行词(被修饰的)",
+       "关系词(不叫引导词)",
+       "例句"
+      ],
+      "rows": [
+       [
+        "人",
+        "who",
+        "He is the man who loves my friend."
+       ],
+       [
+        "whom (先行词在从句中充当宾语时)",
+        "The woman, whom I met at the conference, is a renowned scientist."
+       ],
+       [
+        "物品",
+        "which",
+        "The car, which is parked outside, belongs to my neighbor."
+       ],
+       [
+        "人或物",
+        "that(安全)",
+        "The house that we visited last week is now for sale."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "先行词指的是被定语从句修饰的名词或代词。定语从句提供了关于先行词的进一步描述和限定。先行词通常出现在定语从句之前(先行的字面意思是先出现的词)，并且定语从句中的关系词（先行词决定了使用哪个关系词）与先行词建立起连接关系。"
+    },
+    {
+     "text": "I like the beautiful girl. → I like the beautiful girl 【who is listening to music】.我喜欢 【正在听音乐的】那漂亮的女孩。"
+    },
+    {
+     "text": "The man is Brad Pitt. → The man【who wears a dress】 is Brad Pitt. 【穿裙子的】那位男士就是皮特。"
+    },
+    {
+     "text": "God helps the people. → God helps the people【who help themselves.】 上帝帮助那些【帮助自己的】人。"
+    },
+    {
+     "text": "先找到【先行词】（被修饰的词）: The general 将军"
+    },
+    {
+     "text": "通过“先行词”确定【关系词】：who"
+    },
+    {
+     "text": "【找定语】:makes the fewest mistakes 犯错误最少的"
+    },
+    {
+     "table": {
+      "headers": [
+       "先行词（被修饰的词）",
+       "关系词",
+       "用一个句子做定语",
+       "把话说完"
+      ],
+      "rows": [
+       [
+        "The general",
+        "who",
+        "make s the fewest mistakes",
+        "is the best general."
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "原句",
+       "定语从句"
+      ],
+      "rows": [
+       [
+        "I have a friend. She lives in New York. (我有一个朋友。她住在纽约。)",
+        "I have a friend who live s in New York. (我有一个住在纽约的朋友。)"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "先行词是 \"friend\"，关系代词 \"who\" 引导定语从句，并提供了关于朋友居住地的进一步描述。定语从句被放置在先行词之后。"
+    },
+    {
+     "text": "定语部分(到下一个谓语动词前)是一个完成的句子，主句也应该是一个完成的句子。"
+    },
+    {
+     "text": "Whoever can make most people happy is the happiest person in the world."
+    },
+    {
+     "text": "People 【 who can make most people happy 】 is the happiest in the world. 【能使大多数人幸福的】 人是世界上最幸福的人。"
+    },
+    {
+     "text": "People is the happiest in the world. 主句"
+    },
+    {
+     "text": "Who can make most people happy. 从句"
+    },
+    {
+     "text": "Do you know the man 【 who watched a movie with me yesterday 】? 你认识 【昨天和我一起看电影的】 那人吗？"
+    },
+    {
+     "text": "The bag 【 that I bought yesterday 】 is very nice.【我昨天买的】 包非常好。"
+    },
+    {
+     "text": "The watch 【 that you gave me 】 keeps perfect time.【你给我的】 那块手表走地可准了。"
+    },
+    {
+     "table": {
+      "headers": [],
+      "rows": [
+       [
+        "描述性",
+        "定语从句可以提供关于被修饰名词或代词的特征、性质或品质的陈述",
+        "The book that I borrowed from the library is very interesting.（我从图书馆借来的那本书非常有趣。）"
+       ],
+       [
+        "限制性",
+        "定语从句可以用来限定所修饰名词或代词的范围，帮助阐明具体指的是哪一个",
+        "The girl who is playing the piano is my sister.（正在弹钢琴的那个女孩是我的妹妹。）"
+       ],
+       [
+        "补充性",
+        "定语从句可以提供额外的信息，使句子更加详细和完整",
+        "I bought a shirt, which has beautiful patterns on it.（我买了一件衬衫，上面有美丽的图案。）"
+       ],
+       [
+        "身份或归属",
+        "定语从句可以用来确定某个人或物的身份或归属",
+        "The lady who is standing behind the counter. 本课文内容"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "使用定语从句做名词解释"
+      ],
+      "rows": [
+       [
+        "What is a present?",
+        "A present is something that you give your friend on his or her special day."
+       ],
+       [
+        "What is a dentist?",
+        "A dentist is someone who can see and protect your teeth."
+       ],
+       [
+        "What is a mechanic?",
+        "A mechanic is someone who repairs car or machine."
+       ],
+       [
+        "What is a “Xiaomianbao”?",
+        "A “Xiaomianbao” is a van that can carry people."
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "定语从句中关系词who、whom的选择",
-   "lines": [
-    "关系词“who、whom”怎么选合适？ 结论：先行词 = 被修饰的名词 §",
-    "road 大路 street 街道",
-    "on the road 在路上 in the street 在街上",
-    "who whom",
-    "先行词做主语 先行词做宾语",
-    "He is the man who loves my friend. 【The man loves my friend. 做主语】 He is the man whom my friend loves . 【My friend loves the man. 做宾语】"
+   "parts": [
+    {
+     "text": "关系词“who、whom”怎么选合适？ 结论：先行词 = 被修饰的名词 §"
+    },
+    {
+     "table": {
+      "headers": [
+       "road 大路",
+       "street 街道"
+      ],
+      "rows": [
+       [
+        "on the road 在路上",
+        "in the street 在街上"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "who",
+       "whom"
+      ],
+      "rows": [
+       [
+        "先行词做主语",
+        "先行词做宾语"
+       ],
+       [
+        "He is the man who loves my friend. 【The man loves my friend. 做主语】",
+        "He is the man whom my friend loves . 【My friend loves the man. 做宾语】"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "用定语从句升级句型",
-   "lines": [
-    "定语从句的理解和识别 写作应用：用定语从句升级句型。 2011 年北京市中考作文： 2008 年北京中考作文: I ’d like to say Linhao is a hero. We should learn from him. Linhao is a nine-year old student. He saved two of his classmates during… I ’ d like to say Linhao is a hero whom we should learn from . Linhao is a nine-year old student who saved two of his classmates during …",
-    "He【who doesn’t reach the Great Wall】 is not a true man. 不到长城非好汉。",
-    "He【who laughs last】 laughs best. 谁笑到最后谁笑得最好。",
-    "He【who learns but does not think】 is lost. 学而不思则罔，思而不学则殆。",
-    "原句 定语从句",
-    "I have a close friend. He always takes my advice. I have a close friend who always takes my advice.",
-    "升级后(描述两句话提到的同一人。)：英文中比较忌讳重复出现，当我们使用2个简单句来同时描述一个人、一件事、一个物品时，我们就需要优先考虑使用定语从句来替换。",
-    "Alice 表示自己的好友 Angela 问自己借钱，但自己不知是否该借给她，担心对方可能不能归还。问刘明是否遇到同样的问题？请刘明给自己一些建议，期待回信。假如你是刘明，给Alice 写一封信…",
-    "I think you can lend money to a person. But choose the honest person. They will return you the money.",
-    "定语从句升级版：",
-    "I think you can lend money to an honest person who will return you the money .",
-    "汶川地震(Wenchuan Earthquake)发生后,9 岁的学生林浩救了两名同学,然后步行了7 个小时到了安全地点, 就他的事迹以“Learn from the Hero” 为题, 写一篇不少于 60 词的作文。",
-    "提示词:a student , nine years old , happen , save , walk , to safety , be deeply moved , brave , give up",
-    "定语从句升级版：",
-    "原句 定语 定语从句",
-    "I am reading the book. The book is very interesting. I am reading an interesting book.强调书有趣 I am reading the book which is interesting. The book 【which I am reading 】 is interesting. 强调我正在阅读的这本书是有趣的",
-    "Do you know the man? He invited me to have dinner yesterday. Do you know the man who invited me to have dinner yesterday ?"
+   "parts": [
+    {
+     "text": "定语从句的理解和识别 写作应用：用定语从句升级句型。 2011 年北京市中考作文： 2008 年北京中考作文: I ’d like to say Linhao is a hero. We should learn from him. Linhao is a nine-year old student. He saved two of his classmates during… I ’ d like to say Linhao is a hero whom we should learn from . Linhao is a nine-year old student who saved two of his classmates during …"
+    },
+    {
+     "text": "He【who doesn’t reach the Great Wall】 is not a true man. 不到长城非好汉。"
+    },
+    {
+     "text": "He【who laughs last】 laughs best. 谁笑到最后谁笑得最好。"
+    },
+    {
+     "text": "He【who learns but does not think】 is lost. 学而不思则罔，思而不学则殆。"
+    },
+    {
+     "table": {
+      "headers": [
+       "原句",
+       "定语从句"
+      ],
+      "rows": [
+       [
+        "I have a close friend. He always takes my advice.",
+        "I have a close friend who always takes my advice."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "升级后(描述两句话提到的同一人。)：英文中比较忌讳重复出现，当我们使用2个简单句来同时描述一个人、一件事、一个物品时，我们就需要优先考虑使用定语从句来替换。"
+    },
+    {
+     "text": "Alice 表示自己的好友 Angela 问自己借钱，但自己不知是否该借给她，担心对方可能不能归还。问刘明是否遇到同样的问题？请刘明给自己一些建议，期待回信。假如你是刘明，给Alice 写一封信…"
+    },
+    {
+     "text": "I think you can lend money to a person. But choose the honest person. They will return you the money."
+    },
+    {
+     "text": "定语从句升级版："
+    },
+    {
+     "text": "I think you can lend money to an honest person who will return you the money ."
+    },
+    {
+     "text": "汶川地震(Wenchuan Earthquake)发生后,9 岁的学生林浩救了两名同学,然后步行了7 个小时到了安全地点, 就他的事迹以“Learn from the Hero” 为题, 写一篇不少于 60 词的作文。"
+    },
+    {
+     "text": "提示词:a student , nine years old , happen , save , walk , to safety , be deeply moved , brave , give up"
+    },
+    {
+     "text": "定语从句升级版："
+    },
+    {
+     "table": {
+      "headers": [
+       "原句",
+       "定语",
+       "定语从句"
+      ],
+      "rows": [
+       [
+        "I am reading the book. The book is very interesting.",
+        "I am reading an interesting book.强调书有趣 I am reading the book which is interesting.",
+        "The book 【which I am reading 】 is interesting. 强调我正在阅读的这本书是有趣的"
+       ],
+       [
+        "Do you know the man? He invited me to have dinner yesterday.",
+        "Do you know the man who invited me to have dinner yesterday ?"
+       ]
+      ]
+     }
+    }
    ]
   }
  ]

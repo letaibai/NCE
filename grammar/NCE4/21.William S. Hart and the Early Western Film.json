@@ -2,69 +2,233 @@
  "grammar": [
   {
    "title": "说明",
-   "lines": [
-    "Unlike most of his contemporaries in Hollywood, Hart actually knew something of the old West. contemporary n. 同时代的人；同时期的东西 ；adj. 当代的；同时代的；属于同一时期的 He had lived in it as a child when it was already disappearing , and his hero was firmly rooted in his memories and experiences, and in both the history and the mythology of the vanished frontier. Hart was born in 1870, just after the end of American Civil War in 1865. After the Civil War, slavery was abolished, four trans-continent railroads were built, and American economy was rapidly developed. Meanwhile, the Wild West was fading away. 故事背景 be rooted in ... 根植于... 谓语省略介词留 并列句不省略动词后的介词 And although no period or place in American history has been more absurdly romanticized , myth and reality did join hands in at least one arena, the conflict between the individual and encroaching civilization. join hands 共存(co-exist);携手合作 conflict n. clash; collision 冲突",
-    "She was a contemporary of Picasso.",
-    "Shakespeare and Marlowe were contemporaries. 莎士比亚和马洛斯是同时代的人。",
-    "She specializes in contemporary literature and art. 她专攻当代文学和艺术。",
-    "The building is contemporary with the construction of the cathedral. 这座建筑与大教堂的建造属于同一时期。",
-    "counterpart 职位（或作用）相当的人；对应的事物 The foreign minister met with his German counterpart to discuss trade issues. 外交部长会见了他的德国对应官员，讨论贸易问题。 The sales director phoned her counterpart in the other firm. The prime minister is meeting his Canadian counterpart to discuss trade.",
-    "The conflict in this area was rooted in history and religion. 该地区的冲突根植于历史和宗教。",
-    "Racism is still deeply rooted in our society. 种族主义在我们的社会中仍然根深蒂固。",
-    "Their life is rooted in Chicago now. 他们在芝加哥定居了。",
-    "be embedded in … 根植于…；嵌入… He always meant to go back one day, but not to stay. His roots and mine had become too firmly embedded in the new land .",
-    "be entrenched in … 根深蒂固于…；牢固地确立于… Gender inequality remains deeply entrenched in the country's social system. 性别不平等在该国的社会体系中仍然根深蒂固。",
-    "be ingrained in … 根深蒂固于…；深植于…（指态度、信仰等） Respect for elders is a value that is ingrained in the culture. 尊敬长辈是一种根植于该文化的价值观。",
-    "deep-seated 根深蒂固的 She has a deep-seated faith in god that comforts her. 她对上帝有着根深蒂固的信仰，这让她感到安慰。",
-    "deep-rooted 根深蒂固的 It is difficult to change a deep-rooted bad habit without strong will. 没有坚强的意志，很难改变一个根深蒂固的坏习惯。",
-    "inveterate hatred / prejudice / distrust 根深蒂固的仇恨/偏见/不信任（贬义） We must fight against inveterate prejudice in society. 我们必须与社会中根深蒂固的偏见作斗争。",
-    "an inveterate smoker 老烟鬼（贬义） If we remain inveterate smokers, it is only because we have so often experienced the frustration that results from failure . an inveterate smoker / drinker / gambler / liar",
-    "have its roots in … 起源于…；根源于… The tradition has its roots in ancient history. 这个传统起源于古代历史。",
-    "stem from … 来源于…；源自… Most of the difficulties stem from a lack of funding. 大多数困难来源于资金的缺乏。",
-    "originate in … 起源于…；发源于… Printing has its roots in / stems from / originates in China.. 印刷术被认为起源于中国。",
-    "Carlyle was entirely ignorant of what the bottle in his pocket contained, of the nature of the illness from which his friend was suffering, and of what had previously been wrong with his wife, but a medicine that had worked so well in one form of illness would surely be of equal benefit in another , …",
-    "The adverse effects of the Great Leap Forward and of the Cultural Revolution still loom large in the minds of Chinese policy makers.",
-    "For in a university, science majors look down on humanities majors, foreign language majors on Chinese majors, Chinese majors on philosophy majors, philosophy majors on sociology majors, and sociology majors on education majors. Since education majors have no one to look down on, they can only despise the professors in their own department. ——‘Fortress besieged’ by Zhongshu Qian",
-    "Science and art can often join hands in architectural design.",
-    "The two opposing factions decided to join hands to achieve a common goal. 携手合作",
-    "After a long rivalry, the two companies agreed to join hands on the new project. 合作",
-    "There was a conflict between what he said and what he did.",
-    "The story is about a young woman's inner conflict. 内心的矛盾",
-    "Management and staff were in conflict over the new working hours. 处于冲突之中"
+   "parts": [
+    {
+     "text": "Unlike most of his contemporaries in Hollywood, Hart actually knew something of the old West. contemporary n. 同时代的人；同时期的东西 ；adj. 当代的；同时代的；属于同一时期的 He had lived in it as a child when it was already disappearing , and his hero was firmly rooted in his memories and experiences, and in both the history and the mythology of the vanished frontier. Hart was born in 1870, just after the end of American Civil War in 1865. After the Civil War, slavery was abolished, four trans-continent railroads were built, and American economy was rapidly developed. Meanwhile, the Wild West was fading away. 故事背景 be rooted in ... 根植于... 谓语省略介词留 并列句不省略动词后的介词 And although no period or place in American history has been more absurdly romanticized , myth and reality did join hands in at least one arena, the conflict between the individual and encroaching civilization. join hands 共存(co-exist);携手合作 conflict n. clash; collision 冲突"
+    },
+    {
+     "text": "She was a contemporary of Picasso."
+    },
+    {
+     "text": "Shakespeare and Marlowe were contemporaries. 莎士比亚和马洛斯是同时代的人。"
+    },
+    {
+     "text": "She specializes in contemporary literature and art. 她专攻当代文学和艺术。"
+    },
+    {
+     "text": "The building is contemporary with the construction of the cathedral. 这座建筑与大教堂的建造属于同一时期。"
+    },
+    {
+     "table": {
+      "headers": [
+       "counterpart 职位（或作用）相当的人；对应的事物"
+      ],
+      "rows": [
+       [
+        "The foreign minister met with his German counterpart to discuss trade issues. 外交部长会见了他的德国对应官员，讨论贸易问题。 The sales director phoned her counterpart in the other firm. The prime minister is meeting his Canadian counterpart to discuss trade."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The conflict in this area was rooted in history and religion. 该地区的冲突根植于历史和宗教。"
+    },
+    {
+     "text": "Racism is still deeply rooted in our society. 种族主义在我们的社会中仍然根深蒂固。"
+    },
+    {
+     "text": "Their life is rooted in Chicago now. 他们在芝加哥定居了。"
+    },
+    {
+     "table": {
+      "headers": [
+       "be embedded in … 根植于…；嵌入…",
+       "be entrenched in … 根深蒂固于…；牢固地确立于…",
+       "be ingrained in … 根深蒂固于…；深植于…（指态度、信仰等）",
+       "deep-seated 根深蒂固的",
+       "deep-rooted 根深蒂固的",
+       "inveterate hatred / prejudice / distrust 根深蒂固的仇恨/偏见/不信任（贬义）",
+       "an inveterate smoker 老烟鬼（贬义）",
+       "have its roots in … 起源于…；根源于…",
+       "stem from … 来源于…；源自…",
+       "originate in … 起源于…；发源于…"
+      ],
+      "rows": [
+       [
+        "He always meant to go back one day, but not to stay. His roots and mine had become too firmly embedded in the new land ."
+       ],
+       [
+        "Gender inequality remains deeply entrenched in the country's social system. 性别不平等在该国的社会体系中仍然根深蒂固。"
+       ],
+       [
+        "Respect for elders is a value that is ingrained in the culture. 尊敬长辈是一种根植于该文化的价值观。"
+       ],
+       [
+        "She has a deep-seated faith in god that comforts her. 她对上帝有着根深蒂固的信仰，这让她感到安慰。"
+       ],
+       [
+        "It is difficult to change a deep-rooted bad habit without strong will. 没有坚强的意志，很难改变一个根深蒂固的坏习惯。"
+       ],
+       [
+        "We must fight against inveterate prejudice in society. 我们必须与社会中根深蒂固的偏见作斗争。"
+       ],
+       [
+        "If we remain inveterate smokers, it is only because we have so often experienced the frustration that results from failure . an inveterate smoker / drinker / gambler / liar"
+       ],
+       [
+        "The tradition has its roots in ancient history. 这个传统起源于古代历史。"
+       ],
+       [
+        "Most of the difficulties stem from a lack of funding. 大多数困难来源于资金的缺乏。"
+       ],
+       [
+        "Printing has its roots in / stems from / originates in China.. 印刷术被认为起源于中国。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Carlyle was entirely ignorant of what the bottle in his pocket contained, of the nature of the illness from which his friend was suffering, and of what had previously been wrong with his wife, but a medicine that had worked so well in one form of illness would surely be of equal benefit in another , …"
+    },
+    {
+     "text": "The adverse effects of the Great Leap Forward and of the Cultural Revolution still loom large in the minds of Chinese policy makers."
+    },
+    {
+     "text": "For in a university, science majors look down on humanities majors, foreign language majors on Chinese majors, Chinese majors on philosophy majors, philosophy majors on sociology majors, and sociology majors on education majors. Since education majors have no one to look down on, they can only despise the professors in their own department. ——‘Fortress besieged’ by Zhongshu Qian"
+    },
+    {
+     "text": "Science and art can often join hands in architectural design."
+    },
+    {
+     "text": "The two opposing factions decided to join hands to achieve a common goal. 携手合作"
+    },
+    {
+     "text": "After a long rivalry, the two companies agreed to join hands on the new project. 合作"
+    },
+    {
+     "text": "There was a conflict between what he said and what he did."
+    },
+    {
+     "text": "The story is about a young woman's inner conflict. 内心的矛盾"
+    },
+    {
+     "text": "Management and staff were in conflict over the new working hours. 处于冲突之中"
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "解释",
-   "lines": [
-    "Men accustomed to struggling for survival against the elements and Indians were bewildered by politicians, bankers and businessmen, and (were) unhorsed by fences, laws and alien taboos. be accustomed to sth. / doing 习惯于 against the elements 与大自然作斗争 古人不知道 element (所以仅代表 earth, water, fire, air) 古文中 the elements 指“大自然” unhorse 使下马/使措手不及（引申义） Hart's good-bad man was always an outsider, always one of the disinherited, and if he found it necessary to shoot a sheriff or rob a bank along the way, his early audiences found it easy to understand and forgive, especially when it was Hart who , in the end, overcame the attacking Indians. 形式宾语 Audiences in the second decade of the 20th century found it pleasant to escape to a time when life, though hard, was relatively simple. decade 十年 We still do ; living in a world in which undeclared aggression, war, hypocrisy, chicanery, anarchy and impending immolation are part of our daily lives , we all want a code to live by. We still find it pleasant to escape to a time when life, though hard, was relatively simple. 课文补全 live by ... 按照…生活/遵循（准则）生活",
-    "For men accustomed to eating seven-course dinners and sleeping between fine linen sheets at home, the change to the Alps must have very hard indeed .",
-    "How do we break the pattern of praise we're all so accustomed to? 我们该如何打破我们都习以为常的表扬模式呢？",
-    "Martha gave her hand a clumsy little shake, as if she was not accustomed to this sort of thing either. 玛莎笨拙地轻轻摇了一下她的手，似乎她也不习惯这种事。",
-    "be used to sth. / doing 习惯于 She quickly got used to the cold weather here.她很快就习惯了这里的寒冷天气。",
-    "The brave explorers had to struggle against the elements for days to reach the summit.勇敢的探险家们不得不与大自然作斗争数日才到达了山顶。",
-    "The small tent offered little protection against the elements.那个小帐篷几乎不能提供对抗大自然的保护。",
-    "Farmers often face a tough battle against the elements to ensure a good harvest.农民经常面临与大自然的艰难斗争来确保丰收。",
-    "fight / battle / struggle against the elements 与困难做斗争/与大自然做斗争 The sailors fought against the elements during the storm.在暴风雨中，水手们与大自然作斗争。",
-    "fight / battle / struggle against the odds 与困难做斗争/战胜困难 They would have continued to struggle against economic odds and would have lived in obscurity .",
-    "The unexpected question completely unhorsed the speaker, leaving them speechless.这个意料之外的问题使演讲者完全措手不及，说不出话来。",
-    "The sudden scandal effectively unhorsed the politician from his position of power.突如其来的丑闻有效地将这位政治家从权力宝座上拉了下来。",
-    "In the jousting match, a skilled blow unhorsed his opponent.在马上比武中，一次熟练的打击使他的对手落马。",
-    "When their father died, they thought it their duty to keep Eric in hiding .",
-    "I find it difficult to learn a new language in a short time.我发现在短时间内学习一门新语言是困难的。",
-    "I couldn't imagine it raining all weekend for our trip.我无法想象我们旅行的整个周末都在下雨。",
-    "She made it clear that she would not tolerate any delays . 她明确表示不会容忍任何延误。",
-    "I appreciate it when people are on time for meetings .我欣赏人们开会时准时的行为。",
-    "The company will consider it important what the customers think about the new product .公司会认为顾客对新产品的看法是重要的。",
-    "Technology advanced rapidly in the last decade.在过去的十年里，科技发展迅速。",
-    "The band released five albums over the course of a decade.这个乐队在十年内发行了五张专辑。",
-    "The company celebrated its first decade in business.这家公司庆祝了其商业运作的第一个十年。",
-    "century 百年/世纪 The cathedral was built in the 14th century.这座大教堂建于十四世纪。",
-    "millennium 千年 We celebrated the turn of the new millennium in 2000.我们在2000年庆祝了新千年的到来。",
-    "I have always tried to live by my faith.我一直努力按我的信仰生活。",
-    "The team promises to live by its commitment to fair play.该团队承诺将遵循其公平竞争的承诺。",
-    "He has a simple philosophy that he tries to live by every day.他有一个简单的哲学，并努力每天遵循它生活。"
+   "parts": [
+    {
+     "text": "Men accustomed to struggling for survival against the elements and Indians were bewildered by politicians, bankers and businessmen, and (were) unhorsed by fences, laws and alien taboos. be accustomed to sth. / doing 习惯于 against the elements 与大自然作斗争 古人不知道 element (所以仅代表 earth, water, fire, air) 古文中 the elements 指“大自然” unhorse 使下马/使措手不及（引申义） Hart's good-bad man was always an outsider, always one of the disinherited, and if he found it necessary to shoot a sheriff or rob a bank along the way, his early audiences found it easy to understand and forgive, especially when it was Hart who , in the end, overcame the attacking Indians. 形式宾语 Audiences in the second decade of the 20th century found it pleasant to escape to a time when life, though hard, was relatively simple. decade 十年 We still do ; living in a world in which undeclared aggression, war, hypocrisy, chicanery, anarchy and impending immolation are part of our daily lives , we all want a code to live by. We still find it pleasant to escape to a time when life, though hard, was relatively simple. 课文补全 live by ... 按照…生活/遵循（准则）生活"
+    },
+    {
+     "text": "For men accustomed to eating seven-course dinners and sleeping between fine linen sheets at home, the change to the Alps must have very hard indeed ."
+    },
+    {
+     "text": "How do we break the pattern of praise we're all so accustomed to? 我们该如何打破我们都习以为常的表扬模式呢？"
+    },
+    {
+     "text": "Martha gave her hand a clumsy little shake, as if she was not accustomed to this sort of thing either. 玛莎笨拙地轻轻摇了一下她的手，似乎她也不习惯这种事。"
+    },
+    {
+     "table": {
+      "headers": [],
+      "rows": [
+       [
+        "be used to sth. / doing 习惯于",
+        "She quickly got used to the cold weather here.她很快就习惯了这里的寒冷天气。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The brave explorers had to struggle against the elements for days to reach the summit.勇敢的探险家们不得不与大自然作斗争数日才到达了山顶。"
+    },
+    {
+     "text": "The small tent offered little protection against the elements.那个小帐篷几乎不能提供对抗大自然的保护。"
+    },
+    {
+     "text": "Farmers often face a tough battle against the elements to ensure a good harvest.农民经常面临与大自然的艰难斗争来确保丰收。"
+    },
+    {
+     "table": {
+      "headers": [],
+      "rows": [
+       [
+        "fight / battle / struggle against the elements 与困难做斗争/与大自然做斗争",
+        "The sailors fought against the elements during the storm.在暴风雨中，水手们与大自然作斗争。"
+       ],
+       [
+        "fight / battle / struggle against the odds 与困难做斗争/战胜困难",
+        "They would have continued to struggle against economic odds and would have lived in obscurity ."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The unexpected question completely unhorsed the speaker, leaving them speechless.这个意料之外的问题使演讲者完全措手不及，说不出话来。"
+    },
+    {
+     "text": "The sudden scandal effectively unhorsed the politician from his position of power.突如其来的丑闻有效地将这位政治家从权力宝座上拉了下来。"
+    },
+    {
+     "text": "In the jousting match, a skilled blow unhorsed his opponent.在马上比武中，一次熟练的打击使他的对手落马。"
+    },
+    {
+     "text": "When their father died, they thought it their duty to keep Eric in hiding ."
+    },
+    {
+     "text": "I find it difficult to learn a new language in a short time.我发现在短时间内学习一门新语言是困难的。"
+    },
+    {
+     "text": "I couldn't imagine it raining all weekend for our trip.我无法想象我们旅行的整个周末都在下雨。"
+    },
+    {
+     "text": "She made it clear that she would not tolerate any delays . 她明确表示不会容忍任何延误。"
+    },
+    {
+     "text": "I appreciate it when people are on time for meetings .我欣赏人们开会时准时的行为。"
+    },
+    {
+     "text": "The company will consider it important what the customers think about the new product .公司会认为顾客对新产品的看法是重要的。"
+    },
+    {
+     "text": "Technology advanced rapidly in the last decade.在过去的十年里，科技发展迅速。"
+    },
+    {
+     "text": "The band released five albums over the course of a decade.这个乐队在十年内发行了五张专辑。"
+    },
+    {
+     "text": "The company celebrated its first decade in business.这家公司庆祝了其商业运作的第一个十年。"
+    },
+    {
+     "table": {
+      "headers": [
+       "century 百年/世纪",
+       "millennium 千年"
+      ],
+      "rows": [
+       [
+        "The cathedral was built in the 14th century.这座大教堂建于十四世纪。"
+       ],
+       [
+        "We celebrated the turn of the new millennium in 2000.我们在2000年庆祝了新千年的到来。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "I have always tried to live by my faith.我一直努力按我的信仰生活。"
+    },
+    {
+     "text": "The team promises to live by its commitment to fair play.该团队承诺将遵循其公平竞争的承诺。"
+    },
+    {
+     "text": "He has a simple philosophy that he tries to live by every day.他有一个简单的哲学，并努力每天遵循它生活。"
+    }
    ]
   }
  ]

@@ -2,59 +2,207 @@
  "grammar": [
   {
    "title": "形容词和副词的比较级和最高级",
-   "lines": [
-    "形容词/副词的作用 形容词比较级 § 介词短语限定最高级的 范围",
-    "形容词 修饰 名词 其它 都是 副词 修饰(动词/句子/其他的形容词 或 副词)",
-    "This is a wonderful world. 放到名词前直接修饰 We are living in a beautiful new house. 双形容词 Their sleeping bags were warm and comfortable . 双形容词放到主系表结构里(此时可修饰代词) 形容词修饰名词的2个位置：1. 放到名词前直接修饰；2. 放到主系表结构间接修饰(可修饰代词) Roy acted quick ly . 修饰动词 Sudden ly , one of the children kicked a ball. “突然”副词修饰整个句子 It rained continual ly and it was often bitter ly cold. 在动词rained后面，形容词cold前面(形前动后) The students from elite universities catch up very quick ly . 副词very修饰了副词quickly(副词可修饰其它副词)",
-    "比较级相当于汉语中“比…更…”这种句型，最高级则表示在某个范围“最…”的概念。最高级在使用时前面通常要加定冠词 the，并有一个短语或从句限定其范围。",
-    "条件 比较级规则 最高级规则 例句",
-    "单音节词和少数双音节词 在词尾加 -er 在词尾加 -est tall → taller → tallest",
-    "以辅音+y结尾的 变y为i，再加 -er 变y为i，再加 -est happy → happier → happiest",
-    "以-e结尾的词 加 -r 加 -st large → larger → largest",
-    "nice → nicer → nicest",
-    "以辅+元+辅 (汉堡包结构)的(单音节词) 双写最后一个字母，再加 -er 双写最后一个字母，再加-est big → bigger → biggest",
-    "thin → thinner → thinnest",
-    "比较级通常用于 两者之间 的比较，最高级需要 三个或者以上 比较对象。",
-    "最高级 句型：adj./adv的最高级 ＋（介词短语表示比较的范围） 比较级 句型：adj./adv. 的比较级 + than +比较的对象",
-    "My younger sister is the tall est one in her class .(范围in her class) The most serious problem of the project is the lack of power. （范围the project） I am taller than you. Air tickets are more expensive than train tickets. Sometimes machines can perform better than human beings.",
-    "三个或者是三个音节以上（多音节）",
-    "比较级的构成 : more + 原级 最高级的构成 : the most + 原级",
-    "在2者比较时 than 是固定的(中文里的\"比\")，翻译为 “和....相比 + 更 ...”。",
-    "有一些双音节词既可在单词结尾加-er，-est，也可与 more/less 和 most/least 连用，如 narrow，clever， common，pleasant 等。",
-    "clever → cleverer → more clever",
-    "fun adj. 快乐 → more fun （美国人用）",
-    "of + 比较对象的范围 in + 地点范围",
-    "He is the tall est of all the students. 所有学生里最高 He is the tall est in our class. 教室里最高"
+   "parts": [
+    {
+     "text": "形容词/副词的作用 形容词比较级 § 介词短语限定最高级的 范围"
+    },
+    {
+     "table": {
+      "headers": [
+       "形容词 修饰 名词",
+       "其它 都是 副词 修饰(动词/句子/其他的形容词 或 副词)"
+      ],
+      "rows": [
+       [
+        "This is a wonderful world. 放到名词前直接修饰 We are living in a beautiful new house. 双形容词 Their sleeping bags were warm and comfortable . 双形容词放到主系表结构里(此时可修饰代词) 形容词修饰名词的2个位置：1. 放到名词前直接修饰；2. 放到主系表结构间接修饰(可修饰代词)",
+        "Roy acted quick ly . 修饰动词 Sudden ly , one of the children kicked a ball. “突然”副词修饰整个句子 It rained continual ly and it was often bitter ly cold. 在动词rained后面，形容词cold前面(形前动后) The students from elite universities catch up very quick ly . 副词very修饰了副词quickly(副词可修饰其它副词)"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "比较级相当于汉语中“比…更…”这种句型，最高级则表示在某个范围“最…”的概念。最高级在使用时前面通常要加定冠词 the，并有一个短语或从句限定其范围。"
+    },
+    {
+     "table": {
+      "headers": [
+       "条件",
+       "比较级规则",
+       "最高级规则",
+       "例句"
+      ],
+      "rows": [
+       [
+        "单音节词和少数双音节词",
+        "在词尾加 -er",
+        "在词尾加 -est",
+        "tall → taller → tallest"
+       ],
+       [
+        "以辅音+y结尾的",
+        "变y为i，再加 -er",
+        "变y为i，再加 -est",
+        "happy → happier → happiest"
+       ],
+       [
+        "以-e结尾的词",
+        "加 -r",
+        "加 -st",
+        "large → larger → largest"
+       ],
+       [
+        "nice → nicer → nicest"
+       ],
+       [
+        "以辅+元+辅 (汉堡包结构)的(单音节词)",
+        "双写最后一个字母，再加 -er",
+        "双写最后一个字母，再加-est",
+        "big → bigger → biggest"
+       ],
+       [
+        "thin → thinner → thinnest"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "比较级通常用于 两者之间 的比较，最高级需要 三个或者以上 比较对象。"
+    },
+    {
+     "table": {
+      "headers": [
+       "最高级 句型：adj./adv的最高级 ＋（介词短语表示比较的范围）",
+       "比较级 句型：adj./adv. 的比较级 + than +比较的对象",
+       "三个或者是三个音节以上（多音节）",
+       "比较级的构成 : more + 原级",
+       "最高级的构成 : the most + 原级"
+      ],
+      "rows": [
+       [
+        "My younger sister is the tall est one in her class .(范围in her class) The most serious problem of the project is the lack of power. （范围the project）",
+        "I am taller than you. Air tickets are more expensive than train tickets. Sometimes machines can perform better than human beings."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "在2者比较时 than 是固定的(中文里的\"比\")，翻译为 “和....相比 + 更 ...”。"
+    },
+    {
+     "text": "有一些双音节词既可在单词结尾加-er，-est，也可与 more/less 和 most/least 连用，如 narrow，clever， common，pleasant 等。"
+    },
+    {
+     "text": "clever → cleverer → more clever"
+    },
+    {
+     "text": "fun adj. 快乐 → more fun （美国人用）"
+    },
+    {
+     "table": {
+      "headers": [
+       "of + 比较对象的范围",
+       "in + 地点范围"
+      ],
+      "rows": [
+       [
+        "He is the tall est of all the students. 所有学生里最高",
+        "He is the tall est in our class. 教室里最高"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "不规则动词",
-   "lines": [
-    "原型 过去式 过去分词 现在分词",
-    "win won won winning",
-    "grow grew grown",
-    "build built built"
+   "parts": [
+    {
+     "table": {
+      "headers": [
+       "原型",
+       "过去式",
+       "过去分词",
+       "现在分词"
+      ],
+      "rows": [
+       [
+        "win",
+        "won",
+        "won",
+        "winning"
+       ],
+       [
+        "grow",
+        "grew",
+        "grown",
+        ""
+       ],
+       [
+        "build",
+        "built",
+        "built",
+        ""
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "不规则变化的比较级和最高级",
-   "lines": [
-    "记忆口诀:好、坏、多、少、老、远 §",
-    "原级 比较级 最高级",
-    "good adj. 好 better 更好 best 最好",
-    "well adv. 好",
-    "bad 坏 worse 更坏 worst 最坏",
-    "ill 坏",
-    "many 多(修饰可数名词复数) more 更多 most 最多",
-    "much 多(修饰不可数名词)",
-    "little 剩一点(消极的说法) less 更少 least 最少",
-    "a little 有一点(积极的说法)",
-    "old 老 older 更老、更旧（可指物）/ elder (人)更老、更年长 oldest / eldest 最年长",
-    "far 远 farther adj.（距离）更远的(far的比较级) / further adj.(距离)更远的、adv.更大程度的，从长远考虑的，更深入的(抽象上的远) farthest / furthest 最远"
+   "parts": [
+    {
+     "text": "记忆口诀:好、坏、多、少、老、远 §"
+    },
+    {
+     "table": {
+      "headers": [
+       "原级",
+       "比较级",
+       "最高级",
+       "good adj. 好",
+       "well adv. 好",
+       "bad 坏",
+       "ill 坏",
+       "many 多(修饰可数名词复数)",
+       "much 多(修饰不可数名词)",
+       "little 剩一点(消极的说法)",
+       "a little 有一点(积极的说法)",
+       "old 老",
+       "far 远"
+      ],
+      "rows": [
+       [
+        "better 更好",
+        "best 最好"
+       ],
+       [
+        "worse 更坏",
+        "worst 最坏"
+       ],
+       [
+        "more 更多",
+        "most 最多"
+       ],
+       [
+        "less 更少",
+        "least 最少"
+       ],
+       [
+        "older 更老、更旧（可指物）/ elder (人)更老、更年长",
+        "oldest / eldest 最年长"
+       ],
+       [
+        "farther adj.（距离）更远的(far的比较级) / further adj.(距离)更远的、adv.更大程度的，从长远考虑的，更深入的(抽象上的远)",
+        "farthest / furthest 最远"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],

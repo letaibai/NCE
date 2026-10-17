@@ -2,177 +2,637 @@
  "grammar": [
   {
    "title": "人类面临的竞争",
-   "lines": [
-    "Competition between ourselves, person against person, community against community, still persists , however; and it is as fierce as it ever was . persist v. 1. if something bad persists, it continues to exist or happen（坏事）持续 persist v. 2. continue doing sth. in a determined but often unreasonable way 执意做某事 fierce adj. involving a lot of force or energy（竞争等）激烈的",
-    "If the pain persists, consult a doctor.",
-    "The belief that the earth was flat persisted for many centuries.",
-    "The habit of procrastination still persists, however, despite her best efforts to change.尽管她尽了最大努力去改变，然而拖延的习惯仍然持续存在。",
-    "If he persists in asking awkward questions, then send him to the boss.",
-    "She was sentimentally attached to this house, for even though it was far too big for her needs, she persisted in living there long after her husband's death.",
-    "persist in doing sth. 坚持做某事 / 执意做某事 If you persist in ignoring my advice, you will eventually regret it. 如果你执意不听我的建议，你最终会后悔的。",
-    "We face fierce competition from overseas competitors.",
-    "There was a fierce opposition of the proposal."
+   "parts": [
+    {
+     "text": "Competition between ourselves, person against person, community against community, still persists , however; and it is as fierce as it ever was . persist v. 1. if something bad persists, it continues to exist or happen（坏事）持续 persist v. 2. continue doing sth. in a determined but often unreasonable way 执意做某事 fierce adj. involving a lot of force or energy（竞争等）激烈的"
+    },
+    {
+     "text": "If the pain persists, consult a doctor."
+    },
+    {
+     "text": "The belief that the earth was flat persisted for many centuries."
+    },
+    {
+     "text": "The habit of procrastination still persists, however, despite her best efforts to change.尽管她尽了最大努力去改变，然而拖延的习惯仍然持续存在。"
+    },
+    {
+     "text": "If he persists in asking awkward questions, then send him to the boss."
+    },
+    {
+     "text": "She was sentimentally attached to this house, for even though it was far too big for her needs, she persisted in living there long after her husband's death."
+    },
+    {
+     "table": {
+      "headers": [
+       "persist in doing sth. 坚持做某事 / 执意做某事"
+      ],
+      "rows": [
+       [
+        "If you persist in ignoring my advice, you will eventually regret it. 如果你执意不听我的建议，你最终会后悔的。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "We face fierce competition from overseas competitors."
+    },
+    {
+     "text": "There was a fierce opposition of the proposal."
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "人类相互竞争的特征",
-   "lines": [
-    "But the competition of man against man is not the simple process envisioned in biology. envision v.设想 It is not a simple competition for a fixed amount of food determined by the physical environment, because the environment that d etermines our evolution is no longer essentially physical. competition for sth. 对某事物的竞争 / 争夺 fixed adj. fixed times, amounts, meanings etc. cannot be changed 固定不变的 physical adj. connected with things that actually exist or are present and can be seen, felt, etc. rather than things that only exist in a person‘s mind 物质的，实实在在的，真实而具体的，看得见摸得着的 Our environment is chiefly conditioned by the things we believe . condition v. have an important effect on sb. / sth., determine 对…有重要影响，决定 Morocco and California are bits of the Earth in very similar latitudes, both on the west coasts of continents with similar climates, and probably with rather similar natural resources. latitudes n. [pl] an area at a particular latitude 纬度地区 on the west coasts of continents 在大陆的西海岸 Yet their present development is wholly different, not so much because of different people even, but because of the different thoughts that exist in the minds of their inhabitants . not so much because of... but because of... 与其说是由于…不如说是由于… even 语气副词（根据中文习惯翻译） This is the point I wish to emphasize . wish to do sth. (fml.) = want to do sth. = like to do sth.希望做某事 The most important factor in our environment is the state of our own minds. the state of our own minds 我们自己的心智状态",
-    "The phenomenon is far more complex than the model envisioned in biology.这种现象比生物学中设想的模型要复杂得多。",
-    "Don't compromise on the ideal you envision in order to get an ally.Stick to your cause and press forward.不要为了找寻同盟者而让你的理想妥协，坚持你的信念，奋力向前。",
-    "They envision an equal society, free of poverty and disease. 他们向往一个没有贫穷和疾病的平等社会。",
-    "There is fierce competition for the limited number of jobs available. 对有限工作岗位的竞争非常激烈。",
-    "Competition for the job was intense.",
-    "We're in competition with several other companies for the contract.",
-    "The contract is for a fixed period of three years.",
-    "The interest rate on the loan is fixed.",
-    "a fixed price 固定价格 The contractor agreed to complete the renovation for a fixed price. 承包商同意以固定价格完成装修工程。",
-    "the physical world",
-    "environment physical weapons",
-    "Is there any physical evidence to suggest that a crime has been committed?",
-    "The early migration patterns were largely determined by the physical environment and climate.早期的迁徙模式主要由物理环境和气候决定。",
-    "Modern warfare is no longer essentially physical, relying heavily on cyber capabilities.现代战争本质上不再是物理性的，严重依赖网络能力。",
-    "We are all conditioned by the society and age we live in.",
-    "What I buy is conditioned by the amount I earn.",
-    "The success of the project was chiefly conditioned by the amount of funding received.项目的成功主要受收到的资金数额所制约。 A country's political stability is chiefly conditioned by the strength of its democratic institutions.一个国家的政治稳定主要受其民主机构的强度所制约。",
-    "be conditioned by … 受…的影响 / 受…的制约 Our behavior is often conditioned by the social environment in which we live. 我们的行为往往受我们所处的社会环境的影响。",
-    "The birds breed in northern latitudes.",
-    "The plant grows best in cooler latitudes.",
-    "in … latitudes 在…纬度地区 The aurora borealis is most frequently seen in high latitudes during the winter. 北极光在冬季的高纬度地区最为常见。",
-    "a town on the south coast of England a thriving holiday resort on the east coast of Italy.",
-    "Many major cities are situated on the west coasts of continents due to favorable ocean currents.由于有利的洋流，许多主要城市都位于大陆的西海岸。",
-    "He left the job not so much because of the low salary, but because of the toxic work environment.他辞职与其说是由于薪水低，不如说是由于有毒的工作环境。",
-    "The market shift occurred not so much because of competition, but because of a change in consumer habits.市场的转变与其说是由于竞争，不如说是由于消费者习惯的改变。",
-    "not so much … as … 与其说是…不如说是… She's not so much poor as careless with money. The details are not so much wrong as they are incomplete.",
-    "The holidays ended all too soon.假期结束得实在是太快了。",
-    "I’m only too ready to help you. 我实在是非常乐意帮助您。",
-    "I did so see him.我确实看到他了。",
-    "No, I won’t help you, so there?不，我不想帮助你，你拿我怎么样？",
-    "She wishes to be alone.",
-    "I wish to make a complaint.",
-    "If you wish to attend the seminar, please register by Friday. 如果你希望参加研讨会，请在周五前注册。",
-    "Let me reiterate the point I wish to emphasize: deadlines are non-negotiable.让我重申我希望强调的观点：截止日期不容商议。",
-    "want to do sth. 想要做某事 I want to travel around the world one day. 我想有一天去环游世界。",
-    "like to do sth. 喜欢做某事 I like to read historical novels in my spare time. 我喜欢在闲暇时间读历史小说。",
-    "Maintaining a positive state of our own minds is essential for creativity and productivity.保持积极的心智状态对于创造力和生产力至关重要。",
-    "The state of employment in this city is improving. 这个城市就业状况正在改善。",
-    "Measure the state of women's progress. 衡量一下妇女的进步状况。"
+   "parts": [
+    {
+     "text": "But the competition of man against man is not the simple process envisioned in biology. envision v.设想 It is not a simple competition for a fixed amount of food determined by the physical environment, because the environment that d etermines our evolution is no longer essentially physical. competition for sth. 对某事物的竞争 / 争夺 fixed adj. fixed times, amounts, meanings etc. cannot be changed 固定不变的 physical adj. connected with things that actually exist or are present and can be seen, felt, etc. rather than things that only exist in a person‘s mind 物质的，实实在在的，真实而具体的，看得见摸得着的 Our environment is chiefly conditioned by the things we believe . condition v. have an important effect on sb. / sth., determine 对…有重要影响，决定 Morocco and California are bits of the Earth in very similar latitudes, both on the west coasts of continents with similar climates, and probably with rather similar natural resources. latitudes n. [pl] an area at a particular latitude 纬度地区 on the west coasts of continents 在大陆的西海岸 Yet their present development is wholly different, not so much because of different people even, but because of the different thoughts that exist in the minds of their inhabitants . not so much because of... but because of... 与其说是由于…不如说是由于… even 语气副词（根据中文习惯翻译） This is the point I wish to emphasize . wish to do sth. (fml.) = want to do sth. = like to do sth.希望做某事 The most important factor in our environment is the state of our own minds. the state of our own minds 我们自己的心智状态"
+    },
+    {
+     "text": "The phenomenon is far more complex than the model envisioned in biology.这种现象比生物学中设想的模型要复杂得多。"
+    },
+    {
+     "text": "Don't compromise on the ideal you envision in order to get an ally.Stick to your cause and press forward.不要为了找寻同盟者而让你的理想妥协，坚持你的信念，奋力向前。"
+    },
+    {
+     "text": "They envision an equal society, free of poverty and disease. 他们向往一个没有贫穷和疾病的平等社会。"
+    },
+    {
+     "text": "There is fierce competition for the limited number of jobs available. 对有限工作岗位的竞争非常激烈。"
+    },
+    {
+     "text": "Competition for the job was intense."
+    },
+    {
+     "text": "We're in competition with several other companies for the contract."
+    },
+    {
+     "text": "The contract is for a fixed period of three years."
+    },
+    {
+     "text": "The interest rate on the loan is fixed."
+    },
+    {
+     "table": {
+      "headers": [
+       "a fixed price 固定价格"
+      ],
+      "rows": [
+       [
+        "The contractor agreed to complete the renovation for a fixed price. 承包商同意以固定价格完成装修工程。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "the physical world"
+    },
+    {
+     "text": "environment physical weapons"
+    },
+    {
+     "text": "Is there any physical evidence to suggest that a crime has been committed?"
+    },
+    {
+     "text": "The early migration patterns were largely determined by the physical environment and climate.早期的迁徙模式主要由物理环境和气候决定。"
+    },
+    {
+     "text": "Modern warfare is no longer essentially physical, relying heavily on cyber capabilities.现代战争本质上不再是物理性的，严重依赖网络能力。"
+    },
+    {
+     "text": "We are all conditioned by the society and age we live in."
+    },
+    {
+     "text": "What I buy is conditioned by the amount I earn."
+    },
+    {
+     "text": "The success of the project was chiefly conditioned by the amount of funding received.项目的成功主要受收到的资金数额所制约。 A country's political stability is chiefly conditioned by the strength of its democratic institutions.一个国家的政治稳定主要受其民主机构的强度所制约。"
+    },
+    {
+     "table": {
+      "headers": [
+       "be conditioned by … 受…的影响 / 受…的制约"
+      ],
+      "rows": [
+       [
+        "Our behavior is often conditioned by the social environment in which we live. 我们的行为往往受我们所处的社会环境的影响。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The birds breed in northern latitudes."
+    },
+    {
+     "text": "The plant grows best in cooler latitudes."
+    },
+    {
+     "table": {
+      "headers": [
+       "in … latitudes 在…纬度地区"
+      ],
+      "rows": [
+       [
+        "The aurora borealis is most frequently seen in high latitudes during the winter. 北极光在冬季的高纬度地区最为常见。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "a town on the south coast of England a thriving holiday resort on the east coast of Italy."
+    },
+    {
+     "text": "Many major cities are situated on the west coasts of continents due to favorable ocean currents.由于有利的洋流，许多主要城市都位于大陆的西海岸。"
+    },
+    {
+     "text": "He left the job not so much because of the low salary, but because of the toxic work environment.他辞职与其说是由于薪水低，不如说是由于有毒的工作环境。"
+    },
+    {
+     "text": "The market shift occurred not so much because of competition, but because of a change in consumer habits.市场的转变与其说是由于竞争，不如说是由于消费者习惯的改变。"
+    },
+    {
+     "table": {
+      "headers": [
+       "not so much … as … 与其说是…不如说是…"
+      ],
+      "rows": [
+       [
+        "She's not so much poor as careless with money. The details are not so much wrong as they are incomplete."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The holidays ended all too soon.假期结束得实在是太快了。"
+    },
+    {
+     "text": "I’m only too ready to help you. 我实在是非常乐意帮助您。"
+    },
+    {
+     "text": "I did so see him.我确实看到他了。"
+    },
+    {
+     "text": "No, I won’t help you, so there?不，我不想帮助你，你拿我怎么样？"
+    },
+    {
+     "text": "She wishes to be alone."
+    },
+    {
+     "text": "I wish to make a complaint."
+    },
+    {
+     "text": "If you wish to attend the seminar, please register by Friday. 如果你希望参加研讨会，请在周五前注册。"
+    },
+    {
+     "text": "Let me reiterate the point I wish to emphasize: deadlines are non-negotiable.让我重申我希望强调的观点：截止日期不容商议。"
+    },
+    {
+     "table": {
+      "headers": [
+       "want to do sth. 想要做某事",
+       "like to do sth. 喜欢做某事"
+      ],
+      "rows": [
+       [
+        "I want to travel around the world one day. 我想有一天去环游世界。"
+       ],
+       [
+        "I like to read historical novels in my spare time. 我喜欢在闲暇时间读历史小说。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Maintaining a positive state of our own minds is essential for creativity and productivity.保持积极的心智状态对于创造力和生产力至关重要。"
+    },
+    {
+     "text": "The state of employment in this city is improving. 这个城市就业状况正在改善。"
+    },
+    {
+     "text": "Measure the state of women's progress. 衡量一下妇女的进步状况。"
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "结论",
-   "lines": [
-    "It is well known that where the white man has invaded a primitive culture, the most destructive effects have come not from physical weapons but from ideas. man n. a person, either male or female ―used esp. in formal situations or in the past 人 come from / of (doing) sth.: be the result of sth. 因为，是…的结果，来自于 Ideas are dangerous. The Holy Office knew this full well when it caused heretics to be burned in days gone by. the Inquisition / Holy Office 宗教法庭 a Roman Catholic organization in the past whose aim was to find and punish people who had unacceptable beliefs. know sth. full well / very well / perfectly well 非常清楚…心知肚明 / 完全清楚 cause v. to compel by command, authority, or force 逼迫，迫使 in days / times / years gone by = in the past 在过去 / 在往昔 let bygones be bygones to forget sth. bad that someone has done to you and forgive them 不计前嫌，既往不咎 Indeed, the concept of free speech only exists in our modern society because when you are inside a community, you are conditioned by the conventions of the community to such a degree that it is very difficult to conceive of anything really destructive. free speech = freedom of speech n. the right to express any opinion in public without censorship or restraint by the government 言论自由 to such a degree / extent that … 到如此程度以至于… conceive v. (fml.) to imagine a particular situation or to think about something in a particular way 想象，设想 It is only someone looking on from outside that can inject the dangerous thoughts. looking on = stand by 旁观 inject v. to add something new to a situation 注入… I do not doubt that it would be possible to inject ideas into the modern world that would utterly destroy us . utterly adv.完全地，彻底地 I would like to give you an example, but fortunately I cannot do so. Perhaps it will suffice to mention the nuclear bomb. suffice to mention 提及…就足够了 Imagine the effect on a reasonably advanced technological society, one that still does not possess the bomb , of making it aware of the possibility, of supplying sufficient details to enable the thing to be constructed. reasonably adv. 1. in a reasonable way 合理地，合乎逻辑地 reasonably 2. to a fairly high degree, level, or standard = fairly 相当地，颇为 the effect / influence / impact of … on / upon ……对…的影响 / 作用 Twenty or thirty pages of information handed to any of the major world powers around the year 1925 would have been sufficient to change the course of world history. power n. a country that is strong and important and can influence events, or that has a lot of military strength 大国， 强国 superpower n. any of the most powerful nations in the world, esp. the USA or former USSR 超级大国 if 从句（虚拟语气） be sufficient to do sth.足以做某事 It is a strange thought, but I believe a correct one, that twenty or thirty pages of ideas and information would be capable of turning the present-day world upside down, or even destroying it . present-day adj. existing now 当今的 upside down adv. with the top at the bottom and the bottom at the top 颠倒，翻转 upside-down adj. with the upper part underneath instead of on top 上下翻转过来（的） I have often tried to conceive of what those pages might contain , but of course I cannot do so because I am a prisoner of the present-day world, just as all of you are . prisoner of ...的囚徒/ 受制于…的人 We cannot think outside the particular patterns that our brains are conditioned to , or , to be more accurate, we can think only a very little way outside, and then only if we are very original. condition v. 1. have an important effect on sb. / sth., determine 对…有重要影响，决定 condition v. 2. to train or influence a person or animal mentally so that they do or expect a particular thing without thinking about it 训练或影响…使习惯或适应… conditioning n. 潜移默化的影响 then adv. used to add sth. to what you have just mentioned 此外，而且 only if … 只有… original adj. able to produce new ideas, creative 有创见的，有创造力的",
-    "All men are equal in the eyes of the law.",
-    "Growing old is something a man has to accept.",
-    "His air of confidence came from his firm belief that he was the best candidate for the job.",
-    "It's the kind of accident that comes from being careless.",
-    "I did ask a few questions, but nothing came of it.",
-    "That comes of eating too much!",
-    "That's what comes of not practicing ― you've forgotten everything!",
-    "come of 由…引起；是…的结果 I'm sure that nothing but good will come of your hard work. 我确信你的努力只会带来好的结果。",
-    "In his own lifetime Galileo was the centre of violent controversy; but the scientific dust has long since settled, and today we can see even his famous clash with the Inquisition in something like its proper perspective.",
-    "Preachers pray for rain, knowing full well that no such prayer was ever answered.",
-    "You know very well what I'm talking about!",
-    "I knew perfectly well it was a trap.",
-    "I knew full well / very well / perfectly well that it was a risky investment, but I decided to take the chance. 我心知肚明那是项高风险投资，但我还是决定冒险一试。",
-    "She knew this full well that delaying the repair would lead to greater problems later.她非常清楚，推迟修理会在以后导致更大的问题。",
-    "The king caused him to resign.",
-    "The moderator invoked a rule causing the debate to be ended.",
-    "cause sb. to do sth. 导致某人做某事 / 使某人做某事 The heavy rain caused the driver to lose control of the vehicle. 大雨导致司机失去了对车辆的控制。",
-    "In times gone by, all crops were harvested by hand.",
-    "These herbs would have been grown for medicinal purposes in days gone by.",
-    "Life was simpler in days gone by, before the invention of the internet.在过去的日子里，在互联网发明之前，生活更简单。",
-    "In days gone by, it was common for families to live under one roof for several generations. 在往昔岁月里，几代人同住一个屋檐下是很平常的事。",
-    "Forget it, let bygones be bygones. 算了，过去的事就让它过去吧。",
-    "Don't be sad. Let bygones be bygones. 别难过了，过去的就让它过去吧！",
-    "How about we let bygones be bygones and start over? 不如我们既往不咎，重新开始？",
-    "The university provides a safe space for students to exercise their right to free speech. 大学为学生行使言论自由权提供了一个安全的空间。",
-    "The ruling was a welcome affirmation of the constitutional right to free speech. 此裁决是对言论自由这一宪法权利的受人欢迎的肯定。",
-    "Many experts in constitutional law have warned that the rule violates the right to free speech. 很多宪法专家已警告说，该条例违反了言论自由权。",
-    "freedom of speech 言论自由 Freedom of speech is considered a fundamental human right in most democratic societies. 在大多数民主社会中，言论自由被视为一项基本人权。",
-    "Her condition deteriorated to such a degree that a blood transfusion was considered necessary.",
-    "It is a harmless habit, but it litters up her desk to such an extent that every time she opens it, loose bits of paper fall out in every direction.",
-    "Sometimes the secrecy goes to such an extent that the whole nature of the research cannot be mentioned.",
-    "The pollution has increased to such an extent that the river is no longer safe for swimming. 污染已增加到如此程度，以至于这条河不再适合游泳了。",
-    "The market changed to such a degree that the original business model was no longer viable.市场变化到了如此程度，以至于最初的商业模式不再可行。",
-    "It is difficult to conceive how the situation could get any worse. 很难想象情况还会变得多么糟糕。",
-    "It is hard for people living in peace to conceive of anything really destructive like a large-scale conflict.对于生活在和平中的人来说，很难构想出任何真正具有破坏性的事物，比如大规模冲突。",
-    "conceive of sth. 想象某事 Many people cannot conceive of a world without the internet. 许多人无法想象一个没有互联网的世界。",
-    "Only one man tried to help us, the rest just looked on / stood by in silence.",
-    "The report provided a critical perspective by looking on from outside the company's internal politics.这份报告通过从公司内部政治的外部观察，提供了批判性的视角。",
-    "onlooker / bystander 旁观者 A curious crowd of onlookers gathered at the scene of the accident. 一群好奇的旁观者聚集在事故现场。",
-    "look on … as … 把…看做… We look on her as a daughter. They look on the new mentor as a father figure. 他们把这位新导师看作父亲般的人物。",
-    "stand by sb. 支持帮助某人 He stood by her through the difficult times.",
-    "Young staff are injecting new life into the company.",
-    "Try to inject confidence into your voice.",
-    "Propaganda aims to inject the dangerous thoughts of division and hatred into the public discourse.宣传旨在向公共话语中注入分裂和仇恨的危险思想。",
-    "This was utterly beyond her comprehension. 这完全超出了她的理解力。",
-    "Their life seemed utterly distant from his own. 他们的生活与他自己的生活似乎完全不同。",
-    "Tom was utterly indiscreet, and could never keep a secret. 汤姆言行完全不慎重，从来守不住秘密。",
-    "The unexpected natural disaster had the potential to utterly destroy us if not for the early warning systems.如果不是早期预警系统，这场意料之外的自然灾害有可能彻底摧毁我们。",
-    "utter adj.完全的，彻底的 You may pick them up in utter exhaustion, if wind over the sea has driven them to a long journey.",
-    "This single item will suffice to typify all the rest. 即此一端， 可概其余。",
-    "Word will suffice to convey his grief. 他的悲伤足以用言辞表达。",
-    "The money will suffice to keep her alive. 这些钱足以维持她的生活。",
-    "When explaining the concept, it will suffice to mention the core principle without delving into the complex mathematics.在解释这个概念时，提及核心原理就足够了，而无需深入复杂的数学。",
-    "discuss the matter calmly and reasonably",
-    "We are reasonably sure this is the best solution.",
-    "reasonably good / accurate / clear 相当好 / 准确 / 清楚 The weather forecast turned out to be reasonably accurate for most of the week. 天气预报在这一周的大部分时间里都证明是相当准确的。",
-    "the influence of parents on their children",
-    "the effect of fertilizers on the crops",
-    "the impact of the oil spill on marine life",
-    "The study explores the impact of social media on the mental health of teenagers. 这项研究探讨了社交媒体对青少年心理健康的影响。",
-    "In the organization of industrial life the influence of the factory upon the physiological and mental state of the workers has been completely neglected.",
-    "This result merely confirms earlier American and British studies: if there is any effect of noise upon mental health, it must be so small that present methods of psychiatric diagnosis cannot find it.",
-    "Snakes did not acquire their poison for use against man but for use against prey such as rats and mice, and the effects on these of viperine poison is almost immediate.",
-    "Egypt is still a major power in the Middle East.",
-    "Zheng He’s seven expeditions established China as the world’s top naval power.",
-    "The summit brought together leaders from all the major world powers to discuss climate change.这次峰会汇集了所有世界主要大国的领导人，讨论气候变化问题。",
-    "Since the disintegration of the USSR, there has been only one superpower ― the USA.",
-    "If twenty or thirty pages of information had been handed to any of the major world powers around the year 1925, it would have been sufficient to change the course of world history.与过去事实相反",
-    "If twenty or thirty pages of information had been handed to any of the major world powers around the year 1925, the course of world history would have been changed. 替换成被动",
-    "Had twenty or thirty pages of information been handed to any of the major world powers around the year 1925, it would have been sufficient to change the course of world history. 倒装",
-    "Had twenty or thirty pages of information been handed to any of the major world powers around the year 1925, the course of world history would have been changed. 倒装+被动",
-    "The evidence collected by the police was sufficient to convict the suspect. 警方收集的证据足以定罪该嫌疑人。",
-    "The money is not sufficient to cover everything that needs doing.",
-    "A simple apology would have been sufficient to resolve the misunderstanding.一个简单的道歉本来就足够解决这个误会。",
-    "The amount of money is small by present-day standards.",
-    "The novel is set in present-day Russia.",
-    "To get the plant out of the pot, turn it upside down and give it a gentle knock.",
-    "The sudden technological breakthrough risks turning the present-day world upside down.突如其来的技术突破有颠覆当今世界的风险。",
-    "She looked at it critically for a moment. \"It's all right,\" she said, \"but isn't it upside down?\"",
-    "That picture is upside-down.",
-    "As I looked at the upside-down pizza, I heard Mrs. Martin's voice. 当我看着打翻的披萨时，我听到了马丁太太的声音。",
-    "Transfer the cake upside-down to the cake board. 把蛋糕倒过来放到蛋糕板上。",
-    "It is easy to become a prisoner of your own past mistakes if you don't learn to forgive yourself. 如果你不学会原谅自己，很容易就会成为过去错误的囚徒。",
-    "The lack of imagination meant the artist felt like a prisoner of the present-day world, unable to escape current trends.缺乏想象力意味着这位艺术家感觉自己是当今世界的囚徒，无法摆脱当前的潮流。",
-    "We are all conditioned by early impressions and experiences. 我们都受早年印象和经历的长期影响。",
-    "I just feel women are conditioned into doing housework. 我只是觉得女人习惯于做家务。",
-    "Pavlov conditioned dogs to salivate at the sound of a bell.",
-    "Many women are conditioned from birth to be accepting rather than questioning.",
-    "It didn't take them long to become conditioned to the new environment.",
-    "Patients can become conditioned to particular forms of treatment.",
-    "Most people are conditioned to use their phones immediately upon waking up.大多数人习惯于在醒来后立即使用手机。",
-    "condition sb. to do sth. 训练/使某人习惯于做某事 From a young age, children are often conditioned to seek approval from their peers. 从很小的时候起，孩子通常就习惯于寻求同伴的认可。",
-    "condition sb. to sth. 使某人习惯于某事 Years of living in a noisy city had conditioned him to the constant roar of traffic. 多年在嘈杂的城市生活，已经让他习惯了不断的交通喧嚣。",
-    "Conditioning starts as soon as boys are given guns to play with and girls are given dolls.",
-    "Social conditioning makes crying more difficult for men.",
-    "After years of conditioning, most of us have developed an unshakable faith in railway time-tables.",
-    "It costs $20, and then there's the sales tax to pay.",
-    "We have to invite your parents and my parents, and then there's your brother.",
-    "and then 然后 / 接着 First, you need to preheat the oven, and then you can start preparing the ingredients. 首先，你需要预热烤箱，然后就可以开始准备食材了。",
-    "The missiles can be fired only if the operator types in a six-digit code.",
-    "If you are younger, and in a solid financial position, you may decide to take an aggressive approach, but only if you're blessed with a sanguine disposition and won't suffer sleepless nights over share prices.",
-    "she will go only if he goes. ⇒ Only if he goes will she go. 引起部分倒装",
-    "The funding will be released only if we are very original in our approach to the problem.只有在我们解决问题的方法非常具有独创性时，资金才会被发放。",
-    "the product of a highly original mind",
-    "It is one of the most original works of imagination in the language. 这是用这种语言创作的最具想像力的原创作品之一。",
-    "an original thinker / writer / painter 有原创精神的思想家/作家/画家 She is considered an original thinker who isn't afraid to challenge conventional wisdom. 她被认为是一位具有原创精神的思想家，敢于挑战传统观念。"
+   "parts": [
+    {
+     "text": "It is well known that where the white man has invaded a primitive culture, the most destructive effects have come not from physical weapons but from ideas. man n. a person, either male or female ―used esp. in formal situations or in the past 人 come from / of (doing) sth.: be the result of sth. 因为，是…的结果，来自于 Ideas are dangerous. The Holy Office knew this full well when it caused heretics to be burned in days gone by. the Inquisition / Holy Office 宗教法庭 a Roman Catholic organization in the past whose aim was to find and punish people who had unacceptable beliefs. know sth. full well / very well / perfectly well 非常清楚…心知肚明 / 完全清楚 cause v. to compel by command, authority, or force 逼迫，迫使 in days / times / years gone by = in the past 在过去 / 在往昔 let bygones be bygones to forget sth. bad that someone has done to you and forgive them 不计前嫌，既往不咎 Indeed, the concept of free speech only exists in our modern society because when you are inside a community, you are conditioned by the conventions of the community to such a degree that it is very difficult to conceive of anything really destructive. free speech = freedom of speech n. the right to express any opinion in public without censorship or restraint by the government 言论自由 to such a degree / extent that … 到如此程度以至于… conceive v. (fml.) to imagine a particular situation or to think about something in a particular way 想象，设想 It is only someone looking on from outside that can inject the dangerous thoughts. looking on = stand by 旁观 inject v. to add something new to a situation 注入… I do not doubt that it would be possible to inject ideas into the modern world that would utterly destroy us . utterly adv.完全地，彻底地 I would like to give you an example, but fortunately I cannot do so. Perhaps it will suffice to mention the nuclear bomb. suffice to mention 提及…就足够了 Imagine the effect on a reasonably advanced technological society, one that still does not possess the bomb , of making it aware of the possibility, of supplying sufficient details to enable the thing to be constructed. reasonably adv. 1. in a reasonable way 合理地，合乎逻辑地 reasonably 2. to a fairly high degree, level, or standard = fairly 相当地，颇为 the effect / influence / impact of … on / upon ……对…的影响 / 作用 Twenty or thirty pages of information handed to any of the major world powers around the year 1925 would have been sufficient to change the course of world history. power n. a country that is strong and important and can influence events, or that has a lot of military strength 大国， 强国 superpower n. any of the most powerful nations in the world, esp. the USA or former USSR 超级大国 if 从句（虚拟语气） be sufficient to do sth.足以做某事 It is a strange thought, but I believe a correct one, that twenty or thirty pages of ideas and information would be capable of turning the present-day world upside down, or even destroying it . present-day adj. existing now 当今的 upside down adv. with the top at the bottom and the bottom at the top 颠倒，翻转 upside-down adj. with the upper part underneath instead of on top 上下翻转过来（的） I have often tried to conceive of what those pages might contain , but of course I cannot do so because I am a prisoner of the present-day world, just as all of you are . prisoner of ...的囚徒/ 受制于…的人 We cannot think outside the particular patterns that our brains are conditioned to , or , to be more accurate, we can think only a very little way outside, and then only if we are very original. condition v. 1. have an important effect on sb. / sth., determine 对…有重要影响，决定 condition v. 2. to train or influence a person or animal mentally so that they do or expect a particular thing without thinking about it 训练或影响…使习惯或适应… conditioning n. 潜移默化的影响 then adv. used to add sth. to what you have just mentioned 此外，而且 only if … 只有… original adj. able to produce new ideas, creative 有创见的，有创造力的"
+    },
+    {
+     "text": "All men are equal in the eyes of the law."
+    },
+    {
+     "text": "Growing old is something a man has to accept."
+    },
+    {
+     "text": "His air of confidence came from his firm belief that he was the best candidate for the job."
+    },
+    {
+     "text": "It's the kind of accident that comes from being careless."
+    },
+    {
+     "text": "I did ask a few questions, but nothing came of it."
+    },
+    {
+     "text": "That comes of eating too much!"
+    },
+    {
+     "text": "That's what comes of not practicing ― you've forgotten everything!"
+    },
+    {
+     "table": {
+      "headers": [
+       "come of 由…引起；是…的结果"
+      ],
+      "rows": [
+       [
+        "I'm sure that nothing but good will come of your hard work. 我确信你的努力只会带来好的结果。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "In his own lifetime Galileo was the centre of violent controversy; but the scientific dust has long since settled, and today we can see even his famous clash with the Inquisition in something like its proper perspective."
+    },
+    {
+     "text": "Preachers pray for rain, knowing full well that no such prayer was ever answered."
+    },
+    {
+     "text": "You know very well what I'm talking about!"
+    },
+    {
+     "text": "I knew perfectly well it was a trap."
+    },
+    {
+     "text": "I knew full well / very well / perfectly well that it was a risky investment, but I decided to take the chance. 我心知肚明那是项高风险投资，但我还是决定冒险一试。"
+    },
+    {
+     "text": "She knew this full well that delaying the repair would lead to greater problems later.她非常清楚，推迟修理会在以后导致更大的问题。"
+    },
+    {
+     "text": "The king caused him to resign."
+    },
+    {
+     "text": "The moderator invoked a rule causing the debate to be ended."
+    },
+    {
+     "table": {
+      "headers": [
+       "cause sb. to do sth. 导致某人做某事 / 使某人做某事"
+      ],
+      "rows": [
+       [
+        "The heavy rain caused the driver to lose control of the vehicle. 大雨导致司机失去了对车辆的控制。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "In times gone by, all crops were harvested by hand."
+    },
+    {
+     "text": "These herbs would have been grown for medicinal purposes in days gone by."
+    },
+    {
+     "text": "Life was simpler in days gone by, before the invention of the internet.在过去的日子里，在互联网发明之前，生活更简单。"
+    },
+    {
+     "text": "In days gone by, it was common for families to live under one roof for several generations. 在往昔岁月里，几代人同住一个屋檐下是很平常的事。"
+    },
+    {
+     "text": "Forget it, let bygones be bygones. 算了，过去的事就让它过去吧。"
+    },
+    {
+     "text": "Don't be sad. Let bygones be bygones. 别难过了，过去的就让它过去吧！"
+    },
+    {
+     "text": "How about we let bygones be bygones and start over? 不如我们既往不咎，重新开始？"
+    },
+    {
+     "text": "The university provides a safe space for students to exercise their right to free speech. 大学为学生行使言论自由权提供了一个安全的空间。"
+    },
+    {
+     "text": "The ruling was a welcome affirmation of the constitutional right to free speech. 此裁决是对言论自由这一宪法权利的受人欢迎的肯定。"
+    },
+    {
+     "text": "Many experts in constitutional law have warned that the rule violates the right to free speech. 很多宪法专家已警告说，该条例违反了言论自由权。"
+    },
+    {
+     "table": {
+      "headers": [
+       "freedom of speech 言论自由"
+      ],
+      "rows": [
+       [
+        "Freedom of speech is considered a fundamental human right in most democratic societies. 在大多数民主社会中，言论自由被视为一项基本人权。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Her condition deteriorated to such a degree that a blood transfusion was considered necessary."
+    },
+    {
+     "text": "It is a harmless habit, but it litters up her desk to such an extent that every time she opens it, loose bits of paper fall out in every direction."
+    },
+    {
+     "text": "Sometimes the secrecy goes to such an extent that the whole nature of the research cannot be mentioned."
+    },
+    {
+     "text": "The pollution has increased to such an extent that the river is no longer safe for swimming. 污染已增加到如此程度，以至于这条河不再适合游泳了。"
+    },
+    {
+     "text": "The market changed to such a degree that the original business model was no longer viable.市场变化到了如此程度，以至于最初的商业模式不再可行。"
+    },
+    {
+     "text": "It is difficult to conceive how the situation could get any worse. 很难想象情况还会变得多么糟糕。"
+    },
+    {
+     "text": "It is hard for people living in peace to conceive of anything really destructive like a large-scale conflict.对于生活在和平中的人来说，很难构想出任何真正具有破坏性的事物，比如大规模冲突。"
+    },
+    {
+     "table": {
+      "headers": [
+       "conceive of sth. 想象某事"
+      ],
+      "rows": [
+       [
+        "Many people cannot conceive of a world without the internet. 许多人无法想象一个没有互联网的世界。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Only one man tried to help us, the rest just looked on / stood by in silence."
+    },
+    {
+     "text": "The report provided a critical perspective by looking on from outside the company's internal politics.这份报告通过从公司内部政治的外部观察，提供了批判性的视角。"
+    },
+    {
+     "table": {
+      "headers": [
+       "onlooker / bystander 旁观者",
+       "look on … as … 把…看做…",
+       "stand by sb. 支持帮助某人"
+      ],
+      "rows": [
+       [
+        "A curious crowd of onlookers gathered at the scene of the accident. 一群好奇的旁观者聚集在事故现场。"
+       ],
+       [
+        "We look on her as a daughter. They look on the new mentor as a father figure. 他们把这位新导师看作父亲般的人物。"
+       ],
+       [
+        "He stood by her through the difficult times."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Young staff are injecting new life into the company."
+    },
+    {
+     "text": "Try to inject confidence into your voice."
+    },
+    {
+     "text": "Propaganda aims to inject the dangerous thoughts of division and hatred into the public discourse.宣传旨在向公共话语中注入分裂和仇恨的危险思想。"
+    },
+    {
+     "text": "This was utterly beyond her comprehension. 这完全超出了她的理解力。"
+    },
+    {
+     "text": "Their life seemed utterly distant from his own. 他们的生活与他自己的生活似乎完全不同。"
+    },
+    {
+     "text": "Tom was utterly indiscreet, and could never keep a secret. 汤姆言行完全不慎重，从来守不住秘密。"
+    },
+    {
+     "text": "The unexpected natural disaster had the potential to utterly destroy us if not for the early warning systems.如果不是早期预警系统，这场意料之外的自然灾害有可能彻底摧毁我们。"
+    },
+    {
+     "table": {
+      "headers": [
+       "utter adj.完全的，彻底的"
+      ],
+      "rows": [
+       [
+        "You may pick them up in utter exhaustion, if wind over the sea has driven them to a long journey."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "This single item will suffice to typify all the rest. 即此一端， 可概其余。"
+    },
+    {
+     "text": "Word will suffice to convey his grief. 他的悲伤足以用言辞表达。"
+    },
+    {
+     "text": "The money will suffice to keep her alive. 这些钱足以维持她的生活。"
+    },
+    {
+     "text": "When explaining the concept, it will suffice to mention the core principle without delving into the complex mathematics.在解释这个概念时，提及核心原理就足够了，而无需深入复杂的数学。"
+    },
+    {
+     "text": "discuss the matter calmly and reasonably"
+    },
+    {
+     "text": "We are reasonably sure this is the best solution."
+    },
+    {
+     "table": {
+      "headers": [
+       "reasonably good / accurate / clear 相当好 / 准确 / 清楚"
+      ],
+      "rows": [
+       [
+        "The weather forecast turned out to be reasonably accurate for most of the week. 天气预报在这一周的大部分时间里都证明是相当准确的。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "the influence of parents on their children"
+    },
+    {
+     "text": "the effect of fertilizers on the crops"
+    },
+    {
+     "text": "the impact of the oil spill on marine life"
+    },
+    {
+     "text": "The study explores the impact of social media on the mental health of teenagers. 这项研究探讨了社交媒体对青少年心理健康的影响。"
+    },
+    {
+     "text": "In the organization of industrial life the influence of the factory upon the physiological and mental state of the workers has been completely neglected."
+    },
+    {
+     "text": "This result merely confirms earlier American and British studies: if there is any effect of noise upon mental health, it must be so small that present methods of psychiatric diagnosis cannot find it."
+    },
+    {
+     "text": "Snakes did not acquire their poison for use against man but for use against prey such as rats and mice, and the effects on these of viperine poison is almost immediate."
+    },
+    {
+     "text": "Egypt is still a major power in the Middle East."
+    },
+    {
+     "text": "Zheng He’s seven expeditions established China as the world’s top naval power."
+    },
+    {
+     "text": "The summit brought together leaders from all the major world powers to discuss climate change.这次峰会汇集了所有世界主要大国的领导人，讨论气候变化问题。"
+    },
+    {
+     "text": "Since the disintegration of the USSR, there has been only one superpower ― the USA."
+    },
+    {
+     "text": "If twenty or thirty pages of information had been handed to any of the major world powers around the year 1925, it would have been sufficient to change the course of world history.与过去事实相反"
+    },
+    {
+     "text": "If twenty or thirty pages of information had been handed to any of the major world powers around the year 1925, the course of world history would have been changed. 替换成被动"
+    },
+    {
+     "text": "Had twenty or thirty pages of information been handed to any of the major world powers around the year 1925, it would have been sufficient to change the course of world history. 倒装"
+    },
+    {
+     "text": "Had twenty or thirty pages of information been handed to any of the major world powers around the year 1925, the course of world history would have been changed. 倒装+被动"
+    },
+    {
+     "text": "The evidence collected by the police was sufficient to convict the suspect. 警方收集的证据足以定罪该嫌疑人。"
+    },
+    {
+     "text": "The money is not sufficient to cover everything that needs doing."
+    },
+    {
+     "text": "A simple apology would have been sufficient to resolve the misunderstanding.一个简单的道歉本来就足够解决这个误会。"
+    },
+    {
+     "text": "The amount of money is small by present-day standards."
+    },
+    {
+     "text": "The novel is set in present-day Russia."
+    },
+    {
+     "text": "To get the plant out of the pot, turn it upside down and give it a gentle knock."
+    },
+    {
+     "text": "The sudden technological breakthrough risks turning the present-day world upside down.突如其来的技术突破有颠覆当今世界的风险。"
+    },
+    {
+     "text": "She looked at it critically for a moment. \"It's all right,\" she said, \"but isn't it upside down?\""
+    },
+    {
+     "text": "That picture is upside-down."
+    },
+    {
+     "text": "As I looked at the upside-down pizza, I heard Mrs. Martin's voice. 当我看着打翻的披萨时，我听到了马丁太太的声音。"
+    },
+    {
+     "text": "Transfer the cake upside-down to the cake board. 把蛋糕倒过来放到蛋糕板上。"
+    },
+    {
+     "text": "It is easy to become a prisoner of your own past mistakes if you don't learn to forgive yourself. 如果你不学会原谅自己，很容易就会成为过去错误的囚徒。"
+    },
+    {
+     "text": "The lack of imagination meant the artist felt like a prisoner of the present-day world, unable to escape current trends.缺乏想象力意味着这位艺术家感觉自己是当今世界的囚徒，无法摆脱当前的潮流。"
+    },
+    {
+     "text": "We are all conditioned by early impressions and experiences. 我们都受早年印象和经历的长期影响。"
+    },
+    {
+     "text": "I just feel women are conditioned into doing housework. 我只是觉得女人习惯于做家务。"
+    },
+    {
+     "text": "Pavlov conditioned dogs to salivate at the sound of a bell."
+    },
+    {
+     "text": "Many women are conditioned from birth to be accepting rather than questioning."
+    },
+    {
+     "text": "It didn't take them long to become conditioned to the new environment."
+    },
+    {
+     "text": "Patients can become conditioned to particular forms of treatment."
+    },
+    {
+     "text": "Most people are conditioned to use their phones immediately upon waking up.大多数人习惯于在醒来后立即使用手机。"
+    },
+    {
+     "table": {
+      "headers": [
+       "condition sb. to do sth. 训练/使某人习惯于做某事",
+       "condition sb. to sth. 使某人习惯于某事"
+      ],
+      "rows": [
+       [
+        "From a young age, children are often conditioned to seek approval from their peers. 从很小的时候起，孩子通常就习惯于寻求同伴的认可。"
+       ],
+       [
+        "Years of living in a noisy city had conditioned him to the constant roar of traffic. 多年在嘈杂的城市生活，已经让他习惯了不断的交通喧嚣。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Conditioning starts as soon as boys are given guns to play with and girls are given dolls."
+    },
+    {
+     "text": "Social conditioning makes crying more difficult for men."
+    },
+    {
+     "text": "After years of conditioning, most of us have developed an unshakable faith in railway time-tables."
+    },
+    {
+     "text": "It costs $20, and then there's the sales tax to pay."
+    },
+    {
+     "text": "We have to invite your parents and my parents, and then there's your brother."
+    },
+    {
+     "table": {
+      "headers": [
+       "and then 然后 / 接着"
+      ],
+      "rows": [
+       [
+        "First, you need to preheat the oven, and then you can start preparing the ingredients. 首先，你需要预热烤箱，然后就可以开始准备食材了。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The missiles can be fired only if the operator types in a six-digit code."
+    },
+    {
+     "text": "If you are younger, and in a solid financial position, you may decide to take an aggressive approach, but only if you're blessed with a sanguine disposition and won't suffer sleepless nights over share prices."
+    },
+    {
+     "text": "she will go only if he goes. ⇒ Only if he goes will she go. 引起部分倒装"
+    },
+    {
+     "text": "The funding will be released only if we are very original in our approach to the problem.只有在我们解决问题的方法非常具有独创性时，资金才会被发放。"
+    },
+    {
+     "text": "the product of a highly original mind"
+    },
+    {
+     "text": "It is one of the most original works of imagination in the language. 这是用这种语言创作的最具想像力的原创作品之一。"
+    },
+    {
+     "table": {
+      "headers": [
+       "an original thinker / writer / painter 有原创精神的思想家/作家/画家"
+      ],
+      "rows": [
+       [
+        "She is considered an original thinker who isn't afraid to challenge conventional wisdom. 她被认为是一位具有原创精神的思想家，敢于挑战传统观念。"
+       ]
+      ]
+     }
+    }
    ]
   }
  ]

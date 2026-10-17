@@ -2,63 +2,209 @@
  "grammar": [
   {
    "title": "冠词",
-   "lines": [
-    "用于修饰 名词 并在语法上限定其范围。主要有三种冠词：定冠词（the）、不定冠词（a/an）和零冠词（无冠词）。 不定冠词（a/an） a、an 在中文中对应：一个、一间、一台、一匹… 定冠词（the） § the 可以表示：这(this)、那(that)、这些(these)、那些(those)。 零冠词（无冠词） 概念： 戴在名词头上的帽子 没有特殊情况不能摘帽子，零冠词即是被摘了帽子的名词。 对名词起泛指、特指、不定量或者定量等限定作用的词。主要作用于在名词之前起修饰限定作用。戴在名词头上的帽子，没有特殊情况不自摘掉。冠词是一类用于限定名词的小词，用于指示名词的特定性或泛指性。在英语中，有三种冠词：定冠词（definite article）、不定冠词（indefinite article）和零冠词（zero article）。",
-    "不定冠词 a（用于以辅音音素开头的词前）和 an（用于以 元音 音素 开头的词前）表示泛指或未指定的名词。",
-    "不定冠词只能用于 单数 可数名词 ，不能用于复数名词、不可数名词和抽象名词。",
-    "使用不定冠词可以表示某个人或事物中的 任何一个 ，通常用于 首次 提及或描述一个 未特定 的实体。",
-    "定冠词 \"the\" 用于特指或 已知 的名词。它可以用于单数名词和 复数名词 ，并且可以用于所有格形式中。",
-    "使用定冠词可以指明所讨论的人、事物、概念的唯一性或特定性。",
-    "定冠词还可用于特定组合词的前面，如 \"the United States\"、\"the Internet\" 等。",
-    "the student 这个、那个学生 、the student s 这些、那些学生",
-    "零冠词在英语中表示一般或抽象的概念，以及某些特定名词的复数形式。",
-    "零冠词通常用于 不可数 名词、抽象名词、专有名词(人、物、国家简写)、地点名词（如学校、医院等）和复数名词的 泛指（国籍） 用法。",
-    "a nice car",
-    "a big house",
-    "a good name",
-    "an o range",
-    "an a pple",
-    "an h our",
-    "冠词 用法 名词类型 特性",
-    "不定冠词 a / an 泛指或未特定的名词 只适用于可数单数名词... 表示任意一个",
-    "定冠词 the 特指或已知的名词 可用于单数和复数名词... 表示唯一性或特定性",
-    "零冠词 名词前没有a/an/the 人名、地名、国家、不可数名词... 宇宙中存在唯一性的名称"
+   "parts": [
+    {
+     "text": "用于修饰 名词 并在语法上限定其范围。主要有三种冠词：定冠词（the）、不定冠词（a/an）和零冠词（无冠词）。 不定冠词（a/an） a、an 在中文中对应：一个、一间、一台、一匹… 定冠词（the） § the 可以表示：这(this)、那(that)、这些(these)、那些(those)。 零冠词（无冠词） 概念： 戴在名词头上的帽子 没有特殊情况不能摘帽子，零冠词即是被摘了帽子的名词。 对名词起泛指、特指、不定量或者定量等限定作用的词。主要作用于在名词之前起修饰限定作用。戴在名词头上的帽子，没有特殊情况不自摘掉。冠词是一类用于限定名词的小词，用于指示名词的特定性或泛指性。在英语中，有三种冠词：定冠词（definite article）、不定冠词（indefinite article）和零冠词（zero article）。"
+    },
+    {
+     "text": "不定冠词 a（用于以辅音音素开头的词前）和 an（用于以 元音 音素 开头的词前）表示泛指或未指定的名词。"
+    },
+    {
+     "text": "不定冠词只能用于 单数 可数名词 ，不能用于复数名词、不可数名词和抽象名词。"
+    },
+    {
+     "text": "使用不定冠词可以表示某个人或事物中的 任何一个 ，通常用于 首次 提及或描述一个 未特定 的实体。"
+    },
+    {
+     "text": "定冠词 \"the\" 用于特指或 已知 的名词。它可以用于单数名词和 复数名词 ，并且可以用于所有格形式中。"
+    },
+    {
+     "text": "使用定冠词可以指明所讨论的人、事物、概念的唯一性或特定性。"
+    },
+    {
+     "text": "定冠词还可用于特定组合词的前面，如 \"the United States\"、\"the Internet\" 等。"
+    },
+    {
+     "text": "the student 这个、那个学生 、the student s 这些、那些学生"
+    },
+    {
+     "text": "零冠词在英语中表示一般或抽象的概念，以及某些特定名词的复数形式。"
+    },
+    {
+     "text": "零冠词通常用于 不可数 名词、抽象名词、专有名词(人、物、国家简写)、地点名词（如学校、医院等）和复数名词的 泛指（国籍） 用法。"
+    },
+    {
+     "text": "a nice car"
+    },
+    {
+     "text": "a big house"
+    },
+    {
+     "text": "a good name"
+    },
+    {
+     "text": "an o range"
+    },
+    {
+     "text": "an a pple"
+    },
+    {
+     "text": "an h our"
+    },
+    {
+     "table": {
+      "headers": [],
+      "rows": [
+       [
+        "冠词",
+        "用法",
+        "名词类型",
+        "特性"
+       ],
+       [
+        "不定冠词 a / an",
+        "泛指或未特定的名词",
+        "只适用于可数单数名词...",
+        "表示任意一个"
+       ],
+       [
+        "定冠词 the",
+        "特指或已知的名词",
+        "可用于单数和复数名词...",
+        "表示唯一性或特定性"
+       ],
+       [
+        "零冠词",
+        "名词前没有a/an/the",
+        "人名、地名、国家、不可数名词...",
+        "宇宙中存在唯一性的名称"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "你的...是什么牌子的？",
-   "lines": [
-    "What make is your car? Make 在英语中可表达多个意思 (万能词)",
-    "What make is ? (请尝试使用所知道的英语名词提问)",
-    "What make is your car ?",
-    "What make is her hat ?",
-    "制造、生产 制造、生产或创造某物 \"make a cake\"（制作蛋糕）、\"make a table\"（制造一张桌子）",
-    "形成、构成 形成或组成某物 \"make a team\"（组建一个团队）、\" make a decision \"（做出决定）",
-    "进行、完成 进行某个活动或完成某项任务 \"make breakfast\"（做早餐）、\"make a phone call\"（打电话）",
-    "导致、引起 导致某种结果或引起某种反应 The noise made me angry.（这噪音让我生气）",
-    "成为、变得 某人或某物变成或成为某种状态 She made me happy.（她让我快乐）",
-    "让、强迫 让某人做某事或强迫某人采取行动 My teacher made me apologize.（我的老师让我道歉）"
+   "parts": [
+    {
+     "text": "What make is your car? Make 在英语中可表达多个意思 (万能词)"
+    },
+    {
+     "text": "What make is ? (请尝试使用所知道的英语名词提问)"
+    },
+    {
+     "text": "What make is your car ?"
+    },
+    {
+     "text": "What make is her hat ?"
+    },
+    {
+     "table": {
+      "headers": [],
+      "rows": [
+       [
+        "制造、生产",
+        "制造、生产或创造某物",
+        "\"make a cake\"（制作蛋糕）、\"make a table\"（制造一张桌子）"
+       ],
+       [
+        "形成、构成",
+        "形成或组成某物",
+        "\"make a team\"（组建一个团队）、\" make a decision \"（做出决定）"
+       ],
+       [
+        "进行、完成",
+        "进行某个活动或完成某项任务",
+        "\"make breakfast\"（做早餐）、\"make a phone call\"（打电话）"
+       ],
+       [
+        "导致、引起",
+        "导致某种结果或引起某种反应",
+        "The noise made me angry.（这噪音让我生气）"
+       ],
+       [
+        "成为、变得",
+        "某人或某物变成或成为某种状态",
+        "She made me happy.（她让我快乐）"
+       ],
+       [
+        "让、强迫",
+        "让某人做某事或强迫某人采取行动",
+        "My teacher made me apologize.（我的老师让我道歉）"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "西方人的名字",
-   "lines": [
-    "自然拼音 西方人的名字 「名字 - 中间名（若有）- 姓氏」First Name + (Middle Name) + Last Name。",
-    "字母 音标 单词",
-    "Mm / m / man, milk, monkey, Tim",
-    "Nn / n / not, no, man, town",
-    "Oo / ɒ / 或 / ɔː / ox, orange, olive",
-    "英文名字的组成 Full Name：John Patrick Smith",
-    "First Name / Given Name 名字 John",
-    "Middle Name 中间名 Patrick",
-    "Last Name / Surname / Family Name 姓氏 Smith",
-    "姓氏（Surname / Family Name）：在西方文化中，姓氏通常出现在名字的后面（Steve jobs 史蒂夫•乔布斯），表示一个家族或血缘关系。姓氏通常被认为是家族的传承，并且往往是父母或祖先的姓氏。例如，Smith、Johnson、Garcia 等。",
-    "名字（Given Name/First Name）：名字是个人的独特标识，在日常生活中用来称呼个体。英文里通常位于姓氏之前（即：First Name），可以是一个或多个单词。名字的选择可以受到个人偏好、家族传统、宗教信仰等因素的影响。例如，John、Emily、Michael 等。",
-    "中间名（Middle Name）：在某些西方国家，人们可能有一个或多个中间名。中间名通常位于名字之后，姓氏之前，用来进一步区分个人身份，有时也可能是作为家族或亲友的纪念。例如，John Patrick Smith（这里的 Patrick 是中间名）。"
+   "parts": [
+    {
+     "text": "自然拼音 西方人的名字 「名字 - 中间名（若有）- 姓氏」First Name + (Middle Name) + Last Name。"
+    },
+    {
+     "table": {
+      "headers": [
+       "字母",
+       "音标",
+       "单词"
+      ],
+      "rows": [
+       [
+        "Mm",
+        "/ m /",
+        "man, milk, monkey, Tim"
+       ],
+       [
+        "Nn",
+        "/ n /",
+        "not, no, man, town"
+       ],
+       [
+        "Oo",
+        "/ ɒ / 或 / ɔː /",
+        "ox, orange, olive"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "英文名字的组成",
+       "Full Name：John Patrick Smith"
+      ],
+      "rows": [
+       [
+        "First Name / Given Name 名字",
+        "John"
+       ],
+       [
+        "Middle Name 中间名",
+        "Patrick"
+       ],
+       [
+        "Last Name / Surname / Family Name 姓氏",
+        "Smith"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "姓氏（Surname / Family Name）：在西方文化中，姓氏通常出现在名字的后面（Steve jobs 史蒂夫•乔布斯），表示一个家族或血缘关系。姓氏通常被认为是家族的传承，并且往往是父母或祖先的姓氏。例如，Smith、Johnson、Garcia 等。"
+    },
+    {
+     "text": "名字（Given Name/First Name）：名字是个人的独特标识，在日常生活中用来称呼个体。英文里通常位于姓氏之前（即：First Name），可以是一个或多个单词。名字的选择可以受到个人偏好、家族传统、宗教信仰等因素的影响。例如，John、Emily、Michael 等。"
+    },
+    {
+     "text": "中间名（Middle Name）：在某些西方国家，人们可能有一个或多个中间名。中间名通常位于名字之后，姓氏之前，用来进一步区分个人身份，有时也可能是作为家族或亲友的纪念。例如，John Patrick Smith（这里的 Patrick 是中间名）。"
+    }
    ]
   }
  ]

@@ -2,90 +2,294 @@
  "grammar": [
   {
    "title": "留下第二个悬念",
-   "lines": [
-    "The sea bed was scoured with powerful nets and there was tremendous excitement on board when a chest was raised from the bottom. sea bed 海底 tremendous adj. very great adj.巨大的，极大的 on board / aboard 在船上、飞机上（欢迎加入某个组织） His experience will be valuable to both of us. Welcome aboard, Malcolm! ... people on aboard were very excited ... 中文思维（在英文语境下，船上兴奋的只会是人，所以people在这里做主语是多此一举） Though the crew were at first under the impression that the lost ship had been found , the contents of the chest proved them wrong. be under the impression that ... 还以为(在印象中、事实证明是错的) give sb. the impression that ... 使某人觉得 be / live under the illusion / delusion that ... 误以为 prove + 宾语＋宾补（熟练使用宾补，让句子变简洁） What they had in fact found was a ship which had been sunk many years before . 哑铃型（两头大，中间细） 造句：What Columbus had in fact found was not India but a new continent which had been inhabited by aborigines for over twenty thousand years.哥伦布其实发现的不是印度，而是一个全新的大陆，在那里土著居民 已经居住了 两万多年了。",
-    "sea floor",
-    "sea bottom",
-    "riverbed 河床",
-    "valley bottom 山谷底部（谷低）",
-    "valley floor 山谷底部（谷低）",
-    "It now came straight towards them at tremendous speed .",
-    "In his day, Mendoza enjoyed tremendous popularity .",
-    "Though the new rudder was fitted at tremendous speed, it was impossible for the Cutty Sark to win .",
-    "The response to this competition was tremendous .",
-    "Everybody on board was worried, and we were curious to find out what had happened .",
-    "A temporary rudder was made on board from spare planks and it was fitted with great difficulty .",
-    "On behalf of my crew, I'd like to welcome you aboard British Airways flight 602 from New York to London.我谨代表全体工作人员，欢迎你们乘坐英国航空公司从纽约飞往伦敦的602号航班。",
-    "造句：There was tremendous excitement in the studio when the news came.消息传来时，演播室里的人们非常激动。",
-    "中文思维 英语思维（无灵主语）",
-    "There are more and more people who are interested in English. There is growing interest in English.",
-    "People generally agree that women should enjoy full equality with men. There is general agreement that women should enjoy full equality with men.",
-    "Sorry, I was under the impression that you were the manager.",
-    "The sudden movement of the door made it sway slightly and it gave me the impression that it was about to leap out at me .",
-    "Even he still lives under the illusion that country life is somehow superior to town life .",
-    "The worst thing about the do-it-yourself game is that sometimes even men live under the delusion that they can do anything, even when they have repeatedly been proved wrong. NCE3-46",
-    "He was under the illusion that he could finish the project alone. 他误以为自己能独自完成这个项目。",
-    "She lived under the illusion that money could buy happiness. 她误以为金钱能买到幸福。",
-    "They were under the delusion that the market would always rise. 他们误以为市场会一直上涨。",
-    "He lived under the delusion that he was invincible. 他误以为自己是无敌的。",
-    "The facts proved their worries unnecessary.",
-    "This advice was to prove valuable. 这忠告证明是有益的。",
-    "What they had in fact found was a ship which had been sunk many years before.",
-    "主语从句 表语 定语从句",
-    "主语 系动词 + 表语"
+   "parts": [
+    {
+     "text": "The sea bed was scoured with powerful nets and there was tremendous excitement on board when a chest was raised from the bottom. sea bed 海底 tremendous adj. very great adj.巨大的，极大的 on board / aboard 在船上、飞机上（欢迎加入某个组织） His experience will be valuable to both of us. Welcome aboard, Malcolm! ... people on aboard were very excited ... 中文思维（在英文语境下，船上兴奋的只会是人，所以people在这里做主语是多此一举） Though the crew were at first under the impression that the lost ship had been found , the contents of the chest proved them wrong. be under the impression that ... 还以为(在印象中、事实证明是错的) give sb. the impression that ... 使某人觉得 be / live under the illusion / delusion that ... 误以为 prove + 宾语＋宾补（熟练使用宾补，让句子变简洁） What they had in fact found was a ship which had been sunk many years before . 哑铃型（两头大，中间细） 造句：What Columbus had in fact found was not India but a new continent which had been inhabited by aborigines for over twenty thousand years.哥伦布其实发现的不是印度，而是一个全新的大陆，在那里土著居民 已经居住了 两万多年了。"
+    },
+    {
+     "text": "sea floor"
+    },
+    {
+     "text": "sea bottom"
+    },
+    {
+     "text": "riverbed 河床"
+    },
+    {
+     "text": "valley bottom 山谷底部（谷低）"
+    },
+    {
+     "text": "valley floor 山谷底部（谷低）"
+    },
+    {
+     "text": "It now came straight towards them at tremendous speed ."
+    },
+    {
+     "text": "In his day, Mendoza enjoyed tremendous popularity ."
+    },
+    {
+     "text": "Though the new rudder was fitted at tremendous speed, it was impossible for the Cutty Sark to win ."
+    },
+    {
+     "text": "The response to this competition was tremendous ."
+    },
+    {
+     "text": "Everybody on board was worried, and we were curious to find out what had happened ."
+    },
+    {
+     "text": "A temporary rudder was made on board from spare planks and it was fitted with great difficulty ."
+    },
+    {
+     "text": "On behalf of my crew, I'd like to welcome you aboard British Airways flight 602 from New York to London.我谨代表全体工作人员，欢迎你们乘坐英国航空公司从纽约飞往伦敦的602号航班。"
+    },
+    {
+     "text": "造句：There was tremendous excitement in the studio when the news came.消息传来时，演播室里的人们非常激动。"
+    },
+    {
+     "table": {
+      "headers": [
+       "中文思维",
+       "英语思维（无灵主语）"
+      ],
+      "rows": [
+       [
+        "There are more and more people who are interested in English.",
+        "There is growing interest in English."
+       ],
+       [
+        "People generally agree that women should enjoy full equality with men.",
+        "There is general agreement that women should enjoy full equality with men."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Sorry, I was under the impression that you were the manager."
+    },
+    {
+     "text": "The sudden movement of the door made it sway slightly and it gave me the impression that it was about to leap out at me ."
+    },
+    {
+     "text": "Even he still lives under the illusion that country life is somehow superior to town life ."
+    },
+    {
+     "text": "The worst thing about the do-it-yourself game is that sometimes even men live under the delusion that they can do anything, even when they have repeatedly been proved wrong. NCE3-46"
+    },
+    {
+     "text": "He was under the illusion that he could finish the project alone. 他误以为自己能独自完成这个项目。"
+    },
+    {
+     "text": "She lived under the illusion that money could buy happiness. 她误以为金钱能买到幸福。"
+    },
+    {
+     "text": "They were under the delusion that the market would always rise. 他们误以为市场会一直上涨。"
+    },
+    {
+     "text": "He lived under the delusion that he was invincible. 他误以为自己是无敌的。"
+    },
+    {
+     "text": "The facts proved their worries unnecessary."
+    },
+    {
+     "text": "This advice was to prove valuable. 这忠告证明是有益的。"
+    },
+    {
+     "table": {
+      "headers": [],
+      "rows": [
+       [
+        "What they had in fact found",
+        "was a ship",
+        "which had been sunk many years before."
+       ],
+       [
+        "主语从句",
+        "表语",
+        "定语从句"
+       ],
+       [
+        "主语",
+        "系动词 + 表语"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "揭示",
-   "lines": [
-    "The chest contained the personal belongings of a seaman, Alan Fielding. There were books, clothing and photographs, together with letters which the seaman had once received from his wife . clothes 衣物(本身是复数) clothing n.衣服，（尤指某种）服装（不可数） together with ... = along with ... 以及、还有... The captain of the Elkor ordered his men to salvage as much as possible from the wreck . his men 他的手下们 subordinate n.部属，下级；从属，次要 superior n.上级，上司 counterpart n.地位相当的人、对应的人或物 the grassroots n.草根、底层、基层 the wreck 失事的(船、飞机等) Nothing of value was found , but the numerous items which were brought to the surface proved to be of great interest. of + 名词 描述人或事物的特征 numerous / countless 无数的 From a heavy gun that was raised , the captain realized that the ship must have been a cruiser. from prep.考虑到，从…来看/判断 造句：From the fragments of statues, the archaeologists realized that the temple must have been a place of worship . 从这些雕像的碎片来看，考古学家们明白了这座庙宇当初肯定是一个祭祀的场所。 In another chest , which contained the belongings of a ship's officer, there was an unfinished letter which had been written on March 14th, 1943 . ... which was dated March 14th, 1943. 替换（上面标记的日期） date v.注明日期；确定年代 The captain learnt from the letter that the name of the lost ship was the Karen . The most valuable find of all was the ship's log book , parts of which it was still possible to read . “名词 + 介词 + 关系代词” 引导非限定性定语从句 用于补充说明（一定是非限制性定语从句） 不修饰先行词本身，而是修饰与先行词相关的东西或者是先行词的一部分 （二册中学过关于“关系词=先行词”等量代换替换） 。 ..., parts of which were still possible to read. 理解为：parts of ship's log book were still possible to read ..., parts of which could still be read . 替换 ..., parts of which were still legible. 清晰可见 From this the captain was able to piece together all the information that had come to light . piece sth. ↔ together 拼凑在一起 the captain was able to piece all the information together 如果没有information后面的定语从句的情况可以写成这样。 reconstruct vt.重建；改造；修复；重现 The Karen had been sailing in a convoy to Russia when she was torpedoed by an enemy submarine. when “这时”或“突然” This was later confirmed by a naval official at the Ministry of Defence after the Elkor had returned home. All the items that were found were sent to the War Museum.",
-    "Fine clothes make a man. 人靠衣装",
-    "Food, clothing, shelter and transportation are daily necessities. 衣食住行是生活的必须品（英语按音节、单词长度排顺）",
-    "Peter was murdered, together / along with three guards. 保安和皮特都被杀了",
-    "These new facts, together / along with the other evidence, prove the prisoner's innocence. 这些新的事实，连同其他证据一起，证明那个囚犯是无辜的。",
-    "The general ordered his men to fire.",
-    "Byrd at once ordered his men to throw out two heavy food sacks .",
-    "He left the routine check to one of his subordinates.",
-    "I'll pass your complaint on to my superiors.",
-    "The sales director phoned her counterpart in the other firm.",
-    "This official was promoted from the grass roots.这名干部是从基层提拔上来的。",
-    "shipwreck n.海难；遇难船",
-    "Poor man! — mentally a wreck. 可怜的家伙、一个脑残",
-    "做后置定语 nothing of value = nothing valuable （修饰不定代词后置） a matter of significance = a significant matter a ship of 46,000 tons 一艘46,000吨的船 a man of wide social relations 有广泛社会关系的人",
-    "在系动词后做表语 proved to be of great interest. = proved to be very interesting. It is of no use = it is useless. Her dress is of dark crimson. He is of a peculiar disposition.",
-    "a man of middle height 定语 ⇒ The man is of middle height. 表语",
-    "a girl of remarkable imagination 定语 ⇒ The girl is of remarkable imagination. 表语",
-    "There are countless people who, ever since their early years, have learned to associate snails with food .",
-    "From her looks l'd say she was Swedish. 从她的长相看，我敢说她是瑞典人。",
-    "From what I heard the company's in deep trouble. 据我所知，这家公司陷入了大麻烦。",
-    "From this the captain was able to piece together all the information that had come to light.",
-    "a newspaper dated October 1st, 2005 2005年10月1日的报纸",
-    "a girl aged 20 二十岁的女孩",
-    "a man named John 一个叫John的男人",
-    "a novel entitled Three Kingdoms 一本名为《三国》的小说",
-    "He has two sons, one of whom died in the war. 他有两个儿子，其中的一个死于战火。",
-    "The speaker posed four questions, the answers to which proved very illuminating.演讲者提了四个问题，它们的答案被证明非常具有启发性。",
-    "Most of our fears are unreasonable, but they are impossible to erase. NCE3-54",
-    "Most of our fears are unreasonable, but it is impossible to erase them. 换成形式主语",
-    "..., but it was impossible to stop the thieves . but the thieves were impossible to stop. 人不能当possible和impossible的主语",
-    "He is impossible to deal with. 这里的He其实是做的with的宾语 It is impossible to deal with him.",
-    "The police are still trying to piece together the facts.",
-    "The archaeologists pieced the fragments together.",
-    "When the archaeologists reconstructed the fragments, they were amazed to find that the goddess turned out to be a very modern-looking woman .",
-    "When the archaeologists pieced the fragments together, they were amazed to find that the goddess turned out to be a very modern-looking woman. 替换",
-    "come to light / be brought to light 曝光(被发现) New evidence in this case has recently come to light / been brought to light.",
-    "cast light on ... 揭示\\解释，使清楚明白 These discoveries may cast some light on the origins of the universe.",
-    "shed light on ... 揭示、阐明，解释 Even seemingly insignificant remains can shed interesting light on the history of early man .",
-    "throw light on ... 揭示、阐述 Can you throw light on this problem? 你能把这个问题阐述清楚吗？",
-    "He was going to the sweet shop when he dropped his fifty pence.",
-    "He was still mumbling something about hospitals at the end of the party when he slipped on a piece of ice and broke his left leg .",
-    "The idea never appealed to me very much, but one day, after a heavy shower, I happened to be walking in my garden when I noticed a huge number of snails taking a stroll on some of my prize plants .",
-    "The morning passed rapidly and Frank was about to leave when he noticed a large packing case lying on the floor .",
-    "主句 重点信息存在于从句里",
-    "进行时态 I was having dinner when the phone rang.",
-    "be about to do I was about to leave when the phone rang."
+   "parts": [
+    {
+     "text": "The chest contained the personal belongings of a seaman, Alan Fielding. There were books, clothing and photographs, together with letters which the seaman had once received from his wife . clothes 衣物(本身是复数) clothing n.衣服，（尤指某种）服装（不可数） together with ... = along with ... 以及、还有... The captain of the Elkor ordered his men to salvage as much as possible from the wreck . his men 他的手下们 subordinate n.部属，下级；从属，次要 superior n.上级，上司 counterpart n.地位相当的人、对应的人或物 the grassroots n.草根、底层、基层 the wreck 失事的(船、飞机等) Nothing of value was found , but the numerous items which were brought to the surface proved to be of great interest. of + 名词 描述人或事物的特征 numerous / countless 无数的 From a heavy gun that was raised , the captain realized that the ship must have been a cruiser. from prep.考虑到，从…来看/判断 造句：From the fragments of statues, the archaeologists realized that the temple must have been a place of worship . 从这些雕像的碎片来看，考古学家们明白了这座庙宇当初肯定是一个祭祀的场所。 In another chest , which contained the belongings of a ship's officer, there was an unfinished letter which had been written on March 14th, 1943 . ... which was dated March 14th, 1943. 替换（上面标记的日期） date v.注明日期；确定年代 The captain learnt from the letter that the name of the lost ship was the Karen . The most valuable find of all was the ship's log book , parts of which it was still possible to read . “名词 + 介词 + 关系代词” 引导非限定性定语从句 用于补充说明（一定是非限制性定语从句） 不修饰先行词本身，而是修饰与先行词相关的东西或者是先行词的一部分 （二册中学过关于“关系词=先行词”等量代换替换） 。 ..., parts of which were still possible to read. 理解为：parts of ship's log book were still possible to read ..., parts of which could still be read . 替换 ..., parts of which were still legible. 清晰可见 From this the captain was able to piece together all the information that had come to light . piece sth. ↔ together 拼凑在一起 the captain was able to piece all the information together 如果没有information后面的定语从句的情况可以写成这样。 reconstruct vt.重建；改造；修复；重现 The Karen had been sailing in a convoy to Russia when she was torpedoed by an enemy submarine. when “这时”或“突然” This was later confirmed by a naval official at the Ministry of Defence after the Elkor had returned home. All the items that were found were sent to the War Museum."
+    },
+    {
+     "text": "Fine clothes make a man. 人靠衣装"
+    },
+    {
+     "text": "Food, clothing, shelter and transportation are daily necessities. 衣食住行是生活的必须品（英语按音节、单词长度排顺）"
+    },
+    {
+     "text": "Peter was murdered, together / along with three guards. 保安和皮特都被杀了"
+    },
+    {
+     "text": "These new facts, together / along with the other evidence, prove the prisoner's innocence. 这些新的事实，连同其他证据一起，证明那个囚犯是无辜的。"
+    },
+    {
+     "text": "The general ordered his men to fire."
+    },
+    {
+     "text": "Byrd at once ordered his men to throw out two heavy food sacks ."
+    },
+    {
+     "text": "He left the routine check to one of his subordinates."
+    },
+    {
+     "text": "I'll pass your complaint on to my superiors."
+    },
+    {
+     "text": "The sales director phoned her counterpart in the other firm."
+    },
+    {
+     "text": "This official was promoted from the grass roots.这名干部是从基层提拔上来的。"
+    },
+    {
+     "text": "shipwreck n.海难；遇难船"
+    },
+    {
+     "text": "Poor man! — mentally a wreck. 可怜的家伙、一个脑残"
+    },
+    {
+     "table": {
+      "headers": [
+       "做后置定语",
+       "在系动词后做表语"
+      ],
+      "rows": [
+       [
+        "nothing of value = nothing valuable （修饰不定代词后置） a matter of significance = a significant matter a ship of 46,000 tons 一艘46,000吨的船 a man of wide social relations 有广泛社会关系的人"
+       ],
+       [
+        "proved to be of great interest. = proved to be very interesting. It is of no use = it is useless. Her dress is of dark crimson. He is of a peculiar disposition."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "a man of middle height 定语 ⇒ The man is of middle height. 表语"
+    },
+    {
+     "text": "a girl of remarkable imagination 定语 ⇒ The girl is of remarkable imagination. 表语"
+    },
+    {
+     "text": "There are countless people who, ever since their early years, have learned to associate snails with food ."
+    },
+    {
+     "text": "From her looks l'd say she was Swedish. 从她的长相看，我敢说她是瑞典人。"
+    },
+    {
+     "text": "From what I heard the company's in deep trouble. 据我所知，这家公司陷入了大麻烦。"
+    },
+    {
+     "text": "From this the captain was able to piece together all the information that had come to light."
+    },
+    {
+     "text": "a newspaper dated October 1st, 2005 2005年10月1日的报纸"
+    },
+    {
+     "text": "a girl aged 20 二十岁的女孩"
+    },
+    {
+     "text": "a man named John 一个叫John的男人"
+    },
+    {
+     "text": "a novel entitled Three Kingdoms 一本名为《三国》的小说"
+    },
+    {
+     "text": "He has two sons, one of whom died in the war. 他有两个儿子，其中的一个死于战火。"
+    },
+    {
+     "text": "The speaker posed four questions, the answers to which proved very illuminating.演讲者提了四个问题，它们的答案被证明非常具有启发性。"
+    },
+    {
+     "text": "Most of our fears are unreasonable, but they are impossible to erase. NCE3-54"
+    },
+    {
+     "text": "Most of our fears are unreasonable, but it is impossible to erase them. 换成形式主语"
+    },
+    {
+     "text": "..., but it was impossible to stop the thieves . but the thieves were impossible to stop. 人不能当possible和impossible的主语"
+    },
+    {
+     "text": "He is impossible to deal with. 这里的He其实是做的with的宾语 It is impossible to deal with him."
+    },
+    {
+     "text": "The police are still trying to piece together the facts."
+    },
+    {
+     "text": "The archaeologists pieced the fragments together."
+    },
+    {
+     "text": "When the archaeologists reconstructed the fragments, they were amazed to find that the goddess turned out to be a very modern-looking woman ."
+    },
+    {
+     "text": "When the archaeologists pieced the fragments together, they were amazed to find that the goddess turned out to be a very modern-looking woman. 替换"
+    },
+    {
+     "table": {
+      "headers": [
+       "come to light / be brought to light 曝光(被发现)",
+       "cast light on ... 揭示\\解释，使清楚明白",
+       "shed light on ... 揭示、阐明，解释",
+       "throw light on ... 揭示、阐述"
+      ],
+      "rows": [
+       [
+        "New evidence in this case has recently come to light / been brought to light."
+       ],
+       [
+        "These discoveries may cast some light on the origins of the universe."
+       ],
+       [
+        "Even seemingly insignificant remains can shed interesting light on the history of early man ."
+       ],
+       [
+        "Can you throw light on this problem? 你能把这个问题阐述清楚吗？"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "He was going to the sweet shop when he dropped his fifty pence."
+    },
+    {
+     "text": "He was still mumbling something about hospitals at the end of the party when he slipped on a piece of ice and broke his left leg ."
+    },
+    {
+     "text": "The idea never appealed to me very much, but one day, after a heavy shower, I happened to be walking in my garden when I noticed a huge number of snails taking a stroll on some of my prize plants ."
+    },
+    {
+     "text": "The morning passed rapidly and Frank was about to leave when he noticed a large packing case lying on the floor ."
+    },
+    {
+     "table": {
+      "headers": [
+       "主句",
+       "重点信息存在于从句里",
+       "进行时态",
+       "be about to do"
+      ],
+      "rows": [
+       [
+        "I was having dinner when the phone rang."
+       ],
+       [
+        "I was about to leave when the phone rang."
+       ]
+      ]
+     }
+    }
    ]
   }
  ]

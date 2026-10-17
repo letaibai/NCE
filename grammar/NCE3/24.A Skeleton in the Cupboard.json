@@ -2,43 +2,147 @@
  "grammar": [
   {
    "title": "发生在作者身上的故事",
-   "lines": [
-    "It is all very well for such things to occur in fiction. It is all very well for such things to occur in fiction, but in real life it is barely credible. 补充完整 It is all very well for ... to ..., but ... it is barely ... 对…来说是无可厚非的 …，但是…就不太… To varying degrees, we all have secrets which we do not want even our closest friends to learn , but few of us have skeletons in the cupboard. to varying degrees 在不同的程度上 closest adj.最靠近的（close 的最高级）\\ 距离近、关系近 The only person I know who has a skeleton in the cupboard is George Carlton, and he is very proud of the fact. 双重定语从句 (2个定语从句不在同一层次上) 第一个定语从句修饰前面的名词或短语，第二个定语从句修饰“名词或短语 + 第一个定语从句”两个定语从句之间没有并列连词连接。第一个定语从句的关系词（一般是关系代词作宾语）可省略。 Instead of becoming a doctor , however, he became a successful writer of detective stories. instead of doing ..., however, ... 本应该...结果... I once spent an uncomfortable weekend which I shall never forget at his house . transferred epithet 移就（修饰手法） George showed me to the guestroom which, he said , was rarely used . show = lead 领某人去某地 He told me to unpack my things and then come down to dinner. unpack my things / belongings 归整随身物品、财物 I opened the cupboard door and then stood in front of it petrified. 形容词作主语补足语 动词发生时，补充说明主语的状态 The sudden movement of the door made it sway slightly and it gave me the impression that it was about to leap out at me . be about to do ... 正要做某事 be on the point of doing ... 正准备做… But George was unsympathetic. But George didn't sympathize with me. 替换 'Oh, that,’ he said with a smile as if he were talking about an old friend. 虚拟语气 Don't act as if you were the only pebble on the beach. 'That 's Sebastian. You forget that I was a medical student once upon a time .' once upon a time 从前，很久以前：在过去的某个时候",
-    "It is all very well for you to wear pajamas in your own home, but in public it is barely respectable. 你在家里穿睡衣是无可厚非的，但是在公共场合就不太体面了。",
-    "Racism still exists to varying degrees.",
-    "The water of rivers, lakes and reservoirs was universally polluted to varying degrees.",
-    "closest friend = intimate friend 亲密好友",
-    "bosom friend 知心朋友",
-    "fair-weather friend 酒肉朋友",
-    "pen pal / friend 笔友",
-    "internet pal / friend 网友",
-    "You're the only person l've ever met who could do it .",
-    "He's the best man I can find who can mend it within an hour .",
-    "be proud of ... 对某事很骄傲 He became very proud of himself. 他变得非常自豪。",
-    "take pride in ... 以…为傲 We take pride in offering you the highest standards.我们以向您提供最高标准的服务而自豪。",
-    "pride oneself on ... 以某事物为自豪 Much as we may pride ourselves on our good taste, we are no longer free to choose the things we want, for advertising exerts a subtle influence on us .",
-    "Instead of becoming a doctor , however, Lu Xun became China's foremost modern writer of satirical essays.",
-    "an uncomfortable weekend （令人）不舒服的周末",
-    "a sad letter （令人）悲伤的信",
-    "a lonely night （令人）寂寞的夜",
-    "平林漠漠烟如织，寒山一带伤心碧",
-    "自春来，惨绿愁红，芳心是事可可",
-    "Aleko denied taking it and led Dimitri into his back yard .",
-    "unpack my suitcase 归置",
-    "She came home sick.",
-    "Only the good die young. 英年早逝（好人不长命）",
-    "Inevitably you arrive at your destination almost exhausted. NCE3-44",
-    "give sb. the impression that ... 使某人觉得... The party is trying to give the impression that it alone stands for democracy. 该党正企图让人觉得只有它才代表民主。",
-    "have / get the impression that ... 某人觉得... ...and I had / got the impression that it was about to leap out ... 本句替换",
-    "be under the impression that ... 某人还以为... Though the crew were at first under the impression that the lost ship had been found, the contents of the chest proved them wrong .",
-    "She is about to embark on a diplomatic career. 她即将开始外交生涯。",
-    "It was on the point of leaping out at me. 本句替换",
-    "leap 向远、前跳 jump 随便跳 bounce 弹跳",
-    "The boy cleared the fence in one leap. 男孩一跃跳过了篱笆。 Can you jump that gate? 你能跳过那篱笆门吗？ by leaps and bounds: very quickly",
-    "But George had / showed no sympathy for me.",
-    "Once upon a time there was a princess... 从前有一位公主…",
-    "Once upon a time, a hippo lived in a river next to a big tree. 从前，有一只河马住在大树旁边的河里。",
-    "Once upon a time there were three little pigs.从前，有三只小猪。"
+   "parts": [
+    {
+     "text": "It is all very well for such things to occur in fiction. It is all very well for such things to occur in fiction, but in real life it is barely credible. 补充完整 It is all very well for ... to ..., but ... it is barely ... 对…来说是无可厚非的 …，但是…就不太… To varying degrees, we all have secrets which we do not want even our closest friends to learn , but few of us have skeletons in the cupboard. to varying degrees 在不同的程度上 closest adj.最靠近的（close 的最高级）\\ 距离近、关系近 The only person I know who has a skeleton in the cupboard is George Carlton, and he is very proud of the fact. 双重定语从句 (2个定语从句不在同一层次上) 第一个定语从句修饰前面的名词或短语，第二个定语从句修饰“名词或短语 + 第一个定语从句”两个定语从句之间没有并列连词连接。第一个定语从句的关系词（一般是关系代词作宾语）可省略。 Instead of becoming a doctor , however, he became a successful writer of detective stories. instead of doing ..., however, ... 本应该...结果... I once spent an uncomfortable weekend which I shall never forget at his house . transferred epithet 移就（修饰手法） George showed me to the guestroom which, he said , was rarely used . show = lead 领某人去某地 He told me to unpack my things and then come down to dinner. unpack my things / belongings 归整随身物品、财物 I opened the cupboard door and then stood in front of it petrified. 形容词作主语补足语 动词发生时，补充说明主语的状态 The sudden movement of the door made it sway slightly and it gave me the impression that it was about to leap out at me . be about to do ... 正要做某事 be on the point of doing ... 正准备做… But George was unsympathetic. But George didn't sympathize with me. 替换 'Oh, that,’ he said with a smile as if he were talking about an old friend. 虚拟语气 Don't act as if you were the only pebble on the beach. 'That 's Sebastian. You forget that I was a medical student once upon a time .' once upon a time 从前，很久以前：在过去的某个时候"
+    },
+    {
+     "text": "It is all very well for you to wear pajamas in your own home, but in public it is barely respectable. 你在家里穿睡衣是无可厚非的，但是在公共场合就不太体面了。"
+    },
+    {
+     "text": "Racism still exists to varying degrees."
+    },
+    {
+     "text": "The water of rivers, lakes and reservoirs was universally polluted to varying degrees."
+    },
+    {
+     "text": "closest friend = intimate friend 亲密好友"
+    },
+    {
+     "text": "bosom friend 知心朋友"
+    },
+    {
+     "text": "fair-weather friend 酒肉朋友"
+    },
+    {
+     "text": "pen pal / friend 笔友"
+    },
+    {
+     "text": "internet pal / friend 网友"
+    },
+    {
+     "text": "You're the only person l've ever met who could do it ."
+    },
+    {
+     "text": "He's the best man I can find who can mend it within an hour ."
+    },
+    {
+     "table": {
+      "headers": [
+       "be proud of ... 对某事很骄傲",
+       "take pride in ... 以…为傲",
+       "pride oneself on ... 以某事物为自豪"
+      ],
+      "rows": [
+       [
+        "He became very proud of himself. 他变得非常自豪。"
+       ],
+       [
+        "We take pride in offering you the highest standards.我们以向您提供最高标准的服务而自豪。"
+       ],
+       [
+        "Much as we may pride ourselves on our good taste, we are no longer free to choose the things we want, for advertising exerts a subtle influence on us ."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Instead of becoming a doctor , however, Lu Xun became China's foremost modern writer of satirical essays."
+    },
+    {
+     "text": "an uncomfortable weekend （令人）不舒服的周末"
+    },
+    {
+     "text": "a sad letter （令人）悲伤的信"
+    },
+    {
+     "text": "a lonely night （令人）寂寞的夜"
+    },
+    {
+     "text": "平林漠漠烟如织，寒山一带伤心碧"
+    },
+    {
+     "text": "自春来，惨绿愁红，芳心是事可可"
+    },
+    {
+     "text": "Aleko denied taking it and led Dimitri into his back yard ."
+    },
+    {
+     "text": "unpack my suitcase 归置"
+    },
+    {
+     "text": "She came home sick."
+    },
+    {
+     "text": "Only the good die young. 英年早逝（好人不长命）"
+    },
+    {
+     "text": "Inevitably you arrive at your destination almost exhausted. NCE3-44"
+    },
+    {
+     "table": {
+      "headers": [
+       "give sb. the impression that ... 使某人觉得...",
+       "have / get the impression that ... 某人觉得...",
+       "be under the impression that ... 某人还以为..."
+      ],
+      "rows": [
+       [
+        "The party is trying to give the impression that it alone stands for democracy. 该党正企图让人觉得只有它才代表民主。"
+       ],
+       [
+        "...and I had / got the impression that it was about to leap out ... 本句替换"
+       ],
+       [
+        "Though the crew were at first under the impression that the lost ship had been found, the contents of the chest proved them wrong ."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "She is about to embark on a diplomatic career. 她即将开始外交生涯。"
+    },
+    {
+     "text": "It was on the point of leaping out at me. 本句替换"
+    },
+    {
+     "table": {
+      "headers": [
+       "leap 向远、前跳",
+       "jump 随便跳",
+       "bounce 弹跳"
+      ],
+      "rows": [
+       [
+        "The boy cleared the fence in one leap. 男孩一跃跳过了篱笆。",
+        "Can you jump that gate? 你能跳过那篱笆门吗？",
+        "by leaps and bounds: very quickly"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "But George had / showed no sympathy for me."
+    },
+    {
+     "text": "Once upon a time there was a princess... 从前有一位公主…"
+    },
+    {
+     "text": "Once upon a time, a hippo lived in a river next to a big tree. 从前，有一只河马住在大树旁边的河里。"
+    },
+    {
+     "text": "Once upon a time there were three little pigs.从前，有三只小猪。"
+    }
    ]
   }
  ]

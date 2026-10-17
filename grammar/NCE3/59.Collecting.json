@@ -2,159 +2,623 @@
  "grammar": [
   {
    "title": "观点",
-   "lines": [
-    "Some things are collected deliberately in the home in an attempt to avoid waste. deliberately adv. 故意地；谨慎地；慎重地 in an attempt to … = in order to … 目的、为了做某事… Among these I would list string and brown paper, kept by thrifty people when a parcel has been opened , to save buying these two requisites. list 列举 save = avoid 避免 save sb. sth. / doing sth. 省的做某事 Collecting small items can easily become a mania. -mania 对...狂热的（用于构成名词，表示）狂热，异常兴奋 I know someone who always cuts sketches out from newspapers of model clothes that she would like to buy if she had the money . I know someone… 我认识的某个人 … if she had the money. … if she could afford them. 课文写法替换 … if she could afford such purchases. As she is not rich, the chances that she will ever be able to afford such purchases are remote; but she is never sufficiently strong minded to be able to stop the practice. chances that … / of … + are remote / slight / slim / small 做某事机会很小 strong-minded enough 足够的意志坚定（enough 要后置） practice 习俗（惯例、习惯性做法） It is a harmless habit, but it litters up her desk to such an extent that every time she opens it, loose bits of paper fall out in every direction. litter (up) ... 杂乱的堆满某个地方 in every direction 向四方八分飘散",
-    "She deliberately avoided answering his question. 她故意避开了回答他的问题。",
-    "He was accused of being deliberately vague. 他被指责为故意含糊其辞。",
-    "The thieves must have deliberately triggered the alarm and hidden inside the house. 那些小偷一定是故意触发了报警器，然后藏在屋子里。",
-    "intentionally adv. 故意地，有意地 He intentionally left the door open. 他故意没有关门。",
-    "on purpose 故意；意欲 Did you break the vase on purpose? 你是故意打破花瓶的吗？",
-    "accidentally adv. 意外地；偶然地 She accidentally spilled coffee on the table. 她不小心把咖啡洒在了桌子上。",
-    "by accident 偶然 We met by accident at the airport. 我们在机场偶然相遇。",
-    "by chance 偶然 I found the book by chance while cleaning my room. 我在打扫房间时偶然发现了这本书。",
-    "unintentionally adv. 无意地；非故意地；非存心地 He unintentionally offended his colleague. 他无意中冒犯了同事。",
-    "fortuitously adv. 偶然地，意外地 Fortuitously, they found shelter before the storm hit. 幸运地，他们在暴风雨来临前找到了避难所。",
-    "They closed the road in an attempt to reduce traffic in the city.",
-    "She called him in an attempt to apologize. 她打电话给他是为了道歉。",
-    "My friends endured tremendous danger in order to help me.为了帮助我，我的朋友们经历了巨大的危险。",
-    "The actors are listed in order of appearance.",
-    "The pupils were asked to list the sports they loved most and hated most. 学生们被要求列出他们最喜欢的和最讨厌的运动。",
-    "A medical examiner has listed the deaths as homicides. 验尸官已将这些死亡列为他杀案件。",
-    "list one’s faults He asked his friends to list his faults so he could improve. 他让朋友列出他的缺点以便改进。",
-    "list one’s achievements She proudly listed her achievements during the interview. 她在面试中自豪地列出了自己的成就。",
-    "A stitch in time saves nine. 一针及时省九针",
-    "He took the back road to save time and avoid traffic. 他走小路以节省时间并避免交通堵塞。",
-    "save sth. / doing 避免做某事… Setting down clear rules from the start will save arguments later on.",
-    "If you lend me some money, it will save me a trip to the bank.",
-    "If you tell her the news, it will save me calling her.",
-    "They could be saved so much misery and expense if they chose to live in the city where they rightly belong .",
-    "klept o mania",
-    "nymph o mania",
-    "pyr o mania",
-    "a pyr o maniac 纵火狂",
-    "tulip mania 郁金香狂热",
-    "Do you know of any good restaurants nearby? 你知道附近有什么好餐馆吗？",
-    "The hosts know someone who is a comedian who will be replacing the band. 会有主办方认识的某位喜剧演员来取代乐队。",
-    "We all know someone who's hit a rough patch. 我们都知道有人遇到了困难。",
-    "know of / about … Verrazano, an Italian about whom little is known, sailed into New York Harbour in 1524 and named it Angouleme.",
-    "hear of / about … Have you heard of this new technology? 你听说过这种新技术吗？",
-    "learn of / about … I just learned of the new policy from my colleague. 我刚从同事那里得知了新政策。",
-    "The chances of winning the lottery are remote. 中奖的机会非常小。",
-    "There is little chance of rain today according to the forecast. 根据天气预报，今天下雨的几率很小。",
-    "The following day, however, the doctor consoled him by telling him that his chances of being able to leave hospital in time for New Year celebrations were good .",
-    "chances that … / of … + are high / good 做某事机会很大 The chances of getting the job are high with her qualifications. 以她的资历，得到这份工作的机会很大。",
-    "there is little chance of … 机会很小 There is little chance of her being able to afford such purchases. 替换写法",
-    "She was strong-minded enough to refuse the tempting offer. 她意志坚定，拒绝了这个诱人的提议。",
-    "No, I don't think she's that strong-minded. 不会的，她的意志没有那么坚强。",
-    "On the other hand, your stomach would turn at the idea of frying potatoes in animal fat—the normally accepted practice in many northern countries .",
-    "It’s a common practice in some cultures to greet with a bow. 在某些文化中，鞠躬是常见的习俗。",
-    "The garden was soon littered with chunks of metal which had once made up a lawn mower.",
-    "The entrance hall is littered with toys. 入口大厅里散落着玩具。",
-    "Don't litter up the floor with scraps of paper. 不要在地板上乱扔纸屑。",
-    "What can be done to distribute the sound evenly in every direction? 怎样才能使声音在各个方向上均匀分布呢？",
-    "People shouted and ran in every direction. 人们一边喊叫一边向四面八方跑。",
-    "Stones were flying about in every direction. 石块朝四面八方乱飞。",
-    "Roads radiate from the city in every direction. 道路从城市通向四面八方。",
-    "After school the children went home in every direction. 放学之后，同学们朝不同方向回家了。",
-    "in all directions When the police arrived, the crowd scattered in all directions. 警察赶到后，人群便向四面八方散开了。"
+   "parts": [
+    {
+     "text": "Some things are collected deliberately in the home in an attempt to avoid waste. deliberately adv. 故意地；谨慎地；慎重地 in an attempt to … = in order to … 目的、为了做某事… Among these I would list string and brown paper, kept by thrifty people when a parcel has been opened , to save buying these two requisites. list 列举 save = avoid 避免 save sb. sth. / doing sth. 省的做某事 Collecting small items can easily become a mania. -mania 对...狂热的（用于构成名词，表示）狂热，异常兴奋 I know someone who always cuts sketches out from newspapers of model clothes that she would like to buy if she had the money . I know someone… 我认识的某个人 … if she had the money. … if she could afford them. 课文写法替换 … if she could afford such purchases. As she is not rich, the chances that she will ever be able to afford such purchases are remote; but she is never sufficiently strong minded to be able to stop the practice. chances that … / of … + are remote / slight / slim / small 做某事机会很小 strong-minded enough 足够的意志坚定（enough 要后置） practice 习俗（惯例、习惯性做法） It is a harmless habit, but it litters up her desk to such an extent that every time she opens it, loose bits of paper fall out in every direction. litter (up) ... 杂乱的堆满某个地方 in every direction 向四方八分飘散"
+    },
+    {
+     "text": "She deliberately avoided answering his question. 她故意避开了回答他的问题。"
+    },
+    {
+     "text": "He was accused of being deliberately vague. 他被指责为故意含糊其辞。"
+    },
+    {
+     "text": "The thieves must have deliberately triggered the alarm and hidden inside the house. 那些小偷一定是故意触发了报警器，然后藏在屋子里。"
+    },
+    {
+     "table": {
+      "headers": [
+       "intentionally adv. 故意地，有意地",
+       "on purpose 故意；意欲",
+       "accidentally adv. 意外地；偶然地",
+       "by accident 偶然",
+       "by chance 偶然",
+       "unintentionally adv. 无意地；非故意地；非存心地",
+       "fortuitously adv. 偶然地，意外地"
+      ],
+      "rows": [
+       [
+        "He intentionally left the door open. 他故意没有关门。"
+       ],
+       [
+        "Did you break the vase on purpose? 你是故意打破花瓶的吗？"
+       ],
+       [
+        "She accidentally spilled coffee on the table. 她不小心把咖啡洒在了桌子上。"
+       ],
+       [
+        "We met by accident at the airport. 我们在机场偶然相遇。"
+       ],
+       [
+        "I found the book by chance while cleaning my room. 我在打扫房间时偶然发现了这本书。"
+       ],
+       [
+        "He unintentionally offended his colleague. 他无意中冒犯了同事。"
+       ],
+       [
+        "Fortuitously, they found shelter before the storm hit. 幸运地，他们在暴风雨来临前找到了避难所。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "They closed the road in an attempt to reduce traffic in the city."
+    },
+    {
+     "text": "She called him in an attempt to apologize. 她打电话给他是为了道歉。"
+    },
+    {
+     "text": "My friends endured tremendous danger in order to help me.为了帮助我，我的朋友们经历了巨大的危险。"
+    },
+    {
+     "text": "The actors are listed in order of appearance."
+    },
+    {
+     "text": "The pupils were asked to list the sports they loved most and hated most. 学生们被要求列出他们最喜欢的和最讨厌的运动。"
+    },
+    {
+     "text": "A medical examiner has listed the deaths as homicides. 验尸官已将这些死亡列为他杀案件。"
+    },
+    {
+     "table": {
+      "headers": [
+       "list one’s faults",
+       "list one’s achievements"
+      ],
+      "rows": [
+       [
+        "He asked his friends to list his faults so he could improve. 他让朋友列出他的缺点以便改进。"
+       ],
+       [
+        "She proudly listed her achievements during the interview. 她在面试中自豪地列出了自己的成就。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "A stitch in time saves nine. 一针及时省九针"
+    },
+    {
+     "text": "He took the back road to save time and avoid traffic. 他走小路以节省时间并避免交通堵塞。"
+    },
+    {
+     "table": {
+      "headers": [
+       "save sth. / doing 避免做某事…"
+      ],
+      "rows": [
+       [
+        "Setting down clear rules from the start will save arguments later on."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "If you lend me some money, it will save me a trip to the bank."
+    },
+    {
+     "text": "If you tell her the news, it will save me calling her."
+    },
+    {
+     "text": "They could be saved so much misery and expense if they chose to live in the city where they rightly belong ."
+    },
+    {
+     "text": "klept o mania"
+    },
+    {
+     "text": "nymph o mania"
+    },
+    {
+     "text": "pyr o mania"
+    },
+    {
+     "text": "a pyr o maniac 纵火狂"
+    },
+    {
+     "text": "tulip mania 郁金香狂热"
+    },
+    {
+     "text": "Do you know of any good restaurants nearby? 你知道附近有什么好餐馆吗？"
+    },
+    {
+     "text": "The hosts know someone who is a comedian who will be replacing the band. 会有主办方认识的某位喜剧演员来取代乐队。"
+    },
+    {
+     "text": "We all know someone who's hit a rough patch. 我们都知道有人遇到了困难。"
+    },
+    {
+     "table": {
+      "headers": [
+       "know of / about …",
+       "hear of / about …",
+       "learn of / about …"
+      ],
+      "rows": [
+       [
+        "Verrazano, an Italian about whom little is known, sailed into New York Harbour in 1524 and named it Angouleme."
+       ],
+       [
+        "Have you heard of this new technology? 你听说过这种新技术吗？"
+       ],
+       [
+        "I just learned of the new policy from my colleague. 我刚从同事那里得知了新政策。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The chances of winning the lottery are remote. 中奖的机会非常小。"
+    },
+    {
+     "text": "There is little chance of rain today according to the forecast. 根据天气预报，今天下雨的几率很小。"
+    },
+    {
+     "text": "The following day, however, the doctor consoled him by telling him that his chances of being able to leave hospital in time for New Year celebrations were good ."
+    },
+    {
+     "table": {
+      "headers": [
+       "chances that … / of … + are high / good 做某事机会很大",
+       "there is little chance of … 机会很小"
+      ],
+      "rows": [
+       [
+        "The chances of getting the job are high with her qualifications. 以她的资历，得到这份工作的机会很大。"
+       ],
+       [
+        "There is little chance of her being able to afford such purchases. 替换写法"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "She was strong-minded enough to refuse the tempting offer. 她意志坚定，拒绝了这个诱人的提议。"
+    },
+    {
+     "text": "No, I don't think she's that strong-minded. 不会的，她的意志没有那么坚强。"
+    },
+    {
+     "text": "On the other hand, your stomach would turn at the idea of frying potatoes in animal fat—the normally accepted practice in many northern countries ."
+    },
+    {
+     "text": "It’s a common practice in some cultures to greet with a bow. 在某些文化中，鞠躬是常见的习俗。"
+    },
+    {
+     "text": "The garden was soon littered with chunks of metal which had once made up a lawn mower."
+    },
+    {
+     "text": "The entrance hall is littered with toys. 入口大厅里散落着玩具。"
+    },
+    {
+     "text": "Don't litter up the floor with scraps of paper. 不要在地板上乱扔纸屑。"
+    },
+    {
+     "text": "What can be done to distribute the sound evenly in every direction? 怎样才能使声音在各个方向上均匀分布呢？"
+    },
+    {
+     "text": "People shouted and ran in every direction. 人们一边喊叫一边向四面八方跑。"
+    },
+    {
+     "text": "Stones were flying about in every direction. 石块朝四面八方乱飞。"
+    },
+    {
+     "text": "Roads radiate from the city in every direction. 道路从城市通向四面八方。"
+    },
+    {
+     "text": "After school the children went home in every direction. 放学之后，同学们朝不同方向回家了。"
+    },
+    {
+     "table": {
+      "headers": [
+       "in all directions"
+      ],
+      "rows": [
+       [
+        "When the police arrived, the crowd scattered in all directions. 警察赶到后，人群便向四面八方散开了。"
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "原则",
-   "lines": [
-    "Collecting as a serious hobby is quite different and has many advantages. quite adv.完全 It provides relaxation for leisure hours, as just looking at one's treasures is always a joy. relaxation n.[u]休息，消遣；休闲活动 leisure hours 闲暇时间(常用复数) One does not have to go outside for amusement, since the collection is housed at home. house v.提供住处 Whatever it consists of , stamps, records, first editions of books, china, glass, antique furniture, pictures, model cars, stuffed birds, toy animals, there is always something to do in connection with it, from finding the right place for the latest addition, to verifying facts in reference books. Whatever it consists of 由…组成 in connection with … 关于 … reference book 参考书 This hobby educates one not only in the chosen subject, but also in general matters which have some bearing on it . have … bearing on … 与…有关 There are also other benefits. 长短句结合；前一句话长，后一句话长 benefits n.利益，好处 One wants to meet like-minded collectors, to get advice, to compare notes, to exchange articles, to show off the latest find. meet v. get to know, get acquainted with 结识… compare notes (with sb) = exchange ideas or opinions 交换意见、交换观点、交流心得 show off 炫耀 find n.发现物，被发现的人（尤指有趣、有价值或有用者） So one's circle of friends grows . circle （人际）圈子 Soon the hobby leads to travel, perhaps to a meeting in another town, possibly a trip abroad in search of a rare specimen, for collectors are not confined to any one country. in search of … = searching for … 寻找 Over the years, one may well become an authority on one's hobby and will very probably be asked to give informal talks to little gatherings and then, if successful, to larger audiences. may / might / could well used to say that sth. is likely to happen or is likely to be true 可能 on 某方面的权威，介词用on gathering n. a group of people meeting together 人群，聚会 Over the years, one may well become an authority on one‘s hobby and will very probably be asked to give informal talks to little gatherings and then, if (he is) successful, to larger audiences.状语从句，主语和be动词同时省略 In this way self-confidence grows , first from mastering a subject, then from being able to talk about it. mastering n./v. 精通，掌握 Collecting, by occupying spare time so constructively, makes a person contented , with no time for boredom. make sb. adj. 表示使某人处于某种状态",
-    "In winter, however, life at the monastery is quite different .",
-    "My position is quite different. 我的立场完全不同。",
-    "It is quite clear that we were firing in self defence. 非常清楚，我们当时是自卫还击。",
-    "The relaxation of travel restrictions means they are free to travel and work. 旅游限制的放松意味着他们可以自由地旅游和工作。",
-    "Fishing is his favourite relaxation. 钓鱼是他最喜欢的消遣活动。",
-    "Everyone needs some free time for rest and relaxation. 人人都需要一些休息和放松的空闲时间。",
-    "He talked and laughed away his leisure hours. 他的空闲时间就是在说说笑笑中消磨掉的。",
-    "They validly reminded me of the starting of my leisure hours. 它们确切的点醒我，休闲的时刻开始了。",
-    "Almost without exception computer games occupy most of our leisure hours. 几乎毫无例外，游戏占据了我们大部分的空余时间。",
-    "The refugees have been fed, clothed and housed by welfare organizations around the world.",
-    "The Palace Museum houses the biggest collection of antiques in China.",
-    "The building is open to the public and houses a museum of motorcycles and cars. 这座大楼对公众开放，并设有一个摩托车和汽车博物馆。",
-    "The building will house twelve boys and eight girls. 这栋房子要住12个男孩和8个女孩。",
-    "accommodate 提供住处 The hotel can accommodate 600 guests.",
-    "The United States will do whatever it can to help Greece. 美国将尽一切所能帮助希腊。",
-    "Whatever it consists of, the machine works perfectly. 无论它由什么组成，这台机器运转得很好。",
-    "Whatever it was couldn't be seen. 我们无法看到那究竟是什么东西。",
-    "Whatever it is made up of, … Whatever it is made up of, this material feels very durable. 无论它由什么材料构成，这种材料感觉非常耐用。",
-    "Whatever it is composed of, … Whatever it is composed of, this recipe always turns out delicious. 无论它由什么材料组成，这个食谱做出来总是很好吃。",
-    "Whatever it comprises, … Whatever it comprises, the collection is incredibly valuable. 无论它包含什么，这个收藏品非常有价值。",
-    "I am writing to you in connection with your job application.",
-    "He was questioned in connection with the recent robbery. 他因涉及最近的抢劫案而被询问。",
-    "Police have detained two suspects in connection with the attack. 警方拘留了2名与该袭击事件有关的嫌疑人。",
-    "concerning … I have some concerns concerning the project’s timeline. 我对项目的时间表有些担忧。",
-    "regarding … She gave me some advice regarding the job application process. 她给了我一些关于求职流程的建议。",
-    "respecting … There are no issues respecting his performance at work. 关于他的工作表现，没有任何问题。",
-    "relating to … We discussed issues relating to the new policy. 我们讨论了与新政策相关的问题。",
-    "You can find the information in the reference book. 你可以在参考书中找到这些信息。",
-    "A widely read reference book on the topic is listed under resources. 参考资料中列出了关于该主题的许多参考书籍。",
-    "bibliography 参考书目 The bibliography at the end of the paper lists all the sources. 论文末尾的参考书目列出了所有的来源。",
-    "Exercise has a direct bearing on how healthy you are.",
-    "What he said had not much bearing on the problem.",
-    "His private life has no bearing on his competence as a manager.",
-    "… which have some connection with it. The documents, which have some connection with the project, are missing. 与项目有某些关联的文件不见了。",
-    "… which have some relationship with it. The theories, which have some relationship with classical mechanics, are still being debated. 这些理论与经典力学有某种关系，仍在被讨论。",
-    "This could now work to Albania's benefit. 这可能现在对阿尔巴尼亚有利。",
-    "The benefits are immense. 效益是极大的。",
-    "She preached about the benefits of a healthy lifestyle. 她宣扬了健康生活的好处。",
-    "You'll soon begin to reap the benefits of being fitter. 你很快就会获得身体更健康带来的好处。",
-    "I’d like you to meet one of my best friends, Peter.",
-    "You can stretch your legs on the spacious decks, play games, meet interesting people and enjoy good food …",
-    "Hey, Terry, come and meet my Dad. 嗨，特里，过来见见我爸爸。",
-    "\"Jennifer,\" Miss Mallory said, \"this is Leigh Taylor.\"—\"Pleased to meet you,\" Jennifer said. “珍妮弗，”马洛里小姐说，“这位是利·泰勒。” —“很高兴认识你，” 珍妮弗说道。",
-    "We saw the play separately and compared notes afterwards.",
-    "Leading scientists got together in Paris to compare notes on current research.",
-    "The team met to exchange ideas or opinions on the upcoming project. 团队开会交换了关于即将到来的项目的想法和意见。",
-    "She raised her wrist, showing off a sparkling diamond bracelet.",
-    "He loves to show off his new car to his friends. 他喜欢向朋友们炫耀他的新车。",
-    "All right, there's no need to show off. 好啦，没有必要炫耀了。",
-    "Naomi was showing off her engagement ring. 内奥米那时正在炫耀她的订婚戒指。",
-    "The restaurant was a real find.",
-    "My new secretary was a marvelous find.",
-    "The most valuable find of all was the ship's log book, parts of which it was still possible to read .",
-    "She belongs to a close-knit circle of friends. 她属于一个关系密切的朋友圈。",
-    "Jeremy Hampden has a large circle of friends and is very popular at parties .",
-    "He has a small circle of friends. 他有一个小小的朋友圈子。",
-    "in political circles 政界 The news is causing a stir in political circles. 这条新闻在政界引起了轰动。",
-    "in legal circles 法律界 The case is well-known in legal circles. 这个案件在法律界广为人知。",
-    "in literary circles 文艺界 She is highly respected in literary circles. 她在文艺界受到高度尊敬。",
-    "Scientists are in search of a cure for the disease.",
-    "They went in search of new opportunities abroad. 他们出国寻找新的机会。",
-    "He’s been searching for a solution to the problem all week. 他整个星期都在寻找问题的解决方案。",
-    "推测可能性 比例 (大致百分比) 例句",
-    "possibly 有可能发生 20% - 40% We might possibly finish the project by Friday, but it depends on how fast we work. 我们有可能在星期五之前完成项目，但这取决于我们工作的速度。",
-    "maybe 有一定的可能性 40% - 50% Maybe we should try a different approach to solve this problem. 也许我们应该尝试不同的方法来解决这个问题。",
-    "perhaps 可能发生 50% Perhaps we will see a drop in prices next month, but it’s too early to say for sure. 或许下个月我们会看到价格下降，但现在下定论还为时过早。",
-    "probably 很有可能发生 60% - 80% She is probably going to be late because of the traffic jam. 她很可能会迟到，因为遇上了交通堵塞。",
-    "What you say may well be true.",
-    "You could try the drugstore, but it might well be closed by now.",
-    "推测可能性 比例 (大致百分比) 例句",
-    "might well 相当大的可能性 50% - 60% She might well change her mind after talking to him. 和他谈过后，她很可能会改变主意。",
-    "may well 某事很有可能发生 60% - 70% This decision may well affect the outcome of the project. 这个决定很可能会影响项目的结果。",
-    "could well 应该发生 70% - 80% If you continue working hard, you could well get promoted. 如果你继续努力工作，很有可能会升职。",
-    "Yuan Longping is a leading authority on hybrid rice.",
-    "Dr. Smith is an authority on climate change and its global impact. 史密斯博士是气候变化及其全球影响方面的权威。",
-    "The professor is considered an expert on ancient Roman history. 那位教授被认为是古罗马历史方面的权威。",
-    "She wrote a book and became a leading authority on sustainable architecture. 她写了一本书，成为可持续建筑领域的权威。",
-    "a social / family gathering",
-    "a gathering of religious leaders",
-    "We attended a gathering of former neighbors of Alaska. 我们参加了一个阿拉斯加前邻居们的聚会。",
-    "Mastering tools and working with one's hands shapes people's thinking and behavior. 精通工具的使用，并用手劳作，这两者都能塑造人的思想和行为。",
-    "Mastering one thing to the exclusion of others can hold back your true spirit. 精通一件事而排除其他事，会阻碍你真正的精神。",
-    "Invest in mastering the new. 尽量掌握新的内容。",
-    "master v.精通、掌握 n.大师、主人、原版 Duff soon mastered the skills of radio production. 达夫很快掌握了广播节目制作的技能。",
-    "A simple life makes a person contented. 简单的生活让人感到满足。",
-    "The joke made her happy. 这个笑话让她开心。",
-    "What he said made me sad. 他说得话让我很伤心。",
-    "His gruff manner made me angry. 他粗暴的态度让我生气。",
-    "Adventures make me happy. 冒险让我快乐。",
-    "Make sb. do (使役)让某人去做某事 She enjoyed herself making the assistant bring almost everything in the window ..."
+   "parts": [
+    {
+     "text": "Collecting as a serious hobby is quite different and has many advantages. quite adv.完全 It provides relaxation for leisure hours, as just looking at one's treasures is always a joy. relaxation n.[u]休息，消遣；休闲活动 leisure hours 闲暇时间(常用复数) One does not have to go outside for amusement, since the collection is housed at home. house v.提供住处 Whatever it consists of , stamps, records, first editions of books, china, glass, antique furniture, pictures, model cars, stuffed birds, toy animals, there is always something to do in connection with it, from finding the right place for the latest addition, to verifying facts in reference books. Whatever it consists of 由…组成 in connection with … 关于 … reference book 参考书 This hobby educates one not only in the chosen subject, but also in general matters which have some bearing on it . have … bearing on … 与…有关 There are also other benefits. 长短句结合；前一句话长，后一句话长 benefits n.利益，好处 One wants to meet like-minded collectors, to get advice, to compare notes, to exchange articles, to show off the latest find. meet v. get to know, get acquainted with 结识… compare notes (with sb) = exchange ideas or opinions 交换意见、交换观点、交流心得 show off 炫耀 find n.发现物，被发现的人（尤指有趣、有价值或有用者） So one's circle of friends grows . circle （人际）圈子 Soon the hobby leads to travel, perhaps to a meeting in another town, possibly a trip abroad in search of a rare specimen, for collectors are not confined to any one country. in search of … = searching for … 寻找 Over the years, one may well become an authority on one's hobby and will very probably be asked to give informal talks to little gatherings and then, if successful, to larger audiences. may / might / could well used to say that sth. is likely to happen or is likely to be true 可能 on 某方面的权威，介词用on gathering n. a group of people meeting together 人群，聚会 Over the years, one may well become an authority on one‘s hobby and will very probably be asked to give informal talks to little gatherings and then, if (he is) successful, to larger audiences.状语从句，主语和be动词同时省略 In this way self-confidence grows , first from mastering a subject, then from being able to talk about it. mastering n./v. 精通，掌握 Collecting, by occupying spare time so constructively, makes a person contented , with no time for boredom. make sb. adj. 表示使某人处于某种状态"
+    },
+    {
+     "text": "In winter, however, life at the monastery is quite different ."
+    },
+    {
+     "text": "My position is quite different. 我的立场完全不同。"
+    },
+    {
+     "text": "It is quite clear that we were firing in self defence. 非常清楚，我们当时是自卫还击。"
+    },
+    {
+     "text": "The relaxation of travel restrictions means they are free to travel and work. 旅游限制的放松意味着他们可以自由地旅游和工作。"
+    },
+    {
+     "text": "Fishing is his favourite relaxation. 钓鱼是他最喜欢的消遣活动。"
+    },
+    {
+     "text": "Everyone needs some free time for rest and relaxation. 人人都需要一些休息和放松的空闲时间。"
+    },
+    {
+     "text": "He talked and laughed away his leisure hours. 他的空闲时间就是在说说笑笑中消磨掉的。"
+    },
+    {
+     "text": "They validly reminded me of the starting of my leisure hours. 它们确切的点醒我，休闲的时刻开始了。"
+    },
+    {
+     "text": "Almost without exception computer games occupy most of our leisure hours. 几乎毫无例外，游戏占据了我们大部分的空余时间。"
+    },
+    {
+     "text": "The refugees have been fed, clothed and housed by welfare organizations around the world."
+    },
+    {
+     "text": "The Palace Museum houses the biggest collection of antiques in China."
+    },
+    {
+     "text": "The building is open to the public and houses a museum of motorcycles and cars. 这座大楼对公众开放，并设有一个摩托车和汽车博物馆。"
+    },
+    {
+     "text": "The building will house twelve boys and eight girls. 这栋房子要住12个男孩和8个女孩。"
+    },
+    {
+     "table": {
+      "headers": [
+       "accommodate 提供住处"
+      ],
+      "rows": [
+       [
+        "The hotel can accommodate 600 guests."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "The United States will do whatever it can to help Greece. 美国将尽一切所能帮助希腊。"
+    },
+    {
+     "text": "Whatever it consists of, the machine works perfectly. 无论它由什么组成，这台机器运转得很好。"
+    },
+    {
+     "text": "Whatever it was couldn't be seen. 我们无法看到那究竟是什么东西。"
+    },
+    {
+     "table": {
+      "headers": [
+       "Whatever it is made up of, …",
+       "Whatever it is composed of, …",
+       "Whatever it comprises, …"
+      ],
+      "rows": [
+       [
+        "Whatever it is made up of, this material feels very durable. 无论它由什么材料构成，这种材料感觉非常耐用。"
+       ],
+       [
+        "Whatever it is composed of, this recipe always turns out delicious. 无论它由什么材料组成，这个食谱做出来总是很好吃。"
+       ],
+       [
+        "Whatever it comprises, the collection is incredibly valuable. 无论它包含什么，这个收藏品非常有价值。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "I am writing to you in connection with your job application."
+    },
+    {
+     "text": "He was questioned in connection with the recent robbery. 他因涉及最近的抢劫案而被询问。"
+    },
+    {
+     "text": "Police have detained two suspects in connection with the attack. 警方拘留了2名与该袭击事件有关的嫌疑人。"
+    },
+    {
+     "table": {
+      "headers": [
+       "concerning …",
+       "regarding …",
+       "respecting …",
+       "relating to …"
+      ],
+      "rows": [
+       [
+        "I have some concerns concerning the project’s timeline. 我对项目的时间表有些担忧。"
+       ],
+       [
+        "She gave me some advice regarding the job application process. 她给了我一些关于求职流程的建议。"
+       ],
+       [
+        "There are no issues respecting his performance at work. 关于他的工作表现，没有任何问题。"
+       ],
+       [
+        "We discussed issues relating to the new policy. 我们讨论了与新政策相关的问题。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "You can find the information in the reference book. 你可以在参考书中找到这些信息。"
+    },
+    {
+     "text": "A widely read reference book on the topic is listed under resources. 参考资料中列出了关于该主题的许多参考书籍。"
+    },
+    {
+     "table": {
+      "headers": [
+       "bibliography 参考书目"
+      ],
+      "rows": [
+       [
+        "The bibliography at the end of the paper lists all the sources. 论文末尾的参考书目列出了所有的来源。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Exercise has a direct bearing on how healthy you are."
+    },
+    {
+     "text": "What he said had not much bearing on the problem."
+    },
+    {
+     "text": "His private life has no bearing on his competence as a manager."
+    },
+    {
+     "table": {
+      "headers": [
+       "… which have some connection with it.",
+       "… which have some relationship with it."
+      ],
+      "rows": [
+       [
+        "The documents, which have some connection with the project, are missing. 与项目有某些关联的文件不见了。"
+       ],
+       [
+        "The theories, which have some relationship with classical mechanics, are still being debated. 这些理论与经典力学有某种关系，仍在被讨论。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "This could now work to Albania's benefit. 这可能现在对阿尔巴尼亚有利。"
+    },
+    {
+     "text": "The benefits are immense. 效益是极大的。"
+    },
+    {
+     "text": "She preached about the benefits of a healthy lifestyle. 她宣扬了健康生活的好处。"
+    },
+    {
+     "text": "You'll soon begin to reap the benefits of being fitter. 你很快就会获得身体更健康带来的好处。"
+    },
+    {
+     "text": "I’d like you to meet one of my best friends, Peter."
+    },
+    {
+     "text": "You can stretch your legs on the spacious decks, play games, meet interesting people and enjoy good food …"
+    },
+    {
+     "text": "Hey, Terry, come and meet my Dad. 嗨，特里，过来见见我爸爸。"
+    },
+    {
+     "text": "\"Jennifer,\" Miss Mallory said, \"this is Leigh Taylor.\"—\"Pleased to meet you,\" Jennifer said. “珍妮弗，”马洛里小姐说，“这位是利·泰勒。” —“很高兴认识你，” 珍妮弗说道。"
+    },
+    {
+     "text": "We saw the play separately and compared notes afterwards."
+    },
+    {
+     "text": "Leading scientists got together in Paris to compare notes on current research."
+    },
+    {
+     "text": "The team met to exchange ideas or opinions on the upcoming project. 团队开会交换了关于即将到来的项目的想法和意见。"
+    },
+    {
+     "text": "She raised her wrist, showing off a sparkling diamond bracelet."
+    },
+    {
+     "text": "He loves to show off his new car to his friends. 他喜欢向朋友们炫耀他的新车。"
+    },
+    {
+     "text": "All right, there's no need to show off. 好啦，没有必要炫耀了。"
+    },
+    {
+     "text": "Naomi was showing off her engagement ring. 内奥米那时正在炫耀她的订婚戒指。"
+    },
+    {
+     "text": "The restaurant was a real find."
+    },
+    {
+     "text": "My new secretary was a marvelous find."
+    },
+    {
+     "text": "The most valuable find of all was the ship's log book, parts of which it was still possible to read ."
+    },
+    {
+     "text": "She belongs to a close-knit circle of friends. 她属于一个关系密切的朋友圈。"
+    },
+    {
+     "text": "Jeremy Hampden has a large circle of friends and is very popular at parties ."
+    },
+    {
+     "text": "He has a small circle of friends. 他有一个小小的朋友圈子。"
+    },
+    {
+     "table": {
+      "headers": [
+       "in political circles 政界",
+       "in legal circles 法律界",
+       "in literary circles 文艺界"
+      ],
+      "rows": [
+       [
+        "The news is causing a stir in political circles. 这条新闻在政界引起了轰动。"
+       ],
+       [
+        "The case is well-known in legal circles. 这个案件在法律界广为人知。"
+       ],
+       [
+        "She is highly respected in literary circles. 她在文艺界受到高度尊敬。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Scientists are in search of a cure for the disease."
+    },
+    {
+     "text": "They went in search of new opportunities abroad. 他们出国寻找新的机会。"
+    },
+    {
+     "text": "He’s been searching for a solution to the problem all week. 他整个星期都在寻找问题的解决方案。"
+    },
+    {
+     "table": {
+      "headers": [
+       "推测可能性",
+       "比例 (大致百分比)",
+       "例句",
+       "possibly 有可能发生",
+       "maybe 有一定的可能性",
+       "perhaps 可能发生",
+       "probably 很有可能发生"
+      ],
+      "rows": [
+       [
+        "20% - 40%",
+        "We might possibly finish the project by Friday, but it depends on how fast we work. 我们有可能在星期五之前完成项目，但这取决于我们工作的速度。"
+       ],
+       [
+        "40% - 50%",
+        "Maybe we should try a different approach to solve this problem. 也许我们应该尝试不同的方法来解决这个问题。"
+       ],
+       [
+        "50%",
+        "Perhaps we will see a drop in prices next month, but it’s too early to say for sure. 或许下个月我们会看到价格下降，但现在下定论还为时过早。"
+       ],
+       [
+        "60% - 80%",
+        "She is probably going to be late because of the traffic jam. 她很可能会迟到，因为遇上了交通堵塞。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "What you say may well be true."
+    },
+    {
+     "text": "You could try the drugstore, but it might well be closed by now."
+    },
+    {
+     "table": {
+      "headers": [
+       "推测可能性",
+       "比例 (大致百分比)",
+       "例句",
+       "might well 相当大的可能性",
+       "may well 某事很有可能发生",
+       "could well 应该发生"
+      ],
+      "rows": [
+       [
+        "50% - 60%",
+        "She might well change her mind after talking to him. 和他谈过后，她很可能会改变主意。"
+       ],
+       [
+        "60% - 70%",
+        "This decision may well affect the outcome of the project. 这个决定很可能会影响项目的结果。"
+       ],
+       [
+        "70% - 80%",
+        "If you continue working hard, you could well get promoted. 如果你继续努力工作，很有可能会升职。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "Yuan Longping is a leading authority on hybrid rice."
+    },
+    {
+     "text": "Dr. Smith is an authority on climate change and its global impact. 史密斯博士是气候变化及其全球影响方面的权威。"
+    },
+    {
+     "text": "The professor is considered an expert on ancient Roman history. 那位教授被认为是古罗马历史方面的权威。"
+    },
+    {
+     "text": "She wrote a book and became a leading authority on sustainable architecture. 她写了一本书，成为可持续建筑领域的权威。"
+    },
+    {
+     "text": "a social / family gathering"
+    },
+    {
+     "text": "a gathering of religious leaders"
+    },
+    {
+     "text": "We attended a gathering of former neighbors of Alaska. 我们参加了一个阿拉斯加前邻居们的聚会。"
+    },
+    {
+     "text": "Mastering tools and working with one's hands shapes people's thinking and behavior. 精通工具的使用，并用手劳作，这两者都能塑造人的思想和行为。"
+    },
+    {
+     "text": "Mastering one thing to the exclusion of others can hold back your true spirit. 精通一件事而排除其他事，会阻碍你真正的精神。"
+    },
+    {
+     "text": "Invest in mastering the new. 尽量掌握新的内容。"
+    },
+    {
+     "table": {
+      "headers": [
+       "master v.精通、掌握 n.大师、主人、原版"
+      ],
+      "rows": [
+       [
+        "Duff soon mastered the skills of radio production. 达夫很快掌握了广播节目制作的技能。"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "A simple life makes a person contented. 简单的生活让人感到满足。"
+    },
+    {
+     "text": "The joke made her happy. 这个笑话让她开心。"
+    },
+    {
+     "text": "What he said made me sad. 他说得话让我很伤心。"
+    },
+    {
+     "text": "His gruff manner made me angry. 他粗暴的态度让我生气。"
+    },
+    {
+     "text": "Adventures make me happy. 冒险让我快乐。"
+    },
+    {
+     "table": {
+      "headers": [
+       "Make sb. do (使役)让某人去做某事"
+      ],
+      "rows": [
+       [
+        "She enjoyed herself making the assistant bring almost everything in the window ..."
+       ]
+      ]
+     }
+    }
    ]
   }
  ]

@@ -2,16 +2,46 @@
  "grammar": [
   {
    "title": "小测试",
-   "lines": [
-    "The new school, which has just been completed, is a fine building. ℘",
-    "He denied that he had taken it.(denied/refused)",
-    "The waiter fetched me a clean glass.(took/fetched)",
-    "A bird flew past my window. (past/passed)",
-    "I spent the afternoon watching the match.(watching/following)",
-    "Ships continuously cross the sea.(continuously/ continually )",
-    "The bank has been robbed .( stolen /robbed)",
-    "原型 过去式 过去分词 现在分词",
-    "nod nodded nodded nodding"
+   "parts": [
+    {
+     "text": "The new school, which has just been completed, is a fine building. ℘"
+    },
+    {
+     "text": "He denied that he had taken it.(denied/refused)"
+    },
+    {
+     "text": "The waiter fetched me a clean glass.(took/fetched)"
+    },
+    {
+     "text": "A bird flew past my window. (past/passed)"
+    },
+    {
+     "text": "I spent the afternoon watching the match.(watching/following)"
+    },
+    {
+     "text": "Ships continuously cross the sea.(continuously/ continually )"
+    },
+    {
+     "text": "The bank has been robbed .( stolen /robbed)"
+    },
+    {
+     "table": {
+      "headers": [
+       "原型",
+       "过去式",
+       "过去分词",
+       "现在分词"
+      ],
+      "rows": [
+       [
+        "nod",
+        "nodded",
+        "nodded",
+        "nodding"
+       ]
+      ]
+     }
+    }
    ]
   }
  ]

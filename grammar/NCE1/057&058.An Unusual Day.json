@@ -2,51 +2,160 @@
  "grammar": [
   {
    "title": "一般现在时＆现在进行时",
-   "lines": [
-    "一般现在时（Simple Present) 描述习惯的状态、经常的动作和普遍真理。 主语 + is\\am\\are + 非动词、主语 + 动词 常与时间状语词组一起使用，如 every…always, usually, often, sometimes… 等。 现在进行时（Present Continuous） 表示此时此刻正在进行的动作或者持续一段时间的动作。 主语 + is\\am\\are + doing 常与表示具体时间的状语词组一起使用，如 now, at the moment… 等。",
-    "I usually have lunch at 12:00. 我通常 12 点吃饭。",
-    "He usually draws at 7:00. 他通常 7 点画画。",
-    "It 's nice day today . 今天是个好天气。",
-    "But I am having lunch now . 但今天都这会了我才吃呢！",
-    "But he is drawing at the moment . 但他现在在画呢。"
+   "parts": [
+    {
+     "text": "一般现在时（Simple Present) 描述习惯的状态、经常的动作和普遍真理。 主语 + is\\am\\are + 非动词、主语 + 动词 常与时间状语词组一起使用，如 every…always, usually, often, sometimes… 等。 现在进行时（Present Continuous） 表示此时此刻正在进行的动作或者持续一段时间的动作。 主语 + is\\am\\are + doing 常与表示具体时间的状语词组一起使用，如 now, at the moment… 等。"
+    },
+    {
+     "text": "I usually have lunch at 12:00. 我通常 12 点吃饭。"
+    },
+    {
+     "text": "He usually draws at 7:00. 他通常 7 点画画。"
+    },
+    {
+     "text": "It 's nice day today . 今天是个好天气。"
+    },
+    {
+     "text": "But I am having lunch now . 但今天都这会了我才吃呢！"
+    },
+    {
+     "text": "But he is drawing at the moment . 但他现在在画呢。"
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "询问时间",
-   "lines": [
-    "They usually . .. but today, they are ...",
-    "特殊疑问词 + is/am/are + n. 特殊疑问词 + n. + is/am/are",
-    "What’s the time? What time is it?",
-    "It's 2:00. ⇔ It's two o'clock. It's 10:00. ⇔ It's ten o' clock. It's 3:00. ⇔ It's three o' clock.",
-    "He usually shaves at seven o'clock every day, but today, he is shaving at 8:00."
+   "parts": [
+    {
+     "text": "They usually . .. but today, they are ..."
+    },
+    {
+     "table": {
+      "headers": [
+       "特殊疑问词 + is/am/are + n.",
+       "特殊疑问词 + n. + is/am/are"
+      ],
+      "rows": [
+       [
+        "What’s the time?",
+        "What time is it?"
+       ],
+       [
+        "It's 2:00. ⇔ It's two o'clock. It's 10:00. ⇔ It's ten o' clock. It's 3:00. ⇔ It's three o' clock."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "He usually shaves at seven o'clock every day, but today, he is shaving at 8:00."
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "英式美式英语的区别",
-   "lines": [
-    "发音 书写 表达",
-    "daughte r ,ci ty ,fou r ,sh ir t, au tumn...",
-    "美国🇺🇸 英国🇬🇧",
-    "color colo u r",
-    "favorite favo u rite",
-    "chili chi l li",
-    "traveling trave l ling",
-    "美国🇺🇸 英国🇬🇧 中文🇨🇳",
-    "garbage rubbish 垃圾",
-    "flashlight torch 手电筒",
-    "mail post 信件",
-    "can tin 罐头",
-    "fall autumn 秋天",
-    "faucet tap 水龙头",
-    "apartment flat 公寓楼",
-    "cab taxi 出租车",
-    "closet wardrobe 衣柜、衣橱",
-    "elevator lift 电梯",
-    "cookie biscuit 饼干"
+   "parts": [
+    {
+     "text": "发音 书写 表达"
+    },
+    {
+     "text": "daughte r ,ci ty ,fou r ,sh ir t, au tumn..."
+    },
+    {
+     "table": {
+      "headers": [
+       "美国🇺🇸",
+       "英国🇬🇧"
+      ],
+      "rows": [
+       [
+        "color",
+        "colo u r"
+       ],
+       [
+        "favorite",
+        "favo u rite"
+       ],
+       [
+        "chili",
+        "chi l li"
+       ],
+       [
+        "traveling",
+        "trave l ling"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "美国🇺🇸",
+       "英国🇬🇧",
+       "中文🇨🇳"
+      ],
+      "rows": [
+       [
+        "garbage",
+        "rubbish",
+        "垃圾"
+       ],
+       [
+        "flashlight",
+        "torch",
+        "手电筒"
+       ],
+       [
+        "mail",
+        "post",
+        "信件"
+       ],
+       [
+        "can",
+        "tin",
+        "罐头"
+       ],
+       [
+        "fall",
+        "autumn",
+        "秋天"
+       ],
+       [
+        "faucet",
+        "tap",
+        "水龙头"
+       ],
+       [
+        "apartment",
+        "flat",
+        "公寓楼"
+       ],
+       [
+        "cab",
+        "taxi",
+        "出租车"
+       ],
+       [
+        "closet",
+        "wardrobe",
+        "衣柜、衣橱"
+       ],
+       [
+        "elevator",
+        "lift",
+        "电梯"
+       ],
+       [
+        "cookie",
+        "biscuit",
+        "饼干"
+       ]
+      ]
+     }
+    }
    ]
   }
  ]

@@ -2,38 +2,131 @@
  "grammar": [
   {
    "title": "情态动词词组 had better",
-   "lines": [
-    "情态动词组 had better",
-    "无人称、单复数 情态动词 + v.原形 否定：情态动词 + not + v.原形 疑问：情态动词提前",
-    "I/We/You can… He/She can… They can… You can do it. He can repair the car. You can’t repair the car. Can you do it? Can he repair it?",
-    "陈述句 否定句 疑问",
-    "had better + v.原形 had better + not + v.原形 had 提前（基本不用）",
-    "You had better give her a way out. You had better ask yourself. You had better not give her a way out. We had better not tell him anything. We had better not drive him mad. had You better give her a way out？ had You better ask yourself？",
-    "最好…用来提建议，但不是很客气",
-    "He has a bad cold. She has a bad cold.",
-    "He had better take some medicine. He had better see the doctor. He had better stay at home. He had better drink some boiled water. She had better not go to work. She had better not go to school. She had better not eat rich food. She had better not drink cold water.",
-    "You had better go to the Palace Museum this afternoon.今下午你最好 去 故宫。 You had better pay the money by the end of the month. 你月底前最好把钱 付 上。"
+   "parts": [
+    {
+     "text": "情态动词组 had better"
+    },
+    {
+     "table": {
+      "headers": [
+       "无人称、单复数",
+       "情态动词 + v.原形",
+       "否定：情态动词 + not + v.原形",
+       "疑问：情态动词提前"
+      ],
+      "rows": [
+       [
+        "I/We/You can… He/She can… They can…",
+        "You can do it. He can repair the car.",
+        "You can’t repair the car.",
+        "Can you do it? Can he repair it?"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "陈述句",
+       "否定句",
+       "疑问",
+       "had better + v.原形",
+       "had better + not + v.原形",
+       "had 提前（基本不用）"
+      ],
+      "rows": [
+       [
+        "You had better give her a way out. You had better ask yourself.",
+        "You had better not give her a way out. We had better not tell him anything. We had better not drive him mad.",
+        "had You better give her a way out？ had You better ask yourself？"
+       ]
+      ]
+     }
+    },
+    {
+     "text": "最好…用来提建议，但不是很客气"
+    },
+    {
+     "table": {
+      "headers": [
+       "He has a bad cold.",
+       "She has a bad cold."
+      ],
+      "rows": [
+       [
+        "He had better take some medicine. He had better see the doctor. He had better stay at home. He had better drink some boiled water.",
+        "She had better not go to work. She had better not go to school. She had better not eat rich food. She had better not drink cold water."
+       ]
+      ]
+     }
+    },
+    {
+     "text": "You had better go to the Palace Museum this afternoon.今下午你最好 去 故宫。 You had better pay the money by the end of the month. 你月底前最好把钱 付 上。"
+    }
    ]
   }
  ],
  "sentences": [
   {
    "title": "What's the exact time？确切的时间是几点？",
-   "lines": [
-    "现在完成时 一般过去时 一般将来时",
-    "Have you ever been to…? Yes, I have. No, I haven’t. When did you go there? When will you go there?",
-    "Must Had better",
-    "I must stay here. You’d better stay here.",
-    "You must wait for him. You’d better wait for him."
+   "parts": [
+    {
+     "table": {
+      "headers": [
+       "现在完成时",
+       "一般过去时",
+       "一般将来时"
+      ],
+      "rows": [
+       [
+        "Have you ever been to…? Yes, I have. No, I haven’t.",
+        "When did you go there?",
+        "When will you go there?"
+       ]
+      ]
+     }
+    },
+    {
+     "table": {
+      "headers": [
+       "Must",
+       "Had better"
+      ],
+      "rows": [
+       [
+        "I must stay here.",
+        "You’d better stay here."
+       ],
+       [
+        "You must wait for him.",
+        "You’d better wait for him."
+       ]
+      ]
+     }
+    }
    ]
   }
  ],
  "expand": [
   {
    "title": "提建议的方式",
-   "lines": [
-    "You’d better… Why not + v. ? advise sb. to do…",
-    "You’d better call him. 你最好给他打个电话。 Why not call him? 为什么不给他打电话呢？ I advise you to call him. 我建议你给他打个电话。"
+   "parts": [
+    {
+     "table": {
+      "headers": [
+       "You’d better…",
+       "Why not + v. ?",
+       "advise sb. to do…"
+      ],
+      "rows": [
+       [
+        "You’d better call him. 你最好给他打个电话。",
+        "Why not call him? 为什么不给他打电话呢？",
+        "I advise you to call him. 我建议你给他打个电话。"
+       ]
+      ]
+     }
+    }
    ]
   }
  ]
