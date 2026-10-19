@@ -3,7 +3,7 @@
   "word": "sleep",
   "phonetic": "sli:p",
   "translation": "n. 睡眠, 静止, 昏迷, 麻木, 长眠, 冬眠\nvi. 睡觉, 睡眠, 静止\nvt. 睡",
-  "definition": "a natural and periodic state of rest during which consciousness of the world is suspended"
+  "definition": "A natural and periodic state of rest during which consciousness of the world is suspended"
  },
  {
   "word": "during",
@@ -15,19 +15,19 @@
   "word": "eye-movements",
   "phonetic": "",
   "translation": "(eye-movement 的复数) 眼动",
-  "definition": "plural of eye-movement"
+  "definition": "Plural of eye-movement"
  },
  {
   "word": "activity",
   "phonetic": "æk'tiviti",
   "translation": "n. 活动, 行动, 活跃, 活力\n[计] 活动",
-  "definition": "any specific behavior"
+  "definition": "Any specific behavior"
  },
  {
   "word": "body",
   "phonetic": "'bɒdi",
   "translation": "n. 身体, 人, 尸体, 主要部分, 团体\nvt. 赋以形体\n[计] 体",
-  "definition": "the entire structure of an organism (an animal, plant, or human being)"
+  "definition": "The entire structure of an organism (an animal, plant, or human being)"
  },
  {
   "word": "function",
@@ -39,7 +39,7 @@
   "word": "group",
   "phonetic": "gru:p",
   "translation": "n. 团体, 组, 团, 群\nv. 聚合, 成群\n[计] 创建组; 组, 用户组",
-  "definition": "any number of entities (members) considered as a unit"
+  "definition": "Any number of entities (members) considered as a unit"
  },
  {
   "word": "less",
@@ -51,73 +51,73 @@
   "word": "period",
   "phonetic": "'piәriәd",
   "translation": "n. 时期, 节段, 节, 句点, 学时, 周期\na. 当时特有的, 过去某段时期的\ninterj. 就是这话, 就是这么回事",
-  "definition": "the interval taken to complete one cycle of a regularly repeating phenomenon"
+  "definition": "The interval taken to complete one cycle of a regularly repeating phenomenon"
  },
  {
   "word": "amount",
   "phonetic": "ә'maunt",
   "translation": "n. 总数, 总额\nvi. 总计, 等同",
-  "definition": "the relative magnitude of something with reference to a criterion"
+  "definition": "The relative magnitude of something with reference to a criterion"
  },
  {
   "word": "brain",
   "phonetic": "brein",
   "translation": "n. 脑\nvt. 打碎脑部",
-  "definition": "that part of the central nervous system that includes all the higher nervous centers; enclosed within the skull; continuous with the spinal cord"
+  "definition": "That part of the central nervous system that includes all the higher nervous centers; enclosed within the skull; continuous with the spinal cord"
  },
  {
   "word": "disturbance",
   "phonetic": "dis'tә:bәns",
   "translation": "n. 扰乱, 不安, 忧虑\n[化] 扰动; 干扰; 失调",
-  "definition": "an unhappy and worried mental state"
+  "definition": "An unhappy and worried mental state"
  },
  {
   "word": "disturbed",
   "phonetic": "di'stә:bd",
   "translation": "a. 混乱的",
-  "definition": "s. having the place or position changed"
+  "definition": "S. having the place or position changed"
  },
  {
   "word": "dreaming",
   "phonetic": "",
   "translation": "a. 有梦想的",
-  "definition": "imaginative thoughts indulged in while awake"
+  "definition": "Imaginative thoughts indulged in while awake"
  },
  {
   "word": "dreams",
   "phonetic": "",
   "translation": "n. 梦想, 美梦（dream的复数形式）",
-  "definition": "a series of mental images and emotions occurring during sleep"
+  "definition": "A series of mental images and emotions occurring during sleep"
  },
  {
   "word": "first",
   "phonetic": "fә:st",
   "translation": "adv. 首先, 第一, 优先\na. 第一的\nnum. 第一\nn. 开始, 第一",
-  "definition": "the first or highest in an ordering or series"
+  "definition": "The first or highest in an ordering or series"
  },
  {
   "word": "going",
   "phonetic": "'gәuiŋ",
   "translation": "n. 去, 离去, 工作情况, 地面状况, 行为\na. 进行中的, 流行的, 成功的, 现存的",
-  "definition": "advancing toward a goal"
+  "definition": "Advancing toward a goal"
  },
  {
   "word": "much",
   "phonetic": "mʌtʃ",
   "translation": "n. 大量, 许多, 重要的事\na. 很多的, 重要的\nadv. 多, 甚, 几乎",
-  "definition": "a great amount or extent"
+  "definition": "A great amount or extent"
  },
  {
   "word": "muscle",
   "phonetic": "'mʌsl",
   "translation": "n. 肌肉, 臂力\n[医] 肌",
-  "definition": "one of the contractile organs of the body"
+  "definition": "One of the contractile organs of the body"
  },
  {
   "word": "one",
   "phonetic": "wʌn",
   "translation": "n. 一(个)\npron. 一, 任何人\nnum. 一, 一个\na. 一致的, 完整的",
-  "definition": "the smallest whole number or a numeral representing this number"
+  "definition": "The smallest whole number or a numeral representing this number"
  },
  {
   "word": "others",
@@ -134,109 +134,109 @@
   "word": "rapid",
   "phonetic": "'ræpid",
   "translation": "a. 迅速的, 飞快的, 急促的, 陡的\nn. 急流",
-  "definition": "a part of a river where the current is very fast"
+  "definition": "A part of a river where the current is very fast"
  },
  {
   "word": "recording",
   "phonetic": "ri'kɒ:diŋ",
   "translation": "a. 记录的, 记录用的\nn. 录音",
-  "definition": "a signal that encodes something (e.g., picture or sound) that has been recorded"
+  "definition": "A signal that encodes something (e.g., picture or sound) that has been recorded"
  },
  {
   "word": "reported",
   "phonetic": "ri'pɔ:tid",
   "translation": "a. 报告的；据报道的",
-  "definition": "made known or told about; especially presented in a formal account"
+  "definition": "Made known or told about; especially presented in a formal account"
  },
  {
   "word": "rest",
   "phonetic": "rest",
   "translation": "n. 休息, 睡眠, 安息, 稍息, 静止, 支架, 休息处, 其余者, 剩余部分\nvi. 休息, 睡, 长眠, 安心, 静止, 停止, 安置, 依赖\nvt. 使休息, 使支撑, 把...寄托于",
-  "definition": "freedom from activity (work or strain or responsibility)"
+  "definition": "Freedom from activity (work or strain or responsibility)"
  },
  {
   "word": "resting",
   "phonetic": "'restiŋ",
   "translation": "a. 静止的；休眠的",
-  "definition": "not move; be in a resting position"
+  "definition": "Not move; be in a resting position"
  },
  {
   "word": "simply",
   "phonetic": "'simpli",
   "translation": "adv. 简单地, 只是, 简直, 简朴地, 坦白地",
-  "definition": "r. absolutely; altogether; really"
+  "definition": "R. absolutely; altogether; really"
  },
  {
   "word": "sleeping",
   "phonetic": "'sli:piŋ",
   "translation": "n. 睡眠\na. 睡着的",
-  "definition": "the state of being asleep"
+  "definition": "The state of being asleep"
  },
  {
   "word": "while",
   "phonetic": "hwail",
   "translation": "n. 一会儿, (一段)时间\nconj. 当...的时候, 虽然\nvt. 消磨",
-  "definition": "a period of indeterminate length (usually short) marked by some action or condition"
+  "definition": "A period of indeterminate length (usually short) marked by some action or condition"
  },
  {
   "word": "woken",
   "phonetic": "'wәukәn",
   "translation": "wake的过去分词",
-  "definition": "be awake, be alert, be there"
+  "definition": "Be awake, be alert, be there"
  },
  {
   "word": "years",
   "phonetic": "",
   "translation": "n. 年代；岁月；年；年龄",
-  "definition": "a late time of life"
+  "definition": "A late time of life"
  },
  {
   "word": "achieved",
   "phonetic": "ә'tʃi:vd",
   "translation": "a. 取得的；完成的",
-  "definition": "to gain with effort"
+  "definition": "To gain with effort"
  },
  {
   "word": "active",
   "phonetic": "'æktiv",
   "translation": "a. 活跃的, 起作用的, 积极的, 有效的, 主动的, 活性的, 现行的, 现役的\nn. 主动语态, 积极分子",
-  "definition": "a person who is a participating member of an organization"
+  "definition": "A person who is a participating member of an organization"
  },
  {
   "word": "ago",
   "phonetic": "ә'gәu",
   "translation": "adv. 以前",
-  "definition": "s. gone by; or in the past"
+  "definition": "S. gone by; or in the past"
  },
  {
   "word": "american",
   "phonetic": "ә'merikәn",
   "translation": "n. 美国人\na. 美国的, 美洲的",
-  "definition": "a native or inhabitant of the United States"
+  "definition": "A native or inhabitant of the United States"
  },
  {
   "word": "another",
   "phonetic": "ә'nʌðә",
   "translation": "a. 另外的, 再一的, 不同的\npron. 又一个, 另一个, 类似的另一个",
-  "definition": "s. any of various alternatives; some other"
+  "definition": "S. any of various alternatives; some other"
  },
  {
   "word": "attaching",
   "phonetic": "",
   "translation": "[计] 归属\n[经] 扣押, 查封",
-  "definition": "cause to be attached"
+  "definition": "Cause to be attached"
  },
  {
   "word": "average",
   "phonetic": "'ævәridʒ",
   "translation": "n. 平均, 平均数, 一般水平, 海损\na. 平均的, 中等的, 平常的\nvt. 算出...平均数, 平均做, 均分, 使平衡\nvi. 平均为, 呈中间色",
-  "definition": "a statistic describing the location of a distribution"
+  "definition": "A statistic describing the location of a distribution"
  },
  {
   "word": "basic",
   "phonetic": "'beisik",
   "translation": "n. 基本原理, 要素, 基本规律\na. 基本的, 碱性的\n(计算机)BASIC语言",
-  "definition": "a popular programming language that is relatively easy to learn; an acronym for beginner's all-purpose symbolic instruction code; no longer in general use"
+  "definition": "A popular programming language that is relatively easy to learn; an acronym for beginner's all-purpose symbolic instruction code; no longer in general use"
  },
  {
   "word": "because",
@@ -248,151 +248,151 @@
   "word": "began",
   "phonetic": "bi'gæn",
   "translation": "begin的过去式",
-  "definition": "take the first step or steps in carrying out an action"
+  "definition": "Take the first step or steps in carrying out an action"
  },
  {
   "word": "best",
   "phonetic": "best",
   "translation": "a. 最好的\nadv. 最好地\nn. 最好的人",
-  "definition": "the supreme effort one can make"
+  "definition": "The supreme effort one can make"
  },
  {
   "word": "brief",
   "phonetic": "bri:f",
   "translation": "n. 摘要, 简报\na. 简短的, 短暂的\nvt. 对...作简报, 摘要, 节录",
-  "definition": "a document stating the facts and points of law of a client's case"
+  "definition": "A document stating the facts and points of law of a client's case"
  },
  {
   "word": "bursts",
   "phonetic": "bə:sts",
   "translation": "v. 爆炸( burst的第三人称单数 ); 突然发作; 突然打开; 挤满",
-  "definition": "the act of exploding or bursting"
+  "definition": "The act of exploding or bursting"
  },
  {
   "word": "change",
   "phonetic": "tʃeindʒ",
   "translation": "n. 变化, 找回的零钱, 找头, 更换\nvt. 改变, 更换, 兑换",
-  "definition": "an event that occurs when something passes from one state or phase to another"
+  "definition": "An event that occurs when something passes from one state or phase to another"
  },
  {
   "word": "clear",
   "phonetic": "kliә",
   "translation": "a. 清楚的, 明确的, 澄清的\nadv. 清晰地\nvt. 澄清, 清除障碍\nvi. 放晴, 变清澈\nn. 空隙\n[计] 清除",
-  "definition": "the state of being free of suspicion"
+  "definition": "The state of being free of suspicion"
  },
  {
   "word": "concerned",
   "phonetic": "kәn'sә:nd",
   "translation": "a. 关心的, 有关的, 参与的, 担心的",
-  "definition": "feeling or showing worry or solicitude"
+  "definition": "Feeling or showing worry or solicitude"
  },
  {
   "word": "continuously",
   "phonetic": "kәn'tinjuәsli",
   "translation": "adv. 不断地, 连续地\n[电] 连续地",
-  "definition": "r. at every point"
+  "definition": "R. at every point"
  },
  {
   "word": "cycle",
   "phonetic": "'saikl",
   "translation": "n. 周期, 循环, 自行车, 一段时间, 整套\nvi. 循环, 轮转, 骑自行车\nvt. 使循环, 使轮转\n[计] 环路; 周期; 循环",
-  "definition": "an interval during which a recurring sequence of events occurs"
+  "definition": "An interval during which a recurring sequence of events occurs"
  },
  {
   "word": "dealing",
   "phonetic": "'di:liŋ",
   "translation": "n. 经营行为, 行为, 交易\n[法] 待遇, 处置, 行为",
-  "definition": "method or manner of conduct in relation to others"
+  "definition": "Method or manner of conduct in relation to others"
  },
  {
   "word": "degree",
   "phonetic": "di'gri:",
   "translation": "n. 程度, 度数, 学位, 度\n[医] 度, 程度",
-  "definition": "a position on a scale of intensity or amount or quality"
+  "definition": "A position on a scale of intensity or amount or quality"
  },
  {
   "word": "dement",
   "phonetic": "di'ment",
   "translation": "vt. 使发狂\n[医] 痴呆者",
-  "definition": "t. To deprive of reason; to make mad."
+  "definition": "T. To deprive of reason; to make mad."
  },
  {
   "word": "device",
   "phonetic": "di'vais",
   "translation": "n. 装置, 设计, 策略, 发明物, 设备\n[计] 设备; DOS内部命令:该命令要求DOS安装一个设备驱动程序",
-  "definition": "an instrumentality invented for a particular purpose"
+  "definition": "An instrumentality invented for a particular purpose"
  },
  {
   "word": "disorders",
   "phonetic": "disˈɔ:dəz",
   "translation": "n. 混乱( disorder的名词复数 ); 凌乱; 骚乱; （身心、机能）失调",
-  "definition": "a physical condition in which there is a disturbance of normal functioning"
+  "definition": "A physical condition in which there is a disturbance of normal functioning"
  },
  {
   "word": "drifting",
   "phonetic": "'driftiŋ",
   "translation": "[计] 漂移的\n[医] 倾斜, 漂移",
-  "definition": "aimless wandering from place to place"
+  "definition": "Aimless wandering from place to place"
  },
  {
   "word": "electrical",
   "phonetic": "i'lektrikәl",
   "translation": "a. 电的, 有关电的\n[医] 电的",
-  "definition": "relating to or concerned with electricity"
+  "definition": "Relating to or concerned with electricity"
  },
  {
   "word": "electrodes",
   "phonetic": "e'lektrəʊdz",
   "translation": "n. 电极( electrode的复数形式 )",
-  "definition": "a conductor used to make electrical contact with some part of a circuit"
+  "definition": "A conductor used to make electrical contact with some part of a circuit"
  },
  {
   "word": "electroencephalograph",
   "phonetic": "ilektrәjen'sefәlәj^rɑ:f",
   "translation": "n. [医]脑电描记器,脑电图仪",
-  "definition": "medical instrument that records electric currents generated by the brain"
+  "definition": "Medical instrument that records electric currents generated by the brain"
  },
  {
   "word": "end",
   "phonetic": "end",
   "translation": "n. 结束, 终点, 目标, 末端, 梢, 死亡, 残余\nv. 结束, 终结, 终止\n[计] 端; 结束",
-  "definition": "either extremity of something that has length"
+  "definition": "Either extremity of something that has length"
  },
  {
   "word": "equal",
   "phonetic": "'i:kwәl",
   "translation": "n. 对手, 匹敌, 同辈\na. 相等的, 平等的, 胜任的, 合适的, 平静的, 不相上下的\nvt. 等于, 比得上\n[计] 等长度编码",
-  "definition": "be identical or equivalent to"
+  "definition": "Be identical or equivalent to"
  },
  {
   "word": "even",
   "phonetic": "'i:vәn",
   "translation": "a. 平坦的, 相等的, 连贯的, 均等的, 公平的, 偶数的, 平均的, 平衡的, 恰好的\nvt. 使平坦, 使相等\nvi. 变平, 成为相等\nadv. 甚至, 实际上, 完全, 十分\nn. 偶数, 偶校验\n[计] 偶数, 偶校验",
-  "definition": "become even or more even"
+  "definition": "Become even or more even"
  },
  {
   "word": "evidence",
   "phonetic": "'evidәns",
   "translation": "n. 根据, 证据, 迹象\n[经] 证据, 凭证",
-  "definition": "your basis for belief or disbelief; knowledge on which to base belief"
+  "definition": "Your basis for belief or disbelief; knowledge on which to base belief"
  },
  {
   "word": "exhibiting",
   "phonetic": "iɡˈzibitɪŋ",
   "translation": "v. 陈列, 展览( exhibit的现在分词 ); 表现; 显示; [法律]当庭出示（证件、物证等）",
-  "definition": "show an attribute, property, knowledge, or skill"
+  "definition": "Show an attribute, property, knowledge, or skill"
  },
  {
   "word": "experiences",
   "phonetic": "iksˈpiəriənsiz",
   "translation": "n. 经历( experience的名词复数 ); 经验; 亲身经历; 传统",
-  "definition": "the accumulation of knowledge or skill that results from direct participation in events or activities"
+  "definition": "The accumulation of knowledge or skill that results from direct participation in events or activities"
  },
  {
   "word": "experiments",
   "phonetic": "iksˈperimənts",
   "translation": "n. 实验( experiment的名词复数 ); 试验; 尝试; 实践",
-  "definition": "the act of conducting a controlled test or investigation"
+  "definition": "The act of conducting a controlled test or investigation"
  },
  {
   "word": "eye-movement",
@@ -403,259 +403,259 @@
   "word": "fact",
   "phonetic": "fækt",
   "translation": "n. 事实, 真实性, 真相, 细节, 论据",
-  "definition": "a piece of information about circumstances that exist or events that have occurred"
+  "definition": "A piece of information about circumstances that exist or events that have occurred"
  },
  {
   "word": "factor",
   "phonetic": "'fæktә",
   "translation": "n. 因素, 因数, 系数, 基因, 代理人\n[计] 因式",
-  "definition": "anything that contributes causally to a result"
+  "definition": "Anything that contributes causally to a result"
  },
  {
   "word": "factors",
   "phonetic": "",
   "translation": "n. 因素（factor的复数）",
-  "definition": "anything that contributes causally to a result"
+  "definition": "Anything that contributes causally to a result"
  },
  {
   "word": "fairly",
   "phonetic": "'fєәli",
   "translation": "adv. 美观地, 公平地, 相当地, 清楚地",
-  "definition": "r. without favoring one party, in a fair evenhanded manner"
+  "definition": "R. without favoring one party, in a fair evenhanded manner"
  },
  {
   "word": "finding",
   "phonetic": "'faindiŋ",
   "translation": "n. 发现, 发现物, 决定, 裁决\n[法] 调查结果, 对事实的认定, 判定的要素",
-  "definition": "the decision of a court on issues of fact or law"
+  "definition": "The decision of a court on issues of fact or law"
  },
  {
   "word": "fundamental",
   "phonetic": ".fʌndә'mentәl",
   "translation": "n. 基本原理, 原则, 基波\na. 基本的, 重要的, 原音的",
-  "definition": "any factor that could be considered important to the understanding of a particular business"
+  "definition": "Any factor that could be considered important to the understanding of a particular business"
  },
  {
   "word": "generally",
   "phonetic": "'dʒenәrәli",
   "translation": "adv. 通常, 逐渐地, 普遍地",
-  "definition": "r. without distinction of one from others"
+  "definition": "R. without distinction of one from others"
  },
  {
   "word": "giving",
   "phonetic": "'giviŋ",
   "translation": "n. 礼物, 给予物\n[法] 给予物, 礼物",
-  "definition": "the act of giving"
+  "definition": "The act of giving"
  },
  {
   "word": "hypothesis",
   "phonetic": "hai'pɒθәsis",
   "translation": "n. 假设\n[化] 假设",
-  "definition": "a proposal intended to explain certain facts or observations"
+  "definition": "A proposal intended to explain certain facts or observations"
  },
  {
   "word": "implications",
   "phonetic": "",
   "translation": "n. 蕴涵式；卷入（implication的复数）",
-  "definition": "something that is inferred (deduced or entailed or implied)"
+  "definition": "Something that is inferred (deduced or entailed or implied)"
  },
  {
   "word": "important",
   "phonetic": "im'pɒ:tәnt",
   "translation": "a. 重要的, 有地位的, 大量的, 显要的, 自负的\n[计] 要点",
-  "definition": "of great significance or value"
+  "definition": "Of great significance or value"
  },
  {
   "word": "inactivity",
   "phonetic": ".inæk'tiviti",
   "translation": "n. 不活动, 不活泼, 休止状态\n[经] 商业呆滞",
-  "definition": "being inactive; being less active"
+  "definition": "Being inactive; being less active"
  },
  {
   "word": "individual",
   "phonetic": ".indi'vidʒuәl",
   "translation": "n. 人, 个人, 个体\na. 个别的, 个人的, 独特的",
-  "definition": "a single organism"
+  "definition": "A single organism"
  },
  {
   "word": "interesting",
   "phonetic": "'intristiŋ",
   "translation": "a. 有趣的",
-  "definition": "arousing or holding the attention"
+  "definition": "Arousing or holding the attention"
  },
  {
   "word": "jerky",
   "phonetic": "'dʒә:ki",
   "translation": "a. 急动的, 抽筋的, 不平稳的\nn. 牛肉干",
-  "definition": "meat (especially beef) cut in strips and dried in the sun"
+  "definition": "Meat (especially beef) cut in strips and dried in the sun"
  },
  {
   "word": "lesson",
   "phonetic": "'lesn",
   "translation": "n. 课, 课业, 教训",
-  "definition": "a unit of instruction"
+  "definition": "A unit of instruction"
  },
  {
   "word": "literally",
   "phonetic": "'litәrәli",
   "translation": "adv. 逐字地, 按照字面上地, 不夸张地",
-  "definition": "r. in a literal sense"
+  "definition": "R. in a literal sense"
  },
  {
   "word": "looks",
   "phonetic": "",
   "translation": "n. 美貌",
-  "definition": "the feelings expressed on a person's face"
+  "definition": "The feelings expressed on a person's face"
  },
  {
   "word": "lying",
   "phonetic": "'laiiŋ",
   "translation": "n. 说谎\na. 横躺的, 说谎的",
-  "definition": "the deliberate act of deviating from the truth"
+  "definition": "The deliberate act of deviating from the truth"
  },
  {
   "word": "makes",
   "phonetic": "",
   "translation": "v. 做, 制作（make的第三人称单数）",
-  "definition": "a recognizable kind"
+  "definition": "A recognizable kind"
  },
  {
   "word": "matter",
   "phonetic": "'mætә",
   "translation": "n. 事件, 物质, 原因, 素材, 实体, 重要\nvi. 有关系",
-  "definition": "a vaguely specified concern"
+  "definition": "A vaguely specified concern"
  },
  {
   "word": "mattered",
   "phonetic": "ˈmætəd",
   "translation": "v. 要紧( matter的过去式和过去分词 ); 化脓; 有重大影响; 有重要性",
-  "definition": "imp. & p. p. of Matter"
+  "definition": "Imp. & p. p. of Matter"
  },
  {
   "word": "movement",
   "phonetic": "'mu:vmәnt",
   "translation": "n. 运动, 动作, 运转, 移动, 倾向, 变化, 活动, 乐章\n[医] 运动",
-  "definition": "a natural event that involves a change in the position or location of something"
+  "definition": "A natural event that involves a change in the position or location of something"
  },
  {
   "word": "named",
   "phonetic": "neimd",
   "translation": "a. 被指名的, 指定的\n[计] 命名的, 指定的, 有名的",
-  "definition": "assign a specified (usually proper) proper name to"
+  "definition": "Assign a specified (usually proper) proper name to"
  },
  {
   "word": "nature",
   "phonetic": "'neitʃә",
   "translation": "n. 自然, 大自然, 本性, 性格, 性质\n[医] 自然, 大自然; 本性, 性能",
-  "definition": "the essential qualities or characteristics by which something is recognized"
+  "definition": "The essential qualities or characteristics by which something is recognized"
  },
  {
   "word": "needs",
   "phonetic": "ni:dz",
   "translation": "adv. （只与must连用）必须地",
-  "definition": "a condition requiring relief"
+  "definition": "A condition requiring relief"
  },
  {
   "word": "nights",
   "phonetic": "naits",
   "translation": "n. 每夜, 在任何夜晚",
-  "definition": "the time after sunset and before sunrise while it is dark outside"
+  "definition": "The time after sunset and before sunrise while it is dark outside"
  },
  {
   "word": "occurs",
   "phonetic": "",
   "translation": "v. 重现（occur的第三人称单数）",
-  "definition": "come to pass"
+  "definition": "Come to pass"
  },
  {
   "word": "odd",
   "phonetic": "ɒd",
   "translation": "a. 奇数的, 古怪的, 剩余的, 零散的, 各种各样的, 少量的\nn. 奇特的事物, 怪人\n[计] 奇数, 奇校验, 光数据数字转换器",
-  "definition": "not divisible by two"
+  "definition": "Not divisible by two"
  },
  {
   "word": "pattern",
   "phonetic": "'pætәn",
   "translation": "n. 模范, 典型, 式样, 样品, 图案, 格调, 模式\nvt. 模仿, 仿造, 以图案装饰\nvi. 形成图案\n[计] 模式, 图案",
-  "definition": "a model considered worthy of imitation"
+  "definition": "A model considered worthy of imitation"
  },
  {
   "word": "peculiar",
   "phonetic": "pi'kju:ljә",
   "translation": "a. 奇特的, 罕见的, 特殊的, 特别的\nn. 特有财产, 特权",
-  "definition": "s. markedly different from the usual"
+  "definition": "S. markedly different from the usual"
  },
  {
   "word": "perhaps",
   "phonetic": "pә'hæps",
   "translation": "adv. 也许, 大概",
-  "definition": "r by chance"
+  "definition": "R by chance"
  },
  {
   "word": "periods",
   "phonetic": "",
   "translation": "n. 周期（period的复数）",
-  "definition": "an amount of time"
+  "definition": "An amount of time"
  },
  {
   "word": "person",
   "phonetic": "'pә:sn",
   "translation": "n. 人, 人身, 人称\n[法] 人, 法人, 人身",
-  "definition": "a human being"
+  "definition": "A human being"
  },
  {
   "word": "personality",
   "phonetic": ".pә:sә'næliti",
   "translation": "n. 个性, 人格, (团体、地方、国家)特有特性, 名人\n[医] 人格; 个性",
-  "definition": "the complex of all the attributes--behavioral, temperamental, emotional and mental--that characterize a unique individual"
+  "definition": "The complex of all the attributes--behavioral, temperamental, emotional and mental--that characterize a unique individual"
  },
  {
   "word": "plausible",
   "phonetic": "'plɒ:zibl",
   "translation": "a. 貌似真实的, 貌似合理的, 说得煞有其事的\n[法] 花言巧语的, 似乎有理的",
-  "definition": "apparently reasonable and valid, and truthful"
+  "definition": "Apparently reasonable and valid, and truthful"
  },
  {
   "word": "preventing",
   "phonetic": "priˈventɪŋ",
   "translation": "v. 预防( prevent的现在分词 ); 阻碍; 阻止; [宗教]引领",
-  "definition": "p. pr. & vb. n. of Prevent"
+  "definition": "P. pr. & vb. n. of Prevent"
  },
  {
   "word": "problem",
   "phonetic": "'prɒblәm",
   "translation": "n. 问题, 难题\na. 成问题的, 难处理的",
-  "definition": "a state of difficulty that needs to be resolved"
+  "definition": "A state of difficulty that needs to be resolved"
  },
  {
   "word": "psychiatrist",
   "phonetic": "sai'kaiәtrist",
   "translation": "n. 精神病医生, 精神病学家\n[医] 精神病学家",
-  "definition": "a physician who specializes in psychiatry"
+  "definition": "A physician who specializes in psychiatry"
  },
  {
   "word": "published",
   "phonetic": "",
   "translation": "a. 已发布的",
-  "definition": "prepared and printed for distribution and sale"
+  "definition": "Prepared and printed for distribution and sale"
  },
  {
   "word": "punctuated",
   "phonetic": "ˈpʌŋktʃu:ˌeɪtid",
   "translation": "v. （在文字中）加标点符号, 加标点( punctuate的过去式和过去分词 ); 不时打断某事物",
-  "definition": "imp. & p. p. of Punctuate"
+  "definition": "Imp. & p. p. of Punctuate"
  },
  {
   "word": "puzzling",
   "phonetic": "'pʌzliŋ",
   "translation": "a. 使迷惑的, 把人难住的",
-  "definition": "be a mystery or bewildering to"
+  "definition": "Be a mystery or bewildering to"
  },
  {
   "word": "question",
   "phonetic": "'kwestʃәn",
   "translation": "n. 问题, 询问\nv. 询问, 审问, 怀疑\n[计] 询问",
-  "definition": "an instance of questioning"
+  "definition": "An instance of questioning"
  },
  {
   "word": "relaxation",
@@ -667,7 +667,7 @@
   "word": "scalp",
   "phonetic": "skælp",
   "translation": "v. 剥头皮\nn. 头皮, 战利品",
-  "definition": "the skin that covers the top of the head"
+  "definition": "The skin that covers the top of the head"
  },
  {
   "word": "second",
@@ -679,13 +679,13 @@
   "word": "seem",
   "phonetic": "si:m",
   "translation": "vi. 象是, 似乎",
-  "definition": "appear to exist"
+  "definition": "Appear to exist"
  },
  {
   "word": "seemed",
   "phonetic": "",
   "translation": "v. 装作；似乎（seem的过去式）",
-  "definition": "give a certain impression or have a certain outward aspect"
+  "definition": "Give a certain impression or have a certain outward aspect"
  },
  {
   "word": "self-repairing",
@@ -701,25 +701,25 @@
   "word": "several",
   "phonetic": "'sevәrәl",
   "translation": "a. 几个的, 一些的, 各自的\npron. 几个",
-  "definition": "s. (used with count nouns) of an indefinite number more than 2 or 3 but not many"
+  "definition": "S. (used with count nouns) of an indefinite number more than 2 or 3 but not many"
  },
  {
   "word": "show",
   "phonetic": "ʃәu",
   "translation": "n. 显示, 表现, 展览, 卖弄, 炫耀, 外观, 演出, 洋相\nvt. 表示, 显示, 展现, 陈列, 演出, 表明, 指出, 带领\nvi. 露面, 显现, 演出\n[计] 显示",
-  "definition": "the act of publicly exhibiting or entertaining"
+  "definition": "The act of publicly exhibiting or entertaining"
  },
  {
   "word": "showed",
   "phonetic": "",
   "translation": "show的过去式和过去分词",
-  "definition": "give an exhibition of to an interested audience"
+  "definition": "Give an exhibition of to an interested audience"
  },
  {
   "word": "shows",
   "phonetic": "",
   "translation": "n. 秀场, 表演（show的复数）",
-  "definition": "the act of publicly exhibiting or entertaining"
+  "definition": "The act of publicly exhibiting or entertaining"
  },
  {
   "word": "sitting",
@@ -731,73 +731,73 @@
   "word": "slow",
   "phonetic": "slәu",
   "translation": "a. 慢的, 缓慢的, 迟缓的, 迟钝的, 冷漠的, 落后的\nadv. 慢地, 迟缓地\nv. (使)慢下来",
-  "definition": "become slow or slower"
+  "definition": "Become slow or slower"
  },
  {
   "word": "specifically",
   "phonetic": "spi'sifikli",
   "translation": "adv. 特定地, 明确地, 按特性",
-  "definition": "r. in distinction from others"
+  "definition": "R. in distinction from others"
  },
  {
   "word": "speculations",
   "phonetic": "ˌspekjəˈleɪʃənz",
   "translation": "n. 投机买卖( speculation的复数形式 ); 思考; 投机活动; 推断",
-  "definition": "a message expressing an opinion based on incomplete evidence"
+  "definition": "A message expressing an opinion based on incomplete evidence"
  },
  {
   "word": "stuff",
   "phonetic": "stʌf",
   "translation": "n. 原料, 要素, 东西, 材料, 素质, 织品, 废物, 废话\nvt. 装填\nvi. 狼吞虎咽",
-  "definition": "miscellaneous unspecified objects"
+  "definition": "Miscellaneous unspecified objects"
  },
  {
   "word": "terms",
   "phonetic": "",
   "translation": "n. 条件, 条款, 费用, 价钱, 关系, 地位, 交谊\n[经] 条件",
-  "definition": "status with respect to the relations between people or groups"
+  "definition": "Status with respect to the relations between people or groups"
  },
  {
   "word": "thousands",
   "phonetic": "",
   "translation": "n. 数千（thousand的复数）",
-  "definition": "the cardinal number that is the product of 10 and 100"
+  "definition": "The cardinal number that is the product of 10 and 100"
  },
  {
   "word": "time",
   "phonetic": "taim",
   "translation": "n. 时间, 时侯, 时机, 时期, 期限, 次数, 节拍, 暂停, 规定时间\nvt. 测定...的时间, 记录...的时间, 计时, 定时\na. 时间的, 记时的, 定时的, 定期的, 分期的\n[计] DOS内部命令:用于显示或设定系统的时间",
-  "definition": "an instance or single occasion for some event"
+  "definition": "An instance or single occasion for some event"
  },
  {
   "word": "times",
   "phonetic": "taimz",
   "translation": "n. 时代, 境遇, 时报",
-  "definition": "a more or less definite period of time now or previously present"
+  "definition": "A more or less definite period of time now or previously present"
  },
  {
   "word": "tissues",
   "phonetic": "",
   "translation": "n. 组织, 薄的纱织品；面巾纸（tissue的复数）",
-  "definition": "part of an organism consisting of an aggregate of cells having a similar structure and function"
+  "definition": "Part of an organism consisting of an aggregate of cells having a similar structure and function"
  },
  {
   "word": "total",
   "phonetic": "'tәutl",
   "translation": "a. 全体的, 总的, 全然的\nvt. 计算...的总和, 共计为\nvi. 合计\nn. 总数, 全体, 合计\nadv. 统统",
-  "definition": "add up in number or quantity"
+  "definition": "Add up in number or quantity"
  },
  {
   "word": "two",
   "phonetic": "tu:",
   "translation": "num. 二, 二个",
-  "definition": "the cardinal number that is the sum of one and one or a numeral representing this number"
+  "definition": "The cardinal number that is the sum of one and one or a numeral representing this number"
  },
  {
   "word": "unaffected",
   "phonetic": ".ʌnә'fektid",
   "translation": "a. 不矫揉造作的, 自然的, 未受影响的, 未被感动的\n[经] 不受影响的",
-  "definition": "undergoing no change when acted upon"
+  "definition": "Undergoing no change when acted upon"
  },
  {
   "word": "william",

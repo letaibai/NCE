@@ -3,31 +3,31 @@
   "word": "car",
   "phonetic": "kɑ:",
   "translation": "n. 汽车, 客车\n[机] 车",
-  "definition": "a motor vehicle with four wheels; usually propelled by an internal combustion engine"
+  "definition": "A motor vehicle with four wheels; usually propelled by an internal combustion engine"
  },
  {
   "word": "mechanics",
   "phonetic": "mi'kæniks",
   "translation": "n. 机械学, 结构, 力学\n[化] 力学",
-  "definition": "the branch of physics concerned with the motion of bodies in a frame of reference"
+  "definition": "The branch of physics concerned with the motion of bodies in a frame of reference"
  },
  {
   "word": "repair",
   "phonetic": "ri'pєә",
   "translation": "n. 修理, 补救, 修复\nvt. 修理, 修补, 补救, 恢复, 补偿\nvi. 修理, 修补, 补救, 恢复, 去, 常去, 集合",
-  "definition": "the act of putting something in working order again"
+  "definition": "The act of putting something in working order again"
  },
  {
   "word": "crash",
   "phonetic": "kræʃ",
   "translation": "n. 哗啦声, 猛撞, 崩溃, 粗布\nv. 撞碎, 破碎, (使)...坠毁\na. 速成的\n[计] 崩溃",
-  "definition": "a serious accident (usually involving one or more vehicles)"
+  "definition": "A serious accident (usually involving one or more vehicles)"
  },
  {
   "word": "sir",
   "phonetic": "sә:",
   "translation": "n. 先生, 阁下",
-  "definition": "term of address for a man"
+  "definition": "Term of address for a man"
  },
  {
   "word": "they're",
@@ -38,49 +38,49 @@
   "word": "well",
   "phonetic": "wel",
   "translation": "n. 井, 泉水, 源泉, 好\nv. 涌出\na. 健康的, 良好的, 适宜的, 恰当的\nadv. 很好地, 适当地, 好意地, 很, 完全\ninterj. 好啦",
-  "definition": "a deep hole or shaft dug or drilled to obtain water or oil or gas or brine"
+  "definition": "A deep hole or shaft dug or drilled to obtain water or oil or gas or brine"
  },
  {
   "word": "yet",
   "phonetic": "jet",
   "translation": "adv. 还, 尚, 仍然, 已经, 然而\nconj. 然而",
-  "definition": "r. up to the present time"
+  "definition": "R. up to the present time"
  },
  {
   "word": "ago",
   "phonetic": "ә'gәu",
   "translation": "adv. 以前",
-  "definition": "s. gone by; or in the past"
+  "definition": "S. gone by; or in the past"
  },
  {
   "word": "ah",
   "phonetic": "ɑ:",
   "translation": "interj. 啊, 哈",
-  "definition": "interj. An exclamation, expressive of surprise, pity, complaint,"
+  "definition": "Interj. An exclamation, expressive of surprise, pity, complaint,"
  },
  {
   "word": "answer",
   "phonetic": "'ɑ:nsә",
   "translation": "n. 答案, 回答, 回报, 答辩\nvt. 回答, 反驳, 适应, 响应, 符合\nvi. 回答, 答应, 负责, 符合, 成功\n[计] 用户问题及答案新闻组",
-  "definition": "a statement (either spoken or written) that is made to reply to a question or request or criticism or accusation"
+  "definition": "A statement (either spoken or written) that is made to reply to a question or request or criticism or accusation"
  },
  {
   "word": "bring",
   "phonetic": "briŋ",
   "translation": "vt. 带来, 产生, 促使, 提出\nvi. 生产",
-  "definition": "take something or somebody with oneself somewhere"
+  "definition": "Take something or somebody with oneself somewhere"
  },
  {
   "word": "brought",
   "phonetic": "brɒ:t",
   "translation": "bring的过去式和过去分词",
-  "definition": "take something or somebody with oneself somewhere"
+  "definition": "Take something or somebody with oneself somewhere"
  },
  {
   "word": "days",
   "phonetic": "deiz",
   "translation": "n. 一生, 时期\nadv. 每天, 在白天",
-  "definition": "the time during which someone's life continues"
+  "definition": "The time during which someone's life continues"
  },
  {
   "word": "didn't",
@@ -96,7 +96,7 @@
   "word": "drove",
   "phonetic": "drәuv",
   "translation": "n. 畜群\ndrive的过去式",
-  "definition": "a group of animals (a herd or flock) moving together"
+  "definition": "A group of animals (a herd or flock) moving together"
  },
  {
   "word": "finished",
@@ -108,19 +108,19 @@
   "word": "g",
   "phonetic": "dʒi:",
   "translation": "[计] 千兆, 吉, 图形, 网格, 接地\n[化] 鸟苷",
-  "definition": "a unit of force equal to the force exerted by gravity; used to indicate the force to which a body is subjected when it is accelerated"
+  "definition": "A unit of force equal to the force exerted by gravity; used to indicate the force to which a body is subjected when it is accelerated"
  },
  {
   "word": "garage",
   "phonetic": "gә'rɑ:ʒ. 'gærɑ:ʒ",
   "translation": "n. 车库, 汽车修理厂, 机库\nvt. 把车送入修车场",
-  "definition": "an outbuilding (or part of a building) for housing automobiles"
+  "definition": "An outbuilding (or part of a building) for housing automobiles"
  },
  {
   "word": "go",
   "phonetic": "gou",
   "translation": "vi. 去, 走, 达到, 运转, 查阅, 消失, 结束, 放弃, 花费, 流传, 趋于, 打算, 剩下\nvt. 以...打赌, 对付, 忍受, 出产, 为被捕者出(保释金)\nn. 去, 尝试, 进行",
-  "definition": "a time for working (after which you will be relieved by someone else)"
+  "definition": "A time for working (after which you will be relieved by someone else)"
  },
  {
   "word": "isn't",
@@ -131,13 +131,13 @@
   "word": "it",
   "phonetic": "it",
   "translation": "pron. 它\n[计] 信息论, 输入终端, 智能终端, 内捕获",
-  "definition": "the branch of engineering that deals with the use of computers and telecommunications to retrieve and store and transmit information"
+  "definition": "The branch of engineering that deals with the use of computers and telecommunications to retrieve and store and transmit information"
  },
  {
   "word": "know",
   "phonetic": "nәu",
   "translation": "v. 知道, 了解, 认识, 确信",
-  "definition": "the fact of being aware of information that is known to few people"
+  "definition": "The fact of being aware of information that is known to few people"
  },
  {
   "word": "lamp-post",
@@ -148,132 +148,132 @@
   "word": "lesson",
   "phonetic": "'lesn",
   "translation": "n. 课, 课业, 教训",
-  "definition": "a unit of instruction"
+  "definition": "A unit of instruction"
  },
  {
   "word": "let",
   "phonetic": "let",
   "translation": "vt. 让, 假设, 出租, 排放, 妨碍\nvi. 出租, 被承包\nn. 出租屋, 障碍",
-  "definition": "a serve that strikes the net before falling into the receiver's court; the ball must be served again"
+  "definition": "A serve that strikes the net before falling into the receiver's court; the ball must be served again"
  },
  {
   "word": "listen",
   "phonetic": "'lisn",
   "translation": "vi. 听, 倾听, 听从\nn. 听, 倾听",
-  "definition": "hear with intention"
+  "definition": "Hear with intention"
  },
  {
   "word": "look",
   "phonetic": "luk",
   "translation": "n. 一看, 神色, 样子, 面容\nvi. 看, 注意, 朝着, 显得\nvt. 打量, 看上去与...一样, 以眼色(或脸色)显示, 期待",
-  "definition": "the act of directing the eyes toward something and perceiving it visually"
+  "definition": "The act of directing the eyes toward something and perceiving it visually"
  },
  {
   "word": "mr",
   "phonetic": "'mistә(r)",
   "translation": "先生\n[计] 存储器回收程序, 多重请求",
-  "definition": "a form of address for a man"
+  "definition": "A form of address for a man"
  },
  {
   "word": "need",
   "phonetic": "ni:d",
   "translation": "n. 需要, 必须, 缺乏\nvt. 需要, 必需\nvi. 贫困, 有必要\naux. 需要",
-  "definition": "a condition requiring relief"
+  "definition": "A condition requiring relief"
  },
  {
   "word": "new",
   "phonetic": "nju:",
   "translation": "a. 新的, 陌生的, 最近的, 不熟悉的\n[法] 新发现的, 新的, 重新开始的",
-  "definition": "not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered"
+  "definition": "Not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered"
  },
  {
   "word": "now",
   "phonetic": "nau",
   "translation": "adv. 现在, 刚才, 目前\nn. 现在\na. 现在的\nconj. 由于",
-  "definition": "the momentary present"
+  "definition": "The momentary present"
  },
  {
   "word": "number",
   "phonetic": "'nʌmbә",
   "translation": "n. 数, 数字, 数目, 号码\nvt. 数, 计算, 共计\nvi. 计算, 报数\n[计] 数字",
-  "definition": "the property possessed by a sum or total or indefinite quantity of units or individuals"
+  "definition": "The property possessed by a sum or total or indefinite quantity of units or individuals"
  },
  {
   "word": "question",
   "phonetic": "'kwestʃәn",
   "translation": "n. 问题, 询问\nv. 询问, 审问, 怀疑\n[计] 询问",
-  "definition": "an instance of questioning"
+  "definition": "An instance of questioning"
  },
  {
   "word": "ready",
   "phonetic": "'redi",
   "translation": "n. 预备好的状态, 现款\na. 准备好的, 备用的, 可以使用的\nadv. 预先, 迅速\nvt. 使准备好",
-  "definition": "poised for action"
+  "definition": "Poised for action"
  },
  {
   "word": "remember",
   "phonetic": "ri'membә",
   "translation": "vt. 记得, 回忆起, 记住, 铭记, 纪念\nvi. 记得",
-  "definition": "recall knowledge from memory; have a recollection"
+  "definition": "Recall knowledge from memory; have a recollection"
  },
  {
   "word": "right",
   "phonetic": "rait",
   "translation": "n. 权利, 右边, 正义, 右派, 公正\na. 正确的, 对的, 恰当的, 正常的, 正直的, 正面的, 右方的\nadv. 正确地, 以有利结果, 一直, 直接, 向右\nvt. 扶直, 整理, 纠正, 伸冤, 使昭雪\nvi. 恢复平衡\n[计] 右, 权利",
-  "definition": "an abstract idea of that which is due to a person or governmental body by law or tradition or nature; it is something that nobody can take away\""
+  "definition": "An abstract idea of that which is due to a person or governmental body by law or tradition or nature; it is something that nobody can take away\""
  },
  {
   "word": "still",
   "phonetic": "stil",
   "translation": "n. 蒸馏室, 寂静, 剧照\nv. 蒸馏, (使)平静, (使)静止\na. 静止的, 不动的, 静寂的, 不起泡的, 静物摄影的\nadv. 仍然, 更, 静止地\nconj. 然而, 但是",
-  "definition": "a static photograph (especially one taken from a movie and used for advertising purposes)"
+  "definition": "A static photograph (especially one taken from a movie and used for advertising purposes)"
  },
  {
   "word": "tape",
   "phonetic": "teip",
   "translation": "n. 带子, 录音带, 磁带, 窄带, 卷尺\nvt. 以带子绑起, 测量, 录音\n[计] 带",
-  "definition": "a long thin piece of cloth or paper as used for binding or fastening"
+  "definition": "A long thin piece of cloth or paper as used for binding or fastening"
  },
  {
   "word": "tell",
   "phonetic": "tel",
   "translation": "vt. 告诉, 说, 吩咐, 断定, 知道\nvi. 讲述, 泄密, 告发, 表明",
-  "definition": "a Swiss patriot who lived in the early 14th century and who was renowned for his skill as an archer"
+  "definition": "A Swiss patriot who lived in the early 14th century and who was renowned for his skill as an archer"
  },
  {
   "word": "that",
   "phonetic": "ðæt",
   "translation": "a. 那, 那个\nconj. 以致, 因为\npron. 那\nadv. 那么, 那样",
-  "definition": "pron., a., conj., &  As a demonstrative pronoun (pl. Those),"
+  "definition": "Pron., a., conj., &  As a demonstrative pronoun (pl. Those),"
  },
  {
   "word": "three",
   "phonetic": "θri:",
   "translation": "num. 三, 三个",
-  "definition": "the cardinal number that is the sum of one and one and one"
+  "definition": "The cardinal number that is the sum of one and one and one"
  },
  {
   "word": "truth",
   "phonetic": "tru:θ",
   "translation": "n. 事实, 实情\n[法] 真实, 真相, 事实",
-  "definition": "a fact that has been verified"
+  "definition": "A fact that has been verified"
  },
  {
   "word": "trying",
   "phonetic": "'traiiŋ",
   "translation": "a. 难受的, 难堪的\n[法] 裁决, 审判, 审理; 使人痛苦的, 难堪的, 难处的",
-  "definition": "s. hard to endure"
+  "definition": "S. hard to endure"
  },
  {
   "word": "what",
   "phonetic": "hwɒt",
   "translation": "pron. 什么\ninterj. 怎么, 多么\na. 什么的\nadv. 到什么程度",
-  "definition": "pron., a., & adv. As an interrogative pronoun, used in asking"
+  "definition": "Pron., a., & adv. As an interrogative pronoun, used in asking"
  },
  {
   "word": "working",
   "phonetic": "'wә:kiŋ",
   "translation": "n. 工作, 运转, 劳动\na. 工作的, 劳动的, 经营的, 抽搐的, 运转的",
-  "definition": "a mine or quarry that is being or has been worked"
+  "definition": "A mine or quarry that is being or has been worked"
  }
 ]

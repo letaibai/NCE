@@ -3,37 +3,37 @@
   "word": "earth",
   "phonetic": "ә:θ",
   "translation": "n. 地球, 泥土, 世界, 尘世\nvt. 埋入土中, 赶入洞内\nvi. 躲入洞内",
-  "definition": "the 3rd planet from the sun; the planet we live on"
+  "definition": "The 3rd planet from the sun; the planet we live on"
  },
  {
   "word": "moon",
   "phonetic": "mu:n",
   "translation": "n. 月亮, 月球, 月光\nvi. 闲荡\nvt. 虚度",
-  "definition": "the natural satellite of the Earth"
+  "definition": "The natural satellite of the Earth"
  },
  {
   "word": "easily",
   "phonetic": "'i:zili",
   "translation": "adv. 容易地, 轻易地, 流利地",
-  "definition": "r. with ease (`easy' is sometimes used informally for `easily')"
+  "definition": "R. with ease (`easy' is sometimes used informally for `easily')"
  },
  {
   "word": "idea",
   "phonetic": "ai'diә",
   "translation": "n. 主意, 办法, 理想, 思想, 概念, 意见\n[医] 观念, 思想",
-  "definition": "the content of cognition; the main thing you are thinking about"
+  "definition": "The content of cognition; the main thing you are thinking about"
  },
  {
   "word": "miles",
   "phonetic": "",
   "translation": "n. 英里（1英里约合1609米, mile的复数形式）",
-  "definition": "a unit of length equal to 1,760 yards or 5,280 feet; exactly 1609.344 meters"
+  "definition": "A unit of length equal to 1,760 yards or 5,280 feet; exactly 1609.344 meters"
  },
  {
   "word": "one",
   "phonetic": "wʌn",
   "translation": "n. 一(个)\npron. 一, 任何人\nnum. 一, 一个\na. 一致的, 完整的",
-  "definition": "the smallest whole number or a numeral representing this number"
+  "definition": "The smallest whole number or a numeral representing this number"
  },
  {
   "word": "second",
@@ -45,19 +45,19 @@
   "word": "space",
   "phonetic": "speis",
   "translation": "n. 位置, 空间, 距离, 太空, 空白, 间隔, (期刊等的)篇幅\nvt. 隔开, 分隔\nvi. 留间隔\n[计] 空白, 空格校验",
-  "definition": "the unlimited expanse in which everything is located"
+  "definition": "The unlimited expanse in which everything is located"
  },
  {
   "word": "world",
   "phonetic": "wә:ld",
   "translation": "n. 世界, 地球, 宇宙, 万物, 世人, 人间, 领域, 世事, 世故, 社会生活, 大量\n[法] 世界, 地球, 世人",
-  "definition": "people in general; especially a distinctive group of people with some shared interest"
+  "definition": "People in general; especially a distinctive group of people with some shared interest"
  },
  {
   "word": "along",
   "phonetic": "ә'lɒŋ",
   "translation": "adv. 平行地, 向前\nprep. 沿着",
-  "definition": "r. with a forward motion"
+  "definition": "R. with a forward motion"
  },
  {
   "word": "because",
@@ -87,7 +87,7 @@
   "word": "it",
   "phonetic": "it",
   "translation": "pron. 它\n[计] 信息论, 输入终端, 智能终端, 内捕获",
-  "definition": "the branch of engineering that deals with the use of computers and telecommunications to retrieve and store and transmit information"
+  "definition": "The branch of engineering that deals with the use of computers and telecommunications to retrieve and store and transmit information"
  },
  {
   "word": "less",
@@ -99,7 +99,7 @@
   "word": "mars",
   "phonetic": "mɑ:z",
   "translation": "n. 火星, 战神\n[医] 铁",
-  "definition": "a small reddish planet that is the 4th from the sun and is periodically visible to the naked eye"
+  "definition": "A small reddish planet that is the 4th from the sun and is periodically visible to the naked eye"
  },
  {
   "word": "people",
@@ -117,49 +117,49 @@
   "word": "possible",
   "phonetic": "'pɒsәbl",
   "translation": "a. 可能的, 潜在的, 合适的\nn. 可能性, 可能的事物",
-  "definition": "something that can be done"
+  "definition": "Something that can be done"
  },
  {
   "word": "red",
   "phonetic": "red",
   "translation": "a. 红的, 红色的, 红肿的, 流血的\nn. 红色, 红颜料, 赤字\n[计] 简化, 减少",
-  "definition": "red color or pigment; the chromatic color resembling the hue of blood"
+  "definition": "Red color or pigment; the chromatic color resembling the hue of blood"
  },
  {
   "word": "rocket",
   "phonetic": "'rɒkit",
   "translation": "n. 火箭, 烟火\nvi. 急升, 猛涨, 飞驰\nvt. 用火箭运载",
-  "definition": "any vehicle self-propelled by a rocket engine"
+  "definition": "Any vehicle self-propelled by a rocket engine"
  },
  {
   "word": "solar",
   "phonetic": "'sәulә",
   "translation": "a. 太阳的, 日光的, 源自太阳的\n[医] 太阳的; 腹腔丛的",
-  "definition": "relating to or derived from the sun or utilizing the energies of the sun"
+  "definition": "Relating to or derived from the sun or utilizing the energies of the sun"
  },
  {
   "word": "surface",
   "phonetic": "'sә:fis",
   "translation": "n. 面, 表面, 水面, 外表, 平面\na. 表面的, 外观的, 肤浅的, 水面上的\nvt. 使成平面, 使浮出水面\nvi. 浮出水面, 呈现, 在地面上工作",
-  "definition": "the outer boundary of an artifact or a material layer constituting or resembling such a boundary"
+  "definition": "The outer boundary of an artifact or a material layer constituting or resembling such a boundary"
  },
  {
   "word": "system",
   "phonetic": "'sistәm",
   "translation": "n. 系统, 体系, 制度, 方式, 秩序, 分类原则\n[计] 系统; 体制; 体系",
-  "definition": "instrumentality that combines interrelated interacting artifacts designed to work as a coherent entity"
+  "definition": "Instrumentality that combines interrelated interacting artifacts designed to work as a coherent entity"
  },
  {
   "word": "three",
   "phonetic": "θri:",
   "translation": "num. 三, 三个",
-  "definition": "the cardinal number that is the sum of one and one and one"
+  "definition": "The cardinal number that is the sum of one and one and one"
  },
  {
   "word": "travel",
   "phonetic": "'trævl",
   "translation": "n. 旅行, 游历, 行进\nvi. 旅行, 行进, 移动, 被传播\nvt. 旅行, 通过, 使移动",
-  "definition": "the act of going from one place to another"
+  "definition": "The act of going from one place to another"
  },
  {
   "word": "able",
@@ -171,13 +171,13 @@
   "word": "accelerate",
   "phonetic": "әk'selәreit",
   "translation": "v. 加速, 促进",
-  "definition": "move faster"
+  "definition": "Move faster"
  },
  {
   "word": "aim",
   "phonetic": "eim",
   "translation": "n. 目标, 瞄准, 击中目标的能力\nvi. 对准目标, 致力, 打算\nvt. 瞄准\n[计] 医学文摘索引, 存取隔离机构, 高级信息管理程序, 先进接口模块\n应用接口模块, 医学人工智能, 相联索引法, 异步接口模块\n自动化信息管理, 自动化综合制造, 自动化库存管理",
-  "definition": "the goal intended to be attained (and which is believed to be attainable)"
+  "definition": "The goal intended to be attained (and which is believed to be attainable)"
  },
  {
   "word": "america",
@@ -195,49 +195,49 @@
   "word": "arthur",
   "phonetic": "'ɑ:θә",
   "translation": "n. 亚瑟（男子名）；亚瑟王（传说中六世纪前后英国的国王, 圆桌骑士团的首领）",
-  "definition": "elected vice president and became 21st President of the United States when Garfield was assassinated (1830-1886)"
+  "definition": "Elected vice president and became 21st President of the United States when Garfield was assassinated (1830-1886)"
  },
  {
   "word": "astronauts",
   "phonetic": "",
   "translation": "n. 宇航员（astronaut的复数）",
-  "definition": "a person trained to travel in a spacecraft"
+  "definition": "A person trained to travel in a spacecraft"
  },
  {
   "word": "become",
   "phonetic": "bi'kʌm",
   "translation": "vi. 变成, 变得\nvt. 适合",
-  "definition": "enter or assume a certain state or condition"
+  "definition": "Enter or assume a certain state or condition"
  },
  {
   "word": "bounded",
   "phonetic": "'baundid",
   "translation": "a. 有界限的",
-  "definition": "s. having the limits or boundaries established"
+  "definition": "S. having the limits or boundaries established"
  },
  {
   "word": "c",
   "phonetic": "si:",
   "translation": "[计] 调用, 访问, 呼叫, 电容, 进位, 通道, 字符, 清除, 常数, 控制, 周期\n[化] 碳的化学符号; 胞苷",
-  "definition": "a general-purpose programing language closely associated with the UNIX operating system"
+  "definition": "A general-purpose programing language closely associated with the UNIX operating system"
  },
  {
   "word": "calculated",
   "phonetic": "'kælkjuleitid",
   "translation": "a. 有计划的, 适当的, 适合的, 计算出的\n[机] 算清了的",
-  "definition": "make a mathematical calculation or computation"
+  "definition": "Make a mathematical calculation or computation"
  },
  {
   "word": "canyon",
   "phonetic": "'kænjәn",
   "translation": "n. 峡谷, 海底悬崖",
-  "definition": "a ravine formed by a river in an area with little rainfall"
+  "definition": "A ravine formed by a river in an area with little rainfall"
  },
  {
   "word": "chasms",
   "phonetic": "ˈkæzəmz",
   "translation": "n. 裂缝( chasm的复数形式 ); 裂口; 分歧; 差别",
-  "definition": "a deep opening in the earth's surface"
+  "definition": "A deep opening in the earth's surface"
  },
  {
   "word": "clark",
@@ -249,295 +249,295 @@
   "word": "cloudless",
   "phonetic": "'klaudlis",
   "translation": "a. 晴朗的, 无云的",
-  "definition": "s. free from clouds"
+  "definition": "S. free from clouds"
  },
  {
   "word": "comparable",
   "phonetic": "'kɒmpәrәbl",
   "translation": "a. 可比较的, 比得上的",
-  "definition": "able to be compared or worthy of comparison"
+  "definition": "Able to be compared or worthy of comparison"
  },
  {
   "word": "cost",
   "phonetic": "kɒst",
   "translation": "n. 代价, 价值, 费用\nvi. 花费\nvt. 使失去, 值, 使花费",
-  "definition": "the total spent for goods or services including money and time and labor"
+  "definition": "The total spent for goods or services including money and time and labor"
  },
  {
   "word": "cousins",
   "phonetic": "",
   "translation": "n. 卡曾斯（姓）",
-  "definition": "the child of your aunt or uncle"
+  "definition": "The child of your aunt or uncle"
  },
  {
   "word": "decisively",
   "phonetic": "",
   "translation": "adv. 果断地；决然地",
-  "definition": "r. with firmness"
+  "definition": "R. with firmness"
  },
  {
   "word": "deserts",
   "phonetic": "dɪˈzɜ:ts",
   "translation": "n. 应得到的事物; 沙漠( desert的名词复数 ); 赏罚; 荒漠; [常用复数]应得的赏（或罚）\nv. 舍弃( desert的第三人称单数 ); 废弃; （在需要时刻）背离; 擅离（职守、工作岗位、现役等）",
-  "definition": "an outcome (good or bad) that is well deserved"
+  "definition": "An outcome (good or bad) that is well deserved"
  },
  {
   "word": "distant",
   "phonetic": "'distәnt",
   "translation": "a. 远的, 疏远的\n[经] 远期的",
-  "definition": "separated in space or coming from or going to a distance"
+  "definition": "Separated in space or coming from or going to a distance"
  },
  {
   "word": "doing",
   "phonetic": "'du:iŋ",
   "translation": "n. 行为, 活动",
-  "definition": "engage in"
+  "definition": "Engage in"
  },
  {
   "word": "dream",
   "phonetic": "dri:m",
   "translation": "n. 梦, 空想, 愿望\nv. 做梦, 想象, 梦想",
-  "definition": "a series of mental images and emotions occurring during sleep"
+  "definition": "A series of mental images and emotions occurring during sleep"
  },
  {
   "word": "dwellers",
   "phonetic": "ˈdweləz",
   "translation": "n. 居民, 居住者( dweller的复数形式 )",
-  "definition": "a person who inhabits a particular place"
+  "definition": "A person who inhabits a particular place"
  },
  {
   "word": "earth",
   "phonetic": "ә:θ",
   "translation": "n. 地球, 泥土, 世界, 尘世\nvt. 埋入土中, 赶入洞内\nvi. 躲入洞内",
-  "definition": "the 3rd planet from the sun; the planet we live on"
+  "definition": "The 3rd planet from the sun; the planet we live on"
  },
  {
   "word": "eightieth",
   "phonetic": "'eitiiθ",
   "translation": "num. 第八十, 八十分之一",
-  "definition": "position 80 in a countable series of things"
+  "definition": "Position 80 in a countable series of things"
  },
  {
   "word": "escape",
   "phonetic": "i'skeip",
   "translation": "n. 逃亡, 避难设备, 逃跑\nvi. 逃脱, 避开, 溜走\nvt. 逃避, 避免, 被...忘掉",
-  "definition": "the act of escaping physically"
+  "definition": "The act of escaping physically"
  },
  {
   "word": "europe",
   "phonetic": "'juәrәp",
   "translation": "n. 欧洲",
-  "definition": "the 2nd smallest continent (actually a vast peninsula of Eurasia); the British use `Europe' to refer to all of the continent except the British Isles"
+  "definition": "The 2nd smallest continent (actually a vast peninsula of Eurasia); the British use `Europe' to refer to all of the continent except the British Isles"
  },
  {
   "word": "everest",
   "phonetic": "'evәrist",
   "translation": "n. 珠穆朗玛峰, 顶峰",
-  "definition": "a mountain in the central Himalayas on the border of Tibet and Nepal; the highest mountain peak in the world (29,028 feet high)"
+  "definition": "A mountain in the central Himalayas on the border of Tibet and Nepal; the highest mountain peak in the world (29,028 feet high)"
  },
  {
   "word": "extraordinary",
   "phonetic": "ik'strɒ:dәnәri",
   "translation": "a. 非常的, 特别的, 非凡的\n[经] 非常的, 特别的, 临时的",
-  "definition": "beyond what is ordinary or usual; highly unusual or exceptional or remarkable"
+  "definition": "Beyond what is ordinary or usual; highly unusual or exceptional or remarkable"
  },
  {
   "word": "fantastic",
   "phonetic": "fæn'tæstik",
   "translation": "a. 奇妙的, 稀奇的, 空想的",
-  "definition": "s. extraordinarily good or great; used especially as intensifiers"
+  "definition": "S. extraordinarily good or great; used especially as intensifiers"
  },
  {
   "word": "fascination",
   "phonetic": ".fæsi'neiʃәn",
   "translation": "n. 令人着迷的事物, 入迷, 魅力",
-  "definition": "the state of being intensely interested (as by awe or terror)"
+  "definition": "The state of being intensely interested (as by awe or terror)"
  },
  {
   "word": "filled",
   "phonetic": "fild",
   "translation": "a. 加满的；装满的；满的",
-  "definition": "s. (usually followed by `with' or used as a combining form) generously supplied with"
+  "definition": "S. (usually followed by `with' or used as a combining form) generously supplied with"
  },
  {
   "word": "fly",
   "phonetic": "flai",
   "translation": "n. 苍蝇, 两翼昆虫, 飞行\nvi. 飞, 飞翔, 飘扬, 逃走\nvt. 飞, 飞越, 使飘扬, 逃出\na. 敏捷的",
-  "definition": "two-winged insects characterized by active flight"
+  "definition": "Two-winged insects characterized by active flight"
  },
  {
   "word": "form",
   "phonetic": "fɒ:m",
   "translation": "n. 形状, 形体, 类型, 方式, 表格, 形式\nv. 形成, 排列, (使)组成\nn. 表单\n[计] 表单",
-  "definition": "the phonological or orthographic sound or appearance of a word that can be used to describe or identify something"
+  "definition": "The phonological or orthographic sound or appearance of a word that can be used to describe or identify something"
  },
  {
   "word": "fuels",
   "phonetic": "fjuәlz",
   "translation": "n. 燃料, 供给燃料（fuel 复数形式）",
-  "definition": "a substance that can be consumed to produce energy"
+  "definition": "A substance that can be consumed to produce energy"
  },
  {
   "word": "good",
   "phonetic": "gud",
   "translation": "n. 善行, 好处, 利益\na. 好的, 优良的, 上等的, 愉快的, 有益的, 好心的, 慈善的, 虔诚的",
-  "definition": "benefit"
+  "definition": "Benefit"
  },
  {
   "word": "grand",
   "phonetic": "grænd",
   "translation": "a. 庄重的, 壮观的, 显赫的, 重大的, 最高的, 雄伟的, 宏大的, 豪华的, 傲慢的\n[法] 重大的, 主要的, 伟大的",
-  "definition": "s. large and impressive in physical size or extent"
+  "definition": "S. large and impressive in physical size or extent"
  },
  {
   "word": "hence",
   "phonetic": "hens",
   "translation": "adv. 因此, 从此",
-  "definition": "r. from this place"
+  "definition": "R. from this place"
  },
  {
   "word": "hub",
   "phonetic": "hʌb",
   "translation": "n. 毂, 木片, 中心\n[计] 插座; 插孔; 集线器, 集中器, 连接器, 中继站",
-  "definition": "the central part of a car wheel (or fan or propeller etc) through which the shaft or axle passes"
+  "definition": "The central part of a car wheel (or fan or propeller etc) through which the shaft or axle passes"
  },
  {
   "word": "ideal",
   "phonetic": "ai'diәl",
   "translation": "n. 理想, 典范, 观念, 思想, 最后目标\na. 理想的, 完美的, 空想的, 观念的, 唯心论的",
-  "definition": "the idea of something that is perfect; something that one hopes to attain"
+  "definition": "The idea of something that is perfect; something that one hopes to attain"
  },
  {
   "word": "industrial",
   "phonetic": "in'dʌstriәl",
   "translation": "a. 工业的, 供工业用的, 工业高度发展的, 产业的\nn. 工业工人, 工业股票",
-  "definition": "of or relating to or resulting from industry"
+  "definition": "Of or relating to or resulting from industry"
  },
  {
   "word": "journeys",
   "phonetic": "",
   "translation": "n. 旅行；历程（journey的复数形式）",
-  "definition": "the act of traveling from one place to another"
+  "definition": "The act of traveling from one place to another"
  },
  {
   "word": "least",
   "phonetic": "li:st",
   "translation": "n. 最少, 最小, 最小限度\na. 最少的, 最小的\nadv. 最小, 最少",
-  "definition": "something that is of no importance"
+  "definition": "Something that is of no importance"
  },
  {
   "word": "lesson",
   "phonetic": "'lesn",
   "translation": "n. 课, 课业, 教训",
-  "definition": "a unit of instruction"
+  "definition": "A unit of instruction"
  },
  {
   "word": "lies",
   "phonetic": "",
   "translation": "v. 躺卧（lie的第三人称单数形式）",
-  "definition": "a statement that deviates from or perverts the truth"
+  "definition": "A statement that deviates from or perverts the truth"
  },
  {
   "word": "like",
   "phonetic": "laik",
   "translation": "a. 相似的, 同样的\nvt. 喜欢, 愿意, 想\nvi. 喜欢, 希望\nn. 爱好, 同样的人(或物)\nprep. 象, 如同\nadv. 可能",
-  "definition": "a similar kind"
+  "definition": "A similar kind"
  },
  {
   "word": "likely",
   "phonetic": "'laikli",
   "translation": "a. 有可能的, 合适的, 前途有望的\nadv. 或许, 可能",
-  "definition": "has a good chance of being the case or of coming about"
+  "definition": "Has a good chance of being the case or of coming about"
  },
  {
   "word": "liquid",
   "phonetic": "'likwid",
   "translation": "n. 液体, 流体, 流音\na. 液体的, 透明的, 明亮的, 流动的, 易变的",
-  "definition": "a substance that is liquid at room temperature and pressure"
+  "definition": "A substance that is liquid at room temperature and pressure"
  },
  {
   "word": "living",
   "phonetic": "'liviŋ",
   "translation": "n. 生活, 生计, 生存\na. 活的, 逼真的, 现存的",
-  "definition": "people who are still living"
+  "definition": "People who are still living"
  },
  {
   "word": "lunar",
   "phonetic": "'lu:nә",
   "translation": "a. 阴历的, 月的, 微亮的(指光)\n[医] 月的, 银的",
-  "definition": "of or relating to or associated with the moon"
+  "definition": "Of or relating to or associated with the moon"
  },
  {
   "word": "mass",
   "phonetic": "mæs",
   "translation": "n. 块, 大多数, 质量, 大量, 群众, 弥撒\na. 群众的, 大规模的, 整个的\nvt. 使集合, 集中\nvi. 聚集",
-  "definition": "the property of a body that causes it to have weight in a gravitational field"
+  "definition": "The property of a body that causes it to have weight in a gravitational field"
  },
  {
   "word": "mile",
   "phonetic": "mail",
   "translation": "n. 英里, 很大距离\n[机] 英里, 哩",
-  "definition": "a unit of length equal to 1,760 yards or 5,280 feet; exactly 1609.344 meters"
+  "definition": "A unit of length equal to 1,760 yards or 5,280 feet; exactly 1609.344 meters"
  },
  {
   "word": "million",
   "phonetic": "'miljәn",
   "translation": "n. 百万, 无数\nnum. 百万",
-  "definition": "the number that is represented as a one followed by 6 zeros"
+  "definition": "The number that is represented as a one followed by 6 zeros"
  },
  {
   "word": "mountain",
   "phonetic": "'mauntin",
   "translation": "n. 山, 山脉, 大堆",
-  "definition": "a land mass that projects well above its surroundings; higher than a hill"
+  "definition": "A land mass that projects well above its surroundings; higher than a hill"
  },
  {
   "word": "move",
   "phonetic": "mu:v",
   "translation": "n. 移动, 迁居, 步骤\nvt. 移动, 开动, 感动, 搬(家)\nvi. 移动, 离开, 运行, 迁移, 摇动, 搬家, 交往, 进展, 脱手\n[计] 移动; 传送; DOS外部命令:移动文件, 它可将文件移动到指定的地方",
-  "definition": "the act of deciding to do something"
+  "definition": "The act of deciding to do something"
  },
  {
   "word": "mps",
   "phonetic": "",
   "translation": "[计] 微处理机系统",
-  "definition": "a widely distributed system of free and fixed macrophages derived from bone marrow"
+  "definition": "A widely distributed system of free and fixed macrophages derived from bone marrow"
  },
  {
   "word": "much",
   "phonetic": "mʌtʃ",
   "translation": "n. 大量, 许多, 重要的事\na. 很多的, 重要的\nadv. 多, 甚, 几乎",
-  "definition": "a great amount or extent"
+  "definition": "A great amount or extent"
  },
  {
   "word": "number",
   "phonetic": "'nʌmbә",
   "translation": "n. 数, 数字, 数目, 号码\nvt. 数, 计算, 共计\nvi. 计算, 报数\n[计] 数字",
-  "definition": "the property possessed by a sum or total or indefinite quantity of units or individuals"
+  "definition": "The property possessed by a sum or total or indefinite quantity of units or individuals"
  },
  {
   "word": "obtainable",
   "phonetic": "әb'teinәbl. ɔb-",
   "translation": "a. 能得到的",
-  "definition": "s capable of being obtained"
+  "definition": "S capable of being obtained"
  },
  {
   "word": "odyssey",
   "phonetic": "'ɒdisi",
   "translation": "n. 奥德赛(古希腊史诗)",
-  "definition": "a long wandering and eventful journey"
+  "definition": "A long wandering and eventful journey"
  },
  {
   "word": "orbit",
   "phonetic": "'ɒ:bit",
   "translation": "n. 轨道, 常轨, 眼眶\nvt. 绕...轨道而行\nvi. 进入轨道, 盘旋",
-  "definition": "the (usually elliptical) path described by one celestial body in its revolution about another"
+  "definition": "The (usually elliptical) path described by one celestial body in its revolution about another"
  },
  {
   "word": "oxygen",
   "phonetic": "'ɒksәdʒәn",
   "translation": "n. 氧\n[化] 氧O-2",
-  "definition": "a nonmetallic bivalent element that is normally a colorless odorless tasteless nonflammable diatomic gas"
+  "definition": "A nonmetallic bivalent element that is normally a colorless odorless tasteless nonflammable diatomic gas"
  },
  {
   "word": "passes",
@@ -549,25 +549,25 @@
   "word": "percent",
   "phonetic": "pә'sent",
   "translation": "n. 百分比, 百分数, 部分\n[机] 百分率",
-  "definition": "a proportion in relation to a whole (which is usually the amount per hundred)"
+  "definition": "A proportion in relation to a whole (which is usually the amount per hundred)"
  },
  {
   "word": "permanently",
   "phonetic": "'p\\\\\\\\:mәntli",
   "translation": "adv. 永久, 不变, 持久\n[计] 永久性的",
-  "definition": "r. for a long time without essential change"
+  "definition": "R. for a long time without essential change"
  },
  {
   "word": "phase",
   "phonetic": "feiz",
   "translation": "n. 时期, 局面, 方面, 位相, 相, 阶段\nvt. 使调整相位, 使定相, 使一致, 逐步执行, 实行\n[计] 阶段",
-  "definition": "any distinct time period in a sequence of events"
+  "definition": "Any distinct time period in a sequence of events"
  },
  {
   "word": "phases",
   "phonetic": "'feisi:z",
   "translation": "n. 阶段, 时期（phase的复数形式）",
-  "definition": "any distinct time period in a sequence of events"
+  "definition": "Any distinct time period in a sequence of events"
  },
  {
   "word": "planet",
@@ -579,258 +579,258 @@
   "word": "quarter",
   "phonetic": "'kwɒ:tә",
   "translation": "n. 四分之一, 一刻钟, 季度, 地区\nvt. 四等分, 肢解\nvi. 驻扎, 住宿",
-  "definition": "a district of a city having some distinguishing character"
+  "definition": "A district of a city having some distinguishing character"
  },
  {
   "word": "reason",
   "phonetic": "'ri:zn",
   "translation": "n. 理由, 原因, 理智, 道理, 前提, 理性\nvt. 说服, 推论, 辩论\nvi. 推论, 劝说, 思考",
-  "definition": "a rational motive for a belief or action"
+  "definition": "A rational motive for a belief or action"
  },
  {
   "word": "remember",
   "phonetic": "ri'membә",
   "translation": "vt. 记得, 回忆起, 记住, 铭记, 纪念\nvi. 记得",
-  "definition": "recall knowledge from memory; have a recollection"
+  "definition": "Recall knowledge from memory; have a recollection"
  },
  {
   "word": "requires",
   "phonetic": "",
   "translation": "n. 需要；要求；需求（require的复数）",
-  "definition": "require as useful, just, or proper"
+  "definition": "Require as useful, just, or proper"
  },
  {
   "word": "revolutionary",
   "phonetic": ".revә'lu:ʃәnәri",
   "translation": "n. 革命者, 革命党人\na. 革命的, 革命性的",
-  "definition": "s. markedly new or introducing radical change"
+  "definition": "S. markedly new or introducing radical change"
  },
  {
   "word": "rocks",
   "phonetic": "",
   "translation": "n. 岩石, 岩礁；岩石礁石（rock复数形式）",
-  "definition": "a lump or mass of hard consolidated mineral matter"
+  "definition": "A lump or mass of hard consolidated mineral matter"
  },
  {
   "word": "russia",
   "phonetic": "'rʌʃә",
   "translation": "n. 俄国, 俄罗斯\n[法] 俄罗斯, 苏联",
-  "definition": "a former empire in eastern Europe and northern Asia created in the 14th century with Moscow as the capital"
+  "definition": "A former empire in eastern Europe and northern Asia created in the 14th century with Moscow as the capital"
  },
  {
   "word": "said",
   "phonetic": "sed",
   "translation": "a. 上述的\nsay的过去式和过去分词",
-  "definition": "express in words"
+  "definition": "Express in words"
  },
  {
   "word": "sandstorms",
   "phonetic": "'sændstɔ:mz",
   "translation": "n. 沙暴, 尘暴( sandstorm的复数形式 )",
-  "definition": "a windstorm that lifts up clouds of dust or sand"
+  "definition": "A windstorm that lifts up clouds of dust or sand"
  },
  {
   "word": "sandy",
   "phonetic": "'sændi",
   "translation": "a. 沙的, 沙地的, 多沙的",
-  "definition": "s of hair color; pale yellowish to yellowish brown"
+  "definition": "S of hair color; pale yellowish to yellowish brown"
  },
  {
   "word": "savage",
   "phonetic": "'sævidʒ",
   "translation": "a. 未开化的, 野蛮的, 无礼的, 残酷的, 原始的, 粗鲁的, 未开发的\nvt. 用暴力对付, 凶猛攻击\nn. 原始人, 粗鲁人",
-  "definition": "a member of an uncivilized people"
+  "definition": "A member of an uncivilized people"
  },
  {
   "word": "scientists",
   "phonetic": "'saɪəntɪsts",
   "translation": "n. 科学家( scientist的名词复数 )",
-  "definition": "a person with advanced knowledge of one or more sciences"
+  "definition": "A person with advanced knowledge of one or more sciences"
  },
  {
   "word": "seems",
   "phonetic": "si:mz",
   "translation": "v. 好像, 仿佛（ seem的第三人称单数 ）",
-  "definition": "give a certain impression or have a certain outward aspect"
+  "definition": "Give a certain impression or have a certain outward aspect"
  },
  {
   "word": "sending",
   "phonetic": "'sendiŋ",
   "translation": "n. 发送, 派遣, 发射, 信件, 神赐, 天降\n[计] 发送",
-  "definition": "the act of causing something to go (especially messages)"
+  "definition": "The act of causing something to go (especially messages)"
  },
  {
   "word": "senior",
   "phonetic": "'si:njә",
   "translation": "n. 年长者, 资深者, 毕业班学生\na. 年长的, 高级的, 资深的",
-  "definition": "an undergraduate student during the year preceding graduation"
+  "definition": "An undergraduate student during the year preceding graduation"
  },
  {
   "word": "serious",
   "phonetic": "'siәriәs",
   "translation": "a. 严肃的, 认真的, 重要的, 严重的\n[电] 严重的",
-  "definition": "concerned with work or important matters rather than play or trivialities"
+  "definition": "Concerned with work or important matters rather than play or trivialities"
  },
  {
   "word": "seriously",
   "phonetic": "'siәriәsli",
   "translation": "adv. 严肃地, 认真地, 严重地",
-  "definition": "r. in a serious manner"
+  "definition": "R. in a serious manner"
  },
  {
   "word": "settlement",
   "phonetic": "'setlmәnt",
   "translation": "n. 安顿, 解决, 处理, 结算, 殖民, 殖民地, 沉降\n[医] 居住区; 沉渣",
-  "definition": "a conclusive resolution of a matter and disposition of it"
+  "definition": "A conclusive resolution of a matter and disposition of it"
  },
  {
   "word": "seven",
   "phonetic": "'sevn",
   "translation": "num. 七, 七个",
-  "definition": "the cardinal number that is the sum of six and one"
+  "definition": "The cardinal number that is the sum of six and one"
  },
  {
   "word": "ships",
   "phonetic": "",
   "translation": "n. 舰船（ship的复数）",
-  "definition": "a vessel that carries passengers or freight"
+  "definition": "A vessel that carries passengers or freight"
  },
  {
   "word": "significant",
   "phonetic": "sig'nifikәnt",
   "translation": "a. 重要的, 有效的, 有含义的, 暗示的, 值得注意的",
-  "definition": "important in effect or meaning"
+  "definition": "Important in effect or meaning"
  },
  {
   "word": "similar",
   "phonetic": "'similә",
   "translation": "a. 相似的, 类似的\nn. 相似的东西",
-  "definition": "marked by correspondence or resemblance"
+  "definition": "Marked by correspondence or resemblance"
  },
  {
   "word": "sixth",
   "phonetic": "siksθ",
   "translation": "num. 第六, 六分之一",
-  "definition": "position six in a countable series of things"
+  "definition": "Position six in a countable series of things"
  },
  {
   "word": "skies",
   "phonetic": "skaiz",
   "translation": "n. 天空（sky的复数）",
-  "definition": "the atmosphere and outer space as viewed from the earth"
+  "definition": "The atmosphere and outer space as viewed from the earth"
  },
  {
   "word": "sound",
   "phonetic": "saund",
   "translation": "n. 声音, 语音, 吵闹, 声调, 听力范围, 探条, 海峡\na. 健全的, 可靠的, 合理的, 健康的, 彻底的, 资金充实的\nadv. 彻底地, 充分地\nvi. 发出声音, 回响, 测深, 试探, 听起来\nvt. 使发声, 宣告, 听诊, 测...深, 试探\n[计] 声音",
-  "definition": "the particular auditory effect produced by a given cause"
+  "definition": "The particular auditory effect produced by a given cause"
  },
  {
   "word": "speed",
   "phonetic": "spi:d",
   "translation": "n. 速率, 速度, 迅速\nvi. 加速, 超速, 快进\nvt. 快速传送, 促进, 使加速\n[计] 中央处理机速度设置程序",
-  "definition": "distance travelled per unit time"
+  "definition": "Distance travelled per unit time"
  },
  {
   "word": "suggested",
   "phonetic": "",
   "translation": "a. 建议的；暗示的",
-  "definition": "make a proposal, declare a plan for something"
+  "definition": "Make a proposal, declare a plan for something"
  },
  {
   "word": "supplying",
   "phonetic": "",
   "translation": "n. 供应；补给",
-  "definition": "the activity of supplying or providing something"
+  "definition": "The activity of supplying or providing something"
  },
  {
   "word": "takes",
   "phonetic": "",
   "translation": "vt. 取走, 预备动作（take第三人称单数）",
-  "definition": "the income or profit arising from such transactions as the sale of land or other property"
+  "definition": "The income or profit arising from such transactions as the sale of land or other property"
  },
  {
   "word": "tall",
   "phonetic": "tɒ:l",
   "translation": "a. 高的, 长的, 夸大的\nadv. 夸大地",
-  "definition": "a garment size for a tall person"
+  "definition": "A garment size for a tall person"
  },
  {
   "word": "terrestrial",
   "phonetic": "tә'restriәl",
   "translation": "n. 地球上的人\na. 地球的, 陆生的, 陆地的, 人间的",
-  "definition": "operating or living or growing on land"
+  "definition": "Operating or living or growing on land"
  },
  {
   "word": "think",
   "phonetic": "θiŋk",
   "translation": "vt. 想, 考虑, 想起, 想像, 打算, 认为\nvi. 思考, 料想\nn. 想法\na. 思想的",
-  "definition": "an instance of deliberate thinking"
+  "definition": "An instance of deliberate thinking"
  },
  {
   "word": "third",
   "phonetic": "θә:d",
   "translation": "num. 第三, 三分之一\n[机] 第三; 第三的",
-  "definition": "following the second position in an ordering or series"
+  "definition": "Following the second position in an ordering or series"
  },
  {
   "word": "through",
   "phonetic": "θru:",
   "translation": "adv. 穿越, 从头至尾, 到底, 因为\nprep. 经过, 穿过\na. 对穿的, 直达的, 完结的",
-  "definition": "s. (of a route or journey etc.) continuing without requiring stops or changes"
+  "definition": "S. (of a route or journey etc.) continuing without requiring stops or changes"
  },
  {
   "word": "time",
   "phonetic": "taim",
   "translation": "n. 时间, 时侯, 时机, 时期, 期限, 次数, 节拍, 暂停, 规定时间\nvt. 测定...的时间, 记录...的时间, 计时, 定时\na. 时间的, 记时的, 定时的, 定期的, 分期的\n[计] DOS内部命令:用于显示或设定系统的时间",
-  "definition": "an instance or single occasion for some event"
+  "definition": "An instance or single occasion for some event"
  },
  {
   "word": "times",
   "phonetic": "taimz",
   "translation": "n. 时代, 境遇, 时报",
-  "definition": "a more or less definite period of time now or previously present"
+  "definition": "A more or less definite period of time now or previously present"
  },
  {
   "word": "twice",
   "phonetic": "twais",
   "translation": "adv. 两次, 两倍",
-  "definition": "r. two times"
+  "definition": "R. two times"
  },
  {
   "word": "understandable",
   "phonetic": ".ʌndә'stændәbl",
   "translation": "a. 可以理解的",
-  "definition": "s capable of being apprehended or understood"
+  "definition": "S capable of being apprehended or understood"
  },
  {
   "word": "voyagers",
   "phonetic": "",
   "translation": "n. 空中黑客（BBC纪录片《昆虫帝国》第四集）",
-  "definition": "a traveler to a distant land (especially one who travels by sea)"
+  "definition": "A traveler to a distant land (especially one who travels by sea)"
  },
  {
   "word": "waste",
   "phonetic": "weist",
   "translation": "n. 浪费, 废物, 损耗, 消耗, 荒地, 垃圾, 地面风化物\na. 废弃的, 荒芜的, 多余的\nvt. 浪费, 消耗, 使荒芜\nvi. 浪费, 消耗, 变消瘦",
-  "definition": "any materials unused and rejected as worthless or unwanted"
+  "definition": "Any materials unused and rejected as worthless or unwanted"
  },
  {
   "word": "wider",
   "phonetic": "",
   "translation": "a. 宽的；广阔的（wide的比较级形式）",
-  "definition": "having great (or a certain) extent from one side to the other"
+  "definition": "Having great (or a certain) extent from one side to the other"
  },
  {
   "word": "worth",
   "phonetic": "wә:θ",
   "translation": "n. 价值, 财产\na. 值...的, 值得的",
-  "definition": "an indefinite quantity of something having a specified value"
+  "definition": "An indefinite quantity of something having a specified value"
  },
  {
   "word": "would-be",
   "phonetic": "'wudbi:",
   "translation": "a. 将要成为的, 自称的, 冒充的\n[法] 自愿成为的, 愿成而未成的",
-  "definition": "s unfulfilled or frustrated in realizing an ambition"
+  "definition": "S unfulfilled or frustrated in realizing an ambition"
  }
 ]
