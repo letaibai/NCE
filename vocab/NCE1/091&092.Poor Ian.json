@@ -3,7 +3,7 @@
   "word": "house",
   "phonetic": "haus",
   "translation": "n. 房子, 住宅, 机构, 议院, 家族, 家庭\nvt. 给...房子住, 收藏\nvi. 住, 躲藏",
-  "definition": "n. a dwelling that serves as living quarters for one or more families\nn. the members of a religious community living together\nn. the audience gathered together in a theatre or cinema\nn. an official assembly having legislative powers"
+  "definition": "a dwelling that serves as living quarters for one or more families"
  },
  {
   "word": "ian",
@@ -14,25 +14,25 @@
   "word": "tomorrow",
   "phonetic": "tә'mɒ:rәu",
   "translation": "n. 明天, 未来\nadv. 明天, 未来地",
-  "definition": "n. the day after today\nn. the near future\nr. the next day, the day after, following the present day"
+  "definition": "the day after today"
  },
  {
   "word": "he",
   "phonetic": "hi:",
   "translation": "pron. 他\nn. 男孩, 男人, 雄性动物",
-  "definition": "n. the 5th letter of the Hebrew alphabet"
+  "definition": "the 5th letter of the Hebrew alphabet"
  },
  {
   "word": "move",
   "phonetic": "mu:v",
   "translation": "n. 移动, 迁居, 步骤\nvt. 移动, 开动, 感动, 搬(家)\nvi. 移动, 离开, 运行, 迁移, 摇动, 搬家, 交往, 进展, 脱手\n[计] 移动; 传送; DOS外部命令:移动文件, 它可将文件移动到指定的地方",
-  "definition": "n. the act of deciding to do something\nn. the act of changing your residence or place of business\nn. (game) a player's turn to take some action permitted by the rules of the game\nv. cause to move or shift into a new position or place, both in a concrete and in an abstract sense"
+  "definition": "the act of deciding to do something"
  },
  {
   "word": "yet",
   "phonetic": "jet",
   "translation": "adv. 还, 尚, 仍然, 已经, 然而\nconj. 然而",
-  "definition": "r. up to the present time\nr. within an indefinite time or at an unspecified future time"
+  "definition": "r. up to the present time"
  },
  {
   "word": "didn't",
@@ -43,85 +43,85 @@
   "word": "leave",
   "phonetic": "li:v",
   "translation": "n. 许可, 告别, 请假, 休假\nvt. 离开, 剩下, 遗忘, 委托, 丢弃\nvi. 出发, 离开, 生叶",
-  "definition": "n. the period of time during which you are absent from work or duty\nn. permission to do something\nv. go away from a place\nv. go and leave behind, either intentionally or by neglect or forgetfulness"
+  "definition": "the period of time during which you are absent from work or duty"
  },
  {
   "word": "miss",
   "phonetic": "mis",
   "translation": "n. 失误, 避免, 失败, 小姐\nvt. 未得到, 未达到, 未听到, 未觉察, 逃脱, 遗漏, 错过, 思念\nvi. 失败, 击不中",
-  "definition": "n. a failure to hit (or meet or find etc)\nn. a form of address for an unmarried woman\nv. fail to perceive or to catch with the senses or the mind\nv. feel or suffer from the lack of"
+  "definition": "a failure to hit (or meet or find etc)"
  },
  {
   "word": "new",
   "phonetic": "nju:",
   "translation": "a. 新的, 陌生的, 最近的, 不熟悉的\n[法] 新发现的, 新的, 重新开始的",
-  "definition": "a. not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered\ns. having no previous example or precedent or parallel\ns. other than the former one(s); different\na. unaffected by use or exposure"
+  "definition": "not of long duration; having just (or relatively recently) come into being or been made or acquired or discovered"
  },
  {
   "word": "poor",
   "phonetic": "puә. pɒ:",
   "translation": "a. 贫穷的, 贫乏的, 不幸的, 可怜的, 拙劣的, 卑鄙的\n[经] 低劣的, 不良的",
-  "definition": "a. having little money or few possessions\na. characterized by or indicating poverty\na. lacking in specific resources, qualities or substances\ns. unsatisfactory"
+  "definition": "having little money or few possessions"
  },
  {
   "word": "sold",
   "phonetic": "sәuld",
   "translation": "sell的过去式和过去分词",
-  "definition": "a. disposed of to a purchaser"
+  "definition": "disposed of to a purchaser"
  },
  {
   "word": "want",
   "phonetic": "wɒnt",
   "translation": "n. 需要的东西, 缺乏, 贫困, 需要\nvt. 要, 希望, 应该, 缺少\nvi. 生活困苦, 需要, 缺少",
-  "definition": "v. have need of\nv. hunt or look for; want for a particular reason\nv. wish or demand the presence of\nv. be without, lack; be deficient in"
+  "definition": "have need of"
  },
  {
   "word": "after",
   "phonetic": "'ɑ:ftә",
   "translation": "prep. 在...之后, 由于\nconj. 在...之后\nadv. 后来",
-  "definition": "s. located farther aft\nr. behind or in the rear"
+  "definition": "s. located farther aft"
  },
  {
   "word": "afternoon",
   "phonetic": "'ɑ:ftә'nu:n",
   "translation": "n. 午后, 下午",
-  "definition": "n. the part of the day between noon and evening"
+  "definition": "the part of the day between noon and evening"
  },
  {
   "word": "always",
   "phonetic": "'ɒ:lweiz",
   "translation": "adv. 总是, 始终",
-  "definition": "r. at all times; all the time and on every occasion\nr. at any time or in any event\nr. forever; throughout all time"
+  "definition": "r. at all times; all the time and on every occasion"
  },
  {
   "word": "answer",
   "phonetic": "'ɑ:nsә",
   "translation": "n. 答案, 回答, 回报, 答辩\nvt. 回答, 反驳, 适应, 响应, 符合\nvi. 回答, 答应, 负责, 符合, 成功\n[计] 用户问题及答案新闻组",
-  "definition": "n. a statement (either spoken or written) that is made to reply to a question or request or criticism or accusation\nn. the speech act of replying to a question\nn. the principal pleading by the defendant in response to plaintiff's complaint; in criminal law it consists of the defendant's plea of `guilty' or `not guilty' (or nolo contendere); in civil law it must contain denials of all allegations in the plaintiff's complaint that the defendant hopes to controvert and it can contain affirmative defenses or counterclaims\nn. a nonverbal reaction"
+  "definition": "a statement (either spoken or written) that is made to reply to a question or request or criticism or accusation"
  },
  {
   "word": "day",
   "phonetic": "dei",
   "translation": "n. 天, 日子, 白天, 工作日\n[医] 日(一昼夜), 昼, 白天",
-  "definition": "n. time for Earth to make a complete rotation on its axis\nn. some point or period in time\nn. a day assigned to a particular purpose or observance\nn. the time after sunrise and before sunset while it is light outside"
+  "definition": "time for Earth to make a complete rotation on its axis"
  },
  {
   "word": "give",
   "phonetic": "giv",
   "translation": "n. 弹性, 适应性\nvt. 给, 授予, 供给, 产生, 发表, 付出, 献出, 让出\nvi. 捐赠, 支持不住, 让步",
-  "definition": "n. the elasticity of something that can be stretched and returns to its original length\nv. cause to have, in the abstract sense or physical sense\nv. transfer possession of something concrete or abstract to somebody\nv. convey or reveal information"
+  "definition": "the elasticity of something that can be stretched and returns to its original length"
  },
  {
   "word": "going",
   "phonetic": "'gәuiŋ",
   "translation": "n. 去, 离去, 工作情况, 地面状况, 行为\na. 进行中的, 流行的, 成功的, 现存的",
-  "definition": "n. advancing toward a goal\ns. in full operation"
+  "definition": "advancing toward a goal"
  },
  {
   "word": "good",
   "phonetic": "gud",
   "translation": "n. 善行, 好处, 利益\na. 好的, 优良的, 上等的, 愉快的, 有益的, 好心的, 慈善的, 虔诚的",
-  "definition": "n. benefit\nn. moral excellence or admirableness\nn. that which is pleasing or valuable or useful\na. having desirable or positive qualities especially those suitable for a thing specified"
+  "definition": "benefit"
  },
  {
   "word": "i'll",
@@ -132,103 +132,103 @@
   "word": "jenny",
   "phonetic": "'dʒeni",
   "translation": "n. 纺纱机, 移动吊车, 母驴",
-  "definition": "n. United States architect who designed the first skyscraper in which a metal skeleton was used (1832-1907)"
+  "definition": "United States architect who designed the first skyscraper in which a metal skeleton was used (1832-1907)"
  },
  {
   "word": "last",
   "phonetic": "lɑ:st",
   "translation": "a. 最后的, 末尾的, 最近的\nvi. 持续, 支持, 维持\nvt. 使维持, 够...用\nadv. 最后, 后来\nn. 最后, 末尾, 鞋楦头",
-  "definition": "n. the last or lowest in an ordering or series\nn. a person's dying act; the final thing a person can do\nn. a unit of weight equal to 4,000 pounds\nn. a unit of capacity for grain equal to 80 bushels"
+  "definition": "the last or lowest in an ordering or series"
  },
  {
   "word": "lesson",
   "phonetic": "'lesn",
   "translation": "n. 课, 课业, 教训",
-  "definition": "n. a unit of instruction\nn. a task assigned for individual study"
+  "definition": "a unit of instruction"
  },
  {
   "word": "listen",
   "phonetic": "'lisn",
   "translation": "vi. 听, 倾听, 听从\nn. 听, 倾听",
-  "definition": "v. hear with intention\nv. listen and pay attention"
+  "definition": "hear with intention"
  },
  {
   "word": "morning",
   "phonetic": "'mɒ:niŋ",
   "translation": "n. 早晨, 早上, 初期",
-  "definition": "n. the time period between dawn and noon"
+  "definition": "the time period between dawn and noon"
  },
  {
   "word": "moved",
   "phonetic": "",
   "translation": "v. 移动, 移动到；感动（move的过去式, 过去分词）",
-  "definition": "a. being excited or provoked to the expression of an emotion"
+  "definition": "being excited or provoked to the expression of an emotion"
  },
  {
   "word": "neighbour",
   "phonetic": "'neibә",
   "translation": "n. 邻居, 邻接的东西, 邻国, 邻座, 邻人, 世人\na. 邻接的, 邻近的\nvi.vt. 邻近, 与...结邻, 邻接",
-  "definition": "n a person who lives (or is located) near another\nn a nearby object of the same kind\nv live or be located as a neighbor\nv be located near or adjacent to"
+  "definition": "a person who lives (or is located) near another"
  },
  {
   "word": "nice",
   "phonetic": "nais",
   "translation": "a. 美好的, 和蔼的, 正派的, 做得好的, 精密的, 细微的, 挑剔的, 谨慎的",
-  "definition": "n. a city in southeastern France on the Mediterranean; the leading resort on the French Riviera\na. pleasant or pleasing or agreeable in nature or appearance\ns. done with delicacy and skill"
+  "definition": "a city in southeastern France on the Mediterranean; the leading resort on the French Riviera"
  },
  {
   "word": "people",
   "phonetic": "'pi:pl",
   "translation": "n. 人, 人民, 民族, 平民\nvt. 使住满人, 居住于",
-  "definition": "n. (plural) any group of human beings (men or women or children) collectively\nn. members of a family line\nv. fill with people\nv. furnish with people"
+  "definition": "(plural) any group of human beings (men or women or children) collectively"
  },
  {
   "word": "person",
   "phonetic": "'pә:sn",
   "translation": "n. 人, 人身, 人称\n[法] 人, 法人, 人身",
-  "definition": "n. a human being\nn. a human body (usually including the clothing)\nn. a grammatical category used in the classification of pronouns, possessive determiners, and verb forms according to whether they indicate the speaker, the addressee, or a third party"
+  "definition": "a human being"
  },
  {
   "word": "please",
   "phonetic": "pli:z",
   "translation": "adv. 请\nvt. 使高兴, 合...的心意, 取悦\nvi. 使人满意, 讨好, 愿意, 敬请",
-  "definition": "v. give pleasure to or be pleasing to\nv. be the will of or have the will (to)\nv. give satisfaction\nr. used in polite request"
+  "definition": "give pleasure to or be pleasing to"
  },
  {
   "word": "question",
   "phonetic": "'kwestʃәn",
   "translation": "n. 问题, 询问\nv. 询问, 审问, 怀疑\n[计] 询问",
-  "definition": "n. an instance of questioning\nn. the subject matter at issue\nn. a sentence of inquiry that asks for a reply\nn. an informal reference to a marriage proposal"
+  "definition": "an instance of questioning"
  },
  {
   "word": "regards",
   "phonetic": "",
   "translation": "n. 问候, 致意",
-  "definition": "n (usually preceded by `in') a detail or point\nn paying particular notice (as to children or helpless people)\nn (usually plural) a polite expression of desire for someone's welfare\nn a long fixed look\nn the condition of being honored (esteemed or respected or well regarded)\nn a feeling of friendship and esteem\nn an attitude of admiration or esteem\nv deem to be\nv look at attentively\nv connect closely and often incriminatingly"
+  "definition": "(usually preceded by `in') a detail or point"
  },
  {
   "word": "see",
   "phonetic": "si:",
   "translation": "vt. 看见, 查看, 参观, 游览, 理解, 知道, 同意\nvi. 看, 观看, 注意, 知道, 考虑\nn. 主教的职位",
-  "definition": "n. the seat within a bishop's diocese where his cathedral is located\nv. perceive by sight or have the power to perceive by sight\nv. deem to be\nv. be careful or certain to do something; make certain of something"
+  "definition": "the seat within a bishop's diocese where his cathedral is located"
  },
  {
   "word": "sell",
   "phonetic": "sel",
   "translation": "vt. 卖, 背叛, 销售, 出卖\nvi. 卖, 销售\nn. 卖, 推销术, 失望",
-  "definition": "n. the activity of persuading someone to buy\nv. exchange or deliver for money or its equivalent\nv. be sold at a certain price or in a certain way\nv. persuade somebody to accept something"
+  "definition": "the activity of persuading someone to buy"
  },
  {
   "word": "still",
   "phonetic": "stil",
   "translation": "n. 蒸馏室, 寂静, 剧照\nv. 蒸馏, (使)平静, (使)静止\na. 静止的, 不动的, 静寂的, 不起泡的, 静物摄影的\nadv. 仍然, 更, 静止地\nconj. 然而, 但是",
-  "definition": "n. a static photograph (especially one taken from a movie and used for advertising purposes)\nn. an apparatus used for the distillation of liquids; consists of a vessel in which a substance is vaporized by heat and a condenser where the vapor is condensed\nv. lessen the intensity of or calm\nv. make motionless"
+  "definition": "a static photograph (especially one taken from a movie and used for advertising purposes)"
  },
  {
   "word": "tape",
   "phonetic": "teip",
   "translation": "n. 带子, 录音带, 磁带, 窄带, 卷尺\nvt. 以带子绑起, 测量, 录音\n[计] 带",
-  "definition": "n. a long thin piece of cloth or paper as used for binding or fastening\nn. a recording made on magnetic tape\nn. the finishing line for a foot race\nn. measuring instrument consisting of a narrow strip (cloth or metal) marked in inches or centimeters and used for measuring lengths"
+  "definition": "a long thin piece of cloth or paper as used for binding or fastening"
  },
  {
   "word": "they'll",
@@ -239,36 +239,36 @@
   "word": "think",
   "phonetic": "θiŋk",
   "translation": "vt. 想, 考虑, 想起, 想像, 打算, 认为\nvi. 思考, 料想\nn. 想法\na. 思想的",
-  "definition": "n. an instance of deliberate thinking\nv. judge or regard; look upon; judge\nv. expect, believe, or suppose\nv. use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments"
+  "definition": "an instance of deliberate thinking"
  },
  {
   "word": "today",
   "phonetic": "tә'dei",
   "translation": "n. 今天, 当今, 现在\nadv. 今天, 当今",
-  "definition": "n. the present time or age\nn. the day that includes the present moment (as opposed to yesterday or tomorrow)\nr. on this day as distinct from yesterday or tomorrow"
+  "definition": "the present time or age"
  },
  {
   "word": "wanted",
   "phonetic": "'wɔntid. 'wɔ:n-",
   "translation": "a. 被通缉的",
-  "definition": "a. desired or wished for or sought"
+  "definition": "desired or wished for or sought"
  },
  {
   "word": "we'll",
   "phonetic": "wi:l",
   "translation": " (we shall或 we will 的常用口语形式)",
-  "definition": " Contraction for we will or we shall."
+  "definition": "Contraction for we will or we shall."
  },
  {
   "word": "week",
   "phonetic": "wi:k",
   "translation": "n. 星期, 周",
-  "definition": "n. any period of seven consecutive days\nn. a period of seven consecutive days starting on Sunday"
+  "definition": "any period of seven consecutive days"
  },
  {
   "word": "wife",
   "phonetic": "waif",
   "translation": "n. 妻子, 太太, 夫人\n[法] 妻子, 已婚妇女",
-  "definition": "n. a married woman; a man's partner in marriage"
+  "definition": "a married woman; a man's partner in marriage"
  }
 ]

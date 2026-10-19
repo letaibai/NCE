@@ -3,31 +3,31 @@
   "word": "holiday",
   "phonetic": "'hɒlәdi",
   "translation": "n. 假日, 假期, 节日\nvi. 度假",
-  "definition": "n. a day on which work is suspended by law or custom"
+  "definition": "a day on which work is suspended by law or custom"
  },
  {
   "word": "lunch",
   "phonetic": "lʌntʃ",
   "translation": "n. 午餐",
-  "definition": "n. a midday meal\nv. take the midday meal\nv. provide a midday meal for"
+  "definition": "a midday meal"
  },
  {
   "word": "going",
   "phonetic": "'gәuiŋ",
   "translation": "n. 去, 离去, 工作情况, 地面状况, 行为\na. 进行中的, 流行的, 成功的, 现存的",
-  "definition": "n. advancing toward a goal\ns. in full operation"
+  "definition": "advancing toward a goal"
  },
  {
   "word": "go",
   "phonetic": "gou",
   "translation": "vi. 去, 走, 达到, 运转, 查阅, 消失, 结束, 放弃, 花费, 流传, 趋于, 打算, 剩下\nvt. 以...打赌, 对付, 忍受, 出产, 为被捕者出(保释金)\nn. 去, 尝试, 进行",
-  "definition": "n. a time for working (after which you will be relieved by someone else)\nn. a board game for two players who place counters on a grid; the object is to surround and so capture the opponent's counters\nv. follow a procedure or take a course\nv. move away from a place into another direction"
+  "definition": "a time for working (after which you will be relieved by someone else)"
  },
  {
   "word": "i've",
   "phonetic": "aɪv",
   "translation": "（等于I have）",
-  "definition": " Colloquial contraction of I have."
+  "definition": "Colloquial contraction of I have."
  },
  {
   "word": "we're",
@@ -44,49 +44,49 @@
   "word": "coffee",
   "phonetic": "'kɒfi",
   "translation": "n. 咖啡, 咖啡色\n[医] 咖啡, 咖啡豆",
-  "definition": "n. a beverage consisting of an infusion of ground coffee beans\nn. any of several small trees and shrubs native to the tropical Old World yielding coffee beans"
+  "definition": "a beverage consisting of an infusion of ground coffee beans"
  },
  {
   "word": "cup",
   "phonetic": "kʌp",
   "translation": "n. 杯子, 茶杯, 优胜杯\nvt. 使成杯状, 为...拔火罐",
-  "definition": "n. a small open container usually used for drinking; usually has a handle\nn. the quantity a cup will hold\nn. any cup-shaped concavity\nn. a United States liquid unit equal to 8 fluid ounces"
+  "definition": "a small open container usually used for drinking; usually has a handle"
  },
  {
   "word": "room",
   "phonetic": "ru:m",
   "translation": "n. 房间, 空位, 场所\nvi. 住宿, 居住\nvt. 留宿",
-  "definition": "n. an area within a building enclosed by walls and floor and ceiling\nn. space for movement\nn. opportunity for\nn. the people who are present in a room"
+  "definition": "an area within a building enclosed by walls and floor and ceiling"
  },
  {
   "word": "thank",
   "phonetic": "θæŋk",
   "translation": "n. 谢意, 感谢\nvt. 谢谢, 感谢",
-  "definition": "v. express gratitude or show appreciation to"
+  "definition": "express gratitude or show appreciation to"
  },
  {
   "word": "tom",
   "phonetic": "tɒm",
   "translation": "n. 雄性动物, 雄猫",
-  "definition": "n. (ethnic slur) offensive and derogatory name for a Black man who is abjectly servile and deferential to Whites\nn. male cat"
+  "definition": "(ethnic slur) offensive and derogatory name for a Black man who is abjectly servile and deferential to Whites"
  },
  {
   "word": "year",
   "phonetic": "jiә",
   "translation": "n. 年, 年度, 年龄\n[经] 年度",
-  "definition": "n. a period of time containing 365 (or 366) days\nn. a period of time occupying a regular part of a calendar year that is used for some particular activity\nn. the period of time that it takes for a planet (as, e.g., Earth or Mars) to make a complete revolution around the sun"
+  "definition": "a period of time containing 365 (or 366) days"
  },
  {
   "word": "after",
   "phonetic": "'ɑ:ftә",
   "translation": "prep. 在...之后, 由于\nconj. 在...之后\nadv. 后来",
-  "definition": "s. located farther aft\nr. behind or in the rear"
+  "definition": "s. located farther aft"
  },
  {
   "word": "answer",
   "phonetic": "'ɑ:nsә",
   "translation": "n. 答案, 回答, 回报, 答辩\nvt. 回答, 反驳, 适应, 响应, 符合\nvi. 回答, 答应, 负责, 符合, 成功\n[计] 用户问题及答案新闻组",
-  "definition": "n. a statement (either spoken or written) that is made to reply to a question or request or criticism or accusation\nn. the speech act of replying to a question\nn. the principal pleading by the defendant in response to plaintiff's complaint; in criminal law it consists of the defendant's plea of `guilty' or `not guilty' (or nolo contendere); in civil law it must contain denials of all allegations in the plaintiff's complaint that the defendant hopes to controvert and it can contain affirmative defenses or counterclaims\nn. a nonverbal reaction"
+  "definition": "a statement (either spoken or written) that is made to reply to a question or request or criticism or accusation"
  },
  {
   "word": "aren't",
@@ -97,7 +97,7 @@
   "word": "come",
   "phonetic": "kʌm",
   "translation": "vi. 过来, 来, 到达, 出现, 开始\ninterj. 喂",
-  "definition": "v. move toward, travel toward something or somebody or approach something or somebody\nv. come to pass; arrive, as in due course\nv. reach or enter a state, relation, condition, use, or position\nv. to be the product or result"
+  "definition": "move toward, travel toward something or somebody or approach something or somebody"
  },
  {
   "word": "don't",
@@ -108,150 +108,150 @@
   "word": "excuse",
   "phonetic": "ik'skju:z",
   "translation": "vt. 原谅, 申辩, 做为...的托辞\nn. 致歉, 理由, 饶恕, 借口",
-  "definition": "n. a defense of some offensive behavior or some failure to keep a promise etc.\nn. a note explaining an absence\nv. accept an excuse for\nv. grant exemption or release to"
+  "definition": "a defense of some offensive behavior or some failure to keep a promise etc."
  },
  {
   "word": "half",
   "phonetic": "hɑ:f",
   "translation": "n. 一半, 半场, 不完全\na. 一半的, 不完全的, 部分的, 半场的\nadv. 一半地, 部分地, 在某种程度上地, 几乎",
-  "definition": "n. one of two divisions into which some games or performances are divided: the two divisions are separated by an interval\ns. consisting of one of two equivalent parts in value or quantity\ns. partial\na. (of siblings) related through one parent only"
+  "definition": "one of two divisions into which some games or performances are divided: the two divisions are separated by an interval"
  },
  {
   "word": "having",
   "phonetic": "'hæviŋ",
   "translation": "n. 财产, 所有物",
-  "definition": "v have or possess, either in a concrete or an abstract sense\nv have as a feature\nv go through (mental or physical states or experiences)\nv have ownership or possession of\nv cause to move; cause to be in a certain position or condition\nv serve oneself to, or consume regularly\nv have a personal or business relationship with someone\nv organize or be responsible for\nv have left\nv be confronted with\nv undergo\nv suffer from; be ill with\nv cause to do; cause to act in a specified manner\nv receive willingly something given or offered\nv get something; come into possession of\nv undergo (as of injuries and illnesses)\nv achieve a point or goal\nv cause to be born\nv have sex with; archaic use"
+  "definition": "have or possess, either in a concrete or an abstract sense"
  },
  {
   "word": "hello",
   "phonetic": "hә'lәu",
   "translation": "interj. 喂, 嘿",
-  "definition": "n. an expression of greeting"
+  "definition": "an expression of greeting"
  },
  {
   "word": "hi",
   "phonetic": "hai",
   "translation": "interj. 喂",
-  "definition": "n an expression of greeting\nn a state in the United States in the central Pacific on the Hawaiian Islands"
+  "definition": "an expression of greeting"
  },
  {
   "word": "home",
   "phonetic": "hәum",
   "translation": "n. 家, 避难所, 故乡\na. 家庭的, 国内的, 打中目标的\nadv. 在家, 在本国, 打中目标地\n[计] 返回始位",
-  "definition": "n. where you live at a particular time\nn. the country or state or city where you live\nn. place where something began and flourished\nn. an environment offering affection and security"
+  "definition": "where you live at a particular time"
  },
  {
   "word": "know",
   "phonetic": "nәu",
   "translation": "v. 知道, 了解, 认识, 确信",
-  "definition": "n. the fact of being aware of information that is known to few people\nv. be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about\nv. know how to do or perform something\nv. be aware of the truth of something; have a belief or faith in something; regard as true beyond any doubt"
+  "definition": "the fact of being aware of information that is known to few people"
  },
  {
   "word": "leave",
   "phonetic": "li:v",
   "translation": "n. 许可, 告别, 请假, 休假\nvt. 离开, 剩下, 遗忘, 委托, 丢弃\nvi. 出发, 离开, 生叶",
-  "definition": "n. the period of time during which you are absent from work or duty\nn. permission to do something\nv. go away from a place\nv. go and leave behind, either intentionally or by neglect or forgetfulness"
+  "definition": "the period of time during which you are absent from work or duty"
  },
  {
   "word": "lesson",
   "phonetic": "'lesn",
   "translation": "n. 课, 课业, 教训",
-  "definition": "n. a unit of instruction\nn. a task assigned for individual study"
+  "definition": "a unit of instruction"
  },
  {
   "word": "let",
   "phonetic": "let",
   "translation": "vt. 让, 假设, 出租, 排放, 妨碍\nvi. 出租, 被承包\nn. 出租屋, 障碍",
-  "definition": "n. a serve that strikes the net before falling into the receiver's court; the ball must be served again\nv. make it possible through a specific action or lack of action for something to happen\nv. actively cause something to happen\nv. leave unchanged"
+  "definition": "a serve that strikes the net before falling into the receiver's court; the ball must be served again"
  },
  {
   "word": "listen",
   "phonetic": "'lisn",
   "translation": "vi. 听, 倾听, 听从\nn. 听, 倾听",
-  "definition": "v. hear with intention\nv. listen and pay attention"
+  "definition": "hear with intention"
  },
  {
   "word": "living",
   "phonetic": "'liviŋ",
   "translation": "n. 生活, 生计, 生存\na. 活的, 逼真的, 现存的",
-  "definition": "n. people who are still living\na. pertaining to living persons\ns. true to life; lifelike\ns. (informal) absolute"
+  "definition": "people who are still living"
  },
  {
   "word": "lucky",
   "phonetic": "'lʌki",
   "translation": "a. 幸运的, 吉祥的, 好运的, 侥幸的",
-  "definition": "s. occurring by chance\na. having or bringing good fortune"
+  "definition": "s. occurring by chance"
  },
  {
   "word": "mess",
   "phonetic": "mes",
   "translation": "n. 食堂, 伙食, 用膳, 一份食品, 混乱, 乱七八糟, 困境\nvt. 将...弄糟, 妨碍, 使紊乱, 使就餐\nvi. 陷入困境, 搞乱, 用膳",
-  "definition": "n. a state of confusion and disorderliness\nn. soft semiliquid food\nn. a meal eaten in a mess hall by service personnel\nn. a (large) military dining room where service personnel eat or relax"
+  "definition": "a state of confusion and disorderliness"
  },
  {
   "word": "one",
   "phonetic": "wʌn",
   "translation": "n. 一(个)\npron. 一, 任何人\nnum. 一, 一个\na. 一致的, 完整的",
-  "definition": "n. the smallest whole number or a numeral representing this number\nn. a single person or thing\ns. used of a single unit or thing; not two or more\ns. having the indivisible character of a unit"
+  "definition": "the smallest whole number or a numeral representing this number"
  },
  {
   "word": "packing",
   "phonetic": "'pækiŋ",
   "translation": "n. 包装, 填垫材料, 封函, 行李\n[化] 填充物; 填料; 填充; 装柱; 装色谱柱; 垫革; 紧束; 敛集; 堆积",
-  "definition": "n. the enclosure of something in a package or box\nn. carrying something in a pack on the back"
+  "definition": "the enclosure of something in a package or box"
  },
  {
   "word": "past",
   "phonetic": "pɑ:st",
   "translation": "n. 过去, 昔时, 往事, 早年经历, 过去时\na. 过去的, 结束的, 卸任的, 过去时的\nprep. 越过, 晚于, 超越, 超出...的可能性(能力、范围等)\npass的过去分词",
-  "definition": "n. the time that has elapsed\nn. a earlier period in someone's life (especially one that they have reason to keep secret)\nn. a verb tense that expresses actions or states in the past\na. earlier than the present time; no longer current"
+  "definition": "the time that has elapsed"
  },
  {
   "word": "question",
   "phonetic": "'kwestʃәn",
   "translation": "n. 问题, 询问\nv. 询问, 审问, 怀疑\n[计] 询问",
-  "definition": "n. an instance of questioning\nn. the subject matter at issue\nn. a sentence of inquiry that asks for a reply\nn. an informal reference to a marriage proposal"
+  "definition": "an instance of questioning"
  },
  {
   "word": "stayed",
   "phonetic": "",
   "translation": "v. 停留, 制止（stay的过去分词形式）",
-  "definition": "v stay the same; remain in a certain state\nv stay put (in a certain place); we are not moving to Cincinnati\"\nv dwell\nv continue in a place, position, or situation\nv remain behind\nv stop or halt\nv stay behind\nv hang on during a trial of endurance\nv stop a judicial process\nv fasten with stays\nv overcome or allay"
+  "definition": "stay the same; remain in a certain state"
  },
  {
   "word": "suitcases",
   "phonetic": "ˈsju:tkeisiz",
   "translation": "n. （旅行用的）手提箱( suitcase的复数形式 ); 衣箱",
-  "definition": "n. a portable rectangular container for carrying clothes"
+  "definition": "a portable rectangular container for carrying clothes"
  },
  {
   "word": "tape",
   "phonetic": "teip",
   "translation": "n. 带子, 录音带, 磁带, 窄带, 卷尺\nvt. 以带子绑起, 测量, 录音\n[计] 带",
-  "definition": "n. a long thin piece of cloth or paper as used for binding or fastening\nn. a recording made on magnetic tape\nn. the finishing line for a foot race\nn. measuring instrument consisting of a narrow strip (cloth or metal) marked in inches or centimeters and used for measuring lengths"
+  "definition": "a long thin piece of cloth or paper as used for binding or fastening"
  },
  {
   "word": "tomorrow",
   "phonetic": "tә'mɒ:rәu",
   "translation": "n. 明天, 未来\nadv. 明天, 未来地",
-  "definition": "n. the day after today\nn. the near future\nr. the next day, the day after, following the present day"
+  "definition": "the day after today"
  },
  {
   "word": "twelve",
   "phonetic": "twelv",
   "translation": "num. 十二, 十二个",
-  "definition": "n. the cardinal number that is the sum of eleven and one\ns. denoting a quantity consisting of 12 items or units"
+  "definition": "the cardinal number that is the sum of eleven and one"
  },
  {
   "word": "untidy",
   "phonetic": ".ʌn'taidi",
   "translation": "a. 不整齐的, 懒散的, 混乱的",
-  "definition": "a. not neat and tidy"
+  "definition": "not neat and tidy"
  },
  {
   "word": "want",
   "phonetic": "wɒnt",
   "translation": "n. 需要的东西, 缺乏, 贫困, 需要\nvt. 要, 希望, 应该, 缺少\nvi. 生活困苦, 需要, 缺少",
-  "definition": "v. have need of\nv. hunt or look for; want for a particular reason\nv. wish or demand the presence of\nv. be without, lack; be deficient in"
+  "definition": "have need of"
  }
 ]
