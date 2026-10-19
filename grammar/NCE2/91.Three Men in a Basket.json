@@ -1,114 +1,29 @@
 {
- "sentences": [
-  {
-   "title": "飞机器相关词汇 Aircraft Vocabulary",
-   "parts": [
-    {
-     "text": "aeroplane: The aeroplane can carry up to 700 passengers."
-    },
-    {
-     "text": "airplane: The airplane can carry up to 700 passengers."
-    },
-    {
-     "text": "aileron: There is an aileron on the surface of each wing."
-    },
-    {
-     "text": "cabin: The passengers were sitting inside the cabin."
-    },
-    {
-     "text": "cockpit: The pilot controls the plane from the cockpit."
-    },
-    {
-     "text": "elevator: The elevator helps lift the plane into the air."
-    },
-    {
-     "text": "fin: The fin is the highest part of the plane."
-    },
-    {
-     "text": "flap: The flaps help the plane to stay in the air."
-    },
-    {
-     "text": "flight deck: The pilot controls the plane from the flight deck."
-    },
-    {
-     "text": "fuselage: The fuselage is the largest part of the plane."
-    },
-    {
-     "text": "hold: The luggage is stored inside the hold."
-    },
-    {
-     "text": "jet engine: The airplane is powered by the jet engine."
-    },
-    {
-     "text": "landing gear: The landing gear supports the plane while it’s on the ground."
-    },
-    {
-     "text": "nose: The nose is the very front of the plane."
-    },
-    {
-     "text": "rudder: The pilot uses the rudder to turn the plane."
-    },
-    {
-     "text": "slat: There are several slats on top of the wings."
-    },
-    {
-     "text": "tail: The tail helps to stabilise the airplane while it’s in the air."
-    },
-    {
-     "text": "tailplane: The tailplane is situated at the back of the plane."
-    },
-    {
-     "text": "undercarriage: The undercarriage supports the plane while it’s on the ground."
-    },
-    {
-     "text": "wing: From my seat in the cabin, I could see the left wing."
-    }
-   ]
-  }
- ],
- "expand": [
-  {
-   "title": "make搭配的词组",
-   "parts": [
-    {
-     "table": {
-      "headers": [
-       "make out",
-       "make up",
-       "make up for",
-       "make for"
-      ],
-      "rows": [
-       [
-        "写出，填写（相当于 write out）",
-        "He made out a cheque of 1,000 dollars and gave it to the secretary."
-       ],
-       [
-        "（勉强）看出，辨认出，听出，理解",
-        "Can you make out what they are talking about? I can’t make out the boss’s handwriting. Jane is angry again. Sometimes I can’t make her out at all. Her moods change quickly. I could not make out what he said."
-       ],
-       [
-        "编造，捏造，虚构",
-        "Every time he played truant, Tom would make up an excuse. He made up a story about two men and a horse."
-       ],
-       [
-        "（给…）化妆/化装",
-        "She always makes herself up/makes up her face before going out. Making up takes up a lot of her time. She spends hours making up in front of the mirror."
-       ],
-       [
-        "补偿，弥补",
-        "I had to walk faster to make up for lost time. She managed to make up for her mistake. I must make up for the time I lost this morning."
-       ],
-       [
-        "（匆匆）走向，向…前进",
-        "While the thief was making for his car, a policeman stopped him."
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习表\"发现/辨认\"的感官结构复现。",
+  "points": [
+   {
+    "title": "感官动词 + 宾语 + doing/do",
+    "explanation": "He noticed the balloon was moving. notice/see/hear + doing（进行中的动作）或 do（完整动作）。",
+    "examples": [
+     {
+      "en": "The police were told that a balloon had been seen.",
+      "cn": "警察被告知有人看见过一只气球。"
      }
-    }
-   ]
-  }
- ],
+    ]
+   },
+   {
+    "title": "表解释的 for 短语",
+    "explanation": "He was surprised at what he saw. at + what 从句表惊讶的对象。",
+    "examples": [
+     {
+      "en": "One of them was holding a pair of binoculars.",
+      "cn": "其中一人拿着一副双筒望远镜。"
+     }
+    ]
+   }
+  ]
+ },
  "exercises": [
   {
    "q": "I lost my lecture notes and had to make ___ a new set.",

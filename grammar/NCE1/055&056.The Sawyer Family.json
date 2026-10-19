@@ -1,222 +1,31 @@
 {
- "grammar": [
-  {
-   "title": "地点的副词",
-   "parts": [
-    {
-     "text": "不及物动词 + 介词 + 名词 副词可以直接修饰动词"
-    },
-    {
-     "table": {
-      "headers": [
-       "go to",
-       "go"
-      ],
-      "rows": [
-       [
-        "school. n."
-       ],
-       [
-        "work. n."
-       ],
-       [
-        "bed. n."
-       ],
-       [
-        "Shanghai. n."
-       ],
-       [
-        "home n. 家 adv. 在家，到家、这是我的家。"
-       ]
-      ]
+ "grammar": {
+  "summary": "本课用一般现在时描述家庭日常作息，学习频率与时间表达。",
+  "points": [
+   {
+    "title": "一般现在时表日常习惯",
+    "explanation": "描述每天重复的作息用一般现在时：The Sawyers live at...; Mr. Sawyer goes to work. 时间状语 every day / in the morning 表习惯性。",
+    "examples": [
+     {
+      "en": "Mrs. Sawyer stays at home every day.",
+      "cn": "Sawyer 太太每天待在家里。"
+     },
+     {
+      "en": "She does the housework.",
+      "cn": "她做家务。"
      }
-    },
-    {
-     "table": {
-      "headers": [
-       "动词",
-       "地点副词"
-      ],
-      "rows": [
-       [
-        "Stay Go Come",
-        "home 在家"
-       ],
-       [
-        "there 那里"
-       ],
-       [
-        "here 这里"
-       ],
-       [
-        "upstairs 楼上"
-       ],
-       [
-        "downstairs 楼下"
-       ]
-      ]
+    ]
+   },
+   {
+    "title": "时间介词 at / in",
+    "explanation": "时间点用 at（at 8 o'clock），一天的上下午用 in（in the morning），具体某天上午用 on。",
+    "examples": [
+     {
+      "en": "He takes them to school every day.",
+      "cn": "他每天送他们上学。"
      }
-    }
-   ]
-  }
- ],
- "sentences": [
-  {
-   "title": "动词三单练习",
-   "parts": [
-    {
-     "text": "What do they usually do ？他们通常做什么？ 名词的复数 V.S. 动词的三单"
-    },
-    {
-     "table": {
-      "headers": [
-       "every day",
-       "usually to do."
-      ],
-      "rows": [
-       [
-        "What",
-        "do es she",
-        "usually do",
-        "in the morning?",
-        "She",
-        "usually",
-        "dust s the table",
-        "in the morning?"
-       ],
-       [
-        "do es he",
-        "in the afternoon",
-        "He",
-        "make s the bed",
-        "in the afternoon"
-       ],
-       [
-        "do you",
-        "in the evening",
-        "You",
-        "shave your beard",
-        "in the evening"
-       ],
-       [
-        "do they",
-        "at noon",
-        "They",
-        "listen to music",
-        "at noon"
-       ],
-       [
-        "do I",
-        "at night",
-        "I",
-        "go to bed",
-        "at night"
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "规则",
-       "名词的复数",
-       "动词的第三人称"
-      ],
-      "rows": [
-       [
-        "+s",
-        "a book → book s",
-        "come → come s"
-       ],
-       [
-        "a cat → cat s",
-        "dust → dust s"
-       ],
-       [
-        "a bottle → bottle s",
-        "make → make s"
-       ],
-       [
-        "My mother dust s the table every day."
-       ],
-       [
-        "辅音+y - ies",
-        "a lady → lad ies",
-        "study → stud ies"
-       ],
-       [
-        "a baby → bab ies",
-        "try → tr ies"
-       ],
-       [
-        "My sister stud ies hard every day."
-       ],
-       [
-        "s/sh/ch/x + es",
-        "a watch → watch es",
-        "watch → watch es"
-       ],
-       [
-        "a bus → bus es",
-        "pass → pass es"
-       ],
-       [
-        "a dish → dish es",
-        "wish → wish es"
-       ],
-       [
-        "My dog watch es TV every night."
-       ],
-       [
-        "辅音 o + es",
-        "a potato → potato es",
-        "go → go es"
-       ],
-       [
-        "a hero → hero es",
-        "do → do es"
-       ],
-       [
-        "My father do es the housework every day."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "The children go to school in the morning."
-    },
-    {
-     "text": "Their father take s them to school."
-    },
-    {
-     "text": "Mrs.Sawyer stay s at home. （元音+y）"
-    },
-    {
-     "text": "She do es the housework."
-    },
-    {
-     "text": "She always eat s her lunch at noon."
-    }
-   ]
-  }
- ],
- "expand": [
-  {
-   "title": "强调主语",
-   "parts": [
-    {
-     "text": "强调主语"
-    },
-    {
-     "text": "She always eat s her lunch. 她吃的是她自己的午餐。"
-    },
-    {
-     "text": "The children always do their homework. 孩子们做的是他们自己的作业。"
-    },
-    {
-     "text": "Mr.Sawyer usually read s his newspaper. 索耶先生读的是他自己的报纸。"
-    }
-   ]
-  }
- ]
+    ]
+   }
+  ]
+ }
 }

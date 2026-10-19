@@ -1,138 +1,27 @@
 {
- "grammar": [
-  {
-   "title": "谓语动词的四种变化之语态",
-   "parts": [
-    {
-     "text": "时态复习 Lesson 86 § 情态复习 Lesson 89 § 同形不同音的词许多词既可以作名词又可以作动作，但有些词为不同的词类使用时发音上，尤其是重音的位置会有变化，这些词有："
-    },
-    {
-     "table": {
-      "headers": [
-       "be 被动的时间、主语单复数",
-       "done 被动的动作",
-       "被动语态 be + done"
-      ],
-      "rows": [
-       [
-        "was/were",
-        "done",
-        "一般过去时被动"
-       ],
-       [
-        "was/were being",
-        "done",
-        "过去进行时被动"
-       ],
-       [
-        "am/is/are",
-        "done",
-        "一般现在时被动"
-       ],
-       [
-        "am/is/are being",
-        "done",
-        "现在进行时被动"
-       ],
-       [
-        "wille be",
-        "done",
-        "一般将来时被动"
-       ],
-       [
-        "would be",
-        "done",
-        "过去将来时被动"
-       ],
-       [
-        "have / has been",
-        "done",
-        "现在完成时被动"
-       ],
-       [
-        "had been",
-        "done",
-        "过去完成时被动"
-       ],
-       [
-        "must * be",
-        "done",
-        "情态 + 被动语态"
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习表\"纪念碑\"的被动叙事与 take shape。",
+  "points": [
+   {
+    "title": "被动叙事（建造历程）",
+    "explanation": "The statue was made / was taken to pieces / was put together again. 被动串起\"制作-运输-重建\"全过程。",
+    "examples": [
+     {
+      "en": "The statue was made in Paris.",
+      "cn": "雕像在巴黎制作。"
      }
-    },
-    {
-     "table": {
-      "headers": [
-       "单词",
-       "动词",
-       "名词",
-       "单词",
-       "动词",
-       "名词"
-      ],
-      "rows": [
-       [
-        "accent",
-        "v. 重读",
-        "n. 重音",
-        "protest",
-        "v. 抗议",
-        "n. 抗议，"
-       ],
-       [
-        "conduct",
-        "v. 指挥；导电",
-        "n. 行为",
-        "record",
-        "v. 记录，录音",
-        "n. 记录，唱片"
-       ],
-       [
-        "conflict",
-        "v. 冲突",
-        "n. 冲突",
-        "refuse",
-        "v. 拒绝",
-        "n. 垃圾"
-       ],
-       [
-        "contest",
-        "v. 争夺，竞争",
-        "n. 比赛",
-        "transport",
-        "v. 运输，运送",
-        "n. 运输"
-       ],
-       [
-        "contrast",
-        "v. 形成对比",
-        "n. 对比",
-        "insult",
-        "v. 侮辱",
-        "n. 侮辱"
-       ],
-       [
-        "export",
-        "v. 输出，出口",
-        "n. 出口",
-        "present",
-        "v. 赠送",
-        "n. 礼物"
-       ],
-       [
-        "increase",
-        "v. 增加",
-        "n. 增加",
-        "product",
-        "v. 生产",
-        "n. 农产品"
-       ]
-      ]
+    ]
+   },
+   {
+    "title": "take shape 表成形",
+    "explanation": "The great statue began to take shape. 字面\"获得形状\"引申为\"初具轮廓\"。",
+    "examples": [
+     {
+      "en": "It was officially presented to the American people.",
+      "cn": "它被正式赠送给美国人民。"
      }
-    }
-   ]
-  }
- ]
+    ]
+   }
+  ]
+ }
 }

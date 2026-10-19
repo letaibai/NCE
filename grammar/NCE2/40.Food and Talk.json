@@ -1,102 +1,29 @@
 {
- "grammar": [
-  {
-   "title": "if虚拟条件句(假设现在)",
-   "parts": [
-    {
-     "text": "If you help me,I will be grateful. 如果你帮我, 我会感激你 (正常语气) If it rains , I will not go . 如果下雨我就不去了 虚拟条件句(假设现在) 第 2 类条件句(通过改变时态“变态”来告知这事不是真实的) 尽管虚拟条件句使用过去时，却并非指过去的时间。所以，if 之后的过去时用法常被称为“非真实的过去”，整个条件句也被称作非真实(虚拟)条件句。 If I were you(如果我是你) 这种说法经常用于提出建议。除了使用would以外我们还可以使用：colud、should、might （记忆口诀：if从句往前推，主句时态4+1） 虚拟条件句经常用来描写完全不可能的事情：If I had longer legs, I ’d be able to run faster. 如果我的腿长一些，我就能跑得更快(有翅膀就要上天~)。"
-    },
-    {
-     "text": "回顾 if真实条件(第 1 类条件句) ，谈论将有可能发生的事情，并且考虑其将来的真实结果。主句用一般将来时，从句用一般现在时或其他形式的现在时(主将从现)。"
-    },
-    {
-     "text": "if + did 从句 谈论想象的情况（假设与现在事实 相反 不相符的），通过修改谓语动词的时态(did/were)以达到虚拟的（不是真的、不可能成真的）目的！"
-    },
-    {
-     "table": {
-      "headers": [
-       "主句则推测想象的结果 would + v.",
-       "从句使用一般过去时"
-      ],
-      "rows": [
-       [
-        "I would be grateful.",
-        "If you helped me,如果你帮了我, 我会感激你(可惜你没有帮我, 我不会感激你)"
-       ],
-       [
-        "it would not be hot.",
-        "If it rained , 如果下雨, 就不会这么热"
-       ],
-       [
-        "you would save him a lot of trouble.",
-        "If you could make him change his mind, 假如你能使他改变主意, 你会使他免了许多麻烦"
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习过去进行时场景与 make 搭配的抽象名词用法。",
+  "points": [
+   {
+    "title": "过去进行时与一般过去时叙事",
+    "explanation": "Last week at a dinner party, the hostess asked me to sit next to Mrs. Rumbold. 叙事主线用过去时，场景背景穿插进行时。",
+    "examples": [
+     {
+      "en": "I tried to make conversation.",
+      "cn": "我试图攀谈。"
      }
-    },
-    {
-     "table": {
-      "headers": [
-       "if 从句中的动词是 be 第一、三人称单数名词之后用 were （所有都用were）",
-       "主句 would(¼) + v.(1)"
-      ],
-      "rows": [
-       [
-        "If I were you,(勿使用was)",
-        "I ’d accept their offer. ¼ 指 colud、should、might、would 其中之一"
-       ],
-       [
-        "If I were in your position,(勿使用was)",
-        "I would act differently.假如我处于你的位置, 我会采取不同的作法"
-       ]
-      ]
+    ]
+   },
+   {
+    "title": "make + 抽象名词",
+    "explanation": "make conversation（攀谈）= 进行该活动，同类还有 make progress / make friends。busy + doing 表「忙于做某事」。",
+    "examples": [
+     {
+      "en": "She was too busy eating.",
+      "cn": "她忙着吃东西。"
      }
-    },
-    {
-     "text": "虚拟条件句有时也可代替条件状语从句来描述颇有可能发生的事情，但比条件状语从句较为“无把握”。"
-    },
-    {
-     "table": {
-      "headers": [
-       "虚拟条件句 无把握",
-       "真实条件句 有把握"
-      ],
-      "rows": [
-       [
-        "If you went by train, you would get there earlier.",
-        "If you go by train, you will get there earlier."
-       ]
-      ]
-     }
-    }
-   ]
-  }
- ],
- "expand": [
-  {
-   "title": "短语动词make、do",
-   "parts": [
-    {
-     "table": {
-      "headers": [
-       "Make 的用法 make +（冠词）+ 名词",
-       "Do 的用法 do + （冠词）+ 名词/动名词"
-      ],
-      "rows": [
-       [
-        "make vt. 的原义为“制造”，但它经常用于一些固定的结构",
-        "与动词 do 固定搭配的一些短语"
-       ],
-       [
-        "make progress（取得进步） make the bed （铺床） make conversation（找话题） make a noise（吵闹） make a promise（保证） make trouble（捣蛋，制造麻烦） make money（挣钱） make a speech （演讲） make a mistake（犯错误） make up one's mind （下定决心，拿定主意）",
-        "do one's best（尽最大努力） do one's homework（做作业） do sb. a favour（帮忙） do a job（干家务） do work（做家务） do exercise（做练习） do business（做生意） do some shopping（买东西，购物） do swimming（游泳） do some reading （读书）"
-       ]
-      ]
-     }
-    }
-   ]
-  }
- ],
+    ]
+   }
+  ]
+ },
  "exercises": [
   {
    "q": "If I were you, I ___ (not be) so confident(自信).",

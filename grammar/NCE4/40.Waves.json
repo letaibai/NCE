@@ -1,240 +1,27 @@
 {
- "grammar": [
-  {
-   "title": "波浪的特征",
-   "parts": [
-    {
-     "text": "These ocean waves are among the earth's most complicated natural phenomena. be among … 是…之一；包括在…之中 The basic features include a crest (the highest point of the wave), a trough (the lowest point), a height (the vertical distance from the trough to the crest), a wave length (the horizontal distance between two wave crests), and a period ( which is the time it takes a wave crest to travel one wave length ). crest n. the top or highest point of something such as a hill or a wave 山峰，浪尖 trough n. the hollow area between two waves 波谷/低谷 …, and a period (which is the time (which) it takes a wave crest to travel one wave length). 补全"
-    },
-    {
-     "text": "He was among the last to leave."
-    },
-    {
-     "text": "Among those present were the Prime Minister and her husband. 表系主（引起了倒装）"
-    },
-    {
-     "text": "Among them will be Debbie's mother, who swam the Channel herself when she was a girl."
-    },
-    {
-     "text": "Designing a secure system is among the most complicated tasks in software engineering.设计一个安全的系统是软件工程中最复杂的任务之一。"
-    },
-    {
-     "text": "The structure of the human brain is among the most complicated biological systems known.人类大脑的结构属于已知最复杂的生物系统之一。"
-    },
-    {
-     "text": "We reached the crest of the hill just as the sun was setting.我们爬到山顶时，太阳正好落下。"
-    },
-    {
-     "text": "The crest of the blue heron is particularly prominent during the mating season. 大蓝鹭的羽冠在繁殖季节尤为明显。"
-    },
-    {
-     "text": "The family crest was engraved on the silver platter. 家族徽章刻在银盘上。"
-    },
-    {
-     "table": {
-      "headers": [
-       "crest of … …的顶端；…的巅峰"
-      ],
-      "rows": [
-       [
-        "It took us over an hour to reach the crest of the hill. surfers riding the crest of the wave Surfers waited for hours to catch the perfect crest of a wave. 冲浪者等了好几个小时，只为抓到一个完美的浪尖。 She is currently on the crest of a wave of popularity following her latest film. 随着最新电影的上映，她正处于人气巅峰。"
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习表因果复现的 be due to 与 provided that。",
+  "points": [
+   {
+    "title": "provided that 表\"只要\"",
+    "explanation": "The waves are harmless, provided (that) they are far away. provided = on condition that，条件连词。",
+    "examples": [
+     {
+      "en": "The sea is harmless provided you respect it.",
+      "cn": "只要你敬畏大海，它就是无害的。"
      }
-    },
-    {
-     "text": "The economy is currently in a deep trough, but analysts predict a recovery soon.经济目前处于一个深谷中，但分析师预测很快会复苏。"
-    },
-    {
-     "text": "Waves are measured from the top (crest) to the bottom (trough). 海浪是从波峰到波谷进行测量的。"
-    },
-    {
-     "text": "From peak to trough more than 8m jobs were lost. 从峰值跌到低谷造成800万份工作流失。"
-    }
-   ]
-  }
- ],
- "sentences": [
-  {
-   "title": "波浪的描述",
-   "parts": [
-    {
-     "text": "Although an ocean wave gives the impression of a wall of water moving in your direction, in actuality waves move through the water leaving the water about where it was . give (sb.) the impression of... 给人一种…的印象 be under the impression (that) … to believe that sth. is true when it is not 误以为… wall n. thing similar to a wall in its appearance or effect （样子或作用）似墙之物 of 做比喻（前面是喻体，后面是本体） in sb.’s direction 朝某人的方向；向某人（看、走等） in actuality = in reality / actually 事实上;实际上 If the water was moving with the wave, the ocean and everything on it would be racing in to the shore with obviously catastrophic results. were ⇒ was 在当代英语中的趋势（虚拟语气）"
-    },
-    {
-     "text": "He gives the impression that he really doesn't care."
-    },
-    {
-     "text": "The sudden movement of the door made it sway slightly and it gave me the impression that it was about to leap out at me."
-    },
-    {
-     "text": "The new software update gives the impression of being much faster than the old version.新的软件更新给人一种比旧版本快得多的印象。"
-    },
-    {
-     "text": "Despite her confidence, her trembling hands gave the impression of deep nervousness.尽管她很自信，但她颤抖的双手给人一种深度紧张的印象。"
-    },
-    {
-     "text": "I'm sorry, I was under the impression that you were the manager."
-    },
-    {
-     "text": "Though the crew were at first under the impression that the lost ship had been found, the contents of the sea-chest proved them wrong."
-    },
-    {
-     "text": "Firefighters battled the walls of flames."
-    },
-    {
-     "text": "The investigators were confronted by a wall of silence."
-    },
-    {
-     "text": "The tidal wave formed a terrifying wall of water."
-    },
-    {
-     "text": "The Titanic turned just in time, narrowly missing the immense wall of ice which rose over 100 feet out of the water beside her."
-    },
-    {
-     "table": {
-      "headers": [
-       "wall of fire 火墙；烈焰屏障",
-       "wall of water 水墙；巨浪（如海啸或洪水）",
-       "wall of noise / sound 震耳欲聋的声音；声音障壁"
-      ],
-      "rows": [
-       [
-        "The firefighters were suddenly confronted by a massive wall of fire as the wind shifted. 风向转变时，消防员们突然面对一面巨大的火墙。"
-       ],
-       [
-        "Witnesses described the tsunami as a terrifying wall of water rushing toward the shore. 目击者将海啸描述为冲向岸边的恐怖水墙。"
-       ],
-       [
-        "As the band walked onto the stage, they were met with a wall of noise from the cheering crowd. 当乐队走上舞台时，迎接他们的是人群发出的排山倒海般的欢呼声。"
-       ]
-      ]
+    ]
+   },
+   {
+    "title": "表\"恐惧\"的 be terrified by",
+    "explanation": "Sailors were terrified by the waves. terrify 的 -ed 感受复现：被吓坏。",
+    "examples": [
+     {
+      "en": "They were terrified by the sight.",
+      "cn": "他们被眼前的景象吓坏了。"
      }
-    },
-    {
-     "text": "Jane is a submissive lamb of a girl."
-    },
-    {
-     "text": "There is always hope that in its labyrinth of musty, dark, disordered rooms a real rarity will be found amongst the piles of assorted junk that litter the floors."
-    },
-    {
-     "table": {
-      "headers": [
-       "a boy of a girl 假小子一样的姑娘",
-       "an angel of a wife 天使般的妻子",
-       "a palace of a house 宫殿般的房子；豪宅",
-       "a garden of Switzerland 花园般的瑞士"
-      ],
-      "rows": [
-       [
-        "She was a real boy of a girl, always climbing trees and playing football with her brothers. 她是个十足的假小子，总是和哥哥们一起爬树、踢足球。"
-       ],
-       [
-        "He knew he was lucky to have such an angel of a wife who supported him through the hardest times. 他知道自己很幸运，能有这样一位在最艰难时期支持他的天使般的妻子。"
-       ],
-       [
-        "After winning the lottery, they moved into a palace of a house with twelve bedrooms and a private lake. 中彩票后，他们搬进了一栋像宫殿一样的豪宅，里面有十二间卧室和一个私人湖泊。"
-       ],
-       [
-        "With its pristine lakes and lush green mountains, people often describe the country as a garden of Switzerland. 凭借其纯净的湖泊和郁郁葱葱的青山，人们常将这个国家描述为花园般的瑞士。"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "I waved, but she didn’t even look in my direction. 我挥了挥手，但她甚至都没朝我这边看一眼。"
-    },
-    {
-     "text": "Fortunately for me, as I was wondering what to do next, there appeared on the horizon a man on horseback, riding in my direction."
-    },
-    {
-     "table": {
-      "headers": [
-       "in the direction of … 朝…的方向",
-       "in every direction 朝四面八方； in all directions 向各个方向"
-      ],
-      "rows": [
-       [
-        "Tom went off in the direction of the post office. They headed off in the direction of the station. 他们朝车站方向走去。 The wind is blowing in the direction of the coast. 风正往海岸方向吹。"
-       ],
-       [
-        "It is a harmless habit, but it litters up her desk to such an extent that every time she opens it, loose bits of paper fall out in every direction. The elephant is not immediately susceptible to such blandishments, however, and usually lashes fiercely with its trunk in all directions. The crowd scattered in all directions when the rain started. 下雨时，人群向四面八方散开。 From the top of the hill, the woods stretched away in every direction. 从山顶望去，森林向四面八方延伸开来。"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "In actuality, it's much more complex than that."
-    },
-    {
-     "text": "The woman he had seen performing on stage was in actuality quite older than she had seemed."
-    },
-    {
-     "text": "The plan seemed simple, but in actuality, it was incredibly complex to execute.这个计划看起来很简单，但实际上执行起来却极其复杂。"
-    },
-    {
-     "text": "He claimed to be a billionaire, but in actuality, he was deeply in debt.他声称自己是亿万富翁，但实际上他负债累累。"
-    },
-    {
-     "text": "If she was here, she could speak on my behalf."
-    },
-    {
-     "text": "If I was rich, I would buy you anything."
-    },
-    {
-     "text": "If it was to rain, the ropes would snap."
-    },
-    {
-     "text": "if I were you ⇒ were I you 语言习惯，不能改"
-    },
-    {
-     "text": "as it were 固定搭配"
-    },
-    {
-     "text": "if it were not for ⇒ were it not for 固定搭配"
-    }
-   ]
-  }
- ],
- "expand": [
-  {
-   "title": "波浪的存在形式",
-   "parts": [
-    {
-     "text": "An ocean wave passing through deep water causes a particle on the surface to move in a roughly circular orbit, drawing the particle first towards the advancing wave, then up into the wave, then forward with it and then -- as the wave leaves the particles behind -- back to its starting point again. particle n. [C] a very small piece of sth. 微粒 passing through deep water 穿过深水区"
-    },
-    {
-     "text": "There’s not a particle of truth in what he said. 他所说的话中没有一丝事实。"
-    },
-    {
-     "text": "Have you ever gotten a piece of sand or dirt or other small particle in your eye? 你曾经有过沙子、灰尘或其他小颗粒进入眼睛的经历吗？"
-    },
-    {
-     "text": "The energy of a light photon or particle is different for each color. 可见光子或粒子的能量因颜色不同而不同。"
-    },
-    {
-     "table": {
-      "headers": [
-       "dust particles 尘埃微粒；粉尘",
-       "tiny particles of soil 极小的土壤颗粒"
-      ],
-      "rows": [
-       [
-        "You can see dust particles dancing in the sunlight streaming through the window. 你可以看到尘埃微粒在透过窗户射进来的阳光中飞舞。"
-       ],
-       [
-        "Plants absorb nutrients that are attached to tiny particles of soil. 植物吸收附着在极小土壤颗粒上的养分。"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "The submarine was detected while passing through deep water far from the coast.这艘潜艇在远离海岸的深水区穿行时被侦测到。"
-    },
-    {
-     "text": "The energy of the storm remained intact while passing through deep water.风暴的能量在穿过深水区时保持完整。"
-    }
-   ]
-  }
- ]
+    ]
+   }
+  ]
+ }
 }

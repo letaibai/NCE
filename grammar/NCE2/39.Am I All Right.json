@@ -1,118 +1,27 @@
 {
- "grammar": [
-  {
-   "title": "直接引语和间接引语",
-   "parts": [
-    {
-     "text": "如果直接引语是问句，变为间接引语时，主句不说 He said，而用 He asked；told 可以后跟问句，还可以跟陈述句。直接引语是表示命令、请求、建议的祈使句通常可用适当的动词后跟不定式来转述，常用的这类动词 有 advise，ask，tell，order，command，warm，invite 等，这些动词后往往有间接宾语，在转述这类祈使句的否定形式时，必须将 not 放在带 to 的不定式之前："
-    },
-    {
-     "text": "直接引语的疑问句变为间接引语的疑问句时引号和问号不再使用，且直接疑问句中的倒装语序在转述疑问句里要还原为陈述句语序（主语+动词），有必要还要改变时态。"
-    },
-    {
-     "table": {
-      "headers": [],
-      "rows": [
-       [
-        "if 或 whether whether 表示的怀疑程度比 if 稍大",
-        "She asked if / whether you were tired. 因为是陈述句所以助动词 do/does 和did 在转述中不再使用。"
-       ],
-       [
-        "I wonder if / whether he ’s phoned the doctor.ask\\want to know\\wonder 等后面的 if 和 whether 通常可以互换"
-       ],
-       [
-        "She asked me whether I wanted tea or coffee. 表示两者挑一时更常用 whether"
-       ],
-       [
-        "He wants to know whether or not we want dinner.有 or not 时，通常用 whether 引导(Did the children say they’d eaten?)"
-       ],
-       [
-        "Tom asked if / whether Jack would arrive the next day.通常用原来的疑问词"
-       ],
-       [
-        "Jane asked w h y I hadn't written to her.针对主语提问时态和情态助动词照常有变化，但语序保持不变。"
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习宾语从句中疑问语序的转化与 ask/wonder。",
+  "points": [
+   {
+    "title": "间接疑问句",
+    "explanation": "直接引语 Am I all right? → He asked if he was all right. 三步转换：加 if、语序改陈述、时态回移。",
+    "examples": [
+     {
+      "en": "He asked whether Mr. Gilbert's operation had been successful.",
+      "cn": "他问 Gilbert 先生的手术是否成功。"
      }
-    },
-    {
-     "text": "She reminded / told me to turn off all the lights."
-    },
-    {
-     "text": "The teacher was telling /ordering /commanding her students to close their books."
-    },
-    {
-     "table": {
-      "headers": [
-       "tell sb. to do sth.",
-       "ask sb. to do sth."
-      ],
-      "rows": [
-       [
-        "The teacher told me (not) to open the door.",
-        "I'll ask Steve to take it.我要请史蒂夫接受。"
-       ]
-      ]
+    ]
+   },
+   {
+    "title": "relieve 表放心",
+    "explanation": "be relieved 表\"松了口气\"的状态：He was relieved. 医患对话场景高频。",
+    "examples": [
+     {
+      "en": "The doctor told him to stay in bed for another two days.",
+      "cn": "医生让他再卧床两天。"
      }
-    },
-    {
-     "table": {
-      "headers": [
-       "suggest 转述建议（用should）",
-       "insist 转述要求（用should）",
-       "hope 转述期望"
-      ],
-      "rows": [
-       [
-        "He suggests that they should sell the flat.",
-        "He still insisted that we should help him.",
-        "I hope they won’t sell the flat."
-       ]
-      ]
-     }
-    }
-   ]
-  }
- ],
- "sentences": [
-  {
-   "title": "直接引语变间接引语练习",
-   "parts": [
-    {
-     "table": {
-      "headers": [
-       "直接引语",
-       "间接引语"
-      ],
-      "rows": [
-       [
-        "'I ' m very tired,' he said . 一般过去",
-        "He said that he was very tired.直引里的时态是过去，所以间引里要倒退一个时态。"
-       ],
-       [
-        "'I ' m very tired,' he says . 一般现在",
-        "He said that he is very tired.直引里的时态是一般现在，间引内容时态不变"
-       ],
-       [
-        "' Are they tired?' she asked .",
-        "She asked if / whether they were tired?if、whether 引导 一般疑问句。"
-       ],
-       [
-        "' Will Jack arrive tomorrow?' Tom asked .",
-        "Tom asked if / whether Jack wloud arrive next day?will 倒退一个时态为wloud,tomorrow是说话的第二天，我们转述时要改为下一天。"
-       ],
-       [
-        "' Have you ever been abroad?' Tom asked .",
-        "Tom asked if / whether you/I had ever been abroad?Tom 问\"别人\"还是问\"我\"不确定"
-       ],
-       [
-        "'Why didn't he write to me?' she asked .",
-        "She asked why he hadn't writed to her ?倒退时态，变换人称"
-       ]
-      ]
-     }
-    }
-   ]
-  }
- ]
+    ]
+   }
+  ]
+ }
 }

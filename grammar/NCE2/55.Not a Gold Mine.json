@@ -1,216 +1,27 @@
 {
- "grammar": [
-  {
-   "title": "非谓语动词",
-   "parts": [
-    {
-     "text": "什么是非谓语动词？ 非谓语动词是指在句子中不充当谓语（主要动词）的动词形式。它们不具备时态和人称的变化，并且通常以动词的基本形式、动名词或过去分词的形式出现。非谓语动词在句子中通常用作动词、形容词或副词的补语，或者用作句子的主语、宾语、宾语补足语、定语或状语。 什么时候用非谓语动词？"
-    },
-    {
-     "table": {
-      "headers": [
-       "当名词使用(宾/主/表)",
-       "做状语、定语"
-      ],
-      "rows": [
-       [
-        "to do 不定式",
-        "to eat、to swim、to study ...",
-        "It was his job to repair bicycles and ... 形式主语(真正主语为 to do;当doing做主语太长也可以使用it代替哟~)"
-       ],
-       [
-        "doing 动名词",
-        "eating、swimmin、studying ...",
-        "Fishing is my favourite sport .（To fish可替换Fishing，N年前区别在于doing经常做、to do 偶尔做，但现在无区别）"
-       ],
-       [
-        "Passing planes can be heard night and day .定语"
-       ],
-       [
-        "done 过去分词",
-        "eaten、swum、studied ...",
-        "I was the only passenger left on the bus .定语 Tired of sleeping on the floor, a young man saved up ... 做状语"
-       ],
-       [
-        "to do",
-        "to + v. (动词原型) ...",
-        "I have a lot of homework to do. 定语"
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习 despite 表让步与 used to 表曾经存在。",
+  "points": [
+   {
+    "title": "despite 表让步",
+    "explanation": "Despite its popularity, ... = 尽管（= in spite of），后接名词，不接从句。",
+    "examples": [
+     {
+      "en": "Despite the name, the machine is not a gold mine.",
+      "cn": "尽管名字如此，这台机器并非金矿。"
      }
-    },
-    {
-     "text": "非谓语动词在句子中的使用方式和功能取决于它们在句子结构中的位置和上下文。常见的用法包括不定式短语、动名词短语、分词短语、独立非谓语动词等。非谓语动词的正确使用对于理解和构建复杂句子非常重要。"
-    },
-    {
-     "table": {
-      "headers": [
-       "分类",
-       "doing 主动",
-       "to do 目的",
-       "done 被动"
-      ],
-      "rows": [
-       [
-        "特殊用法",
-        "相当于名词来做主语、宾语、表语等",
-        "只能用于定语、状语"
-       ],
-       [
-        "非谓语动词？",
-        "单独出现在句子里(句子里已有谓语或者特殊用法时)，否则 be doing 是正在进行时、have done 是现在完成时等"
-       ],
-       [
-        "做为主语",
-        "Fishing is my favourite sport.",
-        "To fish is my favourite sport.",
-        "-"
-       ],
-       [
-        "Repairing bicycles was his job.(不能换为形式主语)",
-        "It was his job to repair bicycles ."
-       ],
-       [
-        "做为(介)宾语",
-        "I often fish for hours without catching anything .",
-        "介后可以接：名词、代词和doing"
-       ],
-       [
-        "做为(动)宾语",
-        "Both men started running through the trees .",
-        "Both men started to run through the trees."
-       ],
-       [
-        "做为表语",
-        "My dream is travelling around the world .",
-        "My dream is to travel around the world."
-       ],
-       [
-        "修饰 句子/ 名词 做定语",
-        "Passing planes can be heard night and day .",
-        "I have a lot of homework to do .",
-        "I was the only passenger left on the bus ."
-       ],
-       [
-        "修饰 句子/名词 做状语",
-        "Looking round , I realized that I was the only passenger.",
-        "I sat in the front of the bus to get a good view ...",
-        "Armed with the new machine , they went into the cave.."
-       ]
-      ]
+    ]
+   },
+   {
+    "title": "used to 表曾经",
+    "explanation": "The machine was used in a cave... used to do 表过去常常；be used to doing 表习惯于，两者勿混。",
+    "examples": [
+     {
+      "en": "It is used for detecting gold.",
+      "cn": "它用来探测黄金。"
      }
-    },
-    {
-     "table": {
-      "headers": [
-       "动词的宾语",
-       "作为主语",
-       "作为定语",
-       "作为状语",
-       "宾语补足语"
-      ],
-      "rows": [
-       [
-        "I enjoy swimming in the pool.（我喜欢在泳池里游泳。） She wants to learn a new language.（她想要学一门新语言。）"
-       ],
-       [
-        "Reading is my favorite hobby.（阅读是我的最爱。） Swimming in the ocean can be dangerous.（在海洋中游泳可能很危险。）"
-       ],
-       [
-        "The cooking class starts at 3 PM.（烹饪课下午3点开始。） The book written by the famous author is on the shelf.（那本由著名作家写的书在书架上。）"
-       ],
-       [
-        "She left the room crying.（她边哭边离开了房间。） He worked hard to pass the exam.（他努力学习以通过考试。）"
-       ],
-       [
-        "She found it easy to solve the math problem.（她觉得解决数学问题很容易。） They consider him a promising actor.（他们认为他是一位有前途的演员。）"
-       ]
-      ]
-     }
-    }
-   ]
-  }
- ],
- "sentences": [
-  {
-   "title": "替换同义词写作",
-   "parts": [
-    {
-     "table": {
-      "headers": [
-       "高分区",
-       "低分区"
-      ],
-      "rows": [
-       [
-        "In spite of this, many people are confident that 'The Revealer' may reveal something of value fairly soon.",
-        "something of value = something valuable （of + 抽象名词 = 对应的形容词） something of great value = something very valuable"
-       ],
-       [
-        "Your final exam is of great importance.",
-        "Your final exam is very important."
-       ],
-       [
-        "Chinese and English are of great difference.",
-        "Chinese and English are very different."
-       ],
-       [
-        "Studying English is of great importance.（85分）",
-        "Studying English is very important. (75分)"
-       ],
-       [
-        "It is of great importance to study English .（90分）",
-        "To study English is very important.(75分)"
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "use vt. 用，使用，运用，应用",
-       "used to do sth.",
-       "be used to do sth.",
-       "be used to sth. / doing sth."
-      ],
-      "rows": [
-       [
-        "May I use your dictionary/car? I don’t know how to use the word."
-       ],
-       [
-        "过去常常做某事(现在不这样做了)",
-        "The machine was used in a cave near the seashore where pirates used to hide gold. I used to see him often. He used to buy two bars of chocolate."
-       ],
-       [
-        "被用来去做某事",
-        "The machine has been used to detect gold which has been buried in the ground."
-       ],
-       [
-        "习惯于某物 / 做某事",
-        "I am used to staying up late. She didn't like this district at first, but she is used to it now. I am used to swimming in cold water. I couldn't stand the noise at first but I am used to it now."
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "原型 (Base Form)",
-       "过去式 (Past Tense)",
-       "过去分词 (Past Participle)",
-       "现在分词"
-      ],
-      "rows": [
-       [
-        "dig",
-        "dug",
-        "dug",
-        "digging"
-       ]
-      ]
-     }
-    }
-   ]
-  }
- ]
+    ]
+   }
+  ]
+ }
 }

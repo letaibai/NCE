@@ -1,253 +1,27 @@
 {
- "grammar": [
-  {
-   "title": "倒装句",
-   "parts": [
-    {
-     "text": "倒装句结构 § Those kings will always be there to guide you. 那些逝去的国王们将会一直守护着你。"
-    },
-    {
-     "text": "肯定倒装: So + 助动词 + sb.(主语)"
-    },
-    {
-     "text": "否定倒装: N either + 助动词 + sb.(主语)"
-    },
-    {
-     "text": "I will always be there to guide you too. = So will I. 我也会的。"
-    },
-    {
-     "table": {
-      "headers": [
-       "情况",
-       "例句"
-      ],
-      "rows": [
-       [
-        "时态一致，人称一致",
-        "A: I like Lee Hong. B: I like Lee Hong, too. = So do I."
-       ],
-       [
-        "第三人称单数",
-        "A: I hate money. B: I hate money, too. = So do I. C: She hates money, too. = So does she."
-       ],
-       [
-        "情态动词",
-        "A: I can do it. B: I can do it, too. = So can I. C: He can do it, too. = So can he."
-       ],
-       [
-        "一般过去",
-        "A: They were young. B: I was young, too. = So was I. C: She was young, too. = So was she."
-       ],
-       [
-        "A: I went to bed late. B: I went to bed late too. = So did I. C: Sam went to bed late, too. = So did Sam."
-       ],
-       [
-        "一般过去否定",
-        "I didn’t go to school last week. I didn’t go to school, either. = N either did I. She didn’t go to school either. = N either did she."
-       ],
-       [
-        "否定倒装",
-        "I am not a nurse. I am not a nurse, either. = N either am I. She is not a nurse, either. = N either is she."
-       ],
-       [
-        "现在完成时否定",
-        "I haven’t had breakfast. I haven’t had breakfast either. = N either have I. 优先选择助动词 He hasn’t had breakfast either. = N either has he. 选择助动词"
-       ],
-       [
-        "一般过去时否定",
-        "I was not a good student. I was not a good student either. = N either was I. Sara was not a good student either. = N either was she."
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习 neither/nor 的否定呼应与变化表达。",
+  "points": [
+   {
+    "title": "so 与 neither 的呼应",
+    "explanation": "肯定附和用 So + 助动词 + 主语：So have I.（我也是）；否定附和用 Neither/Nor + 助动词 + 主语：Neither have I.（我也没有）。助动词与前句保持一致。",
+    "examples": [
+     {
+      "en": "I haven't got any small change. Neither have I.",
+      "cn": "我没有零钱。我也没有。"
      }
-    }
-   ]
-  }
- ],
- "sentences": [
-  {
-   "title": "倒装句练习",
-   "parts": [
-    {
-     "table": {
-      "headers": [],
-      "rows": [
-       [
-        "child",
-        "Have you got any chocolate?",
-        "Have you got any envelopes?"
-       ],
-       [
-        "mother",
-        "I haven't got any."
-       ],
-       [
-        "I've got no chocolate.",
-        "I've got no envelopes."
-       ],
-       [
-        "I've got none."
-       ],
-       [
-        "father",
-        "I haven't any either. = Neither have I."
-       ]
-      ]
+    ]
+   },
+   {
+    "title": "frightened 与 frightening 辨析",
+    "explanation": "-ed 形容词描述人的感受（I'm frightened 我感到害怕），-ing 形容词描述事物属性（It's frightening 它吓人）。",
+    "examples": [
+     {
+      "en": "None of us are afraid of the dark.",
+      "cn": "我们没有人怕黑。"
      }
-    },
-    {
-     "text": "There isn't any milk in that bottle . = There is no milk in that bottle."
-    },
-    {
-     "text": "There aren't any books on that shelf . = There are no books on that shelf."
-    },
-    {
-     "text": "I haven't got any money. = I have no money ."
-    },
-    {
-     "text": "There isn't any coffee in this tin . = There is no coffee in this tin."
-    },
-    {
-     "text": "I didn't see any cars in the street . = I saw no cars in the street."
-    },
-    {
-     "table": {
-      "headers": [
-       "Have you got any beer?",
-       "Have you got any milk?",
-       "Have you got any envelopes?",
-       "Have you got any magazines?",
-       "Have you got any bread?",
-       "Have you got any xxx ?"
-      ],
-      "rows": [
-       [
-        "No, I haven't got any beer. I've got no beer.",
-        "No, I haven't got any milk. I've got no milk.",
-        "No, I haven't got any envelopes. I've got no envelopes."
-       ],
-       [
-        "I've got none."
-       ],
-       [
-        "No, I haven't got any magazines. I've got no magazines.",
-        "No, I haven't got any bread. I've got no bread.",
-        "No, I haven't got any xxx . I've got no xxx ."
-       ],
-       [
-        "I've got none."
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "I'm tired.",
-       "I'm hungry.",
-       "I met him.",
-       "I was at church yesterday.",
-       "I'm not tired.",
-       "I'm not hungry.",
-       "I didn't meet him.",
-       "I like ice cream.",
-       "I can swim.",
-       "I'm a doctor.",
-       "I wasn't at church yesterday.",
-       "I don't like ice cream.",
-       "I can ' t swim.",
-       "I'm not a doctor."
-      ],
-      "rows": [
-       [
-        "So am I. I'm tired, too.",
-        "So am I. I'm hungry, too",
-        "So did I.I met him, too",
-        "So was I.I was at church yesterday, too."
-       ],
-       [
-        "Neither am I. = I'm not tired, either.",
-        "Neither am I. = I'm not hungry, either.",
-        "Neither did I. = I didn't meet him either."
-       ],
-       [
-        "So do I.I like ice cream, too.",
-        "So can I.I can swim,too.",
-        "So am I.I'm a doctor,too.",
-        "Neither was I. = I wasn't church yesterday either."
-       ],
-       [
-        "Neither do I. = I don't like ice cream either.",
-        "Neither can I. = I can't swim either.",
-        "Neither am I. = I am not a doctor either."
-       ]
-      ]
-     }
-    }
-   ]
-  }
- ],
- "expand": [
-  {
-   "title": "坐飞机",
-   "parts": [
-    {
-     "text": "the international flight 国际航班"
-    },
-    {
-     "text": "the domestic flight 国内航班"
-    },
-    {
-     "text": "the flight number 航班号"
-    },
-    {
-     "text": "the business class 商务客舱"
-    },
-    {
-     "text": "the economy \\ tourist class 经济舱"
-    },
-    {
-     "text": "the air\\flight ticket 机票"
-    },
-    {
-     "text": "a boarding check 登机牌"
-    },
-    {
-     "text": "the connecting flight 转机"
-    },
-    {
-     "text": "the non-stop flight 直飞(无停留航班)"
-    },
-    {
-     "text": "the checked baggage 托运的行李"
-    },
-    {
-     "text": "the carry-on baggage 随身行李"
-    },
-    {
-     "text": "the baggage claim area 行李领取处"
-    },
-    {
-     "text": "baggage tag 行李牌"
-    },
-    {
-     "text": "luggage cart 行李推车"
-    },
-    {
-     "text": "luggage 外出旅行时所带的物品"
-    },
-    {
-     "text": "baggage 行李的通称"
-    },
-    {
-     "text": "May I have a pillow & blanket? 请给我拿一个枕头&毯子。"
-    },
-    {
-     "text": "Can you put your seat upright? 您可以把座位升直吗？"
-    },
-    {
-     "text": "May I recline my seat? 我可以放下我的座椅吗？"
-    }
-   ]
-  }
- ]
+    ]
+   }
+  ]
+ }
 }

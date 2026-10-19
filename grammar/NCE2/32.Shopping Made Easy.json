@@ -1,139 +1,27 @@
 {
- "grammar": [
-  {
-   "title": "形容词/副词的同级比较",
-   "parts": [
-    {
-     "text": "形容词/副词的原级比较 比较对象：可以多样化，不光可以和别人比，也可以与从前比，与可能比等。 比较状语从句含有或暗含有“与…相比”的意思。当句子里两个动词相同、时态也一样时， 则第二个动词可以省略，比较从句就成了含蓄的从句。如果对比的东西很明显，那么为了避免重复，从句 中有些成分、甚至整个从句都省略，因此这类句子往往不完整。"
-    },
-    {
-     "table": {
-      "headers": [
-       "复习：最高级 §",
-       "复习：比较级 §"
-      ],
-      "rows": [
-       [
-        "the adj. / adv. 的最高级（＋介词短语表示比较的范围)",
-        "adj. / adv.的比较级（ + than 比较的对象）"
-       ],
-       [
-        "范围：三者或以上",
-        "范围：通常用于两者之间比较"
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习 so...that 结果状语与 make it easy 结构。",
+  "points": [
+   {
+    "title": "make + it + 形容词 + to do",
+    "explanation": "it 作形式宾语：Shopping made easy. / People are not so honest as they once were. as...as 比较结构的否定。",
+    "examples": [
+     {
+      "en": "Shopping made easy.",
+      "cn": "购物变简单了。"
      }
-    },
-    {
-     "text": "结构： as ＋adj./adv. ＋ as ＋比较的对象 (因为比较的是同一个级别的，通常使用的是形容词/副词的 原型 )"
-    },
-    {
-     "text": "翻译：“和... 相比一样的 ...”"
-    },
-    {
-     "text": "I am as tall as you. 我和你相比一样的高(我与你一样高)"
-    },
-    {
-     "text": "He works as hard as before. 他工作与以前相比一样的努力(他和以前一样努力工作)"
-    },
-    {
-     "text": "I will do it as quickly as possible. 我会尽快做的。"
-    },
-    {
-     "text": "The thieves dropped the torch and ran away as quickly as they could ."
-    },
-    {
-     "text": "it 's not as good as the expensive one ."
-    },
-    {
-     "table": {
-      "headers": [
-       "more…than…",
-       "less…than…",
-       "as + adj./adv. + as…",
-       "not so … as…",
-       "not as … as…"
-      ],
-      "rows": [
-       [
-        "People aren’t so kind as they used to be . No, they ’re becoming less kind. 是的，他们变得不那么友善了。 He is as quick in answering as his sister (is). He answers as quickly as his sister (does). He is not so/as quick as his sister."
-       ]
-      ]
+    ]
+   },
+   {
+    "title": "as...as 比较结构",
+    "explanation": "not so...as = 不如：People are not so honest as they once were.（人们不如以前诚实了）第一个 as 可换 so。",
+    "examples": [
+     {
+      "en": "One Monday, there were fewer people in the shop than usual.",
+      "cn": "一个星期一，商店里的人比往常少。"
      }
-    }
-   ]
-  }
- ],
- "sentences": [
-  {
-   "title": "形容词/副词的比较对象",
-   "parts": [
-    {
-     "table": {
-      "headers": [
-       "比较对象的多样性",
-       "as+adj./adv. + as + 比较的对象",
-       "not + so / as + adj./adv. + as + 比较的对象",
-       "时间介词",
-       "过去式表时间",
-       "used to do(动词原型) §",
-       "过去与现在",
-       "与可能性",
-       "与想像"
-      ],
-      "rows": [
-       [
-        "Her mother is as beautiful as before. 她的妈妈像以前一样漂亮。",
-        "Her mother is not as beautiful as before. 她妈妈不像以前那么漂亮了。"
-       ],
-       [
-        "Her mother is as beautiful as she was . 她的妈妈像以前一样漂亮。",
-        "Her mother is not as beautiful as she was . 她妈妈不像以前那么漂亮了。"
-       ],
-       [
-        "Her mother is as beautiful as she used to be . 她的妈妈像过去一样漂亮。",
-        "Her mother is not as beautiful as she used to be . 她妈妈不像过去那么漂亮了。"
-       ],
-       [
-        "Travelling was as easy as today. 旅行像现在这样容易。",
-        "Travelling was not as easy as it is today. 旅行不像现在这样容易。"
-       ],
-       [
-        "I will do it as quickly as possible. 可能的",
-        "I will do it as quickly as I can . 能够的"
-       ],
-       [
-        "You are as clever as I think . 和我想的一样",
-        "The problem was not as complicated as we thought . 与过去想"
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "原型 (do)",
-       "过去式 (did)",
-       "过去分词 (done)",
-       "现在分词(doing)"
-      ],
-      "rows": [
-       [
-        "choose",
-        "chose",
-        "chosen",
-        ""
-       ],
-       [
-        "wrap",
-        "wrapped",
-        "wrapped",
-        "wrapping"
-       ]
-      ]
-     }
-    }
-   ]
-  }
- ]
+    ]
+   }
+  ]
+ }
 }

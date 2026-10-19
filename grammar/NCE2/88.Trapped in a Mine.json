@@ -1,119 +1,27 @@
 {
- "sentences": [
-  {
-   "title": "常与run搭配的组合",
-   "parts": [
-    {
-     "table": {
-      "headers": [],
-      "rows": [
-       [
-        "run out of 用完，耗尽",
-        "They are running out of food and drink. He has run out of money."
-       ],
-       [
-        "run after 追赶，追逐",
-        "Seeing that his sister was annoyed, he ran after her to apologize."
-       ],
-       [
-        "run over 在…驶过/辗过",
-        "The car ran over a snake/his legs."
-       ],
-       [
-        "run in 试车，试转（发动机等）",
-        "John is running his new car in. Run in the engine before you start work."
-       ],
-       [
-        "run into 偶然碰见",
-        "I ran into Mary and Jane in the flower shop. He ran into Sterlings while travelling in Italy."
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习表\"困境\"的结构与过去完成时叙事（救援）。",
+  "points": [
+   {
+    "title": "过去完成时 + rescue 叙事",
+    "explanation": "They had been trapped for seventeen hours before help arrived. had been trapped 表受困状态先于救援出现。",
+    "examples": [
+     {
+      "en": "The men were trapped in the mine.",
+      "cn": "那些人被困在矿井里。"
      }
-    }
-   ]
-  }
- ],
- "expand": [
-  {
-   "title": "复习if条件状语从句",
-   "parts": [
-    {
-     "text": "问：为什么要区别真实条件句、虚拟条件句 答：因为它们结构不一样。是为了表达不同的情态、可能性和逻辑关系。这区分是语法和语言逻辑的一部分，以确保表达者能够明确传达他们所想要表达的条件和结果之间的关系。 If真实条件句（假设将来： 主将从现 ） If虚拟条件句 § 从句往前推，主句4+1 将来同现在 区分真实条件句和虚拟条件句的目的是为了确保语言表达的准确性，使听者或读者能够理解说话者的意图。这两种条件句有不同的语法结构和语境，有助于传达不同类型的信息。"
-    },
-    {
-     "text": "用于表达可能或很可能发生的情况。"
-    },
-    {
-     "text": "这种条件句通常使用\"if\"（如果）引导，其谓语动词使用一般现在时。"
-    },
-    {
-     "text": "通常表示客观、真实、经常发生的情况，如科学事实、普遍真理等。"
-    },
-    {
-     "table": {
-      "headers": [
-       "时间",
-       "If从句",
-       "主句"
-      ],
-      "rows": [
-       [
-        "假设 过去",
-        "过去 的各种时态",
-        "过去将来 时"
-       ],
-       [
-        "假设 现在",
-        "现在 的各种时态",
-        "一般 将来 时"
-       ],
-       [
-        "假设 将来",
-        "一般 现在 时(替代将来时)"
-       ]
-      ]
+    ]
+   },
+   {
+    "title": "keep + 形容词表保持状态",
+    "explanation": "keep calm = 保持冷静，keep + 形容词（keep quiet/keep warm）。",
+    "examples": [
+     {
+      "en": "They were told to keep calm and wait.",
+      "cn": "他们被告知保持冷静等待。"
      }
-    },
-    {
-     "text": "用于表达不太可能或不可能发生的情况，或用于表达假设、愿望、建议等。"
-    },
-    {
-     "text": "这种条件句通常包括\"if\"引导，但其谓语动词使用过去时（对现在情况的假设）或过去完成时（对过去情况的假设）。"
-    },
-    {
-     "table": {
-      "headers": [
-       "时间范围",
-       "If从句",
-       "主句"
-      ],
-      "rows": [
-       [
-        "假设过去",
-        "had done",
-        "colud would should might",
-        "+ have done"
-       ],
-       [
-        "假设现在",
-        "did/were",
-        "+ do"
-       ],
-       [
-        "假设将来",
-        "did/were",
-        "+ do"
-       ],
-       [
-        "were to do"
-       ],
-       [
-        "should do"
-       ]
-      ]
-     }
-    }
-   ]
-  }
- ]
+    ]
+   }
+  ]
+ }
 }

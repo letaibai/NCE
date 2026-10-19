@@ -1,48 +1,27 @@
 {
- "grammar": [
-  {
-   "title": "小测试",
-   "parts": [
-    {
-     "text": "The new school, which has just been completed, is a fine building. ℘"
-    },
-    {
-     "text": "He denied that he had taken it.(denied/refused)"
-    },
-    {
-     "text": "The waiter fetched me a clean glass.(took/fetched)"
-    },
-    {
-     "text": "A bird flew past my window. (past/passed)"
-    },
-    {
-     "text": "I spent the afternoon watching the match.(watching/following)"
-    },
-    {
-     "text": "Ships continuously cross the sea.(continuously/ continually )"
-    },
-    {
-     "text": "The bank has been robbed .( stolen /robbed)"
-    },
-    {
-     "table": {
-      "headers": [
-       "原型",
-       "过去式",
-       "过去分词",
-       "现在分词"
-      ],
-      "rows": [
-       [
-        "nod",
-        "nodded",
-        "nodded",
-        "nodding"
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习过去将来时 would do 与意愿表达。",
+  "points": [
+   {
+    "title": "过去将来时 would do",
+    "explanation": "从过去视角看将来：The dentist asked if he wanted to tell him something. would do 表过去将来。",
+    "examples": [
+     {
+      "en": "The dentist could not find anything wrong with his teeth.",
+      "cn": "牙医没发现他的牙有什么问题。"
      }
-    }
-   ]
-  }
- ]
+    ]
+   },
+   {
+    "title": "in answer to 表\"作为回应\"",
+    "explanation": "in answer to + 名词 = 作为对……的回答，书面语。",
+    "examples": [
+     {
+      "en": "In answer to these questions, the patient said nothing.",
+      "cn": "病人对这些问题的回答是一言不发。"
+     }
+    ]
+   }
+  ]
+ }
 }

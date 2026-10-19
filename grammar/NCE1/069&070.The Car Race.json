@@ -1,148 +1,31 @@
 {
- "grammar": [
-  {
-   "title": "There be 句型的过去式",
-   "parts": [
-    {
-     "text": "一般过去式的 Be 曾经有 句型转换 There was a river here before. 从前这里有一条河。"
-    },
-    {
-     "table": {
-      "headers": [],
-      "rows": [
-       [
-        "There be (was, were) + 地点 （与 have 表“拥有”有明显的区别）",
-        "There was …+ 单数名词",
-        "就近原则"
-       ],
-       [
-        "There were …+ 复数名词"
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习 there be 的过去式与一般过去时描述赛事。",
+  "points": [
+   {
+    "title": "There was / There were",
+    "explanation": "过去存在的场景用 there be 的过去式：单数/不可数用 was，复数用 were。There were hundreds of people at the race.",
+    "examples": [
+     {
+      "en": "There was a car race near our town last year.",
+      "cn": "去年我们镇附近有一场汽车比赛。"
+     },
+     {
+      "en": "There were twenty cars in the race.",
+      "cn": "有二十辆车参加比赛。"
      }
-    },
-    {
-     "table": {
-      "headers": [
-       "陈述句",
-       "否定句 （was/were + not）",
-       "疑问句（was/were 提前）"
-      ],
-      "rows": [
-       [
-        "There were hundred s of guests in the hotel yesterday . 酒店 昨天 有 很多客人。",
-        "There were not hundred s of guests in the hotel yesterday . 酒店 昨天 没 有 很多客人。",
-        "Were there hundred s of guests in the hotel yesterday ? 酒店 昨天 有 很多客人吗？"
-       ],
-       [
-        "There were many foreigner s in Beijing during the Olympic Games. 奥运会时北京的老外特别的多。",
-        "There were not many foreigner s in Beijing during the Olympic Games. 奥运会时北京的老外特别的 不 多。",
-        "Were there many foreigner s in Beijing during the Olympic Games? 奥运会时北京的老外特别的多吗？"
-       ]
-      ]
+    ]
+   },
+   {
+    "title": "last 表过去时间",
+    "explanation": "last year / last week / last Sunday 都是过去时间标志，谓语用过去式。",
+    "examples": [
+     {
+      "en": "My wife and I were at the race.",
+      "cn": "我和妻子观看了比赛。"
      }
-    },
-    {
-     "text": "Was there a river here before? 从前这里有一条河吗？"
-    },
-    {
-     "text": "Were there so many subway line s in Beijing? 以往北京也有这么多地铁线吗？"
-    },
-    {
-     "text": "Was there litter(表杂物、垃圾时不可数) on the pavement yesterday？人行道上昨天有垃圾吗？"
-    }
-   ]
-  }
- ],
- "sentences": [
-  {
-   "title": "When were they there？",
-   "parts": [
-    {
-     "text": "介词 + 时间点 完成以下句子，用适当的介词填空。"
-    },
-    {
-     "table": {
-      "headers": [
-       "at + 点(具体时间点)",
-       "on + 天(某一天)",
-       "in + 月、季、年(较宽泛的时间范围)"
-      ],
-      "rows": [
-       [
-        "I have a meeting at 9 o'clock. （我九点有个会议。） The concert starts at 7:30 PM. （音乐会于晚上七点半开始。） She will arrive at midnight. （她将在午夜抵达。）"
-       ],
-       [
-        "I have a doctor's appointment on Monday. （我星期一有个医生的约会。） We typically go grocery shopping on Saturdays. （我们通常在星期六购物日购买食品。） The party is on New Year's Eve. （派对在除夕夜举行。）"
-       ],
-       [
-        "My birthday is in August. （我的生日在八月。） We usually take vacations in the summer. （我们通常在夏季度假。） The company's fiscal year ends in December. （公司的财政年度在十二月结束。）"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "We were at the stationer’s on Monday."
-    },
-    {
-     "text": "We were there at four o’clock ."
-    },
-    {
-     "text": "They were in Australia in September."
-    },
-    {
-     "text": "They were there in spring."
-    },
-    {
-     "text": "On November 25th, they were in Canada."
-    },
-    {
-     "text": "They were there in 1990."
-    }
-   ]
-  }
- ],
- "expand": [
-  {
-   "title": "There be 名句",
-   "parts": [
-    {
-     "text": "There be 名句 其它名句赏析"
-    },
-    {
-     "text": "Where there is a will, there is a way. 有志者, 事竟成。"
-    },
-    {
-     "text": "Where there is great love, there are always miracles.哪里有真爱存在，哪里就有奇迹。"
-    },
-    {
-     "text": "Without ideal, there is no secure direction; without direction, there is no life.没有理想，就没有坚定的方向; 没有方向，就没有生活。"
-    },
-    {
-     "text": "When one door closes, another opens.当一扇门关闭时，另一扇门会打开。"
-    },
-    {
-     "text": "No pain, no gain.不经历风雨，怎么见彩虹。"
-    },
-    {
-     "text": "The harder you work, the luckier you get. 越努力，越幸运。"
-    },
-    {
-     "text": "Believe you can and you're halfway there.相信你能行，你已经成功了一半。"
-    },
-    {
-     "text": "Every cloud has a silver lining.乌云背后必有阳光。"
-    },
-    {
-     "text": "Success is not final, failure is not fatal: It is the courage to continue that counts.成功不是终点，失败不是致命的：坚持下去的勇气才最重要。"
-    },
-    {
-     "text": "In the middle of difficulty lies opportunity.困境中蕴藏机遇。"
-    },
-    {
-     "text": "Dream big and dare to fail.梦想大胆追求，敢于失败。"
-    }
-   ]
-  }
- ]
+    ]
+   }
+  ]
+ }
 }

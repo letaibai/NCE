@@ -1,72 +1,27 @@
 {
- "expand": [
-  {
-   "title": "与 for、with、of、to、at、from、in、on 和 about 连用的形容词",
-   "parts": [
-    {
-     "text": "复习：动词 + 介词"
-    },
-    {
-     "text": "L22 On、In、From、Of"
-    },
-    {
-     "text": "L46 With、For、At、To"
-    },
-    {
-     "table": {
-      "headers": [
-       "形容词 + for 用于表达评价、观点或态度",
-       "形容词 + with 伴随着有...强调了某人或某物具有某种特定属性",
-       "形容词 + of 帮助进一步描述名词的属性",
-       "形容词 + to 描述某人对某事或某物的感觉或看法。",
-       "形容词 + at 强调了某人在某方面的特定能力或素质。",
-       "形容词 + from 描述物体、人物、概念等与其来源、特点、区别或分离等方面的信息。",
-       "形容词 + in 描述人物的兴趣、技能、经验，以及他们在特定领域的专长和活动。",
-       "形容词 + on 帮助描述人、事物或情况在特定背景下的特征、状态或行为",
-       "形容词 + about 表示某人对某事物或情况的感受、态度、看法或情感。"
-      ],
-      "rows": [
-       [
-        "eager for （渴望） enough for（足够） famous for（以…而闻名） fit for（合适） grateful for/to（因…而感激） qualified for/in（能胜任） ready for/to（准备好） responsible for（对…负责） sorry for（对…感到遗憾） sufficient for（充足的） thankful for/to（感谢） valid for（有效期为…）",
-        "angry with sb./at sth.（因某人或某事生气） busy with/at（忙于…） consistent with（与…一致） content with（对…满足） familiar with/to（与…熟悉） patient with（有耐心） popular with（为…所喜爱）"
-       ],
-       [
-        "afraid of（害怕） ahead of（在…前面） aware of（知道） capable of（能够） careful of/with（小心） certain of（确信） conscious of（意识到） envious of（妒忌） fond of（爱好） guilty of（有…罪的） ignorant of（不了解） independent of（独立于） jealous of（妒忌） kind of/to（对…和蔼） north/south/east/west of（在…的北/南/东/西面） short of（缺乏） shy of（顾虑） sure of（肯定） worthy of（值得）",
-        "close to（接近于） contrary to（与…相反） cruel to（对…残忍） dear to（对…很重要） equal to（与…相等） faithful to（忠于…） fatal to（对…是致命的） harmful to（对…有害的） identical to（与…相同的） indifferent to（对…不关心） inferior to（劣于…） liable to（对…有义务的） new to（对…没有经验） obedient to（对…服从） obvious to（对…清楚的） polite to（对…有礼貌） previous to（先于） rude to（对…粗暴无礼） sensitive to（对…敏感） similar to（与…相似） useful to（对…有用）"
-       ],
-       [
-        "bad at（不善于…） clever at（擅长） efficient at（能胜任的） expert at/in（能熟练做…） good at（善于） indignant at（对…感到愤慨） quick at（很快） sad at/about（因…而悲伤） slow at（对…迟钝） skillful at/in（熟练）",
-        "away from（距…远的） different from（与…不同的） far from（远离） safe from（无危险的）"
-       ],
-       [
-        "deficient in（缺少） fortunate in（在…很幸运） honest in（对…很诚实） weak in（在…薄弱的）",
-        "dependent on（依赖于…） intent on（专心于…） keen on（热心于…）"
-       ],
-       [
-        "curious about（对…好奇的） doubtful about/of（对…有疑问） enthusiastic about（对…热心） reluctant about/to（勉强） right about/in（在…是正确的） uneasy about（对…感到不安）"
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习 a little/a few 与 catch fire 等固定搭配。",
+  "points": [
+   {
+    "title": "a little 与 a few",
+    "explanation": "a little + 不可数（a little time），a few + 复数（a few minutes）。本课马戏场景描写高频使用。",
+    "examples": [
+     {
+      "en": "She had a little time to escape.",
+      "cn": "她有一点时间逃跑。"
      }
-    },
-    {
-     "text": "He is not different from anyone else."
-    },
-    {
-     "text": "I am not familiar with his novels and not very keen on reading them."
-    },
-    {
-     "text": "I think he' s quite honest in his intentions."
-    },
-    {
-     "text": "He may be quick at understanding, but he's not capable of remembering anything."
-    },
-    {
-     "text": "You should not be so sensitive to criticism."
-    },
-    {
-     "text": "He is intent on passing the examination, but I' m doubtful of / about his chances."
-    }
-   ]
-  }
- ]
+    ]
+   },
+   {
+    "title": "catch fire 表\"着火\"",
+    "explanation": "catch fire = 燃起来（瞬间）；on fire = 着火状态；set fire to = 点燃。三个 fire 短语各有分工。",
+    "examples": [
+     {
+      "en": "The curtains caught fire.",
+      "cn": "窗帘着火了。"
+     }
+    ]
+   }
+  ]
+ }
 }

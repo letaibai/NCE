@@ -1,77 +1,27 @@
 {
- "sentences": [
-  {
-   "title": "易混淆词",
-   "parts": [
-    {
-     "table": {
-      "headers": [
-       "laugh v. 笑",
-       "laugh at 嘲笑…"
-      ],
-      "rows": [
-       [
-        "Everybody laughed when the circus clown made his appearance.",
-        "Don’t laugh at me."
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习 at times 与 repeatedly 表频率的副词。",
+  "points": [
+   {
+    "title": "频率副词的位置",
+    "explanation": "at times = 有时，可放句首；repeatedly = 再三地，放实义动词前。频率信息的位置有讲究。",
+    "examples": [
+     {
+      "en": "At times, the sea is very rough.",
+      "cn": "有时大海非常汹涌。"
      }
-    },
-    {
-     "table": {
-      "headers": [
-       "wash",
-       "wash up"
-      ],
-      "rows": [
-       [
-        "v. 洗，洗涤",
-        "I must get up and wash. 洗漱 wash oneself 洗澡 Sally can almost wash herself now."
-       ],
-       [
-        "v. 冲走，卷走",
-        "Occasionally, unusual creatures are washed to the shore. The little wooden house was washed away by the floods. (wash away 冲走；洗掉；忘却)"
-       ],
-       [
-        "v. 洗餐具",
-        "When you phoned, she was busy washing up (the dishes)."
-       ],
-       [
-        "v. 把…冲上岸",
-        "The dead body of a huge fish has been washed up on the shore."
-       ]
-      ]
+    ]
+   },
+   {
+    "title": "表\"声称\"的 claim to do",
+    "explanation": "Fishermen claim to have seen monsters. claim + to have done 表\"声称曾做过\"（完成不定式）。",
+    "examples": [
+     {
+      "en": "They claim to have seen a monster.",
+      "cn": "他们声称见过怪物。"
      }
-    }
-   ]
-  }
- ],
- "expand": [
-  {
-   "title": "非谓语动词（不定式） to do & to have done",
-   "parts": [
-    {
-     "table": {
-      "headers": [
-       "to do 表将(要)来",
-       "to have done 结何完成时强调发生在过去"
-      ],
-      "rows": [
-       [
-        "当“名词使用”、表“目的”修饰名词、句子子"
-       ],
-       [
-        "Fishermen claim to see monsters... 声称要去看怪物(还没去)",
-        "Sailors claim to have seen monsters in the sea. 1、之前已看到。2、做宾语(当名词用)"
-       ],
-       [
-        "It is my pleasure to help you. 将要去帮你",
-        "It is my pleasure to have helped you. 之前帮过"
-       ]
-      ]
-     }
-    }
-   ]
-  }
- ]
+    ]
+   }
+  ]
+ }
 }

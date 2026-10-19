@@ -1,52 +1,27 @@
 {
- "expand": [
-  {
-   "title": "直接引语&间接引语",
-   "parts": [
-    {
-     "table": {
-      "headers": [
-       "直接引语",
-       "间接引语"
-      ],
-      "rows": [
-       [
-        "He says, 'I am a fool!'",
-        "He says (that) he is a fool. 引号去掉、改时态、转换人称和角度"
-       ],
-       [
-        "'Stay to lunch,' he insisted.",
-        "He insisted (that) I should stay to lunch. 祈使句需要针对情景把主语加回来"
-       ],
-       [
-        "'Come with me,' he suggested.",
-        "He suggested (that) I should go with him. 注意增加主语与宾语的变换"
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习过去完成时叙事与 enjoy/hate 情感动词。",
+  "points": [
+   {
+    "title": "过去完成时先时链",
+    "explanation": "By the time he had finished his speech, everyone was bored. had finished 先于 was。by the time 表\"到……时候为止\"。",
+    "examples": [
+     {
+      "en": "Jeremy was a little disappointed by this.",
+      "cn": "Jeremy 对此有点失望。"
      }
-    },
-    {
-     "text": "英文中的“脑筋急转变”需要转诉人家的话。我们可以换 to do 达到同样的效果"
-    },
-    {
-     "table": {
-      "headers": [
-       "直接引语",
-       "间接引语"
-      ],
-      "rows": [
-       [
-        "'Open the door for me please,' she said to me.",
-        "She asked me to open the door for her."
-       ],
-       [
-        "'Don' t make so much noise,' she said to the children.",
-        "She asked / told them not to make so much noise."
-       ]
-      ]
+    ]
+   },
+   {
+    "title": "make sb. do 使役结构",
+    "explanation": "The funny speech made everyone laugh. make + 宾语 + 动词原形（不带 to）；被动 be made to do 要还原 to。",
+    "examples": [
+     {
+      "en": "Everyone laughed at his jokes.",
+      "cn": "大家都因他的笑话而发笑。"
      }
-    }
-   ]
-  }
- ]
+    ]
+   }
+  ]
+ }
 }

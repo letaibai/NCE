@@ -1,79 +1,27 @@
 {
- "expand": [
-  {
-   "title": "时态总复习",
-   "parts": [
-    {
-     "text": "Enough & Fairly"
-    },
-    {
-     "table": {
-      "headers": [
-       "时态",
-       "过去",
-       "现在",
-       "将来",
-       "过去将来"
-      ],
-      "rows": [
-       [
-        "一般",
-        "L3",
-        "L2",
-        "L12",
-        "L7 、 L9"
-       ],
-       [
-        "进行",
-        "L7",
-        "L2",
-        "L13",
-        "-"
-       ],
-       [
-        "完成",
-        "L9 、 L14",
-        "L4 、 L5",
-        "L37",
-        "-"
-       ],
-       [
-        "完成进行",
-        "L62 、 L86",
-        "L52 、 L53 、 L76 、 L77",
-        "L61 、 L85",
-        "-"
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习表失控的语义群与 as fast as possible。",
+  "points": [
+   {
+    "title": "as...as possible 尽可能",
+    "explanation": "He drove as fast as possible = 尽可能快地开。as + 副词原级 + as possible 高频结构。",
+    "examples": [
+     {
+      "en": "The boat was out of control.",
+      "cn": "船失控了。"
      }
-    },
-    {
-     "table": {
-      "headers": [
-       "Enough 形容词或副词之后,有“为了某种目的”的含义",
-       "Fairly 表示“相当”通常修饰表示肯定意义的词"
-      ],
-      "rows": [
-       [
-        "I’m old enough to know I’m doing. I didn’t arrive at the station early enough. 我到车站到得不够早（我误了火车）",
-        "The water in the pool is fairly warm, but not warm enough to swim in. He is fairly quick, but not quick enough to take part in the race."
-       ]
-      ]
+    ]
+   },
+   {
+    "title": "表冲击的 dash/glide 动词精准度",
+    "explanation": "The boat dashed against the rocks. dash（猛撞）/glide（滑行）——动词的画面感选择。",
+    "examples": [
+     {
+      "en": "The boat glided across the lake at tremendous speed.",
+      "cn": "船以极快的速度掠过湖面。"
      }
-    },
-    {
-     "text": "Too & Enough"
-    },
-    {
-     "text": "plenty & enough & a lot of"
-    },
-    {
-     "text": "too & very & enough"
-    },
-    {
-     "text": "enough +n. / n. + enough & enough to do sth."
-    }
-   ]
-  }
- ]
+    ]
+   }
+  ]
+ }
 }

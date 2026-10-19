@@ -1,47 +1,27 @@
 {
- "grammar": [
-  {
-   "title": "主动变被动",
-   "parts": [
-    {
-     "text": "在句子中，我们并不想强调某个人，只要说这个事的时候就喜欢“主动变被动”，突出“事”为主体，弱化“ 人 ”。"
-    },
-    {
-     "text": "Someone has prepared a meal for you. 突出了某人(是谁不重要)事物反而弱化了"
-    },
-    {
-     "text": "A meal be prepared for you. 改写成被动语态（去掉someone）但时态不一致"
-    },
-    {
-     "text": "A meal has been prepared for you.体现“已经”（与被改写前的时态一致）"
-    },
-    {
-     "table": {
-      "headers": [
-       "普通表达(someone)突出“人”",
-       "被动表达(重点前移)突出“事”为主体，弱化“人”"
-      ],
-      "rows": [
-       [
-        "Someone will translate the book into English.",
-        "The book will be translated into English."
-       ],
-       [
-        "Someone must send a telegram to him.",
-        "A telegram must be sent to him."
-       ],
-       [
-        "Someone had put out the fire before the fire brigade arrived.",
-        "The fire had been put out before the fire brigade arrived."
-       ],
-       [
-        "Someone gave the cat some milk to drink.",
-        "The cat was gaven some milk to drink."
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习被动语态与 spend 时间结构（叙事）。",
+  "points": [
+   {
+    "title": "被动叙事",
+    "explanation": "The wallet was found / it was returned 被动句贯穿\"失物招领\"场景。",
+    "examples": [
+     {
+      "en": "The whole village was sorry to lose such a good postmaster.",
+      "cn": "全村人都为失去这么好的邮递员而惋惜。"
      }
-    }
-   ]
-  }
- ]
+    ]
+   },
+   {
+    "title": "百分比的精确表达",
+    "explanation": "a hundred per cent（百分之百）；per cent of 后接单数谓语用单数。",
+    "examples": [
+     {
+      "en": "Sam was sure the wallet must have been found by one of the villagers.",
+      "cn": "Sam 确信钱包肯定被某个村民捡到了。"
+     }
+    ]
+   }
+  ]
+ }
 }

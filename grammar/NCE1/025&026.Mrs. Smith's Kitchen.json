@@ -1,220 +1,31 @@
 {
- "grammar": [
-  {
-   "title": "There be 句型",
-   "parts": [
-    {
-     "text": "构成(一般现在时)： There be(is, are) + 地点 § \"There be\" 结构帮助我们描述了物体的位置和存在。动词 \"be\" 的形式将根据主语的单复数而变化也会随时态的变化而变化（There was/were）。同时，可以通过添加其他的修饰词或从句来扩展句子，使描述更加详细。 后置定语的翻译语序(倒着翻译) 仿写课文 There \" Be \" 怎么变(就近原则)"
-    },
-    {
-     "table": {
-      "headers": [
-       "有"
-      ],
-      "rows": [
-       [
-        "拥有 have"
-       ],
-       [
-        "存在 There be..."
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习 there be 句型表存在，以及 in/on 等方位介词。",
+  "points": [
+   {
+    "title": "There be 句型",
+    "explanation": "There is + 单数/不可数、There are + 复数，表示某处\"有\"某物。主语就近原则：There is a... 若后接 and 连接的复数，则与第一个名词一致。",
+    "examples": [
+     {
+      "en": "There is a refrigerator in the kitchen.",
+      "cn": "厨房里有一台冰箱。"
+     },
+     {
+      "en": "There are some books on the table.",
+      "cn": "桌子上有一些书。"
      }
-    },
-    {
-     "text": "\"There be\" 是英语中的一种特殊句型，用来表示某个地方存在或发生了某人或某物。它通常用于描述事物的存在状态或位置。"
-    },
-    {
-     "text": "该句型的基本结构是：There + 动词 \"be\" + 存在的人或物 + 其他补充信息。"
-    },
-    {
-     "text": "There is a cat on the roof.（屋顶上 有 一只猫。）"
-    },
-    {
-     "text": "There are two books on the table.（桌子上 有 两本书。）"
-    },
-    {
-     "text": "There is one in my heart . 那有一个人在我心里。 我心里有一个人。"
-    },
-    {
-     "text": "There is a cooker in the kitchen . 那有一个炉灶在厨房里。 厨房里有一个炉灶"
-    },
-    {
-     "text": "There is a fridge in the kitchen . 那有一台冰箱在厨房里。 厨房里有台冰箱"
-    },
-    {
-     "text": "There are two chair s in the kitchen . 那有2把椅子在厨房里。 厨房有2把椅子"
-    },
-    {
-     "table": {
-      "headers": [
-       "Lily’s bedroom is large. 总结"
-      ],
-      "rows": [
-       [
-        "1、被描述的物品",
-        "There is a bed in the bedroom."
-       ],
-       [
-        "2、物品颜色",
-        "It is brown."
-       ],
-       [
-        "3、具体位置",
-        "And it is in the middle of the room."
-       ],
-       [
-        "4、物品状态",
-        "It is very clean …"
-       ]
-      ]
+    ]
+   },
+   {
+    "title": "方位介词 in / on",
+    "explanation": "in 表示\"在……里面\"，on 表示\"在……上面（接触）\"。The cup is on the table. / The tea is in the cup.",
+    "examples": [
+     {
+      "en": "Mrs. Smith's kitchen is small.",
+      "cn": "史密斯太太的厨房很小。"
      }
-    },
-    {
-     "text": "There is a table and four chairs"
-    },
-    {
-     "text": "There are four chairs and a table."
-    },
-    {
-     "text": "There are some students and a teacher."
-    },
-    {
-     "text": "There is a teacher and some students."
-    }
-   ]
-  }
- ],
- "sentences": [
-  {
-   "title": "冠词练习",
-   "parts": [
-    {
-     "text": "特殊疑问词 where + be + 名词 (Where is/are + 名词?) in 在…里面 Where is the money? 钱在哪儿？ 冠词练习"
-    },
-    {
-     "text": "Where are you? 你在哪？"
-    },
-    {
-     "text": "Where is your mother? 你妈呢？"
-    },
-    {
-     "text": "Where is your car? 你车呢？"
-    },
-    {
-     "text": "the money in the bag 包里的那钱"
-    },
-    {
-     "text": "The money is in the bag. 钱在包里。"
-    },
-    {
-     "table": {
-      "headers": [
-       "Where is it?",
-       "位置",
-       "状态"
-      ],
-      "rows": [
-       [
-        "There is a cup on the table.",
-        "The cup is clean."
-       ],
-       [
-        "There is a box on the floor.",
-        "The box is large."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "Give me a book. Which book? the book on the table."
-    },
-    {
-     "text": "Give me a glass. Which glass? the empty one."
-    },
-    {
-     "text": "Give me / some cups. Which cups? the cups on the table."
-    },
-    {
-     "text": "Is there a book on the table? Yes, there is."
-    },
-    {
-     "text": "Is there a knife in that box? Yes, there is."
-    }
-   ]
-  }
- ],
- "expand": [
-  {
-   "title": "介词 in",
-   "parts": [
-    {
-     "table": {
-      "headers": [
-       "恋爱 (in love)",
-       "三合一",
-       "综合能力部",
-       "in + 语言，用…",
-       "in + 颜 色",
-       "in cash 使用现金",
-       "in the rain 冒 雨"
-      ],
-      "rows": [
-       [
-        "He is in love . 他恋爱了"
-       ],
-       [
-        "three in one"
-       ],
-       [
-        "All in one"
-       ],
-       [
-        "Please speak in English ."
-       ],
-       [
-        "The girl is in red . 穿着…颜色的衣服"
-       ],
-       [
-        "pay in cash"
-       ],
-       [
-        "They walk in the rain ."
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "英文单词",
-       "音标",
-       "例词"
-      ],
-      "rows": [
-       [
-        "sh",
-        "/ ʃ /",
-        "English,brush,she,shoe"
-       ],
-       [
-        "su",
-        "/ ʒ /",
-        "measure,leisure"
-       ],
-       [
-        "th",
-        "/ θ /",
-        "three,thank,thin,beneath"
-       ],
-       [
-        "/ ð /",
-        "that,these,they,thus"
-       ]
-      ]
-     }
-    }
-   ]
-  }
- ]
+    ]
+   }
+  ]
+ }
 }

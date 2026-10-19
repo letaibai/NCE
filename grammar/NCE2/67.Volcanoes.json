@@ -1,93 +1,27 @@
 {
- "expand": [
-  {
-   "title": "带 say 与tell 的短语",
-   "parts": [
-    {
-     "text": "say 说"
-    },
-    {
-     "table": {
-      "headers": [
-       "say 说话(接说话的内容)",
-       "tell 告诉(接双宾语可以接人+物)",
-       "say 和tell 后面跟 so 时含义不一样"
-      ],
-      "rows": [
-       [
-        "say something / anything / nothing",
-        "tell us a story、tell you a secret"
-       ],
-       [
-        "say so / no more",
-        "tell the truth / lies"
-       ],
-       [
-        "say goodbye / a good word",
-        "tell the difference(辨别) / the time"
-       ],
-       [
-        "在表示“说，讲”时，say 后面不跟间接宾语（人）。如果一定要指明，则用“to +名词/代词”。表示“道别，诵读（祈祷），背诵”等含义时用 say 而不能用 tell。say 有“表达（思想、意见等）”、“据说”含义， tell 则没有。",
-        "在表示“说，讲”时，tell 后面可以跟双宾语。tell 经常用于表示“讲（实话，谎话，秘密等）”。tell可以表示“辨别，分辨”，say 则不可以。在英国英语中，tell the time（美语为 tell time）表示根据钟表等。"
-       ],
-       [
-        "I told you so! 我告诉过你是这样的！（用于情况被证实之后） Who says so? 谁这么说的？ I say so. 我这么说的。"
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习 manage to do 与 threaten 的搭配。",
+  "points": [
+   {
+    "title": "manage to do 表成功做到",
+    "explanation": "He managed to escape = 设法做到了（成功）；try to do 只是尝试，未必成功。对比记忆。",
+    "examples": [
+     {
+      "en": "He managed to climb into the mouth of the volcano.",
+      "cn": "他设法爬进了火山口。"
      }
-    },
-    {
-     "text": "If you say so, I suppose it' s true."
-    },
-    {
-     "text": "I don' t think you would tell me a lie."
-    },
-    {
-     "text": "He is only five, but he can already tell the time."
-    },
-    {
-     "text": "If you could say a good word for him, he might get the job."
-    },
-    {
-     "text": "John is said to be very interested in art."
-    },
-    {
-     "text": "Do you have anything to say about the accident? 关于这次事故你有什么想说的/想法？"
-    },
-    {
-     "text": "He knelt down and said his prayers. 他跪了下来作祷告"
-    },
-    {
-     "text": "He said goodbye and left. 他告辞后离开了"
-    },
-    {
-     "text": "Don’t expect that he’ll say a good word for you. say a good word for 为…说好话/辩护；推"
-    },
-    {
-     "table": {
-      "headers": [
-       "tell 告诉“说出时间，识钟”",
-       "tell (sb.) a lie 说谎（谎言有很多个，为可数名词）",
-       "tell (sb.) the truth 讲真话(真话只有一个,故要特指, 加 the)",
-       "tell (sb.) the difference between 区分, 区别"
-      ],
-      "rows": [
-       [
-        "Can you tell me anything about it? 你能告诉我有关的任何事情吗? He is only five, but he can already tell the time."
-       ],
-       [
-        "He often tells lies. 他经常说谎."
-       ],
-       [
-        "I want you to tell me the truth. 我要你讲真话."
-       ],
-       [
-        "Can't you tell the difference between an Austin and a Morris?你能区分奥斯丁舞和莫利斯舞吗?"
-       ]
-      ]
+    ]
+   },
+   {
+    "title": "threaten to do 威胁将做",
+    "explanation": "threaten to erupt / He threatened to leave. 主语可以是人也可以是自然现象。",
+    "examples": [
+     {
+      "en": "The volcano threatened to erupt at any moment.",
+      "cn": "火山随时可能喷发。"
      }
-    }
-   ]
-  }
- ]
+    ]
+   }
+  ]
+ }
 }

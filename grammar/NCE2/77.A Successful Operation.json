@@ -1,102 +1,27 @@
 {
- "sentences": [
-  {
-   "title": "易混淆词",
-   "parts": [
-    {
-     "table": {
-      "headers": [
-       "skin n. 人体的皮肤",
-       "leather n. 皮革",
-       "complexion n. 某人是什么颜色的皮肤（可与 skin 互换）"
-      ],
-      "rows": [
-       [
-        "We are wet to the skin. He has a dark skin/complexion.",
-        "Shoes made of real leather have become very expensive. This sofa is made from real leather.",
-        "Look at her rosy cheeks.She has a lovely complexion."
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习 die of 与表死因的介词搭配。",
+  "points": [
+   {
+    "title": "die of / die from",
+    "explanation": "die of + 疾病/饥饿（内因）；die from + 伤口/事故（外因）：The mummy died of a rare disease. 精确介词是考点。",
+    "examples": [
+     {
+      "en": "The mummy of an Egyptian woman died of a rare disease.",
+      "cn": "一位埃及妇女的木乃伊死于一种罕见的疾病。"
      }
-    },
-    {
-     "table": {
-      "headers": [
-       "B.C. = Before Christ 公元前（位于年代之 后 ）",
-       "in the yeare of the Lord = since Christ was born 公元（位于年代之 前 ）",
-       "A.D. = anno Domini"
-      ],
-      "rows": [
-       [
-        "he Romans invaded England in 55 B.C. “B.C.” 不可省略，否则时间是错误的"
-       ],
-       [
-        "In the year of the Lord 2024 强调2024, many technological advancements have reshaped our society."
-       ],
-       [
-        "George I died in A.D. 1727. 强调是公元非公元前"
-       ]
-      ]
+    ]
+   },
+   {
+    "title": "survive 表\"幸存\"",
+    "explanation": "survive the operation = 从手术中活下来，survive 是及物动词直接接宾语，不加 from。",
+    "examples": [
+     {
+      "en": "Doctors successfully operated on the mummy.",
+      "cn": "医生们成功给木乃伊做了手术。"
      }
-    },
-    {
-     "table": {
-      "headers": [
-       "wax n. 蜡（ 不可数 名词）",
-       "candle n. 蜡烛（ 可数 名词）"
-      ],
-      "rows": [
-       [
-        "All the figures in this shop are made of wax.",
-        "I keep a candle by my bed in case the lights go out suddenly."
-       ]
-      ]
-     }
-    }
-   ]
-  }
- ],
- "expand": [
-  {
-   "title": "区别：ago / since / for",
-   "parts": [
-    {
-     "table": {
-      "headers": [
-       "ago 以前，从前",
-       "since 自…以后，自…以来",
-       "for 在…时，持续了..."
-      ],
-      "rows": [
-       [
-        "通常搭配一般过去时",
-        "since + 过去的时间 = 现在完成时",
-        "无时态要求(可搭配任意)"
-       ],
-       [
-        "They won the match three days ago.",
-        "Since 1992, we have lived in this city.",
-        "They have been practicing for a year."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "He stayed with us for two weeks."
-    },
-    {
-     "text": "She arrived two weeks ago ."
-    },
-    {
-     "text": "I have not seen him since Monday."
-    },
-    {
-     "text": "He left a month ago and I have not seen him since then."
-    },
-    {
-     "text": "W e have been working on this new plane for over a year now."
-    }
-   ]
-  }
- ]
+    ]
+   }
+  ]
+ }
 }

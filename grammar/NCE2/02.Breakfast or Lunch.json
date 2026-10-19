@@ -1,255 +1,31 @@
 {
- "grammar": [
-  {
-   "title": "时态",
-   "parts": [
-    {
-     "text": "一般现在时 动词变三单的规则与名词复数规则一致。请转到： Lesson 055&56 The Sawyer family 查看详细说明！ 正在进行时 “现在”可以理解为狭义的现在与广义的现在，区分为此刻与现阶段。现在进行时常与 now，just，still 等副词连用。 表示将来 确定要 发生的事 在英语中，动词 \"be\" 在现在进行时的口语中通常缩写为 \"'s\"。例如，\"He is listening\" 可以缩写为 \"He's listening\"。书面语通常 不缩写 。"
-    },
-    {
-     "table": {
-      "headers": [
-       "一般现在时 § 主语 + do （表示现在经常性习惯性的动作）",
-       "现在进行时 § 主语 + am / is / are + doing （表示现在正在进行的事）"
-      ],
-      "rows": [
-       [
-        "We have the English class every day. 经常的事 I never get up early on Sundays. 习惯的事 I sometimes stay in bed until lunchtime. He often get s up late.",
-        "I am having breakfast now.（狭义的现在) J.K. Rowling is writing another book this year.(广义的现在) I am working as a teacher. \"现阶段\" He is still sleeping . （现在还在睡觉） Jane is just dressing up. 简正在打扮。"
-       ]
-      ]
+ "grammar": {
+  "summary": "本课对比一般现在时与现在进行时，并辨析 still 与 always。",
+  "points": [
+   {
+    "title": "一般现在时 vs 现在进行时",
+    "explanation": "习惯性动作用一般现在时（I never get up early on Sundays.）；当下正在动作用进行时（It's raining again.）频率副词 never/always 放实义动词前。",
+    "examples": [
+     {
+      "en": "I never get up early on Sundays.",
+      "cn": "星期天我从不早起。"
+     },
+     {
+      "en": "It's raining again.",
+      "cn": "又下雨了。"
      }
-    },
-    {
-     "table": {
-      "headers": [
-       "现在的状态(在哪儿、名字、性别、外观等)",
-       "永恒 (科学事实、客观真理、名言警句等)",
-       "第三人称单数(可以被he、she、it所代替的)"
-      ],
-      "rows": [
-       [
-        "I am a teacher. 状态 It is one o' clock. 现在 I am home.(回家的瞬间) = I am at home.(待在家里) You are beautiful. 状态",
-        "The earth is round. 通常情态 The earth move s around the sun. 至少几十亿年以来未变 Practice make s perfect.熟能生巧",
-        "my mother = she 可使用代词代替 his teacher = she/he 男老师/女老师 my son = he the book => it;a car = it;your cat = it;her dog = it"
-       ]
-      ]
+    ]
+   },
+   {
+    "title": "感叹句 What a...!",
+    "explanation": "What a + 形容词 + 名词（+主谓）：What a day!（这鬼天气！）省略主谓的简短感叹。",
+    "examples": [
+     {
+      "en": "What a day!",
+      "cn": "这鬼天气！"
      }
-    },
-    {
-     "text": "I tell you a secret."
-    },
-    {
-     "text": "He tell s you a secret."
-    },
-    {
-     "text": "Your friend tell s you a secret."
-    },
-    {
-     "table": {
-      "headers": [
-       "句型",
-       "Be 动词",
-       "动词原型",
-       "动词三单",
-       "陈述句",
-       "否定句",
-       "一般疑问句",
-       "特殊疑问句"
-      ],
-      "rows": [
-       [
-        "He is happy.",
-        "You like English.",
-        "She likes Chinese."
-       ],
-       [
-        "He is not happy.",
-        "You do not like English.",
-        "She does not like Chinese."
-       ],
-       [
-        "Is he happy?",
-        "Do you like English?",
-        "Does she like Chinese?"
-       ],
-       [
-        "How is he?",
-        "What do you like ?",
-        "What does she like ?"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "I am coming to see you."
-    },
-    {
-     "text": "We are arriving at ...."
-    },
-    {
-     "text": "The old man is dying ."
-    },
-    {
-     "table": {
-      "headers": [
-       "句型",
-       "现在进行时",
-       "陈述句",
-       "否定句",
-       "一般疑问句",
-       "特殊疑问句"
-      ],
-      "rows": [
-       [
-        "He is listening .",
-        "You are drinking .",
-        "She is walking ."
-       ],
-       [
-        "He is not listening .",
-        "You are not drinking .",
-        "She is not walking ."
-       ],
-       [
-        "Is he listening ?",
-        "Are you drinking ?",
-        "Is she walking ?"
-       ],
-       [
-        "What is he doing ?",
-        "What are you doing ?",
-        "What is she doing ?"
-       ]
-      ]
-     }
-    }
-   ]
-  }
- ],
- "sentences": [
-  {
-   "title": "感叹句",
-   "parts": [
-    {
-     "text": "What a day！什么鬼天气哟！(感叹句) 有上下文和一定的语境, 才能省略形容词。一般省略形容词表示批评或不大好的意思。在英语中可用what引导的感叹句来表示惊奇、愤怒、赞赏、喜悦等感情，在感叹中主谓语采用正常语序。"
-    },
-    {
-     "table": {
-      "headers": [],
-      "rows": [
-       [
-        "It is a terrible day!",
-        "What a terrible day it is!",
-        "What a day (it is) !"
-       ],
-       [
-        "原句",
-        "感叹句(完整)",
-        "感叹句(省略)"
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "What + n./n.词组 （感叹名词）",
-       "How + adj./adv. (感叹形容词、副词)"
-      ],
-      "rows": [
-       [
-        "This is a wonderful world. → What a wonderful world (this is)! It is a surprise. → What a surprise (it is)! 主、谓随时可省 What a good girl (she is)! What (a lot of) trouble (he is causing)!",
-        "How interesting! 多么有趣啊！ How time flies! 时间过得真快啊！ How Quickly Time Flies. 光阴似箭"
-       ]
-      ]
-     }
-    }
-   ]
-  }
- ],
- "expand": [
-  {
-   "title": "一般现在时 V.S. 现在进行时",
-   "parts": [
-    {
-     "text": "I am looking out of my window. I can see some children in the street. 不规则动词的变化 §"
-    },
-    {
-     "table": {
-      "headers": [
-       "一般现在时 强调经常性、习惯性的事",
-       "现在进行时 强调此刻正在进行的事"
-      ],
-      "rows": [
-       [
-        "They always play (play) football in the street.",
-        "The children are playing (play) football."
-       ],
-       [
-        "Now a little boy is kicking (kick) the ball."
-       ],
-       [
-        "Another boy is running (run)after him but he cannot catch him."
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "原型",
-       "过去式",
-       "过去分词",
-       "现在分词"
-      ],
-      "rows": [
-       [
-        "think",
-        "thought",
-        "thought",
-        ""
-       ],
-       [
-        "r i ng",
-        "r a ng",
-        "r u ng",
-        ""
-       ],
-       [
-        "s i ng",
-        "s a ng",
-        "s u ng",
-        ""
-       ],
-       [
-        "dr i nk",
-        "dr a nk",
-        "dr u nk",
-        ""
-       ],
-       [
-        "sw i m",
-        "sw a m",
-        "sw u m",
-        ""
-       ],
-       [
-        "beg i n",
-        "beg a n",
-        "beg u n",
-        ""
-       ],
-       [
-        "come",
-        "came",
-        "come",
-        "coming"
-       ]
-      ]
-     }
-    }
-   ]
-  }
- ]
+    ]
+   }
+  ]
+ }
 }

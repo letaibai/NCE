@@ -1,138 +1,21 @@
 {
- "grammar": [
-  {
-   "title": "现在完成时的全部完成与部分完成",
-   "parts": [
-    {
-     "text": "How long have you been married? 你们结婚多久了?"
-    },
-    {
-     "table": {
-      "headers": [
-       "全部完成 到目前为止已经完成（过去发生,影响现在）",
-       "部分完成 表持续（未完成）"
-      ],
-      "rows": [
-       [
-        "I have finished Book 1. 全部完成(可转换为“一般过去时”) I finished Book 1. 一般过去时",
-        "She has lived in Beijing for ten years."
-       ],
-       [
-        "just, already, before, never, ever, yet…",
-        "since, for…"
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习 for 表时间长度与现在完成时连用。",
+  "points": [
+   {
+    "title": "for + 时间段",
+    "explanation": "现在完成时 + for + 时间段表状态持续：I've lived here for twenty years.（住了20年，现在还住着）。for 后接时间段（for two years），since 后接时间点（since 2020）。",
+    "examples": [
+     {
+      "en": "How long have you lived here?",
+      "cn": "你在这里住了多久？"
+     },
+     {
+      "en": "I've been here since 1976.",
+      "cn": "我从1976年起就住在这里。"
      }
-    },
-    {
-     "text": "For a month. 一个月了。"
-    },
-    {
-     "text": "Since a month ago. 自从一个月以来"
-    }
-   ]
-  }
- ],
- "sentences": [
-  {
-   "title": "现在完成：引起话题",
-   "parts": [
-    {
-     "table": {
-      "headers": [
-       "现在完成（引起话题）",
-       "一般过去（具体谈论）"
-      ],
-      "rows": [
-       [
-        "Have you ever…? Have you …yet?",
-        "When did you …? Where did you …? How did you …?"
-       ],
-       [
-        "Have you read this book yet? Yes. I have.",
-        "When did you read it? I read it last year."
-       ],
-       [
-        "Have you done your homework yet? Yes, I have.",
-        "Where did you read it? I read it at home. When did you do it? I did it half an hour ago. Where did you do it? I did it at home."
-       ],
-       [
-        "Has he gone yet? Yes, he has.",
-        "When did he go? He went an hour ago. How did he go? He went by car."
-       ],
-       [
-        "Has she spoken to him yet? Yes, she has.",
-        "When did she speak to him? She spoke to him yesterday. How did she speak to him? She spoke to him pleasantly."
-       ]
-      ]
-     }
-    }
-   ]
-  }
- ],
- "expand": [
-  {
-   "title": "购物词汇",
-   "parts": [
-    {
-     "text": "go shopping (去)购物"
-    },
-    {
-     "text": "window shopping 逛街"
-    },
-    {
-     "text": "online shopping 网购"
-    },
-    {
-     "text": "department store 商场"
-    },
-    {
-     "text": "shopping mall 购物中心"
-    },
-    {
-     "text": "discount 打折"
-    },
-    {
-     "text": "use my card 刷卡"
-    },
-    {
-     "text": "pay with cash / Alipay / Wechat pay 现金支付、支付宝、微信支付"
-    },
-    {
-     "table": {
-      "headers": [
-       "问",
-       "答"
-      ],
-      "rows": [
-       [
-        "Can I help you?",
-        "I want a…please. A…please."
-       ],
-       [
-        "May / Can I have a try?",
-        "Sure."
-       ],
-       [
-        "Is that ok?",
-        "Do you have a small\\large size? It’s too large\\small for me."
-       ],
-       [
-        "How much is it?",
-        "It’s..."
-       ],
-       [
-        "Is there any discount?",
-        "Yes. \\ No."
-       ],
-       [
-        "Can I use my credit card?",
-        "Sure. Cash only please."
-       ]
-      ]
-     }
-    }
-   ]
-  }
- ]
+    ]
+   }
+  ]
+ }
 }

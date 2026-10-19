@@ -1,241 +1,27 @@
 {
- "grammar": [
-  {
-   "title": "万能词 Have 的基本用法",
-   "parts": [
-    {
-     "table": {
-      "headers": [
-       "人称变化",
-       "肯定句",
-       "疑问句",
-       "否定句"
-      ],
-      "rows": [
-       [
-        "I / You / We have …",
-        "We have …",
-        "Do you have …?",
-        "don’t have …"
-       ],
-       [
-        "I have a girlfriend.",
-        "Do you have a girlfriend? 你有女朋友吗？",
-        "I don’t have a girlfriend."
-       ],
-       [
-        "He / She / It has …",
-        "She ha s …",
-        "Do es she / he / it have …?",
-        "do es n’t have …"
-       ],
-       [
-        "He has a girlfriend.",
-        "Does she have a boyfriend?",
-        "She do es n’t have a boyfriend."
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习购物找零场景句型与 another 的用法。",
+  "points": [
+   {
+    "title": "another 表\"再来一个\"",
+    "explanation": "another = an + other，接单数可数名词：I want another envelope.（再要一个信封）。已有一个还想再要时用 another。",
+    "examples": [
+     {
+      "en": "I want another envelope, please.",
+      "cn": "请再给我一个信封。"
      }
-    }
-   ]
-  }
- ],
- "sentences": [
-  {
-   "title": "Do you have any...?",
-   "parts": [
-    {
-     "text": "any + 可数名词复数 注: any 表示一些，所以可数名词的单数前面是不可以直接使用 any 的，可以使用 a、an 代替。 any + 不可数名词"
-    },
-    {
-     "table": {
-      "headers": [],
-      "rows": [
-       [
-        "Do you",
-        "have any",
-        "friend s ?"
-       ],
-       [
-        "envelope s ?"
-       ],
-       [
-        "Does she",
-        "banana s ?"
-       ],
-       [
-        "apple s ?"
-       ],
-       [
-        "Does he",
-        "orange s ?"
-       ],
-       [
-        "pencil s ?"
-       ],
-       [
-        "Do they",
-        "pen s ?"
-       ],
-       [
-        "book s ?"
-       ],
-       [
-        "Do we",
-        "toy s ?"
-       ],
-       [
-        "cloth es ?"
-       ]
-      ]
+    ]
+   },
+   {
+    "title": "That's all 表\"就这些\"",
+    "explanation": "购物结束时说 That's all, thank you. 表示不需要别的了。",
+    "examples": [
+     {
+      "en": "Is that all? That's all, thank you.",
+      "cn": "就这些吗？就这些，谢谢。"
      }
-    },
-    {
-     "table": {
-      "headers": [],
-      "rows": [
-       [
-        "Do you",
-        "have any",
-        "coffee?"
-       ],
-       [
-        "tea?"
-       ],
-       [
-        "Does she",
-        "time?"
-       ],
-       [
-        "milk?"
-       ],
-       [
-        "Does he",
-        "water?"
-       ],
-       [
-        "juice?"
-       ],
-       [
-        "Do they",
-        "sugar?"
-       ],
-       [
-        "salt?"
-       ],
-       [
-        "Do we",
-        "pepper?"
-       ],
-       [
-        "flour?"
-       ]
-      ]
-     }
-    }
-   ]
-  }
- ],
- "expand": [
-  {
-   "title": "购物用语&序数词",
-   "parts": [
-    {
-     "text": "序数词（Ordinal numbers） 表示顺序的数字称为序数词。例如：first, second, third, fourth, fifth 等等。在写序数词时，需要正确拼写后缀 -th。在大多数情况下，只要将数字的末尾添加一个“th”即可。 在英语语言环境中，序数词通常用于描述次序、排名、日期等等。我们需要掌握这些序数词的用法和读音，以能够准确地表达相关信息。"
-    },
-    {
-     "table": {
-      "headers": [
-       "顾客"
-      ],
-      "rows": [
-       [
-        "店主"
-       ],
-       [
-        "Do you have any short s ? 请问您这卖短裤吗？ I want some shorts, please.",
-        "Yes. What size do you want? 有的，您要什么尺码的？"
-       ],
-       [
-        "I want medium size. 我要中码。"
-       ],
-       [
-        "Can I have a try? (have a try; have a rest ...)我可以试穿吗？",
-        "Yes, of course.当然可以。"
-       ],
-       [
-        "OK，this pair please. 没问题，我要了。"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "以 e 结尾的数字，需去 e 然后加 th，例如：nin e ⇒ nin th ."
-    },
-    {
-     "text": "以 ve 结尾的数字需要变 ve 为 fth，例如 twel ve ⇒ twel fth ."
-    },
-    {
-     "text": "以 y 结尾的数字，变 y 为 i 然后加 eth，例如 twent y ⇒ twenti eth ."
-    },
-    {
-     "table": {
-      "headers": [],
-      "rows": [
-       [
-        "first 第一 1st",
-        "eleven th 第十一 11th",
-        "twenty- first 第二十一 21st"
-       ],
-       [
-        "second 第二 2nd",
-        "twelf th 第十二 12th",
-        "twen tie th 第二十 20th"
-       ],
-       [
-        "third 第三 3rd",
-        "thir teen th 第十三 13th",
-        "thir tie th 第三十 30th"
-       ],
-       [
-        "four th 第四 4th",
-        "four teen th 第十四 14th",
-        "for tie th 第四十 40th"
-       ],
-       [
-        "fif th 第五 5th",
-        "fif teen th 第十五 15th",
-        "fif tie th 第五十 50th"
-       ],
-       [
-        "six th 第六 6th",
-        "six teen th 第十六 16th",
-        "six tie th 第六十 60th"
-       ],
-       [
-        "seven th 第七 7th",
-        "seven teen th 第十七 17th",
-        "seven tie th 第七十 70th"
-       ],
-       [
-        "eigh th 第八 8th",
-        "eigh teen th 第十八 18th",
-        "eigh tie th 第八十 80th"
-       ],
-       [
-        "nin th 第九 9th",
-        "nine teen th 第十九 19th",
-        "nine tie th 第九十 90th"
-       ],
-       [
-        "ten th 第十 10th",
-        "hundred th 第一百 100th",
-        "thousand th 第一千 1,000th"
-       ]
-      ]
-     }
-    }
-   ]
-  }
- ]
+    ]
+   }
+  ]
+ }
 }

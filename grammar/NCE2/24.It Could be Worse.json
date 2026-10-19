@@ -1,51 +1,27 @@
 {
- "grammar": [
-  {
-   "title": "词组复习",
-   "parts": [
-    {
-     "text": "I (took/ received ) a letter from him yesterday."
-    },
-    {
-     "text": "I met Harry (in the/ on the ) way to the station."
-    },
-    {
-     "text": "Everybody (believe/ believes ) he will win."
-    },
-    {
-     "text": "At the end of the month I received my ( salary /wages). §"
-    },
-    {
-     "text": "Can you ( borrow / lend ) me 5 pounds? §"
-    },
-    {
-     "text": "Please (look after/ pay attention to ) the blackboard. §"
-    },
-    {
-     "text": "He was standing ( besides / beside ) the window."
-    },
-    {
-     "text": "( It's /Its) a very (excited/ exciting ) film."
-    },
-    {
-     "table": {
-      "headers": [
-       "原型 (do)",
-       "过去式 (did)",
-       "过去分词 (done)",
-       "现在分词(doing)"
-      ],
-      "rows": [
-       [
-        "lose",
-        "lost",
-        "lost",
-        "losing"
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习 it 形式主语与 could 表过去的可能。",
+  "points": [
+   {
+    "title": "it 作形式主语",
+    "explanation": "It could be worse. = 情况本可能更糟。it 指代整个处境，也可作形式主语后置真正主语。",
+    "examples": [
+     {
+      "en": "It could be worse.",
+      "cn": "这还算好的呢。"
      }
-    }
-   ]
-  }
- ]
+    ]
+   },
+   {
+    "title": "could 表过去的可能",
+    "explanation": "could = can 的过去式，表过去的能力或可能性；语气比 must 弱。",
+    "examples": [
+     {
+      "en": "The manager was sympathetic, but he could do nothing.",
+      "cn": "经理深表同情，但无能为力。"
+     }
+    ]
+   }
+  ]
+ }
 }

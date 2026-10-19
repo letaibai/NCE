@@ -1,57 +1,27 @@
 {
- "expand": [
-  {
-   "title": "内容回顾(总结前面3个单元的核心)",
-   "parts": [
-    {
-     "text": "埋头苦学莫问前程！"
-    },
-    {
-     "text": "The last leg of a journey marks the halfway point. 行百里者半九十"
-    },
-    {
-     "text": "重点：纵向循环复习1、25、49、73一起复习，2、26、50、74一起复习..."
-    },
-    {
-     "text": "accelerator (UK): I wanted to go faster, so I put my foot on the accelerator."
-    },
-    {
-     "text": "brake: I pressed the brakes and tried to stop."
-    },
-    {
-     "text": "clutch: Putting your foot on the clutch disengages the gears."
-    },
-    {
-     "text": "emergency brake (US): The footbrake wasn’t working, so I used the emergency brake."
-    },
-    {
-     "text": "gas pedal (US): I wanted to go faster, so I put my foot on the gas pedal."
-    },
-    {
-     "text": "gear lever (UK): I put my hand on the gear lever so I could change gears."
-    },
-    {
-     "text": "gearshift (US): I put my hand on the gear shift so I could change gears."
-    },
-    {
-     "text": "gear stick (US): I put my hand on the gear stick so I could change gears."
-    },
-    {
-     "text": "handbrake (UK): The footbrake wasn’t working, so I used the handbrake."
-    },
-    {
-     "text": "ignition key: I turned the ignition key and started the car."
-    },
-    {
-     "text": "seat belt: As soon as I got in the car, I put on my seat belt."
-    },
-    {
-     "text": "steering wheel: A driver should always have at least one hand on the steering wheel."
-    },
-    {
-     "text": "speedometer: I checked the speedometer to see how fast we were going."
-    }
-   ]
-  }
- ]
+ "grammar": {
+  "summary": "本课学习过去分词作定语（called Bluebird）与速度叙事。",
+  "points": [
+   {
+    "title": "过去分词作后置定语",
+    "explanation": "a car called Bluebird = 一辆叫蓝鸟的车，过去分词短语表被动含义，相当于 which was called。",
+    "examples": [
+     {
+      "en": "He had a car called Bluebird.",
+      "cn": "他有一辆叫\"蓝鸟\"的汽车。"
+     }
+    ]
+   },
+   {
+    "title": "比较叙事的速度表达",
+    "explanation": "reached a speed of... / averaged a speed of... 速度动词搭配：reach（达到）、average（平均）。",
+    "examples": [
+     {
+      "en": "The car reached a speed of over 300 miles an hour.",
+      "cn": "汽车达到了每小时300英里以上的速度。"
+     }
+    ]
+   }
+  ]
+ }
 }

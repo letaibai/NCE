@@ -1,165 +1,29 @@
 {
- "grammar": [
-  {
-   "title": "表语从句",
-   "parts": [
-    {
-     "text": "表语从句与 宾语从句 的关系非常的密切；它们是同一类的从句。主、宾、表、同位都属于名词性从句。它们的写法基本相同，位置不同。 使用场景"
-    },
-    {
-     "text": "定义：一个句子做表语(主系表)。"
-    },
-    {
-     "text": "位置：主 + 系 + 表语 从句"
-    },
-    {
-     "text": "结构：系动词 + 连接词 + 句子做表语 = 表语从句 (与宾语从句类似)"
-    },
-    {
-     "table": {
-      "headers": [],
-      "rows": [
-       [
-        "名词性从句",
-        "主语",
-        "实义动词",
-        "连接词",
-        "宾语从句",
-        "I knew that my turn had come ."
-       ],
-       [
-        "系动词",
-        "表语从句",
-        "The car is a small toy called a ‘topcar’."
-       ],
-       [
-        "It 形式主语",
-        "系表/谓宾",
-        "主语从句",
-        "At one point, it seemed certain that their plane would crash ."
-       ],
-       [
-        "主语",
-        "谓宾",
-        "同位语从句",
-        "He couldn’t explain the fact that Mary’s wallet was found in his room."
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习 surprising 数量表达与现在完成时表经历。",
+  "points": [
+   {
+    "title": "现在完成时表持续服务",
+    "explanation": "has been/has flown 表\"到目前为止\"的累积：Captain Fawcett has flown passengers to many unusual places.",
+    "examples": [
+     {
+      "en": "Captain Fawcett has flown passengers to many unusual places.",
+      "cn": "Fawcett 机长已经把乘客送到了许多不寻常的地方。"
      }
-    },
-    {
-     "text": "表语从句通常跟在 系动词(is/am/are/was/were...) 后面，主要用一句话描述、修饰主语。"
-    },
-    {
-     "table": {
-      "headers": [
-       "主语 + is that/when/... 什么情况"
-      ],
-      "rows": [
-       [
-        "说事",
-        "The most surprising thing is that 最(令人)惊讶的是 I haven't had any water all day."
-       ],
-       [
-        "The most interesting thing is that 最(令人)有趣的是 he can't sing ."
-       ],
-       [
-        "The most embarrassing thing is that 最(令人)尴尬的是 she forgot to cook ."
-       ],
-       [
-        "建议",
-        "His suggestion is that we should keep calm."
-       ],
-       [
-        "问题",
-        "The question is when he will arrive here."
-       ]
-      ]
+    ]
+   },
+   {
+    "title": "数量表达的精确性",
+    "explanation": "Once he landed on the roof of a block of flats. once = 有一次，叙事标志词。",
+    "examples": [
+     {
+      "en": "On another occasion, he landed in a deserted car park.",
+      "cn": "还有一次，他降落在一个废弃的停车场。"
      }
-    }
-   ]
-  }
- ],
- "expand": [
-  {
-   "title": "现在完成时的搭配词",
-   "parts": [
-    {
-     "text": "副词 时间"
-    },
-    {
-     "table": {
-      "headers": [
-       "have/has",
-       "done"
-      ],
-      "rows": [
-       [
-        "just 刚刚",
-        "Now he has just bought another garage in Pinhurst ."
-       ],
-       [
-        "already 已经",
-        "He has already been to nearly every country in the world ."
-       ],
-       [
-        "ever 曾经",
-        "It is one of the ugliest faces I have ever seen ."
-       ],
-       [
-        "never 从来都不",
-        "I have never borrowed any money from you ."
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "up to now / up till now 截止到现在",
-       "so far 到现在",
-       "for + 一段时间",
-       "since＋过去的时间",
-       "since＋过去的动作（一般过去时的句子）"
-      ],
-      "rows": [
-       [
-        "Up to now, Mr. Scott has sent a great many requests for spare parts..."
-       ],
-       [
-        "So far, not one of them has been struck down by sudden death !"
-       ],
-       [
-        "He has been there for six months ."
-       ],
-       [
-        "Yes, I 've been here since 1976 ."
-       ],
-       [
-        "The policeman on duty told him that since his defeat ..."
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "原型 (Base Form)",
-       "过去式 (Past Tense)",
-       "过去分词 (Past Participle)"
-      ],
-      "rows": [
-       [
-        "fly",
-        "flew",
-        "flown"
-       ]
-      ]
-     }
-    }
-   ]
-  }
- ],
+    ]
+   }
+  ]
+ },
  "exercises": [
   {
    "q": "He is too smart ___ the answer. (请使用合适的“find”填空)",

@@ -1,186 +1,21 @@
 {
- "grammar": [
-  {
-   "title": "形容词与副词的比较级&最高级",
-   "parts": [
-    {
-     "text": "形容词 与 副词 的比较级、最高级 只有形容词与副词才有比较级和最高级。 变化规则 与动词时态无关，可以用于任何的时态里比较。 比较级的句型结构 介词短语通常放到句子的后面做定语表比较的范围。 表示 范围 的短语"
-    },
-    {
-     "table": {
-      "headers": [
-       "原级",
-       "比较级",
-       "最高级"
-      ],
-      "rows": [
-       [
-        "old",
-        "old er",
-        "the old est"
-       ],
-       [
-        "big",
-        "big ger",
-        "the big gest"
-       ],
-       [
-        "fat",
-        "fat ter",
-        "the fat test"
-       ],
-       [
-        "thin",
-        "thin ner",
-        "the thin nest"
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习 too 与 size 场景的形容词修饰。",
+  "points": [
+   {
+    "title": "too 表尺寸不合",
+    "explanation": "试穿场景：It's too small for me.（尺码太小）too 强调超出可接受范围，与 very（只是程度大）不同。",
+    "examples": [
+     {
+      "en": "Would you like to try it?",
+      "cn": "您想试穿一下吗？"
+     },
+     {
+      "en": "It's too small, I'm afraid.",
+      "cn": "恐怕它太小了。"
      }
-    },
-    {
-     "table": {
-      "headers": [
-       "条件",
-       "规则",
-       "原级",
-       "比较级",
-       "最高级"
-      ],
-      "rows": [
-       [
-        "以 e 结尾",
-        "直接加 r, st",
-        "lat e",
-        "late r",
-        "the late st"
-       ],
-       [
-        "辅+元+辅 (汉堡包结构)",
-        "双写最后一个辅音字母加 er, est",
-        "fa t",
-        "fat t er",
-        "the fat t est"
-       ],
-       [
-        "辅音字母加 y 结尾",
-        "变 y 为 i,加 er, est",
-        "happ y",
-        "happ i er",
-        "the happ i est"
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "主语 + 谓语（系）+ 比较级 + than …",
-       "主语 + 谓语（系）+ the + 最高级 + 范围"
-      ],
-      "rows": [
-       [
-        "He is cool er than before. 他比以前帅。 She is smart er than before. 她比从前时尚。 He was fast er than any other one.他比其他人都快。",
-        "It was the big gest rabbit in the world. 这 曾是 全世界最大的一只兔子。 He is the short est man in the world. 他是全世界最矮的人。 It is the bus iest day in this month. 今天是这个月最忙的一天。 He is the tall est of us all. 他是我们当中个子最高的。"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "in the world 全世界"
-    },
-    {
-     "text": "in China 全中国"
-    },
-    {
-     "text": "in Beijing 全北京"
-    },
-    {
-     "text": "in the(our) class 全班"
-    },
-    {
-     "text": "in a year 一年中"
-    },
-    {
-     "text": "in a season 一季度中"
-    },
-    {
-     "text": "in a month 一个月中"
-    },
-    {
-     "text": "of us all 我们所有人中"
-    },
-    {
-     "text": "of them all 他们所有人中"
-    }
-   ]
-  }
- ],
- "sentences": [
-  {
-   "title": "比较练习",
-   "parts": [
-    {
-     "text": "最高级的范围"
-    },
-    {
-     "text": "Hans is the tall est student in our class ."
-    },
-    {
-     "text": "The day before yesterday was the hot test day in the year ."
-    },
-    {
-     "text": "It is the larg est crowd I have ever seen . 使用句子表范围(定语从句)"
-    },
-    {
-     "text": "The green suitcase is the heav iest of them all ."
-    },
-    {
-     "text": "It is warm today, but it was warmer yesterday."
-    },
-    {
-     "text": "It is cool today, but it was cooler yesterday."
-    },
-    {
-     "text": "It is wet today, but it was wetter yesterday."
-    },
-    {
-     "text": "He's late again today, but he was later yesterday."
-    },
-    {
-     "text": "This test is easy, but that one is easier ."
-    },
-    {
-     "text": "This bookcase is large, but that one is larger ."
-    }
-   ]
-  }
- ],
- "expand": [
-  {
-   "title": "比较级&最高级的有用句型",
-   "parts": [
-    {
-     "text": "East, west, home is best. 金窝银窝，不如自己的草窝。"
-    },
-    {
-     "text": "Facts speak louder than words. 事实胜于雄辩。"
-    },
-    {
-     "text": "Health is better than wealth. 健康高于财富。"
-    },
-    {
-     "text": "It is better to be the head of dog. 宁为鸡头不做凤尾。"
-    },
-    {
-     "text": "The sauce is better than the fish. 喧宾夺主。"
-    },
-    {
-     "text": "There is no best, but better. 没有最好只有更好。"
-    },
-    {
-     "text": "To make the best even better. 没有最好只有更好。 ✓"
-    }
-   ]
-  }
- ]
+    ]
+   }
+  ]
+ }
 }

@@ -1,175 +1,27 @@
 {
- "grammar": [
-  {
-   "title": "一般过去时态",
-   "parts": [
-    {
-     "text": "一般过去时态 动词 过去式 的变化规则 (不规则动词表) 一般现在时态 （复习对比） 不规则动词练习(请转为一般现在时)"
-    },
-    {
-     "table": {
-      "headers": [
-       "过去（经常）的状态",
-       "过去（习惯）的动作"
-      ],
-      "rows": [
-       [
-        "主语 + was\\were + 非动词",
-        "主语 + did (v.过去式)"
-       ],
-       [
-        "I was home. They were at school. She was Pretty. It was great. She was right .",
-        "Michelle visit ed China in 2014. 2014 访问了中国 I watch ed “Toy story 3” last month. 我上个月看过了“玩具总动员” I clean ed my room this morning. 今天早上我打扫了房间 She help ed me yesterday. 她昨天帮助了我 They enjoy ed themselves last weekend. 上周他们玩得很开心"
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习时间频度副词与一般过去时。",
+  "points": [
+   {
+    "title": "一般过去时规则变化",
+    "explanation": "规则动词加 -ed：telephone→telephoned；以 e 结尾加 d；辅音+y 变 ies：study→studied。Did you...? 疑问用 did + 原形。",
+    "examples": [
+     {
+      "en": "He telephoned me four times yesterday.",
+      "cn": "他昨天给我打了四次电话。"
      }
-    },
-    {
-     "table": {
-      "headers": [
-       "一般情况 + ed",
-       "以字母 e 结尾 + d",
-       "以辅音字母+ y 结尾,变 y 为 i +ed",
-       "辅+元+辅（汉堡包结构),将辅音字母双写+ed"
-      ],
-      "rows": [
-       [
-        "call → called; air → aired",
-        "I air ed the room this morning. 我上午给房间通风了。"
-       ],
-       [
-        "live → lived; love → loved",
-        "They liv ed in New York two years ago. 他们两年前居住在纽约。"
-       ],
-       [
-        "try → tried; study → studied",
-        "I stud ied in the US in 2010. 我 2010 年在美国学习。"
-       ],
-       [
-        "stop → stopped",
-        "The bus stop ped just now. 公车刚刚停下来了。"
-       ]
-      ]
+    ]
+   },
+   {
+    "title": "电话场景表达",
+    "explanation": "answer the telephone 接电话；接不到说 But I didn't answer the phone! 过去否定用 didn't + 原形。",
+    "examples": [
+     {
+      "en": "I answered the telephone at six o'clock.",
+      "cn": "我六点接了电话。"
      }
-    },
-    {
-     "table": {
-      "headers": [
-       "陈述句",
-       "否定句(Don’t \\Doesn’t + do)",
-       "一般疑问句(Do\\does + do？)"
-      ],
-      "rows": [
-       [
-        "I watch ed “Toy story 3” last month .",
-        "I did n’t watch “Toy story 3” last month.",
-        "Did Michelle visit China in 2014?"
-       ],
-       [
-        "I clean ed my room this morning .",
-        "I did n’t clean my room this morning.",
-        "Did you clean your room this morning?"
-       ],
-       [
-        "She help ed me yesterday.",
-        "She did n’t help me yesterday.",
-        "Did she help you yesterday?"
-       ],
-       [
-        "They enjoy ed themselves last weekend .",
-        "They did n’t enjoy themselves last weekend.",
-        "Did they enjoy themselves last weekend?"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "I went to Hollywood nine years ago. → ?"
-    },
-    {
-     "text": "I made a snow man last winter. → ?"
-    }
-   ]
-  }
- ],
- "sentences": [
-  {
-   "title": "When did you…?",
-   "parts": [
-    {
-     "text": "When did you air the room? → I air ed the room in the morning ."
-    },
-    {
-     "text": "When did you clean your shoes? → I clean ed my shoes in the afternoon ."
-    },
-    {
-     "text": "When did you open the box? → I open ed the box just now ."
-    },
-    {
-     "text": "It is raining . → It rain ed yesterday."
-    },
-    {
-     "text": "It is snowing . → It snow ed yesterday."
-    },
-    {
-     "text": "He is boiling some eggs. → He boil ed some eggs yesterday."
-    },
-    {
-     "text": "? → We enjoy ed it yesterday, too."
-    }
-   ]
-  }
- ],
- "expand": [
-  {
-   "title": "电话用语",
-   "parts": [
-    {
-     "table": {
-      "headers": [
-       "中文",
-       "电话用语"
-      ],
-      "rows": [
-       [
-        "你好！我是 Venus。",
-        "Hello. It’s Venus. This is Venus."
-       ],
-       [
-        "请问李先生在吗？",
-        "Is Mr. Lee in?"
-       ],
-       [
-        "请问您是哪位？",
-        "Who is calling please?"
-       ],
-       [
-        "我是他的朋友，Venus.",
-        "It’s his friend, Venus."
-       ],
-       [
-        "请稍等。",
-        "Please hold on."
-       ],
-       [
-        "对不起他去开会了。",
-        "Sorry, he is in a meeting."
-       ],
-       [
-        "那好吧，请让他一会给我打过来好吗？",
-        "OK,tell him to call me later, please."
-       ],
-       [
-        "好的。",
-        "Ok. Bye."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "Where there is a will, there is a way. 世上无难事，只要肯登攀。"
-    }
-   ]
-  }
- ]
+    ]
+   }
+  ]
+ }
 }

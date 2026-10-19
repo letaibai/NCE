@@ -1,208 +1,23 @@
 {
- "grammar": [
-  {
-   "title": "名词所有格",
-   "parts": [
-    {
-     "text": "“所有格”是一种用来表示所属或归属关系的语法形式。它通常通过在名词后面添加一个特定的结尾来构成。 所有格在英语中用于表示所有关系，指示某物属于或归属于某人或某事物。它在句子中通常用于修饰名词或表示所有权。 名词所有格: 名词(有生命) + ’s + 名词 § car's color 车的颜色 color of the car.汽车无生命，不能使用's所有格 (注：新二纠正为's是按顺序翻译、of是倒序翻译，与有无生命关系不大) 。 所有格练习"
-    },
-    {
-     "table": {
-      "headers": [
-       "单数",
-       "复数",
-       "以s结尾",
-       "名词"
-      ],
-      "rows": [
-       [
-        "John 's book（约翰的书）",
-        "students ' books（学生们的书）",
-        "Chris ' car（克里斯的车）",
-        "Kwok 's cat. （夸克的猫）"
-       ],
-       [
-        "My mother 's dress (我妈妈的连衣裙)",
-        "the teachers ' room（老师们的房间）",
-        "men 's clothing（男士的衣服）"
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习 whose 引导的特殊疑问句与物品归属确认。",
+  "points": [
+   {
+    "title": "Whose...? 特殊疑问句",
+    "explanation": "Whose + 名词? 用于询问\"谁的\"，回答用物主代词或名词所有格（如 Tim's）。特殊疑问句用降调。",
+    "examples": [
+     {
+      "en": "Whose shirt is this? It's Tim's.",
+      "cn": "这是谁的衬衫？是 Tim 的。"
+     },
+     {
+      "en": "Is this your shirt?",
+      "cn": "这是你的衬衫吗？"
      }
-    },
-    {
-     "text": "Lucy ’s friend Lucy 的朋友"
-    },
-    {
-     "text": "Sam ’s book Sam 的书"
-    },
-    {
-     "text": "Mr.Wang ’s bag 王先生的包"
-    },
-    {
-     "text": "Uncle Li ’s watch 李叔叔的手表"
-    },
-    {
-     "text": "the lady ’s car 那位女士的车"
-    },
-    {
-     "text": "Jay ’s daughter 周杰伦的女儿"
-    },
-    {
-     "text": "Baby ’s son 宝贝的儿子"
-    },
-    {
-     "text": "his girlfriend ’s new house. 他的女朋友 的 新房子。"
-    },
-    {
-     "text": "her sister ’s classmate. 她的姐姐 的 同学。"
-    },
-    {
-     "text": "My mother ’s ."
-    },
-    {
-     "text": "Your sisters ’ ."
-    },
-    {
-     "text": "小明 ’s ."
-    },
-    {
-     "text": "His dog ’s ."
-    }
-   ]
-  }
- ],
- "sentences": [
-  {
-   "title": "形容词性物主代词",
-   "parts": [
-    {
-     "text": "形容词性物主代词(简称“形物”)是用来表示所属关系或归属关系的代词形式。它们在句子中作为形容词修饰名词，用来指示该名词所属的人或事物。形容词性物主代词可以指示单数或复数的所有者。 § 小提示：不要被这些专业术语吓到，或者去反感这些术语，更多的应该是去品味，为什么叫这样的名字，你也可以使用“阿猫、李四、张狗剩”去代替这些术语，只是一个名字，并不重要。重要的是怎么用出来与区别开来。 形容词 性物主代词的形式与名词的单复数和性别保持一致。此外，它们可以在句中作为形容词来修饰名词，起到描述归属关系的作用。 名词词 性物主代词容易与形容词性物主代词混淆使用，区别方法也很简单：形物后面要加拥有的东西，名物 = 形物 + 名词 ⇒ This is my pen. 形物 = This pen is my pen. 重复表达 = This pen is mine. 名物（替换my pen） 练习 （不主动练习的人，这辈子也学不好英语） 正确的物主代词 Whose is this handbag? = Whose handbag is this? Whose is this car? = Whose car is this? Whose is this coat? = Whose coat is this? Whose is this umbrella? = Whose umbrella is this? Whose is this pen? = Whose pen is this? Whose is this dress? = Whose dress is this?"
-    },
-    {
-     "table": {
-      "headers": [
-       "所有格",
-       "例( possessive + noun )",
-       "my 我的",
-       "your 你的",
-       "his 他的",
-       "her 她的",
-       "its 它的",
-       "our 我们的",
-       "their 他们的"
-      ],
-      "rows": [
-       [
-        "my keys"
-       ],
-       [
-        "your book"
-       ],
-       [
-        "his lunch"
-       ],
-       [
-        "her favorite dress"
-       ],
-       [
-        "its name."
-       ],
-       [
-        "our friend"
-       ],
-       [
-        "their grandparents."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "Her sister is his girlfriend. 她妹妹是他的女朋友。"
-    },
-    {
-     "text": "His wife is her good friend. 他太太是她的好朋友。"
-    },
-    {
-     "text": "His brother is her boss. 他哥哥是她的老板。"
-    },
-    {
-     "text": "This is she boyfriend’s watch."
-    },
-    {
-     "text": "This is she’s boyfriend’s watch."
-    },
-    {
-     "text": "This is her boyfriend ’s watch. 这是她男朋友的手表。"
-    },
-    {
-     "text": "It’s Stella ’s ."
-    },
-    {
-     "text": "It's Paul 's ."
-    },
-    {
-     "text": "It's Sophie 's ."
-    },
-    {
-     "text": "It's Steven 's ."
-    },
-    {
-     "text": "It's my son 's ."
-    },
-    {
-     "text": "It's my daughter 's ."
-    }
-   ]
-  }
- ],
- "expand": [
-  {
-   "title": "看电影学英语的方法",
-   "parts": [
-    {
-     "text": "看电影学英语 (注：最少应该学完 《新二》 后才能完整的识别英文中的大部分语法) 此外，可以选择参加英语角或组织观影讨论小组，与其他学习者一起分享观影体验，并互相交流学习成果。这样可以提供更多的练习机会和互动交流。"
-    },
-    {
-     "table": {
-      "headers": [
-       "字母",
-       "音标",
-       "例词"
-      ],
-      "rows": [
-       [
-        "Vv",
-        "/ v /",
-        "very, vivid, voice, five"
-       ],
-       [
-        "Ww",
-        "/ w /",
-        "wet, witch, wave, what"
-       ],
-       [
-        "Xx",
-        "/ ks /",
-        "fox, box, exit"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "选片：选择适合自己水平和兴趣的电影。对于初学者，可以选择简单的喜剧或动画片，以便更容易理解故事情节和对话。随着英语水平提高，可以尝试挑战更难的电影类型，例如剧情片或纪录片。"
-    },
-    {
-     "text": "字幕：开始时可以先使用双语字幕，将英语字幕与母语字幕同时显示。这样可以帮助理解对话内容并建立语境。随着进步，可以尝试只使用英文字幕，最后完全不依赖字幕进行理解。这有助于提升听力和阅读能力。"
-    },
-    {
-     "text": "数量：可以根据个人时间和学习计划来安排看电影的数量。至少每周看一到两部电影，并确保重复观看以强化记忆和理解。多样化观看的电影类型和题材，以扩展词汇和语法的应用。"
-    },
-    {
-     "text": "辅助：除了观看电影本身，还可以结合其他辅助工具来提高学习效果。例如，使用字幕工具（如语音识别软件）来检查自己对对话的理解，或使用在线资源查找电影的解说和评论，以更深入地理解电影背后的文化和语言细节。"
-    }
-   ]
-  }
- ],
+    ]
+   }
+  ]
+ },
  "exercises": [
   {
    "q": "Hans is here.That is ___ car.",

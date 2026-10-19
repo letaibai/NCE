@@ -1,227 +1,27 @@
 {
- "grammar": [
-  {
-   "title": "反身代词",
-   "parts": [
-    {
-     "text": "英语中为什么有反身代词？ 反身代词的用法"
-    },
-    {
-     "table": {
-      "headers": [
-       "人称",
-       "主格代词",
-       "反身代词"
-      ],
-      "rows": [
-       [
-        "主格代词",
-        "反身代词"
-       ],
-       [
-        "单数",
-        "复数"
-       ],
-       [
-        "第一人称",
-        "I",
-        "myself",
-        "we",
-        "ourselves"
-       ],
-       [
-        "第二人称",
-        "you",
-        "yourself",
-        "you",
-        "yourselves"
-       ],
-       [
-        "第三人称",
-        "he",
-        "himself",
-        "they",
-        "themselves"
-       ],
-       [
-        "she",
-        "herself"
-       ],
-       [
-        "it",
-        "itself"
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习年龄表达与 must 表承诺义务。",
+  "points": [
+   {
+    "title": "be + 数词 + years old",
+    "explanation": "问年龄 How old are you? 回答 I'm sixteen years old.（16岁可省略为 I'm sixteen.）表\"已经不小了\"说 You're not a baby!",
+    "examples": [
+     {
+      "en": "How old are you this year?",
+      "cn": "你今年多大了？"
      }
-    },
-    {
-     "table": {
-      "headers": [
-       "强调 主语&宾语",
-       "不言而喻的宾语"
-      ],
-      "rows": [
-       [
-        "He himself sent me a gift.他亲自送我一件礼物。 I see Obama himself. 我见了奥巴马本人。",
-        "Take good care of yourself. Enjoy yourself."
-       ]
-      ]
+    ]
+   },
+   {
+    "title": "must 表许诺式义务",
+    "explanation": "向家长保证时：I promise I'll be good.（will 表意愿）You must be home at half past ten.（must 表规定的义务）。",
+    "examples": [
+     {
+      "en": "You must be home early.",
+      "cn": "你必须早点回家。"
      }
-    },
-    {
-     "table": {
-      "headers": [
-       "介词 + 反身代词",
-       "动词 + 反身代词",
-       "between oneself 私 下",
-       "help oneself 随意"
-      ],
-      "rows": [
-       [
-        "by oneself 独自、依靠自己",
-        "enjoy oneself 玩的开心、过的愉快"
-       ],
-       [
-        "I’m going to swim by myself. He’s going to learn English by himself.",
-        "They always enjoy themselves. Come on, enjoy yourself, let yourself go!"
-       ],
-       [
-        "It’s just between ourselves.",
-        "Help yourselves, please."
-       ]
-      ]
-     }
-    }
-   ]
-  }
- ],
- "sentences": [
-  {
-   "title": "What’s the time? 时间的读法",
-   "parts": [
-    {
-     "text": "具体时间"
-    },
-    {
-     "table": {
-      "headers": [
-       "时间",
-       "past prep. 在…...之后、超过",
-       "to prep. 差"
-      ],
-      "rows": [
-       [
-        "3:00 → three o’clock",
-        "-",
-        "-"
-       ],
-       [
-        "7:30 → seven thirty",
-        "half past seven ✓",
-        "half to eight"
-       ],
-       [
-        "4:20 → four twenty",
-        "twenty past four ✓",
-        "forty to five"
-       ],
-       [
-        "11:40 → eleven forty",
-        "forty past eleven",
-        "twenty to twelve ✓"
-       ],
-       [
-        "10:15 → ten fifteen",
-        "fifteen past ten / a quarter past ten ✓",
-        "three quarter s to eleven"
-       ],
-       [
-        "2:45 → two forty-five",
-        "forty-five past two / three quarter s past two",
-        "fifteen to three / a quarter to three ✓"
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "2:55（两点五十五分）",
-       "7:30（七点三十分）",
-       "11:50（十一点五十分）"
-      ],
-      "rows": [
-       [
-        "two fifty-five",
-        "seven thirty",
-        "eleven fifty"
-       ],
-       [
-        "five to three",
-        "half to eight",
-        "ten to twelve"
-       ],
-       [
-        "fifty-five past two",
-        "thirty past seven / half past seven",
-        "fifty past eleven"
-       ],
-       [
-        "",
-        "two quarters past seven",
-        ""
-       ]
-      ]
-     }
-    }
-   ]
-  }
- ],
- "expand": [
-  {
-   "title": "时间与介词的搭配",
-   "parts": [
-    {
-     "text": "需加介词的情况(表示“时间”是“名词”时就需要加上相应的介词) Where do you come from? I come from France. § 不需用介词的情况(表示“时间”是“副词”时不需要加介词) 副词无需介词的情况：today \\ tomorrow \\ yesterday \\ this… \\ that… \\ next… \\ last…"
-    },
-    {
-     "table": {
-      "headers": [
-       "at + 点(具体时间点)",
-       "on + 天(某一天)",
-       "in + 月、季、年(较宽泛的时间范围)"
-      ],
-      "rows": [
-       [
-        "I often meet him at ten o’clock. I’m going to arrive at 10:00 on Friday. I am going to see him at ten o’clock.",
-        "His birthday is on May 1st. She must get up early on Monday. Invited me to dinner on my birthday.",
-        "They come back in May. It’s cold in winter and hot in summer. It often rains in November."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "I always go to work in the morning."
-    },
-    {
-     "text": "What is the climate like in your country?"
-    },
-    {
-     "text": "It’s cold in winter and hot in summer."
-    },
-    {
-     "text": "It’s sunny today."
-    },
-    {
-     "text": "I’m going to meet some friends tomorrow."
-    },
-    {
-     "text": "He is going to go abroad next year."
-    },
-    {
-     "text": "He is free this month."
-    }
-   ]
-  }
- ]
+    ]
+   }
+  ]
+ }
 }

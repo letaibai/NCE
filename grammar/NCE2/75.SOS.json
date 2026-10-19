@@ -1,68 +1,27 @@
 {
- "grammar": [
-  {
-   "title": "可以表示“变成”的一些动词",
-   "parts": [
-    {
-     "text": "\"grow,\" \"turn,\" \"go,\" \"get,\" \"come,\" 和 \"fall\" 在表示“变成”的不同用法，get 、become 、turn 、go、 grow 当翻译为“变得” 时，为系动词。 By 的5种用法 §"
-    },
-    {
-     "table": {
-      "headers": [
-       "动词",
-       "用法示例",
-       "解释",
-       "grow",
-       "turn",
-       "go",
-       "get",
-       "come",
-       "fall"
-      ],
-      "rows": [
-       [
-        "He has grown fat. Leaves grow green in spring. My interest in art has grown. He has grown to like studying mathematics. He grew angry when I told him about it.",
-        "grow dark（变黑） 表示逐渐或渐变成某种状态。可指自然生长或兴趣、感情等的发展。 grow = get slowly 慢慢变得"
-       ],
-       [
-        "Leaves will turn yellow in autumn. The leaves are turning yellow. His face turned red. She turned her hobby into a career. A colony of bees had turned the engine into a hive.",
-        "表示将某物改变成某种状态，或是改变颜色。可用于叶子变黄、脸变红，也可表示将兴趣、爱好变成事业。"
-       ],
-       [
-        "Some foods go bad easily. The milk went sour. This apple has gone bad. Things got so bad that he went on a diet.",
-        "表示不好的变化，通常指食物变坏或状态恶化。也可表示一下子变得，如天气突然变冷。"
-       ],
-       [
-        "She got sick last week. They got married last year. Coal got scarce last winter. Things got so bad recently that he decided to go on a diet.",
-        "表示逐渐变成某种状态，通常强调变化的过程。可用于描述生病、结婚等情况。 在口语中使用较多，表示“成为（某种状态）”，强调的是变化的过程（一下子变得）。天气变化，一般用 get，get cold(变冷)"
-       ],
-       [
-        "Her dream to swim across the channel has come true. The dream comes true. 梦想成真 Take it easy; everything will come right. The knot came loose. 变松动",
-        "表示实现某种状态或梦想，如梦想成真。也可表示事物状态的变化，如结的变松。 可表示“变成，成为，达到”等，与 true 连用时表示“实现” come + true/right/loose"
-       ],
-       [
-        "You fell asleep while I was talking. He fell ill last week. Prices fell significantly.",
-        "表示逐渐或突然变成某种状态，如入睡、生病或价格下跌。 fall + asleep/ill 坠落梦乡/病倒了"
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习 while doing 时间状语与 signal 场景表达。",
+  "points": [
+   {
+    "title": "while + doing 分词状语",
+    "explanation": "While flying over the mountains, the pilot saw... 省略主语+be（逻辑主语同主句），分词作时间状语。",
+    "examples": [
+     {
+      "en": "When it crashed, the plane was on fire.",
+      "cn": "坠机时，飞机着着火。"
      }
-    },
-    {
-     "text": "'I've just arrived by train,' she said. 通过...方式(by doing)、方法。"
-    },
-    {
-     "text": "It was bought by my grandfather . 被动语态 + by 表被谁做"
-    },
-    {
-     "text": "They told stories and sang songs by the campfire . 在... 旁边 §"
-    },
-    {
-     "text": "Workers will have completed the new roads by the end of this year . By + 时间：截止到，搭配“完成成”"
-    },
-    {
-     "text": "It cleared the mountain by 400 feet . 相差额度：增长了、下降了、增加了、减少了，体现中间浮动变化差额"
-    }
-   ]
-  }
- ]
+    ]
+   },
+   {
+    "title": "so...that 复现与 order 表命令",
+    "explanation": "The signal was so faint that... so...that 结果从句复现，叙事工具箱持续扩充。",
+    "examples": [
+     {
+      "en": "She stamped out the letters SOS in the snow.",
+      "cn": "她在雪地里踩出SOS字母。"
+     }
+    ]
+   }
+  ]
+ }
 }

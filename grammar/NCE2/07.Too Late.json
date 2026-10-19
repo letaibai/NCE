@@ -1,256 +1,27 @@
 {
- "grammar": [
-  {
-   "title": "过去进行时",
-   "parts": [
-    {
-     "text": "表达过去正在进行或者持续进行的动作。过去动作同时发生的时态，习惯上 一个 用一般过去时, 另一个 用过去进行时； 动作长 用过去进行时， 动作短 用一般过去时; 结构：was/were + doing (be 的过去式 + 现在分词) 过去动作同时发生的时态 动词短语中的小品词 许多动词加上介词或副词后就会改变词义，这些介词和副词通常被称为小品词。它们没有词形的变化。 有些小品词既可以作介词又可以作副词。 判断一个小品词是副词还是介词要看小品词有没有带宾语，介词的位置相对固定，不能变动。 及物动词词组的宾语若是名词可放中间可放末尾，若是代词只能放中间；不及物动词词组的宾语无论名词代词只能放末尾。 动词短语"
-    },
-    {
-     "table": {
-      "headers": [
-       "陈述句",
-       "否定句",
-       "一般疑问句",
-       "特殊疑问句"
-      ],
-      "rows": [
-       [
-        "She was reading a book at 11:00 last night.",
-        "She was not reading a book at 11:00 last night.",
-        "Was she reading a book at 11:00 last night?",
-        "What was she doing at 11:00 last night?"
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习过去进行时与 while/when 的配合叙事。",
+  "points": [
+   {
+    "title": "过去进行时叙事",
+    "explanation": "背景动作用过去进行时铺垫（were having, was preparing），突发事件用一般过去时（stole, rushed）。while + 进行时 = 长动作。",
+    "examples": [
+     {
+      "en": "While the plane was flying over the mountains, it crashed.",
+      "cn": "飞机在山区上空飞行时坠毁了。"
      }
-    },
-    {
-     "text": "过去进行时往往与表示一段时间的状语连用，如 all morning，all night，all day，all evening，the whole week 等，表示这段时间一直在干什么。"
-    },
-    {
-     "text": "What were you doing all evening?"
-    },
-    {
-     "text": "I couldn’t find you anywhere."
-    },
-    {
-     "table": {
-      "headers": [
-       "过去进行时",
-       "一般过去时"
-      ],
-      "rows": [
-       [
-        "表示过去正在进行的动作或情况。",
-        "表示比较短暂的动作或事件。"
-       ],
-       [
-        "正在进行中的动作或情况往往由连词 when与while 当…时候（强调动作同时发生），as，just as 等引导。",
-        "过去进行时和一般过去时经常同在一个句子里使用来表达多个动作同时发生。"
-       ]
-      ]
+    ]
+   },
+   {
+    "title": "one of + 复数",
+    "explanation": "one of the most valuable parcels 表\"其中之一\"，of 后必须接复数名词。",
+    "examples": [
+     {
+      "en": "Two men took the parcel off the plane.",
+      "cn": "两个人把包裹拿下了飞机。"
      }
-    },
-    {
-     "table": {
-      "headers": [
-       "过去两个动作 同时 发生 (动作的开始时间和结束时间几乎相同, 均用过去进行时)",
-       "两个动作在 同时段 进行 (在不同时间结束, 先发生的动作未结束, 另一个动作发生, 先发生的动作用进行时态, 另一个动作用过去时。)",
-       "瞬间动词(不使用进行时态, 所以两个动作同时发生, 延续性动词用进行时态, 瞬间动词使用过去时态：arrive、open、close...)"
-      ],
-      "rows": [
-       [
-        "I was listening to the radio, my sister was dancing. When my mother was doing the housework, my father was watching TV.",
-        "When I was opening the door, the telephone rang . 先开门 When the telephone was ringing, I opened the door. 电话先响"
-       ],
-       [
-        "When he arrived , I was having dinner.",
-        "I am arriving . 瞬间动词的进行时态表示将要"
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "有宾语：介词",
-       "无宾语：副词"
-      ],
-      "rows": [
-       [
-        "vi.&vt. + prep./adv. + 宾语(n.)",
-        "She is walking up the hill.",
-        "vt. + 宾语(n./pron.) + adv.",
-        "I always take money with me. 我身上总带些钱"
-       ],
-       [
-        "take off the coat = take the coat off = take it off put on your shoes = put your shoes on = put them on"
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "pull down…(摧毁或破坏)",
-       "pull one's leg 开玩笑",
-       "make up… (编造，虚构；化妆)",
-       "ask for…(请求、要求)"
-      ],
-      "rows": [
-       [
-        "They have pulled down the old building."
-       ],
-       [
-        "You are pulling my leg.你开我玩笑"
-       ],
-       [
-        "Make up your mind.(make up one's mind)"
-       ],
-       [
-        "He asked for permission to leave.ask (sb.) for sth."
-       ]
-      ]
-     }
-    }
-   ]
-  }
- ],
- "sentences": [
-  {
-   "title": "when/while/as 使用上的区别",
-   "parts": [
-    {
-     "text": "在过去进行时中，\"when\"、\"while\"和\"as\"都可以用来表示两个或多个同时发生的动作或事件。它们翻译为\"当....时\"，可以铺垫出过去进行时态的 故事背景 。但在使用中时注意上面表格中细微的区别。"
-    },
-    {
-     "table": {
-      "headers": [
-       "when + 延续性动词/瞬间动词 (可替换while、as)",
-       "while + 从句（延续性动词）",
-       "as + 从句（延续性动词）"
-      ],
-      "rows": [
-       [
-        "强调一个事件或动作发生时另一个（事件或动作）正在进行",
-        "强调两个或多个持续的动作在同一时间段内同时发生",
-        "表示两个或多个同时发生的动作(或事件)之间的因果关系"
-       ],
-       [
-        "When可以代替as/while使用，反之需视情况(是否为延续性动词) 用 as/while 代替。while 通常只引导持续时间较长的动作，并且主句和从句可以同时用过去进行时（while 过去进行+过去进行），而 when 和 as 一般不这么用(when/as 一般过去 + 过去进行)。"
-       ],
-       [
-        "We were having supper when the lights went out.（引导比较短暂的动作，while 和 as 则一般不行）",
-        "John was watching TV while his wife was talking with a neighbour over the phone.",
-        "Just as I was leaving the house, you came in."
-       ],
-       [
-        "I was cooking dinner when he call ed .（他打电话的时候我正在做晚饭。） They were playing soccer when it start ed raining.（下雨的时候他们正在踢足球。）",
-        "She was studying while her friend was watching TV.（她朋友在看电视的时候她在学习。） He was reading a book while waiting for the bus.（他在等公交车的时候读书。）",
-        "As I was walking home, I saw a shooting star.（当我走回家的时候，我看到了一颗流星。） As they were driving to the party, they got stuck in traffic.（他们去派对的路上遇到了交通堵塞。）"
-       ]
-      ]
-     }
-    }
-   ]
-  }
- ],
- "expand": [
-  {
-   "title": "过去进行时铺垫故事的背景",
-   "parts": [
-    {
-     "text": "While/When/As 相互转换"
-    },
-    {
-     "table": {
-      "headers": [
-       "故事背景铺垫(when/while/as 当...时)",
-       "当 A 发生的时候 出现了 B"
-      ],
-      "rows": [
-       [
-        "When they were sleeping ,",
-        "a thief sneaked in."
-       ],
-       [
-        "While he was reading the letter,",
-        "he heard a knock at the door."
-       ],
-       [
-        "While my friend, George, was reading in bed,",
-        "two thieves climbed into his kitchen. §"
-       ],
-       [
-        "When my husband was going into the dining room this morning,",
-        "he dropped some coins on the floor. §"
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "当 A 时 发生了 B",
-       "当B时 发生了 A"
-      ],
-      "rows": [
-       [
-        "While/When/As two detectives were keeping guard at the door, two others opened the parcel.",
-        "Two detectives were keeping guard at the door, when two others opened the parcel."
-       ],
-       [
-        "While/As/When they were sleeping , a thief sneaked in.",
-        "They were sleeping , when a thief sneaked in."
-       ],
-       [
-        "When the plane arrived , some of the detectives were waiting inside the main building while others were waiting on the airfield.",
-        "The plane arrived , While/As/When some of the detectives were waiting inside the main building While/As/When others were waiting on theairfield."
-       ],
-       [
-        "He was reading a book when/as/while his wife was cleaning the house.",
-        "when 强调了后一个事件（妻子清扫房子）发生时前一个事件（他读书）正在进行。这种使用方式表示两个事件有一定的顺序和因果关系。 while 强调两个动作的同时性。\"while\"用来引起一个附加动作，表示两个动作在同一时间段内持续进行。 as 表示两个事件之间 更强 的同时性，并且没有明确的因果关系。这里的重点是强调两个动作同时发生。"
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "原型",
-       "过去式",
-       "过去分词",
-       "现在分词"
-      ],
-      "rows": [
-       [
-        "try",
-        "tried",
-        "tried",
-        "trying"
-       ],
-       [
-        "steal",
-        "stole",
-        "stolen",
-        ""
-       ],
-       [
-        "take",
-        "took",
-        "taken",
-        "taking"
-       ],
-       [
-        "keep",
-        "kept",
-        "kept",
-        ""
-       ]
-      ]
-     }
-    }
-   ]
-  }
- ]
+    ]
+   }
+  ]
+ }
 }

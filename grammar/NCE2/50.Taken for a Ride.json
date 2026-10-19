@@ -1,259 +1,29 @@
 {
- "sentences": [
-  {
-   "title": "表示习惯性动作",
-   "parts": [
-    {
-     "text": "表示状态、感觉、情绪、精神活动的动词 常用于一般现在时而不用于进行时。"
-    },
-    {
-     "table": {
-      "headers": [
-       "动词",
-       "音标",
-       "例句",
-       "appear 出现，显现",
-       "appreciate 欣赏，感激",
-       "believe 相信，认为",
-       "feel 感觉，觉得",
-       "forget 忘记",
-       "hear 听到，听说",
-       "know 知道，了解",
-       "like 喜欢，像",
-       "look 看，看起来",
-       "notice 注意到，察觉",
-       "remember 记得，记住",
-       "resemble 像，类似于",
-       "see 看见，明白",
-       "think 思考，认为",
-       "understand 理解，明白",
-       "belong to 属于，归属于",
-       "consist of 由...组成，包括",
-       "contain 包含，含有",
-       "desire 渴望，希望",
-       "detest 厌恶，憎恶",
-       "dislike 不喜欢，讨厌",
-       "hate 恨，憎恶",
-       "hope 希望，盼望",
-       "love 爱，喜欢",
-       "matter 重要，有关系",
-       "mean 意味着，表示",
-       "mind 介意，在意",
-       "need 需要，必须",
-       "want 想要，希望",
-       "wish 希望，祝愿"
-      ],
-      "rows": [
-       [
-        "/əˈpɪr/",
-        "The sun will appear in the morning.（太阳将在早晨出现。）"
-       ],
-       [
-        "/əˈpriːʃiˌeɪt/",
-        "I appreciate your help.（我感谢你的帮助。）"
-       ],
-       [
-        "/bɪˈliːv/",
-        "I believe in your abilities.（我相信你的能力。）"
-       ],
-       [
-        "/fiːl/",
-        "I feel happy today.（我今天感觉很开心。）"
-       ],
-       [
-        "/fərˈɡɛt/",
-        "Don't forget your keys.（不要忘记你的钥匙。）"
-       ],
-       [
-        "/hɪr/",
-        "I can't hear what you're saying.（我听不到你在说什么。）"
-       ],
-       [
-        "/noʊ/",
-        "She knows the answer.（她知道答案。）"
-       ],
-       [
-        "/laɪk/",
-        "I like ice cream.（我喜欢冰淇淋。）"
-       ],
-       [
-        "/lʊk/",
-        "She looked tired.（她看起来很累。）"
-       ],
-       [
-        "/ˈnoʊtɪs/",
-        "Did you notice the beautiful flowers?（你注意到美丽的花了吗？）"
-       ],
-       [
-        "/rɪˈmɛmbər/",
-        "I can't remember his name.（我记不住他的名字。）"
-       ],
-       [
-        "/rɪˈzɛmbəl/",
-        "The two sisters resemble each other.（这两姐妹长得像。）"
-       ],
-       [
-        "/siː/",
-        "I see a beautiful sunset.（我看见美丽的日落。）"
-       ],
-       [
-        "/θɪŋk/",
-        "What do you think about this idea?（你觉得这个主意怎么样？）"
-       ],
-       [
-        "/ˌʌndərˈstænd/",
-        "I don't understand the instructions.（我不理解这些说明。）"
-       ],
-       [
-        "/bɪˈlɔŋ tu/",
-        "This book belongs to me.（这本书属于我。）"
-       ],
-       [
-        "/kənˈsɪst ʌv/",
-        "The team consists of talented players.（这个队由有才华的球员组成。）"
-       ],
-       [
-        "/kənˈteɪn/",
-        "This box contains chocolates.（这个盒子里有巧克力。）"
-       ],
-       [
-        "/dɪˈzaɪər/",
-        "She desires success in her career.（她渴望在事业上取得成功。）"
-       ],
-       [
-        "/dɪˈtɛst/",
-        "I detest violence.（我厌恶暴力。）"
-       ],
-       [
-        "/dɪsˈlaɪk/",
-        "He dislikes spinach.（他不喜欢菠菜。）"
-       ],
-       [
-        "/heɪt/",
-        "I hate lies.（我讨厌谎言。）"
-       ],
-       [
-        "/hoʊp/",
-        "I hope for a better future.（我希望有一个更好的未来。）"
-       ],
-       [
-        "/lʌv/",
-        "She loves her family.（她爱她的家人。）"
-       ],
-       [
-        "/ˈmætər/",
-        "It doesn't matter.（这没关系。）"
-       ],
-       [
-        "/miːn/",
-        "What does this word mean?（这个词是什么意思？）"
-       ],
-       [
-        "/maɪnd/",
-        "Do you mind if I open the window?（你介意我打开窗户吗？）"
-       ],
-       [
-        "/niːd/",
-        "I need some rest.（我需要休息。）"
-       ],
-       [
-        "/wɑnt/",
-        "She wants a new bicycle.（她想要一辆新自行车。）"
-       ],
-       [
-        "/wɪʃ/",
-        "I wish you a happy birthday.（祝你生日快乐。）"
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习 love doing 与 regret to say 结构。",
+  "points": [
+   {
+    "title": "love/like + doing",
+    "explanation": "情感动词 love/like/hate/prefer 后接动名词表习惯性爱好：I love travelling in the country. 接不定式表具体某次。",
+    "examples": [
+     {
+      "en": "I love travelling in the country, but I don't like losing my way.",
+      "cn": "我喜欢在乡下旅行，但不喜欢迷路。"
      }
-    },
-    {
-     "text": "Q:Where did the writer want to go? Did he know the way or not? What did the conductor promise to do?"
-    },
-    {
-     "text": "A:The writer wanted to go to Woodfast Green but as he did not know the way, the conductor promised to tell him where to get off. (but as) “but as” 并不是并列短语, 两者连在一起仅仅是巧合第一句和第二句之间是 “but” 关系, 第二句和第三句之间为 “as” 关系, 所以产生 “but as”。"
-    }
-   ]
-  }
- ],
- "expand": [
-  {
-   "title": "易混淆词 lose, loose, miss.",
-   "parts": [
-    {
-     "table": {
-      "headers": [
-       "lose vt. 失去，丧失，遗失，丢失",
-       "loose adj. 松动的，松的，松开的",
-       "miss v. 怀念, 思念, 错过，未能…，缺（课等），惦念，想念"
-      ],
-      "rows": [
-       [
-        "Roy has lost his job again. She lost her parents when she was sixteen. If you bet on that horse you will lose your money. （bet on sth 就…打赌）"
-       ],
-       [
-        "Servral screws have come loose. （come loose，松了（系动词+adj.）） The handle of this suitcase is very / has come loose."
-       ],
-       [
-        "Hurry or you’ll miss the train. I missed my English lesson."
-       ]
-      ]
+    ]
+   },
+   {
+    "title": "regret to say 与 regret doing",
+    "explanation": "regret to say = 遗憾地说（现在）；regret doing = 后悔做过（过去）。含义随不定式/动名词变化。",
+    "examples": [
+     {
+      "en": "I regret to say that I have lost my way.",
+      "cn": "很遗憾我迷路了。"
      }
-    },
-    {
-     "table": {
-      "headers": [
-       "missing adj. 不见了的",
-       "sth. is lost = sth. is missing"
-      ],
-      "rows": [
-       [
-        "missing boy 失踪了的孩子(不能用 “lost” )"
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "Expect v. 预计…可能发生（或来到），等待，期盼",
-       "Wait for 等待"
-      ],
-      "rows": [
-       [
-        "I expect / I’m expecting to hear from you. 表示等待时往往侧重人的心理。 I’m expecting the bus to arrive in the next ten minutes. My trip took me longer than I expected.",
-        "I’m waiting for the next bus.具体在某个地方等"
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "原型 (do)",
-       "过去式 (did)",
-       "过去分词 (done)",
-       "现在分词 (doing)"
-      ],
-      "rows": [
-       [
-        "forget",
-        "forgot",
-        "forgotten",
-        "forgetting"
-       ],
-       [
-        "prefer",
-        "preferred",
-        "preferred",
-        "preferring"
-       ]
-      ]
-     }
-    }
-   ]
-  }
- ],
+    ]
+   }
+  ]
+ },
  "exercises": [
   {
    "q": "I sat in the front of the bus ___ get a good view of the countryside.",

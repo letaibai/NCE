@@ -1,104 +1,27 @@
 {
- "grammar": [
-  {
-   "title": "表示目的的几种方式",
-   "parts": [
-    {
-     "text": "想表示两件事，一件事儿的目的是去为了做另外一件事儿，这个时候呢，大家可以写出来两个普通的简单句，然后把它们进行合并。学习语言的过程当中的最好的一种方式就是从已知的推出未知的，这样可以帮助大家逐渐的打好这个基础，然后不断的进行提高，那怎么样从已知的变成未知的呢？就是我们不会直接写这个，但是呢，我们至少会写两个简单句，两个普通的简单句写好之后，把它一合并就变成下面的这2种样子。 五种方式 分成两大类(词组与从句) 从句对于句子主语是没有任何要求的，也就是两件事主语相同啊，不相同啊，随便都可以合并成这个句子来表示目的。但这个从句当中必须要有情态动词。那情态动词加什么呢？取决于你要表达的意思，你可以加入不同的情态动词，你看我们之前学过对吧，应该可用should是吧，需要可以用need，再比如说还有什么的能够啊，Could等等等等，你可以用不同的情态动词，总而言之，加个情态动词就行了。"
-    },
-    {
-     "table": {
-      "headers": [
-       "词组( 主语 必须相同)",
-       "to do (不定式表目的)",
-       "in order to do",
-       "so as to do",
-       "从句 （必须有 情态动词 ）",
-       "so that + 句子",
-       "in order that + 句子",
-       "有时so/that可以省略"
-      ],
-      "rows": [
-       [
-        "I went to live in France to/in order to/so as to learn French.带 to 的不定式及 in order to 和so as to 可以用来表示目的"
-       ],
-       [
-        "I went to France not to study French, but to study chemics. not to 可以用来表示取舍 I shut the door quietly, so as not to/in order not to wake the bady.so as not to/in order not to 可以用于表示“以防”"
-       ],
-       [
-        "这3组词完全没有区别，意思都一样可以任意替换。合并简单句时两件事的主语必须要相同，把相同的主语省掉，变成一个词组表示目的。"
-       ],
-       [
-        "I’ ve arrived early so that / in order that I may / can / will get the tickets. 当主句用一般现在时、现在完成时或一般将来时的时候，后面可以跟 may，can 或 will I arrivd early so that / in order that I might not miss anything.当主句用一般过去时、过去进行时或过去完成时的时候，后面可以跟 should，could，might 或 would He was barking for someone to let him out. = He was barking so that someone would let him out.当前后主语不一致时，不定式前面加 for + 名词/代词比 that 结构更简洁，不定式的逻辑主语 for sb. to do sth."
-       ],
-       [
-        "后面可以加上一个句子，引出目的状语从句，有一个特点，句当中必须要有 情态动词 就可以了。"
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习 so that 目的状语从句。",
+  "points": [
+   {
+    "title": "so that 目的从句",
+    "explanation": "He made me take him out... so that 表目的：so that + 从句（常含 could/would）。与 so...that（结果）区分。",
+    "examples": [
+     {
+      "en": "He barked so that someone would let him out.",
+      "cn": "它叫个不停，好让人放它出去。"
      }
-    },
-    {
-     "table": {
-      "headers": [
-       "原句",
-       "目的状语从句"
-      ],
-      "rows": [
-       [
-        "He ran to the station. He wanted to catch the last train.",
-        "He ran to the station to/in order to/so as to catch the last train.主语相同(词组)"
-       ],
-       [
-        "He ran to the station so that/in order that he would catch the last train.增加情态动词(从句)"
-       ],
-       [
-        "I opened the door quietly. I didn' t want to disturb him.",
-        "I opened the door quietly not to/in order not to/so as not to disturb him 主语相同(词组否定句)"
-       ],
-       [
-        "I opened the door quietly so that/in order that I would not disturb him.增加情态动词(从句定句)"
-       ],
-       [
-        "The thief ran quickly. The policeman couldn' t catch him.",
-        "不能使用词组合并（主语不相同）"
-       ],
-       [
-        "The thief ran quickly so that/in order that the policeman could n' t catch him.句子里带有情态动词(从句是完整的句子可有自己的主语)"
-       ]
-      ]
+    ]
+   },
+   {
+    "title": "develop a habit 表\"养成习惯\"",
+    "explanation": "Since then, he has developed another bad habit. 现在完成时表习惯已形成。",
+    "examples": [
+     {
+      "en": "My dog has developed a bad habit.",
+      "cn": "我的狗养成了坏习惯。"
      }
-    },
-    {
-     "table": {
-      "headers": [],
-      "rows": [
-       [
-        "在 bring，buy，need，take，use，want 等动词后经常用宾语加 to 不定式，用来表示宾语的目的"
-       ],
-       [
-        "I",
-        "bring",
-        "a spoon to eat this ice cream with."
-       ],
-       [
-        "buy"
-       ],
-       [
-        "need"
-       ],
-       [
-        "take"
-       ],
-       [
-        "use"
-       ],
-       [
-        "want"
-       ]
-      ]
-     }
-    }
-   ]
-  }
- ]
+    ]
+   }
+  ]
+ }
 }

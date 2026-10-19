@@ -1,29 +1,27 @@
 {
- "grammar": [
-  {
-   "title": "句子的分类（按照结构划分）",
-   "parts": [
-    {
-     "table": {
-      "headers": [
-       "简单句 名词n. + 动词v.",
-       "并列句 多件事一样重要",
-       "复合句 主句+从句，多件事不一样重要"
-      ],
-      "rows": [
-       [
-        "主语 + 谓语",
-        "使用不同的连词连接句子"
-       ],
-       [
-        "谓语动词的变化： 时态、语态、情态、否定",
-        "and \\ or",
-        "名词性从句（主/宾/表/同位） 定语从句、状语从句"
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习 be willing to 与鬼屋叙事的时态配合。",
+  "points": [
+   {
+    "title": "be willing to do",
+    "explanation": "愿意做某事：Mr. Thompson was willing to sell it. willingness 名词形式也常见。",
+    "examples": [
+     {
+      "en": "Mr. Thompson is going to sell it because it is haunted.",
+      "cn": "Thompson 先生打算卖掉它，因为它闹鬼。"
      }
-    }
-   ]
-  }
- ]
+    ]
+   },
+   {
+    "title": "be told / hear 表\"听说\"的被动信息源",
+    "explanation": "He told me that... 引语结构 + was going to 过去将来时态。",
+    "examples": [
+     {
+      "en": "The villagers have told him that they will not accept the pub.",
+      "cn": "村民们告诉他他们不会接受这酒馆。"
+     }
+    ]
+   }
+  ]
+ }
 }

@@ -1,70 +1,27 @@
 {
- "expand": [
-  {
-   "title": "与 get 有关的一些短语动词",
-   "parts": [
-    {
-     "table": {
-      "headers": [
-       "get + 介词",
-       "意思",
-       "例句"
-      ],
-      "rows": [
-       [
-        "get out",
-        "（使）出去/出来（反义词为 get into）",
-        "Why don’t you get the dog out? The door is locked. I can’t get out."
-       ],
-       [
-        "走开，滚开（常用于祈使句）",
-        "Now you get out of here fast! 从...走开、滚开"
-       ],
-       [
-        "get into",
-        "进来",
-        "I’ve lost my key. I can’t get into the house."
-       ],
-       [
-        "get on",
-        "前进，进展（与get along 同义）",
-        "He is getting on quite well in his new job."
-       ],
-       [
-        "继续干；相处融洽（常与 with 连用）",
-        "Tom talked with his brother for a while, and then got on with his homework. He’s so difficult. I can’t get on with him. 他这个人这么别扭，我无法和他相处。"
-       ],
-       [
-        "get…off",
-        "脱下，除去/取下",
-        "Please help me to get the box off the boat. When he got the lid off the box, he saw a man lying in it."
-       ],
-       [
-        "没受重伤/重罚而逃脱（常与with 连用）",
-        "Tom was punished, but Jim got off lightly. I can hardly believe that the thief got off with just a warning."
-       ],
-       [
-        "get over",
-        "恢复过来，痊愈",
-        "Has your mother got over her illness?"
-       ],
-       [
-        "解决/结束（某件不愉快但必要做的事）（常与 with 连用）",
-        "They wanted to get the job over as quickly as possible. I want to get this interview over as quickly as possible."
-       ],
-       [
-        "get though",
-        "通过（考试、测验等）",
-        "Have you got through your driving test last week?"
-       ],
-       [
-        "吃掉，喝完，用光",
-        "Fancy Helen getting through all the food!"
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习 prefer 的三种句式与 disguise 场景。",
+  "points": [
+   {
+    "title": "prefer A to B / prefer to do",
+    "explanation": "prefer + 名词 + to + 名词（prefer golf to tennis）；prefer to do rather than do（宁愿做A不做B）。",
+    "examples": [
+     {
+      "en": "They prefer to travel without being recognized.",
+      "cn": "他们更喜欢不被认出地旅行。"
      }
-    }
-   ]
-  }
- ]
+    ]
+   },
+   {
+    "title": "动名词被动 being done",
+    "explanation": "without being recognized = 不被认出，动名词的被动式：being + 过去分词。",
+    "examples": [
+     {
+      "en": "They wore dark glasses to avoid being recognized.",
+      "cn": "他们戴墨镜以免被认出。"
+     }
+    ]
+   }
+  ]
+ }
 }

@@ -1,172 +1,21 @@
 {
- "grammar": [
-  {
-   "title": "一般将来时态",
-   "parts": [
-    {
-     "text": "一般将来时态 § 注意：大多数情况下will 与 be going to 是可以互相替换的。只是在语气有点一些细微的差异，Will 强调意愿、临时性，而be going to 强调预兆性、计划性。 结构差异 B 与 C 对话中的be going to与will在上述对话中不能互换，尝试想一下为什么？"
-    },
-    {
-     "table": {
-      "headers": [
-       "主 语 + is\\am\\are going to + v. (原形)",
-       "主语 + will + v. (原形)",
-       "主语 + will + be + 非动词"
-      ],
-      "rows": [
-       [
-        "He will come on time. 他会准时来的。 The woman will talk for hours about nothing. 那个女人将会哇啦哇啦一连胡说上几个小时。 He will show his true colors someday. 他总有一天会现出原形的。"
-       ],
-       [
-        "The speaker will be our old friend, John. 演讲者将是我们的老朋友约翰。 Her sublimate future husband will be tall, dark, and handsome. 她理想化的未来丈夫将是身材高大，皮肤浅黑，相貌英俊。"
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习 yet/already/just 三个完成时标志词。",
+  "points": [
+   {
+    "title": "already / yet / just",
+    "explanation": "already 用于肯定句（已经）；yet 用于否定和疑问（还、尚未），常放句尾；just 表刚刚。三个词是现在完成时的\"信号灯\"。",
+    "examples": [
+     {
+      "en": "He hasn't moved into his new house yet.",
+      "cn": "他还没搬进新房子。"
+     },
+     {
+      "en": "He's already sold his old house.",
+      "cn": "他已经卖掉了旧房子。"
      }
-    },
-    {
-     "table": {
-      "headers": [
-       "疑问句（will 提前）",
-       "否定句（will + not）"
-      ],
-      "rows": [
-       [
-        "He will come on time. → Will he come on time? The woman will talk for hours about nothing. → Will the woman talk for….? He will show his true colors someday. → Will he show …?",
-        "The speaker will be our old friend, John. → The speaker will not be our old friend, John. Her sublimate future husband will not be tall, dark, and handsome."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "两种结构在口语上无太多的区别，但是书面上有不同的强调点。"
-    },
-    {
-     "table": {
-      "headers": [
-       "主语 + is\\am\\are going to + v. (原形)",
-       "主语 + will + v. (原形)",
-       "主语 + is\\am\\are going to + 非动词",
-       "主语 + will + be + 非动词",
-       "A: Mary is in hospital!"
-      ],
-      "rows": [
-       [
-        "强调客观、马上、预先计划。",
-        "主观意愿(非客观)、非马上(更长远)、临时性发生的(非计划)。"
-       ],
-       [
-        "B: Yes,I know,I am going to see her tomorrow. 因为A早知道了，所以有计划的去看她。",
-        "C: Really! I will see her tomorrow. 因为B 不知道，所以临时决定去看她。"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "Look at the black clouds! It’s going to rain . 强调客观"
-    },
-    {
-     "text": "Look! Jim is going to fall into the river! 马上"
-    },
-    {
-     "text": "They are going to get married next month. 预先计划"
-    }
-   ]
-  }
- ],
- "sentences": [
-  {
-   "title": "When will…?",
-   "parts": [
-    {
-     "table": {
-      "headers": [
-       "When Where How"
-      ],
-      "rows": [
-       [
-        "will",
-        "it rain ?"
-       ],
-       [
-        "it snow ?"
-       ],
-       [
-        "she leave ?"
-       ],
-       [
-        "he get up?"
-       ],
-       [
-        "you arrive ?"
-       ],
-       [
-        "he finish work?"
-       ],
-       [
-        "they have a holiday?"
-       ],
-       [
-        "they drive home?"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "When will you have a holiday？ 你们何时去度假呢？"
-    },
-    {
-     "text": "Where will you have a holiday? 你们去哪度假呢？"
-    },
-    {
-     "text": "How will you go ? 你们如何去呢？"
-    }
-   ]
-  }
- ],
- "expand": [
-  {
-   "title": "表将来的其他结构",
-   "parts": [
-    {
-     "text": "be about to + v. 即将(马上、正要) be + to do 指按计划或安排将要发生某事（必须做）"
-    },
-    {
-     "text": "We are about to leave. 我们要走了。"
-    },
-    {
-     "text": "He is about to finish his study. 他即将完成学业。"
-    },
-    {
-     "text": "We are to meet at the zoo. 我们约定在动物园见面。"
-    },
-    {
-     "text": "The football match is to play at 8:00 today.今天足球比赛将在 8 点举行。"
-    },
-    {
-     "table": {
-      "headers": [
-       "Be on the verge of 新闻、重大转折（极度紧迫/剧变）",
-       "Be due to 交通、会议、预产期（按照时刻表）",
-       "Be slated to 电影档期、产品发布（被安排好的）",
-       "Be destined to 文学、励志演讲（上天注定的）"
-      ],
-      "rows": [
-       [
-        "The two countries are on the verge of signing a peace treaty. (两国即将签署和平协议。) The company is on the brink of bankruptcy. (公司正处于破产边缘。) I was on the point of leaving when the phone rang. (我正要出门，电话响了。)"
-       ],
-       [
-        "The plane is due to take off in 10 minutes. (飞机预定在10分钟后起飞。) Interest rates are set to rise next month. (利率预计将在下个月上调。) I have every intention of finishing this project tonight. (我今晚绝对打算把这个项目做完。)"
-       ],
-       [
-        "The new movie is slated to be released this summer. (新片定于今年夏天上映。) I am inclined to believe his story. (我倾向于相信他的故事。) She is contemplating changing her career. (她正在考虑换个职业。)"
-       ],
-       [
-        "He was destined to lead the country. (他命中注定要领导这个国家。) The project was doomed to fail from the start. (这个项目从一开始就注定要失败。)"
-       ]
-      ]
-     }
-    }
-   ]
-  }
- ]
+    ]
+   }
+  ]
+ }
 }

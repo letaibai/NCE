@@ -1,125 +1,29 @@
 {
- "grammar": [
-  {
-   "title": "所有格",
-   "parts": [
-    {
-     "table": {
-      "headers": [
-       "名词所有格(有生命的)表示“拥有”",
-       "无生命的所有格of(倒着翻译)“属于”",
-       "代词所有格(形容词性物主代词)"
-      ],
-      "rows": [
-       [
-        "Lucy 's friend Lucy的朋友 Lily 's book Lily的书 My mother 's bag 我妈妈的包 My father 's watch 我爸爸的手表 The dog 's name 那只小狗的名字 My mother 's handbag 我妈妈的手提包 The man 's wife 那位男士的妻子 My boss 's office 我老板的办公室",
-        "The photo of my school 我学校的照片 The name of the song 这首歌的名字 The color of my car 我的车的颜色 The window of the room 这房间的窗户 The color of the book 那本书的颜色 The map of the world 世界地图 The name of the movie 那部电影的名字",
-        "Their classroom 他们的教室 Our teacher 我们的老师 My books 我的一些书 Your dog 你(们)的狗 Her toys 她的玩具 His phone 他的手机 Its food 它的食物"
-       ]
-      ]
+ "grammar": {
+  "summary": "本课用现在进行时描写村庄景象，学习 along/across 等移动介词。",
+  "points": [
+   {
+    "title": "移动介词 along / across",
+    "explanation": "along 沿着（线性路径）、across 穿过（从一端到另一端）。The dog is running across the grass.",
+    "examples": [
+     {
+      "en": "They are walking along the banks of the river.",
+      "cn": "他们正沿着河岸散步。"
      }
-    }
-   ]
-  }
- ],
- "sentences": [
-  {
-   "title": "介词练习",
-   "parts": [
-    {
-     "text": "beside [bɪ'saɪd] prep. 在…的旁边 off [ɒf] [ɔːf] prep. 离开 Where is...?"
-    },
-    {
-     "text": "There is a bed table beside the bed."
-    },
-    {
-     "text": "He sat beside her all night. 整个晚上他都坐在她的身边。"
-    },
-    {
-     "text": "He felt something move beside him. 他感觉到身边有东西在移动。"
-    },
-    {
-     "table": {
-      "headers": [
-       "beside s adv.而且，再说 prep. 除…之外（还）"
-      ],
-      "rows": [
-       [
-        "Besides this, they also faced many difficulties. 除此之外，他们还面临许多困难。"
-       ]
-      ]
+    ]
+   },
+   {
+    "title": "照片场景描述",
+    "explanation": "描述照片时用进行时表现画面瞬间：This is a photograph of our village. 之后再展开细节。",
+    "examples": [
+     {
+      "en": "Some children are coming out of the building.",
+      "cn": "一些孩子正从楼里出来。"
      }
-    },
-    {
-     "text": "I'm off duty. 我下班了。"
-    },
-    {
-     "text": "The wedding is off. 婚礼被取消了。"
-    },
-    {
-     "text": "The paint had chipped off. 油漆已经剥落。"
-    },
-    {
-     "table": {
-      "headers": [
-       "turn off 关掉（电源、水源等）",
-       "take off 脱掉（衣物）；起飞；减（价）",
-       "drive off （驾驶车辆）离去，开走",
-       "jump off 跳离；从……跳下"
-      ],
-      "rows": [
-       [
-        "Please turn off the lights before you leave the room. 请在离开房间前关灯。"
-       ],
-       [
-        "The plane is scheduled to take off at 8 p.m. 飞机定于晚上8点起飞。"
-       ],
-       [
-        "He got into his car and drove off without saying a word. 他上车后一言不发地开走了。"
-       ],
-       [
-        "The stuntman had to jump off the moving train into the river. 特技演员不得不从行驶的火车上跳入河中。"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "He is going into the book store."
-    },
-    {
-     "text": "She is going out of the book store."
-    },
-    {
-     "text": "The boy is sitting beside his mother."
-    }
-   ]
-  }
- ],
- "expand": [
-  {
-   "title": "名词所有格",
-   "parts": [
-    {
-     "text": "Jim 's room Jim的房间"
-    },
-    {
-     "text": "Jack 's room Jack的房间"
-    },
-    {
-     "text": "Jim and Jack 's room Jim和Jack的房间 (表示他们共同拥有的房间)"
-    },
-    {
-     "text": "Jim 's and Jack 's rooms Jim和Jack各自的房间 (表示各自拥有的房间)"
-    },
-    {
-     "text": "Lucy and Sara 's boyfriend Lucy和Sara的男朋友 (表示共同拥有一个男朋友)"
-    },
-    {
-     "text": "Lucy 's and Sara 's boyfriend s Lucy和Sara各自的男朋友 (表示各自拥有不同的男朋友)"
-    }
-   ]
-  }
- ],
+    ]
+   }
+  ]
+ },
  "exercises": [
   {
    "q": "He is ___ across the river. (swim)",

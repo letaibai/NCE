@@ -1,119 +1,27 @@
 {
- "grammar": [
-  {
-   "title": "情态动词 must 的否定",
-   "parts": [
-    {
-     "table": {
-      "headers": [
-       "否定句",
-       "一般疑问句",
-       "mustn’t 绝对不可以，禁止",
-       "don’t need to… 不必、不需要 ✓"
-      ],
-      "rows": [
-       [
-        "I mustn’t clean the room. X 我不必清扫屋子。 I don’t need to clean the room. ✓ 我不必清扫屋子。",
-        "Must I clean the room？ 我必须清扫屋子吗 ？"
-       ],
-       [
-        "You mustn’t make noise here. 你绝对不可以在这大吵。 You mustn’t smoke here. 你绝对不可以在这吸烟。",
-        "You don’t need to say thanks to me. 你不必谢我。"
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习 must 的否定与时间表达，辨析 mustn't 与 needn't。",
+  "points": [
+   {
+    "title": "mustn't 禁止 vs needn't 不必",
+    "explanation": "mustn't = 千万不要（禁止）；needn't = 不必（没义务）。You mustn't get up yet.（还不许起床）与 You needn't come.（你不必来）意义完全不同。",
+    "examples": [
+     {
+      "en": "You mustn't play with matches.",
+      "cn": "你不许玩火柴。"
      }
-    }
-   ]
-  }
- ],
- "sentences": [
-  {
-   "title": "单词",
-   "parts": [
-    {
-     "table": {
-      "headers": [
-       "单词",
-       "含义",
-       "示例"
-      ],
-      "rows": [
-       [
-        "play [pleɪ]",
-        "v. 玩",
-        "play games 玩游戏 play the violin 弹奏，拉琴 play football/basketball 踢球/打球"
-       ],
-       [
-        "match [mætʃ]",
-        "n. 火柴",
-        "matches 火柴"
-       ],
-       [
-        "talk [tɔːk]",
-        "v. 谈话",
-        "talk to sb. 与…谈话 Don't talk to me like that! 不要那样和我说话！ Don’t talk to strangers. 不要和陌生人说话。"
-       ],
-       [
-        "library ['laɪbrəri]",
-        "n. 图书馆",
-        "in the library 在图书馆"
-       ],
-       [
-        "drive [draɪv]",
-        "v. 开车",
-        "drive a car 开车"
-       ],
-       [
-        "so [səʊ]",
-        "adv. 如此地",
-        "so beautiful 如此美丽 so much 如此多"
-       ],
-       [
-        "quickly ['kwɪkli]",
-        "adv. 快地",
-        "He drives so quickly. 他开车非常快。"
-       ],
-       [
-        "lean out of",
-        "身体探出",
-        "lean out of the window 把身子探出窗户"
-       ],
-       [
-        "break [breɪk]",
-        "v. 打破",
-        "Don’t break it! 不要打破它！"
-       ],
-       [
-        "noise [nɔɪz]",
-        "n. 喧闹声",
-        "make noise 发出噪音"
-       ]
-      ]
+    ]
+   },
+   {
+    "title": "频率表达",
+    "explanation": "How often...? 问频率，回答 once a day / three times a day。",
+    "examples": [
+     {
+      "en": "You must take this medicine once a day.",
+      "cn": "你必须每天服一次药。"
      }
-    }
-   ]
-  }
- ],
- "expand": [
-  {
-   "title": "break 组成的口语表达",
-   "parts": [
-    {
-     "text": "give me a break 拜托/ 放过我吧/ 行行好吧/ 不要强求我 break up 终止/ 结束/ 分手"
-    },
-    {
-     "text": "Give me a break! I am nervous enough. 行行好吧,我已经够紧张的了。"
-    },
-    {
-     "text": "Give me a break! Is she blind or what? 拜托，她眼睛瞎了吗?"
-    },
-    {
-     "text": "They break up the partnership. 他们终止了合作关系。"
-    },
-    {
-     "text": "She breaks up with her boyfriend. 她和男朋友分手了。"
-    }
-   ]
-  }
- ]
+    ]
+   }
+  ]
+ }
 }

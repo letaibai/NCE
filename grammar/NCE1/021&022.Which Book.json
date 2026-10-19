@@ -1,219 +1,29 @@
 {
- "grammar": [
-  {
-   "title": "简单句的5种结构",
-   "parts": [
-    {
-     "text": "which 、 what 、 how 、 whose 、 who 特殊疑问词 简单句 的五句型结构 §"
-    },
-    {
-     "table": {
-      "headers": [
-       "特殊疑问词 + be + 名词",
-       "特殊疑问词 + 名词 + be + …"
-      ],
-      "rows": [
-       [
-        "Which is your book? 哪一本是你的书？ Which is your car? 哪一辆是你的车？",
-        "Which book is yours ? 哪本书是你的？ Which car is yours? 哪一辆车是你的？"
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习 which 引导的选择性疑问句。",
+  "points": [
+   {
+    "title": "Which...? 选择疑问",
+    "explanation": "Which + 名词? 在已知范围内做选择：Which book?（哪本书？）；Which one? 代替上文提到的单数名词。",
+    "examples": [
+     {
+      "en": "Which book? This one?",
+      "cn": "哪本书？这本吗？"
      }
-    },
-    {
-     "table": {
-      "headers": [
-       "结构",
-       "句型解析",
-       "例句"
-      ],
-      "rows": [
-       [
-        "主 + 谓",
-        "主语：I（我） 谓语：study（学习）",
-        "I study . She runs . You see ."
-       ],
-       [
-        "主 + 谓 + 宾",
-        "主语：He（他） 谓语：eats（吃） 宾语：an apple（一个苹果）",
-        "He eats an apple. She loves him. My dad told me."
-       ],
-       [
-        "主 + 谓 + 宾 + 宾",
-        "主语：I（我） 谓语：give（给予） 间接宾语（人） ：him（他） 直接宾语（物）：a gift（一个礼物）",
-        "I give him a gift . You sent me a card. She brings you something."
-       ],
-       [
-        "主 + 谓 + 宾 + 宾补",
-        "主语：I（我） 谓语：find（发现） 宾语：Kwok's notes（夸克的笔记） 宾语补足语：absolutely incredible（令人难以置信）",
-        "I find Kwok's notes absolutely incredible . I find Kwok's notes highly insightful . I find Kwok's notes incredibly helpful ."
-       ],
-       [
-        "主 + 系 + 表",
-        "主语：The cat（这只猫） 系动词：looks（看起来, 感官动词 =半系动词） 表语：cute（可爱）",
-        "The cat looks cute . I 'm Kwok. You are great."
-       ]
-      ]
+    ]
+   },
+   {
+    "title": "one 的替代用法",
+    "explanation": "one 代替前文出现的单数可数名词，避免重复：the red one = 那个红色的。",
+    "examples": [
+     {
+      "en": "No, not that one. The red one.",
+      "cn": "不，不是那本。那本红色的。"
      }
-    }
-   ]
-  }
- ],
- "sentences": [
-  {
-   "title": "形容词",
-   "parts": [
-    {
-     "table": {
-      "headers": [
-       "empty ['empti] 空的",
-       "full [fʊl] 满的",
-       "large [lɑːdʒ] [lɑːrdʒ] 大的（强调面积）",
-       "little ['lɪtl] 小的",
-       "sharp [ʃɑːp] 锋利的",
-       "blunt [blʌnt] 钝的",
-       "small [smɔːl] 小的",
-       "big [bɪɡ] 大的（体积）"
-      ],
-      "rows": [
-       [
-        "Westlife - My Love An empty street 空荡的街 An empty house 寂静的夜 A hole inside my heart 没有你在身边 I’m all alone and the rooms are getting smaller 心里面对你的思念一遍一遍",
-        "I’m full.我饱了。 a full stop 句号 a full time job 一份全职工作 a part time job 一份兼职工作"
-       ],
-       [
-        "China is a large country.中国是一个幅员辽阔的国家。 This room is large.这房间很大。",
-        "a little girl 一个（可爱的）小女孩 a small girl 一个(体型很)小的女孩"
-       ],
-       [
-        "The knife is sharp. Cats have sharp claws.",
-        "The knife is blunt. 这刀很钝。 My pencil is blunt. 我的铅笔很钝。"
-       ],
-       [
-        "Small world…世界真小，又见面了。",
-        "the big world 大世界"
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "单词",
-       "发音",
-       "中文翻译"
-      ],
-      "rows": [
-       [
-        "box 📦",
-        "[bɒks]",
-        "盒子，箱子 (a small\\big box)"
-       ],
-       [
-        "glass 🥃",
-        "[ɡlɑːs] [ɡlæs]",
-        "玻璃，玻璃杯子"
-       ],
-       [
-        "cup ☕",
-        "[kʌp]",
-        "茶杯"
-       ],
-       [
-        "bottle 🍾",
-        "['bɒtl]",
-        "瓶子"
-       ],
-       [
-        "tin 🥫",
-        "[tɪn]",
-        "罐头瓶，易拉罐"
-       ],
-       [
-        "knife 🔪",
-        "[naɪf]",
-        "刀子"
-       ],
-       [
-        "fork 🍴",
-        "[fɔːk]",
-        "叉子"
-       ],
-       [
-        "spoon 🥄",
-        "[spuːn]",
-        "勺子"
-       ],
-       [
-        "chopsticks 🥢",
-        "['tʃɒpstɪks]",
-        "筷子"
-       ]
-      ]
-     }
-    }
-   ]
-  }
- ],
- "expand": [
-  {
-   "title": "中西方人不同的餐饮工具",
-   "parts": [
-    {
-     "text": "In China, people eat with bowls and chopsticks, which are perfect for picking up rice and vegetables. In Western countries, people eat with knives and forks, which are useful for cutting meat and eating different courses. In India, many people eat with their hands, which allows them to feel the texture of the food and mix flavors together."
-    },
-    {
-     "text": "中国: bowls and chopsticks 碗 + 筷"
-    },
-    {
-     "text": "西方: knives and forks 刀 + 叉"
-    },
-    {
-     "text": "印度: Hands 手抓"
-    },
-    {
-     "table": {
-      "headers": [
-       "组合",
-       "音标",
-       "示例"
-      ],
-      "rows": [
-       [
-        "ow",
-        "\\ aʊ \\",
-        "now,how,cow,allow"
-       ],
-       [
-        "ou",
-        "house,blouse"
-       ],
-       [
-        "oy",
-        "\\ ɔɪ \\",
-        "Toy,Boy,Joy,Oyster"
-       ],
-       [
-        "oi",
-        "oil,coin,moist"
-       ],
-       [
-        "ear",
-        "\\ ɪə \\ \\ ɪr \\",
-        "dear,near,fear,hear"
-       ],
-       [
-        "eer",
-        "deer,beer,steer,jeer"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "例外：early, earth, earn"
-    }
-   ]
-  }
- ],
+    ]
+   }
+  ]
+ },
  "exercises": [
   {
    "q": "Is this Nicola's coat? No. it's not. ___ coat is grey.",

@@ -1,208 +1,27 @@
 {
- "grammar": [
-  {
-   "title": "动词不定式",
-   "parts": [
-    {
-     "text": "还有一些动词后面用不定式作宾语时，其后通常必须有一名词或代词。这类动词有 allow，advise，help， teach，tell，request 等。 hope 一定不能说 hope sb. to do sth. hope 觉得某事可能发生或者通过自己努力可以让其发生I hope that you have a good time.；wish 觉得某事不可能或者难以实现（往往是幻想或遗憾）I wish I had studied harder. 动词 + to do sth. 主语自己做某事 动词 + sb. + to do sth. 要/让别人做某事"
-    },
-    {
-     "text": "在英语语法中， 动词不定式（Infinitive） 是一种非谓语动词形式，由动词的基本形式加上“to”构成。不定式可以起到名词、形容词或副词的作用，并能作为句子的主语、宾语、宾语补足语等。"
-    },
-    {
-     "text": "动词不定式有两种形式：带有“to”的to-infinitive和不带“to”的bare infinitive。其中，to-infinitive常用于表示目的、原因、结果、意图、需求等，也常用于某些动词后作宾语。bare infinitive则用于情态动词、感官动词、助动词等后面。"
-    },
-    {
-     "table": {
-      "headers": [
-       "作为主语",
-       "作为宾语",
-       "宾语补足语",
-       "形容词补足语",
-       "副词"
-      ],
-      "rows": [
-       [
-        "To travel is my dream. To learn a new language takes time."
-       ],
-       [
-        "She wants to eat pizza for dinner. He refused to help us."
-       ],
-       [
-        "I believe her to be honest. They considered him to be the best candidate."
-       ],
-       [
-        "I am happy to see you. She was excited to receive the award."
-       ],
-       [
-        "He ran to catch the bus. She went to the store to buy groceries."
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习动名词作宾语（enjoy/finish + doing）。",
+  "points": [
+   {
+    "title": "动词后接动名词",
+    "explanation": "enjoy/finish/practice/mind 等动词后必须接 V-ing：I enjoy eating, but I don't enjoy paying. 动名词=把动作名词化。",
+    "examples": [
+     {
+      "en": "He never pays it back.",
+      "cn": "他从来不还钱。"
      }
-    },
-    {
-     "text": "We were not allowed to see the picture. 被动语态"
-    },
-    {
-     "text": "I asked him to lend me twenty pounds.ask sb. to do sth."
-    },
-    {
-     "text": "I want to speak to John.want to do sth."
-    },
-    {
-     "text": "I want you to speak to John. want sb. to do sth."
-    },
-    {
-     "table": {
-      "headers": [
-       "Would you like to do sth.?",
-       "I’d like sb. to do sth.",
-       "I’d like to do sth."
-      ],
-      "rows": [
-       [
-        "Would you like to stay and have dinner?你愿意留下来吃晚餐吗？"
-       ],
-       [
-        "I 'd like you to meet him.我想让你见见他。"
-       ],
-       [
-        "I 'd like to learn a new language.我想学习一门新的语言。"
-       ]
-      ]
+    ]
+   },
+   {
+    "title": "while + 过去进行时",
+    "explanation": "While I was having dinner, he... 进行时作时间背景。",
+    "examples": [
+     {
+      "en": "I was having dinner at a restaurant when Tony Steele came in.",
+      "cn": "我正在一家餐馆吃饭，这时 Tony Steele 走了进来。"
      }
-    },
-    {
-     "table": {
-      "headers": [
-       "hope to do",
-       "hope (that) + 从句"
-      ],
-      "rows": [
-       [
-        "We hope to arrive around two.我们希望能在两点钟左右到达。",
-        "I hope you are right.我希望你是对的。"
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [],
-      "rows": [
-       [
-        "want / wish / ask to do 想要/希望/要求做",
-        "She asks to speak with the manager directly. 她要求直接与经理谈话。"
-       ],
-       [
-        "aim / fail / long to do 打算/未能/渴望做",
-        "The project aims to provide clean water for everyone. 该项目旨在为每个人提供清洁饮水。"
-       ],
-       [
-        "beg / care / agree to do 请求/想要/同意做",
-        "Would you care to join us for dinner tonight? 今晚你想和我们一起吃晚饭吗？"
-       ],
-       [
-        "offer / fear / help to do 主动提出/害怕/帮助做",
-        "He offered to carry her heavy bags to the car. 他主动提出帮她把沉重的包拎到车上。"
-       ],
-       [
-        "hope / learn / plan to do 希望/学习/计划做",
-        "I hope to travel around the world next year. 我希望明年能环球旅行。"
-       ],
-       [
-        "choose / decide / expect to do 决定/决定/期待做",
-        "We expect to finish the report by Friday. 我们预计周五前能完成报告。"
-       ],
-       [
-        "pretend / arrange / promise / demand to do 假装/安排/答应/要求做",
-        "The protesters demand to see the mayor. 抗议者要求见市长。"
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [],
-      "rows": [
-       [
-        "warn / wish / cause sb. to do 警告/希望/导致某人做",
-        "The ice caused the car to slide off the road. 冰导致汽车滑出了路面。"
-       ],
-       [
-        "drive / request / remind sb. to do 驱使/要求/提醒某人做",
-        "Hunger drove him to steal a loaf of bread. 饥饿驱使他偷了一块面包。"
-       ],
-       [
-        "trouble / mean / intend sb. to do 麻烦/打算要/打算要某人做",
-        "I never meant you to find out this way. 我从没打算让你以这种方式发现真相。"
-       ]
-      ]
-     }
-    }
-   ]
-  }
- ],
- "expand": [
-  {
-   "title": "课文原文对应的时态",
-   "parts": [
-    {
-     "text": "完形填空 扩展知识 （美国小费(gratuity)文化）"
-    },
-    {
-     "table": {
-      "headers": [
-       "一般现在时 do / does",
-       "现在进行时 is/am/are + doing",
-       "一般过去时 did",
-       "现在完成时 have/has + done",
-       "过去进行时 was/were + doing"
-      ],
-      "rows": [
-       [
-        "I never get up early on Sundays."
-       ],
-       [
-        "'But I'm still having breakfast,' I said."
-       ],
-       [
-        "Last summer, I went to Italy."
-       ],
-       [
-        "I have just received a letter from my brother, Tim."
-       ],
-       [
-        "They were expecting a valuable parcel of diamonds from South Africa."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "The Taj Mahal was built (build) in the seventeenth century for the emperor Shah Jehan. A few years after he became (become) ruler, his wife, Mumtaz-i-Mahal, died (die). The Taj Mahal was built (build) in her honour."
-    },
-    {
-     "text": "Experts were called (call) in from many parts of the world to construct the domes and to decorate the walls. The Taj Mahal which was begun (begin) in 1632 and was completed (complete) in 1654, cost (cost) a fortune. Up to the present day, it has been visited (visit) by millions of people."
-    },
-    {
-     "text": "To everyone acting like tipping rules are written in stone, let’s talk about it."
-    },
-    {
-     "text": "I had a $612 dinner bill, and suddenly I’m “supposed” to leave over $120 just because the total was higher? Same plates carried, same drinks refilled, same amount of time at the table—but somehow the menu prices decide the server’s pay?"
-    },
-    {
-     "text": "I left $9 That’s still real money for a couple hours of service. But the mood shifted immediately, like I’d broken some unspoken law. Then the manager came over talking about “industry standards,” as if that settles the whole debate."
-    },
-    {
-     "text": "Since when does a more expensive meal automatically mean more effort? If I order a $50 entrée instead of a $20 one, does the plate suddenly weigh more?"
-    },
-    {
-     "text": "I do tip for good service. But I don’t think a tip should automatically become a percentage-based surcharge just because the restaurant charges more."
-    },
-    {
-     "text": "So honestly is that fair, or have we just gotten too used to it to question it?"
-    }
-   ]
-  }
- ]
+    ]
+   }
+  ]
+ }
 }

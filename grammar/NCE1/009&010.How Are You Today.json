@@ -1,154 +1,29 @@
 {
- "grammar": [
-  {
-   "title": "特殊疑问词【how】",
-   "parts": [
-    {
-     "text": "\"how\" 可以用于询问方式、方法、程度、状况等情况(中文翻译为“怎么样”)。 询问方式或方法 描述程度或状况 询问原因或目的 表达感叹或惊讶 (感叹形容词) 询问 频率 或时间"
-    },
-    {
-     "text": "How did you solve the math problem? 你(过去)是如何解决这个数学问题的？"
-    },
-    {
-     "text": "How do you make sushi? 你是怎么做寿司的？"
-    },
-    {
-     "text": "How tall is he? 他有多高？"
-    },
-    {
-     "text": "How well can she speak Spanish? 她的西班牙语说得如何？"
-    },
-    {
-     "text": "How did you come to that conclusion? 你(过去)是怎么得出那个结论的？"
-    },
-    {
-     "text": "How can we improve our company's performance? 我们如何提高公司的绩效？"
-    },
-    {
-     "text": "How beautiful the sunset is ! （夕阳多美啊！）"
-    },
-    {
-     "text": "How amazing her singing voice is ! （她的歌声太惊人了！）"
-    },
-    {
-     "text": "How often do you exercise ?（你多久锻炼一次？）"
-    },
-    {
-     "text": "How long have you been learning piano?（你学钢琴学了多久？）"
-    }
-   ]
-  }
- ],
- "sentences": [
-  {
-   "title": "look at 与see 的区别",
-   "parts": [
-    {
-     "table": {
-      "headers": [
-       "Look at … 看(盯着某点看)",
-       "See 看见",
-       "watch 观看(注视)",
-       "Meet 遇见"
-      ],
-      "rows": [
-       [
-        "look at me \\ him \\ her \\ that girl … (look是不及物动词，后面要加介词然后再加宾语) Look at that man. He is very busy. 看这个人，他很忙。"
-       ],
-       [
-        "I see him in / on the street. 我在街上看见他了。"
-       ],
-       [
-        "I don't want to watch telly. 我不想看电视。"
-       ],
-       [
-        "meet you \\ him \\ her \\ a boy … (meet是及物动词，后面要加宾语) Nice to meet you. It's been nice meeting you. 这次见到你真高兴。"
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习见面问候语 How are you? 及其回答，辨析 fine/good/well 的回应方式。",
+  "points": [
+   {
+    "title": "How are you? 问候及回答",
+    "explanation": "How are you? 是熟人间的问候，回答用 I'm fine / OK / very well, thank you. And you?（你呢？）形成对话闭环。",
+    "examples": [
+     {
+      "en": "How are you today? I'm very well, thank you.",
+      "cn": "你今天好吗？我很好，谢谢。"
      }
-    },
-    {
-     "table": {
-      "headers": [
-       "动词短语",
-       "代词 / 冠词",
-       "形容词",
-       "名词"
-      ],
-      "rows": [
-       [
-        "Look at meet watch see",
-        "that this the / a",
-        "fat",
-        "man"
-       ],
-       [
-        "thin",
-        "woman"
-       ],
-       [
-        "dirty",
-        "mechanic"
-       ],
-       [
-        "clean",
-        "nurse"
-       ],
-       [
-        "tall",
-        "policeman"
-       ],
-       [
-        "short",
-        "policewoman"
-       ],
-       [
-        "hot",
-        "Steven 注：人名不能加修饰与指示代词"
-       ],
-       [
-        "cold",
-        "Emma"
-       ]
-      ]
+    ]
+   },
+   {
+    "title": "Nice to see you 与 Nice to meet you",
+    "explanation": "初次见面用 meet；已认识的人再见用 see you。",
+    "examples": [
+     {
+      "en": "Nice to see you!",
+      "cn": "很高兴又见到你！"
      }
-    }
-   ]
-  }
- ],
- "expand": [
-  {
-   "title": "自然拼音Ss、Tt、Uu",
-   "parts": [
-    {
-     "table": {
-      "headers": [
-       "字母",
-       "音标",
-       "单词"
-      ],
-      "rows": [
-       [
-        "Ss",
-        "/ s /",
-        "sad, sit, solid, set"
-       ],
-       [
-        "Tt",
-        "/ t /",
-        "ten, tap, tip, top"
-       ],
-       [
-        "Uu",
-        "/ ʌ /",
-        "umbrella, cup, but"
-       ]
-      ]
-     }
-    }
-   ]
-  }
- ],
+    ]
+   }
+  ]
+ },
  "exercises": [
   {
    "q": "___ an air hostess.（第三人称）",

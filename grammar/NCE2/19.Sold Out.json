@@ -1,93 +1,27 @@
 {
- "grammar": [
-  {
-   "title": "情态动词Can、May",
-   "parts": [
-    {
-     "text": "情态动词表示情绪、态度、可能性，后面跟动词的原形，不能单独使用。 情态动词表推测 § may 和 might 表推测翻译为“可能…”，而must做为推测最高级翻译为“肯定...”。may 可以用 might 代替，语气更委婉，更有礼貌，但时间上没有区别。"
-    },
-    {
-     "table": {
-      "headers": [
-       "can 常用于否定句cannot推测为“不可能”与must相反",
-       "Could can的过去式是更委婉的表达方式",
-       "May 疑问句中“May”只能接主语“I”",
-       "Might may的过去式，语气与态度上更真诚(现在时中可用)"
-      ],
-      "rows": [
-       [
-        "Can I use your phone please?(能够)",
-        "Of course you can/may.(肯定)"
-       ],
-       [
-        "Could I use your phone please? (能够)"
-       ],
-       [
-        "May I use your phone please?(可以)",
-        "No, you can’t/ may not.(否定)"
-       ],
-       [
-        "Might I use your phone please?(可以)"
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习 may 表可能性与 might 的委婉，以及情态动词推测链。",
+  "points": [
+   {
+    "title": "may/might 表可能性",
+    "explanation": "might 语气比 may 更不确定：The play might begin at any moment.（可能随时开演）推测链：must > may > might > can't。",
+    "examples": [
+     {
+      "en": "The play may begin at any moment.",
+      "cn": "戏可能随时开演。"
      }
-    },
-    {
-     "table": {
-      "headers": [
-       "may/might + do 表示对现在或未来事情的推测",
-       "may/might + have + done 表示对过去事情的推测",
-       "may/might as well + do 还是…好(无可奈何)，不妨…"
-      ],
-      "rows": [
-       [
-        "He may come tomorrow. He might come tomorrow."
-       ],
-       [
-        "He may have telephoned last night, but I’m not sure. He might have telephoned last night, but I’m not sure."
-       ],
-       [
-        "Do you think he’ll pass that exam? He’ll never pass. He might as well give up."
-       ]
-      ]
+    ]
+   },
+   {
+    "title": "just 匆忙场景的口语",
+    "explanation": "Just then / At that moment 表\"正在那时\"，叙事时间推进语。",
+    "examples": [
+     {
+      "en": "What a pity! Susan exclaimed.",
+      "cn": "真可惜！Susan 叹道。"
      }
-    }
-   ]
-  }
- ],
- "sentences": [
-  {
-   "title": "情态动词练习",
-   "parts": [
-    {
-     "text": "With the help of the new technology, you can E-mail your friends by mobilephone.（中考真题）"
-    },
-    {
-     "text": "Have you decided which senior high school to choose? Not yet. I may go to Moonlight School.（中考真题)"
-    },
-    {
-     "text": "How's your new babysitter? We couldn't ask for a better one. All our kids love her so much.（高考真题）"
-    },
-    {
-     "text": "This TV program is quite boring. We might listen to the music as well. （不妨听听音乐）（四级翻译真题）"
-    },
-    {
-     "table": {
-      "headers": [
-       "原型 (Base Form)",
-       "过去式 (Past Tense)",
-       "过去分词 (Past Participle)"
-      ],
-      "rows": [
-       [
-        "sell",
-        "sold",
-        "sold"
-       ]
-      ]
-     }
-    }
-   ]
-  }
- ]
+    ]
+   }
+  ]
+ }
 }

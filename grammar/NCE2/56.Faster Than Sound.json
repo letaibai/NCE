@@ -1,191 +1,27 @@
 {
- "grammar": [
-  {
-   "title": "许多、大量",
-   "parts": [
-    {
-     "text": "litte 和 few 在口语中多用 not much，not many 代替： 在 what 引导的感叹句中不用 much / many："
-    },
-    {
-     "text": "在日常谈话中，通常避免在肯定句中使用much 和 many，而用别的数量词。口语中用得最多的表示“许多”的数量词是 a lot of，它既可以与复数可数名词连用也可以与不可数名词连用，后面的动词用单数还是复数取决于名词。比 a lot of 正式一些的表达方式有："
-    },
-    {
-     "text": "a great/good deal of + 不可数名词"
-    },
-    {
-     "text": "a great/good/large number of + 复数名词"
-    },
-    {
-     "text": "a great/good many of + 复数名词。"
-    },
-    {
-     "table": {
-      "headers": [
-       "词组",
-       "说明",
-       "修饰名词",
-       "例句"
-      ],
-      "rows": [
-       [
-        "much",
-        "许多，大量",
-        "修饰或指代不可数名词",
-        "There isn't much I can do to help him.（指代）"
-       ],
-       [
-        "a great deal (of...)",
-        "there was a great deal of excitement just before it began."
-       ],
-       [
-        "a lot (of...)",
-        "That's a lot of money ."
-       ],
-       [
-        "a lot (of...)",
-        "修饰域指代可数名词",
-        "We need a lot of thing s this week ."
-       ],
-       [
-        "many",
-        "Many of our products are sold overseas.(修饰名词)"
-       ],
-       [
-        "a great many (of...)",
-        "He has sent a great many requests for spare part s ."
-       ],
-       [
-        "a great number (of...)",
-        "he has already visited a great number of different place s in Australia ."
-       ],
-       [
-        "a little",
-        "有一点(肯定)",
-        "修饰或指代不可数名词",
-        "There isn't much whisky, but you can have a little ."
-       ],
-       [
-        "little",
-        "没多点了(否定)",
-        "There is little I can do to help him."
-       ],
-       [
-        "a few",
-        "有几个(肯定)",
-        "修饰域指代可数名词",
-        "There aren't many apples, but you can pick a few ."
-       ],
-       [
-        "few",
-        "不剩几个了(否定)",
-        "There were few people in the shop."
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习比较结构修饰与 a great many 数量词。",
+  "points": [
+   {
+    "title": "比较级 + than + 预期",
+    "explanation": "faster than sound（比声音快）；much/far + 比较级表程度强化：much faster。",
+    "examples": [
+     {
+      "en": "The winning car reached a speed of forty miles an hour.",
+      "cn": "获胜的车达到了每小时四十英里的速度。"
      }
-    },
-    {
-     "text": "There isn’t much sugar/aren’t many sweets, but you can have a little/few."
-    },
-    {
-     "text": "What a lot of sweets Tom’s bought!"
-    },
-    {
-     "text": "I am less lucky. 我还不如他们幸运."
-    },
-    {
-     "text": "more exciting 更激动 = not less exciting."
-    }
-   ]
-  }
- ],
- "expand": [
-  {
-   "title": "区分易混淆词",
-   "parts": [
-    {
-     "text": "这些形容词都用于描述外貌或物品的外观，但它们的重点和适用对象略有不同。根据具体情况，你可以选择合适的形容词来描述人或物的外貌。"
-    },
-    {
-     "table": {
-      "headers": [
-       "handsome 漂亮的，英俊的，制作精良的",
-       "beautiful 美丽的，令人愉悦的，完美的",
-       "pretty 漂亮的，可爱的，令人怜爱的",
-       "good-looking 好看的，标致的，美貌的"
-      ],
-      "rows": [
-       [
-        "He was handsome, upright, and chivalrous. 男子，物品制作精良"
-       ],
-       [
-        "She was a very beautiful woman. 强调内在和外在的结合，形容女子，孩童，花草，服饰，等"
-       ],
-       [
-        "You look so pretty in that dress! 强调女孩，小孩，外表美丽的对象"
-       ],
-       [
-        "My furniture is good-looking. 男女均适用，外貌美丽的对象"
-       ]
-      ]
+    ]
+   },
+   {
+    "title": "a great many 与 a lot of",
+    "explanation": "a great many + 复数可数（a great many cars），不可数用 a great deal of。",
+    "examples": [
+     {
+      "en": "A great many cars entered for this race.",
+      "cn": "很多车报名参加了这次比赛。"
      }
-    },
-    {
-     "table": {
-      "headers": [
-       "reach 到达，达到，适用范围广",
-       "arrive 到达，抵达，通常与介词in/at配合使用",
-       "arrive in 到达某个地点的里面",
-       "arrive at 到达某个地点"
-      ],
-      "rows": [
-       [
-        "When you reach my age, you’ll be able to understand it. Can you get that book down for me please? I can’t reach it."
-       ],
-       [
-        "When I arrived at the station, the train had already gone."
-       ],
-       [
-        "We arrived in New York yesterday."
-       ],
-       [
-        "We arrive at the station in good time."
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "take part (in) 参加，参与",
-       "take place (与 \"happen\" 同义) 发生，进行，举行"
-      ],
-      "rows": [
-       [
-        "I didn’t take part in their conversation. It was the loudest/oldest car taking part."
-       ],
-       [
-        "What happened? = What took place? All these took place before you were born. The Olympic Games will take place in our country in four years’ time . The next race will take place in a year's time"
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "原型 (Base Form)",
-       "过去式 (Past Tense)",
-       "过去分词 (Past Participle)"
-      ],
-      "rows": [
-       [
-        "speed",
-        "sped",
-        "sped"
-       ]
-      ]
-     }
-    }
-   ]
-  }
- ]
+    ]
+   }
+  ]
+ }
 }

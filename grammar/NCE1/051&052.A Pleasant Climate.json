@@ -1,227 +1,27 @@
 {
- "grammar": [
-  {
-   "title": "一般现在时与介词",
-   "parts": [
-    {
-     "text": "一般现在时的功能 § 介词 时间范围 优先说地点，然后说时间"
-    },
-    {
-     "table": {
-      "headers": [
-       "描述经常的状态",
-       "描述习惯的动作",
-       "表达真理"
-      ],
-      "rows": [
-       [
-        "主语 + is/ am/ are + 非动词",
-        "It 's often snowy in winter here. 这里冬天经常下雪。 It often snow s in winter here. 这里冬天经常下雪。"
-       ],
-       [
-        "主语 + 动词",
-        "The work is easy. 这工作很简单。 He work s in Beijing.他在北京工作。"
-       ],
-       [
-        "主语 + is/ am/ are + 非动词 主语 + 动词",
-        "The sun is round. The sun rises early and sets late."
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习月份与季节的表达，以及一般现在时描述气候。",
+  "points": [
+   {
+    "title": "月份与 in + 季节",
+    "explanation": "月份首字母大写（March, April），季节前用 in：in spring / in summer。It's often windy in March.",
+    "examples": [
+     {
+      "en": "It's always hot in summer.",
+      "cn": "夏天总是很热。"
      }
-    },
-    {
-     "table": {
-      "headers": [
-       "可翻译的介词",
-       "无需翻译 (介词 + 时间/地点)"
-      ],
-      "rows": [
-       [
-        "on 在...上面 behind 在....后面 under 在...下面",
-        "It's cold in winter. 冬天冷。 in + 月、季、年： in April, in summer, in 2019 in + 地点（相对较大）： in Beijing, in China"
-       ]
-      ]
+    ]
+   },
+   {
+    "title": "一般现在时表气候",
+    "explanation": "描述气候规律用一般现在时：It rains sometimes / The sun shines every day. 频率副词放实义动词前。",
+    "examples": [
+     {
+      "en": "Which season do you like best?",
+      "cn": "你最喜欢哪个季节？"
      }
-    },
-    {
-     "text": "It's very warm in March . 三月很暖和。"
-    },
-    {
-     "text": "It is often rainy in summer . 夏天经常是雨天。"
-    },
-    {
-     "text": "I am going to travel in the South Pole in 2026 . 我打算 2026 年去南极旅行。"
-    },
-    {
-     "text": "北京冬天很冷。It is cold in Beijing in winter .时间总是出现在句子的最前面，或者在句子的最后面。"
-    }
-   ]
-  }
- ],
- "sentences": [
-  {
-   "title": "询问国籍",
-   "parts": [
-    {
-     "table": {
-      "headers": [
-       "国家",
-       "英文单词",
-       "人称",
-       "国旗"
-      ],
-      "rows": [
-       [
-        "美国",
-        "The U nited S tates of America /ðə juː s/",
-        "America n",
-        "🇺🇸"
-       ],
-       [
-        "巴西",
-        "Brazil /brəˈzɪl/",
-        "Brazil ian",
-        "🇧🇷"
-       ],
-       [
-        "荷兰",
-        "Holland /ˈhɒlənd/",
-        "Dutch",
-        "🇳🇱"
-       ],
-       [
-        "英国",
-        "England /ˈɪŋ.ɡlənd/",
-        "English",
-        "🇬🇧"
-       ],
-       [
-        "法国",
-        "France /frɑːns/",
-        "Frenc h",
-        "🇫🇷"
-       ],
-       [
-        "德国",
-        "Germany /ˈdʒɜː.mə.ni/",
-        "German",
-        "🇩🇪"
-       ],
-       [
-        "意大利",
-        "Italy /ˈɪtəli/",
-        "Ital ian",
-        "🇮🇹"
-       ],
-       [
-        "挪威",
-        "Norway /nɔːr.weɪ/",
-        "Norw egian",
-        "🇳🇴"
-       ],
-       [
-        "俄罗斯",
-        "Russia /ˈrʌʃ.ə/",
-        "Russia n",
-        "🇷🇺"
-       ],
-       [
-        "西班牙",
-        "Spain /speɪn/",
-        "Span ish",
-        "🇪🇸"
-       ],
-       [
-        "瑞典",
-        "Sweden /swiːdən/",
-        "Swed ish",
-        "🇸🇪"
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "What nationality are they？ 他们是哪国人？",
-       "Where do they come from？ 他们来自哪个国家？",
-       "Where are they from？ 他们来自哪里？"
-      ],
-      "rows": [
-       [
-        "They are Swed ish .",
-        "They come form Sweden.",
-        "They are form Italy."
-       ]
-      ]
-     }
-    }
-   ]
-  }
- ],
- "expand": [
-  {
-   "title": "初识频率副词",
-   "parts": [
-    {
-     "table": {
-      "headers": [
-       "sometime s 有时",
-       "sometime 某时",
-       "some time 一段时间"
-      ],
-      "rows": [
-       [
-        "He is sometimes late. 他有时会迟到。",
-        "I hope to see you again sometime. 我希望有机会再见到你。",
-        "It takes me some time to get there. 我花了一些时间才到那里。"
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "数字",
-       "英文"
-      ],
-      "rows": [
-       [
-        "1万",
-        "ten thousand"
-       ],
-       [
-        "20,000",
-        "twenty thousand"
-       ],
-       [
-        "5万",
-        "fifty thousand"
-       ],
-       [
-        "80 ,000",
-        "eighty thousand"
-       ],
-       [
-        "21 ,423",
-        "twenty-one thousand four hundred and twenty-three"
-       ],
-       [
-        "54, 216",
-        "fifty-four thousand two hundred and sixteen"
-       ],
-       [
-        "82 ,691",
-        "eighty-two thousand six hundred and ninety-one"
-       ],
-       [
-        "69 ,130",
-        "sixty-nine thousand one hundred and thirty"
-       ]
-      ]
-     }
-    }
-   ]
-  }
- ]
+    ]
+   }
+  ]
+ }
 }

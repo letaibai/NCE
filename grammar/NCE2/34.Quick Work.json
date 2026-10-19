@@ -1,43 +1,29 @@
 {
- "grammar": [
-  {
-   "title": "与 call 有关的短语动词",
-   "parts": [
-    {
-     "table": {
-      "headers": [
-       "call on sb. 拜访，探望",
-       "call (sb.) up 给某人打电话（美语）",
-       "call at +地点 对（某个人家或地方）进行短暂访问",
-       "call out 大声叫喊",
-       "call off 取消（某项活动）",
-       "call in 召集"
-      ],
-      "rows": [
-       [
-        "Have you called on George recently? I called on George yesterday."
-       ],
-       [
-        "If you want my help, just call up. She will call you up tomorrow."
-       ],
-       [
-        "He calls at every house in the street once a month. He was asked to call at the station."
-       ],
-       [
-        "Some people on the bank called out to the man in the boat. He called out to me but I did not hear him ."
-       ],
-       [
-        "For some reason, they have called off the party/the meeting. It began to rain so we called off the match."
-       ],
-       [
-        "Call in an architect or engineer to oversee the work. 找一名建筑师或工程师来监督这项工程。 We had to call in a plumber to unblock the drain.我们只得叫个管子工来疏通下水道。"
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习被动语态与 be worried about 状态表达。",
+  "points": [
+   {
+    "title": "被动语态（动作接收者视角）",
+    "explanation": "Ted was worried / the bicycle was picked up / he is being questioned. 现在进行被动：is being + 过去分词。",
+    "examples": [
+     {
+      "en": "The bicycle was picked up by the police.",
+      "cn": "自行车被警察捡到了。"
      }
-    }
-   ]
-  }
- ],
+    ]
+   },
+   {
+    "title": "现在完成被动",
+    "explanation": "has been found / has been questioned 完成被动组合，表\"已被找到/被询问\"。",
+    "examples": [
+     {
+      "en": "Ted was surprised to learn the news.",
+      "cn": "Ted 听到这个消息很惊讶。"
+     }
+    ]
+   }
+  ]
+ },
  "exercises": [
   {
    "q": "It's too late to go to the pictures. Why don't we call the whole thing ___ ?",

@@ -1,273 +1,29 @@
 {
- "grammar": [
-  {
-   "title": "介词",
-   "parts": [
-    {
-     "text": "在英语中，介词（Preposition）是一类词类，在句子中用来表示名词、代词或其他句子成分与其他单词之间的关系。介词通常放在名词短语或代词前面，用来说明时间、地点、方向、方式、原因、目的等概念。 介词总会出现在句子的前、后，补充说明一些时间、地点等，或者做为一个句子的定语。介词短语是一个句子非常强大的补充！"
-    },
-    {
-     "table": {
-      "headers": [
-       "分类",
-       "常用介词",
-       "时间",
-       "地点",
-       "方向",
-       "位置",
-       "原因",
-       "目的",
-       "方式",
-       "属于",
-       "关于"
-      ],
-      "rows": [
-       [
-        "at（在）, in（在...之间）, on（在...上）"
-       ],
-       [
-        "in（在...里面）, on（在...上）, at（在...处）, by（靠近...旁）, to（到...）"
-       ],
-       [
-        "into（进入）, out of（出...）, through（穿过）, over（越过）, across（横穿）"
-       ],
-       [
-        "in（在...里面）, on（在...上）, at（在...处）, by（在...旁）, near（靠近...）, beside（在...旁）, under（在...下）, above（在...上方）, below（在...下方）, between（在...之间）, among（在...之中）"
-       ],
-       [
-        "because of（因为...）, due to（由于...）, for（因为/为了...）"
-       ],
-       [
-        "for（为了）, to（到...）"
-       ],
-       [
-        "with（用...）,without（没有...）, by（通过...方式）"
-       ],
-       [
-        "of（属于...）"
-       ],
-       [
-        "about（关于...）"
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习时间表达与 would 表过去将来。",
+  "points": [
+   {
+    "title": "would 表过去将来/意愿",
+    "explanation": "would + 动词原形，过去视角的将来或委婉意愿：We would like to go home. 本课 crowd 场景描写中 would 表意愿。",
+    "examples": [
+     {
+      "en": "The big clock refused to welcome the New Year.",
+      "cn": "大钟拒绝迎接新年。"
      }
-    },
-    {
-     "text": "介词不能单独使用。"
-    },
-    {
-     "text": "介词只能接：名词、代词、动名词(动词+ing)。"
-    },
-    {
-     "text": "介词接词后变成了“介词短语”，形成了一个小的“介宾结构”。"
-    }
-   ]
-  }
- ],
- "sentences": [
-  {
-   "title": "表示时间的介词",
-   "parts": [
-    {
-     "table": {
-      "headers": [
-       "in 在...时间之内 (通常会接一个比较大的时间范围)",
-       "on 在...天(在某一天上)",
-       "at 在...时间 点"
-      ],
-      "rows": [
-       [
-        "年、季度、周等 in 1992 / January / summer 一天内相对时间比较大的范围 in the morning / afternoon / evening 搭配“ 将来时 ”的时间，翻译为在....时间 之后"
-       ],
-       [
-        "on Monday on July 7th. on Wednesday evening on the morning of July 7th ."
-       ],
-       [
-        "at 8 o' clock / 8:00 at night/midnight/noon(一天相对较短)"
-       ]
-      ]
+    ]
+   },
+   {
+    "title": "时间刻度表达",
+    "explanation": "at two minutes past twelve（12点02分）；minutes past/to 的前后界定：小于30分用 past，大于30分用 to。",
+    "examples": [
+     {
+      "en": "At two minutes past twelve, the clock stopped.",
+      "cn": "12点02分，钟停了。"
      }
-    }
-   ]
-  }
- ],
- "expand": [
-  {
-   "title": "常见的表示时间的介词",
-   "parts": [
-    {
-     "text": "引导时间状语的介词 in/on/at/during/till 与 until in + 时间 in + 表示时间长度的短语可以表示“在某段时间之内”，这时可以与现在时、过去时或将来时连用，一般与完成某动作有关；还可译为“…时间之后”，一般与将来时连用。根据时态判别 in 表示的含义。 on + 时间 在书写日期时没有冠词，但在口语中则分别读为：on June the first；on the 23rd of March at + 时间 during + 时间 （在…期间） during 后必须跟一个名词，可以指整个一段时间，有时可以用 in 替代。 until 主句和从句两个都用一般过去时对(最习惯的一种用法), 主句和从句任何一个用过去完成是也。 What’s the time?/What time is it?"
-    },
-    {
-     "table": {
-      "headers": [
-       "before 之前",
-       "after 之后",
-       "Since 自从",
-       "until 直到",
-       "during 期间",
-       "for 持续",
-       "by 截止(搭配完成时)",
-       "from...to...从...到...(开始时间到结束时间)"
-      ],
-      "rows": [
-       [
-        "They got the news the day before yesterday ."
-       ],
-       [
-        "I will come back here after ten o' clock . (afternoon 中午之后)"
-       ],
-       [
-        "Since then , Captain Fawcett has flown passengers to many unusual places ."
-       ],
-       [
-        "I sometimes stay in bed until lunchtime ."
-       ],
-       [
-        "It rained heavily during the night ."
-       ],
-       [
-        "He has been there for six months ."
-       ],
-       [
-        "Workers will have completed the new roads by the end of this year ."
-       ],
-       [
-        "The shops are open from 9 till/to 5 ."
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "表示一天中的某段时间",
-       "表示周、月份、年份",
-       "表示季节",
-       "表将来 (搭配表未来的语块)"
-      ],
-      "rows": [
-       [
-        "in the morning in the afternoon in the evening"
-       ],
-       [
-        "in a week in January in Feb in 1992"
-       ],
-       [
-        "in summer in spring in autumn in winter"
-       ],
-       [
-        "in twenty minutes' time 20 分钟之后 We will finish class in half an hour."
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "表示星期几/日期",
-       "表示星期+日期",
-       "表示具体时间"
-      ],
-      "rows": [
-       [
-        "on Monday on Friday on June 1st on 23rd March"
-       ],
-       [
-        "on Monday, June 1st"
-       ],
-       [
-        "on Wednesday evening on fine afternoon on that day"
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "表示确切的时间",
-       "表示用餐时间",
-       "表示其他时刻"
-      ],
-      "rows": [
-       [
-        "at five to twelve at ten o'clock"
-       ],
-       [
-        "at lunch/dinner time at teatime"
-       ],
-       [
-        "at night at noon at midnight at that time"
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "during the holiday 强调假期的从头到尾",
-       "in the holiday 强调这段时间其中某一点时间, 并不表示自始至终"
-      ],
-      "rows": [
-       [
-        "He has phoned four times during the last half hour. I met him sometime during the week.（不能用 in 代替） He enjoyed himself during his holiday.",
-        "I was caught in an accident in the holiday."
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "from…till… 指一段明确的时间",
-       "from…to…从…到…",
-       "until prep.&coin. 直到…时候"
-      ],
-      "rows": [
-       [
-        "The tourist season runs from June till October .",
-        "Everyday we have English class from 8:30 to 11:30"
-       ],
-       [
-        "I can't enter for the sports meeting until tomorrow .直到什么时候为止 I had not understood the problem until he explained it .直到什么时候才 We hadn't disturbed him until he finished work . We didn't disturb him until he had finished work . We didn't disturb him until he finished work .(更习惯于这种用法)"
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [],
-      "rows": [
-       [
-        "8:00 整点",
-        "8 o’clock"
-       ],
-       [
-        "8 点 8 分（<30）",
-        "8 past 8"
-       ],
-       [
-        "8 点 15 分",
-        "8 fifteen / fifteen past 8 / a quarter past 8"
-       ],
-       [
-        "8 点 30 分",
-        "8 thirty / half past 8"
-       ],
-       [
-        "8 点 38 分(>30)",
-        "22 to 9"
-       ],
-       [
-        "8 点 45 分",
-        "forty-five past 8 / a quarter to 9 / fifteen to 9"
-       ]
-      ]
-     }
-    }
-   ]
-  }
- ],
+    ]
+   }
+  ]
+ },
  "exercises": [
   {
    "q": "I looked ___ my watch.",

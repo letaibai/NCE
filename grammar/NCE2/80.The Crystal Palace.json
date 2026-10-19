@@ -1,59 +1,29 @@
 {
- "expand": [
-  {
-   "title": "介词on的搭配",
-   "parts": [
-    {
-     "table": {
-      "headers": [
-       "on display/show 展出，陈列",
-       "on business 因公（与 for pleasure 相对）",
-       "on foot 步行（与 by bus，by car，by air 等相对）",
-       "on duty 值班，值班的",
-       "on the whole 总的看来，总的来说，大体上",
-       "on fire 起火，着火",
-       "on purpose 故意地，有意地，特意地（与 by chance 相对）",
-       "on the average 平均，通常",
-       "on any account 无论如何，不管怎么说（通常用否定句）",
-       "on second thought(s) 经重新考虑后（thought 用单数或复数均可）"
-      ],
-      "rows": [
-       [
-        "This is the best dress on display / on show. 这是展出的最好的衣服。 There was also a great deal of machinery on display. The most wonderful piece of machinery on show."
-       ],
-       [
-        "Last month he went to New York on business and had little time to visit friends. He has gone to Frankfurt on business."
-       ],
-       [
-        "I usually go to work by car, but this morning I went on foot. I didn' t catch the bus. I came here on foot. They are going to school on foot ."
-       ],
-       [
-        "It was Sunday and there was only one doctor on duty. I asked to see the officer on duty."
-       ],
-       [
-        "On the whole, he is a hard-working student. On the whole, it has been a very successful year."
-       ],
-       [
-        "Soon the whole building was on fire. Look at that smoke. That building must be on fire."
-       ],
-       [
-        "They have come here on purpose to see you. She broke the vase on purpose. I don' t think it was an accident. He did it on purpose."
-       ],
-       [
-        "On the average, he works more than ten hours a day. On the average, I make six telephone calls a day."
-       ],
-       [
-        "Do not interrupt him on any account. You mustn’t on any account sign the contract before you read it."
-       ],
-       [
-        "I intended to go to the party, but on second thought(s), I decided to stay at home. I know I had agreed to let you go to the cinema, but on second thoughts, you should stay at home and finish your homework."
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习表\"史无前例之最\"的 no other 结构。",
+  "points": [
+   {
+    "title": "no other.../nothing...so...as",
+    "explanation": "It was one of the biggest buildings of all time. of all time = 有史以来，最高级语域。",
+    "examples": [
+     {
+      "en": "The Crystal Palace was different from all other buildings.",
+      "cn": "水晶宫与所有其他建筑都不同。"
      }
-    }
-   ]
-  }
- ],
+    ]
+   },
+   {
+    "title": "on display 表展出",
+    "explanation": "goods from all over the world were on display. on display/on show = 展出中，介词短语作表语。",
+    "examples": [
+     {
+      "en": "It was visited by millions of people.",
+      "cn": "数百万人参观了它。"
+     }
+    ]
+   }
+  ]
+ },
  "exercises": [
   {
    "q": "While the guard was ___, he heard a shot.",

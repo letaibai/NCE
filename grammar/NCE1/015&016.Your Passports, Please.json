@@ -1,269 +1,33 @@
 {
- "grammar": [
-  {
-   "title": "名词变复数",
-   "parts": [
-    {
-     "text": "名词的单数&复数 可数名词 (countable nouns) 可数名词指的是可以单独计数的名词，它们有单数和复数形式。 单数/复数名词在句子中 总是以复数出现的名词"
-    },
-    {
-     "text": "单数：1 one a/an"
-    },
-    {
-     "text": "复数：大于1的都是复数 (包括1.1、1.01、1.001)"
-    },
-    {
-     "text": "a car → two car s"
-    },
-    {
-     "text": "a bag → three bag s"
-    },
-    {
-     "table": {
-      "headers": [
-       "条件",
-       "规则",
-       "示例",
-       "发音"
-      ],
-      "rows": [
-       [
-        "一般情况",
-        "名词 + s",
-        "a boy -> boys; an apple -> apples",
-        "清辅音发/s/ 浊辅音发 /z/"
-       ],
-       [
-        "以s\\sh\\x\\ch结尾的",
-        "名词 +es",
-        "a bus -> buses; a box -> boxes; a brush -> brushes;a bench -> benches",
-        "/iz/"
-       ],
-       [
-        "以f\\fe结尾的",
-        "名词变 f,fe - > ves",
-        "a wife -> wives ; a shelf -> shelves; a knife -> knives;a leaf->leaves;",
-        "\\vz\\ (秋叶leaf面包loaf黄，架上shelf半只half狼wolf)(妻子wife拿己self刀knife，贼thief命life却已亡.)"
-       ],
-       [
-        "辅音字母+y结尾的名词",
-        "名词变y 为 i + es",
-        "a baby -> babies; a lady -> ladies; a city -> cities; a country -> countries;",
-        "/iz/"
-       ],
-       [
-        "元音字母+y结尾的名词",
-        "名词 + s",
-        "day -> days;monkey -> monkeys",
-        "清辅音发/s/ 浊辅音发 /z/"
-       ],
-       [
-        "元音+o 结尾",
-        "名词 + s",
-        "a zoo -> zoos;a radio -> radios(无生命的)",
-        "/z/"
-       ],
-       [
-        "辅音+o 结尾",
-        "名词 +es",
-        "a hero -> heroes ; a potato -> potatoes; a tomato -> tomatoes; a mango -> mangoes; a negro -> negroes(有生命的)",
-        "/z/ (黑人英雄爱吃土豆、西红柿、芒果)"
-       ],
-       [
-        "特殊词",
-        "名词 + s",
-        "a roof -> roofs;a cliff -> cliffs; a proof -> proofs; a chief -> chiefs; a scarf -> scarfs\\scarves;a handkerchief -> handkerchiefs/handkerchieves"
-       ]
-      ]
+ "grammar": {
+  "summary": "本课学习复数名词与 are 的搭配、 Customs 场景的指令句。",
+  "points": [
+   {
+    "title": "复数名词 + are",
+    "explanation": "主语为复数时 be 动词用 are：These are... / Those are... / We are...。单复数要与 be 动词保持一致。",
+    "examples": [
+     {
+      "en": "Are these your cases?",
+      "cn": "这些是你们的箱子吗？"
+     },
+     {
+      "en": "Our cases are brown.",
+      "cn": "我们的箱子是棕色的。"
      }
-    },
-    {
-     "text": "单数 + is : The teacher is American."
-    },
-    {
-     "text": "复数 + are :The tourists are from Norway."
-    },
-    {
-     "table": {
-      "headers": [
-       "单数形式",
-       "音标",
-       "含义"
-      ],
-      "rows": [
-       [
-        "jeans",
-        "[dʒinz]",
-        "牛仔裤 👖"
-       ],
-       [
-        "pants",
-        "[pænts]",
-        "裤子 👖"
-       ],
-       [
-        "shorts",
-        "[ʃɔrts]",
-        "短裤 🩳"
-       ],
-       [
-        "glasses",
-        "[ˈɡlæsɪz]",
-        "眼镜 👓"
-       ],
-       [
-        "shoes",
-        "[ʃuz]",
-        "鞋子 👟"
-       ],
-       [
-        "pajamas",
-        "[pəˈdʒɑːməz]",
-        "睡衣 🩱"
-       ],
-       [
-        "trousers",
-        "[ˈtraʊzəz]",
-        "裤子（英式） 👖"
-       ],
-       [
-        "socks",
-        "[sɑks]",
-        "袜子 🧦"
-       ],
-       [
-        "gloves",
-        "[ɡlʌvz]",
-        "手套 🧤"
-       ]
-      ]
+    ]
+   },
+   {
+    "title": "祈使句 Please",
+    "explanation": "Please 放句尾更客气：Customs officer 说 Your passports, please.（请出示护照。）",
+    "examples": [
+     {
+      "en": "Your passports, please.",
+      "cn": "请出示护照。"
      }
-    }
-   ]
-  }
- ],
- "sentences": [
-  {
-   "title": "扩展单词",
-   "parts": [
-    {
-     "text": "Russian 俄罗斯人 Dutch 荷兰人 these 这些 red 红色的 grey 灰色的 black 黑色的 yellow 黄色的（刻板印象为“疾病”、“胆怯”或“异域”） orange 橘黄色的"
-    },
-    {
-     "text": "Russia 俄罗斯"
-    },
-    {
-     "text": "Chinese & China"
-    },
-    {
-     "text": "Holland & Netherlands 荷兰"
-    },
-    {
-     "text": "this 这个 → these 这些"
-    },
-    {
-     "text": "that 那个 → those 那些"
-    },
-    {
-     "text": "This is his watch. 这是他的手表"
-    },
-    {
-     "text": "These are their watches. 这些是他们的手表。"
-    },
-    {
-     "text": "red lights 红灯"
-    },
-    {
-     "text": "gray 灰色的"
-    },
-    {
-     "text": "grey hair 花白的头发"
-    },
-    {
-     "text": "black tea 红 茶"
-    },
-    {
-     "text": "black coffee 纯咖啡"
-    },
-    {
-     "text": "black man 黑人（中性：Black person/man/woman；礼貌且正式：African American；侮辱且歧视：Nigger）"
-    },
-    {
-     "text": "yellow man 黄种人（贬义：东亚病夫）替换词：Asian、East Asian、Person of Asian descent"
-    }
-   ]
-  }
- ],
- "expand": [
-  {
-   "title": "字母组合的发音",
-   "parts": [
-    {
-     "text": "拼读规则：一辅一元，前辅后元。 前辅音（辅音在前） 后辅音（辅音在后）"
-    },
-    {
-     "table": {
-      "headers": [
-       "组合",
-       "音标",
-       "示例",
-       "字母",
-       "音标",
-       "示例"
-      ],
-      "rows": [
-       [
-        "ea",
-        "\\ i: \\",
-        "tea,clean,eat,seat,beach,deal,heat",
-        "i",
-        "\\ ɪ \\",
-        "did,sit,bitch,sick,dill,hit"
-       ],
-       [
-        "ee",
-        "beef,feet,sleep,meet,deep,seek"
-       ],
-       [
-        "ir",
-        "\\ ə: \\",
-        "sir,bird,firm,girl",
-        "er",
-        "\\ ə \\",
-        "dancer,cleaner,sister,summer"
-       ],
-       [
-        "ar",
-        "\\ a: \\",
-        "hard,mark,farm,bar,cart,barge",
-        "u",
-        "\\ ʌ \\",
-        "cut,budge"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "一辅一元：每个音节通常以一个辅音字母开始，紧接着是一个元音字母。例如，在单词\"beef\"中，\"b\"是辅音字母，\"ee\"是元音字母。同样，在单词\"meet\"中，\"m\"是辅音字母，\"ee\"是元音字母。"
-    },
-    {
-     "text": "前辅后元：在一个音节中，如果有两个或更多的辅音字母，它们通常会排在元音字母之前。例如，在单词\"sleep\"中，\"s\"和\"l\"是前置的辅音字母，\"ee\"是元音字母。同样，在单词\"feet\"中，\"f\"是前置的辅音字母，\"ee\"是元音字母。"
-    },
-    {
-     "text": "Beef [bi:f]"
-    },
-    {
-     "text": "Feet [fi:t]"
-    },
-    {
-     "text": "Sleep [sli:p]"
-    },
-    {
-     "text": "Meet [mi:t]"
-    }
-   ]
-  }
- ],
+    ]
+   }
+  ]
+ },
  "exercises": [
   {
    "q": "Welcom to England.___ you Japanese?",
