@@ -132,9 +132,9 @@ your-book/
 | 课文音频（美音） | [letaibai/New-Concept-English](https://github.com/letaibai/New-Concept-English)，源自 [tangx/New-Concept-English](https://github.com/tangx/New-Concept-English) | 外语教学与研究出版社 |
 | 课文文本与字幕 | 上游 mleo.site 资源站 | 外语教学与研究出版社 |
 | 词汇数据（音标/释义） | [ECDICT](https://github.com/skywind3000/ECDICT) 开源词库 | 按 ECDICT 许可使用 |
-| **语法讲解 / 句型 / 扩展知识 / 练习题** | [ncego.com 夸克英语笔记](https://www.ncego.com/)（站长 Kowk 原创教学笔记） | **版权归 ncego.com 及原作者所有，本项目仅作个人学习参考引用** |
+| **语法讲解与例句** | 本项目基于课文与新概念教学大纲自行编写（AI 辅助生成，NCE3 部分参考 [letaibai/nce3](https://github.com/letaibai/nce3) 自有数据） | 本项目作者所有 |
+| **练习题** | NCE3 部分来自 [letaibai/nce3](https://github.com/letaibai/nce3)；其余由本项目编写 | 本项目作者所有 |
 
-- 语法讲解等教学笔记内容抓取自 [ncego.com](https://www.ncego.com/)，若原作者（Kowk）提出异议，将及时删除相关内容。联系：[letaibai@gmail.com](mailto:letaibai@gmail.com)。
 - 《新概念英语》（New Concept English）教材及配套音频的版权归**外语教学与研究出版社**与**朗文出版公司**所有。
 
 #### 原作者署名
