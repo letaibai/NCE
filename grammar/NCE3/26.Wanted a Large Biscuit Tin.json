@@ -1,155 +1,92 @@
 {
- "grammar": [
+ "grammar": {
+  "summary": "本课围绕广告对人的影响展开，重点运用了让步状语从句（Much as...）、so...that 结果状语从句以及定语从句 which/that。体会作者如何用 Much as 让步于「自诩鉴赏力」、用 so...that 强调饼干之大、用定语从句补充竞赛与饼干的细节。",
+  "points": [
+   {
+    "title": "让步状语从句 Much as... (Concessive Clause)",
+    "explanation": "Much as + 主语 + 谓语，表示「尽管……很……」，相当于 although 但语气更强，常置于句首。本课用 Much as we may pride ourselves on our good taste 让步于「自诩鉴赏力」，随即点出我们仍难逃广告影响。",
+    "examples": [
+     {
+      "en": "Much as we may pride ourselves on our good taste, we are no longer free to choose the things we want, for advertising exerts a subtle influence on us.",
+      "cn": "尽管我们可以自夸自己的鉴赏力如何敏锐，但我们已经无法独立自主地选购自己所需的东西了。这是因为广告在我们身上施加着一种潜移默化的影响。"
+     }
+    ]
+   },
+   {
+    "title": "so...that 结果状语从句 (Result Clause)",
+    "explanation": "so + 形容词/副词 + that + 从句，表示「如此……以至于……」。本课用 so heavy that a crane had to be used 强调大学生烘制的饼干重到必须用起重机卸下，凸显其「特大无比」。",
+    "examples": [
+     {
+      "en": "It was so heavy that a crane had to be used to remove it from the lorry.",
+      "cn": "饼干份量太重了，用了一台起重机才把它从卡车上卸下。"
+     }
+    ]
+   },
+   {
+    "title": "which/that 引导的定语从句 (Relative Clauses)",
+    "explanation": "which/that 指物引导定语从句修饰先行词。本课用 which 修饰 competitions（让人赢得巨款的竞赛）、that 修饰 biscuit（占据整个行李箱的饼干），使产品与事件的描述具体化。",
+    "examples": [
+     {
+      "en": "They devise hundreds of competitions which will enable us to win huge sums of money.",
+      "cn": "他们设计数以百计的竞赛，竞赛中有人可赢得巨额奖金。"
+     },
+     {
+      "en": "a man came along with a biscuit which occupied the whole boot of his car.",
+      "cn": "一个男子也带来一个大饼干，那个饼干把汽车的行李箱挤得满满的。"
+     }
+    ]
+   }
+  ]
+ },
+ "exercises": [
   {
-   "title": "广告失败",
-   "parts": [
-    {
-     "text": "During a radio programme, a company of biscuit manufacturers once asked listeners to bake biscuits and send them to their factory. bake 用烤炉、烤箱去烤 They offered to pay $10 a pound for the biggest biscuit baked by a listener. for 等价交换、付款, 赔偿; 付出代价 The response to this competition was tremendous. the response to ... is / was tremendous / lukewarm 对…的反应是巨大的/不温不火的 造句：The university offered a prize of $1,000 to the first student who would find a solution to the problem. The response to the competition was tremendous / lukewarm. 学校提供了一笔1000美元的奖金给第一个能解决这个问题的学生。大家对这次比赛的反应很热烈/很平淡。 Before long , biscuits of all shapes and sizes began arriving at the factory. before (very / too) long 不久之后 all sorts / kinds / types of sth. 各种各类 造句：She has to deal with all kinds of complaints every day. 她每天必须要处理各种各样的投诉。 One lady brought in a biscuit on a wheelbarrow. It weighed nearly 500 pounds. 主系表 A little later, a man came along with a biscuit which occupied the whole boot of his car . The largest was 713 pounds. The largest weighed 713 pounds. But just before the competition closed , a lorry arrived at the factory with a truly colossal biscuit which weighed 2,400 pounds . It was so heavy that a crane had to be used to remove it from the lorry. 造句：The box was so heavy that a lorry had to be used to carry it to the destination. 箱子太沉了，用了一辆卡车才把它运到目的地。 造句：In the past two years many shops have been set up in the street.两年多来这条街上新开了很多商店。 The manufacturers had to pay more money than they had anticipated , for they bought the biscuit from the student for $24,000. buy from 从某处购买"
-    },
-    {
-     "text": "baker 面包师"
-    },
-    {
-     "text": "baker's / bakery 面包店、面包房"
-    },
-    {
-     "text": "roast turkey 在烤炉、烤箱里去烤其它食物“土豆、肉类”"
-    },
-    {
-     "text": "Peking roast duck 北京烤鸭"
-    },
-    {
-     "text": "grill / broil 烧烤（用明火）"
-    },
-    {
-     "text": "grilled / broiled chicken 在明火上烤鸡"
-    },
-    {
-     "text": "barbecue (BBQ) 在户外的烧烤（后院也是）"
-    },
-    {
-     "text": "She paid me $30 for my bike."
-    },
-    {
-     "text": "She bought my bike for $30. 等价交换"
-    },
-    {
-     "text": "Advertisers discovered years ago that all of us love to get something for nothing."
-    },
-    {
-     "text": "The manufacturers had to pay more money than they had anticipated , for they bought the biscuit from the student for $24,000."
-    },
-    {
-     "text": "before much longer 不久之后"
-    },
-    {
-     "text": "shortly afterwards"
-    },
-    {
-     "text": "a little later 过了一小会儿"
-    },
-    {
-     "text": "after a little / short time / while"
-    },
-    {
-     "text": "He added that a student had dressed up as a policeman and was playing all sorts of silly jokes on people ."
-    },
-    {
-     "table": {
-      "headers": [
-       "weigh ... v.称，称…的重量；有...重",
-       "be ... (in weight) 有...重",
-       "be / stand ... high / tall 有...高",
-       "rise to a height of ... 高度、高达",
-       "be ... deep / in depth 深度",
-       "extend to a depth of ... 深达...",
-       "be ... long / in length 长度",
-       "be ... wide / across / in width 宽度"
-      ],
-      "rows": [
-       [
-        "The boy weighs 50 kilos."
-       ],
-       [
-        "The boy is 50 kilos (in weight)."
-       ],
-       [
-        "She stood three feet high and her hands rested on her hips . He stands / is 1.8m tall. 主系表"
-       ],
-       [
-        "Above the surface of the water, the towers rise to a height of nearly 700 feet ."
-       ],
-       [
-        "The hole is 2 feet deep / in depth."
-       ],
-       [
-        "The platforms extend to a depth of over 100 feet under the sea ."
-       ],
-       [
-        "The bed is 2 meters long / in length."
-       ],
-       [
-        "The river is 20 meters wide / across / in width."
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "along with ... 与...在一起",
-       "together with ... 与主语一起(不算做主语)",
-       "coupled with .. 替换",
-       "accompanied by ... 替换",
-       "followed by ... 后面跟着(不算做主语)",
-       "besides ... 除了后者以外还有前者",
-       "as well as ... 后面的这个也...",
-       "no less than ... 后面这个也...",
-       "including ... 还包括了..."
-      ],
-      "rows": [
-       [
-        "Mr. Taylor, along with two assistants, is trying to stop the thieves."
-       ],
-       [
-        "One day, together with Leela, Jenny went to visit an orphanage. 一天，珍妮和里拉一起去参观一家孤儿院。"
-       ],
-       [
-        "This, coupled with a good tool, makes first steps in refactoring a breeze. 再加上一个好的工具，迈开重构的第一步简直就是轻而易举。"
-       ],
-       [
-        "Children, when accompanied by their parents, are allowed to enter the stadium. 孩子们在父母的陪同下可以进入体育场。"
-       ],
-       [
-        "He gasped, and bounded away, followed by his bo'sun. 他喘着气，跳开了，后面跟着他的水手长。"
-       ],
-       [
-        "What other sports do you play besides hockey? 除了玩曲棍球你还做哪些运动？"
-       ],
-       [
-        "He plays classical music, as well as pop and jazz. 他演奏流行音乐和爵士乐，同时也演奏古典音乐。"
-       ],
-       [
-        "Briefly, no less than nine of our agents have passed information to us. 简言之,至少已经有9位我们的代理商将信息传递给了我们。"
-       ],
-       [
-        "He was fully dressed, including shoes. 他已穿戴好了，包括鞋子。"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "The largest was 713 pounds (in weight)."
-    },
-    {
-     "text": "A new government was organized after the war. 战后成立了新政府(英语中很多的被动翻译为无主语的主动结构)"
-    },
-    {
-     "text": "Buy from local organic farmers. 购买当地的有机农场的食品。"
-    },
-    {
-     "text": "How to bargain when you buy something from a vendor? 如何在讨价还价时，你可以从一个供应商买到这个东西呢？"
-    }
+   "q": "______ we may pride ourselves on our good taste, we are no longer free to choose the things we want.",
+   "a": "Much as",
+   "type": "choice",
+   "options": [
+    "Much as",
+    "As much",
+    "So much",
+    "Very much"
+   ]
+  },
+  {
+   "q": "It was ______ heavy that a crane had to be used to remove it from the lorry.",
+   "a": "so",
+   "type": "choice",
+   "options": [
+    "so",
+    "such",
+    "very",
+    "too"
+   ]
+  },
+  {
+   "q": "They devise hundreds of competitions ______ will enable us to win huge sums of money.",
+   "a": "which",
+   "type": "choice",
+   "options": [
+    "which",
+    "who",
+    "where",
+    "when"
+   ]
+  },
+  {
+   "q": "用动词的适当形式填空：No one can avoid ______ (influence) by advertisements.",
+   "a": "being influenced",
+   "type": "fill_in",
+   "options": []
+  },
+  {
+   "q": "课文中 advertisers have made a close study of human nature 中 made a close study of 意思是？",
+   "a": "仔细研究了",
+   "type": "choice",
+   "options": [
+    "仔细研究了",
+    "密切联系了",
+    "封闭了",
+    "夸赞了"
    ]
   }
  ]

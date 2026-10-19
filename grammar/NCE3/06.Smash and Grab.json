@@ -1,230 +1,88 @@
 {
- "grammar": [
+ "grammar": {
+  "summary": "本课描写砸橱窗抢劫，集中运用过去完成进行时强调「抢劫前一直在做」的布置与动作，并用 with 复合结构（with its headlights on）渲染场面，同时以 too...to（太……而不能）表现窃贼抢钻石的专注。",
+  "points": [
+   {
+    "title": "过去完成进行时 (Past Perfect Continuous)",
+    "explanation": "had been + 现在分词，表示到过去某时刻为止一直在进行的动作，强调延续。本课用 had been working busily since eight o'clock 说明店员「从8点起一直在忙碌布置」，直到抢劫发生前刚刚完成。",
+    "examples": [
+     {
+      "en": "Two of his assistants had been working busily since eight o'clock and had only just finished.",
+      "cn": "他手下两名店员从早上8点就开始忙碌，这时刚刚布置完毕。"
+     }
+    ]
+   },
+   {
+    "title": "with 复合结构 (with + object + complement)",
+    "explanation": "with + 宾语 + 宾补（形容词/副词/分词/介词短语）作状语，表示伴随状态。本课用 with its headlights on and its horn blaring 描写大轿车「亮着前灯、响着喇叭」冲进街道，画面感强。",
+    "examples": [
+     {
+      "en": "The silence was suddenly broken when a large car, with its headlights on and its home blaring, roared down the arcade.",
+      "cn": "宁静突然被打破，一辆大轿车亮着前灯，响着喇叭，呼啸着冲进了拱廊街。"
+     }
+    ]
+   },
+   {
+    "title": "too...to 太……而不能 (too...to...)",
+    "explanation": "too + 形容词/副词 + to do，表示「太……以至于不能做某事」，to 后不定式含否定意义。本课用 too busy helping himself to diamonds to notice any pain 说明窃贼「忙着抢钻石，连疼痛都顾不上了」。",
+    "examples": [
+     {
+      "en": "One of the thieves was struck by a heavy statue, but he was too busy helping himself to diamonds to notice any pain.",
+      "cn": "一个窃贼被一尊很重的雕像击中，但由于他忙着抢钻石首饰，竟连疼痛都顾不上了。"
+     }
+    ]
+   }
+  ]
+ },
+ "exercises": [
   {
-   "title": "打破宁静(推进故事)",
-   "parts": [
-    {
-     "text": "* The silence was suddenly broken when a large car, with its headlights on and its horn blaring , roared down the arcade. 独立主格 （with） + n. + 非谓语（doing/ done / todo，其中being常省略），在句中常作状语或定语。 独立主格 VS 非谓语动词 造句：The silence was suddenly broken when a tough guy, with his eyes glaring and a gun in his hand, broke into the bank.宁静突然被打破，一个凶恶的家伙，瞪着眼睛拿着枪，闯进了银行。 It came to a stop outside the jeweller's. come to a stop = stop ；come to a halt = halt；"
-    },
-    {
-     "table": {
-      "headers": [],
-      "rows": [
-       [
-        "The silence was suddenly broken",
-        "when a large car,",
-        "with its headlights (being) on",
-        "and its horn blaring,",
-        "roared down the arcade."
-       ],
-       [
-        "时间状语主句",
-        "引导时间状语",
-        "独立主格",
-        "谓 + 宾"
-       ],
-       [
-        "时间状语从句"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "One man stayed at the wheel while two others with black stockings (being) over their faces jumped out and smashed the window of the shop with iron bars."
-    },
-    {
-     "text": "and at this point, according to my father, I should be looking at farms and cottages in a valley, with the spire of the church of our village showing in the far distance. NCE3-57"
-    },
-    {
-     "text": "Collecting, by occupying spare time so constructively, makes a person contented, with no time (being) for boredom. NCE3-59"
-    },
-    {
-     "text": "It is possible that upon such an occasion a battle ensued, with the sharks being driven away or killed. NCE4-18"
-    },
-    {
-     "text": "Apart from an interesting-looking carved dagger, the box was full of crockery, much of it broken.NCE3-34(省略了with)"
-    },
-    {
-     "text": "In the nineteenth century, a novelist would bring his story to a conclusion by presenting his readers with a series of coincidences — most of them wildly improbable.NCE3-36(省略了with)"
-    },
-    {
-     "text": "非谓语动词：动作的发出者一致（非谓语动词单独出现）。"
-    },
-    {
-     "text": "独立主格：有自己的逻辑主语（逻辑主语 + 非谓语动词）。"
-    },
-    {
-     "table": {
-      "headers": [
-       "并列句(一样重要)",
-       "非谓语动词(突出come in)",
-       "并列句(主语不同)",
-       "独立主格(主语不同)"
-      ],
-      "rows": [
-       [
-        "He came in and carried a book."
-       ],
-       [
-        "He came in carrying a book."
-       ],
-       [
-        "He came in and a book was in his hand."
-       ],
-       [
-        "He came in (with) a book (being) in his hand."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "Bruce charged at it, but in the middle, the car came to a grinding halt ."
-    },
-    {
-     "text": "come to an end = end"
-    },
-    {
-     "text": "come to a close = close"
-    },
-    {
-     "text": "come to a decision = decide"
-    },
-    {
-     "text": "come to a conclusion = conclude"
-    },
-    {
-     "text": "have a look = look have a + 名词 = 对应的动词"
-    }
+   "q": "Two of his assistants ______ working busily since eight o'clock and had only just finished.",
+   "a": "had been",
+   "type": "choice",
+   "options": [
+    "had been",
+    "have been",
+    "were",
+    "are"
    ]
-  }
- ],
- "sentences": [
+  },
   {
-   "title": "行动",
-   "parts": [
-    {
-     "text": "One man stayed at the wheel while two others with black stockings over their faces jumped out and smashed the window of the shop with iron bars. while / whereas 做并列连词 （翻译为：而） While 有3个用法：1、做并列连词；2、引导时间状语；3、引导让步状语从句 While this was going on, Mr. Taylor was upstairs. He and his staff began throwing furniture out of the window. Chairs and tables went flying into the arcade. doing 非谓语做方式状语 One of the thieves was struck by a heavy statue, but he was too busy helping himself to diamonds to notice any pain. The raid was all over in three minutes , for the men scrambled back into the car and it moved off at a fantastic speed. scramble v.爬、匆忙、仓促 Just as it was leaving, Mr. Taylor rushed out and ran after it throwing ashtrays and vases, but it was impossible to stop the thieves. They had got away with thousands of pounds worth of diamonds. 金钱 + worth of + 物品 《老友记》 Ross: Well, how was the date? Rachel: Well I'm alone and I just bought fifteen dollars worth of candy bars, what do you think?"
-    },
-    {
-     "text": "He must be over 60, while / whereas his wife looks about 30. 放在句中做连词"
-    },
-    {
-     "text": "While she is a likable girl, she can be extremely difficult to work with. 放在句首引导让步状语从句(尽管)"
-    },
-    {
-     "text": "While they enjoy the comfort and banal luxury of their dwelling, they do not realize that they are deprived of the necessities of life. NCE4-16 （在书面语中常用于让步）"
-    },
-    {
-     "text": "While Washington and Jefferson privately expressed distaste for slavery, they also understood that it was part of the political and economic bedrock of the country they helped to create. 引导让步"
-    },
-    {
-     "table": {
-      "headers": [
-       "begin doing 主动的行为",
-       "begin to do 描述客观的现象"
-      ],
-      "rows": [
-       [
-        "Many of the tourists on board had begun bargaining with the tradesmen,... NCE3-28"
-       ],
-       [
-        "It began to rain. 开始下雨了 During the journey,the boat began to sink.NCE3-12"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "The boy went running to meet him. 跑着去见他"
-    },
-    {
-     "text": "The girl came bouncing to tell me the news. 蹦蹦跳跳的过来告诉我"
-    },
-    {
-     "text": "help oneself to sth."
-    },
-    {
-     "table": {
-      "headers": [
-       "help oneself to sth. 别客气，请随意(自助、自己拿)",
-       "help oneself to sth. 偷、抢（抽象上的联系：未经主人允许）"
-      ],
-      "rows": [
-       [
-        "Help yourself to a beer. 别客气，自己倒杯酒吧",
-        "They helped themselves to the farmer's apples. 他们偷吃了农夫的苹果。"
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "be busy doing sth. 忙着做某事",
-       "be busy with sth. 为某事所忙(忙于某事)",
-       "be too busy doing sth. to do sth. 太忙于做某事而没有xx到某事"
-      ],
-      "rows": [
-       [
-        "They are busy preparing for the wedding."
-       ],
-       [
-        "They are busy with preparations for the wedding."
-       ],
-       [
-        "He was too busy working to notice us come in."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "As the burning plane landed, the terrified passengers scrambled for the door. 着火的飞机着陆时，惊慌失措的乘客争先恐后地向舱门跑去。"
-    },
-    {
-     "table": {
-      "headers": [
-       "at speed",
-       "with speed"
-      ],
-      "rows": [
-       [
-        "speed做不可数名词时，与at,with搭配均可、speed做可数名词时，只能与at搭配。"
-       ],
-       [
-        "e.g. at a speed of 60 mph",
-        "e.g. at / with great speed"
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "run after 追(在后面跑)",
-       "chase v.追逐，追赶",
-       "pursue v.追求，致力于"
-      ],
-      "rows": [
-       [
-        "Lots of kids like to run after Ted's pet. 很多孩子喜欢追着泰德的宠物跑。"
-       ],
-       [
-        "Instead of studying, he wastes his time chasing girls. 追求"
-       ],
-       [
-        "The thief ran across the field, with an officer pursuing him. 追逐（独立主格）"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "one billion dollars worth of merchandise 价值十亿美元的商品"
-    },
-    {
-     "text": "fifty pence worth of trouble 价值50便士的麻烦"
-    },
-    {
-     "text": "I have just bought 50 yuan worth of groceries."
-    }
+   "q": "The silence was suddenly broken when a large car, with its headlights on and its home ______, roared down the arcade.",
+   "a": "blaring",
+   "type": "choice",
+   "options": [
+    "blare",
+    "blared",
+    "blaring",
+    "to blare"
+   ]
+  },
+  {
+   "q": "he was too busy helping himself to diamonds ______ notice any pain.",
+   "a": "to",
+   "type": "choice",
+   "options": [
+    "for",
+    "to",
+    "that",
+    "so"
+   ]
+  },
+  {
+   "q": "用过去完成进行时填空（写出助动词部分，两个词）：Two of his assistants ______ ______ working busily since eight o'clock.",
+   "a": "had been",
+   "type": "fill_in",
+   "options": []
+  },
+  {
+   "q": "The raid was all over in three minutes, for the men scrambled back into the car and it moved off at a fantastic speed. 中 for 的用法是______。",
+   "a": "表原因",
+   "type": "choice",
+   "options": [
+    "表原因",
+    "表目的",
+    "表时间",
+    "表让步"
    ]
   }
  ]

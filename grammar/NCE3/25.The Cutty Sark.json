@@ -1,298 +1,96 @@
 {
- "grammar": [
+ "grammar": {
+  "summary": "本课以「卡蒂萨克」号帆船的比赛为主线，重点运用了被动语态、定语从句以及与过去事实相反的虚拟条件句。体会作者如何用被动语态客观叙述船只的遭遇、用定语从句补充比赛细节、用 if...had not...would have 对历史作出反事实推断。",
+  "points": [
+   {
+    "title": "被动语态 (Passive Voice)",
+    "explanation": "be + 过去分词构成被动语态，突出动作的承受者。本课大量以船只为主语用被动叙述：被替换、被看见、被袭击、被装上新舵，使帆船命运的叙述更客观紧凑。",
+    "examples": [
+     {
+      "en": "Before they were replaced by steamships, sailing vessels like the Cutty Sark were used to carry tea from China and wool from Australia.",
+      "cn": "在蒸汽船取代帆船之前，「卡蒂萨克」号之类的帆船被用来从中国运回茶叶，从澳大利亚运回羊毛。"
+     },
+     {
+      "en": "In August, she was struck by a very heavy storm during which her rudder was torn away.",
+      "cn": "8月份「卡蒂萨克」号遭到一场特大风暴的袭击，失去了一只舵。"
+     }
+    ]
+   },
+   {
+    "title": "which/that 引导的定语从句 (Relative Clauses)",
+    "explanation": "which/that 指物引导定语从句修饰先行词。本课用 which 修饰 race（持续四个月的比赛），用 that 修饰 ships（曾建造的最快帆船），使长句信息密集。",
+    "examples": [
+     {
+      "en": "This race, which went on for exactly four exactly four months, was the last of its kind.",
+      "cn": "这场比赛持续了整整4个月，是这类比赛中的最后一次。"
+     },
+     {
+      "en": "The Cutty Sark was one the fastest sailing ships that has ever been built.",
+      "cn": "「卡蒂萨克」号是帆船制造史上建造的最快的一艘帆船。"
+     }
+    ]
+   },
+   {
+    "title": "与过去事实相反的虚拟条件句 (Third Conditional)",
+    "explanation": "表示对过去事实的反事实假设：if 从句用 had + 过去分词，主句用 would/could/might + have + 过去分词。本课结尾用此结构推断「若未失舵，本可轻易夺冠」，为全文画龙点睛。",
+    "examples": [
+     {
+      "en": "These is no doubt that if she had not lost her rudder she would have won the race easily.",
+      "cn": "毫无疑问，如果中途没有失去舵，「卡帝萨克」号肯定能在比赛中轻易夺冠。"
+     }
+    ]
+   }
+  ]
+ },
+ "exercises": [
   {
-   "title": "比赛开始",
-   "parts": [
-    {
-     "text": "The first of the two ships to reach Java after the race had begun was the Thermopylae, but on the Indian Ocean, the Cutty Sark took the lead. the first, the second, the next, the last,the best, the only…..后常跟不定式作定语 the lead 领先 It seemed certain that she would be the first ship home, but during the race she had a lot of bad luck. It looked / seemed / appeared certain that there would be an exciting race across the Channel, but Latham failed to get up early enough.看似肯定会有一场激动人心的穿越海峡的竞速比赛了，但是莱瑟姆未能起得足够早。 It looked / seemed / appeared as if / as though there would be an exciting race across the Channel, but Latham failed to get up early enough.看似好像会有一场激动人心的穿越海峡的竞速比赛了，但是莱瑟姆未能起得足够早。 In August, she was struck by a very heavy storm during which her rudder was torn away . strike (struck struck) v.敲击、重击 be caught in ... 遭遇...赶上了... heavy / severe / violent / devastating / disastrous storm 猛烈的/猛烈的/毁灭性的/灾难性的风暴 In August, she was struck by a very heavy storm and during the storm her rudder was torn away. 并列结构 tear sth. away / off / up ... 把某物撕掉…… The Cutty Sark rolled from side to side and it became impossible to steer her. roll heavily / violently from side to side / to and fro 重重地/猛烈地左右/前后滚动 from side to side 来来回回的（习语） A temporary rudder was made on board from spare planks and it was fitted with great difficulty. on board 在船上（或飞机上、火车上）：指在船、飞机或火车内部。 a spare key / battery / tire ... 备用钥匙/电池/轮胎…… with great difficulty = very difficultly 非常困难地"
-    },
-    {
-     "table": {
-      "headers": [],
-      "rows": [
-       [
-        "The first of the two ships to reach Java",
-        "after the race had begun after 做连词",
-        "was the Thermopylae"
-       ],
-       [
-        "时间状语主语",
-        "时间状语从句",
-        "系 + 表"
-       ],
-       [
-        "The first of the two ships that reached Java 相当于定语从句",
-        "after the beginning of the race after 做介词用"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "When he landed near Dover, the first person to greet him was a local policeman ."
-    },
-    {
-     "text": "The great racing driver, Sir Malcolm Campbell, was the first man to drive at over 300 miles per hour ."
-    },
-    {
-     "text": "You are the second to ask me that question."
-    },
-    {
-     "text": "The next man to approach me was selling expensive pens and watches ."
-    },
-    {
-     "text": "The last creature to compete with man was the mosquito. NCE4-45"
-    },
-    {
-     "text": "The pie committee decided that the best way to transport the dish would be by canal, so they insured it for the trip."
-    },
-    {
-     "text": "The only other ship to match her was the Thermopylae."
-    },
-    {
-     "text": "take (over) the lead (from ...) 获得领先地位"
-    },
-    {
-     "text": "lose the lead (to ...) 丢失领先地位"
-    },
-    {
-     "text": "..., but on the Indian Ocean, the Cutty Sark took (over) the lead (from. the Thermopylae). 替换"
-    },
-    {
-     "text": "..., but on the Indian Ocean, the Thermopylae lost the lead (to the Cutty Sark). 替换"
-    },
-    {
-     "text": "Because of this, the Cutty Sark lost her lead ."
-    },
-    {
-     "table": {
-      "headers": [
-       "It looked / seemed / appeared certain that ..., but ... 看上去似乎...但是...",
-       "It looked / seemed / appeared as if / as though .., but ... 看起来好像…，但是…"
-      ],
-      "rows": [
-       [
-        "It looked / seemed / appeared as if / as though she would be the first ship home, but during the race she had a lot of bad luck. 替换"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "The big clock which used to strike the hours day and night was damaged many years ago and has been silent ever since . 打点报时"
-    },
-    {
-     "text": "It would strike twelve in twenty minutes' time . 敲击"
-    },
-    {
-     "text": "On strike 罢工"
-    },
-    {
-     "text": "One of the thieves was struck by a heavy statue, but he was too busy helping himself to diamonds to notice any pain ."
-    },
-    {
-     "text": "The family was struck by yet another tragedy. 这个家庭又遭遇了一场悲剧。"
-    },
-    {
-     "text": "We were caught in a heavy storm / a traffic jam."
-    },
-    {
-     "text": "The ship was assailed by a severe storm. 船遭到狂风暴雨的袭击。"
-    },
-    {
-     "text": "A week before, he had completed a successful overland flight during which he covered twenty-six miles ."
-    },
-    {
-     "text": "The flag was torn away from the pole by the strong wind."
-    },
-    {
-     "text": "High winds nearly tore the roof off."
-    },
-    {
-     "text": "The storm had torn the old tree up by the roots."
-    },
-    {
-     "text": "The ship was rolling heavily to and fro."
-    },
-    {
-     "text": "The plane rolled violently from side to side in the storm."
-    },
-    {
-     "text": "His few material possessions make it possible for him to move from place to place with ease ."
-    },
-    {
-     "text": "sell sth. from door to door 挨家挨户推销某物"
-    },
-    {
-     "text": "read sth. from cover to cover 把某物从头读到尾"
-    },
-    {
-     "text": "vary from person to person 因人而异：指不同的人有不同的看法、经历或反应。"
-    },
-    {
-     "text": "improve from day to day 每天都在进步(日渐改善)"
-    },
-    {
-     "text": "Before she had anchored, the men from the boats had climbed on board and ..."
-    },
-    {
-     "text": "Everybody on board was worried, and we were curious to find out what had happened . 在飞机上"
-    },
-    {
-     "text": "There was tremendous excitement on board when a chest was raised from the bottom ."
-    },
-    {
-     "text": "Up to now, Mr. Scott has sent a great many requests for spare parts and . .."
-    },
-    {
-     "text": "In his twenties Frank used to make spare parts for aeroplanes ."
-    },
-    {
-     "text": "The Officer went through the case with great care (= very carefully).非常小心地：非常仔细地。"
-    },
-    {
-     "text": "With great difficulty, he climbed into the shop window to get the dress ."
-    }
+   "q": "Before they ______ by steamships, sailing vessels like the Cutty Sark were used to carry tea from China.",
+   "a": "were replaced",
+   "type": "choice",
+   "options": [
+    "were replaced",
+    "replaced",
+    "have replaced",
+    "replacing"
    ]
-  }
- ],
- "sentences": [
+  },
   {
-   "title": "状况",
-   "parts": [
-    {
-     "text": "This greatly reduced the speed of the ship , for there was a danger that if she travelled too quickly, this rudder would be torn away as well. 假设过去 there is / was a danger that ... 某种不好的事有可能会发生 造句：There was a danger that if Mrs. Ramsay went to the police, she would never see Rastus again. 如果 Ramsay 夫人报警，她可能就再也看不到 Rastus了。 Because of this , the Cutty Sark lost her lead. Because of this, the Cutty Sark lost her / the lead to the Thermopylae . Because of this, the Thermopylae took (over) the lead from the Cutty Sark . After crossing the Equator, the captain called in at a port to have a new rudder fitted , but by now the Thermopylae was over five hundred miles ahead. by now 到目前为止，此时或之前（讲述过去用 by now 让读者有身临其境的感受） ahead adv.在前面，朝前面；领先 Though the new rudder was fitted at tremendous speed , it was impossible for the Cutty Sark to win. speed 的介词搭配 tremendous adj.巨大的，极大的；极好的，精彩的；令人望而生畏的，可怕的 at (a) fantastic speed 以惊人的速度 She arrived in England a week after the Thermopylae. 时间 + after / before + sth. 某物多久之后/之前 Even this was remarkable, considering that she had had so many delays. considering prep. & conj. 考虑到... There is no doubt that if she had not lost her rudder she would have won the race easily. doubt about 对…表示怀疑：对某事物或某人表示怀疑，不确定其真实性或可靠性。 there is no doubt that ... 毫无疑问的是…：表示对某事毫无疑问，没有任何怀疑。 undoubtedly adv.无疑，肯定 needless to say, ... 毫无疑问 it goes without saying that... 显而易见，毫无疑问 与过去事实相反的“IF”型的虚拟 造句：There is no doubt that if the Titanic had not been hit by the iceberg, she would have reached her destination intact. 毫无疑问，如果泰坦尼克号没有撞到冰山，她将抵达目的地而毫发无伤。"
-    },
-    {
-     "text": "There was a danger that the wave would rebound off the other side of the bank and send the dish plunging into the water again. NCE3-43"
-    },
-    {
-     "text": "There is a danger that the political disorder of the past will return. 过去的政治混乱有可能卷土重来。"
-    },
-    {
-     "text": "There is a danger that museums will attempt to entertain rather than educate. 博物馆有可能试图去取悦而不是教育（来访者）。"
-    },
-    {
-     "table": {
-      "headers": [],
-      "rows": [
-       [
-        "equator n.赤道",
-        "pole n.（极坐标的）极点",
-        "axis n.轴，轴线；对称中心线，对称轴"
-       ],
-       [
-        "the South Pole",
-        "the North Pole",
-        "latitude n.纬度",
-        "longitude n.经度，经线"
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "call in at somewhere 顺道拜访某地",
-       "call in on sb. (顺路去)拜访某人"
-      ],
-      "rows": [
-       [
-        "Will you call in at the supermarket for some eggs and milk?"
-       ],
-       [
-        "Could you call in on Mum on your way home?"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "I had expected to be near my objective by now, but everything still seemed alien to me. NCE3-57"
-    },
-    {
-     "text": "..., but by now the Thermopylae was over 500 miles ahead (of the Cutty Sark / her). 强调"
-    },
-    {
-     "table": {
-      "headers": [
-       "做不可数名词时",
-       "可数名词时"
-      ],
-      "rows": [
-       [
-        "与at,with 搭配均可 （e.g. at / with great speed）"
-       ],
-       [
-        "只能与 at 搭配 （e.g. at a speed of 60 mph）"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "In his day, Mendoza enjoyed tremendous popularity. He was adored by rich and poor alike ."
-    },
-    {
-     "text": "The sea bed was scoured with powerful nets and there was tremendous excitement on board when a chest was raised from the bottom ."
-    },
-    {
-     "text": "The raid was all over in three minutes, for the men scrambled back into the car and it moved off at a fantastic speed ."
-    },
-    {
-     "text": "Four days after setting out, while the Titanic ..."
-    },
-    {
-     "text": "Three days after Rastus' disappearance, Mrs Ramsay received an anonymous letter ."
-    },
-    {
-     "text": "A man who had broken his right leg was taken to hospital a few weeks before Christmas ."
-    },
-    {
-     "text": "Considering the amount she paid, he was dear in more ways than one !"
-    },
-    {
-     "text": "I'm rather in doubt about his explanation of this question. 我对他对这个问题的解释相当怀疑。"
-    },
-    {
-     "text": "There is no doubt that XXX is a great hero.毫无疑问，XXX是一位伟大的英雄。"
-    },
-    {
-     "text": "There's no doubt that one day a cure will be found.毫无疑问，总有一天会找到治疗方法的。"
-    },
-    {
-     "text": "She was undoubtedly the best candidate."
-    },
-    {
-     "text": "Undoubtedly, public interest in folk music has declined."
-    },
-    {
-     "text": "Needless to say, the man's name was Hans Bussman and he really was Franz's long-lost brother ."
-    },
-    {
-     "text": "It goes without saying that home is the warmest place in the world."
-    },
-    {
-     "table": {
-      "headers": [
-       "If + S. + had done,",
-       "S. + would / should / could / might + have done"
-      ],
-      "rows": [
-       [
-        "if she had not lost her rudder",
-        "she would have won the race easily."
-       ],
-       [
-        "If they had only had one more child,",
-        "the fact would have passed unnoticed. NCE3-45"
-       ],
-       [
-        "If the Houses of Parliament had not been burned down in 1834,",
-        "the great clock would never have been erected."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "... she would have won the Thermopylae easily. → ... she would have beaten / defeated the Thermopylae easily."
-    }
+   "q": "This race, ______ went on for exactly four months, was the last of its kind.",
+   "a": "which",
+   "type": "choice",
+   "options": [
+    "which",
+    "who",
+    "where",
+    "when"
+   ]
+  },
+  {
+   "q": "There is no doubt that if she had not lost her rudder she ______ the race easily.（与过去事实相反的虚拟语气）",
+   "a": "would have won",
+   "type": "choice",
+   "options": [
+    "would have won",
+    "will win",
+    "would win",
+    "had won"
+   ]
+  },
+  {
+   "q": "用动词原形填空：The Cutty Sark rolled from side to side and it became impossible to ______ (steer) her.",
+   "a": "steer",
+   "type": "fill_in",
+   "options": []
+  },
+  {
+   "q": "课文中 She serves as an impressive reminder of the great ships of past 的 serves as 意思是？",
+   "a": "作为……的纪念",
+   "type": "choice",
+   "options": [
+    "作为……的纪念",
+    "服侍，伺候",
+    "服役于军队",
+    "提供餐饮"
    ]
   }
  ]

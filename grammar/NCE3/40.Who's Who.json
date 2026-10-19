@@ -1,549 +1,105 @@
 {
- "grammar": [
+ "grammar": {
+  "summary": "本课以「学生恶作剧戏弄警察与工人」为线索，集中运用了被动语态、定语从句与分词短语作状语，并出现 Only when 倒装。重点体会叙事中如何用被动突出「被逮捕、被授予许可」，用定语从句补充人物，用 Only 倒装强调「只有……才」。",
+  "points": [
+   {
+    "title": "被动语态 (Passive Voice)",
+    "explanation": "当要突出动作的承受者时用被动语态：be + 过去分词。本课用被动叙述「被逮捕、被授予许可、骗局被识破」，主语为承受者，语气客观。",
+    "examples": [
+     {
+      "en": "Permission was granted and a policeman accompanied him to a pay phone.",
+      "cn": "警察同意了，陪他来到一个投币电话前。"
+     },
+     {
+      "en": "At this, the police pointed out ironically that this would hardly be necessary as the men were already under arrest.",
+      "cn": "警察听后讥讽地说，这大可不必，因为他俩已被逮捕了。"
+     },
+     {
+      "en": "Only when he saw that the man was actually telephoning the police did he realize that they had all been the victims of a hoax.",
+      "cn": "当他看到那个工人真的是给警察挂电话，才恍然大悟，原来他们都成一场骗局的受害者。"
+     }
+    ]
+   },
+   {
+    "title": "定语从句 (Relative Clauses)",
+    "explanation": "用关系代词 which/that 引导定语从句，which 指物。本课用 which 修饰骗局、恶作剧，用 that 修饰一切发生的事，补充说明。",
+    "examples": [
+     {
+      "en": "Inviting the fire Brigade to put out a nonexistent fire is a crude form of deception which no self-respecting student would ever indulge in.",
+      "cn": "请消防队来扑灭一场根本没有的大火是一种低级骗局，有自尊心的大学生决不会去做。"
+     },
+     {
+      "en": "The student did in an archway nearby where he could watch and hear everything that went on.",
+      "cn": "那个学生躲在附近一拱形的门廊里，在那儿可以看见、听到现场发生的一切。"
+     },
+     {
+      "en": "Students often create amusing situations which are funny to everyone except the victims.",
+      "cn": "大学生们常常做的是制造一种可笑的局面，使大家笑上一场，当然受害者是笑不出来的。"
+     }
+    ]
+   },
+   {
+    "title": "Only when 倒装 (Inversion with Only when)",
+    "explanation": "把 Only + 状语从句置于句首时，主句需部分倒装（助动词提前）。本课用 Only when he saw... did he realize... 强调「只有当他看到……时才意识到」，突出恍然大悟的转折。",
+    "examples": [
+     {
+      "en": "Only when he saw that the man was actually telephoning the police did he realize that they had all been the victims of a hoax.",
+      "cn": "当他看到那个工人真的是给警察挂电话，才恍然大悟，原来他们都成一场骗局的受害者。"
+     }
+    ]
+   }
+  ]
+ },
+ "exercises": [
   {
-   "title": "举例",
-   "parts": [
-    {
-     "text": "When a student recently saw two workmen using a pneumatic drill outside his university , he immediately telephoned the police and informed them that two students dressed up as workmen were tearing up the road with a pneumatic drill . telephone the police 报警（打电话给警察） inform sb. of sth. 通知某人某事 dress (sb.) up as ... 把(某人)打扮成…… tear up sth. 挖凿、撕开 As soon as he had hung up, he went over to the workmen and told them that if a policeman ordered them to go away, they were not to take him seriously . as soon as ... 一...就... hang up 挂电话 over adv.从这边到哪边 If a window has a view over an area of land or water, you can see the land or water through the window. 从一边到另一边 * be to do（fml.）的四种用法 Some books are to be tasted, others to be swallowed, and some few to be chewed and digested. — Francis Bacon He added that a student had dressed up as a policeman and was playing all sorts of silly jokes on people . add v.补充说 play a joke / trick on sb. 开某人的玩笑/捉弄某人 all sorts / kinds / types of sth. 各种各样的… Both the police and the workmen were grateful to the student for this piece of advance information. be thankful / grateful / obliged / indebted to sb. for sth. 为某事对某人表示感谢/感激"
-    },
-    {
-     "text": "He told him he had better return it or he would call the police ."
-    },
-    {
-     "text": "At first, she decided to go to the police, but ..."
-    },
-    {
-     "text": "Mrs. Ramsay was not to inform the police and had to pay €1,000."
-    },
-    {
-     "text": "He informed the station at once, but no one there was able to explain the mystery ."
-    },
-    {
-     "text": "... he informed the editor that he had been arrested while counting the 1,084 steps leading ..."
-    },
-    {
-     "text": "Glancing at his map, he informed us that the next village was a mere twenty miles away ."
-    },
-    {
-     "text": "She intended to dress up as a ghost ..."
-    },
-    {
-     "text": "He added that a student had dressed up as a policeman ..."
-    },
-    {
-     "text": "They dressed him up as a gorilla. vt.装扮宾语"
-    },
-    {
-     "table": {
-      "headers": [
-       "disguise sb. as ... vt.把某人伪装成…",
-       "disguised as....（非谓语）"
-      ],
-      "rows": [
-       [
-        "He disguised himself as a dustman. Lesson 58 A blessing in disguise ?"
-       ],
-       [
-        "They got in disguised as security guards. 他们装扮成保安人员混了进去。 Alfred the Great acted as his own spy, visiting Danish camps disguised as a minstrel ."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "The plumbers tore up the road to lay a new water main."
-    },
-    {
-     "text": "He tore up the letter with anger."
-    },
-    {
-     "table": {
-      "headers": [
-       "tear v.撕",
-       "tear sth. in half / two 把某物撕成两半",
-       "tear sth. to pieces 把某物撕成碎片",
-       "tear sth. away 把某物(从某物上)撕掉"
-      ],
-      "rows": [
-       [
-        "The child's misery tore my heart."
-       ],
-       [
-        "She tore the letter in half and threw it away. 她把信撕成两半然后扔掉了。"
-       ],
-       [
-        "The dog tore the cushion to pieces. 狗把垫子撕成了碎片。"
-       ],
-       [
-        "In August, she was struck by a very heavy storm during which her rudder was torn away ."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "As soon as he saw us, he picked up a long pipe which was covered with coins and opened one of the baskets ."
-    },
-    {
-     "text": "As soon as he opens the gate from the outside, he comes into the garden and waits until the gate shuts ."
-    },
-    {
-     "text": "As soon as he had finished, Jenny told him she wanted to go home."
-    },
-    {
-     "text": "As soon as he opened his mouth, everyone burst out laughing ."
-    },
-    {
-     "table": {
-      "headers": [
-       "immediately/directly.... 立即、马上、很快地",
-       "the moment ... 就在这时",
-       "on / upon ... 刚...就...",
-       "no sooner ... than ... 紧接着、一...就...",
-       "hardly / barely / scarcely ... when / before ..."
-      ],
-      "rows": [
-       [
-        "Immediately / Directly he had hung up, ..."
-       ],
-       [
-        "The moment he had hung up, ..."
-       ],
-       [
-        "On / Upon hanging up, ..."
-       ],
-       [
-        "He had no sooner hung up than he went over to ... No sooner had he hung up than he went over to ..."
-       ],
-       [
-        "He had hardly hung up when he went over to ... Hardly had he hung up when he went over to ..."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "You hang up hurriedly and attend to baby, crockery, etc ."
-    },
-    {
-     "table": {
-      "headers": [
-       "put the phone down 挂电话",
-       "slam the phone down 气愤地挂电话",
-       "get cut off 电话断线了"
-      ],
-      "rows": [
-       [
-        "After finishing the conversation, she put the phone down.结束通话后，她挂了电话。"
-       ],
-       [
-        "He was so angry that he slammed the phone down.他气得狠狠地挂了电话。"
-       ],
-       [
-        "We were talking when we suddenly got cut off.我们正在通话时突然断线了。"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "...a light and airy bar with a wonderful view over the river. …一个明亮通风而且看得见优美河景的酒吧。"
-    },
-    {
-     "text": "I got out the car and drove over to Greg's place. 我把车开出来，驱车到格雷格那儿去。"
-    },
-    {
-     "text": "I thought you might have invited her over. 我想你大概已经邀请过她到这里来。"
-    },
-    {
-     "table": {
-      "headers": [
-       "打算",
-       "命令",
-       "能够",
-       "应该"
-      ],
-      "rows": [
-       [
-        "I'm to see her tomorrow."
-       ],
-       [
-        "You're to be back by 10 o'clock. No one is to leave the building."
-       ],
-       [
-        "How am I to pay such a debt? We Chinese people are not to be bullied."
-       ],
-       [
-        "Such men are to be pitied rather than despised."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "Then I added with a smile, 'It's a strange mixture I make myself .'"
-    },
-    {
-     "table": {
-      "headers": [
-       "threaten v.威胁说",
-       "point out 指出; 提及、提醒",
-       "claim v.声称",
-       "confirm v.证实说",
-       "complain v.抱怨说",
-       "put it 措词说",
-       "state v.声明说",
-       "explain v.解释说",
-       "mumbe v.喃喃自语说",
-       "nag v.唠叨说",
-       "exclaim v.大声(惊呼)说"
-      ],
-      "rows": [
-       [
-        "When he received a very rude reply from one of the workmen, he threatened to remove them by force."
-       ],
-       [
-        "At this, the police pointed out ironically that this would hardly be necessary as the men were already under arrest. He has pointed out that the tree is a useful source of income, as tourists have been coming from all parts of the country to see it. Anyway, as Brian pointed out, it is the easiest thing in the world to give up smoking. He himself has done it lots of times!"
-       ],
-       [
-        "Fishermen and sailors sometimes claim to have seen monsters in the sea. ... for the descriptions given by people who claimed to have seen the puma were extraordinarily similar ."
-       ],
-       [
-        "... experts confirmed that a puma will not attack a human being unless it is cornered ."
-       ],
-       [
-        "He started to complain about this wicked world but was interrupted by a knock at the door . Almost immediately he began to complain about the weather , ... As the neighbors complained of the noise, my husband spent weeks training him to press his paw on the latch to let himself in . Several people complained of 'cat-like noises' at night and a businessman on a fishing trip saw the puma up a tree ."
-       ],
-       [
-        "..., as one of them put it 'ate like kings' . I don't know how to put it."
-       ],
-       [
-        "The writer stated that Rastus was in safe hands ... The busmen have stated that the strike will continue until general agreement is reached about pay and working conditions."
-       ],
-       [
-        "She explained that Rastus was very dear to her . He explained that his diet was so strict that he had to reward himself occasionally . As the Commanding Officer explained later, one half of the station did not know what the other half was doing ! It was true that he had just bought a lamb, he explained, but his lamb was black ."
-       ],
-       [
-        "He was still mumbling something about hospitals at the end of the party when he slipped on a piece of ice and broke his left leg . She bumped into the furniture and kept mumbling about the guests ."
-       ],
-       [
-        "When my wife nagged me to do something about it, I told her that either I would have to buy a new mower or let the grass grow ."
-       ],
-       [
-        "'What a pity!' Susan exclaimed . 'Good heavens!' exclaimed his wife. 'And where were you at the time?'"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "One night, the gaoler decided to play a joke on his colleague to find out if, after so many performances, he had managed to learn the contents of the letter by heart ."
-    },
-    {
-     "text": "They played a joke on him by hiding his keys.他们通过藏起他的钥匙来捉弄他。"
-    },
-    {
-     "text": "She played a trick on her friend by pretending to forget her birthday.她假装忘记朋友的生日来捉弄她。"
-    },
-    {
-     "text": "She has to deal with all kinds of complaints."
-    },
-    {
-     "text": "She has all sorts of books in her library.她的图书馆里有各种各样的书。"
-    },
-    {
-     "text": "You can find all kinds of fruits at the market.你可以在市场上找到各种各样的水果。"
-    },
-    {
-     "text": "The store sells all types of electronic devices.这家店出售各种类型的电子设备。"
-    },
-    {
-     "text": "I am thankful to you for your help.感谢你帮了我。"
-    },
-    {
-     "text": "I'm much grateful to you for your advice."
-    },
-    {
-     "text": "She is grateful to her parents for their support.她感激父母的支持。"
-    },
-    {
-     "text": "I'm deeply obliged to you for your encouragement."
-    },
-    {
-     "text": "We are obliged to you for your assistance.我们感激你的帮助。"
-    },
-    {
-     "text": "I'm most indebted to you for this piece of advance information."
-    },
-    {
-     "text": "He feels indebted to his teacher for the guidance.他感激老师的指导。"
-    },
-    {
-     "table": {
-      "headers": [
-       "appreciate v.理解，明白；感谢，感激"
-      ],
-      "rows": [
-       [
-        "I appreciate your help / it. I owe you (one). 算我欠你（一次）"
-       ]
-      ]
-     }
-    }
+   "q": "Permission ______ granted and a policeman accompanied him to a pay phone.",
+   "a": "was",
+   "type": "choice",
+   "options": [
+    "is",
+    "was",
+    "has",
+    "did"
    ]
-  }
- ],
- "sentences": [
+  },
   {
-   "title": "结果",
-   "parts": [
-    {
-     "text": "The student hid in an archway nearby where he could watch and hear everything that went on . nearby adj./adv. 在附近的 I spent my summer vacation in the country where I had more privacy . 我的暑假是在乡下度过的，在那儿我可以更不受打扰地生活。 Sure enough , a policeman arrived on the scene and politely asked the workmen to go away . sure enough 果然、不出所料 on the scene / spot 在现场，到现场 When he received a very rude reply from one of the workmen, he threatened to remove them by force. receive + n. 受到了...、得到了...、遭到了… threaten to do （人做主语）威胁说⋯、（物做主语）有…的危险 The workmen told him to do as he pleased and the policeman telephoned for help. please v.高兴，乐意 Shortly afterwards , four more policemen arrived and remonstrated with the workmen. remonstrate with sb. 规劝 As the men refused to stop working, the police attempted to seize the pneumatic drill. seize v.抓住；（用武力）夺取；没收 The workmen struggled fiercely and one of them lost his temper . lose one's temper 某人发火了 At this, the police pointed out ironically that this would hardly be necessary as the men were already under arrest . At this 前指 在英语中，this 和 that 均可前指，但一般只有 this 可以后指。 point out 指出，提醒说 be under arrest 被捕 Pretending to speak seriously, one of the workmen asked if he might make a telephone call before being taken to the station . Permission was granted and a policeman accompanied him to a pay phone. The police granted him permission and a policeman ... 不使用被动会显得啰嗦 give / grant (sb.) permission 给予(某人)许可 He asked the teacher if he might make a telephone call. Permission was denied and he had to wait until the class was over.他问老师他是否能打个电话。 老师不允许他这么做，于是他只好等 到下课。 Only when he saw that the man was actually telephoning the police did he realize that they had all been the victims of a hoax . Only + 时间状语 = 直到...才 only + 状语 位于句首，用部分倒装"
-    },
-    {
-     "text": "an archway nearby adv.附近地"
-    },
-    {
-     "text": "a nearby archway adj.附件的"
-    },
-    {
-     "table": {
-      "headers": [
-       "near adj./adv. 附近的"
-      ],
-      "rows": [
-       [
-        "a near archway 不可做地点的前置定语 The archway is very near. 做表语 reaches a peak near midday. 时间上的近 nearer 4.75 million. 数据上的近 in the near future 时间上的近 a near relative 关系上的近"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "Sure enough, Rastus arrived punctually at seven o'clock that evening ."
-    },
-    {
-     "text": "The man took heart and, sure enough, on New Year's Eve he was able to hobble along to a party ."
-    },
-    {
-     "text": "Meanwhile, two other actors, Rockwall Slinger and Merlin Greeves, had carried two large food baskets to a shady spot under some trees ."
-    },
-    {
-     "text": "Officer Montoya was first on the scene. 蒙托亚警官是第一个到达现场的人。"
-    },
-    {
-     "text": "Firefighters were on the scene immediately.消防队立刻赶到现场。"
-    },
-    {
-     "text": "By the time I arrived on the scene , it was all over.我来到现场时，一切都已结束。"
-    },
-    {
-     "table": {
-      "headers": [
-       "on the spot 当场...，立即..."
-      ],
-      "rows": [
-       [
-        "He would invent fanciful names on the spot ."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "These young people, who love the peace of mountains, always receive a warm welcome at St. Bernard's monastery."
-    },
-    {
-     "text": "No creature has received more praise and abuse than the common garden snail ."
-    },
-    {
-     "text": "This exhibition received a great deal of attention in the press, for though the pictures were supposed to be the work of famous artists, they had in fact been painted by Dickie ."
-    },
-    {
-     "text": "The majority of the patients attending the medical out-patients departments of our hospitals feel that they have not received adequate treatment unless they are able to carry home with them some tangible remedy in the shape of a bottle of medicine, a box of pills, or a small jar of ointment, ... NCE4-28"
-    },
-    {
-     "table": {
-      "headers": [
-       "receive support 得到了支持",
-       "receive good education 得到了良好的教育",
-       "receive a heavy blow 遭受重击",
-       "receive a serious injury 遭受重伤"
-      ],
-      "rows": [
-       [
-        "She received support from her friends during difficult times.在困难时期，她得到了朋友们的支持。"
-       ],
-       [
-        "He received good education at a prestigious university.他在一所著名大学接受了良好的教育。"
-       ],
-       [
-        "The team received a heavy blow when their captain got injured.队长受伤时，球队遭受了重击。"
-       ],
-       [
-        "He received a serious injury in the car accident.他在车祸中受了重伤。"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "We keep trying all four methods, but the sheer volume of rubbish we produce worldwide threatens to overwhelm us ."
-    },
-    {
-     "text": "It threatened to surround him completely, but Tazieff managed to escape just in time."
-    },
-    {
-     "text": "Come whenever you please."
-    },
-    {
-     "text": "Women should be free to dress and act as they please. 女人应该有自由随自己的意愿着装和行事。"
-    },
-    {
-     "text": "He does whatever he pleases.他想做什么就做什么。"
-    },
-    {
-     "text": "It pleased him to talk to her. 和她谈话让他高兴。"
-    },
-    {
-     "text": "He appeared anxious to please. 他似乎急于讨好。"
-    },
-    {
-     "text": "A district official went to remonstrate with the landowners. 区里派了一个干部去对地主进行劝诫。"
-    },
-    {
-     "text": "A district official walked in the night to remonstrate with the landowners. 有天晚上，区里派了一个干部去对地主进行劝诫。"
-    },
-    {
-     "text": "During the suspension, the Russians went to their fans' end and seemed to remonstrate with them. 在暂停期间，俄罗斯人去到他们的球迷看台区要求球迷的合作。"
-    },
-    {
-     "text": "Troops have seized the airport and railway terminals. 军队已经占领了机场和铁路终点站。"
-    },
-    {
-     "text": "Police were reported to have seized all copies of this morning's edition of the newspaper. 据报道警方已没收了该报纸今早所有的出刊。"
-    },
-    {
-     "text": "During the riots hundreds of people seized the opportunity to steal property. 暴乱期间数以百计的人乘机窃取财物。"
-    },
-    {
-     "text": "I've never seen him get mad or lose his temper.我从未见过他发疯或发火。"
-    },
-    {
-     "text": "He has been known on occasion to lose his temper.大家都知道他有时会发脾气。"
-    },
-    {
-     "text": "He lost his temper when he found out his car had been scratched. 当他发现他的车被刮花时，他发了脾气。"
-    },
-    {
-     "table": {
-      "headers": [
-       "keep one's temper 保持冷静"
-      ],
-      "rows": [
-       [
-        "She managed to keep her temper despite the provocation. 尽管受到了挑衅，她还是设法保持了冷静。"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "Finding that he could not remember a word of the letter either, the gaoler replied: 'The light is indeed dim, sire. I must get my glasses.' With this, he hurried off the stage ."
-    },
-    {
-     "text": "In spite of this, she often appears on the stage as a young girl ."
-    },
-    {
-     "text": "Because of this, he has not been able to get his own car into his garage even once ."
-    },
-    {
-     "text": "In spite of this, many people are confident that 'The Revealer' may reveal something of value fairly soon ."
-    },
-    {
-     "text": "After seven days of this, I went to a party. Everybody around me was smoking, and I felt extremely uncomfortable ."
-    },
-    {
-     "text": "To be, or not to be: that is the question. — Shakespeare"
-    },
-    {
-     "text": "Good friends, good books and a sleepy conscience: this is the ideal life. - Mark Twain"
-    },
-    {
-     "text": "Of all men's miseries the bitterest is this: to know so much and to have control over nothing. — Herodotus"
-    },
-    {
-     "text": "Franz poured scorn on the idea, pointing out that his brother had been killed in action during the war ."
-    },
-    {
-     "text": "Anyway, as Brian pointed out, it is the easiest thing in the world to give up smoking. He himself has done it lots of times !"
-    },
-    {
-     "text": "... pointed out a microscopic ‘o’ beside the time of the arrival of the train at his station ."
-    },
-    {
-     "text": "She was under arrest on suspicion of murder. 她因涉嫌谋杀而被逮捕。"
-    },
-    {
-     "text": "I am placing you under arrest. 我现在要逮捕你。"
-    },
-    {
-     "text": "He is said to be under arrest fr stealing. 据说他由于偷窃被捕了。"
-    },
-    {
-     "table": {
-      "headers": [
-       "be under + n. 处于某状态"
-      ],
-      "rows": [
-       [
-        "The car is under repair. The castle is under attack. The subject is under discussion. The matter is under consideration. The patient is under observation. The case is under investigation. The bridge is under construction. The building is under renovation."
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "动名词的时态和语态"
-      ],
-      "rows": [
-       [
-        "时态/语态",
-        "主动",
-        "被动"
-       ],
-       [
-        "一般时",
-        "doing",
-        "being done"
-       ],
-       [
-        "完成时",
-        "having done",
-        "having been done"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "The teacher gave the student permission to leave early. 老师允许这名学生早退。"
-    },
-    {
-     "text": "The council granted him permission to build on the land. 委员会批准了他在这片土地上建造的许可。"
-    },
-    {
-     "table": {
-      "headers": [
-       "refuse / deny (sb.) permission 拒绝(某人)的许可"
-      ],
-      "rows": [
-       [
-        "They refused her permission to enter the restricted area. 他们拒绝了她进入限制区的请求。 He was denied permission to use the company's resources. 他被拒绝使用公司的资源。"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "Only then did he realize that he was mistaken."
-    },
-    {
-     "text": "Only by working hard can we succeed in doing anything."
-    },
-    {
-     "text": "Only after a baby seal is pushed into the sea by its mother will it learn how to swim."
-    }
+   "q": "Inviting the fire Brigade to put out a nonexistent fire is a crude form of deception ______ no self-respecting student would ever indulge in.",
+   "a": "which",
+   "type": "choice",
+   "options": [
+    "who",
+    "which",
+    "where",
+    "when"
    ]
+  },
+  {
+   "q": "Only when he saw that the man was actually telephoning the police ______ he realize that they had all been the victims of a hoax.",
+   "a": "did",
+   "type": "choice",
+   "options": [
+    "did",
+    "does",
+    "was",
+    "had"
+   ]
+  },
+  {
+   "q": "下列哪个词与课文中 hoax 的含义最接近？",
+   "a": "骗局，戏弄",
+   "type": "choice",
+   "options": [
+    "骗局，戏弄",
+    "赞美，颂扬",
+    "许可，批准",
+    "愤怒，恼火"
+   ]
+  },
+  {
+   "q": "用被动语态填空：At this, the police pointed out ironically that this would hardly be necessary as the men ______ already under arrest.（写出 be 的正确过去时形式）",
+   "a": "were",
+   "type": "fill_in",
+   "options": []
   }
  ]
 }

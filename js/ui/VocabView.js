@@ -80,6 +80,8 @@ export class VocabView {
         result.textContent = `答案：${ex.dataset.answer}`;
         result.className = 'ex-result ex-revealed';
         ex.classList.remove('correct', 'wrong');
+      } else if (event.target.matches('.ex-option')) {
+        this.#selectOption(ex, event.target);
       }
     });
     this.grammarPanel?.addEventListener('keydown', (event) => {
@@ -108,6 +110,23 @@ export class VocabView {
     const correct = given === expected;
     result.hidden = false;
     result.textContent = correct ? '✓ 正确！' : '✗ 不对，再想想（可点 💡 看答案）';
+    result.className = `ex-result ${correct ? 'ex-ok' : 'ex-bad'}`;
+    ex.classList.toggle('correct', correct);
+    ex.classList.toggle('wrong', !correct);
+  }
+
+  #selectOption(ex, option) {
+    const result = ex.querySelector('.ex-result');
+    const expected = (ex.dataset.answer || '').trim().toLowerCase();
+    const given = (option.dataset.value || '').trim().toLowerCase();
+    const correct = given === expected;
+    // 高亮选中项
+    ex.querySelectorAll('.ex-option').forEach((b) => {
+      b.classList.remove('selected', 'correct', 'wrong');
+    });
+    option.classList.add('selected', correct ? 'correct' : 'wrong');
+    result.hidden = false;
+    result.textContent = correct ? '✓ 正确！' : `✗ 正确答案：${ex.dataset.answer}`;
     result.className = `ex-result ${correct ? 'ex-ok' : 'ex-bad'}`;
     ex.classList.toggle('correct', correct);
     ex.classList.toggle('wrong', !correct);
@@ -230,15 +249,21 @@ export class VocabView {
   }
 
   /**
-   * 渲染语法讲解区：语法知识 / 句型 / 扩展 / 练习（点击显示答案）
+   * 渲染语法讲解区：概述 + 语法点（标题+讲解+例句）+ 练习（填空判定）
+   * 数据格式: { grammar: {summary, points:[{title, explanation, examples:[{en,cn}]}]},
+   *            exercises: [{q, a, type}] }
+   * 兼容旧格式(数组)时降级为标题+段落。
    * @param {Object|null} data
    */
   renderGrammar(data) {
     const panel = this.grammarPanel;
     if (!panel) return;
 
+    const g = data?.grammar;
+    const isNew = g && !Array.isArray(g) && Array.isArray(g.points);
     const exCount = data?.exercises?.length || 0;
-    const gCount = (data?.grammar?.length || 0) + (data?.sentences?.length || 0) + (data?.expand?.length || 0) + exCount;
+    const pointCount = isNew ? g.points.length : (Array.isArray(g) ? g.length : 0);
+    const gCount = pointCount + exCount;
     this.hasGrammar = gCount > 0;
     if (this.grammarCountEl) {
       this.grammarCountEl.textContent = gCount ? ` ${gCount}` : '';
@@ -250,90 +275,62 @@ export class VocabView {
       return;
     }
 
-    /** 布局型表(单元格是完整知识点) -> 拆成"标题加粗 + 内容"的段落
-     *  标题启发式:开头连续中文词组(≥2字,后接空格/冒号)后接实质内容 */
-    const flattenCell = (text) => {
-      const t = text.trim();
-      if (!t) return null;
-      // 排除句型结构标记(如"主 系 表"、"主 + 谓 vi."):短中文标记夹空格
-      if (/^[一-鿿](\s+[一-鿿+]\s*){1,4}$/.test(t.slice(0, 14).split(/[A-Za-z]/)[0].trim()) && /\s[一-鿿]\s/.test(t.slice(0, 20))) {
-        return `<p>${escapeHtml(t)}</p>`;
-      }
-      // 中文标题:2-6字名词性词组后接空格或冒号,且后续有实质内容
-      const tm = t.match(/^([一-鿿]{2,6})[\s：:]+(.+)$/);
-      if (tm && tm[2].length >= 4) {
-        return `<p><strong>${escapeHtml(tm[1])}</strong> ${escapeHtml(tm[2].trim())}</p>`;
-      }
-      // 英文标题:短词组以冒号结尾
-      const em = t.match(/^([\w .&'/-]{1,25})[：:]\s*([\s\S]+)$/);
-      if (em) {
-        return `<p><strong>${escapeHtml(em[1].trim())}</strong> ${escapeHtml(em[2].trim())}</p>`;
-      }
-      return `<p>${escapeHtml(t)}</p>`;
-    };
-
-    const renderTablePart = (t) => {
-      const rows = t.rows || [];
-      const cols = rows[0]?.length || 0;
-      // 布局滥用表(行列过少或单列) -> 展开为知识点段落
-      if (rows.length < 3 || cols < 2) {
-        const cells = [];
-        (t.headers || []).forEach((h) => cells.push(h));
-        rows.flat().forEach((c) => c && cells.push(c));
-        const html = cells.map(flattenCell).filter(Boolean).join('');
-        return html || '';
-      }
-      // 真网格 -> 表格
-      const head = t.headers?.length
-        ? `<thead><tr>${t.headers.map((h) => `<th>${escapeHtml(h)}</th>`).join('')}</tr></thead>`
-        : '';
-      const body = rows
-        .map((row) => `<tr>${row.map((c) => `<td>${escapeHtml(c)}</td>`).join('')}</tr>`)
-        .join('');
-      return `<div class="grammar-table-wrap"><table class="grammar-table">${head}<tbody>${body}</tbody></table></div>`;
-    };
-
-    const renderPart = (part) => {
-      if (part.table) {
-        return renderTablePart(part.table);
-      }
-      return `<p>${escapeHtml(part.text || '')}</p>`;
-    };
-
-    const section = (title, items) => items?.length
-      ? `<section class="grammar-block">
-           <h3 class="grammar-heading">${title}</h3>
-           ${items.map((item) => `
-             <article class="grammar-item">
-               <h4>${escapeHtml(item.title || '')}</h4>
-               ${(item.parts || []).map(renderPart).join('')}
-             </article>`).join('')}
-         </section>`
-      : '';
+    let grammarHtml = '';
+    if (isNew) {
+      grammarHtml = `
+        <section class="grammar-block">
+          ${g.summary ? `<p class="grammar-summary">${escapeHtml(g.summary)}</p>` : ''}
+          ${g.points.map((p) => `
+            <article class="grammar-item">
+              <h4>${escapeHtml(p.title || '')}</h4>
+              <p class="grammar-explain">${escapeHtml(p.explanation || '')}</p>
+              ${(p.examples || []).map((e) => `
+                <div class="grammar-example">
+                  <p class="ge-en">${escapeHtml(e.en || '')}</p>
+                  ${e.cn ? `<p class="ge-cn">${escapeHtml(e.cn)}</p>` : ''}
+                </div>`).join('')}
+            </article>`).join('')}
+        </section>`;
+    } else if (Array.isArray(g) && g.length) {
+      // 兼容旧结构
+      grammarHtml = `
+        <section class="grammar-block">
+          ${g.map((item) => `
+            <article class="grammar-item">
+              <h4>${escapeHtml(item.title || '')}</h4>
+              ${(item.parts || []).map((part) => `<p>${escapeHtml(part.text || '')}</p>`).join('')}
+            </article>`).join('')}
+        </section>`;
+    }
 
     const exercises = data.exercises?.length
       ? `<section class="grammar-block">
-           <h3 class="grammar-heading">✏️ 练习题（输入答案后回车或点"核对"）</h3>
-           ${data.exercises.map((ex, idx) => `
+           <h3 class="grammar-heading">✏️ 练习题${''}</h3>
+           ${data.exercises.map((ex, idx) => {
+             const options = Array.isArray(ex.options) && ex.options.length
+               ? `<div class="ex-options" role="radiogroup" aria-label="第 ${idx + 1} 题选项">
+                    ${ex.options.map((op) => `<button class="ex-option" type="button" data-value="${escapeHtml(op)}">${escapeHtml(op)}</button>`).join('')}
+                  </div>`
+               : `<div class="ex-input-row">
+                    <input class="ex-input" type="text" autocomplete="off"
+                           placeholder="输入答案…" aria-label="第 ${idx + 1} 题答案">
+                    <button class="ex-check-btn" type="button">核对</button>
+                    <button class="ex-reveal-btn" type="button" title="显示答案">💡</button>
+                  </div>`;
+             return `
              <div class="grammar-exercise" data-answer="${escapeHtml(ex.a)}">
                <p class="ex-question">${idx + 1}. ${escapeHtml(ex.q)}</p>
-               <div class="ex-input-row">
-                 <input class="ex-input" type="text" autocomplete="off"
-                        placeholder="输入答案…" aria-label="第 ${idx + 1} 题答案">
-                 <button class="ex-check-btn" type="button">核对</button>
-                 <button class="ex-reveal-btn" type="button" title="显示答案">💡</button>
-               </div>
+               ${options}
                <p class="ex-result" hidden></p>
-             </div>`).join('')}
+             </div>`;
+           }).join('')}
          </section>`
       : '';
 
     const html = [
-      section('📘 语法知识', data.grammar),
-      section('💬 重点句型', data.sentences),
-      section('🔍 扩展知识', data.expand),
+      '<h3 class="grammar-heading">📘 本课语法</h3>',
+      grammarHtml,
       exercises,
-      `<p class="grammar-source">语法内容来源：<a href="https://www.ncego.com/" target="_blank" rel="noopener noreferrer">ncego.com 夸克英语笔记</a>，版权归原作者所有，仅供个人学习使用</p>`,
     ].filter(Boolean).join('');
 
     if (!html) {

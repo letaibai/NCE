@@ -1,361 +1,104 @@
 {
- "grammar": [
+ "grammar": {
+  "summary": "本课记述考古发现，大量使用被动语态叙述「被发现、被修建、被保护」的客观事实，并用 must have been 对古城与文物作过去的肯定推测；同时以 which/who 引导的定语从句补充说明庙宇、长裙等对象。",
+  "points": [
+   {
+    "title": "被动语态 (Passive Voice)",
+    "explanation": "be + 过去分词构成被动语态，突出动作的承受者或客观结果，常用于考古、科学叙述。本课频繁用被动描述「发现、修建、保护」等动作，主语多为遗迹与文物本身，叙述更显客观。",
+    "examples": [
+     {
+      "en": "an interesting discovery was made by archaeologists on the Aegean island of Kea.",
+      "cn": "在爱琴海的基亚岛上，考古工作者有一项有趣的发现。"
+     },
+     {
+      "en": "Houses -- often three storeys high -- were built of stone.",
+      "cn": "房子一般有3层楼高，用石块修建。"
+     },
+     {
+      "en": "This head must have been found in Classical times and carefully preserved.",
+      "cn": "她的脑袋一定是在古希腊罗马时代就为人所发现，并受到精心的保护。"
+     }
+    ]
+   },
+   {
+    "title": "must have been 过去推测 (Past Deduction)",
+    "explanation": "must have been + 过去分词/形容词，表示对过去事实的肯定推测，意为「一定曾……」。本课据城市文明程度推测「古城肯定一度很繁荣」，又据头颅被精心保护推测「一定是在古典时代被发现并保护下来」。",
+    "examples": [
+     {
+      "en": "The city at one time must have been prosperous, for it enjoyed a high level of civilization.",
+      "cn": "这座古城肯定一度很繁荣，因为它曾享有高度的文明。"
+     },
+     {
+      "en": "This head must have been found in Classical times and carefully preserved.",
+      "cn": "她的脑袋一定是在古希腊罗马时代就为人所发现，并受到精心的保护。"
+     }
+    ]
+   },
+   {
+    "title": "定语从句 (Relative Clauses)",
+    "explanation": "用 which/that 引导定语从句修饰事物先行词，补充信息。本课用 which stands in an ancient city 修饰 temple，用 which swept the ground 修饰 skirt，使长句层次分明、信息紧凑。",
+    "examples": [
+     {
+      "en": "An American team explored a temple which stands in an ancient city on the promontory of Ayia Irini.",
+      "cn": "一个美国考古队在阿伊亚.依里尼海角的一座古城里考察了一座庙宇。"
+     },
+     {
+      "en": "She was wearing a full-length skirt which swept the ground.",
+      "cn": "身穿一条拖地长裙。"
+     }
+    ]
+   }
+  ]
+ },
+ "exercises": [
   {
-   "title": "层层深入，迫近主 题（古城一庙宇一殿堂一神像）",
-   "parts": [
-    {
-     "text": "The temple which the archaeologists explored was used as a place of worship from the fifteenth century B.C. until Roman times. in times of ... 在…时期；在…时候；在…情况下 In the most sacred room of the temple, clay fragments of fifteen statues were found . statue /ˈstæ tʃ uː/ n.雕像 Each of these represented a goddess and had , at one time, been painted . The body of one statue was found among remains dating from the fifteenth century B.C. Its missing head happened to be among remains of the fifth century B.C."
-    },
-    {
-     "table": {
-      "headers": [
-       "be used as § ... 被用作：作为某种用途或功能的使用对象。",
-       "act / serve / function as ... （主动）"
-      ],
-      "rows": [
-       [
-        "The wooden box is used as a seat. Art may be used as a vehicle for propaganda.艺术可以用作宣传的工具。",
-        "The wooden box act s / serve s / function s as a seat. She serve s as an impressive reminder of the great ships of the past. NCE3-25"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "In times of peace, when business was bad, Hawkwood and his men would march into a citystate ... NCE3-14 (in times of peace / war)"
-    },
-    {
-     "table": {
-      "headers": [
-       "times",
-       "age",
-       "era"
-      ],
-      "rows": [
-       [
-        "次数",
-        "many \\ three \\ several times",
-        "I've been there several times. 我到那儿去过过好几次"
-       ],
-       [
-        "乘以",
-        "Four times six \\ 3 times 3",
-        "4 times 6 is 24. 4乘以6等于24。"
-       ],
-       [
-        "时代",
-        "in modern / recent / ancient / prehistoric times",
-        "The situation is unprecedented in modern times. 这种情况在现代还没有出现过。"
-       ],
-       [
-        "年代、时代，时期",
-        "the Ice \\ Stone \\ modern \\ computer age",
-        "Some of the rings go back almost ten thousand years to the end of the Ice Age.有些年轮可以追溯到近一万年前的冰河时代末期。"
-       ],
-       [
-        "年龄，年纪；寿命",
-        "at the age of 在…岁时",
-        "At the age of five he showed exceptional talent as a musician. 他五岁时就表现出非凡的音乐才能。"
-       ],
-       [
-        "时代，年代，纪元",
-        "the steam-engine era 蒸汽机时代",
-        "His death marked the end of an era. 他的去世标志着一个时代的结束（mark the end of an era） It marked the end of the great tradition of ships with sails and the beginning of a new era. NCE3-25 (mark the beginning of a new era)"
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "t + j = tʃ",
-       "d + j = dʒ",
-       "s + j = ʃ",
-       "z + j = ʒ"
-      ],
-      "rows": [
-       [
-        "don' t y ou; won' t y ou; las t y ear; si tu ation"
-       ],
-       [
-        "di d y ou; woul d y ou; gra du ate; cre du lous"
-       ],
-       [
-        "thi s y ear;Ble ss y ou;I promi s e y ou"
-       ],
-       [
-        "May I u se y our book? How' s y our father?"
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "represent v. 代表；为…代言（辩护）",
-       "stand for 代表、支持，拥护、忍受，容忍",
-       "on behalf of sb. 代表某人、公司等",
-       "on one's behalf 代表某人；为某人行事或发言"
-      ],
-      "rows": [
-       [
-        "A lawyer was appointed to represent the child.一位律师被指定为这个孩子的代表律师。",
-        "Honey, this gold ring stands for / represents my love for you."
-       ],
-       [
-        "On behalf of the entire company, I would like to thank you for all your work.",
-        "Unfortunately, George cannot be with us today so I am pleased to accept this award on his behalf."
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "date from ... (主动)追溯、从某个时候就有了...",
-       "date back to ...(主动)追溯到...起源或制作时间",
-       "can be traced back to ...(被动)可以追溯到..."
-      ],
-      "rows": [
-       [
-        "The prosperity of the Silk Road dates from / dates back to / can be traced back to the distant Han Dynasty."
-       ],
-       [
-        "The tradition could date back to 300 BC. 这一传统可追溯到公元前300年。"
-       ],
-       [
-        "Tea-drinking in China can be traced back to the Zhou Dynasty.在中国，饮茶可以追溯到周朝。"
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "happen",
-       "sth. happen to sb .",
-       "chance 写作替换",
-       "by chance",
-       "by accident",
-       "accidentally",
-       "as it happen",
-       "as luck would have it"
-      ],
-      "rows": [
-       [
-        "+ to do 碰巧做某事",
-        "We happened to take the same train."
-       ],
-       [
-        "+ that + 从句",
-        "It happened that we took the same train."
-       ],
-       [
-        "某事情发生在某人身上",
-        "A car accident happened to him."
-       ],
-       [
-        "+ to do 碰巧做某事",
-        "We chanced to take the same train."
-       ],
-       [
-        "+ that + 从句",
-        "It chanced that we took the same train."
-       ],
-       [
-        "碰巧地、偶然地",
-        "We took the same train by chance / by accident / accidentally."
-       ],
-       [
-        "偶然地、意外地"
-       ],
-       [
-        "adv.意外地，偶然地； 意外失误地"
-       ],
-       [
-        "(习语)碰巧",
-        "As it happened, we took the same train."
-       ],
-       [
-        "(口语)碰巧；真幸运",
-        "As luck would have it, we took the same train."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "W: You do look cold. What happened?"
-    },
-    {
-     "text": "M: I've been standing outside in Arctic temperatures for over an hour waiting for a bus."
-    },
-    {
-     "text": "W: Over an hour, but I thought your apartment was only a ten-minute bus ride to campus."
-    },
-    {
-     "text": "M: Under normal conditions, but the bus was delayed because of the weather and when I stepped into a drugstore to call home for a ride, the bus went by. As luck would have it, there was no one at home, so l had to wait another forty five minutes for the next bus."
-    },
-    {
-     "text": "W:That's Murphy's law, isn't it. What was it said \"If anything can go wrong, it will.\" Well, we still get twenty minutes to gather our wits together."
-    }
+   "q": "an interesting discovery ______ by archaeologists on the Aegean island of Kea.",
+   "a": "was made",
+   "type": "choice",
+   "options": [
+    "made",
+    "was made",
+    "has made",
+    "had made"
    ]
-  }
- ],
- "sentences": [
+  },
   {
-   "title": "揭示谜底 ，故事高潮（身首异处，摩登女郎）",
-   "parts": [
-    {
-     "text": "This head must have been found in Classical times and carefully preserved. It was very old and precious even then. When the archaeologists reconstructed the fragments, they were amazed to find that the goddess turned out to be a very modern-looking woman . turn out to be 竟然是、原来是 adj. + doing 构词法 She stood three feet high and her hands rested on her hips. She was wearing a full-length skirt which swept the ground . She stood three feet high = She is three feet high. 主系表 rested on 依赖于，依靠于 Despite her great age, she was very graceful indeed, but, so far, the archaeologists have been unable to discover her identity. 尾声，意犹未尽（身份未知） 副词 → 连接 引导让步状语从句（使用同位语从句解释说明）"
-    },
-    {
-     "table": {
-      "headers": [
-       "preserve",
-       "conserve",
-       "reserve"
-      ],
-      "rows": [
-       [
-        "keep sth. in good condition",
-        "preserve one's eyesight / food"
-       ],
-       [
-        "keep sth. in a certain quantity from decreasing.",
-        "conserve wildlife / resources"
-       ],
-       [
-        "Reserved sth. for future use",
-        "Reserve your energy for the climb tomorrow. I reserve the right to disagree. 我保留不同意的权利。 reserve a table for 2 预定 reserve a table for dinner"
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [],
-      "rows": [
-       [
-        "preci ous",
-        "nerv ous",
-        "anxi ous",
-        "delici ous"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "Eric's girlfriend turned out to be his half-sister."
-    },
-    {
-     "text": "And it turns out he's a classmate of Philip's."
-    },
-    {
-     "text": "No one could have foreseen things would turn out this way. 没人能预料到事情会变成这样。"
-    },
-    {
-     "table": {
-      "headers": [
-       "amaze v.使惊奇，使惊愕",
-       "astound vt.使惊骇，使震惊",
-       "surprise v.使（某人）吃惊；意外发现",
-       "astonish v.使吃惊，使惊讶"
-      ],
-      "rows": [
-       [
-        "Your progress will amaze everyone. 你的进步会让每个人吃惊。"
-       ],
-       [
-        "The police were astounded when Mrs. Ramsay told them what she had done. NCE3-19"
-       ],
-       [
-        "So it comes as a surprise to learn that giant fish are terrifying the divers on North Sea oil rigs ."
-       ],
-       [
-        "He was astonished at what he found.A man was lying in the box on top of a pile of wooden goods ."
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "modern-looking",
-       "nteresting-looking",
-       "good-looking",
-       "hard-working",
-       "easy-going"
-      ],
-      "rows": [
-       [
-        "Several of the modern-looking buildings turn out to be made of wood, straw and mud.那些现代的建筑物实际是由木头、稻草和泥土建造的。"
-       ],
-       [
-        "an interesting-looking carved dagger NCE3-34"
-       ],
-       [
-        "She's strikingly good-looking. 她非常漂亮。"
-       ],
-       [
-        "Those women are very hard-working ."
-       ],
-       [
-        "He was easy-going and good-natured. 他随和且脾气好。"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "The tower stands 15 meters (high)."
-    },
-    {
-     "text": "The boy weighs 50 kilos. 主系表"
-    },
-    {
-     "text": "The carpet measures 5 meters long."
-    },
-    {
-     "text": "Her hands rested on her hips.叉腰"
-    },
-    {
-     "text": "Her face rested on her hands. 托腮"
-    },
-    {
-     "text": "His head rested on my shoulder.他的头靠在我的肩上。"
-    },
-    {
-     "text": "He rested on his pickaxe for a while.他在他的镐上倚靠了一会儿。"
-    },
-    {
-     "table": {
-      "headers": [
-       "让步副词",
-       "让步状语从句"
-      ],
-      "rows": [
-       [
-        "despite",
-        "though 、even though"
-       ],
-       [
-        "in spite of",
-        "although"
-       ],
-       [
-        "notwithstanding",
-        "while"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "in spite of the fact that ..."
-    },
-    {
-     "text": "despite the fact that ..."
-    },
-    {
-     "text": "Despite the fact that the bottle is tinted a delicate shade of green, an observant visitor would soon notice that it is filled with what looks like a thick, grayish substance. NCE3-52"
-    }
+   "q": "The city at one time ______ prosperous, for it enjoyed a high level of civilization.",
+   "a": "must have been",
+   "type": "choice",
+   "options": [
+    "must be",
+    "must have been",
+    "must have",
+    "must being"
+   ]
+  },
+  {
+   "q": "An American team explored a temple ______ stands in an ancient city on the promontory of Ayia Irini.",
+   "a": "which",
+   "type": "choice",
+   "options": [
+    "who",
+    "which",
+    "where",
+    "when"
+   ]
+  },
+  {
+   "q": "用被动语态填空：Houses -- often three storeys high -- ______ (build) of stone.（写出 build 的正确形式）",
+   "a": "were built",
+   "type": "fill_in",
+   "options": []
+  },
+  {
+   "q": "下列哪个词与课文中 sacred 的含义最接近？",
+   "a": "holy / 神圣的",
+   "type": "choice",
+   "options": [
+    "holy / 神圣的",
+    "ancient / 古老的",
+    "broken / 破碎的",
+    "modern / 现代的"
    ]
   }
  ]

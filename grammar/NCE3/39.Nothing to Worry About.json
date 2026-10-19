@@ -1,355 +1,105 @@
 {
- "grammar": [
+ "grammar": {
+  "summary": "本课以「不顾路况疯狂驾驶」为线索，集中运用了 so...that 结果状语从句、让步状语从句与分词短语作状语，并出现 no matter what 引导的条件让步。重点体会叙事中如何用 so...that 表示程度结果、用让步从句表示「无论」、用分词表现驾驶中的连续动作。",
+  "points": [
+   {
+    "title": "so...that 结果状语从句 (Result Clauses with so...that)",
+    "explanation": "so + 形容词/副词 + that 从句，表示「如此……以至于」。本课用 so bad that 描述路况之差以至于想返回，强调程度与结果。",
+    "examples": [
+     {
+      "en": "The rough across the plain soon became so bad that we tried to get Bruce to drive back to the village we had come from.",
+      "cn": "穿越平原的道路高低不平，开车走了不远，路面愈加崎岖。我们想劝说布鲁斯把车开回我们出发的那个村庄去。"
+     },
+     {
+      "en": "We felt sure that sooner or later a stone would rip a hole in our petrol tank or damage the engine.",
+      "cn": "我们想念迟早会飞起一个石块把油箱砸开一个窟窿，或者把发动机砸坏。"
+     }
+    ]
+   },
+   {
+    "title": "让步状语从句 (Concessive Clauses)",
+    "explanation": "用 even though / no matter what / though 引导让步从句，表示「尽管」「无论」。本课用 even though 表示「尽管路况差」，用 no matter what 表示「无论条件如何」，突出布鲁斯的无畏。",
+    "examples": [
+     {
+      "en": "Even though the road was littered with boulders and pitted with holes, Bruce was not in the least perturbed.",
+      "cn": "尽管路面布满石头，坑坑洼洼，但布鲁斯却一点儿不慌乱。"
+     },
+     {
+      "en": "No matter what the conditions were, he believed that a car should be driven as fast as it could possibly go.",
+      "cn": "他认为不管路面情况如何，车必须以最高速度前进。"
+     }
+    ]
+   },
+   {
+    "title": "分词短语作状语 (Participle Phrases as Adverbials)",
+    "explanation": "现在分词 (v-ing) 作状语表主动伴随，可表时间、方式、伴随。本课用 Glancing at his map 表「瞥一眼地图时」，用 keeping the front wheels astride 表「同时让前轮跨在裂缝上」，生动刻画驾驶过程。",
+    "examples": [
+     {
+      "en": "Glancing at his map, he informed us that the next village was a mere twenty miles away.",
+      "cn": "他瞥了一眼地图，告诉我们前面再走不到20英里就是一个村庄。"
+     },
+     {
+      "en": "Bruce went into a low gear and drove at a terrifying speed, keeping the front wheels astride the crack as he followed its zigzag course.",
+      "cn": "布鲁斯挂上慢档，把两只前轮分别搁在裂缝的两边，顺着弯弯曲曲的裂缝，以发疯的速度向前开去。"
+     },
+     {
+      "en": "What a relief it was when the boulders suddenly disappeared, giving way to a stretch of plain where the only obstacles were clumps of bushes.",
+      "cn": "突然大石块不见了，前面是一片平地，唯一的障碍只有一簇簇灌木丛。这使我们长长地松了口气。"
+     }
+    ]
+   }
+  ]
+ },
+ "exercises": [
   {
-   "title": "险象环生的经过（遇到了一个天棒司机）",
-   "parts": [
-    {
-     "text": "As we bumped over the dusty track, we swerved to avoid large boulders. bump v.碰撞(拟声词) track n. a narrow path or road with a rough uneven surface, esp. one made by vehicles, people or animals 小道，小径 The wheels scooped up stones which hammered ominously under the car . scoop n. a tool with a deep bowl-shaped end which is used to dig out and move a soft or powdery substance.勺 v.(用勺子) 舀 hammer / thunder 名词动用 We felt sure that sooner or later a stone would rip a hole in our petrol tank or damage the engine . sooner or later 固定搭配“迟早、早晚、早晚有一天” rip / tear a hole 撕开一个洞 Because of this , we kept looking back, wondering if we were leaving a trail of oil and petrol behind us . leave a trail of ... behind ... 留下一(连)串的…在…后面 What a relief it was when the boulders suddenly disappeared , giving way to a stretch of plain where the only obstacles were clumps of bushes . relief n.宽慰，痛苦的缓解或解脱 stretch n. an area of land or water,esp. one that is long and narrow （狭长的）一片或一段地或水域 clump n. a group of trees, bushes,or other plants growing very close together 丛 But there was worse to come. worse n. [U] something worse Just ahead of us there was a huge fissure. fissure n. long deep crack in rock or in the earth（岩石中或土地中的）深长裂缝 In response to renewed pleadings, Bruce stopped . in response to ... 作为对…回应、反应 renewed adj. happening again with increased interest or strength [only before noun］更强烈的... Though we all got out to examine the fissure, he remained in the car. get out 使离开、泄露，走漏 We informed him that the fissure extended for fifty yards and was two feet wide and four feet deep . extend v.（时间或空间）延伸 Bruce went into a low gear and drove at a terrifying speed, keeping the front wheels astride the crack as he followed its zigzag course. gear n.排挡，齿轮 astride prep. with one leg on each sideofsth.跨在...上 zigzag adj. a pattern that looks like a line of z's joined together Before we had time to worry about what might happen , we were back on the plain again. have time to 有时间做某事 Bruce consulted the map once more and told us that the village was now only fifteen miles away . consult v.咨询，请教；商量，商讨；查询，查阅；当顾问 Our next obstacle was a shallow pool of water about half a mile across. a shallow pool of water 形容词放在量词前面 Bruce charged at it, but in the middle, the car came to a grinding halt. charge at... 朝...猛冲 come to a stop / halt / standstill 停了下来 grind v.磨碎，碾碎 A yellow light on the dashboard flashed angrily and Bruce cheerfully announced that there was no oil in the engine ! flash angrily 发出刺眼的强光 no oil in the engine 发动机里没有油了（指没有机油、润滑油）"
-    },
-    {
-     "text": "bomb n.炸弹 v. 轰炸"
-    },
-    {
-     "text": "balloon n.气球 v.膨胀"
-    },
-    {
-     "text": "I felt a little bump and I knew instantly what had happened. 我感到了一下轻轻的撞击，立刻就明白发生了什么。"
-    },
-    {
-     "text": "A police car bumped down the track."
-    },
-    {
-     "table": {
-      "headers": [
-       "bump over 颠簸过去",
-       "bump across 颠簸穿过",
-       "bump along 颠簸行驶",
-       "bump down 颠簸而行"
-      ],
-      "rows": [
-       [
-        "The car bumped over the pothole in the road.汽车在路上的坑洼处颠簸过去。"
-       ],
-       [
-        "She bumped across the uneven ground.她在不平整的地面上颠簸行走。"
-       ],
-       [
-        "The boat bumped along the rough waves.小船在波涛汹涌中颠簸前行。"
-       ],
-       [
-        "He bumped down the stairs in a hurry.他匆忙中跌跌撞撞地下了楼梯。"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "We set off once more, over a rough mountain track. 我们又一次出发了，走在一条崎岖不平的山间小路上。"
-    },
-    {
-     "text": "The path was no better than a sheep track. 那条小路简直就像是羊肠小道。"
-    },
-    {
-     "text": "a measuring scoop"
-    },
-    {
-     "text": "an ice-cream scoop 名词"
-    },
-    {
-     "text": "a scoop of ice-cream 量词"
-    },
-    {
-     "table": {
-      "headers": [
-       "scoop (up / out) sth. 舀(起/舀出)某物"
-      ],
-      "rows": [
-       [
-        "He scooped water from the stream and splashed it on his face. 用手捧起水洗脸 She bent down and scooped up the little dog. 抱起小狗(用2只手捧起来) Carefully scoop out the pulp with a small spoon."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "He hammered / thundered at the door."
-    },
-    {
-     "text": "She googles the answer."
-    },
-    {
-     "text": "He telephoned me four times yesterday and three times the day before yesterday ."
-    },
-    {
-     "text": ".. . a puma will not attack a human being unless it is cornered ."
-    },
-    {
-     "text": "He elbowed his way through the crowd."
-    },
-    {
-     "text": "I am fogged by the issue."
-    },
-    {
-     "text": "The lady housed the homeless. 收容、收留"
-    },
-    {
-     "text": "You should tell her, because she'll find out sooner or later."
-    },
-    {
-     "text": "Sooner or later you will have to make a decision.你早晚得拿个主意。"
-    },
-    {
-     "text": "Sooner or later she would be caught by the police.迟早她会被警方抓住的。"
-    },
-    {
-     "text": "Sooner or later, I'm going to have to face the music.迟早我得自食其果。"
-    },
-    {
-     "text": "The nail ripped / tore a hole in my jacket."
-    },
-    {
-     "text": "He accidentally ripped a hole in his jacket while climbing the fence.他在爬栅栏时不小心撕破了夹克上的一个洞。"
-    },
-    {
-     "text": "She tore a hole in the paper when she was removing the staple.她在拆除订书钉时把纸撕破了一个洞。"
-    },
-    {
-     "text": "The bus left a trail of black smoke behind it. 公交车抽黑🚬"
-    },
-    {
-     "text": "He left a trail of muddy footprints behind him. 乔治 Jumped mud puddles than went home."
-    },
-    {
-     "text": "What a pity !"
-    },
-    {
-     "text": "What a mess !"
-    },
-    {
-     "text": "What a beautiful ship !"
-    },
-    {
-     "text": "find a temporary relief."
-    },
-    {
-     "text": "permanent relief"
-    },
-    {
-     "text": "to my great relief 令我松了一口气(使我大为宽慰的是)"
-    },
-    {
-     "text": "give immediate relief from pain"
-    },
-    {
-     "table": {
-      "headers": [
-       "give way to sth. 被（更新更好的事物）代替",
-       "give way to sb. / sth. 让路，向 … 屈服"
-      ],
-      "rows": [
-       [
-        "Steam trains gave way to electric trains. Winter gave way to spring. 冬去春来 The storm gave way to bright sunshine. 阳光风雨后"
-       ],
-       [
-        "Drivers must give way to cyclists. We must not give way to their demands. 不屈服"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "a stretch of 一段，一(大)片"
-    },
-    {
-     "text": "It's a very dangerous stretch of road. 这是一段非常危险的路（形容词通常放到量词前）"
-    },
-    {
-     "text": "a stretch of plain"
-    },
-    {
-     "text": "a narrow stretch of water"
-    },
-    {
-     "text": "a beautiful stretch of field"
-    },
-    {
-     "text": "a clump of trees / bushes / flowers / grass 一丛树/灌木/花/草"
-    },
-    {
-     "text": "...a clump of trees bordering a side road. …一丛长在小道边的树木。"
-    },
-    {
-     "text": "I'm afraid there is worse to come."
-    },
-    {
-     "table": {
-      "headers": [
-       "worse was to follow 更糟糕的事情接踵而至",
-       "I've seen worse.我见过更糟的(还凑和、还行)"
-      ],
-      "rows": [
-       [
-        "We thought the situation was bad,but worse was to follow."
-       ],
-       [
-        "A:\"What about the bride's dress —wasn't it appalling?\" B:\"I don't know,I've seen worse.\""
-       ]
-      ]
-     }
-    },
-    {
-     "text": "She blinked quickly, and then turned to the fissure. 她快速眨着眼，然后转向裂缝。"
-    },
-    {
-     "text": "But the new tower was found to contain a fissure, discovered in 1939, which is very slowly spreading. 但在1939年钟楼就被发现存在裂缝，并以缓慢的速度蔓延开来。"
-    },
-    {
-     "text": "The president stepped down in response to public pressure."
-    },
-    {
-     "text": "... move in response to a gust of wind are quite familiar to everybody ."
-    },
-    {
-     "text": "The threat of renewed civil war looms ahead.新一轮内战的威胁在逼近。"
-    },
-    {
-     "text": "He worked with renewed vigour and determination. 他以新的活力和决心工作着。"
-    },
-    {
-     "text": "They regrouped their forces and renewed the attack. 他们重新聚集兵力，再次发动进攻。"
-    },
-    {
-     "text": "get out of a car / taxi 接宾语要加介词of"
-    },
-    {
-     "table": {
-      "headers": [
-       "get in 进入",
-       "get on 登上(大型交通工具)",
-       "get off 下去(大型交通工具)"
-      ],
-      "rows": [
-       [
-        "get into a car / taxi 接宾语换成介词into"
-       ],
-       [
-        "get on a bus / train / ship / plane On 本身是介词和副词，所以不需要额外介词"
-       ],
-       [
-        "get off a bus / train / ship / plane 同On，Off既是介词又是副词"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "The Sahara Desert extends for miles. vi.要加介词for"
-    },
-    {
-     "text": "The show has been extended for another six weeks. 被动"
-    },
-    {
-     "text": "automatic gear 自动档"
-    },
-    {
-     "text": "manual gear 手动档"
-    },
-    {
-     "text": "Helen changed gear / gears as she approached the intersection."
-    },
-    {
-     "table": {
-      "headers": [
-       "go / move / shift into ... gear 换到、挂到了第 N 档"
-      ],
-      "rows": [
-       [
-        "I went / moved / shifted into fourth gear when I got onto the highway."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "She sat proudly astride her new motorbike."
-    },
-    {
-     "text": "The town lies astride a river."
-    },
-    {
-     "text": "a zigzag path along the cliff"
-    },
-    {
-     "text": "hardly have time to breathe 没有喘息的时间"
-    },
-    {
-     "text": "The ferry did not even have time to send out an SOS.这艘渡船甚至没有时间发出紧急呼救信号。"
-    },
-    {
-     "text": "We don't often have time to talk. 我们常常没有时间谈话。"
-    },
-    {
-     "text": "We barely had time to catch the train.我们差点没赶上火车。"
-    },
-    {
-     "table": {
-      "headers": [
-       "before sb. have time to ... 还没来得急"
-      ],
-      "rows": [
-       [
-        "Before the poor wretch had time to speak, he was shot. 这个可怜的人，还没来得及开口就中弹了。"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "Consult your doctor about how much exercise you should get. 咨询你的医生你应做多少运动。"
-    },
-    {
-     "text": "Consult the chart on page 44 for the correct cooking times. 查阅第44页的图表找正确的烹调时间。"
-    },
-    {
-     "text": "I have to consult with the manager about the matter. 我得与经理商量一下这件事。"
-    },
-    {
-     "text": "The two countries will have to consult their allies. 两国得同各自的盟友协商。"
-    },
-    {
-     "text": "a nice cup of tea"
-    },
-    {
-     "text": "a beautiful stretch of field"
-    },
-    {
-     "text": "a stagnant pool of water"
-    },
-    {
-     "text": "For most of them, 50 pence is a small price to pay for a nice big bar of chocolate ."
-    },
-    {
-     "text": "Suddenly the bear charged at us."
-    },
-    {
-     "text": "He charged at me with his fists flying."
-    },
-    {
-     "text": "It came to a stop outside the jeweler's ."
-    },
-    {
-     "text": "come to an end / a close 结束（come to 达到某一个状态）"
-    },
-    {
-     "text": "come to a decision / conclusion / agreement 得到一个结论、达成协议"
-    },
-    {
-     "text": "come to a grinding halt adj.刺耳的"
-    },
-    {
-     "text": "You make me grind my teeth! 你使我咬牙切齿！"
-    },
-    {
-     "text": "Sparks were emitted from small black boxes and red lamps flashed on and off angrily ."
-    },
-    {
-     "text": "It's not long enough so I can't see if there is any oil in the engine. 它不够长，所以我无法知道引擎里有没有油了。"
-    }
+   "q": "The rough across the plain soon became ______ bad that we tried to get Bruce to drive back to the village we had come from.",
+   "a": "so",
+   "type": "choice",
+   "options": [
+    "so",
+    "such",
+    "very",
+    "too"
    ]
+  },
+  {
+   "q": "______ the road was littered with boulders and pitted with holes, Bruce was not in the least perturbed.",
+   "a": "Even though",
+   "type": "choice",
+   "options": [
+    "Even though",
+    "No matter what",
+    "So that",
+    "As if"
+   ]
+  },
+  {
+   "q": "______ what the conditions were, he believed that a car should be driven as fast as it could possibly go.",
+   "a": "No matter",
+   "type": "choice",
+   "options": [
+    "No matter",
+    "Even though",
+    "So that",
+    "As long as"
+   ]
+  },
+  {
+   "q": "下列哪个词与课文中 perturb 的含义最接近？",
+   "a": "使不安，使慌乱",
+   "type": "choice",
+   "options": [
+    "使不安，使慌乱",
+    "鼓励，鼓舞",
+    "原谅，宽恕",
+    "理解，领会"
+   ]
+  },
+  {
+   "q": "用分词填空：______ (glance) at his map, he informed us that the next village was a mere twenty miles away.（写出 glance 的正确形式）",
+   "a": "Glancing",
+   "type": "fill_in",
+   "options": []
   }
  ]
 }

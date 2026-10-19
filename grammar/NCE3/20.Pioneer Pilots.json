@@ -1,101 +1,100 @@
 {
- "grammar": [
-  {
-   "title": "经过",
-   "parts": [
-    {
-     "text": "Two days later, Louis Bleriot arrived near Calais with a plane called 'No. XI'. Loui s 法文里的s不发音“路易” After designing and building various types of experimental aircraft, he concentrated on developing the monoplane. On July 25, 1909, he flew from Calais, France, to Dover, England, in one of his monoplanes, becoming the first aviator to cross the English Channel in a heavier-than-air machine. During World War I Blériot's factory produced about 10,000 airplanes for the armed forces of France and the other Allied powers. Bleriot had been making planes since 1905 and this was his latest model. model n.（车辆、机器的）型号 A week before, he had completed a successful overland flight during which he covered twenty-six miles . Latham, however, did not give up easily. not give up = stick it out 坚持下去 Rachel: Oh God, I hate my job, I hate it, I hate my job, I hate it. Monica: I know honey, I'm sorry. Rachel: Oh, I wanna quit,but then I think I should stick it out. He, too, arrived near Calais on the same day with a new 'Antoinette'. It looked as if there would be an exciting race across the Channel. It seems / looks as if / as though ... 看似，好像.… 造句：It seemed / looked as if / as though there would be a heated argument between them. 看似他们之间将有一次激烈的争吵。 promise to do 主语是人“承诺做某事”；主语是事物“有可能会怎样...” It promised to be an exciting race across the Channel. 替换 Both planes were going to take off on July 25th, but Latham failed to get up early enough. After making a short test flight at 4.15 a.m., Bleriot set off half an hour later. set out / off 动身出发 start out / off 开始出发 When he landed near Dover, the first person to greet him was a local policeman. The next man to approach me was selling expensive pens and watches . 句型结构类似 Latham made another attempt a week later and got within half a mile of Dover, but he was unlucky again. within ... of... 离...不到...(距离、时间) His engine failed and he landed on the sea for the second time. for the second time 第二次发生... \"Is something still wrong, Robbie?\" \"I'll be OK.\" \"Going away to college for the first time always makes one a little nervous.\" \"I guess so. I'll be OK. I just need time to think.\""
-    },
-    {
-     "text": "Illinoi s n.伊利诺斯州（美国州名）"
-    },
-    {
-     "text": "Calai s n.加来（法国城市）"
-    },
-    {
-     "text": "Charles 法国名“查理”、英国名“查理斯”"
-    },
-    {
-     "text": "Chamoni x n.夏蒙尼（地名，法国小镇，是阿尔卑斯山脉的典型山城）"
-    },
-    {
-     "text": "the latest model"
-    },
-    {
-     "text": "the most popular model"
-    },
-    {
-     "text": "My car is the latest model."
-    },
-    {
-     "table": {
-      "headers": [],
-      "rows": [
-       [
-        "flight n.航班(可数)、航行(不可数)",
-        "aviation n.航空，飞行"
-       ],
-       [
-        "voyage n.航行(船)",
-        "navigation n.导航；航行"
-       ]
-      ]
+ "grammar": {
+  "summary": "本课讲早期飞行员飞越英吉利海峡的竞赛，语法上突出过去完成时（had travelled, had been making, had completed）表「先于过去的动作」、when/which 定语从句，以及 before/after 引导的时间状语。句中还出现 as if 表推测与 the first man to greet him 不定式作后置定语。",
+  "points": [
+   {
+    "title": "过去完成时 (Past Perfect)",
+    "explanation": "had + 过去分词表示「先于过去某动作完成」。本课叙述布莱里奥起飞前已制造飞机多年（had been making）、一周前已完成一次陆上飞行（had completed），均发生在正式飞越之前，故用过去完成时。",
+    "examples": [
+     {
+      "en": "Bleriot had been making planes since 1905 and this was his lattes model.",
+      "cn": "布莱里奥从1905年起便开始研制飞机，“11号”飞机是他制作的最新型号。"
+     },
+     {
+      "en": "A week before, he had completed a successful overland flight during which he covered twenty-six miles.",
+      "cn": "一周以前，他曾成功地进行了一次26英里的陆上飞行。"
      }
-    },
-    {
-     "text": "Latham, however, stuck it out. 替换"
-    },
-    {
-     "text": "It seems that all is not well at home.看来家中并非事事如意。"
-    },
-    {
-     "text": "It seems like an act of monumental folly. 这似乎是一种非常愚蠢的行为。"
-    },
-    {
-     "text": "It looks as if it had picture-books in it.看起来，好像里面有图画书。"
-    },
-    {
-     "text": "It looks as if we were being pursued! 好像是在追我们！"
-    },
-    {
-     "text": "It looks as though the weather is going to turn nasty again. 好像又要变天了。"
-    },
-    {
-     "text": "It looks as though a compromise agreement has now been reached. 看起来好像现在已经达成了一个妥协协议。"
-    },
-    {
-     "text": "It promises to be warm today. 今天可能很暖和"
-    },
-    {
-     "text": "Groundbreaking research by two French geophysicists promises to shed some light on the mystery."
-    },
-    {
-     "text": "Four days after setting out, while the Titanic was sailing across the icy waters of the North Atlantic, a huge iceberg was suddenly spotted by a lookout ."
-    },
-    {
-     "text": "At midnight we'll start out again, for at dawn tomorrow we must be at the Field of Wonders. 午夜我们再出发，这样明天黎明我们肯定到达那块神奇的土地了。"
-    },
-    {
-     "text": "I live within a mile of the city center."
-    },
-    {
-     "text": "The company is within a week of bankruptcy."
-    },
-    {
-     "text": "at the second time 在第二次的时候"
-    },
-    {
-     "text": "for the first time 某事首次发生"
-    },
-    {
-     "text": "at the first time 在第一次的时候"
-    },
-    {
-     "text": "In 1929, three years after his flight over the North Pole, the American explorer, R.E, Byrd, successfully flew over the South Pole for the first time ."
-    },
-    {
-     "text": "For the first time in his life, he became the proud owner of a bed which had springs and a mattress ."
-    }
+    ]
+   },
+   {
+    "title": "定语从句 (Relative Clauses)",
+    "explanation": "用 who/which/when 或介词 + which 引导定语从句。本课 the first man who would fly across the English Channel 用 who 修饰人；during which he covered twenty-six miles 用「介词 + which」修饰 flight，表「在这次飞行期间」。",
+    "examples": [
+     {
+      "en": "In 1908 Lord Northcliffe offered a prize of $1,000 to the first man who would fly across the English Channel.",
+      "cn": "1908年，诺斯克利夫勋爵拿出1,000英镑，作为对第一个飞越英吉利海峡的人的奖励。"
+     },
+     {
+      "en": "A week before, he had completed a successful overland flight during which he covered twenty-six miles.",
+      "cn": "一周以前，他曾成功地进行了一次26英里的陆上飞行。"
+     }
+    ]
+   },
+   {
+    "title": "时间状语从句与 before/after (Time Clauses)",
+    "explanation": "before/after 引导时间状语从句，表示两动作先后。本课 Over a year passed before the first attempt was made 用 before 表示「过了一年多才有人尝试」，主句在前、从句动作后发生。",
+    "examples": [
+     {
+      "en": "Over a year passed before the first attempt was made.",
+      "cn": "然而一年多过去了才有人出来尝试。"
+     },
+     {
+      "en": "After making a short test flight at 4,15 a.m., Bleriot set off half an hour later.",
+      "cn": "布莱里奥凌晨4点15分作了一次短距离试飞，半小时后便正式出发了。"
+     }
+    ]
+   }
+  ]
+ },
+ "exercises": [
+  {
+   "q": "Bleriot ______ been making planes since 1905 and this was his lattes model.（过去完成进行时）",
+   "a": "had",
+   "type": "choice",
+   "options": [
+    "has",
+    "had",
+    "have",
+    "was"
+   ]
+  },
+  {
+   "q": "A week before, he had completed a successful overland flight ______ which he covered twenty-six miles.（介词+关系代词）",
+   "a": "during",
+   "type": "choice",
+   "options": [
+    "on",
+    "during",
+    "at",
+    "by"
+   ]
+  },
+  {
+   "q": "Over a year ______ before the first attempt was made.（时间状语从句）",
+   "a": "passed",
+   "type": "choice",
+   "options": [
+    "passed",
+    "has passed",
+    "had passed",
+    "passes"
+   ]
+  },
+  {
+   "q": "用关系代词填空：In 1908 Lord Northcliffe offered a prize of $1,000 to the first man ______ would fly across the English Channel.（指人，作从句主语）",
+   "a": "who",
+   "type": "fill_in",
+   "options": []
+  },
+  {
+   "q": "下列哪个词与课文中 pioneer 的含义最接近？",
+   "a": "先驱",
+   "type": "choice",
+   "options": [
+    "先驱",
+    "追随者",
+    "失败者",
+    "旁观者"
    ]
   }
  ]

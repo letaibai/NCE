@@ -1,322 +1,88 @@
 {
- "grammar": [
-  {
-   "title": "本文小故事的铺垫",
-   "parts": [
-    {
-     "text": "A famous actor in a highly successful play was once cast in the role of an aristocrat who had been imprisoned in the Bastille for twenty years . highly successful 非常成功的(高度成功，比very successful 更高级、书面) ... was once cast as an aristocrat 曾经扮演过贵族（被动替换） had been incarcerated 被监禁 In the last act, a gaoler would always come on to the stage with a letter which he would hand to the prisoner . come on 登台（去到...的上面） appear v.出现（在舞台） a letter which he would hand to the prisoner. 书面（伪装成定语从句的延续性从句） Even though the noble was expected to read the letter at each performance, he always insisted that it should be written out in full . be expected to do （习语）应该 insist on ... 接名词、短语"
-    },
-    {
-     "text": "Meanwhile, he founded a highly successful Academy and even Lord Byron became one of his pupils ."
-    },
-    {
-     "text": "... once performed / played / acted (the role / part of) an aristocrat 替换（主动）"
-    },
-    {
-     "text": "had been jailed / gaoled 使入狱（被动）"
-    },
-    {
-     "text": "had been locked up 被关了起来"
-    },
-    {
-     "text": "had been sent to prison 瞬间动词，不能跟持续时间"
-    },
-    {
-     "text": "had been put in prison 后面不可用for + 时间"
-    },
-    {
-     "table": {
-      "headers": [
-       "paly 戏剧"
-      ],
-      "rows": [
-       [
-        "act 1 第一幕",
-        "scene 1 第一场 scene 2 第二场 scene 3 第三场 ...",
-        "It happens in Hamlet, Act 1, Scene 3. 这发生在《哈姆雷特》第一幕第三场。"
-       ],
-       [
-        "act 2 第二幕",
-        "scene 1 第一场 scene 2 第二场 scene 3 第三场 ..."
-       ]
-      ]
+ "grammar": {
+  "summary": "本课以一出长演剧目中狱卒与贵族演员的趣事为线索，集中运用了 so...that 结果状语从句、would 表示过去习惯性动作以及 insist that... (should) 虚拟语气。重点体会叙事中如何用 so...that 强调程度与结果、用 would 描写舞台上的惯常动作、用 insist 后的虚拟语气表达坚持要求。",
+  "points": [
+   {
+    "title": "so...that 结果状语从句 (Result Clause)",
+    "explanation": "so + 形容词/副词 + that + 从句，表示「如此……以至于……」，强调程度并引出结果。本课开篇即用 so...that 说明剧目成功到连续上演数年，凸显程度之深，为后文「可怜的演员」埋下伏笔。",
+    "examples": [
+     {
+      "en": "Some plays are so successful that they run for years on end.",
+      "cn": "有些剧目十分成功，以致连续上演好几年。"
      }
-    },
-    {
-     "text": "There was great applause when the Russian ballerina came on."
-    },
-    {
-     "text": "Just then, the gaoler appeared with the precious letter in his bands."
-    },
-    {
-     "text": "In spite of this, she often appears on the stage as a young girl ."
-    },
-    {
-     "text": "... with a letter and he would hand it to the prisoner. 啰嗦"
-    },
-    {
-     "text": "... with a letter to hand to the prisoner. 简洁（口语、 独立主格 结构）"
-    },
-    {
-     "text": "be supposed to do 替换"
-    },
-    {
-     "text": "should do 同义"
-    },
-    {
-     "text": "..., he always insisted on its being written out in full. 本句替换"
-    }
+    ]
+   },
+   {
+    "title": "would 表示过去习惯 (would for Past Habit)",
+    "explanation": "would + 动词原形可表示过去反复发生的习惯性动作，常与 always 连用，带有回忆色彩。本课用 would 描写狱卒每场戏都拿着信上场的惯常动作，使舞台惯例跃然纸上。",
+    "examples": [
+     {
+      "en": "In the last act, a gaoler would always come on to the stage with a letter which he would hand to the prisoner.",
+      "cn": "在最后一幕中，狱卒手持一封信上场，然后将信交给狱中那位贵族。"
+     }
+    ]
+   },
+   {
+    "title": "insist that... (should) 虚拟语气 (Subjunctive after insist)",
+    "explanation": "insist 后接 that 从句表「坚持要求」时，从句谓语用 (should) + 动词原形的虚拟语气，should 可省略但不可用一般现在时/过去时。本课中贵族每场都得念信，却仍坚持信须全文写出，故用 it should be written out in full。",
+    "examples": [
+     {
+      "en": "Even though the noble was expected to read the letter at each performance, he always insisted that it should be written out in full.",
+      "cn": "尽管那个贵族每场戏都得念一遍那封信，但他还是坚持要求将信的全文写在信纸上。"
+     }
+    ]
+   }
+  ]
+ },
+ "exercises": [
+  {
+   "q": "Some plays are ______ successful that they run for years on end.",
+   "a": "so",
+   "type": "choice",
+   "options": [
+    "so",
+    "such",
+    "very",
+    "too"
    ]
-  }
- ],
- "sentences": [
+  },
   {
-   "title": "故事情节",
-   "parts": [
-    {
-     "text": "One night, the gaoler decided to play a joke on his colleague to find out if, after so many performances, he had managed to learn the contents of the letter by heart . play a joke on sb. 给某人开玩笑（拿某人寻开心） play a trick on sb. 给某人开玩笑（替换） kid (sb.) / joke 戏弄(某人)/开玩笑 have a joke with sb. 与某人分享笑话（给某人讲个笑话） make fun of sb. 拿某人寻开心（戏弄） make a fool of sb. 让某人出丑（愚弄） play the fool (with sb.) 扮演傻瓜逗某人乐 The curtain went up on the final act of the play and revealed the aristocrat sitting alone behind bars in his dark cell. the curtain goes up / rises 幕布升起 on the final act 时间状语（在最后一幕开始的时间） all (alone / on one's own / by oneself) 单独的、独自的 oneself 亲自做...(无by的情况) lonely / lonesome 孤独的、寂寞的 Just then , the gaoler appeared with the precious letter in his hands. He entered the cell and presented the letter to the aristocrat. present sth. to sb. 呈递（庄重的、带有仪式感的）给某人 But the copy he gave him had not been written out in full as usual. It was simply a blank sheet of paper. a sheet of paper 长方格固定规格的纸（A4、B5） The gaoler looked on eagerly, anxious to see if his fellow actor had at last learnt his lines . look on vi.旁观（不参与） onlooker / bystander 旁观者 / 看热闹的人 形容词做原因状语（省略being） learn / know sth. by heart Then, squinting his eyes, he said: 'The light is dim. Read the letter to me.' And he promptly handed the sheet of paper to the gaoler. read sth. to sb. = read sb. sth. 读给... Then, he squinted his eyes and said : 'the light is dim. Read the letter to me.' 中文习惯（眯眼和说一样重要） Finding that he could not remember a word of the letter either , the gaoler replied : 'The light is indeed dim, sire. I must get my glasses.' With this, he hurried off the stage. With this 随着... Much to the aristocrat's amusement, the gaoler returned a few moments later with a pair of glasses and the usual copy of the letter which he proceeded to read to the prisoner . to one's ... 使某人⋯的是 并列句 → 定语从句"
-    },
-    {
-     "text": "He added that a student had dressed up as a policeman and was playing all sorts of silly jokes on people ."
-    },
-    {
-     "text": "He played a trick on his wife, but she beat him up."
-    },
-    {
-     "text": "Are you kidding (me)?"
-    },
-    {
-     "text": "Are you joking? vi. 不能加me"
-    },
-    {
-     "text": "I've just had a joke with the manager."
-    },
-    {
-     "text": "The other children were always making fun of him because he was fat."
-    },
-    {
-     "text": "I suddenly realized that I was being made a fool of."
-    },
-    {
-     "text": "Stop playing the fool (with me). You'll fall!"
-    },
-    {
-     "text": "the curtain comes down / falls 幕布落下了"
-    },
-    {
-     "table": {
-      "headers": [
-       "draw / pull the curtains 拉动窗帘",
-       "open / close the curtains 打开\\关闭窗帘"
-      ],
-      "rows": [
-       [
-        "Pull the curtains—it's dark outside. 外边天黑了，把窗帘拉上。"
-       ],
-       [
-        "Why not close the curtains? 为什么不拉上窗帘呢？"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "in the last act 时间状语（在最后一幕的过程中）"
-    },
-    {
-     "text": "She was sitting alone on a park bench."
-    },
-    {
-     "text": "I don't like walking home on my own at night."
-    },
-    {
-     "text": "Do you share the apartment or do you live by yourself?"
-    },
-    {
-     "text": "Wendy was frightened, all alone in that big old house. 完全是独自一人"
-    },
-    {
-     "text": "Then I added with a smile,' It's a strange mixture I make myself.'"
-    },
-    {
-     "text": "Well, I'll have tea by myself . 独自一人"
-    },
-    {
-     "text": "Lesson 46 Do it yourself DIY"
-    },
-    {
-     "text": "I would not hear of the suggestion and said that I would fix it myself. NCE3-46"
-    },
-    {
-     "text": "lonely hearts ad 征婚广告"
-    },
-    {
-     "text": "Are you lonesome tonight? Do you miss me tonight? Are you sorry we drifted apart?"
-    },
-    {
-     "text": "present sb. with sth. 倒过来说（看名词长短）"
-    },
-    {
-     "text": "When Dickie was given the watch, he presented the assistant with the cloth bag ."
-    },
-    {
-     "text": "He entered the cell and presented the aristocrat with the letter. 替换"
-    },
-    {
-     "table": {
-      "headers": [
-       "as usual 与往常一样",
-       "as ever 一直；依旧",
-       "as always 一如既往",
-       "like always 和平时一样"
-      ],
-      "rows": [
-       [
-        "As usual, the police will have a difficult time."
-       ],
-       [
-        "His mind is as sharp as ever. 他思维敏锐，一如既往。"
-       ],
-       [
-        "We will, as always, firmly support your just struggle. 我们将一如既往坚定支持你们的正义斗争。"
-       ],
-       [
-        "Ben is writing his homework at the very last moment, like always. 本跟往常一样总是在最后一刻才赶工写作业。"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "a piece of paper 随便一张纸（没有规格）"
-    },
-    {
-     "text": "stand by 站在旁边"
-    },
-    {
-     "text": "Only one man tried to help us, the rest just looked on / stood by in silence."
-    },
-    {
-     "text": "An onlooker is someone who watches an event take place but does not take part in it. 旁观者"
-    },
-    {
-     "text": "A bystander is a person who is present when something happens and who sees it but does not take part in it. 旁观者"
-    },
-    {
-     "table": {
-      "headers": [
-       "look on ... as ... 把...看着是...",
-       "stand by sb. 支持、帮助某人（站在某人一边）"
-      ],
-      "rows": [
-       [
-        "We look on her as a daughter. 视如己出"
-       ],
-       [
-        "He stood by her through the difficult times. 帮助度过难关"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "Ashamed of having acted so rashly, Dimitri apologized to Aleko for having accused him ."
-    },
-    {
-     "text": "Tired of sleeping on the floor, a young man in Tehran saved up for years to buy a real bed ."
-    },
-    {
-     "text": "be anxious / eager / impatient / itching / desperate / dying to do..."
-    },
-    {
-     "text": "can't wait to do ... 等不急要做"
-    },
-    {
-     "text": "learn sth."
-    },
-    {
-     "text": "know their parts by heart"
-    },
-    {
-     "text": "learn the contents of the letter by heart"
-    },
-    {
-     "text": "learn his lines"
-    },
-    {
-     "text": "Read me the letter."
-    },
-    {
-     "text": "汉语：parataxis 平行语，连动句，没有轻重之别。"
-    },
-    {
-     "text": "英语：hypotaxis 层次语，突出中心动词，次要动词状语化。"
-    },
-    {
-     "text": "He looked at his watch and saw that it was one o'clock, but the bell struck thirteen times and then it stopped. 中文思维"
-    },
-    {
-     "text": "Looking at his watch, he saw that it was one o'clock, but the bell struck thirteen times before it stopped."
-    },
-    {
-     "text": "with the coming of spring 随着春天的到来"
-    },
-    {
-     "text": "with the approach of Christmas 随着圣诞节的临近"
-    },
-    {
-     "text": "with the outbreak of war 随着战争的爆发"
-    },
-    {
-     "text": "with the progress of science 随着科学的发展"
-    },
-    {
-     "text": "with the evidence began to accumulate with 介词后只能跟名词不能跟句子"
-    },
-    {
-     "text": "However, as the evidence began to accumulate, experts from the zoo felt obliged to investigate, ... AS 连词（随着）"
-    },
-    {
-     "text": "to one's amusement"
-    },
-    {
-     "text": "to one's surprise"
-    },
-    {
-     "text": "to one's delight"
-    },
-    {
-     "text": "to one's excitement"
-    },
-    {
-     "text": "to one's dismay"
-    },
-    {
-     "text": "to one's sorrow"
-    },
-    {
-     "table": {
-      "headers": [
-       "much to one's",
-       "to one's great..."
-      ],
-      "rows": [
-       [
-        "使某人大为 … 的是",
-        "much to the aristocrat's amusement"
-       ],
-       [
-        "to the aristocrat's great amusement"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "...and,he proceeded to read it to the prisoner. → the letter which he proceeded to read to the prisoner."
-    },
-    {
-     "text": "He violently beat the boy and the boy later died from his injuries. → He violently beat the boy who later died from his injuries."
-    },
-    {
-     "text": "Ha said he had lost his watch, but it was not true. → Ha said he had lost his watch, which was not true."
-    }
+   "q": "In the last act, a gaoler ______ always come on to the stage with a letter.",
+   "a": "would",
+   "type": "choice",
+   "options": [
+    "would",
+    "will",
+    "shall",
+    "used"
+   ]
+  },
+  {
+   "q": "he always insisted that it ______ written out in full.（虚拟语气）",
+   "a": "should be",
+   "type": "choice",
+   "options": [
+    "should be",
+    "is",
+    "was",
+    "will be"
+   ]
+  },
+  {
+   "q": "用过去分词形式填空：A famous actor was once cast in the role of an aristocrat who had been ______ (imprison) in the Bastille for twenty years.",
+   "a": "imprisoned",
+   "type": "fill_in",
+   "options": []
+  },
+  {
+   "q": "下列哪个词与课文中 falter 的含义最接近？",
+   "a": "结巴支吾",
+   "type": "choice",
+   "options": [
+    "结巴支吾",
+    "大声朗读",
+    "迅速背诵",
+    "欣然接受"
    ]
   }
  ]

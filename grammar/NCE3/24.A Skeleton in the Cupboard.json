@@ -1,148 +1,92 @@
 {
- "grammar": [
+ "grammar": {
+  "summary": "本课以「柜中骷髅」的比喻切入，重点运用了 which/who 引导的定语从句、as if 引导的方式状语从句（虚拟语气）以及分词短语作状语。体会作者如何用定语从句补充「被隐瞒多年的秘密」、用 as if he were 描写乔治谈骷髅的口吻、用分词短语增强动作的画面感。",
+  "points": [
+   {
+    "title": "which/who 引导的定语从句 (Relative Clauses)",
+    "explanation": "which 指物、who 指人，引导定语从句修饰先行词并补充信息。本课用 which 修饰 secret（多年被隐瞒的秘密），用 who 修饰 old lady（一向和善的老妇人），使叙事层次丰富。",
+    "examples": [
+     {
+      "en": "We often read in novels how a seemingly respectable person or family has some terrible secret which has been concealed from strangers for years.",
+      "cn": "在小说中，我们经常读到一个表面上受人尊重的人物或家庭，却有着某种多年不为人所知的骇人听闻的秘密。"
+     },
+     {
+      "en": "the heroine a dear old lady who had always been so kind to everybody, had, in her youth, poisoned every one of her five husbands.",
+      "cn": "书中女主人公，那位一向待大家很好的可爱的老妇人年轻时一连毒死了她的5个丈夫。"
+     }
+    ]
+   },
+   {
+    "title": "as if 虚拟语气 (as if Subjunctive)",
+    "explanation": "as if/as though 引导方式状语从句，当所述与现在事实相反时从句用虚拟语气（be 用 were）。本课中乔治笑谈柜中骷髅「仿佛在谈一位老朋友」，用 as if he were 强调他毫不在意、谈笑风生的态度。",
+    "examples": [
+     {
+      "en": "'Oh, that,' he said with a smile as if he were talking about an old friend.",
+      "cn": "「噢，是它呀！」他笑着说道，俨然在谈论一位老朋友。"
+     }
+    ]
+   },
+   {
+    "title": "分词短语作状语 (Participle Phrase as Adverbial)",
+    "explanation": "现在分词短语可作状语表示伴随动作或状态，逻辑主语与句子主语一致。本课用 Dropping my suit 作伴随状语，紧接 dashed downstairs，使「扔下西服冲下楼」的动作一气呵成，增强画面感。",
+    "examples": [
+     {
+      "en": "Dropping my suit, I dashed downstairs to tell George.",
+      "cn": "我扔下西服冲下楼去告诉乔治。"
+     }
+    ]
+   }
+  ]
+ },
+ "exercises": [
   {
-   "title": "发生在作者身上的故事",
-   "parts": [
-    {
-     "text": "It is all very well for such things to occur in fiction. It is all very well for such things to occur in fiction, but in real life it is barely credible. 补充完整 It is all very well for ... to ..., but ... it is barely ... 对…来说是无可厚非的 …，但是…就不太… To varying degrees, we all have secrets which we do not want even our closest friends to learn , but few of us have skeletons in the cupboard. to varying degrees 在不同的程度上 closest adj.最靠近的（close 的最高级）\\ 距离近、关系近 The only person I know who has a skeleton in the cupboard is George Carlton, and he is very proud of the fact. 双重定语从句 (2个定语从句不在同一层次上) 第一个定语从句修饰前面的名词或短语，第二个定语从句修饰“名词或短语 + 第一个定语从句”两个定语从句之间没有并列连词连接。第一个定语从句的关系词（一般是关系代词作宾语）可省略。 Instead of becoming a doctor , however, he became a successful writer of detective stories. instead of doing ..., however, ... 本应该...结果... I once spent an uncomfortable weekend which I shall never forget at his house . transferred epithet 移就（修饰手法） George showed me to the guestroom which, he said , was rarely used . show = lead 领某人去某地 He told me to unpack my things and then come down to dinner. unpack my things / belongings 归整随身物品、财物 I opened the cupboard door and then stood in front of it petrified. 形容词作主语补足语 动词发生时，补充说明主语的状态 The sudden movement of the door made it sway slightly and it gave me the impression that it was about to leap out at me . be about to do ... 正要做某事 be on the point of doing ... 正准备做… But George was unsympathetic. But George didn't sympathize with me. 替换 'Oh, that,’ he said with a smile as if he were talking about an old friend. 虚拟语气 Don't act as if you were the only pebble on the beach. 'That 's Sebastian. You forget that I was a medical student once upon a time .' once upon a time 从前，很久以前：在过去的某个时候"
-    },
-    {
-     "text": "It is all very well for you to wear pajamas in your own home, but in public it is barely respectable. 你在家里穿睡衣是无可厚非的，但是在公共场合就不太体面了。"
-    },
-    {
-     "text": "Racism still exists to varying degrees."
-    },
-    {
-     "text": "The water of rivers, lakes and reservoirs was universally polluted to varying degrees."
-    },
-    {
-     "text": "closest friend = intimate friend 亲密好友"
-    },
-    {
-     "text": "bosom friend 知心朋友"
-    },
-    {
-     "text": "fair-weather friend 酒肉朋友"
-    },
-    {
-     "text": "pen pal / friend 笔友"
-    },
-    {
-     "text": "internet pal / friend 网友"
-    },
-    {
-     "text": "You're the only person l've ever met who could do it ."
-    },
-    {
-     "text": "He's the best man I can find who can mend it within an hour ."
-    },
-    {
-     "table": {
-      "headers": [
-       "be proud of ... 对某事很骄傲",
-       "take pride in ... 以…为傲",
-       "pride oneself on ... 以某事物为自豪"
-      ],
-      "rows": [
-       [
-        "He became very proud of himself. 他变得非常自豪。"
-       ],
-       [
-        "We take pride in offering you the highest standards.我们以向您提供最高标准的服务而自豪。"
-       ],
-       [
-        "Much as we may pride ourselves on our good taste, we are no longer free to choose the things we want, for advertising exerts a subtle influence on us ."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "Instead of becoming a doctor , however, Lu Xun became China's foremost modern writer of satirical essays."
-    },
-    {
-     "text": "an uncomfortable weekend （令人）不舒服的周末"
-    },
-    {
-     "text": "a sad letter （令人）悲伤的信"
-    },
-    {
-     "text": "a lonely night （令人）寂寞的夜"
-    },
-    {
-     "text": "平林漠漠烟如织，寒山一带伤心碧"
-    },
-    {
-     "text": "自春来，惨绿愁红，芳心是事可可"
-    },
-    {
-     "text": "Aleko denied taking it and led Dimitri into his back yard ."
-    },
-    {
-     "text": "unpack my suitcase 归置"
-    },
-    {
-     "text": "She came home sick."
-    },
-    {
-     "text": "Only the good die young. 英年早逝（好人不长命）"
-    },
-    {
-     "text": "Inevitably you arrive at your destination almost exhausted. NCE3-44"
-    },
-    {
-     "table": {
-      "headers": [
-       "give sb. the impression that ... 使某人觉得...",
-       "have / get the impression that ... 某人觉得...",
-       "be under the impression that ... 某人还以为..."
-      ],
-      "rows": [
-       [
-        "The party is trying to give the impression that it alone stands for democracy. 该党正企图让人觉得只有它才代表民主。"
-       ],
-       [
-        "...and I had / got the impression that it was about to leap out ... 本句替换"
-       ],
-       [
-        "Though the crew were at first under the impression that the lost ship had been found, the contents of the chest proved them wrong ."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "She is about to embark on a diplomatic career. 她即将开始外交生涯。"
-    },
-    {
-     "text": "It was on the point of leaping out at me. 本句替换"
-    },
-    {
-     "table": {
-      "headers": [
-       "leap 向远、前跳",
-       "jump 随便跳",
-       "bounce 弹跳"
-      ],
-      "rows": [
-       [
-        "The boy cleared the fence in one leap. 男孩一跃跳过了篱笆。",
-        "Can you jump that gate? 你能跳过那篱笆门吗？",
-        "by leaps and bounds: very quickly"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "But George had / showed no sympathy for me."
-    },
-    {
-     "text": "Once upon a time there was a princess... 从前有一位公主…"
-    },
-    {
-     "text": "Once upon a time, a hippo lived in a river next to a big tree. 从前，有一只河马住在大树旁边的河里。"
-    },
-    {
-     "text": "Once upon a time there were three little pigs.从前，有三只小猪。"
-    }
+   "q": "a seemingly respectable person or family has some terrible secret ______ has been concealed from strangers for years.",
+   "a": "which",
+   "type": "choice",
+   "options": [
+    "which",
+    "who",
+    "where",
+    "when"
+   ]
+  },
+  {
+   "q": "'Oh, that,' he said with a smile as if he ______ talking about an old friend.（与事实相反，用虚拟语气）",
+   "a": "were",
+   "type": "choice",
+   "options": [
+    "were",
+    "is",
+    "was",
+    "be"
+   ]
+  },
+  {
+   "q": "______ my suit, I dashed downstairs to tell George.（用分词短语作伴随状语）",
+   "a": "Dropping",
+   "type": "choice",
+   "options": [
+    "Dropping",
+    "Dropped",
+    "To drop",
+    "Drop"
+   ]
+  },
+  {
+   "q": "用动词的 -ing 形式填空：A skeleton was ______ (dangle) before my eyes.",
+   "a": "dangling",
+   "type": "fill_in",
+   "options": []
+  },
+  {
+   "q": "课文中 The reader's hair stands on end 用来形容读者的什么感受？",
+   "a": "毛骨悚然",
+   "type": "choice",
+   "options": [
+    "毛骨悚然",
+    "心旷神怡",
+    "怡然自得",
+    "迫不及待"
    ]
   }
  ]

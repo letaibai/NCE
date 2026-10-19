@@ -1,305 +1,92 @@
 {
- "grammar": [
+ "grammar": {
+  "summary": "本课介绍维拉萨诺大桥，语法上突出由 which/whom 引导的定语从句（含介词前置 whom）、so...that... 结果状语从句，以及 were + 过去分词构成的对将来的虚拟（if the bridge were packed...）。叙述中还出现分词短语 fulfilling... 作伴随状语。",
+  "points": [
+   {
+    "title": "介词前置的关系代词定语从句 (Preposition + Relative Pronoun)",
+    "explanation": "介词可放在关系代词之前，指人用 whom，指物用 which。本课 about whom little is known 中 whom 指人（维拉萨诺），介词 about 前置，整体修饰 Verrazano，句式正式而紧凑。",
+    "examples": [
+     {
+      "en": "Verrazano, an Italian about whom little is known, sailed into New York Harbour in 1524 and named it Angouleme.",
+      "cn": "1524年，一位鲜为人知的意大利人维拉萨诺驾船驶进纽约港，并将该港名为安古拉姆。"
+     },
+     {
+      "en": "The Verrazano Bridge, which was designed by Othmar Ammann, joins Brooklyn to Staten Island.",
+      "cn": "维拉萨诺大桥由奥斯马·阿曼设计，连结着布鲁克林与斯塔顿岛。"
+     }
+    ]
+   },
+   {
+    "title": "so...that... 结果状语从句 (Result Clauses)",
+    "explanation": "so + 形容词/副词 + that 从句，表示「如此……以至于……」。本课桥身 so long that 设计者不得不考虑地表弧度，用 so 修饰 long，that 引出结果。",
+    "examples": [
+     {
+      "en": "The bridge is so long that the shape of the earth had to be taken into account by its designer.",
+      "cn": "由于桥身太长，设计者不得不考虑了地表的形状。"
+     }
+    ]
+   },
+   {
+    "title": "虚拟语气对将来的假设 (Subjunctive for Unreal Present/Future)",
+    "explanation": "在条件句中用 were（不论人称）表与现在/将来相反的假设，主句用 would + 动词。本课 if the bridge were packed with cars, it would still only be carrying a third... 是对假设情况的结果估计，were 表非真实条件。",
+    "examples": [
+     {
+      "en": "It has been estimated that if the bridge were packed with cars, it would still only be carrying a third of its total capacity.",
+      "cn": "据估计，若桥上摆满了汽车，也只不过是桥的总承载力的1/3。"
+     }
+    ]
+   }
+  ]
+ },
+ "exercises": [
   {
-   "title": "介绍细节",
-   "parts": [
-    {
-     "text": "The Verrazano Bridge, which was designed by Othmar Ammann, joins Brooklyn to Staten Island. join A to B 连接A和B It has a span of 4,260 feet. have a span of ... 跨度… of 引出具体的数字 The bridge is so long that the shape of the earth had to be taken into account by its designer. so ... that ... 如此 ... 以致于 ... take ... into account 把…考虑到 take account of ... 考虑到... take ... into consideration 考虑到，顾及某事物(指在做决定时，考虑到所有相关因素是很重要的) Two great towers support four huge cables. The towers are built on immense underwater platforms made of steel and concrete. immense 巨大的(写作替换上面的great) platform + 数字 X站台 steel and concrete = ferro-concrete = reinforced concrete 钢筋混凝土 The platforms extend to a depth of over 100 feet under the sea. extend to a depth of ... 深达... go down to as much as ... 深达... stand ... high 高度(有多高) rise to a height of ... 高达... How do I love thee? Let me count the ways. I love thee to the depth and breadth and height my soul can reach. — Elizabeth Barrett Browning 1806 – 1861 These alone took sixteen months to build. alone adv.仅仅…就(单单是...光是...) Persistence and determination alone are omnipotent. — Calvin Coolidge take (sb.) some time (to do sth.) 花费时间"
-    },
-    {
-     "text": "The island is joined to the mainland by a bridge. 被动"
-    },
-    {
-     "table": {
-      "headers": [
-       "connect A with / to B 物理上的连接",
-       "link A with / to B 物理/抽象的连接",
-       "associate A with B 抽象的联系",
-       "relate A to B 抽象的联系"
-      ],
-      "rows": [
-       [
-        "The Great St Bernard Pass connects Switzerland to Italy ."
-       ],
-       [
-        "There is no evidence to link / connect him with the murder. 抽象/物理上的连接"
-       ],
-       [
-        "There are countless people who, ever since their early years,have learned to associate snails with food .NCE3-23"
-       ],
-       [
-        "Trainees should be invited to relate new ideas to their past experiences. 应该要求实习生把新想法与他们的以往经历相联系。"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "The arch has a span of 60 meters."
-    },
-    {
-     "text": "The platforms extend to a depth of over 100 feet under the sea."
-    },
-    {
-     "text": "Above the surface of the water, the towers rise to a height of nearly 700 feet."
-    },
-    {
-     "table": {
-      "headers": [
-       "of (引出)跨度",
-       "of (引出)年纪",
-       "of (引出)增加",
-       "of (引出)收入",
-       "of (引出)增涨",
-       "of (引出)薪酬"
-      ],
-      "rows": [
-       [
-        "It has a span of 4,260 feet."
-       ],
-       [
-        "at the age of 52"
-       ],
-       [
-        "an increase of 3%"
-       ],
-       [
-        "a revenue of $3.4 billion"
-       ],
-       [
-        "a pay raise of 4 percent"
-       ],
-       [
-        "a salary of 30,000 dollars a year"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "So long is the bridge that the shape of the earth had to be taken into account by its designer . 可引起部分倒装"
-    },
-    {
-     "text": "The length of the bridge is such that the shape of the earth had to be taken into account by its designer."
-    },
-    {
-     "text": "Such is the length of the bridge that the shape of the earth had to be taken into account by its designer . 部分倒装"
-    },
-    {
-     "text": "The conditions of society are such that skills have to be paid for in the same way that goods are paid for at a shop ."
-    },
-    {
-     "text": "If you take inflation into account, we actually spend less now."
-    },
-    {
-     "text": "We must take into account the boy's long illness . 避免头重脚轻，宾语可以放后面"
-    },
-    {
-     "text": "These figures do not take account of changes in the rate of inflation. 固定搭配，介词后直接跟宾语(不可插入其中)"
-    },
-    {
-     "text": "I always take fuel consumption into consideration when buying a car. 宾语插入中间"
-    },
-    {
-     "text": "Before we come to a decision, we must take into consideration all the relevant facts . 宾语较长(后置宾语)"
-    },
-    {
-     "text": "The candidates' experience will be taken into consideration. 被动"
-    },
-    {
-     "text": "The Titanic turned just in time, narrowly missing the immense wall of ice which rose over 100 feet out of the water beside her ."
-    },
-    {
-     "text": "As a great many people will be visiting the country, the government will be building new hotels, an immense stadium, and a new Olympic-standard swimming pool ."
-    },
-    {
-     "text": "The train will depart from platform 3. 站台"
-    },
-    {
-     "text": "The speaker mounted the platform to denounce the policy. 讲台"
-    },
-    {
-     "text": "Reinforced concrete is concrete that is made with pieces of metal inside it to make it stronger. 钢筋混凝土"
-    },
-    {
-     "text": "The deepest known cave in the world is the Gouffre Berger near Grenoble. It extends to a depth of 3,723 feet. NCE3-42"
-    },
-    {
-     "text": "The deepest holes of all are made for oil, and they go down to as much as 25,000 feet. NCE4-13"
-    },
-    {
-     "text": "She stood three feet high and her hands rested on her hips ."
-    },
-    {
-     "text": "Above the surface of the water, the towers rise to a height of nearly 700 feet."
-    },
-    {
-     "text": "These books alone cost me 2,000 yuan."
-    },
-    {
-     "text": "Time alone will tell. 只有时间才能证明真相"
-    },
-    {
-     "text": "Even if you travel in ideal weather, sea journeys take a long time. NCE3-44"
-    },
-    {
-     "text": "It took me over half an hour to get rid of him ."
-    },
-    {
-     "text": "The journalist immediately set out to obtain these important facts, but he took a long time to send them . Take的主语可以是人花时间"
-    }
+   "q": "Verrazano, an Italian ______ whom little is known, sailed into New York Harbour in 1524...",
+   "a": "about",
+   "type": "choice",
+   "options": [
+    "about",
+    "of",
+    "for",
+    "with"
    ]
-  }
- ],
- "sentences": [
+  },
   {
-   "title": "特点进一步描述",
-   "parts": [
-    {
-     "text": "Above the surface of the water, the towers rise to a height of nearly 700 feet. rise to a height of ... 高达... They support the cables from which the bridge has been suspended . Each of the four cables contains 26,108 lengths of wire. a length of rope / pipe / wire etc. 一段(节、根)绳子/管子/铁丝等。 It has been estimated that if the bridge were packed with cars, it would still only be carrying a third of its total capacity. IF 型的虚拟语气 a third of ... / one-third of ... ...的三分之一 ⅓ two-third s of ... 三分之二(⅔)的... Despite its immensity, it is both simple and elegant, fulfilling its designer's dream to create 'an enormous object drawn as faintly as possible'. Despite its importance 尽管很重要(用名词更庄重) fulfil / fulfill v.圆了...实现了...达到了..."
-    },
-    {
-     "text": "A tall steel tower rising to a height of nearly 200 feet will rest on the platform."
-    },
-    {
-     "text": "a sum of money 一笔钱"
-    },
-    {
-     "text": "a bar of chocolate 一板巧克力"
-    },
-    {
-     "text": "a bar / cake of soap 一块肥皂"
-    },
-    {
-     "text": "a slice of butter 一片黄油"
-    },
-    {
-     "text": "a loaf of bread 一块面包"
-    },
-    {
-     "text": "a tube of toothpaste 一管牙膏"
-    },
-    {
-     "text": "a cone of ice-cream 一个蛋筒冰淇淋"
-    },
-    {
-     "text": "a bunch of grapes / bananas 一串葡萄/香蕉"
-    },
-    {
-     "text": "a flash / bolt of lightning 一道闪电"
-    },
-    {
-     "text": "a peal of thunder 一阵雷声"
-    },
-    {
-     "text": "a gust of wind 一阵风"
-    },
-    {
-     "text": "a pane of glass 一块玻璃"
-    },
-    {
-     "text": "a bouquet of flowers 一束花"
-    },
-    {
-     "table": {
-      "headers": [
-       "it is estimated that ... 据估计...",
-       "it is said that ... 据说...",
-       "it is believed that ... 据信...",
-       "it is reported that ... 据报道..."
-      ],
-      "rows": [
-       [
-        "It is said that if anyone touches the tree, he will have bad luck; if he picks a leaf, he will die . 现在才有这样的说法 It has been said that everyone lives by selling something . 强调过去有，现在也这样说..."
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "与现在事实相反 从句一般过去，主句4+1",
-       "If + S. + did / were, S. + would / should / could / might + do",
-       "与过去事实相反",
-       "If + S. + had done, S. + would / should / could / might + have done",
-       "与未来趋势相反",
-       "If + S. + should do, S.+ would / should / could / might + do",
-       "If + S. + did / were to do, S.+ would / should / could / might + do"
-      ],
-      "rows": [
-       [
-        "If you lived in the Mediterranean, for instance, you would consider octopus a great delicacy . If she were alive today she would not be able to air her views on her favourite topic of conversation: domestic servants. NCE3-49"
-       ],
-       [
-        "If they had only had one more child, the fact would have passed unnoticed. NCE3-45 If the Houses of Parliament had not been burned down in 1834, the great clock would never have been erected ."
-       ],
-       [
-        "If it should rain tomorrow, you could stay at home."
-       ],
-       [
-        "If the sun were to rise in the west, I would lend you the money."
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "be packed with ...塞（挤）满了…",
-       "be crowded with ... 拥挤的，人满为患的",
-       "be crammed with ... 塞满， 填满了 ...",
-       "be thronged with ... 挤满了..."
-      ],
-      "rows": [
-       [
-        "The island was packed with tourists."
-       ],
-       [
-        "The narrow roads were crowded with holiday traffic."
-       ],
-       [
-        "The guide is crammed with useful information."
-       ],
-       [
-        "The streets were thronged with Christmas shoppers."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "A third of Africa is under threat of desertification. 三分之一的非洲大陆面临着荒漠化的威胁。"
-    },
-    {
-     "text": "Nearly one third of the children were severely underweight. 约有三分之一的孩子曾严重体重过轻。"
-    },
-    {
-     "text": "Two-thirds of the profits are given to charities."
-    },
-    {
-     "text": "Although it is immense, ... 尽管特别大(不如名词庄重)"
-    },
-    {
-     "text": "Although it is important Despite its importance, the meeting has to be postponed."
-    },
-    {
-     "text": "Despite its scarcity, water is still wasted in the country."
-    },
-    {
-     "text": "Despite his cleverness, he cannot figure out how to do it."
-    },
-    {
-     "text": "fulfill / realize / achieve one's dream 实现某人的梦想"
-    },
-    {
-     "text": "one's dream come true 梦想成真"
-    },
-    {
-     "text": "dream of doing sth. / to do sth. 梦想做某事"
-    },
-    {
-     "text": "He had finally achieved his dream of becoming a pilot."
-    },
-    {
-     "text": "Her dream to enter the famous university came true."
-    }
+   "q": "The bridge is ______ long that the shape of the earth had to be taken into account by its designer.",
+   "a": "so",
+   "type": "choice",
+   "options": [
+    "so",
+    "such",
+    "too",
+    "very"
+   ]
+  },
+  {
+   "q": "It has been estimated that if the bridge ______ packed with cars, it would still only be carrying a third of its total capacity.（虚拟语气）",
+   "a": "were",
+   "type": "choice",
+   "options": [
+    "is",
+    "was",
+    "were",
+    "be"
+   ]
+  },
+  {
+   "q": "用关系代词填空：The Verrazano Bridge, ______ was designed by Othmar Ammann, joins Brooklyn to Staten Island.（指物，非限制性从句）",
+   "a": "which",
+   "type": "fill_in",
+   "options": []
+  },
+  {
+   "q": "下列哪个词与课文中 immortal 的含义最接近？",
+   "a": "流芳百世的",
+   "type": "choice",
+   "options": [
+    "流芳百世的",
+    "短暂的",
+    "危险的",
+    "古老的"
    ]
   }
  ]

@@ -1,469 +1,104 @@
 {
- "grammar": [
+ "grammar": {
+  "summary": "本课对比各种交通工具的优劣，大量运用条件状语从句（if 从句）讨论不同情况下的旅行体验，用现在分词作状语和定语描述旅行中的状态与感受，并通过比较级与最高级结构评判各种出行方式的舒适程度。",
+  "points": [
+   {
+    "title": "条件状语从句 (Conditional Clauses)",
+    "explanation": "if 引导的条件状语从句表示假设情况，主句用 would/could/may 等表达可能结果。本课用多个 if 从句讨论「若天气好」「若晕船」等假设场景，将不同出行方式的利弊进行对比。",
+    "examples": [
+     {
+      "en": "If you are lucky enough to get a sleeper, you spend half the night staring at the small blue light in the ceiling, or fumbling to find you ticket for inspection.",
+      "cn": "即使你走运弄到一个卧铺，夜间有一半时间你会盯着车顶那盏小蓝灯而睡不着觉；要不然就为查票摸索你的车票。"
+     },
+     {
+      "en": "If it is not, and you are likely to get seasick, no form of transport could be worse.",
+      "cn": "如果大海肆虐起来，你就可能晕船，那种难受劲儿是任何一种别的旅行的方式都不会带来的。"
+     },
+     {
+      "en": "If the landscape is hidden from view, you can enjoy the extraordinary sight of unbroken cloud plains that stretch out for miles before you, while the sun shines brilliantly in a clear sky.",
+      "cn": "如果这种景色被遮住了，你可以观赏一下展现在你面前的、一望数英里的、连绵不断的云海，同时阳光灿烂，天空清澈明朗。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词作状语与定语 (Present Participles)",
+    "explanation": "现在分词可作状语表示伴随状态或作定语修饰名词。本课用分词短语 travelling at... 描述飞行时的状态，用 clicking on the rails 修饰 wheels 的声音，使描写生动而紧凑。",
+    "examples": [
+     {
+      "en": "Travelling at a height of 30,000 feet, far above the clouds, and at over 500 miles an hour is an exhilarating experience.",
+      "cn": "腾云驾雾，在30，000 英尺高空以500英里的时速旅行，这种经历令人心旷神怡。"
+     },
+     {
+      "en": "Reading is only a partial solution, for the monotonous rhythm of the wheels clicking on the rails soon lulls you to sleep.",
+      "cn": "看书只能解决部分问题。车轮与铁轨间单调的嘎喳声很快就会送你进入梦乡。"
+     }
+    ]
+   },
+   {
+    "title": "比较级与最高级 (Comparative & Superlative)",
+    "explanation": "用比较级 less pleasant、more than 与无与伦比的 nothing can match 等结构对比不同交通工具的优劣。本课用 even less pleasant 贬低长途汽车，用 nothing can match them 赞美飞机的速度与舒适。",
+    "examples": [
+     {
+      "en": "Long car journeys are even less pleasant, for it is quite impossible even to read.",
+      "cn": "乘汽车作长途旅行则更加不舒服，因为连看书都几乎不可能。"
+     },
+     {
+      "en": "But nothing can match them for speed and comfort.",
+      "cn": "但就速度与舒适而言，飞机是无与伦比的。"
+     }
+    ]
+   }
+  ]
+ },
+ "exercises": [
   {
-   "title": "引出观点(否定水路)",
-   "parts": [
-    {
-     "text": "Inevitably you arrive at your destination almost exhausted. inevitably adv. 必然，不可避免 形容词做主语补足语 （补充说明动作发生时主语的状态） Long car journeys are even less pleasant , for it is quite impossible even to read. ..., for you are quite impossible to read. X quite adv.完全地、相当地 On motorways you can , at least , travel fairly safely at high speeds, but more often than not, the greater part of the journey is spent on roads with few service stations and too much traffic. motorway n.高速公路 more often than not = as often as not 通常 petrol / service station 加油站 traffic n.路上行驶的车辆，交通（数不清楚） 造句： Some of my acquaintances in the country come up to town once or twice a year to visit the theatre as a special treat , but more often than not, the greater part of the journey is spent on roads with few service stations and too much traffic.我的几个住在乡下的熟人每年进 城一两次来看戏，对他们来说这是一种特殊的享受了，但是通常旅程中大部分 时间花在了路上，在路上加油站很少，车辆却很多。 By comparison, ferry trips or cruises offer a great variety of civilized comforts. by / in comparison 相比之下 comforts n.使人感觉舒适的事物 You can stretch your legs on the spacious decks, play games, meet interesting people and enjoy good food — always assuming, of course, that the sea is calm . stretch one's legs 舒展筋骨 meet v.结识、结交 If it is not, and you are likely to get seasick, no form of transport could be worse. transport <英> / transportation <美> 交通方式（不可数） 否定词 + 比较级 = 最高级 Even if you travel in ideal weather, sea journeys take a long time. Even if 即使，尽管 Relatively few people are prepared to sacrifice holiday time for the pleasure of travelling by sea. relatively few / easy / new / minor ... 相对较少/容易/新/次要… be prepared to do = be willing / ready to do 愿意做某事（不要翻译成“准备做某事”） sacrifice ... for ... 为...而牺牲(牺牲前者为了得到后者) 造句： Relatively few people are prepared to sacrifice their human dignity for money. 没有多少人愿意为了钱而牺牲掉自己作为人的尊严。"
-    },
-    {
-     "text": "Inevitably the repair job was not quite so simple ."
-    },
-    {
-     "table": {
-      "headers": [
-       "inevitable adj.必然的，不可避免的",
-       "sth. can't be helped 某事无可奈何(不可避免)"
-      ],
-      "rows": [
-       [
-        "You have to accept the inevitable. 你得接受必然发生的事。 Those who make peaceful revolution impossible will make violent revolution inevitable. — John F. Kennedy"
-       ],
-       [
-        "I'm sure you didn't do it on purpose and it can't be helped. 我肯定你不是故意这样做的，这也是没办法的事。"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "..., you will arrive at your destination fresh and uncrumpled."
-    },
-    {
-     "text": "When I got home, I was tired and sleepy. → I got home tired and sleepy."
-    },
-    {
-     "text": "They were also quite sure that a cigarette end did not start the fire ."
-    },
-    {
-     "text": "The drunk, however, seemed quite sure of himself ."
-    },
-    {
-     "text": "In winter, however, life at the monastery is quite different ."
-    },
-    {
-     "text": "A nine-mile stretch of motorway has been closed. 一段九英里长的高速公路已关闭。"
-    },
-    {
-     "text": "Sorry I'm late. There was a hold-up on the motorway. 抱歉，我来晚了，公路上堵车了。"
-    },
-    {
-     "table": {
-      "headers": [
-       "expressway n.<美>高速公路",
-       "freeway n.<美>高速公路"
-      ],
-      "rows": [
-       [
-        "The expressway on-ramp lay just ahead. 高速公路的入口匝道就在前方。"
-       ],
-       [
-        "The speed limit on the freeway is 55mph. 这条高速公路的限速为每小时55英里。"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "More often than not, the arguments could have been avoided."
-    },
-    {
-     "table": {
-      "headers": [
-       "all too often （不愉快的事）经常发生、很多时候",
-       "every so often = sometimes 有时"
-      ],
-      "rows": [
-       [
-        "All too often, parents leave their children home alone."
-       ],
-       [
-        "She still calls me every so often."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "In the service station he asked all about my family.在加油站他问了关于我家人的一切。"
-    },
-    {
-     "text": "Look, Dashan. There's a service station straight ahead.大山，你看，前边有一家加油站。"
-    },
-    {
-     "text": "There is a petrol station round the bend in the street.在下一个街道拐角处有个加油站。"
-    },
-    {
-     "table": {
-      "headers": [
-       "gas station 加油站<美>"
-      ],
-      "rows": [
-       [
-        "Lucy, you can't use the phone until we are far from the gas station. 露西，在我们远离加油站之前你不能使用手机。"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "Meanwhile, the traffic piled up behind ."
-    },
-    {
-     "text": "A policeman approached Jimmy and told him he ought to have gone along a side street as Jumbo was holding up the traffic ."
-    },
-    {
-     "text": "By comparison, shipments to North America, mainly the U.S., were flat in that period. 而与其相比，对以美国为主的北美国家的出口同期基本持平。"
-    },
-    {
-     "text": "The amount of carbon dioxide released by human activities such as burning coal and oil is small in comparison. 相比之下人类燃烧煤、石油等活动所释放的二氧化碳的量是少的。"
-    },
-    {
-     "table": {
-      "headers": [
-       "pale in / by comparison 相形见绌（坏事）",
-       "by / in contrast 相比之下",
-       "compared with / to ... 与...相比",
-       "in / by comparison with / to ... 与...相比",
-       "in / by contrast with / to ... 与...相比"
-      ],
-      "rows": [
-       [
-        "I thought I was badly treated but my experiences pale in comparison with yours."
-       ],
-       [
-        "An old watch, by contrast, becomes so worn and unreliable that it eventually is not worth mending ."
-       ],
-       [
-        "Compared with last year, this year's sales have increased significantly. 与去年相比，今年的销售额大幅增长。"
-       ],
-       [
-        "In comparison with her previous job, this one offers more opportunities for growth. 与她以前的工作相比，这份工作提供了更多的成长机会。"
-       ],
-       [
-        "In contrast with his calm demeanor, his brother is very excitable. 与他冷静的举止相比，他的兄弟非常容易激动。"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "hotels with all the modern comforts"
-    },
-    {
-     "text": "After the trip, it was nice getting back to a few home comforts."
-    },
-    {
-     "text": "He wanted to stretch his legs to relax a little. 他想去遛遛腿，休息一会儿。"
-    },
-    {
-     "text": "He has just spent eight months at sea, and needs to stretch its legs. 这家伙刚在海里度过了八个月，需要舒展筋骨。"
-    },
-    {
-     "table": {
-      "headers": [
-       "take a walk / stroll 散步",
-       "have a walk / stroll 散步",
-       "go for a walk / stroll 散步"
-      ],
-      "rows": [
-       [
-        "He usually takes a short walk in the evenings and is always home by seven o'clock ."
-       ],
-       [
-        "...I noticed a huge number of snails taking a stroll on some of my prize plants."
-       ],
-       [
-        "Are we going to brave the elements and go for a walk? 我们要冒着风雨去散步吗？"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "One wants to meet like-minded collectors , ..."
-    },
-    {
-     "table": {
-      "headers": [
-       "assuming（that）"
-      ],
-      "rows": [
-       [
-        "以为",
-        "Assuming that his family had been killed during an air raid, Hans settled down in a village fifty miles away where he had remained ever since ."
-       ],
-       [
-        "假定，假如",
-        "You'll get there in half an hour — assuming, of course, that the traffic is not heavy. 你将用半小时到那里—当然假定路上车不多的话。"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "public transport / transportation"
-    },
-    {
-     "text": "A lot of people object to mobile phones, especially when they are used in public places like restaurants or on public transport ."
-    },
-    {
-     "text": "Nothing could have been more annoying ."
-    },
-    {
-     "text": "No creature has received more praise and abuse than the common garden snail ."
-    },
-    {
-     "text": "There is no quicker method of disposing of patients than by giving them what they are asking for ."
-    },
-    {
-     "text": "Nothing can be compared, he maintains, with the first cockcrow, the twittering of birds at dawn, the sight of the rising sun glinting on the trees and pastures ."
-    },
-    {
-     "text": "But nothing can match them for speed and comfort."
-    },
-    {
-     "text": "Nobody equals / matches him in strength."
-    },
-    {
-     "text": "In English she has no equal in her class."
-    },
-    {
-     "text": "In computer programming, Susan is head and shoulders above the rest of us."
-    },
-    {
-     "text": "People will do anything to see a free show -- even if it is a bad one ."
-    },
-    {
-     "text": "Even if two of these were flooded, she would still be able to float ."
-    },
-    {
-     "text": "..., even if he has five hundred gold watches hidden in his suitcase ."
-    },
-    {
-     "text": "... would have stood stoutly even if it had been almost submerged ."
-    },
-    {
-     "text": "Even if one didn't know from concrete examples (the 1936 Olympic Games, for instance) ..."
-    },
-    {
-     "text": "Even if a piped water supply is safe at its source, it is not always safe by the time it reaches the tap ."
-    },
-    {
-     "text": "Cave exploration, or pat-holing, as it has come to be known, is a relatively new sport ."
-    },
-    {
-     "text": "Why people are prepared to tolerate a four-hour journey each day for the dubious privilege of living in the country is beyond me ."
-    },
-    {
-     "text": "Such is human nature, that a great many people are often willing to sacrifice higher pay for the privilege of becoming white-collar workers ."
-    }
+   "q": "______ you are lucky enough to get a sleeper, you spend half the night staring at the small blue light in the ceiling, or fumbling to find you ticket for inspection.",
+   "a": "If",
+   "type": "choice",
+   "options": [
+    "If",
+    "Unless",
+    "Although",
+    "Because"
    ]
-  }
- ],
- "sentences": [
+  },
   {
-   "title": "前面铺垫(对比)，后面举荐(又快捷又方便)",
-   "parts": [
-    {
-     "text": "Aeroplanes have the reputation of being dangerous and even hardened travellers are intimidated by them. 欲扬先抑(先说缺点) have the reputation of being ... 有...的名声 hardened adj. someone who is hardened has had a lot of difficult or unpleasant experiences and is no longer much affected by such things 老练的，老资格的，见怪不怪的，麻木不仁的 They also have the disadvantage of being an expensive form of transport. have the disadvantage of ... 有...的缺点 But nothing can match them for speed and comfort. 比较级表最高级 nothing can match 没有什么能比得上 * Travelling at a height of 30, 000 feet, far above the clouds, and at over 500 miles an hour is an exhilarating experience . exhilarating adj.令人极其兴奋和高兴的 There is nothing more exhilarating than to be shot at without result. — Sir Winston Churchill You do not have to devise ways of taking your mind off the journey, for an aeroplane gets you to your destination rapidly. devise v.设计，发明;设想、图谋 For a few hours, you settle back in a deep armchair to enjoy the flight. settle v.舒适地坐到... The real escapist can watch a film and sip champagne on some services. escapist n.遁世逍遥者，逃避现实生活一心享受的人 service n. BrE a regular journey made by a bus, train, boat, plane etc. to a particular place at a particulertime 汽车，火车，轮船，飞机等的班次 But even when such refinement s are not available, there is plenty to keep you occupied. refinement n.改进，改良（可数名词：常用复数） occupy vt.占据（时间，空间等） An aeroplane offers you an unusual and breathtaking view of the world. breathtaking adj.令人惊叹的 You soar effortlessly over high mountains and deep valleys. soar v.急升，猛涨；高飞，翱翔 You really see the shape of the land. the shape of ... 某种形状：以某种形式出现，或看起来像某种形状。 If the landscape is hidden from view, you can enjoy the extraordinary sight of unbroken cloud plains that stretch out for miles before you, while the sun shines brilliantly in a clear sky . before you 在你面前 The journey is so smooth that there is nothing to prevent you from reading or sleeping. prevent sb. from doing 阻止、妨碍某人做某事 However you decide to spend your time, one thing is certain: you will arrive at your destination fresh and uncrumpled . 造句：Whatever difficulty we may encounter on our road ahead, one thing is certain: we will manage to overcome it so long as we persist . 无论在前进的道路上遇到什么样的困难，有一件事是肯定的：只要我们坚持就一定能克服它。 You will not have to spend the next few days recovering from a long and arduous journey. recover from ... 从…中恢复(正常状态) arduous adj.艰苦的，费力的"
-    },
-    {
-     "text": "The tree that was planted near the church has the reputation of being evil."
-    },
-    {
-     "text": "She has the reputation of being a good doctor."
-    },
-    {
-     "text": "Peter has the reputation of being the worst boy in the class."
-    },
-    {
-     "text": "The heroine, at some dramatic moment in the story, had the reputation of being ruined ."
-    },
-    {
-     "text": "The hardened protessional smuggler, on the other hand, is never troubled by such feelings, even if he has five hundred gold watches hidden in his suitcase ."
-    },
-    {
-     "text": "He has the disadvantage of being unable to drive a car."
-    },
-    {
-     "table": {
-      "headers": [
-       "have the advantage of ... 有...的优点"
-      ],
-      "rows": [
-       [
-        "Though she has the twin advantages of wealth and beauty, she doesn't live a happy life."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "Although we have eaten delicious food, nothing can match Mom's cooking."
-    },
-    {
-     "text": "No matter how many delicious meals we have had , nothing can match Mom's cooking. 更文言"
-    },
-    {
-     "text": "Nothing can match a European night against one of the greats like Barcelona or Juventus. 没什么可以和与巴萨或者尤文图斯对决的欧冠之夜比。"
-    },
-    {
-     "text": "No matter how painful you experience, eventually will gradually forgotten. Because, nothing can match the time... 不管你经历多痛的事情，到最后都会渐渐遗忘。因为，没有什么能敌得过时光。"
-    },
-    {
-     "text": "They devise hundreds of competitions which will enable us to win huge sums of money ."
-    },
-    {
-     "text": "Experts are trying to devise ways to clean up the huge slick.专家们在努力想出清除大面积浮油的办法。"
-    },
-    {
-     "text": "Devise a new instrument. 设计一台新仪器。"
-    },
-    {
-     "text": "Devise formulas for calculating cost savings. 为计算节省的成本设计公式。"
-    },
-    {
-     "table": {
-      "headers": [],
-      "rows": [
-       [
-        "flight n.航班",
-        "fright n.惊骇，恐怖，惊吓",
-        "fight v./n. 打架、斗争",
-        "light n.光",
-        "slight adj.轻微的",
-        "bright adj.明亮的",
-        "sight n.视野"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "settle back in a deep armchair 仰坐在高扶手椅里"
-    },
-    {
-     "text": "We settled in front of the television for the evening."
-    },
-    {
-     "table": {
-      "headers": [
-       "settle v.驻扎",
-       "settled down 定居",
-       "be settled 解决(纠纷)"
-      ],
-      "rows": [
-       [
-        "Six hundred years ago, Sir John Hawkwood arrived in Italy with a band of soldiers and settled near Florence."
-       ],
-       [
-        "Assuming that his family had been killed during an air raid, Hans settled down in a village fifty miles away where he had remained ever since. He had hardly had time to settle down when he sold the house and left the country ."
-       ],
-       [
-        "The two men quarrelled bitterly and it was clear that the argument could only be settled by a fight ."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "Her books are usually escapist fantasies. 她的书通常是逃避现实的幻想作品。"
-    },
-    {
-     "text": "This is an escapist therapy. 这是逃避现实的疗法。"
-    },
-    {
-     "text": "You may be an escapist, too. 你也可能是个逃避主义者。"
-    },
-    {
-     "text": "You can read the Escapist two ways. 您可以从两个方面解读“避世者”。"
-    },
-    {
-     "text": "The bus service is appalling now. 现在公共汽车服务很差。"
-    },
-    {
-     "text": "The local bus service is well run and extensive. 当地的公交线路运营良好，四通八达。"
-    },
-    {
-     "text": "With several refinements your essay would be excellent."
-    },
-    {
-     "text": "A little later, a man came along with a biscuit which occupied the whole boot of his car ."
-    },
-    {
-     "table": {
-      "headers": [
-       "keep sb. occupied 使某人忙碌"
-      ],
-      "rows": [
-       [
-        "We need something to keep the children occupied."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "The house has breathtaking views from every room. 这房子从各个房间都能看到令人惊叹的风景。"
-    },
-    {
-     "text": "Some of their football was breathtaking, a delight to watch. 他们踢的足球赛有些场次令人惊叹,看起来赏心悦目。"
-    },
-    {
-     "table": {
-      "headers": [
-       "breathtakingly adv.惊人地；令人激动地",
-       "take a ... breath ...地吸一口气"
-      ],
-      "rows": [
-       [
-        "The West Lake is breathtakingly beautiful!"
-       ],
-       [
-        "He took a deep breath to compose himself."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "Shares soared on the New York stock exchange. 纽约证券交易所股票暴涨。"
-    },
-    {
-     "text": "If you're lucky, a splendid golden eagle may soar into view. 幸运的话，一只金色雄鹰会跃入视线。"
-    },
-    {
-     "text": "The Shape of Water 《水形物语》（电影名）"
-    },
-    {
-     "text": "Shape of You -Ed Sheeran 你的样子"
-    },
-    {
-     "text": "You have two choices before you."
-    },
-    {
-     "text": "There is a lot of trouble before you."
-    },
-    {
-     "text": "In the new society, there is nothing to prevent a child from receiving good education. 在新社会，每个孩子都能接受良好的教育。"
-    },
-    {
-     "text": "She is so talented and diligent that there is nothing to prevent her from fulfilling her dream . 她既有天赋又这么勤奋，一定能实现自己的梦想。"
-    },
-    {
-     "text": "It'll take her time to recover from the illness. 她康复需要时间。"
-    },
-    {
-     "text": "It is hard for people to recover from the pain of losing a family member. 人们很难从失去亲人的痛苦中恢复过来。"
-    },
-    {
-     "table": {
-      "headers": [
-       "recover / restore / regain sth.恢复了…",
-       "recover sth.重新获得，找回，赚回，补偿"
-      ],
-      "rows": [
-       [
-        "one's health one's sight one's consciousness one's balance one's composure"
-       ],
-       [
-        "But the claim made by a local authority to recover the cost of salvaging a sunken pie dish must surely be unique ."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "Those who seek it undertake an arduous journey and can never be sure that they will find it ."
-    }
+   "q": "Long car journeys are ______ less pleasant, for it is quite impossible even to read.",
+   "a": "even",
+   "type": "choice",
+   "options": [
+    "even",
+    "very",
+    "so",
+    "much"
+   ]
+  },
+  {
+   "q": "But nothing can ______ them for speed and comfort.",
+   "a": "match",
+   "type": "choice",
+   "options": [
+    "match",
+    "matched",
+    "matching",
+    "matches"
+   ]
+  },
+  {
+   "q": "用分词形式填空：______ at a height of 30,000 feet, far above the clouds, and at over 500 miles an hour is an exhilarating experience.（写出 travel 的现在分词形式）",
+   "a": "Travelling",
+   "type": "fill_in",
+   "options": []
+  },
+  {
+   "q": "下列哪个词与课文中 intimidated 的含义最接近？",
+   "a": "frightened",
+   "type": "choice",
+   "options": [
+    "encouraged",
+    "frightened",
+    "bored",
+    "excited"
    ]
   }
  ]

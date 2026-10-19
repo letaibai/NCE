@@ -1,153 +1,92 @@
 {
- "grammar": [
+ "grammar": {
+  "summary": "本课讲述中世纪「保护金」勒索与英国雇佣兵首领霍克伍德的故事，集中运用了 would 表示过去习惯性动作、if 条件句（与过去事实的搭配），以及 would rather...than... 宁愿……也不……结构。叙述中还有 used to 与 would 交替使用的过去习惯表达。",
+  "points": [
+   {
+    "title": "would 表示过去习惯 (Past Habit with would)",
+    "explanation": "would + 动词原形可表示过去反复发生或习惯性的动作，常带叙述色彩。本课用 Hawkwood and his men would march into a city-state 描写和平时期他惯常的勒索行为，比 used to 更具画面感。",
+    "examples": [
+     {
+      "en": "Hawkwood and his men would march into a city-state and, after burning down a few farms, would offer to go away protection money was paid to them.",
+      "cn": "霍克伍德便带领士兵进入某个城邦,纵火烧毁一两个农场,然后提出,如向他们缴纳保护金,他们便主动撤离。"
+     },
+     {
+      "en": "Hawkwood used to hire his soldiers to princes who were willing to pay the high price he demanded.",
+      "cn": "霍克伍德把他的士兵雇佣给愿给他出高价的君主。"
+     }
+    ]
+   },
+   {
+    "title": "条件句与 if 从句 (Conditionals)",
+    "explanation": "本课用 if 引导真实条件句：If the money was not paid promptly, the gangsters would quickly put a man out of business，主句用 would 表示过去将来结果，从句用一般过去时表条件，符合主将从现（过去时态版本）的搭配。",
+    "examples": [
+     {
+      "en": "If the money was not paid promptly, the gangsters would quickly put a man out of business by destroying his shop.",
+      "cn": "如果交款不及时,歹徒们就会很快捣毁他的商店,让他破产。"
+     }
+    ]
+   },
+   {
+    "title": "would rather...than... 宁愿……也不…… (Preferential would rather...than)",
+    "explanation": "would rather + 动词原形 + than + 动词原形，表示「宁愿做……也不做……」，两个动词形式对等。本课霍克伍德的发现正是：人们宁愿付大笔钱，也不愿心血被毁。",
+    "examples": [
+     {
+      "en": "Sir John Hawkwood, made the remarkable discovery that people would rather pay large sums of money than have their life work destroyed by gangsters.",
+      "cn": "英国人约翰·霍克伍德就有过非凡的发现：人们情愿拿出大笔的钱,也不愿毕生的心血毁于歹徒之手。"
+     }
+    ]
+   }
+  ]
+ },
+ "exercises": [
   {
-   "title": "过去",
-   "parts": [
-    {
-     "text": "Six hundred years ago, Sir John Hawkwood arrived in Italy with a band of soldiers and settled near Florence.副词短语作时间状语开头（复合句） 造句：As long ago as 1994, I arrived in Beijing with my parents and settled near the Temple of Heaven.早在1994年，我就随父母到了北京，并在天坛附近定居了下来。 settle down 安定下来（浪子回头） He soon made a name for himself and came to be known to the Italians as Giovanni Acuto. 主谓结构开头（复合句） A be known to B as ... B把A称为⋯ 造句：Li Bai is known to the Chinese as 'poet-immortal'. 中国人把李白称诗仙 造句：Basketball player Earvin Johnson soon made a name for himself and came to be known to the Americans as 'Magic Johnson'. 篮球运动员埃尔文·约翰逊迅速出名了，并且美国人开始把他称为“魔术师约翰逊“。 Whenever the Italian city-states were at war with each other, Hawkwood used to hire his soldiers to princes who were willing to pay the high price he demanded . 让步状语从句开头（复合句） In times of peace, when business was bad, Hawkwood and his men would march into a city-state and, after burning down a few farms, would offer to go away if protection money was paid to them. 介词短语作时间状语开头（复合句） 造句：As long ago as the 1930's, the Red Army had completed the successful Long March during which they covered 25,000 li.早在20世纪30年代，红军就完成了伟大的长征，在这期间他们走过了25,000里。 除了使用If做条件还可以使用下面的 In spite of this , the Italians regarded him as a sort of hero . 介词短语作让步状语开头（简单句） regard sb. as 视为，认为 When he died at the age of eighty, the Florentines gave him a state funeral and had a picture painted which was dedicated to the memory of 'the most valiant soldier and most notable leader, Signor Giovanni Haukodue’. 时间状语从句开头（复合句） a state funeral 国葬 造句：When Ronald Reagan died at the age of 93, the Americans gave him a state funeral and had a statue built which was dedicated to the memory of the great president.当罗纳德里根在93 岁去世时，美国人为他举行了一次国葬，并请人塑了一尊塑像以纪念这位伟大的总统。 高级作文句子要领 Sentence opening is very important to create sentence variety."
-    },
-    {
-     "text": "They'd like to see their daughter settle down, get married, and have kids."
-    },
-    {
-     "text": "Assuming that his family had been killed during an air raid, Hans settled down in a village fifty miles away where he had remained ever since. NCE3-36"
-    },
-    {
-     "table": {
-      "headers": [
-       "make a name for oneself = become famous 出名、成名了",
-       "become famous overnight 一夜成名",
-       "rise to fame 变得出名、成名、出名"
-      ],
-      "rows": [
-       [
-        "Ge You first made a name for himself in the movie 'Wan Zhu'."
-       ],
-       [
-        "With the success of their first record,they became famous overnight."
-       ],
-       [
-        "Mendoza rose to fame swiftly after a boxing match when he was only fourteen years old ."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "He was known to us all as Dickie and his eccentricity had become legendary long before he died. NCE3-31"
-    },
-    {
-     "table": {
-      "headers": [
-       "be at war with ... 与…交战",
-       "declare war on ... 向…宣战",
-       "wage war on ... 对…发动战争"
-      ],
-      "rows": [
-       [
-        "China had been at war with Japan for 8 years."
-       ],
-       [
-        "The Chinese government has declared war on official corruption."
-       ],
-       [
-        "We continually wage war on them, for they contaminate our food, carry diseases, or devour our crops. NCE3-54"
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "Business is bad / slow / slack. 生意不好、不景气",
-       "Business is good / booming. 生意好、兴隆"
-      ],
-      "rows": [
-       [
-        "After I had sat down, he said that business was very bad . The credit card business is down, and more borrowers are defaulting on loans. 信用卡生意正在走下坡路，更多的借贷人不履行还贷责任。 This shop is very quiet; not much business is done. 这家店铺冷冷清清的， 没有什么生意。"
-       ],
-       [
-        "Business is booming this week. 这星期生意一下子火起来。 So business is booming. That's great.生意兴旺，真是太好了。"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "The general commanded his men to fire. 他的士兵们"
-    },
-    {
-     "text": "He contented himself with a subordinate job. 他满足于做下属工作。"
-    },
-    {
-     "table": {
-      "headers": [
-       "offer to do ... 主动提出做某事",
-       "volunteer to do ... 自愿提示做某事"
-      ],
-      "rows": [
-       [
-        "I think you might at least offer to help! 我认为你至少应该主动提出帮忙吧！"
-       ],
-       [
-        "Jill volunteered to go with me to the hospital."
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "provided (that) ... 假如...、但是",
-       "providing (that) ... 若是、如果",
-       "as / so long as ... 只要...",
-       "on condition (that) ... 只要满足这个条件就",
-       "only if ... 只有..."
-      ],
-      "rows": [
-       [
-        "We'll hold the concert on next Monday provided / providing that the weather is good. 如果天气好的话，我们将在下周一举行音乐会。"
-       ],
-       [
-        "I will join the club provided / providing that you do too. 我愿意加入俱乐部，如果你也愿意的话。"
-       ],
-       [
-        "'So long as there's something to identify, we will give people their money back,' said a spokeswoman for the Bank ."
-       ],
-       [
-        "John will go on condition that Mary is invited too. 约翰愿意去，条件是玛丽也得到邀请。"
-       ],
-       [
-        "She will go only if Peter goes. Only if Peter goes will she go . 位于句首时引起部分倒装"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "To do something my brain would regard as creative. 做一些我的大脑认为有创造性的事情。"
-    },
-    {
-     "text": "We regard her as our younger sister.我们把她当做自己的妹妹。"
-    },
-    {
-     "text": "Don't regard me as a child. 别把我当成小孩看待。"
-    },
-    {
-     "text": "a state visit 国事访问"
-    },
-    {
-     "text": "a state banquet 国宴"
-    },
-    {
-     "text": "state affairs 国是（事）"
-    },
-    {
-     "text": "the State Council 国务院"
-    },
-    {
-     "text": "复合句为主，简单句作为点缀和过渡。"
-    },
-    {
-     "text": "句式多变，尤其句首切忌雷同。"
-    }
+   "q": "If the money was not paid promptly, the gangsters ______ quickly put a man out of business by destroying his shop.",
+   "a": "would",
+   "type": "choice",
+   "options": [
+    "will",
+    "would",
+    "shall",
+    "should"
+   ]
+  },
+  {
+   "q": "...people would rather pay large sums of money ______ have their life work destroyed by gangsters.",
+   "a": "than",
+   "type": "choice",
+   "options": [
+    "and",
+    "or",
+    "than",
+    "but"
+   ]
+  },
+  {
+   "q": "Hawkwood and his men ______ march into a city-state... 句中 would 表示：",
+   "a": "过去习惯性动作",
+   "type": "choice",
+   "options": [
+    "将来的意愿",
+    "过去习惯性动作",
+    "委婉请求",
+    "虚拟结果"
+   ]
+  },
+  {
+   "q": "用过去习惯表达填空：Hawkwood ______ to hire his soldiers to princes who were willing to pay the high price he demanded.（写出动词 used 后的 to，或填 used to 的 used）",
+   "a": "used",
+   "type": "fill_in",
+   "options": []
+  },
+  {
+   "q": "下列哪个词与课文中 valiant 的含义最接近？",
+   "a": "英勇的",
+   "type": "choice",
+   "options": [
+    "英勇的",
+    "胆怯的",
+    "富有的",
+    "狡猾的"
    ]
   }
  ]

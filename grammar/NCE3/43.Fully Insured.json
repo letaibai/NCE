@@ -1,497 +1,104 @@
 {
- "grammar": [
+ "grammar": {
+  "summary": "本课围绕打捞馅饼盘子的趣事，集中运用了 so...that 结果状语从句、被动语态以及 now that/so that 引导的目的与原因状语从句，叙事中大量出现 prove to be 结构来表达「结果证明为……」。",
+  "points": [
+   {
+    "title": "so...that 结果状语从句 (Result Clause)",
+    "explanation": "so + 形容词/副词 + that 从句表示「如此……以至于……」。本课用 so smooth that 描述盘子表面光滑难以拴绳，用 such force that 描写水流冲击掀起大浪，凸显打捞工作的困难。",
+    "examples": [
+     {
+      "en": "The sides of the dish were so smooth that it was almost impossible to attach hawsers and chains to the rim without damaging it.",
+      "cn": "盘子四边十分光滑，要在盘边拴上绳索或链条而同时又不损坏它是很难办到的。"
+     },
+     {
+      "en": "Water streamed in torrents over its sides with such force that it set up a huge wave in the canal.",
+      "cn": "波浪从盘子两侧急涌而出，在运河里掀起一股大浪。"
+     }
+    ]
+   },
+   {
+    "title": "被动语态 (Passive Voice)",
+    "explanation": "被动语态 be + 过去分词突出受事者。本课叙述盘子被打捞、被固定、被拽上岸的过程，主语多为「盘子」本身，强调它被施加的各种动作，使叙事以物体为中心层层推进。",
+    "examples": [
+     {
+      "en": "It had been purchased by a local authority so that an enormous pie could be baked for an annual fair.",
+      "cn": "某地方当局买下它用来焙制一个巨大的馅饼为一年一度交易会助兴。"
+     },
+     {
+      "en": "Eventually chains were fixed to one end of the dish and a powerful winch was put into operation.",
+      "cn": "不过，他们终于将链条固定在盘子的一端，一台大功率的绞车开动起来。"
+     },
+     {
+      "en": "The dish rose to the surface and was gently drawn towards the canal bank.",
+      "cn": "盘子慢慢浮出水面，被轻轻地拽向运河岸边。"
+     }
+    ]
+   },
+   {
+    "title": "prove to be 结构 (Prove to be)",
+    "explanation": "prove to be + 名词/形容词意为「结果是、证明是」，用于表达事情发展后显现出的真实情况。本课多次使用该结构，交代跳舞导致翻盘、打捞遭遇困难等结果，推动情节转折。",
+    "examples": [
+     {
+      "en": "Dancing proved to be more than the dish could bear, for during the party it capsized and sank in seven feet of water.",
+      "cn": "他们跳起了舞，盘子难以承受。舞会进行过程中，盘子倾覆，沉入了7英尺深的水中。"
+     },
+     {
+      "en": "They had little difficulty in finding it, but hauling it out of the water proved to be a serious problem.",
+      "cn": "他们没费多大事儿就找到了盘子。可是把盘子捞出却是一个很大的难题。"
+     }
+    ]
+   }
+  ]
+ },
+ "exercises": [
   {
-   "title": "打捞馅饼盘子的原因",
-   "parts": [
-    {
-     "text": "Admittedly it was an unusual pie dish, for it was eighteen feet long and six feet wide . Admittedly adv.诚然，不可否认地 It had been purchased by a local authority so that an enormous pie could be baked for an annual fair. so，so that 引导目的与结果状语从句 bake v. to cook food in an oven without extra fat or liquid 烘焙 fair n. a large public event where goods are bought and sold, usually from tables which have been specially arranged for the event, and where there is often entertainment 大型集市，庙会 The pie committee decided that the best way to transport the dish would be by canal , so they insured it for the trip . decide 不一定译为“决定” decide 常常译为”（在考虑之后）确定，断定， 认为”，尤其是其后加 that 引导的宾语从句时。 Shortly after it was launched , the pie committee went to a local inn to celebrate. shortly before / after ... 不久之前/之后… launch v. to put a boat or ship into the water 使船下水 inn n. a small hotel or pub, especially an old one in the countryside（乡下的）酒馆，客栈 At the same time , a number of teenagers climbed on to the dish and held a little party of their own . hold v.拿住、担任、举行... Dancing proved to be more than the dish could bear , for during the party it capsized and sank in seven feet of water. be more than ... can / could... 是...不能/无法... capsize vt.倾覆（特指船）；翻覆；弄翻 vi.翻；倾覆；翻覆"
-    },
-    {
-     "text": "It's only a theory, admittedly, but the pieces fit together.得承认这只是一种理论，但其各部分自成一体。"
-    },
-    {
-     "text": "Admittedly, it is rather expensive but you don't need to use much.它的确很贵，但不需要用得很多。"
-    },
-    {
-     "text": "What these unintended consequences might be is admittedly far from clear.不可否认的是，目前完全不清楚这些意想不到的后果可能是什么。"
-    },
-    {
-     "text": "We paid him immediately, so (that) he left contented. 结果状语从句"
-    },
-    {
-     "text": "We paid him immediately, so (that) he would leave contented. 目的状语从句"
-    },
-    {
-     "table": {
-      "headers": [
-       "so、so (that)"
-      ],
-      "rows": [
-       [
-        "目的状语从句 以便于(= in order that)...",
-        "常与情态动词can、could、may、might、should,、would等搭配"
-       ],
-       [
-        "结果状语从句 所以(so...that...、such...that...)...",
-        "从句中的谓语动词中一般没有情态动词"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "The pie committee decided that the best way to transport the dish would be by canal, so they insured it for the trip."
-    },
-    {
-     "text": "In the new country he became absorbed in making a new life for the two of us, so that he gradually ceased to grieve ."
-    },
-    {
-     "text": "This time they fixed heayy metal clamps to both sides of the dish so that they could fasten the chains."
-    },
-    {
-     "text": "This time he was barking so that someone would let him out !"
-    },
-    {
-     "text": "The one with the money got such a fright that he dropped the bag ."
-    },
-    {
-     "text": "The ball struck him so hard that he nearly fell into the water ."
-    },
-    {
-     "text": "During a radio programme, a company of biscuit manufacturers once asked listeners to bake biscuits and send them to their factory ."
-    },
-    {
-     "text": "At a village fair, I decided to visit a fortune-teller called Madam Bellinsky ."
-    },
-    {
-     "text": "I wanted them to get a fair deal. 我希望他们得到一个公平的交易。"
-    },
-    {
-     "text": "Every autumn I go to the county fair. 每个秋季我都去县里的集市。"
-    },
-    {
-     "text": "From then on, Harry decided that this little game he had invented might prove to be expensive ."
-    },
-    {
-     "text": "I decided that I must have taken a wrong turning somewhere ."
-    },
-    {
-     "text": "The accident happened shortly before midday. 介词"
-    },
-    {
-     "text": "I saw him shortly before he died. 连词"
-    },
-    {
-     "text": "Police arrived at the scene shortly after midnight."
-    },
-    {
-     "table": {
-      "headers": [
-       "Shortly afterwards 不久之后",
-       "long before / after ... 早在…之前/之后…"
-      ],
-      "rows": [
-       [
-        "Shortly afterwards, the police stopped the car and both men were arrested. Shortly afterwards, four more policemen arrived and remonstrated with the workmen ."
-       ],
-       [
-        "He was known to us all as Dickie and his eccentricity had become legendary long before he died . It was not long before a helicopter arrived on the scene to rescue the survivors of the plane crash . It is not long before they are so accustomed to swimming that they can pick up weights from the floor of the pool . She was sentimentally attached to this house, for even though it was far too big for her needs, she persisted in living there long after her husband's death ."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "The lifeboat was launched immediately to rescue the four men."
-    },
-    {
-     "text": "I always feel at home at Ye Olde Starre Inn. 在昨日星辰客栈，我总是觉得非常舒适安逸。"
-    },
-    {
-     "text": "I learnt that the house had formerly been an inn. 我得知这座房子以前是家客栈。"
-    },
-    {
-     "text": "She washed her face at the pump in front of the inn. 她在客栈前的水泵旁洗了洗脸。"
-    },
-    {
-     "text": "The inn gift shop stocks quality Indian crafts and sundries. 这个小旅馆的礼品店备有优质的印度工艺品和其他杂品。"
-    },
-    {
-     "text": "The Olympic Games will be held in our country in four years' time ."
-    },
-    {
-     "text": "Once a year, a race is held for old cars ."
-    },
-    {
-     "text": "A Festival for the Dead is held once a year in Japan ."
-    },
-    {
-     "text": "A match was held at Stilton, where both men fought for an hour ."
-    },
-    {
-     "text": "When my old friend Brian urged me to accept a cigarette, it was more than I could bear ."
-    },
-    {
-     "text": "In the end, it was more than he could bear ."
-    },
-    {
-     "text": "This was more than we could bear, so we decided to spend our last day exploring the countryside ."
-    },
-    {
-     "text": "The pain is more than I can bear."
-    },
-    {
-     "text": "The story is more than I can believe."
-    },
-    {
-     "text": "The beauty of the West Lake is more than words can describe."
-    },
-    {
-     "text": "The weather turned out to be very good, which was more than we could expect."
-    },
-    {
-     "text": "We were afraid (that) we were going to capsize the boat. 我们担心会把船弄翻。"
-    },
-    {
-     "text": "Be careful not to capsize the boat. 小心不要使船倾覆。"
-    },
-    {
-     "text": "Don't rock the boat or it will capsize! 不要摇晃小船，否则它会翻的。"
-    },
-    {
-     "text": "A sudden strong wind capsize their boat. 突然一阵强风弄翻了他们的船。"
-    },
-    {
-     "table": {
-      "headers": [
-       "sink v.下沉，沉没；使失败，受挫",
-       "go down 沉没",
-       "go under 被淹没",
-       "go to the bottom 沉没；查明真相"
-      ],
-      "rows": [
-       [
-        "During the journey, their boat began to sink ."
-       ],
-       [
-        "The tragic sinking of this great liner will always be remembered, for she went down on her first voyage with heavy loss of life ."
-       ],
-       [
-        "The ship went under. 船沉入海底。"
-       ],
-       [
-        "The ship went to the bottom. 船沉入了水底。"
-       ]
-      ]
-     }
-    }
+   "q": "The sides of the dish were ______ smooth that it was almost impossible to attach hawsers and chains to the rim without damaging it.",
+   "a": "so",
+   "type": "choice",
+   "options": [
+    "so",
+    "such",
+    "very",
+    "too"
    ]
-  }
- ],
- "sentences": [
+  },
   {
-   "title": "结果",
-   "parts": [
-    {
-     "text": "The pie committee telephoned a local garage owner who arrived in a recovery truck to salvage the pie dish . The pie committee telephoned a local garage owner and the owner arrived in a recovery truck to salvage the pie dish. a recovery vehicle / truck one for taking broken-down cars,etc. to a garage 维修拖车（把毁坏的汽车等拉回修理厂的车） Shivering in their wet clothes, the teenagers looked on while three men dived repeatedly into the water to locate the dish. shiver / tremble 颤抖 look on 旁观、看热闹 locate v.定位、确定位置 They had little difficulty in finding it, but hauling it out of the water proved to be a serious problem. have difficulty (in) doing sth. 做某事很困难 The sides of the dish were so smooth that it was almost impossible to attach hawsers and chains to the rim without damaging it . hawser n.（船上的）粗缆绳 Eventually chains were fixed to one end of the dish and a powerful winch was put into operation. fix sth. to / on sth. 把某物固定在某物上。 winch n.绞车，卷扬机 put / bring sth. into operation to make sth start working. 开动、实施，使生效 The dish rose to the surface and was gently drawn towards the canal bank. gently adv. carefully, without a lot of force or sudden change in movement 小心翼翼地 For one agonizing moment, the dish was perched precariously on the bank of the canal, but it suddenly overbalanced and slid back into the water. perch v.坐落于……的上方（或边缘） precarious adj.摇摇欲坠的，不稳固的；（局势）不确定的，危险的 overbalance v.失去平衡 The men were now obliged to try once more. be / feel obliged to do sth. (由于责任、道义)不得不做某事 This time they fixed heavy metal clamps to both sides of the dish so that they could fasten the chains . clamp n. device for holding things tightly together, usu by means of a screw 夹具、夹钳 The dish now had to be lifted vertically because one edge was resting against the side of the canal. rest (sth.) on / against sth. 把(某物)搁在[靠在]某物上 The winch was again put into operation and one of the men started up the truck. start (sth. ↔) up 启动(汽车、马达) if an engine, car etc. starts up, or you start it up, it begins working Several minutes later, the dish was successfully hauled above the surface of the water. haul v.（用力）拖，拉 Water streamed in torrents over its sides with such force that it set up a huge wave in the canal . torrent n.洪流 such ... that ... 如此... 以至于... set up 造成，导致 There was a danger that the wave would rebound off the other side of the bank and send the dish plunging into the water again . there is / was a danger that ... 有...一个危险 rebound from/off...从...反弹回来 send...doing 使...突然移动 By working at tremendous speed , the men managed to get the dish on to dry land before the wave returned . dry land n. land rather than water 陆地"
-    },
-    {
-     "text": "The utility model discloses a power emergency recovery vehicle which comprises a cab and a carriage.本实用新型公开了一种电力应急抢修车，包括驾驶室和车箱。"
-    },
-    {
-     "text": "She shivered at the thought of going into the dark house alone. 与人搭配使用（主语只能是人）"
-    },
-    {
-     "text": "We were trembling with excitement. 人做主语"
-    },
-    {
-     "text": "The bridge trembled as the train sped across it. 物做主语"
-    },
-    {
-     "text": "Suddenly, there was a slight trembling sound from below, and the captain went down to see what had happened ."
-    },
-    {
-     "text": "By this time her legs were beginning to tremble, so she sat down and accepted a cup of very strong tea, while he telephoned the police ."
-    },
-    {
-     "text": "The gaoler looked on eagerly, anxious to see if his fellow-actor had at last learnt his lines ."
-    },
-    {
-     "text": "Even the bull seemed to feel sorry for him, for it looked on sympathetically until the drunk was out of the way before once more turning its attention to the matador ."
-    },
-    {
-     "text": "We look on her as a daughter. vt. 看着是"
-    },
-    {
-     "text": "They located the right chimney by tapping at the walls and listening for the man's cries ."
-    },
-    {
-     "text": "He described it as 'a very agreeable situation located within two small hills in the midst of which flowed a great river' . 位于"
-    },
-    {
-     "text": "She has difficulty in understanding complex mathematical concepts. 她理解复杂的数学概念有困难。"
-    },
-    {
-     "table": {
-      "headers": [
-       "have trouble (in) doing sth. 做某事有困难",
-       "have a hard time doing sth. 做某事很吃力",
-       "have a good time doing sth. 做某事很开心"
-      ],
-      "rows": [
-       [
-        "He has trouble finding his keys every morning. 他每天早上都找不到他的钥匙。"
-       ],
-       [
-        "She had a hard time writing the dear John letter ."
-       ],
-       [
-        "We had a good time exploring the city during our vacation. 我们在假期期间探索这座城市时过得很开心。"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "Last hawser, in you creaks my last longing. 是你身上的绳索叩响我最后的渴望。"
-    },
-    {
-     "text": "The hawser can either be thick, heavy ropes. 缆绳既可以指粗重的绳子。"
-    },
-    {
-     "text": "Pay out the hawser fast. I do not want that anchor to drag. 快放松粗绳，我不希望那锚被拖走。"
-    },
-    {
-     "text": "On the other side of the hawser was a hostile knot of young dockers. 在钢缆的那一边，是一伙满怀敌意的码头工人。"
-    },
-    {
-     "text": "The shelves should be fixed to the wall with screws."
-    },
-    {
-     "text": "He fixed the poster to the wall with some tape. 他用胶带把海报固定在墙上。"
-    },
-    {
-     "text": "A winch shuttles back and forth, and side to side, on a grid of rails above stacks of containers. 一台绞车在集装箱堆上方的轨道网上前后、左右穿梭。"
-    },
-    {
-     "text": "The platoon tried to use a winch and a hook to pull the truck back onto the road, but it was too heavy. 部队试图用绞车和钩子把卡车拽回到路上，但它太重了。"
-    },
-    {
-     "text": "He would attach a cable around the chassis of the car and winch it up on to the canal bank. 他会在汽车底盘上拴一条缆绳，然后用绞车把汽车吊到运河岸边。"
-    },
-    {
-     "text": "It's time to put our plan into operation."
-    },
-    {
-     "text": "New legislation will be brought into operation in January."
-    },
-    {
-     "text": "Frank gently lifted the crockery out of the box and suddenly noticed a miniature painting at the bottom of the packing case ."
-    },
-    {
-     "text": "Before long, the noise dropped completely, and the boat began to drift gently across the water ."
-    },
-    {
-     "text": "We gently woke him up and asked him to ferry us to the other side ."
-    },
-    {
-     "table": {
-      "headers": [
-       "moment",
-       "a particular point in time 时间点",
-       "a very short period of time 一(小)段时间"
-      ],
-      "rows": [
-       [
-        "Just at that moment there was a knock on the door."
-       ],
-       [
-        "I'll come back to that point in a moment. It was quiet for a moment, then Rae spoke. 'I don't understand,' said Lucy after a moment."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "He watched the game from his precarious perch on top of the wall. 他无视安全，高坐在墙头上观看比赛。"
-    },
-    {
-     "text": "He'll perch on the edge of his seat to get closer. 他会坐在他位子的边缘，只为与你靠的更近。"
-    },
-    {
-     "table": {
-      "headers": [
-       "be perched on ... 栖息在…"
-      ],
-      "rows": [
-       [
-        "The path led to a tiny village (which was) perched on the steep sides of a mountain ."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "a precarious future 前途未卜"
-    },
-    {
-     "text": "He is in precarious health."
-    },
-    {
-     "table": {
-      "headers": [
-       "precariously adv.不稳定地"
-      ],
-      "rows": [
-       [
-        "They lived precariously on the income from a few small investments."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "He overbalanced and fell head first. 他失去了平衡而且头部先着了地。"
-    },
-    {
-     "text": "However, as the evidence began to accumulate, experts from the Zoo felt obliged to investigate, ..."
-    },
-    {
-     "text": "He had been obliged to join the army during the Second World War ."
-    },
-    {
-     "text": "The wood is held in position by a clamp.这木头用夹钳固定住了。"
-    },
-    {
-     "text": "My old artificial hand had a pretty basic open-close mechanism similar to a clamp.我的旧假手有一个非常基本的开关装置，类似于夹钳。"
-    },
-    {
-     "text": "Blades without clips are held by screws and the clamp on the handle.失去金属夹的刀片由螺丝和手柄上的夹子固定。"
-    },
-    {
-     "text": "She stood three feet high and her hands rested on her hips ."
-    },
-    {
-     "text": "The driver got back into the car and started up."
-    },
-    {
-     "text": "Rory started up the engine and got the vehicle moving."
-    },
-    {
-     "text": "A crane had to be used to haul the car out of the stream.不得不用了一台起重机把轿车从河里拉出来。"
-    },
-    {
-     "text": "They grab Jake and haul him to his feet.他们抓住杰克，把他拖到跟前。"
-    },
-    {
-     "text": "Rickshaws are not there to haul around tourists. 人力车不是用来拉游客的。"
-    },
-    {
-     "text": "The trickle became a stream; the stream has now become a torrent."
-    },
-    {
-     "text": "The field trip involved crossing a raging torrent. 越野旅行包括跨越一条汹涌的急流。"
-    },
-    {
-     "text": "After the winter rains, the stream becomes a raging torrent. 冬雨过后，溪流湍急。"
-    },
-    {
-     "table": {
-      "headers": [
-       "in torrents 倾盆而下",
-       "current n.水流、电流、气流",
-       "stream n.溪流",
-       "trickle n.涓涓细流"
-      ],
-      "rows": [
-       [
-        "The rain came down in torrents."
-       ],
-       [
-        "Lesson 18 Electric currents in modern art 现代艺术中的电流"
-       ],
-       [
-        "It was raining heavily, and they found that a stream had formed in the field ."
-       ],
-       [
-        "There was not so much as a trickle of water. 一点儿细流的水也没有。"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "He wanted to buy a £300 watch for his wife, but he was in such a bedraggled condition that an assistant refused to serve him ."
-    },
-    {
-     "text": "The one with the money got such a fright that he dropped the bag ."
-    },
-    {
-     "text": "The men got such a fright that they dropped the bag and ran away ."
-    },
-    {
-     "text": "It is as if a single unimportant event set up a chain of reactions ."
-    },
-    {
-     "text": "Debbie is only eleven years old and she hopes to set up a new world record . 创造"
-    },
-    {
-     "text": "Tazieff was able to set up his camp very close to the volcano while it was erupting violently . 搭建"
-    },
-    {
-     "text": "This greatly reduced the speed of the ship, for there was a danger that if she travelled too quickly,this rudder would be torn away as well ."
-    },
-    {
-     "table": {
-      "headers": [
-       "there is always hope that ... 人们总是希望...",
-       "there is no denying that ... 不可否认的是...",
-       "there is no doubt / question that ... 毫无疑问的是...",
-       "there is every likelihood that ... 很可能...",
-       "there is little likelihood that ... 不大可能...",
-       "there is no shortage of ... 有的是...",
-       "there is an element of truth in ... ...有点道理",
-       "there is a good deal of truth in ... 很有道理"
-      ],
-      "rows": [
-       [
-        "There is always hope that in its labyrinth of musty, dark, disordered rooms ..."
-       ],
-       [
-        "There is no denying that coffee is not for everyone. 无可否认，咖啡不一定适合每个人。"
-       ],
-       [
-        "There is no doubt that if she had not lost her rudder she would have won the race easily ."
-       ],
-       [
-        "There is every likelihood that we can do better if we work hard. 只有我们努力，就完全可能做得更好。"
-       ],
-       [
-        "There is very little likelihood of that happening. 几乎没有发生那种事情的可能。"
-       ],
-       [
-        "Of course, New York is the ideal place for such an interesting study, because there is no shortage of tall buildings ."
-       ],
-       [
-        "Perhaps there is an element of truth in both these pictures, but few of us have had the opportunity to find out ."
-       ],
-       [
-        "Apparently, there is a good deal of truth in this idea ."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "The ball rebounded from / off the goalpost and Owen headed it in."
-    },
-    {
-     "text": "Light will rebound from a shiny surface. 光遇到发亮的表面会反射回来。"
-    },
-    {
-     "text": "Ghaly chips the rebound off the post over the retreating Cole and against the far post. 皮球击中门柱反弹越过后退的科尔，格哈利把弹回的球削到远柱。"
-    },
-    {
-     "text": "A fire in the casino sent people fleeing for safety."
-    },
-    {
-     "text": "A careless step sent rocks tumbling down on the climbers below."
-    },
-    {
-     "text": "She stands on dry land and is visited by thousands of people each year ."
-    }
+   "q": "It had been ______ by a local authority so that an enormous pie could be baked for an annual fair.",
+   "a": "purchased",
+   "type": "choice",
+   "options": [
+    "purchase",
+    "purchasing",
+    "purchased",
+    "purchases"
+   ]
+  },
+  {
+   "q": "Dancing ______ to be more than the dish could bear, for during the party it capsized and sank in seven feet of water.",
+   "a": "proved",
+   "type": "choice",
+   "options": [
+    "proved",
+    "was proved",
+    "has proved",
+    "proving"
+   ]
+  },
+  {
+   "q": "用 so...that 结构填空：Water streamed in torrents over its sides with ______ force that it set up a huge wave in the canal.（填入与 such 搭配的修饰词，此处修饰名词 force）",
+   "a": "such",
+   "type": "fill_in",
+   "options": []
+  },
+  {
+   "q": "下列哪个词与课文中 capsized 的含义最接近？",
+   "a": "turned over",
+   "type": "choice",
+   "options": [
+    "floated steadily",
+    "turned over",
+    "sailed forward",
+    "sank completely"
    ]
   }
  ]

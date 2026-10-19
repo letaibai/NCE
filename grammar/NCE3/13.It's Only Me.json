@@ -1,178 +1,96 @@
 {
- "grammar": [
+ "grammar": {
+  "summary": "本课讲述化装舞会引发的闹剧，集中运用了 would be doing 过去将来进行时、must be 对现在情况的肯定推测，以及由 as 引导的原因状语从句。叙事中还出现 too...to... 结果结构与现在分词 slamming 作伴随状语。",
+  "points": [
+   {
+    "title": "过去将来进行时 would be doing (Future Continuous in the Past)",
+    "explanation": "would be + 现在分词表示「从过去某时看将来某一时刻正在进行的动作」。本课理查兹夫人上午想到晚上要参加舞会，此时尚未到晚上，故用 she would be going to a fancy-dress party。",
+    "examples": [
+     {
+      "en": "She was too excited to do any housework that morning, for in the evening she would be going to a fancy-dress part with her husband.",
+      "cn": "那天上午，她兴奋得什么家务活都不想做，因为晚上她要同丈夫一起参加一个化装舞会。"
+     }
+    ]
+   },
+   {
+    "title": "must be 对现在的推测 (Present Deduction with must)",
+    "explanation": "must be 表示对现在情况的肯定推断（「一定是」），否定推测用 can't be。本课两次用 must be 推断来人身份：先是断定一定是面包师，后断定一定是供电局的人。",
+    "examples": [
+     {
+      "en": "She knew that it must be the baker.",
+      "cn": "她知道来了一定（是）面包师。"
+     },
+     {
+      "en": "Mrs. Richards realized that it must be the man from the Electricity Board who had come to read the metre.",
+      "cn": "理查兹夫人这才想到一定是供电局来人查电表了。"
+     }
+    ]
+   },
+   {
+    "title": "as 引导的原因状语从句 (Causal Clauses with as)",
+    "explanation": "as 表示已知或显而易见的原因，语气弱于 because，常置于句首或句中。本课用 as 说明她急切试装的原因（头天已做好化装服），又用 as 说明她带鱼枪因而吃穿不愁（属并列，见 L12），此处重点在解释「因为已做好服装，所以急于试穿」。",
+    "examples": [
+     {
+      "en": "...as she had made her costume the night before, she was impatient to try it on.",
+      "cn": "……头天晚上她已把化装服做好，这时她急于想试试。"
+     },
+     {
+      "en": "She was too excited to do any housework that morning, for in the evening she would be going to a fancy-dress part with her husband.",
+      "cn": "那天上午，她兴奋得什么家务活都不想做，因为晚上她要同丈夫一起参加一个化装舞会。"
+     }
+    ]
+   }
+  ]
+ },
+ "exercises": [
   {
-   "title": "起伏",
-   "parts": [
-    {
-     "text": "Just as Mrs. Richards was entering the dining room, there was a knock on the front door. Just as 正当、就在 there was a knock 客观存在的敲门声(无灵主语) She knew that it must be the baker . She had told him to come straight in if ever she failed to open the door and to leave the bread on the kitchen table. straight directly; immediately; without delay 直接、不耽搁 If ever = whenever 无论何时 leave v.离开、给...留下 Not wanting to frighten the poor man, Mrs. Richards quickly hid in the small storeroom under the stairs. Mrs. Richards realized that it must be the man from the Electricity Board who had come to read the metre . from the Electricity Board 强调从哪儿来的 read v.读取 She tried to explain the situation, saying 'It's only me', but it was too late. 突出“解释” She tried to explain the situation and said 'it's only me'. 并列句相同重要 Trying to explain the situation, she said 'it's only me'. 突出“说”更重要 The man let out a cry and jumped back several paces. let out a cry / scream 大叫一声 When Mrs. Richards walked towards him, he fled , slamming the door behind him. slamming the door behind him “砰”的一声关上门"
-    },
-    {
-     "text": "At the very moment (when) Mrs. Richards was entering the dining room, ... 替换"
-    },
-    {
-     "text": "...,somebody knocked at the front door. someone 太啰嗦"
-    },
-    {
-     "text": "There are more and more people who are interested in English in China. 在中国有越来越多的人对英语感兴趣(啰嗦了，感兴趣的当然是人)"
-    },
-    {
-     "text": "There is increasing interest in English in China. 无灵主语使句子变高级"
-    },
-    {
-     "text": "People generally agree that women should enjoy full equality with men. 人们普遍同意妇女应该享有和男人完全的平等。"
-    },
-    {
-     "text": "There is general agreement that women should enjoy full equality with men."
-    },
-    {
-     "text": "The sea bed was scoured with powerful nets and there was tremendous excitement on board when a chest was raised from the bottom. NCE3-32"
-    },
-    {
-     "text": "While the quality of legal journalism varies greatly, there is an undue reliance amongst many journalists on interpretations supplied to them by lawyers."
-    },
-    {
-     "text": "Who is it? 接电话、某人敲门时"
-    },
-    {
-     "text": "Who is there? 有人敲门时"
-    },
-    {
-     "text": "I got home and went straight to bed. 直接睡觉"
-    },
-    {
-     "text": "Time is short so l'll get straight to the point. 直奔主题"
-    },
-    {
-     "text": "Maybe she was asleep."
-    },
-    {
-     "text": "Maybe she was on the phone."
-    },
-    {
-     "text": "Maybe she was listening to music."
-    },
-    {
-     "text": "Maybe she was in the bathroom."
-    },
-    {
-     "text": "Please leave a message."
-    },
-    {
-     "text": "Please leave your address."
-    },
-    {
-     "text": "Did anybody leave a jacket behind last night? 遗忘"
-    },
-    {
-     "text": "Because he didn't want to be recognized,the suspect dressed up as a priest. 原句"
-    },
-    {
-     "text": "Not wanting to be recognized, the suspect dressed up as a priest. 非谓语简写"
-    },
-    {
-     "text": "It suddenly occurred to Mrs. Richards that it must be the man from the Electricity Board who had come to read the metre."
-    },
-    {
-     "text": "It suddenly struck Mrs. Richards that it must be the man from the Electricity Board who had come to read the metre."
-    },
-    {
-     "text": "It suddenly dawned on Mrs. Richards that it must be the man from the Electricity Board who had come to read the metre."
-    },
-    {
-     "table": {
-      "headers": [
-       "sth. occur to sb. 某人想到某事",
-       "sth. strike sb. 某人突然想到某事",
-       "sth. dawn on sb. 某人明白某事"
-      ],
-      "rows": [
-       [
-        "It suddenly occurred to one of the workers to open up the box ."
-       ],
-       [
-        "It suddenly struck me how we could improve the situation."
-       ],
-       [
-        "It suddenly dawned on me that this express was not roaring down the line at ninety miles an hour, but barely chugging along at thirty ."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "experts from the zoo"
-    },
-    {
-     "text": "a spokeswoman for the Bank"
-    },
-    {
-     "text": "editors of newspapers and magazines"
-    },
-    {
-     "table": {
-      "headers": [],
-      "rows": [
-       [
-        "the Water Board 水利局",
-        "the Gas Board 燃气局",
-        "the board of directors 董事会"
-       ],
-       [
-        "the Electricity Board 电力局",
-        "read the meter 查表",
-        "He is on the board / a board member. 董事会成员"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "read music 识谱"
-    },
-    {
-     "text": "read one's mind 读心术"
-    },
-    {
-     "text": "read one's palm 看手相"
-    },
-    {
-     "text": "汉语：parataxis — 平行语，连动句，没有轻重之别。"
-    },
-    {
-     "text": "英语：hypotaxis — 层次语，突出中心动词，次要动词状语化。"
-    },
-    {
-     "table": {
-      "headers": [],
-      "rows": [
-       [
-        "He looked at his watch and saw that it was one o'clock, but the bell struck thirteen times and then it stopped. 四个动作一样重要"
-       ],
-       [
-        "Looking at his watch, he saw that it was one o'clock , but the bell struck thirteen times before it stopped . 主次分明"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "utter a cry / scream 大声喊叫/尖叫"
-    },
-    {
-     "text": "give a cry / scream"
-    },
-    {
-     "text": "Throwing his keys onto the table, she stormed out of the room."
-    },
-    {
-     "text": "Closing the book with a loud thud, he left the library in frustration."
-    },
-    {
-     "text": "Turning off the lights in a fit of anger, she stormed out of the house."
-    },
-    {
-     "text": "Slamming his fist on the table, he stormed out of the meeting."
-    },
-    {
-     "text": "Tossing her bag onto the floor, she stormed out of the classroom."
-    }
+   "q": "...in the evening she ______ going to a fancy-dress part with her husband.（过去将来进行时）",
+   "a": "would be",
+   "type": "choice",
+   "options": [
+    "will be",
+    "would be",
+    "is",
+    "was"
+   ]
+  },
+  {
+   "q": "She knew that it ______ be the baker.（对现在的肯定推测）",
+   "a": "must",
+   "type": "choice",
+   "options": [
+    "must",
+    "can",
+    "should",
+    "need"
+   ]
+  },
+  {
+   "q": "用原因状语从句填空：She was too excited to do any housework that morning, ______ in the evening she would be going to a fancy-dress part with her husband.（写出一个引导原因的连词）",
+   "a": "for",
+   "type": "fill_in",
+   "options": []
+  },
+  {
+   "q": "Though the costume consisted only of a sheet, it was very ______.（选与课文一致的词）",
+   "a": "effective",
+   "type": "choice",
+   "options": [
+    "effective",
+    "useless",
+    "expensive",
+    "comfortable"
+   ]
+  },
+  {
+   "q": "When Mrs. Richards walked towards him, he fled, ______ the door behind him.（现在分词作伴随状语）",
+   "a": "slamming",
+   "type": "choice",
+   "options": [
+    "slammed",
+    "slam",
+    "slamming",
+    "to slam"
    ]
   }
  ]

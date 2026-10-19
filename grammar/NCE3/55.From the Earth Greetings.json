@@ -1,451 +1,100 @@
 {
- "grammar": [
+ "grammar": {
+  "summary": "本课探讨寻找地外生命，集中运用了形式主语 it、条件句与虚拟语气以及定语从句。课文用 it 作形式主语引出客观判断，用 if 引导条件句推测生命存在的条件，用 that/which 引导定语从句修饰恒星与行星。",
+  "points": [
+   {
+    "title": "形式主语 it (Anticipatory it)",
+    "explanation": "当真正的主语是较长的不定式短语或从句时，用 it 作形式主语置于句首，使句子平衡。本课用 it 引出「发现行星成为可能」「寻找生命将证明困难」等判断。",
+    "examples": [
+     {
+      "en": "Recent developments in astronomy have made it possible to detect planets in our won Milky Way and in other galaxies.",
+      "cn": "天文学方面最新发展使得我们能够在银河系和其他星系发现行星。"
+     },
+     {
+      "en": "It is impossible to look for life on another planet using earth-based telescopes.",
+      "cn": "使用放置在地球上的望远镜是无法观察到其他行星的生命的。"
+     }
+    ]
+   },
+   {
+    "title": "条件句与虚拟语气 (Conditionals & Subjunctive)",
+    "explanation": "用 if 引导条件句，主句用 would 表示推测或假设结果。本课用 if the star were small, the life-supporting planet would have to... 表示对恒星与行星关系的假设推断。",
+    "examples": [
+     {
+      "en": "Alternatively, if the star were small, the life-supporting planet would have to have a close orbit round it and also provide the perfect conditions for life forms to develop.",
+      "cn": "反之，如果恒星很小，维持生命的行星就要在离恒星很近的轨道上运行，而且要有极好的条件才能使生命得以发展。"
+     },
+     {
+      "en": "If we were able to discover lowly forms of life like bacteria on another planet, it would completely change our view of ourselves.",
+      "cn": "如果我们能够在另一颗行星上找到诸如细菌的那种低等生命，那么这个发现将彻底改变我们对我们自己的看法。"
+     }
+    ]
+   },
+   {
+    "title": "定语从句 (Relative Clauses)",
+    "explanation": "用 that/which 引导定语从句修饰先行词。本课用 that 修饰 telescope（能发现生命的望远镜），用 which 修饰 life forms，使长句结构紧凑、信息完整。",
+    "examples": [
+     {
+      "en": "At present, there is no telescope in existence that is capable of detecting the presence of life.",
+      "cn": "现在，没有一台现存的望远镜可以发现生命的存在。"
+     },
+     {
+      "en": "It is bacteria that have generated the oxygen we breathe on earth.",
+      "cn": "正是细菌生产出我们在地球上呼吸的氧气。"
+     }
+    ]
+   }
+  ]
+ },
+ "exercises": [
   {
-   "title": "提出观点",
-   "parts": [
-    {
-     "text": "Whether a planet can support life depends on the size and brightness of its star, that is its 'sun'. that is (to say) or more exactly 也就是说，确切地说（引出同位语） i.e “也就是说、即：” “也就是说” Imagine a star up to 20 times larger, brighter and hotter than our own sun. Imagine 引导祈使句 up to sth. 含义1： as much or as many as a certain amount or number but not more 多达 … up to sth. 含义2： = up till （时间） 英文解释：for the whole of a period until a certain time or date 直到… Alternatively, if the star were small, the life-supporting planet would have to have a close orbit round it and also provide the perfect conditions for life forms to develop. alternatively adv.used to introduce a suggestion or to mention sth. different to what has just been stated 或者 life-supporting 复合形容词 复合形容词简化 定语从句 Alternatively, if the star were small, the life-supporting planet would have to have a close orbit round it and (would) also (have to) provide the perfect conditions for life forms to develop. 并列句的省略 for…to do 引出动词不定式的逻辑主语（介词后用宾格） But how would we find such a planet? 虚拟语气的省略 But how would we find such a planet if there were such a planet? 课文补全 At present , there is no telescope in existence that is capable of detecting the presence of life . 双定语修饰“telescope” in existence 存在 presence n. the existence of sb. or sth. in a particular place 存在 The development of such a telescope will be one of the great astronomical projects of the 21st century. develop v. to design or make a new idea, product, system etc. over a period of time 开发，研制 development n. he process of creating a new product or method 开发，研制 正规书面语中名词更正式(中文喜欢用动作、英文喜欢用名词) GRE范文 The resolution of some problems of today is urgent and critical for the survival of a society. Overemphasis upon some existing problems could cause harmful effects. The efforts to solve problems of the future is sometimes of paramount importance for the avoidance of potential threats or even catastrophes we can anticipate."
-    },
-    {
-     "text": "The fare is reduced for children, that is anyone under 15 years old."
-    },
-    {
-     "text": "One solution would be to change the shape of the screen, that is , to make it wider."
-    },
-    {
-     "text": "Languages are taught by the direct method, that is to say, without using the student's own language."
-    },
-    {
-     "text": "I loved him ― that is, I thought I did."
-    },
-    {
-     "text": "I'll meet you in the city, that is, I will if the trains are running."
-    },
-    {
-     "text": "One authority on spiders made a census of the spiders in a grass field in the south of England, and he estimated that there were more than 2,250,000 in one acre, that is something like 6,000,000 spiders of different kinds on a football pitch ."
-    },
-    {
-     "text": "The film is only open to adults, i.e. people over 18."
-    },
-    {
-     "text": "The hotel is closed during low season, i.e. from October to March."
-    },
-    {
-     "text": "The price must be more realistic, i.e. lower."
-    },
-    {
-     "text": "She has worked at the bank for many years, nine to be exact. （后置）"
-    },
-    {
-     "text": "He was economical with the truth ― in other words, he was lying."
-    },
-    {
-     "text": "It's fairly risky. Or to put it another way, don't try this at home ."
-    },
-    {
-     "text": "Imagine life without hot water."
-    },
-    {
-     "text": "Imagine that you have just won a million pounds."
-    },
-    {
-     "text": "Imagine their dismay when they found a beautifully-cooked wallet and notes turned to ash !"
-    },
-    {
-     "text": "The Olympic Stadium will hold up to 80,000 spectators. 多达"
-    },
-    {
-     "text": "The temperature went up to 35℃. 上限（最高）"
-    },
-    {
-     "text": "Up to the time of his death, Richard Colson was one of the most notable figures in our town ."
-    },
-    {
-     "text": "Up to now , historians have assumed that calendars came into being with the advent of agriculture, for then man was faced with a real need to understand something about the seasons ."
-    },
-    {
-     "text": "The agency will make travel arrangements for you. Alternatively, you can organize your own transport."
-    },
-    {
-     "text": "We could go to the Indian restaurant, or alternatively, we could try that new Italian place."
-    },
-    {
-     "text": "the planet which supports life ⇒ the life-supporting planet"
-    },
-    {
-     "text": "animals which eat insects ⇒ insect-eating animals"
-    },
-    {
-     "text": "silverware which is made by hands ⇒ hand-made silverware"
-    },
-    {
-     "text": "diseases which are related to stress ⇒ stress-related diseases"
-    },
-    {
-     "text": "state-owned enterprises 国有企业"
-    },
-    {
-     "text": "flower-selling girls 卖花女孩"
-    },
-    {
-     "text": "epoch-making masterpieces 划时代的作品"
-    },
-    {
-     "text": "cancer-causing substances 致癌物质"
-    },
-    {
-     "text": "He opened a door and stood aside for her to pass."
-    },
-    {
-     "text": "Her circumstances had never been good enough for her hopes to be realized."
-    },
-    {
-     "text": "The organization has been in existence for 25 years. 介词短语做表语"
-    },
-    {
-     "text": "This is the oldest Hebrew manuscript in existence. 这是现存最古老的希伯来语手稿。"
-    },
-    {
-     "table": {
-      "headers": [
-       "come into existence 开始存在"
-      ],
-      "rows": [
-       [
-        "Scientists have many theories about how the universe first came into existence."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "The somewhat acid flavour is caused by the presence of lactic acid. 略有的酸味是由乳酸的存在造成的。"
-    },
-    {
-     "text": "He barely registered our presence. 他几乎没有注意到我们的存在。"
-    },
-    {
-     "text": "The cameras were not an intrusive presence. 这些摄像机的存在不会造成干扰。"
-    },
-    {
-     "table": {
-      "headers": [
-       "one’s presence 某人的存在",
-       "the presence of … …的存在",
-       "detect the presence of … 寻找…"
-      ],
-      "rows": [
-       [
-        "Her presence during the crisis had a calming effect. We enjoy staring at them entranced as they go about their business, unaware (we hope) of our presence ."
-       ],
-       [
-        "Tests revealed the presence of poison in the blood. The presence of pollen in the atmosphere causes hay fever in some people."
-       ],
-       [
-        "a device for detecting the presence of submarines The dogs were trained to detect the presence of explosives."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "Scientists are developing new drugs to treat arthritis."
-    },
-    {
-     "text": "Local entrepreneurs developed fashionable restaurants, bars and discotheques in the area. 当地的企业家在这个地区开办了时尚的餐馆、酒吧和迪斯科舞厅。"
-    },
-    {
-     "text": "He claims that several countries have developed nuclear weapons secretly. 他声称几个国家已经秘密开发了核武器。"
-    },
-    {
-     "text": "His work is mainly in software development."
-    },
-    {
-     "text": "The funds will be used for product development."
-    },
-    {
-     "text": "The talks will focus on economic development of the region. 会谈将聚焦于该地区的经济开发。"
-    },
-    {
-     "text": "His acceptance of bribes led to his arrest."
-    },
-    {
-     "text": "My arrival coincided with his departure."
-    }
+   "q": "Recent developments in astronomy have made ______ possible to detect planets in our won Milky Way and in other galaxies.",
+   "a": "it",
+   "type": "choice",
+   "options": [
+    "this",
+    "that",
+    "it",
+    "there"
    ]
-  }
- ],
- "sentences": [
+  },
   {
-   "title": "结论",
-   "parts": [
-    {
-     "text": "It is impossible to look for life on another planet using earth-based telescopes. -based 含义1： combines with nouns referring to places to mean sth. positioned or existing mainly in the place mentioned, or operating or organized from that place 位于（常用语构成复合形容词的词根） -based 含义2：used with some names to make adjectives describing the main substance in a product 主要成分为… Our own warm atmosphere and the heat generated by the telescope would make it impossible to detect objects as small as planets. 虚拟语气的省略 Our own warm atmosphere and the heat generated by the telescope would make it impossible to detect objects as small as planets if we looked for life on another planet using earth-based telescopes . 课文补全 Even a telescope in orbit round the earth, like the very successful Hubble telescope, would not be suitable because of the dust particles in our solar system. 虚拟语气的省略 Even a telescope in orbit round the earth, like the very successful Hubble telescope, would not be suitable because of the dust particles in our solar system if we looked for life using a telescope in orbit round the earth . 课文补全 Hubble Space Telescope (HST) 哈勃望远镜：Hubble Edwin Powell 1889-1953. American astronomer who discovered (1929) that the velocities of nebulae increase with distance The Hubble Space Telescope is a telescope in orbit around the Earth. Its position outside the Earth's atmosphere allows it to take extremely sharp images, and since its launch in 1990, it has become one of the most important telescopes in the history of astronomy. It has been responsible for many ground-breaking observations and has helped astronomers achieve a better understanding of many fundamental problems in astrophysics. particle n. a very small piece of sth. 微粒 elementary particle n.one of the types of pieces of matter including electrons , protons , and neutrons that make up atoms 基本粒子 A telescope would have to be as far away as the planet Jupiter to look for life in outer space, because the dust becomes thinner the further we travel towards the outer edges of our own solar system. 虚拟语气的省略 A telescope would have to be as far away as the planet Jupiter to look for life in outer space if we looked for life in outer space , because the dust becomes thinner the further we travel towards the outer edges of our own solar system. 课文补全 “越…越…” 比较 两个the 分别放在句首，前半句从句，后半句是主句，从前往后翻译 主句倒装 谓语动词是be动词 可省略 Needless to say, the bigger the risk an insurance company takes, the higher the premium you will have to pay. Needless to say, the bigger the risk an insurance company takes is, the higher will be the premium you will have to pay. “越…越…” 比较 第一句the加比较级放在句中，第二句the加比较级放在句首，只能先翻译后半句，再翻译前半句 Once we detected a planet, we would have to find a way of blotting out the light from its star, so that we would be able to 'see' the planet properly and analyse its atmosphere. way of doing sth. 做某事的方式 blot n.a mark or dirty spot on sth., esp. made by ink 污点，墨迹 so (that) 作连词时的两种用法 properly adv. (BrE) completely, fully, thoroughly 完全地，彻底地 In the first instance, we would be looking for plant life, rather than 'little green men'. 虚拟语气的省略 If we looked for life on a planet, in the first instance, we would be looking for plant life, rather than 'little green men'. 课文补全 in the first instance (fml.) as the first part of a series of actions 首先，第一 Little green men 【idiom】is a popular expression used to describe extraterrestrial life. The life forms most likely to develop on a planet would be bacteria. 虚拟语气的省略 The life forms most likely to develop on a planet would be bacteria if the planet could support life . 课文补全 It is bacteria that have generated the oxygen we breathe on earth . 强调句 Bacteria have generated the oxygen we breathe on earth . 不强调 For most of the earth's history they have been the only form of life on our planet. As Earth-dwellers, we always cherish the hope that we will be visited by little green men and that we will be able to communicate with them . dweller 居民 cherish v. to keep hopes, memories or ideas in your mind because they are important to you and bring you pleasure 长期怀有某种感情 But this hope is always in the realms of science fiction. realm(s) （单复数含义类似） science fiction (also informal sci-fi) n. [U] a type of book, film/movie, etc. that is based on imagined scientific discoveries of the future, and often deals with space travel and life on other planets 科学幻想（科幻） If we were able to discover lowly forms of life like bacteria on another planet, it would completely change our view of ourselves. lowly adj. low in rank, importance, or social class 卑微的，低等的 low adj. & adv. 低的（地） As Daniel Goldin of NASA observed , 'Finding life elsewhere would change everything. No human endeavour or thought would be unchanged by it.' 虚拟语气的省略 Finding life elsewhere would change everything if life were found elsewhere . If life were found elsewhere , no human endeavour or thought would be unchanged by it. 课文补全 observe v. (fml.) to make a written or spoken comment about someone or something （评论）说 observation n. a spoken or written remark about something you have noticed 言论，评论 elsewhere adv. in, at, or to another place 在别处，到别处 Daniel Goldin 人物介绍 Daniel Saul Goldin (born July 23, 1940) served as the 9th and longest-tenured Administrator of NASA from April 1, 1992, to November 17, 2001. He was appointed by President George H. W. Bush and served under three presidential administrations. NASA n.National Aeronautics and Space Administration a US government organization that controls space travel and the scientific study of space （美国）国家航空航天局"
-    },
-    {
-     "text": "…… a Washington-based organization"
-    },
-    {
-     "text": "land-based missiles"
-    },
-    {
-     "text": "earth-based telescopes"
-    },
-    {
-     "text": "lead-based paints"
-    },
-    {
-     "text": "carbon-based fuels"
-    },
-    {
-     "text": "nitrogen-based fertilizer"
-    },
-    {
-     "text": "pasta and other wheat-based products"
-    },
-    {
-     "text": "dust particles"
-    },
-    {
-     "text": "tiny particles of soil"
-    },
-    {
-     "text": "A proton is an elementary particle of matter that possesses a positive charge. 质子是带正电荷的物质的基本粒子。"
-    },
-    {
-     "text": "Elementary particle masses are thought to come about from the interaction with the higgs field. 物理学家认为基本粒子的质量来自于粒子与希格斯场的交互作用。"
-    },
-    {
-     "text": "The harder they worked the hungrier they became."
-    },
-    {
-     "text": "The more he gets, the more he wants"
-    },
-    {
-     "text": "The harder you work, the greater progress you will make."
-    },
-    {
-     "text": "The younger the child is （从句）, the more is the child’s need of sleep. （主句，倒装）"
-    },
-    {
-     "text": "The more democracy spreads, the stronger become the forces of peace."
-    },
-    {
-     "text": "The younger the child is, the more is / will be the child’s need of sleep."
-    },
-    {
-     "text": "The younger the child, the more the child’s need of sleep. （be动词省略）"
-    },
-    {
-     "text": "The higher the standard of living, the greater the amount of paper used. （be动词省略）"
-    },
-    {
-     "text": "The higher the standard of living is, the greater is / will be the amount of paper used."
-    },
-    {
-     "text": "They became (the) hungrier the harder they worked.前主后从"
-    },
-    {
-     "text": "A telescope would have to be as far away as the planet Jupiter to look for life in outer space, because the dust becomes thinner the further we travel towards the outer edges of our own solar system."
-    },
-    {
-     "text": "We are so familiar with the fact that man ages, that people have for years assumed that the process of losing vigour with time, of becoming more likely to die the older we get, was something self-evident, like the cooling of a hot kettle or the wearing-out of a pair of shoes."
-    },
-    {
-     "table": {
-      "headers": [],
-      "rows": [
-       [
-        "because",
-        "the dust becomes thinner",
-        "the further we travel towards the outer edges of our own solar system."
-       ],
-       [
-        "引导原因状语从句",
-        "原因状语主句（先翻译）"
-       ],
-       [
-        "The thinner the dust becomes the further we travel. 灰尘越薄，我们走得越远。（The + 比较级..., the + 比较级...） The further we travel the thinner the dust becomes. 我们走得越远，灰尘就越稀薄。（语法相同，但强调的顺序不同）"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "a new way of storing information"
-    },
-    {
-     "text": "Is there any way of stretching shoes? 有什么办法能把鞋撑大吗？"
-    },
-    {
-     "text": "I've worked out a new way of doing it. 我想出了做这事的一个新方法。"
-    },
-    {
-     "text": "I'm not happy with this way of working. 我不喜欢这种工作方法。"
-    },
-    {
-     "table": {
-      "headers": [
-       "way to do sth. 做某事的方式"
-      ],
-      "rows": [
-       [
-        "What is the best way to clean this?"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "ink blots"
-    },
-    {
-     "text": "This is a serious blot on your career. （派生：污点）"
-    },
-    {
-     "table": {
-      "headers": [
-       "blot out to cover sth. so that you can no longer see it 遮住"
-      ],
-      "rows": [
-       [
-        "Dark clouds overhead had blotted out the sun."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "The one with the money got such a fright that he dropped the bag. 结果状语从句"
-    },
-    {
-     "text": "The ball struck him so hard that he nearly fell into the water . 结果状语从句"
-    },
-    {
-     "text": "This time he was barking so that someone would let him out ! 目的状语从句"
-    },
-    {
-     "table": {
-      "headers": [
-       "结果状语从句 “所以”，从句谓语动词中一般没有情态动词",
-       "目的状语从句 “以便”= in order that …，从句谓语动词中多出现情态动词"
-      ],
-      "rows": [
-       [
-        "We paid him immediately, so (that) he left contented. The pie committee decided that the best way to transport the dish would be by canal, so they insured it for the trip. In the new country he became absorbed in making a new life for the two of us, so that he gradually ceased to grieve."
-       ],
-       [
-        "We paid him immediately, so (that) he would leave contented. It had been purchased by a local authority so that an enormous pie could be baked for an annual fair. This time they fixed heavy metal clamps to both sides of the dish so that they could fasten the chains."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "Is the chicken properly defrosted?"
-    },
-    {
-     "text": "He got properly beaten by the world champion."
-    },
-    {
-     "text": "In the first instance, notify the police and then contact your insurance company."
-    },
-    {
-     "text": "Anyone wishing to join the society should apply in the first instance to the secretary."
-    },
-    {
-     "text": "In the first instance, increasing the temperature is out of the question. 在第一种情况下，提高温度是不可能的。"
-    },
-    {
-     "text": "Little green men from space.来自太空矮绿种人。"
-    },
-    {
-     "text": "You believe in little green men? 你相信有小绿人？"
-    },
-    {
-     "text": "Are little green men bagging the best sunbeds by the hotel pool? 是小绿人正在享受酒店泳池边最好的日光浴床么？"
-    },
-    {
-     "text": "The city dweller never experiences anxieties of this sort ."
-    },
-    {
-     "text": "The number of city dwellers is growing. 城市居民的数量日渐增长。"
-    },
-    {
-     "text": "Like a scientist bent on making a discovery, he must cherish the hope that one day he will be amply rewarded ."
-    },
-    {
-     "text": "He cherished the hope of winning an Olympic medal."
-    },
-    {
-     "text": "He cherished the memory of his late wife."
-    },
-    {
-     "text": "He cherished the illusion that the girl was in love with him."
-    },
-    {
-     "text": "an idea that belongs in the realm(s) of science fiction"
-    },
-    {
-     "text": "I suppose it's not beyond the realm(s) of possibility."
-    },
-    {
-     "text": "This is not really within the realm(s) of my experience."
-    },
-    {
-     "text": "He loves science fiction in particular. 他特别喜爱科幻小说。"
-    },
-    {
-     "text": "In this section you'll find horror and science fiction. 你可以在这一部分找恐怖和科幻小说。"
-    },
-    {
-     "text": "The idea of cloning extinct life forms still belongs to science fiction. 对绝种的生命形式进行克隆的想法仍然属于科学幻想。"
-    },
-    {
-     "text": "He was a lowly assistant gardener."
-    },
-    {
-     "text": "Certainly the metabolism function will be also lowly.当然新陈代谢机能也会低下。"
-    },
-    {
-     "text": "The lowly-ranked often feel misjudged, and say so.低排名的总是感觉被无牌，而且他们也是这样说的。"
-    },
-    {
-     "text": "Though I am lowly and despised, I do not forget your precepts.我微小，被人藐视。却不忘记你的训词。"
-    },
-    {
-     "text": "bow low to the Queen adv."
-    },
-    {
-     "text": "That plane's flying too low! adj."
-    },
-    {
-     "text": "We were, however, worried about our nearest neighbours, whose farm was low lying and who were newcomers to the district . adv."
-    },
-    {
-     "text": "\"I've always found German cars very reliable,\" he observed."
-    },
-    {
-     "text": "She observed that it would soon be time to stop for lunch."
-    },
-    {
-     "text": "A young English writer made the pertinent observation a year or two back that the talent goes into the first draft, and the art into the drafts that follow."
-    },
-    {
-     "text": "She has good powers of observation. 她有很强的观察力。"
-    },
-    {
-     "text": "Is that a criticism or just an observation? 那是一种批评呢，还是一种观察评论而已？"
-    },
-    {
-     "text": "The diaries are a mixture of confession and observation. 这些日记混合着自白和一些观察。"
-    },
-    {
-     "text": "The answer to the problem must be sought elsewhere."
-    },
-    {
-     "text": "Our favourite restaurant was full, so we had to go elsewhere."
-    },
-    {
-     "text": "NASA is now going to put the telescope right, so it will soon be sending up four astronauts to repair it ."
-    },
-    {
-     "text": "NASA is an abbreviation for \"National Aeronautics and Space Administration.\""
-    }
+   "q": "Alternatively, if the star ______ small, the life-supporting planet would have to have a close orbit round it.",
+   "a": "were",
+   "type": "choice",
+   "options": [
+    "is",
+    "was",
+    "were",
+    "will be"
+   ]
+  },
+  {
+   "q": "At present, there is no telescope in existence ______ is capable of detecting the presence of life.",
+   "a": "which",
+   "type": "choice",
+   "options": [
+    "who",
+    "which",
+    "where",
+    "what"
+   ]
+  },
+  {
+   "q": "用强调句型填空：______ is bacteria that have generated the oxygen we breathe on earth.（填出句首的形式主语）",
+   "a": "it",
+   "type": "fill_in",
+   "options": []
+  },
+  {
+   "q": "课文中 the uncanny sense of direction 中 uncanny 的含义最接近？",
+   "a": "mysterious / uncanny",
+   "type": "choice",
+   "options": [
+    "ordinary",
+    "mysterious / uncanny",
+    "useless",
+    "perfect"
    ]
   }
  ]

@@ -1,275 +1,100 @@
 {
- "grammar": [
+ "grammar": {
+  "summary": "本课以「恩得利农场闹鬼」的真相为线索，重点运用了过去完成时、who 引导的定语从句以及分词短语作状语。体会作者如何用过去完成时表达「先于过去的动作」、用 who 补充被隐藏的弟弟身份、用分词短语描写埃里克日宿夜作的状态。",
+  "points": [
+   {
+    "title": "过去完成时 (Past Perfect)",
+    "explanation": "had + 过去分词表示「先于过去某一时间点」已完成的动作。本课多次用过去完成时交代「被隐藏」的往事：had been obliged to join the army（被迫参军先于逃亡）、had been killed in action（谎称阵亡先于当下叙述）、had kept for over fifty years（保守秘密先于揭露）。",
+    "examples": [
+     {
+      "en": "After the funeral, Joe and Bob revealed a secret which they had kept for over fifty years.",
+      "cn": "葬礼之后，乔和鲍勃透露了他们保守了长达50多年的秘密。"
+     },
+     {
+      "en": "His father told everybody that Eric had been killed in action.",
+      "cn": "他的父亲告诉大家，埃里克在战争中被打死了。"
+     }
+    ]
+   },
+   {
+    "title": "who 引导的定语从句 (Relative Clauses with who)",
+    "explanation": "who 引导定语从句修饰表示人的先行词，在从句中作主语。本课用 who 修饰 a farm worker（彻夜未眠的雇工）、a third brother（人们以为早逝的三弟），揭示「鬼」的真实身份。",
+    "examples": [
+     {
+      "en": "A farm worker, who stayed up all night claimed to have seen a figure cutting corn in the moonlight.",
+      "cn": "有一个彻夜未眠的雇工还声称他看见一个人影在月光下收割庄稼。"
+     },
+     {
+      "en": "the 'ghost' was none other than Eric Cox, a third brother who was supposed to have died as a young man.",
+      "cn": "那「鬼」不是别人，正是农场主的兄弟埃里克·考科斯。人们以为埃里克年轻时就死了。"
+     }
+    ]
+   },
+   {
+    "title": "分词短语作状语 (Participle Phrase as Adverbial)",
+    "explanation": "现在分词短语可作状语表示伴随状态，逻辑主语与句子主语一致。本课用 quite unaware of the fact 作伴随状语，描写埃里克日宿夜作、浑然不知自己已成了「鬼」，增添神秘与讽刺色彩。",
+    "examples": [
+     {
+      "en": "He used to sleep during the day and work at night, quite unaware of the fact that he had become the ghost of Endley.",
+      "cn": "他白天睡觉，夜里出来干活，一点不知道自己已成了恩得利家场的活鬼。"
+     },
+     {
+      "en": "Fearing the authorities, Eric remained in hiding after the war as well.",
+      "cn": "由于害怕当局，埃里克战后继续深藏不露。"
+     }
+    ]
+   }
+  ]
+ },
+ "exercises": [
   {
-   "title": "铺垫(扑朔迷离)",
-   "parts": [
-    {
-     "text": "No one suspected that there might be someone else on the farm who had never been seen . 造句：No one suspected that there might be a murderer hiding in the village who had never been recognized.谁也没想到在村子里竟然藏着一个从来也没有被认出来过的谋杀犯。 his was indeed the case . the case 实情 A short time ago, villagers were astonished to learn that the ghost of Endley had died . learn of / about 听说、获悉 know of / about 知道/了解 hear of / about 听说、了解到 Everyone went to the funeral, for the 'ghost' was none other than Eric Cox, a third brother who was supposed to have died as a young man . everyone / every one 每个人 none other than 不是别人，正是…（让读者出乎意料） 造句：Neighbors here were astonished to learn that the murderer was none other than the victim's wife who had, in her youth, poisoned every one of her five husbands.邻居们惊悉谋杀犯不是别人，正是受害者的妻子，而这个女人在年轻时一连毒死了自己的五个丈夫。 a + 序数词 a third brother as a young man = when (he was) a young man 状语从句主语相同且谓语为Be时，可省略主谓 a third brother who was supposed to have died in his youth. 替换 a third brother who was supposed to have died when young. 替换 - a third brother who was supposed to have died young. 替换 - - After the funeral, Joe and Bob revealed a secret which they had kept for over fifty years . keep a secret 保密 reveal a secret 揭秘 a secret becomes known 公开了秘密"
-    },
-    {
-     "text": "This is not always the case. 这不总是实情"
-    },
-    {
-     "text": "This is indeed the case. 这确实是实情"
-    },
-    {
-     "text": "This is not the case at all. 这根本不是实情"
-    },
-    {
-     "text": "This might not be the case. 这可能是个实情"
-    },
-    {
-     "text": "This is not necessarily the case. 这不一定是实情"
-    },
-    {
-     "text": "I was sad to learn of his illness.（我很难过得知他的病情。）"
-    },
-    {
-     "text": "I am learning about the history of art.（我正在学习艺术史。）"
-    },
-    {
-     "text": "Do you know of any good restaurants around here?（你知道这附近有好的餐馆吗？）"
-    },
-    {
-     "text": "She knows a lot about computer programming.（她对计算机编程很了解。）"
-    },
-    {
-     "text": "Have you heard of this new band?（你听说过这个新乐队吗？）"
-    },
-    {
-     "text": "I heard about the accident on the news.（我在新闻上听说了那起事故。）"
-    },
-    {
-     "text": "... poisoned every one of her five husbands . everyone后不可加of"
-    },
-    {
-     "text": "Look! Everyone's in the garden ."
-    },
-    {
-     "text": "The race gave everyone a great deal of pleasure ."
-    },
-    {
-     "text": "As soon as he opened his mouth, everyone burst out laughing ."
-    },
-    {
-     "text": "You've probably woken up everyone in the village as well. Still, I'm glad the bell is working again ."
-    },
-    {
-     "text": "The leggy beauty was none other than Naomi Campbell. 这位长腿美女不是别人，正是娜奥米·坎贝尔。"
-    },
-    {
-     "text": "This program is none other than make. 这个程序不是别的，正是 make。"
-    },
-    {
-     "text": "He was none other than my nephew Satya. 他不是别人，正是我的侄子萨提亚。"
-    },
-    {
-     "text": "The man was none other than my husband. 那个人（不是别人）正是我的丈夫。"
-    },
-    {
-     "text": "But none other than I has a leaf of this kind. 惟有拥有一片绿叶我可以确然。"
-    },
-    {
-     "text": "Mendoza met Humphries in the ring on a later occasion and he lost for a second time ."
-    },
-    {
-     "text": "Only the good die young. 好人命短(好人不长命)"
-    },
-    {
-     "text": "Can you keep a secret ? 你能保守秘密吗？"
-    },
-    {
-     "text": "Could you keep a secret, if I told you one? 如果我告诉你一个秘密，你能保密吗？"
-    },
-    {
-     "text": "Tom was utterly indiscreet, and could never keep a secret. 汤姆言行完全不慎重，从来守不住秘密。"
-    },
-    {
-     "text": "She is trying to reveal a secret. 她正试图揭露一个秘密。"
-    },
-    {
-     "text": "I reveal a secret. 揭发一个秘密。"
-    },
-    {
-     "text": "I can reveal a secret to you. I receive a very warm welcome in Russia. 我可以告诉大家一个秘密：我确实在俄罗斯受到了热烈的欢迎。"
-    },
-    {
-     "text": "At some dramatic moment in the story, the terrible secret becomes known and a reputation is ruined ."
-    }
+   "q": "After the funeral, Joe and Bob revealed a secret which they ______ for over fifty years.（用过去完成时）",
+   "a": "had kept",
+   "type": "choice",
+   "options": [
+    "had kept",
+    "kept",
+    "have kept",
+    "keep"
    ]
-  }
- ],
- "sentences": [
+  },
   {
-   "title": "真像",
-   "parts": [
-    {
-     "text": "Eric had been the eldest son of the family, very much older than his two brothers. He had been obliged to join the army during the Second World War. be obliged to do 不得不；有义务；感谢；被迫做 join the army 参军（不加介词in）：加入军队，成为一名士兵或军官。 enlist in the army 参军（enlist vi. 需要加介词in） be in the service of 为···服务、效力 the Second World War = World War II 第二次世界大战/二战 As he hated army life, he decided to desert his regiment. army life = life in the army 军旅生活(生活不属于军队，在军队里的生活所以使用介词in) When he learnt that he would be sent abroad , he returned to the farm and his father hid him until the end of the war. When he hear / know that he would be sent abroad... 替换 Fearing the authorities , Eric remained in hiding after the war as well. Fearing the penalty from the authorities, ... 补全 Afraid of the authorities, ... 替换 the authorities 政府、当局、管理部门(常以复数出现) regime n.（尤指独裁的）政府，政权 His father told everybody that Eric had been killed in action . be killed / wounded in action 固定表达不可数不加不定冠词“他在战争中阵亡/受伤” battle 可数/不可数 The only other people who knew the secret were Joe and Bob. They did not even tell their wives. They were tight-mouthed. 他们的嘴很严！ When their father died , they thought it their duty to keep Eric in hiding. 形式宾语什么时候用 当这个宾语是比较长的一个结构，尤其是像动词不定式（to do）、分词（doing），现在分词短语或者是宾语从句的时候。还有宾语补足语时（在大多数是名词或者是形容词），当宾语补足语，在这种情况下呢，我们就要用形式宾语。 All these years, Eric had lived as a recluse. recluse / hermit 隐士 Eric had lived / led the life of a recluse / hermit. 替换 He used to sleep during the day and work at night, quite unaware of the fact that he had become the ghost of Endley . be （quite） unaware of ... (完全)不知道 be unconscious of ... 不知道 When he died , however, his brothers found it impossible to keep the secret any longer. 造句： I found it impossible to resist temptation.我觉得无法抵制诱惑。"
-    },
-    {
-     "table": {
-      "headers": [
-       "原级",
-       "比较级",
-       "最高级",
-       "区别"
-      ],
-      "rows": [
-       [
-        "old",
-        "older",
-        "oldest",
-        "可用人、物的老旧"
-       ],
-       [
-        "elder",
-        "eldest",
-        "只能用于人，且不能使用than做比较。"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "He says everybody is obliged to do as he pleases. 他说每个人都有义务听他的话做事。"
-    },
-    {
-     "text": "She is obliged to abandon her idea of trying again. 她不得不放弃再试一次的想法。"
-    },
-    {
-     "text": "join the party join+宾语 指：长期加入某个组织“入党”"
-    },
-    {
-     "text": "join in the party join in + 宾语 指：参加某个活动“参加聚会”"
-    },
-    {
-     "text": "He enlisted in the 82nd Airborne 20 years ago. 他20年前加入了第82空降师。"
-    },
-    {
-     "text": "He enlisted as a private in the Mexican War. 他以列兵身份参加了墨西哥战争。"
-    },
-    {
-     "text": "Meanwhile, big Banks also utilize many kinds of trading that aren't in the service of their traditional clients. 同时，大银行利用许多不是服务于传统客户的交易方式。"
-    },
-    {
-     "text": "Have you ever been in the service? 你当过兵吗?"
-    },
-    {
-     "text": "I was drafted into the army last year."
-    },
-    {
-     "table": {
-      "headers": [
-       "recruit v.招聘，招收（新成员）；招募（新兵）",
-       "conscript / draft v.征召/征兵"
-      ],
-      "rows": [
-       [
-        "The police are trying to recruit more black and Hispanic officers. 警方正试图招收更多的黑人和西班牙裔的警官。 At the time, he was trying to recruit members for his embryonic resistance group.那时候他正在为他那萌芽中的抵抗组织招兵买马。",
-        "Most of the soldiers are reluctant conscripts. 大部分士兵都是不情愿的被征服役者。 During the Second World War, he was drafted into the U.S. Army. 第二次世界大战期间，他应征加入美国陆军。"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "the First Chapter = Chapter One 用基数词无需定冠词(The)"
-    },
-    {
-     "text": "Robert was eager to talk about life in the Army. 罗伯特渴望谈论军旅生活。"
-    },
-    {
-     "text": "He wrote about his life in the army. 他写了他在军队的生活。"
-    },
-    {
-     "text": "He became a fully-fledged soldier after a year life in the army. 经过了一年的军营生活，他成为了一名训练有素的士兵。"
-    },
-    {
-     "text": "Life in the army was far removed from the comfort of his parents' home. 军营的生活与在父母家的舒适相差太远。"
-    },
-    {
-     "text": "the local authorities 地方政府"
-    },
-    {
-     "text": "the forest authorities ordered several tons of a special type of grass seed which would grow quickly ."
-    },
-    {
-     "text": "The French authorities had the plane packaged and moved in parts back to France ."
-    },
-    {
-     "text": "It is all too easy to blame the railway authorities when something does go wrong ."
-    },
-    {
-     "table": {
-      "headers": [
-       "government n.政府，内阁；政体",
-       "administration n.管理，行政；管理部门，行政部门；（某一任期的）政府；执行，监管"
-      ],
-      "rows": [
-       [
-        "...democratic governments in countries like Britain and the U.S. …英美等国的民主政府。",
-        "the Clinton / Bush administration 克林顿/布什政府"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "a fascist regime 法西斯政权"
-    },
-    {
-     "text": "The regime is now in its death throes. 这一政权大势已去。"
-    },
-    {
-     "text": "The regime was the very incarnation of evil. 该政权正是邪恶的典型。"
-    },
-    {
-     "text": "The people are held down by a repressive regime. 人民受到了专制政权的压迫。"
-    },
-    {
-     "text": "The regime is profoundly divided against itself. 该政权内部彻底分裂了。"
-    },
-    {
-     "text": "he weakness of his regime is showing more and more. 他政权的疲弱性日益显露。"
-    },
-    {
-     "text": "be reported missing in action 据报在行动中失踪"
-    },
-    {
-     "text": "in (a) battle 在(一次)战争中"
-    },
-    {
-     "text": "they thought that it was their duty to keep Eric in hiding . 使用复合句并不是最优选（太啰嗦了）"
-    },
-    {
-     "text": "He thought it his duty to bring up the orphan. 他觉得有责任把这个孤儿抚养成人。"
-    },
-    {
-     "text": "They can be friendly and affectionate towards humans, but they lead mysterious lives of their own as well. live / lead a ... life 过着...的生活"
-    },
-    {
-     "text": "The crowd began to shout, but the drunk was unaware of the danger ."
-    },
-    {
-     "text": "He was unconscious of his rude behaviour.他没有意识到他粗鲁的行为。"
-    },
-    {
-     "text": "... quite unconscious of the fact that ... 替换"
-    },
-    {
-     "table": {
-      "headers": [
-       "not know ... 不知道",
-       "not realize ... 没有意识到、不知道",
-       "have no idea ... 不知道；不清楚"
-      ],
-      "rows": [
-       [
-        "... never knowing / realizing that ..."
-       ],
-       [
-        "... not having the slightest idea that ...一点也不知道"
-       ]
-      ]
-     }
-    }
+   "q": "A farm worker, ______ stayed up all night claimed to have seen a figure cutting corn in the moonlight.",
+   "a": "who",
+   "type": "choice",
+   "options": [
+    "who",
+    "which",
+    "where",
+    "when"
+   ]
+  },
+  {
+   "q": "He used to sleep during the day and work at night, quite ______ of the fact that he had become the ghost of Endley.（用分词作伴随状语）",
+   "a": "unaware",
+   "type": "choice",
+   "options": [
+    "unaware",
+    "unawared",
+    "unawaring",
+    "to be unaware"
+   ]
+  },
+  {
+   "q": "用动词的适当形式填空：Farm labourers said that they always woke up to find that work ______ (do) overnight.",
+   "a": "had been done",
+   "type": "fill_in",
+   "options": []
+  },
+  {
+   "q": "课文中 the 'ghost' was none other than Eric Cox 的 none other than 意思是？",
+   "a": "正是，就是",
+   "type": "choice",
+   "options": [
+    "正是，就是",
+    "不是别人",
+    "除了……之外",
+    "远远不如"
    ]
   }
  ]

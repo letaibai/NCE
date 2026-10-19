@@ -1,269 +1,96 @@
 {
- "grammar": [
+ "grammar": {
+  "summary": "本课围绕记者核实数字被逮捕展开，运用过去完成时叙述「先于过去」的委派与逮捕，并用 Not only...but...as well 倒装句突出记者的遭遇；同时以分词短语 leading to、surrounding 作后置定语使长句紧凑。",
+  "points": [
+   {
+    "title": "过去完成时 (Past Perfect)",
+    "explanation": "had + 过去分词表示「先于过去某动作发生」的动作。本课中「记者受委派写稿」先于「稿子寄到」，「记者被捕、被送进监狱」先于「传真寄到」，故分别用 had been instructed、had been arrested、had been sent。",
+    "examples": [
+     {
+      "en": "Last year a journalist had been instructed by a well-known magazine to write an article on the president's palace in a new African republic.",
+      "cn": "去年，一位记者受一家有名的杂志的委托写一篇关于非洲某个新成立共和国总统府的文章。"
+     },
+     {
+      "en": "Not only had the poor man been arrested, but he had been sent to prison as well.",
+      "cn": "那个可怜的记者不仅被捕了，而且还被送进了监狱。"
+     }
+    ]
+   },
+   {
+    "title": "Not only...but...as well 倒装 (Inversion with Not only)",
+    "explanation": "Not only 置于句首时，其后的主谓需部分倒装（had + 主语 + 过去分词），表示「不仅……而且……也」，起强调作用。本课用 Not only had the poor man been arrested, but he had been sent to prison as well 突出记者不幸的遭遇。",
+    "examples": [
+     {
+      "en": "Not only had the poor man been arrested, but he had been sent to prison as well.",
+      "cn": "那个可怜的记者不仅被捕了，而且还被送进了监狱。"
+     }
+    ]
+   },
+   {
+    "title": "分词作后置定语 (Participle as Post-modifier)",
+    "explanation": "现在分词短语置于名词后作后置定语，相当于定语从句的简化，表示主动或正在进行的动作。本课用 leading to the high wall 修饰 steps（台阶通向高墙）、surrounded the president's palace 修饰 wall，使叙述简洁。",
+    "examples": [
+     {
+      "en": "Hundreds of steps lead to the high wall which surrounds the president's palace'.",
+      "cn": "几百级台阶通向环绕总统的高墙。"
+     },
+     {
+      "en": "he had been arrested while counting the 1,084 steps leading to the fifteen-foot wall which surrounded the president's palace.",
+      "cn": "就在他数通向15英尺高的总统府围墙的1，084级台阶时，被抓了起来。"
+     }
+    ]
+   }
+  ]
+ },
+ "exercises": [
   {
-   "title": "过程",
-   "parts": [
-    {
-     "text": "The journalist immediately set out to obtain these important facts, but he took a long time to send them. take 人做主语花时间 造句：The secretary immediately set out to verify these important facts, but she took a long time to finish it.这位秘书立刻着手核实（verify） 这些重要的事实，但是她花了很长时间才完成。 Meanwhile, the editor was getting impatient, for the magazine would soon go to press. He sent the journalist two more faxes, but received no reply. He sent yet another fax informing the journalist that if he did not reply soon he would be fired . yet / still one more / another / bigger ... yet、still 用于加强语气 造句：The kidnapper sent yet another anonymous letter informing the old lady that if she called the police she would never see her son again. 绑匪又寄了一封匿名信，通知老太太如果她报警，她就再也看不到她儿子了。"
-    },
-    {
-     "table": {
-      "headers": [
-       "set out 出发 出发 to start a journey, especially a long journey",
-       "set out to do sth. 开始、着手(完成任务) begin a job, task, etc with a particular aim or goal"
-      ],
-      "rows": [
-       [
-        "One afternoon she set out from the coast in a small boat and was caught in a storm . Both these ships set out from Shanghai on June 18th, 1872 on an exciting race to England.NCE3-25 Four days after setting out, while the Titanic was sailing across the icy waters of the North Atlantic...NCE3-10"
-       ],
-       [
-        "Dimitri at once set out to find the thief. NCE3-16 True eccentrics never deliberately set out to draw attention to themselves. NCE3-31"
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "事物做主语",
-       "人做主语"
-      ],
-      "rows": [
-       [
-        "I went on an excursion recently, but my trip took me longer than I expected . Even if you travel in ideal weather, sea journeys take a long time. NCE3-44 It took me over half an hour to get rid of him. NCE3-28"
-       ],
-       [
-        "He took a long time to send them. I took just ten minutes to solve that problem. He always takes so long to eat his breakfast."
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "meanwhile adv.与此同时(仅1个词性)",
-       "at the same time 同时",
-       "(in the) meantime adv. 同时，在此期间 n. 其时，其间"
-      ],
-      "rows": [
-       [
-        "Meanwhile, my tongue was busy searching out the hole where the tooth had been."
-       ],
-       [
-        "At the same time she felt a prick on her neck. 同时她感到脖子上一阵刺痛。"
-       ],
-       [
-        "I continued working. Meantime, he went out shopping. In the meantime, the lorrydriver had to sweep up hundreds of broken bottles. NCE3-33"
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "one more ... = another ...",
-       "two more ... = another two ..."
-      ],
-      "rows": [
-       [
-        "Here is another photograph of the village . There's room for one more at the table. 这张桌子还有一个人的位置。",
-        "In another two weeks it'll be finished. In two more weeks it'll be finished."
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [],
-      "rows": [
-       [
-        "He sent yet another fax",
-        "informing the journalist",
-        "that if he did not reply soon",
-        "he would be fired."
-       ],
-       [
-        "主+谓+宾",
-        "后置定语（非谓语动词）",
-        "宾语从句(包含条件状语从句)",
-        "条件状语主句"
-       ],
-       [
-        "宾语从句"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "This led to yet another angry argument. NCE3-33"
-    },
-    {
-     "text": "yet / still one more example 再举个例"
-    },
-    {
-     "text": "He's given us yet / still more work to do. 他又给了我们多得多的工作做"
-    },
-    {
-     "text": "Inflation had risen to a yet / still higher level. (加强比较级)通货膨胀已上升到更高的水平。"
-    },
-    {
-     "table": {
-      "headers": [
-       "inform sb. of sth.",
-       "inform sb. that + 从句"
-      ],
-      "rows": [
-       [
-        "They would inform him of any progress they had made. 他们将把自己所取得的任何进展都告诉他。"
-       ],
-       [
-        "Teachers inform me that Todd's behaviour has improved no end. 老师们告诉我托德的行为改善了许多。"
-       ]
-      ]
-     }
-    }
+   "q": "Last year a journalist ______ by a well-known magazine to write an article.",
+   "a": "was instructed",
+   "type": "choice",
+   "options": [
+    "instructed",
+    "was instructed",
+    "has been instructed",
+    "is instructed"
    ]
-  }
- ],
- "sentences": [
+  },
   {
-   "title": "结果",
-   "parts": [
-    {
-     "text": "When the journalist again failed to reply, the editor reluctantly published the article as it had originally been written. Not only had the poor man been arrested , but he had been sent to prison as well . 部分倒装 § 只把助动词，be动词（之前没有其他助动词）或情态动词置于主语之前。 一、原句的否定提前 否定词位于句首 二、Only + 状语 位于句首 三、 等表示程度、频率的词 (位于句首 such, so, well, often, many a time等) 造句： Not only did several people complain of 'cat-like noises' at night, but a businessman on a fishing trip saw the puma up a tree as well . 不但有几个人抱怨说在夜里听见了“像猫一样的噪音”，而且一位钓鱼途中的商人还看见那只美洲狮在树上。 However, he had at last been allowed to send a fax in which he informed the editor that he had been arrested while counting the 1,084 steps leading to the fifteen-foot wall which surrounded the president's palace . 状语从句的省略 状语从句中如果满足以下两个条件，则可同时省略状语从句的主语和其后的be动词。"
-    },
-    {
-     "table": {
-      "headers": [],
-      "rows": [
-       [
-        "When the journalist again failed to reply,",
-        "the editor reluctantly published the article",
-        "as it had originally been written ."
-       ],
-       [
-        "一般过去时",
-        "一般过去时",
-        "方式状语从句（过去完成时被动）"
-       ],
-       [
-        "时间状语从句",
-        "时间状语主句"
-       ],
-       [
-        "When we again failed to get visas,",
-        "we reluctantly went on a domestic journey",
-        "as it had originally been planned."
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "not only ... but also ... 不但...而且也...",
-       "not only ... but ... 不仅...而且...",
-       "not only ... but ... as well 不但...而且也..."
-      ],
-      "rows": [
-       [
-        "This hobby educates one not only in the chosen subject, but also in general matters which have some bearing on it. NCE3-59"
-       ],
-       [
-        "At that time, however, she was not only the largest ship that had ever been built, but was regarded as unsinkable, for she had sixteen water-tight compartments."
-       ],
-       [
-        "I not only spoke English very carefully, but very clearly as well ."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "（如：notonly,not until, neither, nor, never, hardly, barely, scarcely, few, little, rarely, seldom, under no circumstances, in no way, ...)"
-    },
-    {
-     "text": "Nor is the city without its moments of beauty. NCE3-41"
-    },
-    {
-     "text": "Neither was I surprised when the train stopped at Widley, a tiny station a few miles along the line. NCE3-41"
-    },
-    {
-     "text": "Never have I seen such a good movie. 我从来没有看过这么好的电影。"
-    },
-    {
-     "text": "Not until yesterday did little John change his mind. 直到昨天小约翰才改变主意。"
-    },
-    {
-     "text": "Under no circumstances should you lend Paul any money. 在任何情况下你都不应该借钱给保罗。"
-    },
-    {
-     "text": "Only then did he realize that he was mistaken.直到那时他才意识到自己错了。"
-    },
-    {
-     "text": "Only by working hard can we succeed in doing anything.只有努力工作，我们才能成功做任何事情。"
-    },
-    {
-     "text": "Only after a baby seal is pushed into the sea by its mother will it learn how to swim. 只有当小海豹被它的妈妈推进海里后，它才会学会游泳(only + 时间状语从句)"
-    },
-    {
-     "text": "Only when he saw that the man was actually telephoning the police did he realize that they had all been the victims of a hoax. NCE3-40"
-    },
-    {
-     "text": "Such is human nature, that a great many people are often willing to sacrifice higher pay for the privilege of becoming white-collar workers ."
-    },
-    {
-     "text": "So great is our passion for doing things for ourselves, that we are becoming increasingly less dependent on specialized labour. NCE3-46"
-    },
-    {
-     "text": "Well did I know him and well did he know me.我很了解他，他也很了解我。"
-    },
-    {
-     "text": "often did it snow there.那里经常下雪。"
-    },
-    {
-     "text": "Many a time has he given me good advice.他多次给我提出好建议。"
-    },
-    {
-     "table": {
-      "headers": [],
-      "rows": [
-       [
-        "However, he had at last been allowed to send a fax",
-        "in which he informed the editor",
-        "that he had been arrested",
-        "while counting the 1,084 steps",
-        "leading to the fifteen-foot wall",
-        "which surrounded the president's palace."
-       ],
-       [
-        "主句",
-        "引导定语从句",
-        "informed 的宾语从句",
-        "while 引导原因状语从句",
-        "后置定语",
-        "定语从句（修饰 wall）"
-       ],
-       [
-        "定语从句 （修饰 a fax）"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "状语从句的主语与主句主语一致。"
-    },
-    {
-     "text": "状语从句的谓语包含be动词。"
-    },
-    {
-     "text": "Metals expand when they are heated and contract when they are cooled. → Metals expand when heated and contract when cooled."
-    },
-    {
-     "text": "Francis Preston Blair Jr., although he was born in Kentucky, lived and practiced in Missouri. → Francis Preston Blair Jr., although born in Kentucky, lived and practiced in Missouri."
-    },
-    {
-     "text": "he had been arrested while he had been counting the 1,084 steps... → he had been arrested while counting the 1,084 steps.."
-    }
+   "q": "______ had the poor man been arrested, but he had been sent to prison as well.",
+   "a": "Not only",
+   "type": "choice",
+   "options": [
+    "Not only",
+    "Only",
+    "Never",
+    "No sooner"
+   ]
+  },
+  {
+   "q": "Hundreds of steps ______ to the high wall which surrounds the president's palace.",
+   "a": "lead",
+   "type": "choice",
+   "options": [
+    "lead",
+    "leads",
+    "leading",
+    "led"
+   ]
+  },
+  {
+   "q": "填入与 not only 呼应的短语（两个单词）：Not only had the poor man been arrested, but he had been sent to prison ______.",
+   "a": "as well",
+   "type": "fill_in",
+   "options": []
+  },
+  {
+   "q": "下列哪个词与课文中 fired 的含义最接近？",
+   "a": "dismissed / 解雇",
+   "type": "choice",
+   "options": [
+    "dismissed / 解雇",
+    "hired / 雇用",
+    "promoted / 提拔",
+    "trained / 培训"
    ]
   }
  ]

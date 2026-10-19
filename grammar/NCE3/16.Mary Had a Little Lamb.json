@@ -1,283 +1,96 @@
 {
- "grammar": [
+ "grammar": {
+  "summary": "本课讲玛丽的小白羊被偷又染黑还回的悬疑故事，集中运用了过去完成时的被动式（had been stolen, had been dyed, had been washed）、由 which 引导的非限制性定语从句，以及 ashamed of... 等过去分词/形容词短语作状语。句中还出现 had better 表示劝告。",
+  "points": [
+   {
+    "title": "过去完成时的被动语态 (Past Perfect Passive)",
+    "explanation": "had been + 过去分词表示「在过去某动作之前已被完成的动作」，且主语是承受者。本课「绳子被割」先于「发现失踪」，「羊毛被染黑」先于「被雨冲净」，均用过去完成被动，凸显事件的先后与真相。",
+    "examples": [
+     {
+      "en": "The rope had been cut, so it was obvious that the lamb had been stolen.",
+      "cn": "绳子被人割断，很明显小羔羊是被人偷走了。"
+     },
+     {
+      "en": "Its wool, which had been dyed black, had been washed clean by the rain!",
+      "cn": "原来羊毛上染的黑色被雨水冲掉了！"
+     }
+    ]
+   },
+   {
+    "title": "非限制性定语从句 (Non-defining Relative Clauses)",
+    "explanation": "which 引导非限制性定语从句，前后用逗号隔开，对先行词作补充说明而非限定。本课用 which 修饰 a little white lamb（丈夫送的礼物）和 Its wool（被染黑的羊毛），补充关键背景信息。",
+    "examples": [
+     {
+      "en": "One of Mary's prize possessions was a little white lamb which her husband had given her.",
+      "cn": "玛丽最珍贵的财产之一就是丈夫送给她的一只白色小羔羊。"
+     },
+     {
+      "en": "Its wool, which had been dyed black, had been washed clean by the rain!",
+      "cn": "原来羊毛上染的黑色被雨水冲掉了！"
+     }
+    ]
+   },
+   {
+    "title": "过去分词/形容词短语作状语 (Participle/Adjective as Adverbial)",
+    "explanation": "ashamed of having acted so rashly 中 ashamed of... 是形容词短语作状语，表示主语 Dimitri 当时的心情，相当于「因为感到羞愧，他向对方道歉」。of 后接动名词完成式 having acted，表示该动作先于道歉。",
+    "examples": [
+     {
+      "en": "Ashamed of having acted so rashly, Dimitri apologized to Aleko for having accused him.",
+      "cn": "迪米特里为自己的鲁莽而感到不好意思，向阿列科道了歉，说是错怪了他。"
+     }
+    ]
+   }
+  ]
+ },
+ "exercises": [
   {
-   "title": "故事经过",
-   "parts": [
-    {
-     "text": "When Dimitri came in from the fields, his wife told him what had happened .Dimitri at once set out to find the thief. He knew it would not prove difficult in such a small village . such a small village 这么小的村庄（such 限定的是 village ） many / much / few / little 只能用So After telling several of his friends about the theft, Dimitri found out that his neighbour, Aleko, had suddenly acquired a new lamb . find out 找到(本文的out是副词) Dimitri immediately went to Aleko's house and angrily accused him of stealing the lamb. accuse of 谴责，控告 He told him he had better return it or he would call the police . 间接引语（相应的过去） had better do sth. 建议（不大客气、用于同龄、同学、同事、同辈份的情况） You might as well do ... 委婉的建议（礼貌）不妨这样做...会好一点 It might be better to do ... 最好是…/ 这么做可能会更好一点 I suggest you do ... 我建议你这样做... Aleko denied taking it and led Dimitri into his backyard. deny + sth. / doing / that ... 否认做某事 admit / acknowledge + sth. / doing / that ... 承认做某事 lead sb. 引导某人 show sb. 带着某人到某地（带到了就走了） usher sb. 引导某人（有礼貌的、服务员常用） It was true that he had just bought a lamb, he explained, but his lamb was black. It is true that ..., but ... 先让步后转折（的确、确实是这样... 但是...） Admittedly, .., but ... 诚然,. .，但是…… Granted, ..., but ... 当然,…，但是… 造句： It is true that many college students choose to pursue their graduate studies, but it does not necessarily mean that they want to be scholars. 确实很多大学生选择继续读研究生，但这并不意味着他们都想做学者。 Ashamed of having acted so rashly, Dimitri apologized to Aleko for having accused him. be ashamed of ... 本句的原因状语（省略了being）感到羞耻（a开头的形容词通常只能做表语） apologize to sb. for sth. 向某人道歉 造句：Ashamed of having acted so inattentively, I apologized to Mary for having broken her favorite vase.对自己如此不小心而感到不好意思，我为打碎了Mary最喜欢的花瓶而向她道歉。 While they were talking it began to rain and Dimitri stayed in Aleko's house until the rain stopped . When he went outside half an hour later, he was astonished to find that the little black lamb was almost white . half an hour 表名词的一半 be surprised / amazed / astonished / astounded to find that / to learn that etc. 惊呀的... Its wool, which had been dyed black, had been washed clean by the rain! dye sth. black / blue / blonde etc. 把某物染成...."
-    },
-    {
-     "table": {
-      "headers": [
-       "set out to do（带着目的）开始做某事",
-       "set out 出发"
-      ],
-      "rows": [
-       [
-        "The journalist immediately set out to obtain these important facts, but he took a long time to send them ."
-       ],
-       [
-        "Captain Alison will set out at eight o'clock, so we'll have plenty of time . One afternoon she set out from the coast in a small boat and was caught in a storm . She is going to set out from the French coast at five o'clock in the morning . Both these ships set out from Shanghai on June 18th, 1872 on an exciting race to England ."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "so small a village so 修饰形容词"
-    },
-    {
-     "text": "such an interesting book"
-    },
-    {
-     "text": "so interesting a book"
-    },
-    {
-     "text": "such / so interesting books"
-    },
-    {
-     "text": "so many people 这么多人"
-    },
-    {
-     "text": "so much time 这么多时间"
-    },
-    {
-     "text": "so few students 这么点学生"
-    },
-    {
-     "text": "so little money 这么点钱"
-    },
-    {
-     "text": "so / such little boys 当little表示“小”时不受限制"
-    },
-    {
-     "table": {
-      "headers": [
-       "tell sb. (about) sth. 习惯搭配（告诉某人某事）",
-       "report / relate / recount sth. to sb. 习惯使用（把某事告诉某人）"
-      ],
-      "rows": [
-       [
-        "To tell you the truth, Mrs. Bird,I don't like chicken either ! ' Can you tell me the way to King Street, please? ' I want to tell you a true story ."
-       ],
-       [
-        "After reporting / relating / recounting the theft to several of his friends, ... 写作替换（把盗窃讲给朋友听） We know instinctively, just as beekeepers with their bees, that misfortune might overtake us if the important events of our lives were not related to it. NCE3-56"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "The experts were now fully convinced that the animal was a puma , but where had it come from ? 介词遇到宾语从句会省掉"
-    },
-    {
-     "text": "in that ... / except that ... / but that ... 介词 + that的3个例外情况（看着复合连词）"
-    },
-    {
-     "text": "I certainly don't want to accuse of them having bad intentions.我当然不想指责他们有不良意图。"
-    },
-    {
-     "text": "Those people should accuse of using living animals like chickens or rabbits fledge boa. 用活的动物，例如小鸡或者兔子来喂养蟒蛇的人应该被谴责。"
-    },
-    {
-     "text": "He was sentenced to death. His gang had been accuse of killing 10 people.他被判处死刑，其犯罪同伙因杀害十个人而受到指控。"
-    },
-    {
-     "table": {
-      "headers": [
-       "had better do sth. or (else) ... 威胁的语气",
-       "do sth. before ... 最后这么做否则...",
-       "otherwise / or (else) 单独使用不表“威胁”"
-      ],
-      "rows": [
-       [
-        "You'd better go out at once or (else) I'll throw you out of the window. 要么立即出去，要么我把你从窗户丢出去"
-       ],
-       [
-        "Get away from here before I call the police. 在我报警前你给我快离开。"
-       ],
-       [
-        "Put on a heavy coat, otherwise / or (else) you'll catch a cold. 穿上外套，要不然会感冒"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "I think that the doctor had better see you ."
-    },
-    {
-     "text": "We had better go back to the station now, Ken ."
-    },
-    {
-     "text": "You'd better pay him a visit tomorrow."
-    },
-    {
-     "text": "Anyway, you're here; you might as well stay. 无论如何你已在这里，你就留下来吧。（不妨留下）"
-    },
-    {
-     "text": "Do you think that it might be better to extract them? 你是不是认为把牙齿拔掉会好些？"
-    },
-    {
-     "text": "It might be better to keep her in ignorance of what has happened. 不让她知道发生了什么事也许更好。"
-    },
-    {
-     "text": "When I suggested that some villagers must have come in for a free drink, Mr. Thompson shook his head ."
-    },
-    {
-     "text": "I suggest you leave it to an expert. 我建议你把它留给专家来处理。"
-    },
-    {
-     "table": {
-      "headers": [
-       "call the police 报警",
-       "go to the police 报警",
-       "inform the police 通知警方（报警）"
-      ],
-      "rows": [
-       [
-        "Anyone who witnessed the attack should call the police.任何目睹了那场攻击的人都应该报警。"
-       ],
-       [
-        "At first, she decided to go to the police, but fearing that she would never see Rastus again—the letter had made that quite clear-she changed her mind ."
-       ],
-       [
-        "Our only resort is to inform the police.我们唯一的办法就是向警方报案。"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "Aleko denied the accusation / charge."
-    },
-    {
-     "text": "Aleko denied that he had taken it . 否定前移"
-    },
-    {
-     "text": "I did not acknowledge that he had done anything wrong.我没有承认他犯了什么错。"
-    },
-    {
-     "text": "I must admit I am impressed.我得承认我很佩服。"
-    },
-    {
-     "table": {
-      "headers": [
-       "原型",
-       "过去式",
-       "过去分词"
-      ],
-      "rows": [
-       [
-        "lead",
-        "led或leaded",
-        "led或leaded"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "George showed me to the guestroom which, he said, was rarely used ."
-    },
-    {
-     "text": "The secretary ushered me into his office."
-    },
-    {
-     "text": "It is true that China is still a developing country, but she is full of potential. 诚然中国还是一个发展中国家，但是她却充满了潜力。"
-    },
-    {
-     "text": "Admittedly, it is rather expensive but you don't need to use much. 它的确很贵，但不需要用得很多。"
-    },
-    {
-     "text": "Admittedly, I could have tried harder, but I still don't think all this criticism is fair."
-    },
-    {
-     "text": "Granted, he is a beginner, but he should know the basic rules. 的确，他是个初学者，但基本规则他应该懂啊。"
-    },
-    {
-     "text": "Granted, he doesn't, look too bad for his age, but I don't fancy him."
-    },
-    {
-     "text": "Granted, a snobbery of camping itself, based upon equipment and techniques, already exists; but it is of a kind that, if he meets it, he can readily understand and deal with. NCE4-47"
-    },
-    {
-     "table": {
-      "headers": [
-       "It is true that ... Admittedly,... Granted,..."
-      ],
-      "rows": [
-       [
-        "but that is not to say that ...",
-        "但是，这并不是说..."
-       ],
-       [
-        "but it does not follow that ...",
-        "但是，这不一定有这样的一个结论..."
-       ],
-       [
-        "but it does not necessarily mean that ...",
-        "但，这并不一定意味着..."
-       ],
-       [
-        "but there is no guarantee that ...",
-        "但，这并不一定能够保证 ..."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "Being ashamed of having acted so rashly, Dimitri apologized to Aleko for having accused him."
-    },
-    {
-     "text": "The gaoler looked on eagerly, (being) anxious to see if his fellow actor had at last learnt his lines ."
-    },
-    {
-     "text": "He used to sleep during the day and work at night, (being) quite unaware of the fact that he had become the ghost of Endley ."
-    },
-    {
-     "text": "(Being) Tired of sleeping on the floor, a young man in Teheran saved up for years to buy a real bed ."
-    },
-    {
-     "text": "Dimitri made an apology to Aleko for having accused him."
-    },
-    {
-     "text": "Dimitri said sorry to Aleko for having accused him."
-    },
-    {
-     "table": {
-      "headers": [
-       "动名词的时态和语态"
-      ],
-      "rows": [
-       [
-        "时态/语态",
-        "主动",
-        "被动"
-       ],
-       [
-        "一般时",
-        "doing",
-        "being done"
-       ],
-       [
-        "完成时",
-        "having done",
-        "having been done"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "an hour and a half 一个半小时"
-    },
-    {
-     "text": "half a day 半天"
-    },
-    {
-     "text": "When the archaeologists reconstructed the fragments, they were amazed to find that the goddess turned out to be a very modern-looking woman ."
-    },
-    {
-     "text": "A short time ago, villagers were astonished to learn that the ghost of Endley had died ."
-    },
-    {
-     "text": "The women prepared, spun, and dyed the wool. 妇女们将羊毛预备、纺线并染色。"
-    }
+   "q": "The rope ______ cut, so it was obvious that the lamb had been stolen.（过去完成被动）",
+   "a": "had been",
+   "type": "choice",
+   "options": [
+    "has been",
+    "had been",
+    "was being",
+    "is"
+   ]
+  },
+  {
+   "q": "One of Mary's prize possessions was a little white lamb ______ her husband had given her.",
+   "a": "which",
+   "type": "choice",
+   "options": [
+    "who",
+    "which",
+    "where",
+    "when"
+   ]
+  },
+  {
+   "q": "Its wool, ______ had been dyed black, had been washed clean by the rain!（非限制性定语从句）",
+   "a": "which",
+   "type": "choice",
+   "options": [
+    "that",
+    "which",
+    "who",
+    "what"
+   ]
+  },
+  {
+   "q": "用形容词短语作状语填空：______ of having acted so rashly, Dimitri apologized to Aleko for having accused him.（写出表示「感到羞愧」的形容词，首字母大写）",
+   "a": "Ashamed",
+   "type": "fill_in",
+   "options": []
+  },
+  {
+   "q": "He told him he had ______ return it or he would call the police.（had better 表劝告）",
+   "a": "better",
+   "type": "choice",
+   "options": [
+    "better",
+    "best",
+    "rather",
+    "sooner"
    ]
   }
  ]

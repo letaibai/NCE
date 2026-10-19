@@ -1,218 +1,96 @@
 {
- "grammar": [
+ "grammar": {
+  "summary": "本课讲外甥乔治为捡50便士反被卡住的趣事，语法上突出「too...to... 太……而不能……」结果结构、由 which/who 引导的定语从句，以及现在分词作伴随状语（bounced, rolled, pushed 等连续动作）。句中还出现 what is more 递进插入语。",
+  "points": [
+   {
+    "title": "定语从句 (Relative Clauses)",
+    "explanation": "用关系代词 which/who 引导定语从句修饰先行词。本课用 who 修饰 the lady（人），用 which（隐含）修饰 fifty pence piece，使叙事紧凑。最后一句 the lady who owns the sweet shop 即典型人物定语从句。",
+    "examples": [
+     {
+      "en": "George was not too upset by his experience because the lady who owns the sweet shop heard about his troubles and rewarded him with large box of chocolates.",
+      "cn": "此事并没使乔治过于伤心，因为糖果店老板娘听说了他遇到的麻烦后，赏给他一大盒巧克力。"
+     },
+     {
+      "en": "Very few of the fifty pence pieces and pound coins I have given him have found their way there.",
+      "cn": "我给了不少50便士的硬币，但没有几个存到储蓄罐里。"
+     }
+    ]
+   },
+   {
+    "title": "现在分词与连续动作 (Participle/Serial Actions)",
+    "explanation": "本课用一连串并列动词描写乔治的急切动作：took off, rolled up, pushed，并以 bounced, disappeared 等表示硬币的运动轨迹，强调动作的连贯性。bounced along 与 disappeared down 是硬币掉落时的伴随过程。",
+    "examples": [
+     {
+      "en": "George took off his jacket, rolled up his sleeves and pushed is right arm through the drain cover.",
+      "cn": "乔治脱掉外套，卷起袖子，将右胳膊伸进了阴沟盖。"
+     },
+     {
+      "en": "On his way to the sweet shop, he dropped his fifty pence and it bounced along the pavement and then disappeared down a drain.",
+      "cn": "在他去糖果店的路上，50便士掉在地上，在人行道上跳了几下，掉进了阴沟里。"
+     }
+    ]
+   },
+   {
+    "title": "what is more 递进插入语 (Progressive Insertion)",
+    "explanation": "what is more 作插入语，意为「而且；更有甚者」，引出递进的、往往更糟或更出乎意料的信息。本课用它衔接「不但没找到钱，而且胳膊也拔不出来」的窘境。",
+    "examples": [
+     {
+      "en": "He could not find his fifty pence piece anywhere, and what is more, he could no get his arm out.",
+      "cn": "但他摸了半天也没找到那50便士硬币，他的胳膊反倒退不出来了。"
+     }
+    ]
+   }
+  ]
+ },
+ "exercises": [
   {
-   "title": "叙述事情经过：（when,where,who,why,what,andresult）照应题目",
-   "parts": [
-    {
-     "text": "My nephew, George, has a money box but it is always empty. Very few of the fifty pence pieces and pound coins I have given him have found their way there. I gave him fifty pence yesterday and advised him to save it. should do 型的虚拟语气 Instead he bought himself fifty pence worth of trouble. instead of doing ... 本该..，结果却.. 造句：Instead of taking the elevator, we walked down the stairs.本该乘电梯的，我们却走楼梯下去的。 造句：Instead of studying, he wastes his time chasing girls. 本该学习的，他却浪费时间追女孩子。 On his way to the sweet shop, he dropped his fifty pence and it bounced along the pavement and then disappeared down a drain. George took off his jacket, rolled up his sleeves and pushed his right arm through the drain cover. 连续使用动词 突出紧迫感 He could not find his fifty pence piece anywhere, and what is more, he could not get his arm out. A crowd of people gathered round him and a lady rubbed his arm with soap and butter, but George was firmly stuck . gather v. come to gether 人群聚集 量化不可数名词 The fire brigade was called and two fire fighters freed George using a special type of grease. and two fire fighters used a special type of grease to free George. 侧重点不同：让乔治出来重要还是使用特制润滑油重要？ George was not too upset by his experience because the lady who owns the sweet shop heard about his troubles and rewarded him with a large box of chocolates. reward sb. with sth. 用某物奖励某人 award sb. sth. 授予"
-    },
-    {
-     "table": {
-      "headers": [],
-      "rows": [
-       [
-        "nephew n.侄子，外甥",
-        "niece n.外甥女，侄女"
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "find one's way",
-       "lose one's way",
-       "feel one's way",
-       "make one's way",
-       "force / elbow one's way",
-       "trace one's way",
-       "edge one's way"
-      ],
-      "rows": [
-       [
-        "到达 （事物做主语）",
-        "The river finds its way to the sea. How did my money find its way in your pocket? They had mysteriously found their way there from the wine cellar! NCE3-49"
-       ],
-       [
-        "找到解决办法、道路 （人做主语）",
-        "Specially-made lanterns are hung outside each house to help the dead to find their way ."
-       ],
-       [
-        "迷路",
-        "I love travelling in the country, but I don't like losing my way . She does not know London very well, and she lost her way ."
-       ],
-       [
-        "摸索着前进",
-        "The room was dark, so I had to feel my way along the wall to the door."
-       ],
-       [
-        "向某处走去",
-        "The hospital had been bombed and Hans had made his way back into Western Germany on foot. NCE3-36 Turning back down the main street, we quickened our pace and made our way rapidly towards the stream where we hoped the boatman was waiting. NCE3-48"
-       ],
-       [
-        "（推开众人）挤过去",
-        "He forced / elbowed his way through the crowd."
-       ],
-       [
-        "蜿蜒前进(一般事物做主语)",
-        "We expected the path to end abruptly, but we found that it traced its way through the trees. NCE3-48"
-       ],
-       [
-        "侧身前进",
-        "They had to edge their way along this, sometimes wading across shallow streams, or swimming across deep pools. NCE3-42"
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "advise sb. to do 建议某人做某事",
-       "advise (that) + 从句 ... （要用虚拟语气）"
-      ],
-      "rows": [
-       [
-        "The minister advised him to leave as soon as possible. 部长建议他尽快离开。"
-       ],
-       [
-        "I'd advise you not to tell him. 我劝你别告诉他。"
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "动词后的宾语从句中用（should）do",
-       "order, ask, decide, demand, require,advise, recommend, suggest, insist ... （表：建设、要求、命令时可用）",
-       "名词后的同位语从句中用（should）do",
-       "suggestion, proposal, request, demand,order, ...",
-       "形容词后的主语从句中用（should）do",
-       "important, necessary, natural, essential,advisable, strange, surprising ... （表：应该xx做、竟然会...时可用）"
-      ],
-      "rows": [
-       [
-        "He suggested that we (should) help them with English. suggest只有表示建议才能用虚拟语气 The teacher ordered that the homework (should) be finished within half an hour. Even though the noble was expected to read the letter at each performance, he always insisted that it should be written out in full . insist表坚持认为时不可用虚拟语气"
-       ],
-       [
-        "He made a suggestion that we (should) have a fancy dress party . The proposal that John (should) be dismissed is unacceptable."
-       ],
-       [
-        "It's strange that you (should) say such a thing . It was important that you (should) tell me all the information ."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "Instead of becoming a doctor, however, he became a successful writer of detective stories ."
-    },
-    {
-     "text": "Instead of being five new family members, these children had immediately become a commodity. NCE3-45"
-    },
-    {
-     "text": "Acting on a sudden impulse, I collected several dozen, put them in a paper bag, and took them to Robert ."
-    },
-    {
-     "table": {
-      "headers": [
-       "what is more / what's more 更棒/更遭的是、而且",
-       "moreover adv.此外，而且",
-       "furthermore adv.此外，而且",
-       "besides adv.而且，再说；此外，也",
-       "in addition 此外，另外",
-       "additionally adv.另外，此外；分外地，更加",
-       "to make things worse 更糟的是",
-       "to make matters worse 更糟的是"
-      ],
-      "rows": [
-       [
-        "What's more, the service is efficient, and there are several parking lots nearby. What more could you ask for? 更棒的是，他们服务有效率、附近又有停车场，这样还能有什么遗憾呢？ What is more, the police would visit you; and you would be convicted. 而且，警察会来找你；你会被定罪的。 What is more, they will not have to rely solely on the written word. NCE3-38"
-       ],
-       [
-        "Moreover, these perceptual changes can be profound and durable. 此外，这些感知变化可能是深刻和持久的。"
-       ],
-       [
-        "Furthermore, they claim that any such interference is completely ineffective. 此外，他们声称任何此类干涉都是完全无效的。"
-       ],
-       [
-        "You get to sample lots of baked things and take home masses of cookies besides. 你可以品尝许多烘烤食品，此外还能带许多饼干回家。"
-       ],
-       [
-        "There is, in addition, one further point to make. 此外，还有一点要说。"
-       ],
-       [
-        "Additionally, the bus service will run on Sundays, every two hours. 此外，公共汽车将于星期天运行，每两小时一班。"
-       ],
-       [
-        "To make things worse, it started raining heavily half an hour later. 更糟糕的是，半小时后开始下起了大雨。"
-       ],
-       [
-        "The team has lost the last two games and, to make matters worse, two of its best players are injured."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "A crowd gathered outside the hotel."
-    },
-    {
-     "text": "While Alfred's little army slowly began to gather at Athelney, the king himself set out to penetrate the camp of Guthrum, the commander of the Danish invaders. NCE4-9"
-    },
-    {
-     "text": "a bar / cake of soap"
-    },
-    {
-     "text": "a slice of butter"
-    },
-    {
-     "table": {
-      "headers": [],
-      "rows": [
-       [
-        "the fire brigade 英式",
-        "the fire department 美式"
-       ],
-       [
-        "fireman 消防员",
-        "firefighter 消防队员"
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [],
-      "rows": [
-       [
-        "hear of / about ... 听说了...",
-        "I was shocked to hear of his poor death. 听到他惨遭不幸的噩耗，我十分震惊。"
-       ],
-       [
-        "know of / about ... 听说、知道了...",
-        "The King came to know of the pot, and he was very greedy. 国王知道了这个锅，他非常贪婪。"
-       ],
-       [
-        "learn of / about ... 听说、了解到...",
-        "Learn about each person on your team. 了解你团队中的每一个人。"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "Lesson 51 Reward for Virtue 对美德的奖赏"
-    },
-    {
-     "text": "The audience rewarded the performer with thunderous applause. 观众们对这位表演者报以雷呜般的掌声。"
-    },
-    {
-     "text": "a reward of £1,000 酬金"
-    },
-    {
-     "text": "She was awarded the Nobel Prize for her work in medical research."
-    },
-    {
-     "text": "the Academy Award 奖项"
-    }
+   "q": "...the lady ______ owns the sweet shop heard about his troubles and rewarded him with large box of chocolates.",
+   "a": "who",
+   "type": "choice",
+   "options": [
+    "which",
+    "who",
+    "where",
+    "when"
+   ]
+  },
+  {
+   "q": "He could not find his fifty pence piece anywhere, and ______, he could no get his arm out.",
+   "a": "what is more",
+   "type": "choice",
+   "options": [
+    "what is more",
+    "on the contrary",
+    "in contrast",
+    "as a result"
+   ]
+  },
+  {
+   "q": "George took off his jacket, rolled up his sleeves and ______ is right arm through the drain cover.（选与课文一致的形式）",
+   "a": "pushed",
+   "type": "choice",
+   "options": [
+    "push",
+    "pushed",
+    "pushing",
+    "to push"
+   ]
+  },
+  {
+   "q": "用动词的正确形式填空：On his way to the sweet shop, he dropped his fifty pence and it bounced along the pavement and then ______ down a drain.（写出 disappear 的过去式）",
+   "a": "disappeared",
+   "type": "fill_in",
+   "options": []
+  },
+  {
+   "q": "下列哪个词与课文中 thrifty 的含义最接近？",
+   "a": "节约的",
+   "type": "choice",
+   "options": [
+    "节约的",
+    "浪费的",
+    "粗心的",
+    "勇敢的"
    ]
   }
  ]

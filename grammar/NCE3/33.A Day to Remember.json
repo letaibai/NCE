@@ -1,434 +1,105 @@
 {
- "grammar": [
+ "grammar": {
+  "summary": "本课以「事事不顺的一天」为线索，集中运用了现在分词作状语、as if 虚拟语气与时间状语从句，并出现 what 引导的名词性从句。重点体会叙事中如何用分词短语表现连续动作、用虚拟语气表达假设、用从句交代时间关系。",
+  "points": [
+   {
+    "title": "现在分词作状语 (Present Participles as Adverbials)",
+    "explanation": "现在分词 (v-ing) 可作时间、原因、伴随状语，表示与主语为主动关系的动作。本课用分词短语描述一连串连锁反应中的伴随动作，使画面生动紧凑。",
+    "examples": [
+     {
+      "en": "While you are on the phone, the baby pulls the tablecloth off the table, smashing half your best crockery and cutting himself in the process.",
+      "cn": "就在你接电话时，孩子把桌布从桌子上扯下来，将家中最好的陶瓷餐具半数摔碎，同时也弄伤了他自己。"
+     },
+     {
+      "en": "Seeing a cake flying through the air, a lorry driver who was drawing up alongside the car, pulled up all of a sudden.",
+      "cn": "此时，一辆卡车正好从后边开到那辆汽车边上，司机看见一块蛋糕从天而降，紧急刹车。"
+     },
+     {
+      "en": "As she was thrown forward, the cake went right through the windscreen and landed on the road.",
+      "cn": "她往前一冲，蛋糕从挡风玻璃飞了出去掉到马路上。"
+     }
+    ]
+   },
+   {
+    "title": "as if 虚拟语气 (Subjunctive with as if)",
+    "explanation": "as if/as though 引导方式状语从句，当所述情况与事实相反（非真实假设）时用虚拟语气：be 动词统一用 were。本课用 as if a single unimportant event set up... 表「好像一件小事引起连锁反应」，与现在事实相反的假设。",
+    "examples": [
+     {
+      "en": "It is as if a single unimportant event set up a chain of reactions.",
+      "cn": "好像是一件无关紧要的小事引起了一连串的连锁反应。"
+     },
+     {
+      "en": "As if this were not enough to reduce you to tears, your husband arrives, unexpectedly bringing three guests to dinner.",
+      "cn": "好像这一切还不足以使你急得掉泪，你的丈夫接着回来了，事先没打招呼就带来3个客人吃饭。"
+     }
+    ]
+   },
+   {
+    "title": "what 引导的名词性从句 (Nominal Clauses with what)",
+    "explanation": "what 在从句中既起连接作用又充当主语/宾语，相当于 the thing that。本课用 what was left of the cake 作 devoured 的宾语，使表达简洁。",
+    "examples": [
+     {
+      "en": "Only two stray dogs benefited from all this confusion, for they greedily devoured what was left of the cake.",
+      "cn": "只有两只野狗从这一片混乱中得到好处，它们贪婪地吃掉了剩下的蛋糕。"
+     },
+     {
+      "en": "What invariably happens is that a great number of things choose to go wrong at precisely the same moment.",
+      "cn": "情况经常是这样的，许许多多的事情都偏偏赶在同一时刻出问题。"
+     }
+    ]
+   }
+  ]
+ },
+ "exercises": [
   {
-   "title": "转折（预示连串的事件发生）",
-   "parts": [
-    {
-     "text": "The telephone rings and this marks the prelude to an unforeseen series of catastrophes. ring vi./vt. 响铃 go off 突然爆炸或发出巨响、发出特定的声音 strike v.打响 marks v.标志、标记 mark the prelude to ...预示着⋯ While you are on the phone, the baby pulls the tablecloth off the table, smashing half your best crockery and cutting himself in the process. be on the phone 在打电话（持续进行） While you are answering the phone, ... in the process at the same time 与此同时 You hang up hurriedly and attend to baby, crockery, etc. Meanwhile, the meal gets burnt . hang up =put the phone down 挂电话 hurriedly do sth. in a hurry / rush 匆忙地 A:'Excuse me, ma'am. Ticket, please.' B: 'Would you kindly hold these keys, please? I have a ticket, I know. I was in the smoking section.' A: 'It's OK, lady. Take your time.' etc. 来自拉丁文 et cetera 等等 As if this were not enough to reduce you to tears, your husband arrives , unexpectedly bringing three guests to dinner. As if 好像（引导方式状语从句可以用虚拟语气） reduce sb. to sth. 使某人不快或使某人处于不良状态或情况 unexpectedly / unforeseen 出乎意料地、意外的"
-    },
-    {
-     "text": "The doorbell rang. vi.响铃"
-    },
-    {
-     "text": "ring the doorbell. vt.按响"
-    },
-    {
-     "text": "The alarm clock went off."
-    },
-    {
-     "text": "He heard the alarm go off. 他听见警报器响了。"
-    },
-    {
-     "text": "The clock is striking the hours. 打点报时"
-    },
-    {
-     "text": "The clock began to strike twelve."
-    },
-    {
-     "text": "It marked the end of the great tradition of ships with sails and the beginning of a new era ."
-    },
-    {
-     "text": "The foundation of the People's Republic of China marked the beginning of a new historical period in China."
-    },
-    {
-     "text": "The dark clouds marked the prelude to a heavy storm."
-    },
-    {
-     "text": "The Lugouqiao Incident marked the prelude to China's War of Resistance Against Japanese Aggression."
-    },
-    {
-     "text": "answer the phone 接电话"
-    },
-    {
-     "text": "answer the door = I'll get it. 应门"
-    },
-    {
-     "text": "May I speak to Mr. John Smith? 我可以和约翰·史密斯先生讲话吗?"
-    },
-    {
-     "text": "This is I'm John Smith speaking. 我是约翰·史密斯。"
-    },
-    {
-     "text": "This is he me . 这就是他。"
-    },
-    {
-     "text": "speaking 请讲"
-    },
-    {
-     "text": "Who is it? Who are you? 你是谁？"
-    },
-    {
-     "text": "Who is there? = Who is calling? 是谁？"
-    },
-    {
-     "text": "One moment, please. 请稍等"
-    },
-    {
-     "text": "Hold on / Hang on, please. 请等一下"
-    },
-    {
-     "text": "John, there's a phone call for you. 约翰，有你的电话。"
-    },
-    {
-     "text": "John, you are wanted on the phone.约翰，有你的电话。"
-    },
-    {
-     "text": "John, Tom's on the line. Pick up the phone on your desk. 约翰，汤姆来电话了。拿起你桌上的电话。"
-    },
-    {
-     "text": "Sorry, Mr. Smith is in a meeting right now. Would you like to leave a message / May I take a message? 对不起，史密斯先生正在开会。你要留言吗/我可以帮你留言吗?"
-    },
-    {
-     "text": "Can you connect me with John Smith in the advertising department? 你能帮我接广告部的约翰·史密斯吗?"
-    },
-    {
-     "text": "I'd like to place / make a collect call to Australia.我想打一个对方付费电话到澳大利亚。"
-    },
-    {
-     "text": "The connection is very bad. I can barely hear you. 信号很差。我几乎听不见你说什么。"
-    },
-    {
-     "text": "There's something wrong with the phone. Let's hang up. I'll call you right back. 电话有点问题。我们挂电话吧。我马上给你回电话。"
-    },
-    {
-     "table": {
-      "headers": [
-       "to do 做结果状语（翻译成结果却怎么样了）",
-       "doing 做结果状语"
-      ],
-      "rows": [
-       [
-        "一个出乎意料的。而且往往是一个不太好的这么一个结果。",
-        "强调是正常的结果。"
-       ],
-       [
-        "He studied very hard (only) to fail the exam.他学习很努力，结果考试不及格。 The firefighters raced up the building, (only) to be the first victims. 消防队员冲进大楼，却成了第一批受害者。 Farm labourers said that they always woke up to find that work had been done overnight .",
-        "She studied hard for months, passing the exam with flying colors. （她努力学习了几个月，结果以优异的成绩通过了考试。） She slipped on the wet floor, breaking her arm. （她在湿滑的地板上滑倒，摔断了手臂。） He forgot to set his alarm, oversleeping and missing the meeting. （他忘了设置闹钟，结果睡过头，错过了会议。）"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "I stood up to say hello and spilt my drink in the process."
-    },
-    {
-     "text": "In the process, he enjoyed himself thoroughly and kept telling everybody how much he hated hospitals ."
-    },
-    {
-     "text": "slam the phone down 砰地挂断电话：生气或失望时用力挂断电话。"
-    },
-    {
-     "text": "get cut off （电话）断线了"
-    },
-    {
-     "text": "in haste 匆忙"
-    },
-    {
-     "text": "There's no hurry / rush. 不着急"
-    },
-    {
-     "text": "What's the hurry / rush? 着什么急啊？"
-    },
-    {
-     "text": "Take your time. 慢慢来，不着急"
-    },
-    {
-     "text": "and so on"
-    },
-    {
-     "text": "and so forth"
-    },
-    {
-     "text": "and the like"
-    },
-    {
-     "text": "and what not"
-    },
-    {
-     "table": {
-      "headers": [
-       "meanwhile adv.与此同时(仅1个词性)",
-       "at the same time 同时",
-       "(in the) meantime adv. 同时，在此期间 n. 其时，其间",
-       "in the process 在这个过程之中"
-      ],
-      "rows": [
-       [
-        "Meanwhile, my tongue was busy searching out the hole where the tooth had been."
-       ],
-       [
-        "At the same time she felt a prick on her neck. 同时她感到脖子上一阵刺痛。"
-       ],
-       [
-        "I continued working. Meantime, he went out shopping. 名词 In the meantime, the lorrydriver had to sweep up hundreds of broken bottles. 副词"
-       ],
-       [
-        "In the process, she built a radically new life and career. 在这个过程中，她创建了新生活、新事业。"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "'Oh, that,' he said with a smile as if he were talking about an old friend ."
-    },
-    {
-     "text": "He acted as if he had never lived in England before ."
-    },
-    {
-     "text": "Don't act as if you were the only pebble on the beach."
-    },
-    {
-     "text": "reduce sb. to tears 使某人落泪"
-    },
-    {
-     "text": "reduce sb. to despair 使某人绝望"
-    },
-    {
-     "text": "reduce sb. to silence 使某人沉默"
-    },
-    {
-     "text": "The plane was unexpectedly delayed.飞机意外地延误了。"
-    },
-    {
-     "text": "Radiation may damage cells in a way that was previously unforeseen. 辐射也许会以以前未预见的方式损坏细胞。"
-    }
+   "q": "It is as if a single unimportant event ______ up a chain of reactions.",
+   "a": "set",
+   "type": "choice",
+   "options": [
+    "set",
+    "sets",
+    "had set",
+    "setting"
    ]
-  }
- ],
- "sentences": [
+  },
   {
-   "title": "真实案例",
-   "parts": [
-    {
-     "text": "* Things can go wrong on a big scale , as a number of people recently discovered in Parramatta, a suburb of Sydney . on a big / large / great / grand / vast scale 大规模的 As Napoleon once pointed it out, attack is the best method of defense. 正如拿破仑曾经指出的，进攻是最好的防御方法。 During the rush hour one evening two cars collided and both drivers began to argue. the morning / evening rush hour 早/晚高峰时间（不可数） When the traffic was very heavy, ... 替换 The woman immediately behind the two cars happened to be a learner. immediately behind / above / below / in front of sth. （地点上）紧临着、紧靠地 chanced to do 碰巧 As it happened / As luck would have it, the woman immediately behind the two cars was a learner. 替换 She suddenly got into a panic and stopped her car. She got into a sudden panic and stopped her car. 替换(adv. → adj.) This made the driver following her brake hard. brake hard / sharply 猛刹车/急刹车"
-    },
-    {
-     "text": "on a small scale 小规模的"
-    },
-    {
-     "text": "on a limited scale 有限规模的"
-    },
-    {
-     "text": "on a colossal / huge / enormous / immense / gigantic scale 特大规模的"
-    },
-    {
-     "text": "on a national / nationwide scale 全国规模的"
-    },
-    {
-     "text": "on a global / an international / a worldwide scale 世界规模的"
-    },
-    {
-     "table": {
-      "headers": [
-       "as引导的非限定性定语从句",
-       "which引导的非限定性定语"
-      ],
-      "rows": [
-       [
-        "as作为关系代词指代整个主句",
-        "which 作为关系代词指代整个主句或先行词均可"
-       ],
-       [
-        "as引导的非限定性定语从句位于主句前、中、后均可",
-        "which 引导的非限定性定语从句不能位于主句之前"
-       ],
-       [
-        "As a poet points out , life is but a dream. 可放句首 Children , as is always the case, love their mother. 可放句中 She became angry , as many could see . 可放句尾",
-        "The sun heats the earth , which makes it possible for plants to grow . 不能替换成as The operation , which lasted for over four hours, proved to be very difficult because of the hard resin which covered the skin . ...the Crystal Palace , which was built in Hyde Park for the Great Exhibition of 1851 ."
-       ],
-       [
-        "as引导的非限定性定语从句含有“众所周知”的意思，常译为“正如..”",
-        "which引导的非限定性定语从句则未必有这个意思"
-       ],
-       [
-        "在“as + is/was + done\"结构中可省略\"is/was\" (As + done)",
-        "在\"which + is/was + done“可省略\"which + is/was”，而不能只省略be动词 （Wich + done）"
-       ],
-       [
-        "As (is) reported, a foreign delegation will visit the city.",
-        "a puma (which was) at large"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "Don't travel at rush hour. 不要在交通高峰期出行。"
-    },
-    {
-     "table": {
-      "headers": [
-       "immediately behind sth.紧靠后面",
-       "immediately above sth. 紧靠上方",
-       "immediately below sth.紧靠下方",
-       "immediately in front of sth. 紧靠前面"
-      ],
-      "rows": [
-       [
-        "The car parked immediately behind the truck.这辆车停在卡车的正后方。"
-       ],
-       [
-        "The lamp hangs immediately above the dining table.灯悬挂在餐桌的正上方。"
-       ],
-       [
-        "The basement is immediately below the ground floor.地下室就在一楼的正下方。"
-       ],
-       [
-        "She stood immediately in front of the door, blocking the entrance.她站在门的正前方，挡住了入口。"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "It happened / chanced that the woman immediately behind the two cars was a learner. 替换"
-    },
-    {
-     "table": {
-      "headers": [
-       "happened to do 碰巧",
-       "happened to sb. 发生在某人身上"
-      ],
-      "rows": [
-       [
-        "I happened to be walking in my garden when ...",
-        "It happened to a friend of mine a year ago ."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "She stopped her car in a sudden panic. 转换成简单句"
-    },
-    {
-     "text": "slam on the brakes 猛踩刹车"
-    },
-    {
-     "text": "stop 停车"
-    },
-    {
-     "text": "draw up 停下来，停车"
-    },
-    {
-     "text": "pull up 停下来，停车"
-    },
-    {
-     "text": "Seeing a cake flying through the air, a lorry driver who was drawing up alongside the car, pulled up all of a sudden."
-    },
-    {
-     "text": "come to a stop / halt 书面(文言)"
-    },
-    {
-     "text": "It came to a stop outside the jeweler's ."
-    },
-    {
-     "text": "Bruce charged at it, but in the middle, the car came to a grinding halt ."
-    }
+   "q": "______ a cake flying through the air, a lorry driver who was drawing up alongside the car, pulled up all of a sudden.",
+   "a": "Seeing",
+   "type": "choice",
+   "options": [
+    "See",
+    "Saw",
+    "Seeing",
+    "Seen"
    ]
-  }
- ],
- "expand": [
+  },
   {
-   "title": "收场",
-   "parts": [
-    {
-     "text": "His wife was sitting beside him holding a large cake. sit beside him 坐在他旁边 Seeing a cake flying through the air, a lorry driver who was drawing up alongside the car , pulled up all of a sudden. draw up 停车 draw sth ↔ up (有宾语)起草、草拟 alongside adv.在旁边 & prep. 在...旁边 The lorry was loaded with empty beer bottles and hundreds of them slid off the back of the vehicle and on to the road. ... slid off the back .. 从背面滑落 “上义词”替换 The lorry was loaded with empty beer bottles and hundreds of them slid off the back of the vehicle and on to the road. 卡车→汽车、车辆 This led to yet another angry argument. yet / still (another / one more...) 然而/还有(另一个/一个…) Meanwhile, the traffic piled up behind. pile up 积聚 It took the police nearly an hour to get the traffic on the move again. The police took nearly an hour to get the traffic on the move again. take times to do sth. on the + noun. 处于某种状态 In the meantime , the lorry driver had to sweep up hundreds of broken bottles. sweep up 打扫干净 Only two stray dogs benefited from all this confusion , for they greedily devoured what was left of the cake . benefit from 得益于；得利于；因…而得到好处 benefit 有益于... what is left of sth. = what remains of sth. 某事还剩下什么 ..., for they greedily devoured what remained of the cake. 替换"
-    },
-    {
-     "text": "A young man and a young woman were sitting behind me ."
-    },
-    {
-     "text": "A taxi drew up at the gate."
-    },
-    {
-     "text": "..., when the Marquis of Queensberry drew up the first set of rules ."
-    },
-    {
-     "text": "A car drew up alongside. adv.在旁边"
-    },
-    {
-     "text": "A police car pulled up alongside us. prep. 在(我们)旁边“介宾”"
-    },
-    {
-     "text": "... slipped off the back ... 替换"
-    },
-    {
-     "text": "Giant pandas are considered a national treasure and the Chinese government are doing their best to protect this endangered species. 大熊猫 → 濒危物种"
-    },
-    {
-     "text": "Moreover, in the past two years other nearby cities may have begun to build similar golf courses or resort hotels.Indeed, the fact that Ocean View has already built these facilities might actually portend failure for Hopewell,... 高尔夫场、度假酒店 → 这些设施"
-    },
-    {
-     "text": "yet one more question 再提个问题"
-    },
-    {
-     "text": "still another example 再举个例"
-    },
-    {
-     "text": "He sent yet another fax informing the journalist that if he did not reply soon he would be fired ."
-    },
-    {
-     "text": "The work just keeps on piling up and makes me want to scream."
-    },
-    {
-     "text": "The police spent nearly an hour (in) getting the traffic on the move again. spent times (in) doing sth."
-    },
-    {
-     "text": "The dog is on the alert."
-    },
-    {
-     "text": "He is always on the go. 忙碌"
-    },
-    {
-     "text": "The patient is on the recovery. 康复（待愈）"
-    },
-    {
-     "text": "Crimes are on the rise. 上升中"
-    },
-    {
-     "text": "While you are on the phone, ..."
-    },
-    {
-     "text": "Even people who take no interest in art cannot have failed to notice examples of modern sculpture on display in public places ."
-    },
-    {
-     "text": "There was also a great deal of machinery on display ."
-    },
-    {
-     "text": "The house is on sale ."
-    },
-    {
-     "text": "The workers are on strike ."
-    },
-    {
-     "text": "I'm here on vacation."
-    },
-    {
-     "text": "I'm here on business."
-    },
-    {
-     "text": "The nurse is on call 24 hours a day."
-    },
-    {
-     "text": "Get a broom and sweep up that glass will you?拿一把扫帚把那些玻璃扫干净，行吗？"
-    },
-    {
-     "text": "They did not sweep up the crumbs.他们没打扫碎屑。"
-    },
-    {
-     "text": "I sweep up the pieces of his plate. 我清扫了他所打碎的盘子。"
-    },
-    {
-     "text": "I found I myself also benefitted from the translation.我发现我自己也从翻译过程中受益。"
-    },
-    {
-     "text": "Your brain will benefit from this food. 你的大脑会从这种食物中受益。"
-    },
-    {
-     "text": "This food will benefit your brain. 这种食物对你的大脑有益。"
-    },
-    {
-     "text": "It is recounted of Thomas Carlyle that when he heard of the illness of his friend, Henry Taylor, he went off immediately to visit him, carrying with him in his pocket what remained of a bottle of medicine formerly prescribed for an indisposition of Mrs. Carlyle's. NCE4-28"
-    }
+   "q": "Only two stray dogs benefited from all this confusion, for they greedily devoured ______ was left of the cake.",
+   "a": "what",
+   "type": "choice",
+   "options": [
+    "that",
+    "which",
+    "what",
+    "it"
    ]
+  },
+  {
+   "q": "下列哪个词与课文中 collide 的含义最接近？",
+   "a": "猛撞，碰撞",
+   "type": "choice",
+   "options": [
+    "猛撞，碰撞",
+    "停止",
+    "滑行",
+    "追赶"
+   ]
+  },
+  {
+   "q": "用现在分词填空：While you are on the phone, the baby pulls the tablecloth off the table, ______ (smash) half your best crockery and cutting himself in the process.（写出 smash 的正确形式）",
+   "a": "smashing",
+   "type": "fill_in",
+   "options": []
   }
  ]
 }

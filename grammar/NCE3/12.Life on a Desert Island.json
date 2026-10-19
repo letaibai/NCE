@@ -1,309 +1,96 @@
 {
- "grammar": [
+ "grammar": {
+  "summary": "本课围绕「荒岛生活」展开对比叙述，重点出现由 where/which/who 引导的定语从句、have sth. done 使役结构，以及 either...or... 选择并列结构。叙事中兼用过去完成时（had brought, had stayed）体现「先于过去的动作」，但最突出的仍是上述三种句法结构。",
+  "points": [
+   {
+    "title": "定语从句 (Relative Clauses)",
+    "explanation": "用关系代词 who/which 或关系副词 where 引导定语从句修饰先行词。本课用 where 修饰 paradise（地点），用 which 修饰 boat（物），用 who 修饰 two men（人），使长句紧凑、信息层层叠加。",
+    "examples": [
+     {
+      "en": "We sometimes imagine a desert island to be a sort of paradise where the sun always shines.",
+      "cn": "我们有时想象荒岛是阳光终日普照的天堂。"
+     },
+     {
+      "en": "You either starve to death or live like Robinson Crusoe, Waiting for a boat which never comes.",
+      "cn": "要么饿死，要么像鲁滨孙那样，天天盼船来，却总没见船影。"
+     },
+     {
+      "en": "Two men who recently spent five days on a coral island wished they had stayed there longer.",
+      "cn": "最近有两个人在一座珊瑚岛上呆了5天，他们真希望在那儿再多呆一些日子。"
+     }
+    ]
+   },
+   {
+    "title": "have sth. done 使役结构 (Causative have)",
+    "explanation": "have + 宾语 + 过去分词表示「让某事被（别人）做」，宾语是动作的承受者。本课两人驾着坏船去迈阿密，目的是「让人修理」，故用 to have it repaired，过去分词 repaired 表被动。",
+    "examples": [
+     {
+      "en": "They were taking a badly damaged boat from the Virgin Islands to Miami to have it repaired.",
+      "cn": "他们驾着一条严重损坏的小船从维尔京群岛（前往迈阿密去）修理。"
+     }
+    ]
+   },
+   {
+    "title": "either... or... 选择并列结构 (Correlative either...or)",
+    "explanation": "either...or... 连接两个对等的选项，意为「要么……要么……」。本课用它连接 starve to death 与 live like Robinson Crusoe 两个动词短语，勾勒出荒岛生活的两种极端结局，与「天堂」形成对比。",
+    "examples": [
+     {
+      "en": "You either starve to death or live like Robinson Crusoe, Waiting for a boat which never comes.",
+      "cn": "要么饿死，要么像鲁滨孙那样，天天盼船来，却总没见船影。"
+     }
+    ]
+   }
+  ]
+ },
+ "exercises": [
   {
-   "title": "举例说明",
-   "parts": [
-    {
-     "text": "* Two men who recently spent five days on a coral island wished they had stayed there longer. spend v. 花费(时间)、度过时光 “wish”型的虚拟语气（hope 是真实语气） 对于可望不可及的事物的期待(可能性不高、没有可能的)，一般翻译、理解为“真希望、要是...就好了。”（还有IF形的虚拟语气、should do形的虚拟语气） They were taking a badly damaged boat from the Virgin Islands to Miami to have it repaired . have sth. done 使役动词 During the journey, their boat began to sink . They quickly loaded a small rubber dinghy with food, matches, and cans of beer and rowed for a few miles across the Caribbean until they arrived at a tiny coral island. be loaded with ... 被动 row v. 划船 There were hardly any trees on the island and there was no water, but this did not prove to be a problem. prove (to be) + adj. / n. 被证明是 The men collected rainwater in the rubber dinghy. As they had brought a spear gun with them, they had plenty to eat. 描述/评论：These two pieces of equipment proved (to be) essential to their survival. 这两件装备证明对他们的生存是必不可少的。 They caught lobster and fish every day, and , as one of them put it ' ate like kings'. When a passing tanker rescued them five days later, both men were genuinely sorry that they had to leave . regret to do 要做还没做(表示遗憾) regret doing 已做过了(表示遗憾)"
-    },
-    {
-     "text": "He then changed into overalls and spent the next eight hours as a dustman . 度过8小时"
-    },
-    {
-     "text": "I spent the whole day in my room, but I did not write a single card ! 花了一整天"
-    },
-    {
-     "text": "After having spent whole mornings on the river, I always go home with an empty bag . 呆了一整个早上"
-    },
-    {
-     "table": {
-      "headers": [
-       "S.+ wish + (that) + S. 希望 S.=Subject 主语",
-       "did / were（现在）",
-       "had done（过去）",
-       "would / should / could / might + do (将来)"
-      ],
-      "rows": [
-       [
-        "I wish (that) I met my uncle now . I wish (that) I were superman now ."
-       ],
-       [
-        "I wish (that) I had met my uncle yesterday . I wish (that) I had been superman yesterday ."
-       ],
-       [
-        "I wish (that) I could meet my uncle tomorrow . I wish (that) I could be superman tomorrow ."
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "S.+ would rather / sooner + (that) + S. 真希望 S.=Subject 主语",
-       "did/were（现在）",
-       "had done（过去）",
-       "would / should / could / might + do (将来)"
-      ],
-      "rows": [
-       [
-        "I'd rather / sooner you started off now ."
-       ],
-       [
-        "I'd rather / sooner you had been present yesterday ."
-       ],
-       [
-        "I'd rather / sooner you would be present tomorrow ."
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "if only + S. 要是...就好了 S.=Subject 主语",
-       "did/were（现在）",
-       "had done（过去）",
-       "would/should/could/might + do (将来)"
-      ],
-      "rows": [
-       [
-        "If only Tessa were here now ."
-       ],
-       [
-        "If only I had listened to my parents at that time ."
-       ],
-       [
-        "If only I could live to be 100 years old."
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "地点",
-       "时间"
-      ],
-      "rows": [
-       [
-        "from A to B",
-        "The store is open from Monday to Saturday."
-       ],
-       [
-        "out of A towards B",
-        "from A until / till B",
-        "The store is open from Monday until / till Saturday."
-       ],
-       [
-        "for B from A",
-        "A through B",
-        "The store is open Monday through Saturday."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "The French authorities had the plane packaged and moved in parts back to France ."
-    },
-    {
-     "text": "The vicar has been asked to have the tree cut down, but so far he has refused ."
-    },
-    {
-     "table": {
-      "headers": [
-       "begin doing 主动的行为",
-       "begin to do 描述客观的现象"
-      ],
-      "rows": [
-       [
-        "She begins doing squats. 她开始做深蹲。"
-       ],
-       [
-        "The tragedies begin to interlock.这些悲剧开始互相关联。"
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "load A into B 把A装进B里",
-       "load B with A 注意AB顺序(礼让弱小)"
-      ],
-      "rows": [
-       [
-        "He is loading groceries into his car.",
-        "He is loading his car with groceries."
-       ]
-      ]
-     }
-    },
-    {
-     "text": "Small boats loaded with wares sped to the great liner as she was entering the harbour ."
-    },
-    {
-     "text": "Learning is like rowing upstream: not to advance is to drop back. 学习如逆水行舟：不进则退"
-    },
-    {
-     "text": "The search proved difficult, for the puma was often observed at one place in the morning and at another place twenty miles away in the evening ."
-    },
-    {
-     "text": "He knew it would not prove difficult in such a small village ."
-    },
-    {
-     "text": "The operation, which lasted for over four hours, proved to be very difficult because of the hard resin which covered the skin ."
-    },
-    {
-     "table": {
-      "headers": [
-       "put it = express it 措辞说(想一个适当的方式把语言表达出来)",
-       "to put it another way 换句话说",
-       "let me put it this way (让)我这么给你说吧"
-      ],
-      "rows": [
-       [
-        "I don't know how to put it. 我不知道这话应该怎么去说。"
-       ],
-       [
-        "It's fairly risky. Or to put it another way,don't try this at home. 这相当冒险。或者换句话说，不要在家里尝试。"
-       ],
-       [
-        "Listen, let me put it this way, you're not stealing from me anymore. 听着，这样说吧，你不能再偷我的东西了。"
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "genuinely sorry 由衷的遗憾",
-       "sincerely thanks 诚挚感谢",
-       "from the bottom of their hearts 发自内心的",
-       "sorry / regretful 遗憾的"
-      ],
-      "rows": [
-       [
-        "I was genuinely sorry to be leaving college. 大学毕业时，我打心底里舍不得离去。"
-       ],
-       [
-        "And I sincerely thanks for them. 我是真心实意谢谢他们。"
-       ],
-       [
-        "These are words from the bottom of their hearts. 是他们由衷的心声。"
-       ],
-       [
-        "Even the bull seemed to feel sorry / regretful for him, for it looked on sympathetically until ..."
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [],
-      "rows": [
-       [
-        "Both men genuinely regretted",
-        "that they had to leave."
-       ],
-       [
-        "having to leave."
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [],
-      "rows": [
-       [
-        "regret to",
-        "say ... 说",
-        "I regret to say I cannot come. 很抱歉，我不能来了。"
-       ],
-       [
-        "tell you... 告诉你",
-        "I regret to tell you that you are fired. 我很遗憾的告诉你，你被解雇了。"
-       ],
-       [
-        "inform you ... 通知你",
-        "We regret to inform you that we cannot help you. 我们很遗憾地通知您，我们无法帮助您。"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "I have no regret marrying you. 我不后悔嫁给你。"
-    },
-    {
-     "text": "She expressed her regret at the decision. 她对这个决定表示失望。"
-    }
+   "q": "We sometimes imagine a desert island to be a sort of paradise ______ the sun always shines.",
+   "a": "where",
+   "type": "choice",
+   "options": [
+    "which",
+    "where",
+    "who",
+    "when"
    ]
-  }
- ],
- "sentences": [
+  },
   {
-   "title": "Beach Vocabulary",
-   "parts": [
-    {
-     "text": "banana boat: We went for a ride on a yellow banana boat."
-    },
-    {
-     "text": "beach ball: He threw the beach ball to me, and I threw it back."
-    },
-    {
-     "text": "beach umbrella: I sat under the beach umbrella, trying to stay cool."
-    },
-    {
-     "text": "boat: We sat in the boat and rowed towards the island."
-    },
-    {
-     "text": "buoy: There were a few buoys floating in the water to guide the boats."
-    },
-    {
-     "text": "cooler: Our cooler was full drinks and sandwiches for our picnic."
-    },
-    {
-     "text": "life buoy: I held onto the life buoy and let the boat carry me to safety."
-    },
-    {
-     "text": "lifeguard: The lifeguard sat in his chair, watching the swimmers."
-    },
-    {
-     "text": "lighthouse: The light from the lighthouse helps boats to see in the dark."
-    },
-    {
-     "text": "oar: I used the oars to row the boat."
-    },
-    {
-     "text": "rocks: We got out of the water and sat on the grey rocks."
-    },
-    {
-     "text": "sailboat: It was a windy day, so we decided to go out in the sailboat."
-    },
-    {
-     "text": "sand: The entire beach was covered in pale grey sand."
-    },
-    {
-     "text": "sandcastle: The children spent the day building a sandcastle."
-    },
-    {
-     "text": "spade: He used his spade to dig in the sand."
-    },
-    {
-     "text": "sun hat: I was wearing a sun hat to keep the sun off my face."
-    },
-    {
-     "text": "swim ring: The child can’t swim without his swim ring."
-    },
-    {
-     "text": "sunbather: The sunbather was lying on a towel, reading a book."
-    },
-    {
-     "text": "surfboard: I stood on my surfboard and tried to keep my balance."
-    },
-    {
-     "text": "tent: When we went camping, we slept in a tent."
-    }
+   "q": "They were taking a badly damaged boat from the Virgin Islands to Miami to ______ repaired.",
+   "a": "have it",
+   "type": "choice",
+   "options": [
+    "have it",
+    "have",
+    "get it to",
+    "let it"
+   ]
+  },
+  {
+   "q": "You ______ starve to death or live like Robinson Crusoe... 句中 either...or... 连接的两个选项是：",
+   "a": "两个动词短语",
+   "type": "choice",
+   "options": [
+    "两个名词",
+    "两个动词短语",
+    "两个形容词",
+    "两个副词"
+   ]
+  },
+  {
+   "q": "用定语从句填空：Two men ______ recently spent five days on a coral island wished they had stayed there longer.（写出引导词）",
+   "a": "who",
+   "type": "fill_in",
+   "options": []
+  },
+  {
+   "q": "下列哪个词与课文中 wretched 的含义最接近？",
+   "a": "悲惨的，艰苦的",
+   "type": "choice",
+   "options": [
+    "悲惨的，艰苦的",
+    "美丽的",
+    "富有的",
+    "安全的"
    ]
   }
  ]

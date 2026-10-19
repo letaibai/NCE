@@ -1,179 +1,88 @@
 {
- "grammar": [
+ "grammar": {
+  "summary": "本课介绍残钞鉴别组，运用 needn't 表示「不必」、so long as 引导条件状语从句，以及 whose 引导的定语从句交代人物关系；同时出现 have sth done（钱包被煮）与时间状语从句中的过去完成时。",
+  "points": [
+   {
+    "title": "needn't 不必 (Modal: needn't)",
+    "explanation": "needn't + 动词原形，表示「没有必要做某事」，need 此处为情态动词，多用于否定句。本课用 needn't despair 告诉英国人「犯这种错误时不必绝望」。",
+    "examples": [
+     {
+      "en": "People who live in Britain needn't despair when they made mistakes like this (and a lot of people do)!",
+      "cn": "当英国人犯这种错误时，他们不必感到绝望（而许多国家的人都有这种绝望的感觉）。"
+     }
+    ]
+   },
+   {
+    "title": "so long as 条件状语从句 (Condition with so long as)",
+    "explanation": "so long as = as long as，引导条件状语从句，意为「只要……就……」，强调主句成立的条件。本课银行发言人用 so long as there's something to identify 表示「只要有东西可供识别，我们就会把钱还给人家的」。",
+    "examples": [
+     {
+      "en": "'So long as there's something to identify, we will give people their money back,' said a spokeswoman for the Bank.",
+      "cn": "“只要有东西可供识别，我们会把钱还给人家的，”银行的一位女发言人说。"
+     }
+    ]
+   },
+   {
+    "title": "whose 引导定语从句 (Relative clause with whose)",
+    "explanation": "whose 在定语从句中作定语，表示「某人的/某物的」，引导定语从句说明所属关系。本课用 whose fiancé, John, runs a successful furniture business 修饰 Jane Butlin，交代她与未婚夫约翰的关系。",
+    "examples": [
+     {
+      "en": "A recent case concerns Jane Butlin whose fiancé, John, runs a successful furniture business.",
+      "cn": "最近的一个案例与简.巴特林有关，她的未婚夫约翰拥有一家生意兴隆家具店。"
+     }
+    ]
+   }
+  ]
+ },
+ "exercises": [
   {
-   "title": "举例",
-   "parts": [
-    {
-     "text": "A recent case concerns Jane Butlin whose fiancé, John, runs a successful furniture business. run be in charge of (sth); manage 经营、管理、运营 John had a very good day and put his wallet containing £ 3,000 into the microwave oven for safekeeping. Then he and Jane went horse-riding. When they got home, Jane cooked their dinner in the microwave oven and without realizing it, cooked her fiancé’s wallet as well. without realizing it 介词短语做原因状语 Imagine their dismay when they found a beautifully-cooked wallet and notes turned to ash! imagine one's ... when ... 想像一下某人....当...的时候 dismay n./v. 又震惊又沮丧 both shocked and discouraged John went to see his bank manager who sent the remains of wallet and the money to the special department of the Bank of England in Newcastle: the Mutilated Ladies! 接续性分句 continuative clause John went to see his bank manager and the manager sent the remains of wallet and the money to the special department of the Bank of England in Newcastle: the Mutilated Ladies! 源自并列句的省略 'So long as there 's something to identify, we will give people their money back' said a spokeswoman for the Bank. 'Last year, we paid £ 1.5m on 21,000 claims.' a spokeswoman for the Bank work for 为...工作 说话的人不重要（藏在中间） 说明文 如何写出优秀的解释说明类文章(exposition) 本文脉络（经典的解释说明类文章） 第一段：三个设问句引起读者兴趣并引入主 题：残钞鉴别组，并确切地说明其作用。语言充满趣味性。 第二段：给出具体例证。描述清晰，语言风 趣，句式多变。"
-    },
-    {
-     "table": {
-      "headers": [
-       "concern v.涉及到、有关于",
-       "be about ... 有关于",
-       "be concerned with ... 关于",
-       "concerning prep.关于"
-      ],
-      "rows": [
-       [
-        "To whom it may concern, 书信抬头(title???抬头??)"
-       ],
-       [
-        "A recent case is about Jane Butlin ..."
-       ],
-       [
-        "One case concerns an eleven-year-old schoolgirl, Vera Petrova, who has normal vision but who can also perceive things with different parts of her skin, and through solid walls. NCE4-4"
-       ],
-       [
-        "The book concerns music. = The book is concerned with music."
-       ],
-       [
-        "a book concerning music = a book concerned with music"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "run a hotel / shop / language school"
-    },
-    {
-     "text": "John manages a successful furniture business. 替换"
-    },
-    {
-     "text": "John is in charge of a successful furniture business. 经营"
-    },
-    {
-     "table": {
-      "headers": [],
-      "rows": [
-       [
-        "go fishing 去钓鱼",
-        "go camping 去露营",
-        "go sight-seeing 去观光"
-       ],
-       [
-        "go mountain-hiking 去登山",
-        "go hunting 去打猎",
-        "go bowling 去打保龄球"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "... without knowing it, ... 在不知道(的情况下)"
-    },
-    {
-     "text": "... without being aware of it ... 不知不觉（的情况下）"
-    },
-    {
-     "text": "Imagine his dismay when he found he took the wrong train."
-    },
-    {
-     "text": "Imagine their surprise and delight when they broke open the packing cases and found that the fourth engine was sweet as honey -- still in perfect condition ."
-    },
-    {
-     "text": "I picked up the receiver between two sticky fingers and was dismayed when I recognized the voice of Helen Bates ."
-    },
-    {
-     "text": "Both men had just begun to swim towards the shore when they noticed with dismay that the speedboat was moving in a circle ."
-    },
-    {
-     "table": {
-      "headers": [
-       "turn to / into ... 变成",
-       "change into ... 变为",
-       "become v.变成",
-       "turned v.身份的改变"
-      ],
-      "rows": [
-       [
-        "The caterpillar eventually turns to / into a beautiful butterfly."
-       ],
-       [
-        "The caterpillar eventually changes into a beautiful butterfly."
-       ],
-       [
-        "The caterpillar eventually becomes a beautiful butterfly."
-       ],
-       [
-        "The teacher turned writer.（turn 后要加零冠词） He has turned traitor. 他已叛变（他变成了叛徒）"
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "并列、复合句",
-       "接续性分句(表达效果一样，用字越少、水平越高)"
-      ],
-      "rows": [
-       [
-        "He violently beat the boy and the boy later died from his injuries.",
-        "He violently beat the boy who later died from his injuries."
-       ],
-       [
-        "We can read of things that happened 5,000 years ago in the Near East, because people first learned to write there.",
-        "We can read of things that happened 5,000 years ago in the Near East, where people first learned to write.NCE4-1"
-       ],
-       [
-        "Fortunately, the shouting woke up my wife and my wife opened the window just as the policeman had started to climb towards me.",
-        "Fortunately, the shouting woke up my wife who opened the window just as the policeman had started to climb towards me ."
-       ],
-       [
-        "Don't sit on the chair because it has a broken leg.",
-        "Don't sit on the chair which has a broken leg."
-       ],
-       [
-        "I have to be very careful not to offend the manager because he could give me the sack at any time.",
-        "I have to be very careful not to offend the manager who could give me the sack at any time."
-       ],
-       [
-        "History books never mention those people although they really helped civilization forward.",
-        "History books never mention those people who really helped civilization forward."
-       ]
-      ]
-     }
-    },
-    {
-     "table": {
-      "headers": [
-       "as / so long as ... 引导条件状语从句(只要)",
-       "provided / providing (that) ... 写作替换",
-       "on condition (that) ... 在这种条件下",
-       "only if ... 只有"
-      ],
-      "rows": [
-       [
-        "You'll be quite safe as long as you follow my instructions. 只要你听从我的指示，你就会很安全"
-       ],
-       [
-        "He can come with us, provided / providing (that) he pays for his own meals. 只要他付他自己的饭钱，他就可以和我们一起。"
-       ],
-       [
-        "I'll lend you the money on condition (that) you pay it back within three weeks."
-       ],
-       [
-        "she will go only if he goes.→Only if he goes will she go. （only 提前引起倒装）"
-       ]
-      ]
-     }
-    },
-    {
-     "text": "This can give rise to curious situations, as it did in the case of Alfred Bloggs who worked as a dustman for the Ellesmere Corporation ."
-    },
-    {
-     "text": "'I'm trying to repair the bell,' answered Bill. 'I'v been coming up here night after night for weeks now. You see, I was hoping to give you a surprise.'"
-    },
-    {
-     "text": "语言生动活泼，充满趣味性。"
-    },
-    {
-     "text": "用词准确清晰，避免模棱两可。"
-    },
-    {
-     "text": "抽象说明与具体例证相结合。"
-    }
+   "q": "People who live in Britain ______ despair when they made mistakes like this.",
+   "a": "needn't",
+   "type": "choice",
+   "options": [
+    "needn't",
+    "mustn't",
+    "don't need",
+    "need"
+   ]
+  },
+  {
+   "q": "______ there's something to identify, we will give people their money back.",
+   "a": "So long as",
+   "type": "choice",
+   "options": [
+    "So long as",
+    "As far as",
+    "As well as",
+    "As soon as possible"
+   ]
+  },
+  {
+   "q": "A recent case concerns Jane Butlin ______ fiancé, John, runs a successful furniture business.",
+   "a": "whose",
+   "type": "choice",
+   "options": [
+    "who",
+    "which",
+    "whose",
+    "that"
+   ]
+  },
+  {
+   "q": "用否定情态动词填空：People who live in Britain ______ despair when they made mistakes like this.（写出否定情态动词，连写）",
+   "a": "needn't",
+   "type": "fill_in",
+   "options": []
+  },
+  {
+   "q": "下列哪个词与课文中 chew up 的含义最接近？",
+   "a": "bite into pieces / 咬碎",
+   "type": "choice",
+   "options": [
+    "bite into pieces / 咬碎",
+    "wash clean / 洗净",
+    "burn down / 烧毁",
+    "fold up / 折叠"
    ]
   }
  ]
